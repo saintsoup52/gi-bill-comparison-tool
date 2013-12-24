@@ -1,0 +1,50 @@
+#leftNavContainer ul {
+    margin-left: -5px;
+    padding-top: 8px;
+}
+#leftNavContainer li {
+    margin: 0 !important;
+    padding-bottom: 0;
+}
+.expander {
+    color: #555555;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 9px;
+}
+input.JSMXsuggestNOT {
+    border: 1px solid #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 9px;
+    padding: 1px;
+    width: 400px;
+}
+input.JSMXsuggest {
+    border: 1px solid #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 9px;
+    padding: 1px;
+    width: 400px;
+}
+div.suggestBox {
+    position: absolute;
+}
+div.suggestBox ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+div.suggestBox ul li {
+    background-color: #F7F7F7;
+}
+div.suggestBox ul a {
+    color: blue;
+    font-size: 9px;
+    text-decoration: none;
+}
+div.suggestBox ul li.active {
+    background-color: blue;
+}
+div.suggestBox ul li.active a {
+    color: white;
+}

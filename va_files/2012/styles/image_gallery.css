@@ -1,0 +1,211 @@
+#gallery {
+    background-color:#0099cc;
+	font-family: Georgia,"Times New Roman",Times,serif;
+    overflow: hidden;
+    position: relative;
+    width: 740px;
+	top:-27px;
+	z-index: 3;
+}
+div#slides {
+    height: 275px;
+    overflow: hidden;
+    position: relative;
+    width: 738px;
+}
+.slide {
+    float: left;
+    height: 395px;
+    left: 0;
+    position: relative;
+    right: 0;
+    width: 500px;
+}
+.slide div.description {
+    background: none repeat scroll 0 0 #0183BF;
+    display: block;
+    float: right;
+    height: 215px !important;
+    left: 500px;
+    overflow: hidden;
+    padding: 30px;
+    position: absolute;
+    top: 0;
+    width: 178px;
+    z-index: 50;
+}
+.slide .description p {
+    color: #FFFFFF;
+    font-size: 1.15em;
+    line-height: 145%;
+    text-align: left !important;
+}
+#menu {
+    background-image: url("../images/slider/slider-bckgrnd-nonactive.jpg");
+    background-repeat: repeat-x;
+    height: 55px;
+}
+#gallery ul {
+    margin: 0;
+    padding: 0;
+}
+#gallery li {
+    background-image: url("../images/slider/slider-bckgrnd-nonactive.jpg");
+    background-repeat: repeat-x;
+    display: inline;
+    float: left;
+    font-size: 0.95em;
+    height: 55px;
+    list-style: none outside none;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    width: 184px;
+}
+#gallery li.inact:hover {
+    background-image: url("../images/slider/slider-bckgrnd-nonactive.jpg");
+    background-repeat: repeat-x;
+}
+#gallery li.act, li.act:hover {
+    background-image: url("../images/slider/slider-bckgrnd-active.jpg");
+    background-repeat: repeat-x;
+}
+#gallery li.act a {
+    background-image: url("../images/slider/slider-bckgrnd-notch-active.jpg");
+    color: #FFFFFF;
+    cursor: default;
+}
+#gallery .fbar {
+    background: url("../images/slider/divider.png") no-repeat scroll right center transparent;
+    width: 2px;
+}
+#gallery li a {
+    display: block;
+    height: 42px;
+    padding-top: 18px;
+    width: 184px;
+}
+#gallery a img {
+    border: medium none;
+}
+#gallery a:link {
+    font-family: Georgia,"Times New Roman",Times,serif;
+}
+#gallery h1 {
+    font-family: "Myriad Pro",Arial,Helvetica,sans-serif;
+    font-size: 1.5em;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+#gallery h2 {
+    font-family: "Myriad Pro",Arial,Helvetica,sans-serif;
+    font-size: 0.85em;
+    font-weight: normal;
+    position: absolute;
+    right: 0;
+    text-transform: uppercase;
+    top: 15px;
+}
+#main {
+    margin: 15px auto;
+    position: relative;
+    text-align: center;
+    width: 920px;
+}
+#gallery a, #gallery a:visited {
+    color: #8DE1FB;
+    outline: medium none;
+    text-decoration: none;
+}
+#gallery a:hover {
+    text-decoration: underline;
+}
+#gallery p {
+    padding: 10px;
+    text-align: center;
+}
+#gallery3tab {
+    font-family: Georgia,"Times New Roman",Times,serif;
+    margin-top: 10px;
+    overflow: hidden;
+    position: relative;
+    width: 738px;
+}
+#gallery3tab ul {
+    margin: 0;
+    padding: 0;
+}
+#gallery3tab li {
+    background-image: url("../images/slider/slider-bckgrnd-nonactive.jpg");
+    background-repeat: repeat-x;
+    display: inline;
+    font-size: 0.85em;
+    height: 55px;
+    list-style: none outside none;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    width: 184px;
+}
+#gallery3tab li.inact:hover {
+    background-image: url("../images/slider/slider-bckgrnd-nonactive.jpg");
+    background-repeat: repeat-x;
+}
+#gallery3tab li.act, li.act:hover {
+    background-image: url("../images/slider/slider-bckgrnd-active.jpg");
+    background-repeat: repeat-x;
+}
+#gallery3tab li.act a {
+    background-image: url("../images/slider/slider-bckgrnd-notch-active.jpg");
+    color: #FFFFFF;
+    cursor: default;
+}
+#gallery3tab .fbar {
+    background: url("../images/slider/divider.png") no-repeat scroll right center transparent;
+    width: 2px;
+}
+#gallery3tab li a {
+    display: block;
+    height: 42px;
+    padding-top: 13px;
+    width: 184px;
+}
+#gallery3tab a img {
+    border: medium none;
+}
+#gallery3tab a:link {
+    font-family: Georgia,"Times New Roman",Times,serif;
+}
+#gallery3tab h1 {
+    font-family: "Myriad Pro",Arial,Helvetica,sans-serif;
+    font-size: 1.5em;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+#gallery3tab h2 {
+    font-family: "Myriad Pro",Arial,Helvetica,sans-serif;
+    font-size: 0.95em;
+    font-weight: normal;
+    position: absolute;
+    right: 0;
+    text-transform: uppercase;
+    top: 15px;
+}
+#gallery3tab a, #gallery a:visited {
+    color: #8DE1FB;
+    outline: medium none;
+    text-decoration: none;
+}
+#gallery3tab a:hover {
+    text-decoration: underline;
+}
+#gallery3tab p {
+    padding: 10px;
+    text-align: center;
+}
+#slider-controls {
+    left: 4px;
+    position: absolute;
+    top: 251px;
+    z-index: 200;
+}

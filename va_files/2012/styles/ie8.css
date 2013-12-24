@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+li#nav-blog:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -35px -35px transparent; width:130px; height:55px; float:left; }
+
+li#nav-media-center:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -65px -34px transparent; width:130px; height:55px; float:left; }
+
+li#nav-briefing-room:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -200px -34px transparent; width:130px; height:55px; float:left;}
+
+li#nav-issues:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -250px -34px transparent; width:130px; height:55px; float:left;}
+
+li#nav-the-admin:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -497px -34px transparent; width:130px; height:55px; float:left;}
+
+li#nav-the-wh:hover a.first-level { background: url("../images/homesprite.png") no-repeat scroll -656px -34px transparent; width:130px; height:55px; float:left;}
+
+li#nav-the-gov:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -756px -34px transparent; width:130px; height:55px; float:left;}
+
+#topnav li.first-level span.text, a:link a:visited { color: #0083be; text-decoration: none; width:130px; height:55px; float:left;;}
+
+#topnav li.first-level span.highlight, a:link a:visited {font-weight:bold; color: #003f72; text-decoration: none; width:130px; height:55px; float:left;}
+
+/*Controls the left to right placement of the dropdown menus */
+
+ul#topnav li div.topnav-dd-outer-three-col { width: 616px; margin-top:52px;}
+
+ul#topnav li div.topnav-dd-outer-two-col{margin-top:52px;}
+
+ul#topnav li#nav-media-center div.topnav-dd-outer-two-col {margin-left:-9px;}
+
+ul#topnav li#nav-blog div.topnav-dd-outer-three-col {margin-left:-10px;}
+
+ul#topnav li#nav-briefing-room div.topnav-dd-outer-three-col {margin-left:-9px;}
+
+ul#topnav li#nav-the-admin div.topnav-dd-outer-three-col {margin-left:-198px;}
+
+ul#topnav li div.topnav-dd-outer-two-col{margin-top:52px; width:192px; float:left;}
+
+ul#topnav li#nav-the-wh div.topnav-dd-outer-two-col{margin-left:-10px;}
+
+ul#topnav li#nav-the-gov div.topnav-dd-outer-two-col{margin-left:-68px;}
+
+ul li#nav-the-admin div.topnav-dd-outer-three-col { margin-left: 200px;}
+
+#widget-email #email { color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; margin-right: 1px; margin-top: 4px; padding-left: 0.2em; padding-top:5px; vertical-align: top; width: 90px; height:18px;}
+
+#breadCrumbPath { color: #666666; font-family: Arial,Helvetica,sans-serif; font-size: 0.9em; font-weight: normal; margin-bottom: 15px; margin-top: 5px;}
+
+.styled-select select { background: transparent; width: 212px; padding: 6px; color: #848484; font-family: Arial,Helvetica,sans-serif;  font-size: 1em; line-height:1.9em; font-weight: 400; border: 1px solid #ccc; height: 34px;}
+
+.styled-select { width: 185px; height: 34px; overflow: hidden; background: url(../images/select-arrow.png) no-repeat right #f2f2f2;}
+
+.prselect{background: url("../images/pr-select-arrow.png") no-repeat scroll right center #F2F2F2;width: 185px; padding: 1px; color: #848484; font-family: Arial,Helvetica,sans-serif; font-size: 1em; line-height:1.5em; font-weight: 400; border:none; height: 22px;}
+
+.prselect select { width: 212px; height: 22px; overflow: hidden; background: none;}
+
+
+
+#footer-email-Button #vamc_govDeliverySubmit1 { color: #555555; float: right; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; font-weight: bold; margin-left: 3px; width: 66px; margin-top:-0px;}
+
+#footer-email #email_footer { color: #000000; float: left; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; height: 18px; margin-right: 1px; margin-top: 3px;padding-left: 0.2em; padding-top:3px; vertical-align: middle; width: 85px;}
+
+#main-secondary-nav {
+    color: #006699;
+    float: right;
+    height: 15px;
+    margin: 5px 0px 13px 20px;
+    width: 341px;
+}
+
+#main-search {
+    float: right;
+    height: 33px;
+    margin: 0 -4px 0 20px;
+    width: 400px;
+}
+
+#widget-email #email {
+    font-size: 10px;
+    height: 18px;
+    margin-right: 1px;
+    margin-top: 4px;
+    padding-left: 0.2em;
+    width: 88px;
+	float:left;
+	line-height: 10px;
+}

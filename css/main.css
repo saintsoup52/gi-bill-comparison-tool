@@ -1,0 +1,57 @@
+
+.comparison {}
+
+.comparison h1 {
+  font-size: 25px;
+  margin-bottom: 1em;
+}
+
+.comparison p {
+  color: #444;
+  font-size: 14px;
+}
+
+.comparison .heading {
+  margin: 1.5em 0;
+  padding: 5px;
+  font-size: 15px;
+  background: #0082c1;
+  color: #fff;
+}
+
+.comparison input[type="text"] {
+  font-size: 15px;
+}
+
+.comparison input[type="radio"] {}
+
+.comparison label.radio {
+  font-size: 16px;
+  margin-left: .5em;
+  margin-right: 1.5em;
+  color: #444;
+}
+
+.comparison table {
+  font-size: 16px;
+}
+
+.comparison p.large {
+  font-size: 16px;
+}
+
+.comparison span.space {
+  padding-right: 1em;
+}
+
+.comparison svg {
+  margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
