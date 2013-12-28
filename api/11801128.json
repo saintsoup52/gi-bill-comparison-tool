@@ -1,0 +1,18 @@
+{
+  "facility_code": "11801128",
+  "institution": "UNIVERSITY OF NEVADA LAS VEGAS",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "USA",
+  "bah": 1188,
+  "poe": true,
+  "yr": true,
+  "gibill": 1066,
+  "cross": 182281,
+  "grad_rate": 39.5,
+  "grad_rate_rank": 1250,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 14459,
+  "avg_stu_loan_debt_rank": 670,
+  "indicator_group": 1
+}

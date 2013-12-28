@@ -1,0 +1,18 @@
+{
+  "facility_code": "31927614",
+  "institution": "FRANKLIN UNIVERSITY OF OHIO",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1245,
+  "poe": true,
+  "yr": true,
+  "gibill": 5,
+  "cross": 202806,
+  "grad_rate": 19.0,
+  "grad_rate_rank": 1683,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 15350,
+  "avg_stu_loan_debt_rank": 767,
+  "indicator_group": 1
+}

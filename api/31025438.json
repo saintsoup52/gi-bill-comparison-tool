@@ -1,0 +1,18 @@
+{
+  "facility_code": "31025438",
+  "institution": "CARNEGIE MELLON UNIVERSITY",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1431,
+  "poe": true,
+  "yr": true,
+  "gibill": 81,
+  "cross": 211440,
+  "grad_rate": 87.0,
+  "grad_rate_rank": 79,
+  "default_rate": 1.2,
+  "avg_stu_loan_debt": 22115,
+  "avg_stu_loan_debt_rank": 1652,
+  "indicator_group": 1
+}

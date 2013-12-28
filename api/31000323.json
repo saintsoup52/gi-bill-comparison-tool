@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000323",
+  "institution": "COLLEGE OF ST BENEDICT",
+  "city": "St Joseph",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1053,
+  "poe": true,
+  "yr": true,
+  "gibill": 12,
+  "cross": 174747,
+  "grad_rate": 81.1,
+  "grad_rate_rank": 141,
+  "default_rate": 0.5,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1629,
+  "indicator_group": 1
+}

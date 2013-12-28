@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002121",
+  "institution": "REGIS COLLEGE",
+  "city": "Weston",
+  "state": "MA",
+  "country": "USA",
+  "bah": 2454,
+  "poe": true,
+  "yr": true,
+  "gibill": 10,
+  "cross": 167598,
+  "grad_rate": 63.4,
+  "grad_rate_rank": 465,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1922,
+  "indicator_group": 1
+}

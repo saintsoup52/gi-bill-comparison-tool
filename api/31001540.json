@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001540",
+  "institution": "WOFFORD COLLEGE",
+  "city": "Spartanburg",
+  "state": "SC",
+  "country": "USA",
+  "bah": 1188,
+  "poe": true,
+  "yr": true,
+  "gibill": 15,
+  "cross": 218973,
+  "grad_rate": 79.1,
+  "grad_rate_rank": 168,
+  "default_rate": 0.6,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1629,
+  "indicator_group": 1
+}

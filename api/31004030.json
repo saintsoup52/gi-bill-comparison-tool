@@ -1,0 +1,18 @@
+{
+  "facility_code": "31004030",
+  "institution": "STEVENS INSTITUTE OF TECHNOLOGY",
+  "city": "Hoboken",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": true,
+  "gibill": 44,
+  "cross": 186867,
+  "grad_rate": 79.0,
+  "grad_rate_rank": 170,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 21750,
+  "avg_stu_loan_debt_rank": 1614,
+  "indicator_group": 1
+}

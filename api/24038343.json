@@ -1,0 +1,18 @@
+{
+  "facility_code": "24038343",
+  "institution": "CONCORDE CAREER COLLEGE SAN ANTONIO",
+  "city": "San Antonio",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1398,
+  "poe": true,
+  "yr": true,
+  "gibill": 33,
+  "cross": 460206,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 20.7,
+  "avg_stu_loan_debt": 9493,
+  "avg_stu_loan_debt_rank": 455,
+  "indicator_group": 3
+}

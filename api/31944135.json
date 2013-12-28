@@ -1,0 +1,18 @@
+{
+  "facility_code": "31944135",
+  "institution": "UNIVERSITY OF FINDLAY",
+  "city": "Findlay",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1119,
+  "poe": true,
+  "yr": true,
+  "gibill": 60,
+  "cross": 202763,
+  "grad_rate": 55.1,
+  "grad_rate_rank": 706,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 17521,
+  "avg_stu_loan_debt_rank": 1033,
+  "indicator_group": 1
+}

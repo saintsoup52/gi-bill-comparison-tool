@@ -1,0 +1,18 @@
+{
+  "facility_code": "11916111",
+  "institution": "CLAYTON STATE UNIVERSITY",
+  "city": "Morrow",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": true,
+  "gibill": 510,
+  "cross": 139311,
+  "grad_rate": 27.1,
+  "grad_rate_rank": 1551,
+  "default_rate": 11.9,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 1081,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11964125",
+  "institution": "UNIVERSITY OF MISSOURI - ST LOUIS",
+  "city": "St Louis",
+  "state": "MO",
+  "country": "USA",
+  "bah": 1332,
+  "poe": true,
+  "yr": true,
+  "gibill": 389,
+  "cross": 178420,
+  "grad_rate": 50.5,
+  "grad_rate_rank": 862,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 20034,
+  "avg_stu_loan_debt_rank": 1434,
+  "indicator_group": 1
+}

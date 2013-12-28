@@ -1,0 +1,18 @@
+{
+  "facility_code": "21805346",
+  "institution": "UNIVERSITY OF PHOENIX-RICHMOND",
+  "city": "Richmond",
+  "state": "VA",
+  "country": "USA",
+  "bah": 1299,
+  "poe": true,
+  "yr": true,
+  "gibill": 90,
+  "cross": 446756,
+  "grad_rate": 3.4,
+  "grad_rate_rank": 1830,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

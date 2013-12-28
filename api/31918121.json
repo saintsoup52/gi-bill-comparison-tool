@@ -1,0 +1,18 @@
+{
+  "facility_code": "31918121",
+  "institution": "ELMS COLLEGE",
+  "city": "Chicopee",
+  "state": "MA",
+  "country": "USA",
+  "bah": 1620,
+  "poe": true,
+  "yr": true,
+  "gibill": 30,
+  "cross": 167394,
+  "grad_rate": 58.3,
+  "grad_rate_rank": 609,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1710,
+  "indicator_group": 1
+}

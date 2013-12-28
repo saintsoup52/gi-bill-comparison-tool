@@ -1,0 +1,18 @@
+{
+  "facility_code": "249E1410",
+  "institution": "WYOTECH",
+  "city": "Ormond Beach",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1254,
+  "poe": true,
+  "yr": true,
+  "gibill": 458,
+  "cross": 132268,
+  "grad_rate": 75.1,
+  "grad_rate_rank": 908,
+  "default_rate": 32.8,
+  "avg_stu_loan_debt": 11600,
+  "avg_stu_loan_debt_rank": 2274,
+  "indicator_group": 5
+}

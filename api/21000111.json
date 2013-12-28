@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000111",
+  "institution": "ITT TECHNICAL INSTITUTE - (KENNESAW)",
+  "city": "Kennesaw",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": true,
+  "gibill": 130,
+  "cross": 446905,
+  "grad_rate": 23.0,
+  "grad_rate_rank": 760,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1193,
+  "indicator_group": 2
+}

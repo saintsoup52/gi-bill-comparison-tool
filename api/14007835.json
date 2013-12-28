@@ -1,0 +1,18 @@
+{
+  "facility_code": "14007835",
+  "institution": "SINCLAIR COMMUNITY COLLEGE",
+  "city": "Dayton",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1044,
+  "poe": true,
+  "yr": null,
+  "gibill": 1017,
+  "cross": 205470,
+  "grad_rate": 10.5,
+  "grad_rate_rank": 513,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 200,
+  "indicator_group": 3
+}

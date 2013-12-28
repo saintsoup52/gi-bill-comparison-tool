@@ -1,0 +1,18 @@
+{
+  "facility_code": "14000301",
+  "institution": "SNEAD STATE C.C.",
+  "city": "Boaz",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1098,
+  "poe": true,
+  "yr": null,
+  "gibill": 92,
+  "cross": 102076,
+  "grad_rate": 30.2,
+  "grad_rate_rank": 524,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21111405",
+  "institution": "CARRINGTON COLLEGE CALIFORNIA (STOCKTON)",
+  "city": "Stockton",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1050,
+  "poe": true,
+  "yr": true,
+  "gibill": 16,
+  "cross": 450696,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 710,
+  "indicator_group": 3
+}

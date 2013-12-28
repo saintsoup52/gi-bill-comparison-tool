@@ -1,0 +1,18 @@
+{
+  "facility_code": "31958113",
+  "institution": "KENDALL COLLEGE",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 60,
+  "cross": 146393,
+  "grad_rate": 34.1,
+  "grad_rate_rank": 1388,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 14792,
+  "avg_stu_loan_debt_rank": 703,
+  "indicator_group": 1
+}

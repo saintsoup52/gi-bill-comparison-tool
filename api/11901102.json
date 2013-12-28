@@ -1,0 +1,18 @@
+{
+  "facility_code": "11901102",
+  "institution": "UNIVERSITY OF ALASKA - FAIRBANKS",
+  "city": "Fairbanks",
+  "state": "AK",
+  "country": "USA",
+  "bah": 2025,
+  "poe": true,
+  "yr": null,
+  "gibill": 799,
+  "cross": 102614,
+  "grad_rate": 30.8,
+  "grad_rate_rank": 1475,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 298,
+  "indicator_group": 1
+}

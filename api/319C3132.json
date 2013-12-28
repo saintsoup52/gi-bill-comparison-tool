@@ -1,0 +1,18 @@
+{
+  "facility_code": "319C3132",
+  "institution": "MOUNT SAINT MARY COLLEGE",
+  "city": "Newburgh",
+  "state": "NY",
+  "country": "USA",
+  "bah": 2295,
+  "poe": true,
+  "yr": true,
+  "gibill": 99,
+  "cross": 193353,
+  "grad_rate": 55.3,
+  "grad_rate_rank": 699,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1852,
+  "indicator_group": 1
+}

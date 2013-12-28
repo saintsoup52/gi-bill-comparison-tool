@@ -1,0 +1,18 @@
+{
+  "facility_code": "11801029",
+  "institution": "UNIVERSITY OF NEW HAMPSHIRE - DURHAM",
+  "city": "Durham",
+  "state": "NH",
+  "country": "USA",
+  "bah": 1413,
+  "poe": true,
+  "yr": true,
+  "gibill": 414,
+  "cross": 183044,
+  "grad_rate": 76.5,
+  "grad_rate_rank": 207,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 23060,
+  "avg_stu_loan_debt_rank": 1795,
+  "indicator_group": 1
+}

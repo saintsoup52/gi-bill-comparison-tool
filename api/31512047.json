@@ -1,0 +1,18 @@
+{
+  "facility_code": "31512047",
+  "institution": "WHITWORTH UNIVERSITY",
+  "city": "Spokane",
+  "state": "WA",
+  "country": "USA",
+  "bah": 1077,
+  "poe": true,
+  "yr": true,
+  "gibill": 104,
+  "cross": 237066,
+  "grad_rate": 80.3,
+  "grad_rate_rank": 151,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 21250,
+  "avg_stu_loan_debt_rank": 1565,
+  "indicator_group": 1
+}

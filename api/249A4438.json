@@ -1,0 +1,18 @@
+{
+  "facility_code": "249A4438",
+  "institution": "SANFORD BROWN INSTITUTE",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1431,
+  "poe": true,
+  "yr": true,
+  "gibill": 20,
+  "cross": 216782,
+  "grad_rate": 44.0,
+  "grad_rate_rank": 277,
+  "default_rate": 24.4,
+  "avg_stu_loan_debt": 15687,
+  "avg_stu_loan_debt_rank": 1148,
+  "indicator_group": 2
+}

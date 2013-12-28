@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000363",
+  "institution": "UNIVERSIDAD DE PUERTO RICO-MAYAGUEZ (UNIVERSITY OF PUERTO RICO MAYAGUEZ)",
+  "city": "Mayaguez",
+  "state": "PR",
+  "country": "USA",
+  "bah": 1368,
+  "poe": true,
+  "yr": null,
+  "gibill": 230,
+  "cross": 243197,
+  "grad_rate": 41.6,
+  "grad_rate_rank": 1173,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 164,
+  "indicator_group": 1
+}

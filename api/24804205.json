@@ -1,0 +1,18 @@
+{
+  "facility_code": "24804205",
+  "institution": "WYOTECH (FREMONT)",
+  "city": "Fremont",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2409,
+  "poe": true,
+  "yr": true,
+  "gibill": 231,
+  "cross": 123208,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 31.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

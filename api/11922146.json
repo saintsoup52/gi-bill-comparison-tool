@@ -1,0 +1,18 @@
+{
+  "facility_code": "11922146",
+  "institution": "GEORGE MASON UNIVERSITY",
+  "city": "Fairfax",
+  "state": "VA",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": true,
+  "gibill": 1701,
+  "cross": 232186,
+  "grad_rate": 64.5,
+  "grad_rate_rank": 446,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 16782,
+  "avg_stu_loan_debt_rank": 920,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "24800046",
+  "institution": "CENTURA COLLEGE",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "country": "USA",
+  "bah": 1518,
+  "poe": true,
+  "yr": true,
+  "gibill": 94,
+  "cross": 232016,
+  "grad_rate": 55.3,
+  "grad_rate_rank": 171,
+  "default_rate": 35.0,
+  "avg_stu_loan_debt": 10312,
+  "avg_stu_loan_debt_rank": 871,
+  "indicator_group": 2
+}

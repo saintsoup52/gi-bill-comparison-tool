@@ -1,0 +1,18 @@
+{
+  "facility_code": "14909001",
+  "institution": "CHATTAHOOCHEE VALLEY C.C.",
+  "city": "Phenix City",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1305,
+  "poe": true,
+  "yr": null,
+  "gibill": 268,
+  "cross": 101028,
+  "grad_rate": 16.1,
+  "grad_rate_rank": 991,
+  "default_rate": 28.5,
+  "avg_stu_loan_debt": 4250,
+  "avg_stu_loan_debt_rank": 196,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "24036243",
+  "institution": "KAPLAN COLLEGE BROWNSVILLE",
+  "city": "Brownsville",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1365,
+  "poe": true,
+  "yr": true,
+  "gibill": 45,
+  "cross": 443827,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 8859,
+  "avg_stu_loan_debt_rank": 394,
+  "indicator_group": 3
+}

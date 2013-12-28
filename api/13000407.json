@@ -1,0 +1,18 @@
+{
+  "facility_code": "13000407",
+  "institution": "CENTRAL CONNECTICUT STATE UNIVERSITY",
+  "city": "New Britain",
+  "state": "CT",
+  "country": "USA",
+  "bah": 1878,
+  "poe": true,
+  "yr": true,
+  "gibill": 419,
+  "cross": 128771,
+  "grad_rate": 47.3,
+  "grad_rate_rank": 979,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 15750,
+  "avg_stu_loan_debt_rank": 810,
+  "indicator_group": 1
+}

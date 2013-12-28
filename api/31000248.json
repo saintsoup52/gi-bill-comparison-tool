@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000248",
+  "institution": "BETHANY COLLEGE",
+  "city": "Bethany",
+  "state": "WV",
+  "country": "USA",
+  "bah": 1005,
+  "poe": true,
+  "yr": true,
+  "gibill": 8,
+  "cross": 237181,
+  "grad_rate": 48.0,
+  "grad_rate_rank": 961,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 17000,
+  "avg_stu_loan_debt_rank": 950,
+  "indicator_group": 1
+}

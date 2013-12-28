@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000749",
+  "institution": "LAKELAND COLLEGE",
+  "city": "Sheboygan",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1185,
+  "poe": true,
+  "yr": true,
+  "gibill": 97,
+  "cross": 238980,
+  "grad_rate": 42.4,
+  "grad_rate_rank": 1144,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 20369,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1
+}

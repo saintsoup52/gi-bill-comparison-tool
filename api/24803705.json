@@ -1,0 +1,18 @@
+{
+  "facility_code": "24803705",
+  "institution": "SAN JOAQUIN VALLEY COLLEGE (MODESTO)",
+  "city": "Salida",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1050,
+  "poe": true,
+  "yr": true,
+  "gibill": 20,
+  "cross": 447351,
+  "grad_rate": 65.2,
+  "grad_rate_rank": 97,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 16565,
+  "avg_stu_loan_debt_rank": 1309,
+  "indicator_group": 2
+}

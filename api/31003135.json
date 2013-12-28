@@ -1,0 +1,18 @@
+{
+  "facility_code": "31003135",
+  "institution": "OTTERBEIN UNIVERSITY",
+  "city": "Westerville",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1194,
+  "poe": true,
+  "yr": true,
+  "gibill": 63,
+  "cross": 204936,
+  "grad_rate": 61.7,
+  "grad_rate_rank": 519,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 22125,
+  "avg_stu_loan_debt_rank": 1654,
+  "indicator_group": 1
+}

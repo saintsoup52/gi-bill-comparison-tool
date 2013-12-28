@@ -1,0 +1,18 @@
+{
+  "facility_code": "31801005",
+  "institution": "UNIVERSITY OF LA VERNE-LA VERNE",
+  "city": "La Verne",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 159,
+  "cross": 117140,
+  "grad_rate": 57.9,
+  "grad_rate_rank": 620,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1741,
+  "indicator_group": 1
+}

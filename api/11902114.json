@@ -1,0 +1,18 @@
+{
+  "facility_code": "11902114",
+  "institution": "INDIANA UNIVERSITY AT SOUTH BEND",
+  "city": "South Bend",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1116,
+  "poe": true,
+  "yr": true,
+  "gibill": 245,
+  "cross": 151342,
+  "grad_rate": 22.2,
+  "grad_rate_rank": 1636,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 11577,
+  "avg_stu_loan_debt_rank": 337,
+  "indicator_group": 1
+}

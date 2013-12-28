@@ -1,0 +1,18 @@
+{
+  "facility_code": "31383532",
+  "institution": "COLLEGE OF NEW ROCHELLE",
+  "city": "New Rochelle",
+  "state": "NY",
+  "country": "USA",
+  "bah": 2490,
+  "poe": true,
+  "yr": true,
+  "gibill": 50,
+  "cross": 193645,
+  "grad_rate": 28.7,
+  "grad_rate_rank": 1526,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 15581,
+  "avg_stu_loan_debt_rank": 796,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "13000245",
+  "institution": "JOHNSON STATE COLLEGE",
+  "city": "Johnson",
+  "state": "VT",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": null,
+  "gibill": 64,
+  "cross": 230913,
+  "grad_rate": 30.5,
+  "grad_rate_rank": 1488,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 18869,
+  "avg_stu_loan_debt_rank": 1214,
+  "indicator_group": 1
+}

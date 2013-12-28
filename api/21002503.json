@@ -1,0 +1,18 @@
+{
+  "facility_code": "21002503",
+  "institution": "ARGOSY UNIVERSITY",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": true,
+  "gibill": 566,
+  "cross": 436094,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 9220,
+  "avg_stu_loan_debt_rank": 197,
+  "indicator_group": 1
+}

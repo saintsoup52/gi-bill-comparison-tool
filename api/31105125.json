@@ -1,0 +1,18 @@
+{
+  "facility_code": "31105125",
+  "institution": "LOGAN COLLEGE OF CHIROPRACTIC/UNIVERSITY",
+  "city": "Chesterfield",
+  "state": "MO",
+  "country": "USA",
+  "bah": 1332,
+  "poe": true,
+  "yr": true,
+  "gibill": 21,
+  "cross": 177986,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 1.1,
+  "avg_stu_loan_debt": 7481,
+  "avg_stu_loan_debt_rank": 163,
+  "indicator_group": 1
+}

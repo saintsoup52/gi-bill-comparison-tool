@@ -1,0 +1,18 @@
+{
+  "facility_code": "31003438",
+  "institution": "ST FRANCIS UNIVERSITY",
+  "city": "Loretto",
+  "state": "PA",
+  "country": "USA",
+  "bah": 900,
+  "poe": true,
+  "yr": true,
+  "gibill": 50,
+  "cross": 215743,
+  "grad_rate": 64.0,
+  "grad_rate_rank": 453,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1922,
+  "indicator_group": 1
+}

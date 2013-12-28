@@ -1,0 +1,18 @@
+{
+  "facility_code": "31512635",
+  "institution": "OHIO NORTHERN UNIVERSITY",
+  "city": "Ada",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1023,
+  "poe": true,
+  "yr": true,
+  "gibill": 39,
+  "cross": 204635,
+  "grad_rate": 65.3,
+  "grad_rate_rank": 425,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 24188,
+  "avg_stu_loan_debt_rank": 1877,
+  "indicator_group": 1
+}

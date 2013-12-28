@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001401",
+  "institution": "UNIVERSITY OF MOBILE",
+  "city": "Mobile",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1059,
+  "poe": true,
+  "yr": true,
+  "gibill": 72,
+  "cross": 101693,
+  "grad_rate": 43.0,
+  "grad_rate_rank": 1123,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1
+}

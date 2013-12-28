@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001535",
+  "institution": "HIRAM COLLEGE",
+  "city": "Hiram",
+  "state": "OH",
+  "country": "USA",
+  "bah": 987,
+  "poe": true,
+  "yr": true,
+  "gibill": 23,
+  "cross": 203128,
+  "grad_rate": 66.3,
+  "grad_rate_rank": 401,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 23989,
+  "avg_stu_loan_debt_rank": 1850,
+  "indicator_group": 1
+}

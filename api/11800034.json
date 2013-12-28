@@ -1,0 +1,18 @@
+{
+  "facility_code": "11800034",
+  "institution": "NORTH DAKOTA STATE UNIVERSITY",
+  "city": "Fargo",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1128,
+  "poe": true,
+  "yr": true,
+  "gibill": 542,
+  "cross": 200332,
+  "grad_rate": 53.7,
+  "grad_rate_rank": 755,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 15900,
+  "avg_stu_loan_debt_rank": 830,
+  "indicator_group": 1
+}

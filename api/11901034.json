@@ -1,0 +1,18 @@
+{
+  "facility_code": "11901034",
+  "institution": "MINOT STATE UNIVERSITY",
+  "city": "Minot",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1701,
+  "poe": true,
+  "yr": null,
+  "gibill": 255,
+  "cross": 200253,
+  "grad_rate": 33.6,
+  "grad_rate_rank": 1399,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 13919,
+  "avg_stu_loan_debt_rank": 625,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21201420",
+  "institution": "DEVRY UNIVERSITY - BETHESDA",
+  "city": "Bethesda",
+  "state": "MD",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": true,
+  "gibill": 87,
+  "cross": 439330,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 24.1,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1341,
+  "indicator_group": 1
+}

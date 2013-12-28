@@ -1,0 +1,18 @@
+{
+  "facility_code": "14964443",
+  "institution": "HILL COLLEGE",
+  "city": "Hillsboro",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1104,
+  "poe": true,
+  "yr": null,
+  "gibill": 164,
+  "cross": 225371,
+  "grad_rate": 12.3,
+  "grad_rate_rank": 500,
+  "default_rate": 28.4,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 255,
+  "indicator_group": 3
+}

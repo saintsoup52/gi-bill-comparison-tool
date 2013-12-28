@@ -1,0 +1,18 @@
+{
+  "facility_code": "24941442",
+  "institution": "CONCORDE CAREER COLLEGE - MEMPHIS",
+  "city": "Memphis",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1320,
+  "poe": true,
+  "yr": true,
+  "gibill": 62,
+  "cross": 219903,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 27.6,
+  "avg_stu_loan_debt": 8075,
+  "avg_stu_loan_debt_rank": 346,
+  "indicator_group": 3
+}

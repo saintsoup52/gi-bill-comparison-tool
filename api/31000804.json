@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000804",
+  "institution": "OUACHITA BAPTIST UNIVERSITY",
+  "city": "Arkadelphia",
+  "state": "AR",
+  "country": "USA",
+  "bah": 1005,
+  "poe": true,
+  "yr": true,
+  "gibill": 29,
+  "cross": 107512,
+  "grad_rate": 62.7,
+  "grad_rate_rank": 496,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 724,
+  "indicator_group": 1
+}

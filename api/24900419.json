@@ -1,0 +1,18 @@
+{
+  "facility_code": "24900419",
+  "institution": "BEAL COLLEGE",
+  "city": "Bangor",
+  "state": "ME",
+  "country": "USA",
+  "bah": 1203,
+  "poe": true,
+  "yr": null,
+  "gibill": 52,
+  "cross": 160995,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 9153,
+  "avg_stu_loan_debt_rank": 733,
+  "indicator_group": 2
+}

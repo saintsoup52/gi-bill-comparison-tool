@@ -1,0 +1,18 @@
+{
+  "facility_code": "21811206",
+  "institution": "NATIONAL AMERICAN UNIVERSITY - DENVER",
+  "city": "Denver",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1635,
+  "poe": true,
+  "yr": true,
+  "gibill": 53,
+  "cross": 127699,
+  "grad_rate": 25.0,
+  "grad_rate_rank": 682,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 11421,
+  "avg_stu_loan_debt_rank": 944,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31005621",
+  "institution": "ANDOVER NEWTON THEOLOGICAL SCHOOL",
+  "city": "Newton Centre",
+  "state": "MA",
+  "country": "USA",
+  "bah": 2454,
+  "poe": true,
+  "yr": true,
+  "gibill": 5,
+  "cross": 164474,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 4
+}

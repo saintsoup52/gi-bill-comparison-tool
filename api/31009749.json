@@ -1,0 +1,18 @@
+{
+  "facility_code": "31009749",
+  "institution": "EDGEWOOD COLLEGE",
+  "city": "Madison",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1410,
+  "poe": true,
+  "yr": true,
+  "gibill": 98,
+  "cross": 238661,
+  "grad_rate": 50.9,
+  "grad_rate_rank": 849,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1741,
+  "indicator_group": 1
+}

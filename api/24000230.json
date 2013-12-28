@@ -1,0 +1,18 @@
+{
+  "facility_code": "24000230",
+  "institution": "SANFORD BROWN INSTITUTE - ISELIN",
+  "city": "Iselin",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 1989,
+  "poe": true,
+  "yr": null,
+  "gibill": 18,
+  "cross": 187161,
+  "grad_rate": 66.9,
+  "grad_rate_rank": 1292,
+  "default_rate": 27.5,
+  "avg_stu_loan_debt": 11125,
+  "avg_stu_loan_debt_rank": 2241,
+  "indicator_group": 5
+}

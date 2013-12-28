@@ -1,0 +1,18 @@
+{
+  "facility_code": "11015043",
+  "institution": "UNIVERSITY OF HOUSTON",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1623,
+  "poe": true,
+  "yr": null,
+  "gibill": 1404,
+  "cross": 225511,
+  "grad_rate": 46.1,
+  "grad_rate_rank": 1022,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 13479,
+  "avg_stu_loan_debt_rank": 586,
+  "indicator_group": 1
+}

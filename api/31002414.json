@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002414",
+  "institution": "WABASH COLLEGE",
+  "city": "Crawfordsville",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1056,
+  "poe": true,
+  "yr": true,
+  "gibill": null,
+  "cross": 152673,
+  "grad_rate": 74.7,
+  "grad_rate_rank": 231,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 19462,
+  "avg_stu_loan_debt_rank": 1301,
+  "indicator_group": 1
+}

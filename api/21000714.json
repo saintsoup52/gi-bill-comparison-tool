@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000714",
+  "institution": "ITT TECHNICAL INSTITUTE SOUTH BEND",
+  "city": "South Bend",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1116,
+  "poe": true,
+  "yr": true,
+  "gibill": 56,
+  "cross": 450270,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1193,
+  "indicator_group": 2
+}

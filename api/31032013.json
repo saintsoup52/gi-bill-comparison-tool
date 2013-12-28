@@ -1,0 +1,18 @@
+{
+  "facility_code": "31032013",
+  "institution": "COLUMBIA COLLEGE",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 223,
+  "cross": 144281,
+  "grad_rate": 41.0,
+  "grad_rate_rank": 1195,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 26250,
+  "avg_stu_loan_debt_rank": 2007,
+  "indicator_group": 1
+}

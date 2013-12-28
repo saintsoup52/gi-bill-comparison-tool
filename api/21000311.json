@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000311",
+  "institution": "ART INSTITUTE OF ATLANTA",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": true,
+  "gibill": 590,
+  "cross": 138813,
+  "grad_rate": 39.9,
+  "grad_rate_rank": 1237,
+  "default_rate": 26.5,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1
+}

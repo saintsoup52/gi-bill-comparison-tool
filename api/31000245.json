@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000245",
+  "institution": "MIDDLEBURY COLLEGE",
+  "city": "Middlebury",
+  "state": "VT",
+  "country": "USA",
+  "bah": 1428,
+  "poe": true,
+  "yr": true,
+  "gibill": 19,
+  "cross": 230959,
+  "grad_rate": 90.4,
+  "grad_rate_rank": 60,
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1578,
+  "indicator_group": 1
+}

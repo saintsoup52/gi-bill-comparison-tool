@@ -1,0 +1,18 @@
+{
+  "facility_code": "11901108",
+  "institution": "UNIVERSITY OF DELAWARE",
+  "city": "Newark",
+  "state": "DE",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": true,
+  "gibill": 239,
+  "cross": 130943,
+  "grad_rate": 78.4,
+  "grad_rate_rank": 178,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1578,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000823",
+  "institution": "BETHEL UNIVERSITY",
+  "city": "St Paul",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1449,
+  "poe": true,
+  "yr": true,
+  "gibill": 76,
+  "cross": 173160,
+  "grad_rate": 73.3,
+  "grad_rate_rank": 251,
+  "default_rate": 1.5,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 1
+}

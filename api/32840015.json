@@ -1,0 +1,18 @@
+{
+  "facility_code": "32840015",
+  "institution": "ST LUKE'S COLLEGE",
+  "city": "Sioux City",
+  "state": "IA",
+  "country": "USA",
+  "bah": 951,
+  "poe": null,
+  "yr": true,
+  "gibill": 11,
+  "cross": 154262,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 1.1,
+  "avg_stu_loan_debt": 16000,
+  "avg_stu_loan_debt_rank": 1176,
+  "indicator_group": 2
+}

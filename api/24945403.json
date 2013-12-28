@@ -1,0 +1,18 @@
+{
+  "facility_code": "24945403",
+  "institution": "PIMA MEDICAL INSTITUTE - EAST VALLEY",
+  "city": "Mesa",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": null,
+  "gibill": 28,
+  "cross": 456038,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

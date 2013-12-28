@@ -1,0 +1,18 @@
+{
+  "facility_code": "24010611",
+  "institution": "MILLER-MOTTE TECHNICAL COLLEGE (COLUMBUS)",
+  "city": "Columbus",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1305,
+  "poe": true,
+  "yr": true,
+  "gibill": 104,
+  "cross": 458441,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 25.2,
+  "avg_stu_loan_debt": 12185,
+  "avg_stu_loan_debt_rank": 722,
+  "indicator_group": 3
+}

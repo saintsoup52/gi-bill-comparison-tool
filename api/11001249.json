@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001249",
+  "institution": "UNIV OF WISC-PARKSIDE",
+  "city": "Kenosha",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1482,
+  "poe": true,
+  "yr": true,
+  "gibill": 206,
+  "cross": 240374,
+  "grad_rate": 27.7,
+  "grad_rate_rank": 1540,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 14222,
+  "avg_stu_loan_debt_rank": 653,
+  "indicator_group": 1
+}

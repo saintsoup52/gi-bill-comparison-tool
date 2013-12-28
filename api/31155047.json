@@ -1,0 +1,18 @@
+{
+  "facility_code": "31155047",
+  "institution": "HERITAGE UNIVERSITY",
+  "city": "Toppenish",
+  "state": "WA",
+  "country": "USA",
+  "bah": 1200,
+  "poe": true,
+  "yr": true,
+  "gibill": 29,
+  "cross": 235422,
+  "grad_rate": 12.3,
+  "grad_rate_rank": 1762,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 15625,
+  "avg_stu_loan_debt_rank": 800,
+  "indicator_group": 1
+}

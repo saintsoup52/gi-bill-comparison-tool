@@ -1,0 +1,18 @@
+{
+  "facility_code": "31954110",
+  "institution": "UNIVERSITY OF TAMPA",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1662,
+  "poe": true,
+  "yr": true,
+  "gibill": 334,
+  "cross": 137847,
+  "grad_rate": 56.8,
+  "grad_rate_rank": 653,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 21250,
+  "avg_stu_loan_debt_rank": 1565,
+  "indicator_group": 1
+}

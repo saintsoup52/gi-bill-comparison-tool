@@ -1,0 +1,18 @@
+{
+  "facility_code": "11929122",
+  "institution": "OAKLAND UNIVERSITY",
+  "city": "Rochester",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1521,
+  "poe": true,
+  "yr": true,
+  "gibill": 279,
+  "cross": 171571,
+  "grad_rate": 40.3,
+  "grad_rate_rank": 1218,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 16868,
+  "avg_stu_loan_debt_rank": 929,
+  "indicator_group": 1
+}

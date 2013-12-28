@@ -1,0 +1,18 @@
+{
+  "facility_code": "31004530",
+  "institution": "EASTWICK COLLEGE",
+  "city": "Ramsey",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": null,
+  "gibill": 25,
+  "cross": 184959,
+  "grad_rate": 70.8,
+  "grad_rate_rank": 69,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 14458,
+  "avg_stu_loan_debt_rank": 1107,
+  "indicator_group": 2
+}

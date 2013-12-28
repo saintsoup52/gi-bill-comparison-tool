@@ -1,0 +1,18 @@
+{
+  "facility_code": "11902123",
+  "institution": "SOUTHWEST MINNESOTA STATE UNIVERSITY",
+  "city": "Marshall",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1038,
+  "poe": true,
+  "yr": null,
+  "gibill": 85,
+  "cross": 175078,
+  "grad_rate": 39.5,
+  "grad_rate_rank": 1250,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 14803,
+  "avg_stu_loan_debt_rank": 705,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21917211",
+  "institution": "VIRGINIA COLLEGE (AUGUSTA)",
+  "city": "Augusta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1092,
+  "poe": true,
+  "yr": true,
+  "gibill": 133,
+  "cross": 458256,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 21.1,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 3
+}

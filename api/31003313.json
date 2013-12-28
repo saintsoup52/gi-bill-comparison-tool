@@ -1,0 +1,18 @@
+{
+  "facility_code": "31003313",
+  "institution": "UNIVERSITY OF CHICAGO THE",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 117,
+  "cross": 144050,
+  "grad_rate": 91.9,
+  "grad_rate_rank": 39,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 19180,
+  "avg_stu_loan_debt_rank": 1276,
+  "indicator_group": 1
+}

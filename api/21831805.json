@@ -1,0 +1,18 @@
+{
+  "facility_code": "21831805",
+  "institution": "ITT TECHNICAL INSTITUTE (LATHROP)",
+  "city": "Lathrop",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1050,
+  "poe": true,
+  "yr": true,
+  "gibill": 90,
+  "cross": 437219,
+  "grad_rate": 38.5,
+  "grad_rate_rank": 359,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1193,
+  "indicator_group": 2
+}

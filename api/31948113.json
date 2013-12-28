@@ -1,0 +1,18 @@
+{
+  "facility_code": "31948113",
+  "institution": "NORTH PARK UNIVERSITY",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": null,
+  "yr": true,
+  "gibill": 42,
+  "cross": 147679,
+  "grad_rate": 52.0,
+  "grad_rate_rank": 810,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1475,
+  "indicator_group": 1
+}

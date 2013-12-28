@@ -1,0 +1,18 @@
+{
+  "facility_code": "18520532",
+  "institution": "BOCES ORANGE-ULSTER",
+  "city": "Goshen",
+  "state": "NY",
+  "country": "USA",
+  "bah": 2295,
+  "poe": true,
+  "yr": null,
+  "gibill": 1,
+  "cross": 417992,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 10803,
+  "avg_stu_loan_debt_rank": 2221,
+  "indicator_group": 5
+}

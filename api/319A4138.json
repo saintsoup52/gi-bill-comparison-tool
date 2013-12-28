@@ -1,0 +1,18 @@
+{
+  "facility_code": "319A4138",
+  "institution": "CHESTNUT HILL COLLEGE",
+  "city": "Phila",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": true,
+  "gibill": 43,
+  "cross": 211583,
+  "grad_rate": 43.8,
+  "grad_rate_rank": 1100,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 21672,
+  "avg_stu_loan_debt_rank": 1606,
+  "indicator_group": 1
+}

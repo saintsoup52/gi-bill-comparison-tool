@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000445",
+  "institution": "SAINT MICHAEL'S COLLEGE",
+  "city": "Colchester",
+  "state": "VT",
+  "country": "USA",
+  "bah": 1818,
+  "poe": true,
+  "yr": true,
+  "gibill": 35,
+  "cross": 231059,
+  "grad_rate": 81.6,
+  "grad_rate_rank": 133,
+  "default_rate": 1.0,
+  "avg_stu_loan_debt": 25134,
+  "avg_stu_loan_debt_rank": 1984,
+  "indicator_group": 1
+}

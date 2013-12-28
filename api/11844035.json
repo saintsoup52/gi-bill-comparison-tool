@@ -1,0 +1,18 @@
+{
+  "facility_code": "11844035",
+  "institution": "WRIGHT STATE UNIVERSITY",
+  "city": "Dayton",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1044,
+  "poe": true,
+  "yr": true,
+  "gibill": 960,
+  "cross": 206604,
+  "grad_rate": 40.3,
+  "grad_rate_rank": 1218,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 14702,
+  "avg_stu_loan_debt_rank": 692,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001527",
+  "institution": "BELLEVUE UNIVERSITY",
+  "city": "Bellevue",
+  "state": "NE",
+  "country": "USA",
+  "bah": 1155,
+  "poe": true,
+  "yr": true,
+  "gibill": 1816,
+  "cross": 180814,
+  "grad_rate": 37.0,
+  "grad_rate_rank": 1321,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 15278,
+  "avg_stu_loan_debt_rank": 761,
+  "indicator_group": 1
+}

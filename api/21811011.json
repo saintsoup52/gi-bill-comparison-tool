@@ -1,0 +1,18 @@
+{
+  "facility_code": "21811011",
+  "institution": "WESTWOOD COLLEGE (MIDTOWN)",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": true,
+  "gibill": 101,
+  "cross": 445072,
+  "grad_rate": 20.0,
+  "grad_rate_rank": 1669,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 15834,
+  "avg_stu_loan_debt_rank": 820,
+  "indicator_group": 1
+}

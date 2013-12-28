@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000349",
+  "institution": "LAWRENCE UNIVERSITY",
+  "city": "Appleton",
+  "state": "WI",
+  "country": "USA",
+  "bah": 843,
+  "poe": true,
+  "yr": true,
+  "gibill": 13,
+  "cross": 239017,
+  "grad_rate": 77.4,
+  "grad_rate_rank": 185,
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 24359,
+  "avg_stu_loan_debt_rank": 1884,
+  "indicator_group": 1
+}

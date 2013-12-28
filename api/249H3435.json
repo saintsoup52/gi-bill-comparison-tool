@@ -1,0 +1,18 @@
+{
+  "facility_code": "249H3435",
+  "institution": "NATIONAL COLLEGE-WILLOUGHBY HILLS",
+  "city": "Willoughby Hills",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1251,
+  "poe": true,
+  "yr": true,
+  "gibill": 8,
+  "cross": 459833,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 16667,
+  "avg_stu_loan_debt_rank": 801,
+  "indicator_group": 3
+}

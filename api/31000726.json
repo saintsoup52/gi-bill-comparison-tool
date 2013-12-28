@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000726",
+  "institution": "UNIVERSITY OF MARY",
+  "city": "Billings",
+  "state": "MT",
+  "country": "USA",
+  "bah": 1230,
+  "poe": null,
+  "yr": true,
+  "gibill": 1,
+  "cross": 200217,
+  "grad_rate": 51.5,
+  "grad_rate_rank": 827,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 18208,
+  "avg_stu_loan_debt_rank": 1112,
+  "indicator_group": 1
+}

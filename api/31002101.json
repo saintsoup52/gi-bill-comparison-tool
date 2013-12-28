@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002101",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV FT RUCKER",
+  "city": "Ft Rucker",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1053,
+  "poe": true,
+  "yr": true,
+  "gibill": 55,
+  "cross": 426314,
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31034113",
+  "institution": "JOHN MARSHALL LAW SCHOOL",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 24,
+  "cross": 146241,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 4
+}

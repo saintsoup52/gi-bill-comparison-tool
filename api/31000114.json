@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000114",
+  "institution": "ANDERSON UNIVERSITY",
+  "city": "Anderson",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1056,
+  "poe": true,
+  "yr": true,
+  "gibill": 59,
+  "cross": 150066,
+  "grad_rate": 63.0,
+  "grad_rate_rank": 487,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1922,
+  "indicator_group": 1
+}

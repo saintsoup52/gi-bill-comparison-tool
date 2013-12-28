@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000133",
+  "institution": "BARTON COLLEGE",
+  "city": "Wilson",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1071,
+  "poe": true,
+  "yr": true,
+  "gibill": 66,
+  "cross": 197911,
+  "grad_rate": 47.4,
+  "grad_rate_rank": 977,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 18415,
+  "avg_stu_loan_debt_rank": 1131,
+  "indicator_group": 1
+}

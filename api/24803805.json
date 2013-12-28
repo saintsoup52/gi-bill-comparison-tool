@@ -1,0 +1,18 @@
+{
+  "facility_code": "24803805",
+  "institution": "CARRINGTON COLLEGE CALIFORNIA (CITRUS HEIGHTS)",
+  "city": "Citrus Heights",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1806,
+  "poe": true,
+  "yr": true,
+  "gibill": 50,
+  "cross": 450702,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 710,
+  "indicator_group": 3
+}

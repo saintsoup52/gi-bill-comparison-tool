@@ -1,0 +1,18 @@
+{
+  "facility_code": "25010830",
+  "institution": "CORTIVA INSTITUTE WALL NJ",
+  "city": "Wall",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 1986,
+  "poe": true,
+  "yr": null,
+  "gibill": 1,
+  "cross": 460640,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 6967,
+  "avg_stu_loan_debt_rank": 1132,
+  "indicator_group": 5
+}

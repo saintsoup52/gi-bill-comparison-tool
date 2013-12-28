@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000249",
+  "institution": "UNIV OF WISC-EAU CLAIRE  (VETERANS SERVICE)",
+  "city": "Eau Claire",
+  "state": "WI",
+  "country": "USA",
+  "bah": 996,
+  "poe": true,
+  "yr": true,
+  "gibill": 304,
+  "cross": 240268,
+  "grad_rate": 65.1,
+  "grad_rate_rank": 434,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 16687,
+  "avg_stu_loan_debt_rank": 911,
+  "indicator_group": 1
+}

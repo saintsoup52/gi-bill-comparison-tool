@@ -1,0 +1,18 @@
+{
+  "facility_code": "13000227",
+  "institution": "UNIVERSITY OF NEBRASKA AT KEARNEY",
+  "city": "Kearney",
+  "state": "NE",
+  "country": "USA",
+  "bah": 1071,
+  "poe": true,
+  "yr": true,
+  "gibill": 246,
+  "cross": 181215,
+  "grad_rate": 60.6,
+  "grad_rate_rank": 548,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 13506,
+  "avg_stu_loan_debt_rank": 595,
+  "indicator_group": 1
+}

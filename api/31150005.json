@@ -1,0 +1,18 @@
+{
+  "facility_code": "31150005",
+  "institution": "NOTRE DAME DE NAMUR UNIVERSITY",
+  "city": "Belmont",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2544,
+  "poe": true,
+  "yr": null,
+  "gibill": 28,
+  "cross": 120184,
+  "grad_rate": 51.4,
+  "grad_rate_rank": 830,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1
+}

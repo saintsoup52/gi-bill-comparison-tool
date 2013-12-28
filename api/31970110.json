@@ -1,0 +1,18 @@
+{
+  "facility_code": "31970110",
+  "institution": "AVE MARIA UNIVERSITY",
+  "city": "Ave Maria",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": true,
+  "gibill": null,
+  "cross": 446048,
+  "grad_rate": 40.5,
+  "grad_rate_rank": 1211,
+  "default_rate": 18.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 724,
+  "indicator_group": 1
+}

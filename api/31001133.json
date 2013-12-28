@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001133",
+  "institution": "MEREDITH COLLEGE",
+  "city": "Raleigh",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1125,
+  "poe": true,
+  "yr": true,
+  "gibill": 53,
+  "cross": 198950,
+  "grad_rate": 58.8,
+  "grad_rate_rank": 599,
+  "default_rate": 3.0,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1852,
+  "indicator_group": 1
+}

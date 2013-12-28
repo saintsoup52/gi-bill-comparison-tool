@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000330",
+  "institution": "DREW UNIVERSITY",
+  "city": "Madison",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": true,
+  "gibill": 19,
+  "cross": 184348,
+  "grad_rate": 68.0,
+  "grad_rate_rank": 353,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 19937,
+  "avg_stu_loan_debt_rank": 1391,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21007742",
+  "institution": "UNIVERSITY OF PHOENIX - MEMPHIS",
+  "city": "Cordova",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1320,
+  "poe": true,
+  "yr": true,
+  "gibill": 140,
+  "cross": 443890,
+  "grad_rate": 15.4,
+  "grad_rate_rank": 1725,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

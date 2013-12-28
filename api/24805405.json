@@ -1,0 +1,18 @@
+{
+  "facility_code": "24805405",
+  "institution": "HEALD COLLEGE-SALINAS",
+  "city": "Salinas",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1920,
+  "poe": true,
+  "yr": true,
+  "gibill": 52,
+  "cross": 409874,
+  "grad_rate": 42.9,
+  "grad_rate_rank": 290,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 12670,
+  "avg_stu_loan_debt_rank": 1041,
+  "indicator_group": 2
+}

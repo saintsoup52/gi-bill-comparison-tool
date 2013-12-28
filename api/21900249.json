@@ -1,0 +1,18 @@
+{
+  "facility_code": "21900249",
+  "institution": "UNIVERSITY OF PHOENIX - MADISON",
+  "city": "Madison",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1410,
+  "poe": true,
+  "yr": true,
+  "gibill": 23,
+  "cross": 448558,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1835,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

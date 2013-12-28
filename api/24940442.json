@@ -1,0 +1,18 @@
+{
+  "facility_code": "24940442",
+  "institution": "NORTH CENTRAL INSTITUTE",
+  "city": "Clarksville",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1035,
+  "poe": true,
+  "yr": null,
+  "gibill": 48,
+  "cross": 418889,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 46.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

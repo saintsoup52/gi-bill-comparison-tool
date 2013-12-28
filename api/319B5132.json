@@ -1,0 +1,18 @@
+{
+  "facility_code": "319B5132",
+  "institution": "NEW YORK MEDICAL COLLEGE",
+  "city": "Valhalla",
+  "state": "NY",
+  "country": "USA",
+  "bah": 2490,
+  "poe": true,
+  "yr": true,
+  "gibill": 15,
+  "cross": 193830,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.9,
+  "avg_stu_loan_debt": 77428,
+  "avg_stu_loan_debt_rank": 320,
+  "indicator_group": 4
+}

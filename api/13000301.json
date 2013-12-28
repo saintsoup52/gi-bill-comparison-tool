@@ -1,0 +1,18 @@
+{
+  "facility_code": "13000301",
+  "institution": "UNIVERSITY OF WEST ALABAMA",
+  "city": "Livingston",
+  "state": "AL",
+  "country": "USA",
+  "bah": 942,
+  "poe": true,
+  "yr": null,
+  "gibill": 106,
+  "cross": 101587,
+  "grad_rate": 28.0,
+  "grad_rate_rank": 1537,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 11779,
+  "avg_stu_loan_debt_rank": 420,
+  "indicator_group": 1
+}

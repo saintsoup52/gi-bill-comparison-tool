@@ -1,0 +1,18 @@
+{
+  "facility_code": "31012443",
+  "institution": "SOUTHWESTERN UNIVERSITY",
+  "city": "Georgetown",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1422,
+  "poe": true,
+  "yr": true,
+  "gibill": 42,
+  "cross": 228343,
+  "grad_rate": 72.6,
+  "grad_rate_rank": 266,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 24439,
+  "avg_stu_loan_debt_rank": 1886,
+  "indicator_group": 1
+}

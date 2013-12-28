@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000233",
+  "institution": "CATAWBA COLLEGE",
+  "city": "Salisbury",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1038,
+  "poe": true,
+  "yr": true,
+  "gibill": 41,
+  "cross": 198215,
+  "grad_rate": 53.6,
+  "grad_rate_rank": 756,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 16425,
+  "avg_stu_loan_debt_rank": 881,
+  "indicator_group": 1
+}

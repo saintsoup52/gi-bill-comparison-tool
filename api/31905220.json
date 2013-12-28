@@ -1,0 +1,18 @@
+{
+  "facility_code": "31905220",
+  "institution": "PEABODY CONSERVATORY OF MUSIC",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "USA",
+  "bah": 1959,
+  "poe": true,
+  "yr": true,
+  "gibill": 5,
+  "cross": 162928,
+  "grad_rate": 91.1,
+  "grad_rate_rank": 51,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1224,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11967135",
+  "institution": "UNIVERSITY OF TOLEDO",
+  "city": "Toledo",
+  "state": "OH",
+  "country": "USA",
+  "bah": 993,
+  "poe": true,
+  "yr": true,
+  "gibill": 507,
+  "cross": 206084,
+  "grad_rate": 46.3,
+  "grad_rate_rank": 1013,
+  "default_rate": 9.7,
+  "avg_stu_loan_debt": 15500,
+  "avg_stu_loan_debt_rank": 780,
+  "indicator_group": 1
+}

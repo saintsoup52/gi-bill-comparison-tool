@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000109",
+  "institution": "CATHOLIC UNIVERSITY",
+  "city": "Washington",
+  "state": "DC",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": true,
+  "gibill": 179,
+  "cross": 131283,
+  "grad_rate": 68.3,
+  "grad_rate_rank": 340,
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 23891,
+  "avg_stu_loan_debt_rank": 1849,
+  "indicator_group": 1
+}

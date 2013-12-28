@@ -1,0 +1,18 @@
+{
+  "facility_code": "31813010",
+  "institution": "NOVA SOUTHEASTERN UNIVERSITY",
+  "city": "Ft Lauderdale",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1950,
+  "poe": true,
+  "yr": true,
+  "gibill": 760,
+  "cross": 136215,
+  "grad_rate": 43.0,
+  "grad_rate_rank": 1123,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 16250,
+  "avg_stu_loan_debt_rank": 866,
+  "indicator_group": 1
+}

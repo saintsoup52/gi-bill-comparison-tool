@@ -1,0 +1,18 @@
+{
+  "facility_code": "21001849",
+  "institution": "GLOBE UNIVERSITY - WAUSAU",
+  "city": "Rothschild",
+  "state": "WI",
+  "country": "USA",
+  "bah": 840,
+  "poe": true,
+  "yr": true,
+  "gibill": 40,
+  "cross": 458779,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 9703,
+  "avg_stu_loan_debt_rank": 646,
+  "indicator_group": 3
+}

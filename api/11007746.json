@@ -1,0 +1,18 @@
+{
+  "facility_code": "11007746",
+  "institution": "VIRGINIA TECH NATIONAL CAPITAL REGION",
+  "city": "Falls Church",
+  "state": "VA",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": null,
+  "gibill": 64,
+  "cross": 233921,
+  "grad_rate": 81.7,
+  "grad_rate_rank": 129,
+  "default_rate": 1.8,
+  "avg_stu_loan_debt": 21125,
+  "avg_stu_loan_debt_rank": 1559,
+  "indicator_group": 1
+}

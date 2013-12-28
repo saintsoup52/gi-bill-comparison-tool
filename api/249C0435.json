@@ -1,0 +1,18 @@
+{
+  "facility_code": "249C0435",
+  "institution": "ETI TECHNICAL COLLEGE NILES",
+  "city": "Niles",
+  "state": "OH",
+  "country": "USA",
+  "bah": 951,
+  "poe": true,
+  "yr": true,
+  "gibill": 6,
+  "cross": 200590,
+  "grad_rate": 44.7,
+  "grad_rate_rank": 236,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 12124,
+  "avg_stu_loan_debt_rank": 721,
+  "indicator_group": 3
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21891605",
+  "institution": "UNIVERSITY OF PHOENIX (COSTA MESA)",
+  "city": "Costa Mesa",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 3510,
+  "cross": 406015,
+  "grad_rate": 15.0,
+  "grad_rate_rank": 1730,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

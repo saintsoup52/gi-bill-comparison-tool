@@ -1,0 +1,18 @@
+{
+  "facility_code": "31310332",
+  "institution": "COLGATE UNIVERSITY",
+  "city": "Hamilton",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1170,
+  "poe": true,
+  "yr": true,
+  "gibill": 9,
+  "cross": 190099,
+  "grad_rate": 91.6,
+  "grad_rate_rank": 44,
+  "default_rate": 3.0,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 1137,
+  "indicator_group": 1
+}

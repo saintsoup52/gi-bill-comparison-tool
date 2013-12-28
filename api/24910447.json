@@ -1,0 +1,18 @@
+{
+  "facility_code": "24910447",
+  "institution": "ITT TECHNICAL INSTITUTE (SPOKANE)",
+  "city": "Spokane",
+  "state": "WA",
+  "country": "USA",
+  "bah": 1077,
+  "poe": true,
+  "yr": true,
+  "gibill": 108,
+  "cross": 235529,
+  "grad_rate": 30.4,
+  "grad_rate_rank": 516,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 755,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000134",
+  "institution": "JAMESTOWN COLLEGE",
+  "city": "Jamestown",
+  "state": "ND",
+  "country": "USA",
+  "bah": 957,
+  "poe": true,
+  "yr": true,
+  "gibill": 27,
+  "cross": 200156,
+  "grad_rate": 43.0,
+  "grad_rate_rank": 1123,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 17275,
+  "avg_stu_loan_debt_rank": 987,
+  "indicator_group": 1
+}

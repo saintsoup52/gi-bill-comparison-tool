@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000520",
+  "institution": "KAPLAN UNIVERSITY - HAGERSTOWN",
+  "city": "Hagerstown",
+  "state": "MD",
+  "country": "USA",
+  "bah": 1251,
+  "poe": true,
+  "yr": true,
+  "gibill": null,
+  "cross": null,
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null
+}

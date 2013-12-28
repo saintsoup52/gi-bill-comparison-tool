@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000527",
+  "institution": "HASTINGS COLLEGE",
+  "city": "Hastings",
+  "state": "NE",
+  "country": "USA",
+  "bah": 990,
+  "poe": true,
+  "yr": true,
+  "gibill": 27,
+  "cross": 181127,
+  "grad_rate": 56.1,
+  "grad_rate_rank": 672,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 19937,
+  "avg_stu_loan_debt_rank": 1391,
+  "indicator_group": 1
+}

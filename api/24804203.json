@@ -1,0 +1,18 @@
+{
+  "facility_code": "24804203",
+  "institution": "CARRINGTON COLLEGE - TUCSON",
+  "city": "Tucson",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1176,
+  "poe": true,
+  "yr": true,
+  "gibill": 30,
+  "cross": 103927,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

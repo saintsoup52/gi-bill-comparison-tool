@@ -1,0 +1,18 @@
+{
+  "facility_code": "31016243",
+  "institution": "RICE UNIVERSITY",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1623,
+  "poe": true,
+  "yr": true,
+  "gibill": 73,
+  "cross": 227757,
+  "grad_rate": 91.6,
+  "grad_rate_rank": 44,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 490,
+  "indicator_group": 1
+}

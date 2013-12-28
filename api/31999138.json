@@ -1,0 +1,18 @@
+{
+  "facility_code": "31999138",
+  "institution": "SUSQUEHANNA UNIVERSITY",
+  "city": "Selinsgrove",
+  "state": "PA",
+  "country": "USA",
+  "bah": 972,
+  "poe": true,
+  "yr": true,
+  "gibill": 18,
+  "cross": 216278,
+  "grad_rate": 77.1,
+  "grad_rate_rank": 192,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 1
+}

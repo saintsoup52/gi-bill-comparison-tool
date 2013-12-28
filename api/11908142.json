@@ -1,0 +1,18 @@
+{
+  "facility_code": "11908142",
+  "institution": "UNIVERSITY OF MEMPHIS",
+  "city": "Memphis",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1320,
+  "poe": true,
+  "yr": true,
+  "gibill": 828,
+  "cross": 220862,
+  "grad_rate": 38.2,
+  "grad_rate_rank": 1296,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1224,
+  "indicator_group": 1
+}

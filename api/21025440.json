@@ -1,0 +1,18 @@
+{
+  "facility_code": "21025440",
+  "institution": "SOUTH UNIVERSITY",
+  "city": "Columbia",
+  "state": "SC",
+  "country": "USA",
+  "bah": 1296,
+  "poe": true,
+  "yr": true,
+  "gibill": 365,
+  "cross": 251312,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1835,
+  "default_rate": 21.5,
+  "avg_stu_loan_debt": 9098,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1
+}

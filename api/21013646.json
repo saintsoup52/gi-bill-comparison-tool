@@ -1,0 +1,18 @@
+{
+  "facility_code": "21013646",
+  "institution": "WESTWOOD COLLEGE - ANNANDALE",
+  "city": "Annandale",
+  "state": "VA",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": true,
+  "gibill": 83,
+  "cross": 448628,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1
+}

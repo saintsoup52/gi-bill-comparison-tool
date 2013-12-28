@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001321",
+  "institution": "EMMANUEL COLLEGE",
+  "city": "Boston",
+  "state": "MA",
+  "country": "USA",
+  "bah": 2454,
+  "poe": true,
+  "yr": true,
+  "gibill": 26,
+  "cross": 165671,
+  "grad_rate": 63.0,
+  "grad_rate_rank": 487,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1922,
+  "indicator_group": 1
+}

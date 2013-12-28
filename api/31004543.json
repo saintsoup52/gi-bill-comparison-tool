@@ -1,0 +1,18 @@
+{
+  "facility_code": "31004543",
+  "institution": "HARDIN SIMMONS UNIVERSITY",
+  "city": "Abilene",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1065,
+  "poe": true,
+  "yr": true,
+  "gibill": 99,
+  "cross": 225247,
+  "grad_rate": 46.5,
+  "grad_rate_rank": 1003,
+  "default_rate": 11.9,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1578,
+  "indicator_group": 1
+}

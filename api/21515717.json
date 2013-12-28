@@ -1,0 +1,18 @@
+{
+  "facility_code": "21515717",
+  "institution": "DEVRY UNIVERSITY",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "USA",
+  "bah": 1218,
+  "poe": true,
+  "yr": true,
+  "gibill": 39,
+  "cross": 454209,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 24.1,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1341,
+  "indicator_group": 1
+}

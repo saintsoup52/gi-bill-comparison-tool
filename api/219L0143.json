@@ -1,0 +1,18 @@
+{
+  "facility_code": "219L0143",
+  "institution": "UNIVERSITY OF PHOENIX-DALLAS",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1611,
+  "poe": true,
+  "yr": true,
+  "gibill": 596,
+  "cross": 440439,
+  "grad_rate": 7.1,
+  "grad_rate_rank": 1809,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

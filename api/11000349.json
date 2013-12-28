@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000349",
+  "institution": "UNIV OF WISC-LA CROSSE",
+  "city": "La Crosse",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1089,
+  "poe": true,
+  "yr": null,
+  "gibill": 246,
+  "cross": 240329,
+  "grad_rate": 68.1,
+  "grad_rate_rank": 348,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1
+}

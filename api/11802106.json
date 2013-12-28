@@ -1,0 +1,18 @@
+{
+  "facility_code": "11802106",
+  "institution": "UNIVERSITY OF COLORADO - BOULDER",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1617,
+  "poe": true,
+  "yr": true,
+  "gibill": 724,
+  "cross": 126614,
+  "grad_rate": 68.1,
+  "grad_rate_rank": 348,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 1
+}

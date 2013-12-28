@@ -1,0 +1,18 @@
+{
+  "facility_code": "21810136",
+  "institution": "UNIVERSITY OF PHOENIX TULSA",
+  "city": "Tulsa",
+  "state": "OK",
+  "country": "USA",
+  "bah": 948,
+  "poe": true,
+  "yr": true,
+  "gibill": 80,
+  "cross": 434991,
+  "grad_rate": 13.4,
+  "grad_rate_rank": 1750,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

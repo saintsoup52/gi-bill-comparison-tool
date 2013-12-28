@@ -1,0 +1,18 @@
+{
+  "facility_code": "21112505",
+  "institution": "AMERICAN UNIVERSITY OF HEALTH SCIENCES",
+  "city": "Signal Hill",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 7,
+  "cross": 433004,
+  "grad_rate": 90.6,
+  "grad_rate_rank": 18,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 17600,
+  "avg_stu_loan_debt_rank": 806,
+  "indicator_group": 3
+}

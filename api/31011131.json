@@ -1,0 +1,18 @@
+{
+  "facility_code": "31011131",
+  "institution": "LEWIS UNIVERSITY",
+  "city": "Kirtland Afb",
+  "state": "NM",
+  "country": "USA",
+  "bah": 1296,
+  "poe": true,
+  "yr": true,
+  "gibill": 19,
+  "cross": 146612,
+  "grad_rate": 62.5,
+  "grad_rate_rank": 500,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 1
+}

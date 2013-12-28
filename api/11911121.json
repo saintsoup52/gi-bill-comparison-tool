@@ -1,0 +1,18 @@
+{
+  "facility_code": "11911121",
+  "institution": "MASSACHUSETTS MARITIME ACADEMY",
+  "city": "Buzzards Bay",
+  "state": "MA",
+  "country": "USA",
+  "bah": 1671,
+  "poe": null,
+  "yr": true,
+  "gibill": 52,
+  "cross": 166692,
+  "grad_rate": 65.3,
+  "grad_rate_rank": 425,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1475,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11909103",
+  "institution": "ARIZONA STATE UNIVERSITY WEST",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": true,
+  "gibill": 290,
+  "cross": 104151,
+  "grad_rate": 57.5,
+  "grad_rate_rank": 635,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 18759,
+  "avg_stu_loan_debt_rank": 1201,
+  "indicator_group": 1
+}

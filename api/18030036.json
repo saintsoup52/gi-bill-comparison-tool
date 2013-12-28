@@ -1,0 +1,18 @@
+{
+  "facility_code": "18030036",
+  "institution": "NORTHEAST TECHNOLOGY CENTER - PRYOR",
+  "city": "Pryor",
+  "state": "OK",
+  "country": "USA",
+  "bah": 1005,
+  "poe": true,
+  "yr": null,
+  "gibill": 13,
+  "cross": 418339,
+  "grad_rate": 83.3,
+  "grad_rate_rank": 478,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 5
+}

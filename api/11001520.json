@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001520",
+  "institution": "MORGAN STATE UNIVERSITY",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "USA",
+  "bah": 1959,
+  "poe": true,
+  "yr": null,
+  "gibill": 235,
+  "cross": 163453,
+  "grad_rate": 28.1,
+  "grad_rate_rank": 1536,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1578,
+  "indicator_group": 1
+}

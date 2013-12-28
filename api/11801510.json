@@ -1,0 +1,18 @@
+{
+  "facility_code": "11801510",
+  "institution": "TROY UNIVERSITY - TYNDALL AFB",
+  "city": "Tyndall Afb",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1110,
+  "poe": true,
+  "yr": true,
+  "gibill": 10,
+  "cross": 102368,
+  "grad_rate": 34.7,
+  "grad_rate_rank": 1371,
+  "default_rate": 15.1,
+  "avg_stu_loan_debt": 15968,
+  "avg_stu_loan_debt_rank": 836,
+  "indicator_group": 1
+}

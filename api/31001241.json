@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001241",
+  "institution": "SIOUX FALLS SEMINARY",
+  "city": "Sioux Falls",
+  "state": "SD",
+  "country": "USA",
+  "bah": 960,
+  "poe": true,
+  "yr": true,
+  "gibill": 5,
+  "cross": 219240,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 4
+}

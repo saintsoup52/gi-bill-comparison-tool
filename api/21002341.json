@@ -1,0 +1,18 @@
+{
+  "facility_code": "21002341",
+  "institution": "GLOBE UNIVERSITY - SIOUX FALLS",
+  "city": "Sioux Falls",
+  "state": "SD",
+  "country": "USA",
+  "bah": 960,
+  "poe": null,
+  "yr": true,
+  "gibill": 35,
+  "cross": 456807,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 9703,
+  "avg_stu_loan_debt_rank": 840,
+  "indicator_group": 2
+}

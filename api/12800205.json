@@ -1,0 +1,18 @@
+{
+  "facility_code": "12800205",
+  "institution": "LA COUNTY USC MEDICAL CENTER (RADIOLOGY)",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": null,
+  "yr": null,
+  "gibill": null,
+  "cross": 123961,
+  "grad_rate": 90.1,
+  "grad_rate_rank": 63,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 25500,
+  "avg_stu_loan_debt_rank": 1992,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "24931614",
+  "institution": "KAPLAN COLLEGE - SE INDIANAPOLIS",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1245,
+  "poe": true,
+  "yr": true,
+  "gibill": 40,
+  "cross": 458283,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 9303,
+  "avg_stu_loan_debt_rank": 429,
+  "indicator_group": 3
+}

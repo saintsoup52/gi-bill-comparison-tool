@@ -1,0 +1,18 @@
+{
+  "facility_code": "21431447",
+  "institution": "PIMA MEDICAL INSTITUTE @ RENTON",
+  "city": "Renton",
+  "state": "WA",
+  "country": "USA",
+  "bah": 1671,
+  "poe": true,
+  "yr": null,
+  "gibill": 63,
+  "cross": 449074,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

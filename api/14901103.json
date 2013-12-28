@@ -1,0 +1,18 @@
+{
+  "facility_code": "14901103",
+  "institution": "DODGE CITY COMMUNITY COLLEGE",
+  "city": "Prescott",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1284,
+  "poe": true,
+  "yr": null,
+  "gibill": 40,
+  "cross": 154998,
+  "grad_rate": 35.5,
+  "grad_rate_rank": 288,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 4350,
+  "avg_stu_loan_debt_rank": 142,
+  "indicator_group": 3
+}

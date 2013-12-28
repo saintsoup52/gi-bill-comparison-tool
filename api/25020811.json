@@ -1,0 +1,18 @@
+{
+  "facility_code": "25020811",
+  "institution": "AVEDA INSTITUTE (ATLANTA)",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": true,
+  "gibill": 11,
+  "cross": 160320,
+  "grad_rate": 75.8,
+  "grad_rate_rank": 879,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 9462,
+  "avg_stu_loan_debt_rank": 1646,
+  "indicator_group": 5
+}

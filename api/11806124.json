@@ -1,0 +1,18 @@
+{
+  "facility_code": "11806124",
+  "institution": "UNIVERSITY OF MISSISSIPPI",
+  "city": "University",
+  "state": "MS",
+  "country": "USA",
+  "bah": 1152,
+  "poe": true,
+  "yr": true,
+  "gibill": 502,
+  "cross": 176017,
+  "grad_rate": 60.4,
+  "grad_rate_rank": 553,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 17775,
+  "avg_stu_loan_debt_rank": 1059,
+  "indicator_group": 1
+}

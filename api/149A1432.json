@@ -1,0 +1,18 @@
+{
+  "facility_code": "149A1432",
+  "institution": "BOROUGH OF MANHATTAN COMMUNITY COLLEGE",
+  "city": "New York",
+  "state": "NY",
+  "country": "USA",
+  "bah": 3258,
+  "poe": true,
+  "yr": null,
+  "gibill": 389,
+  "cross": 190521,
+  "grad_rate": 11.9,
+  "grad_rate_rank": 1143,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 6000,
+  "avg_stu_loan_debt_rank": 440,
+  "indicator_group": 2
+}

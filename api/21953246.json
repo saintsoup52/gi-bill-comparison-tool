@@ -1,0 +1,18 @@
+{
+  "facility_code": "21953246",
+  "institution": "ART INSTITUTE OF WASHINGTON",
+  "city": "Arlington",
+  "state": "VA",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": true,
+  "gibill": 324,
+  "cross": 440341,
+  "grad_rate": 25.0,
+  "grad_rate_rank": 1590,
+  "default_rate": 26.5,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1
+}

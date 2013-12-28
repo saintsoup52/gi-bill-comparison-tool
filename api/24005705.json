@@ -1,0 +1,18 @@
+{
+  "facility_code": "24005705",
+  "institution": "KAPLAN COLLEGE (CHULA VISTA)",
+  "city": "Chula Vista",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2139,
+  "poe": true,
+  "yr": true,
+  "gibill": 58,
+  "cross": 458186,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

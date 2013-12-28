@@ -1,0 +1,18 @@
+{
+  "facility_code": "24004505",
+  "institution": "EVEREST COLLEGE (RESEDA)",
+  "city": "Reseda",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 33,
+  "cross": 119359,
+  "grad_rate": 77.5,
+  "grad_rate_rank": 41,
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

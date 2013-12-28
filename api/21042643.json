@@ -1,0 +1,18 @@
+{
+  "facility_code": "21042643",
+  "institution": "STRAYER UNIVERSITY NORTH DALLAS CAMPUS",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1611,
+  "poe": true,
+  "yr": true,
+  "gibill": 20,
+  "cross": 458973,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

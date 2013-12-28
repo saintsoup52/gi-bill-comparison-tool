@@ -1,0 +1,18 @@
+{
+  "facility_code": "31907109",
+  "institution": "GEORGE WASHINGTON UNIVERSITY",
+  "city": "Washington",
+  "state": "DC",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": true,
+  "gibill": 699,
+  "cross": 131469,
+  "grad_rate": 81.1,
+  "grad_rate_rank": 141,
+  "default_rate": 1.5,
+  "avg_stu_loan_debt": 22300,
+  "avg_stu_loan_debt_rank": 1685,
+  "indicator_group": 1
+}

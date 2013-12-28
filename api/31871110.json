@@ -1,0 +1,18 @@
+{
+  "facility_code": "31871110",
+  "institution": "UNIVERSIDAD DEL TURABO-TAMPA",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1662,
+  "poe": true,
+  "yr": true,
+  "gibill": 7,
+  "cross": 243601,
+  "grad_rate": 15.0,
+  "grad_rate_rank": 1730,
+  "default_rate": 17.8,
+  "avg_stu_loan_debt": 4250,
+  "avg_stu_loan_debt_rank": 89,
+  "indicator_group": 1
+}

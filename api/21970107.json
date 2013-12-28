@@ -1,0 +1,18 @@
+{
+  "facility_code": "21970107",
+  "institution": "POST UNIVERSITY",
+  "city": "Waterbury",
+  "state": "CT",
+  "country": "USA",
+  "bah": 2202,
+  "poe": true,
+  "yr": true,
+  "gibill": 519,
+  "cross": 130183,
+  "grad_rate": 36.0,
+  "grad_rate_rank": 1345,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 8047,
+  "avg_stu_loan_debt_rank": 175,
+  "indicator_group": 1
+}

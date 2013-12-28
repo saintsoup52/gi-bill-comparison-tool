@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000901",
+  "institution": "UNIVERSITY OF ALABAMA - VETERAN & MILITARY AFFAIRS",
+  "city": "Tuscaloosa",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1143,
+  "poe": true,
+  "yr": true,
+  "gibill": 1254,
+  "cross": 100751,
+  "grad_rate": 65.8,
+  "grad_rate_rank": 410,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 20250,
+  "avg_stu_loan_debt_rank": 1457,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001440",
+  "institution": "WINTHROP UNIVERSITY",
+  "city": "Rock Hill",
+  "state": "SC",
+  "country": "USA",
+  "bah": 1224,
+  "poe": true,
+  "yr": true,
+  "gibill": 328,
+  "cross": 218964,
+  "grad_rate": 57.7,
+  "grad_rate_rank": 630,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1578,
+  "indicator_group": 1
+}

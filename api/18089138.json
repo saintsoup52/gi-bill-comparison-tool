@@ -1,0 +1,18 @@
+{
+  "facility_code": "18089138",
+  "institution": "SOMERSET COUNTY TECHNOLOGY CENTER",
+  "city": "Somerset",
+  "state": "PA",
+  "country": "USA",
+  "bah": 900,
+  "poe": true,
+  "yr": null,
+  "gibill": 6,
+  "cross": 457943,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4012,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 5
+}

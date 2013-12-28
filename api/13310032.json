@@ -1,0 +1,18 @@
+{
+  "facility_code": "13310032",
+  "institution": "SUNY COLLEGE AT CORTLAND",
+  "city": "Cortland",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1104,
+  "poe": true,
+  "yr": null,
+  "gibill": 94,
+  "cross": 196149,
+  "grad_rate": 67.1,
+  "grad_rate_rank": 373,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 19125,
+  "avg_stu_loan_debt_rank": 1265,
+  "indicator_group": 1
+}

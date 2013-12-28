@@ -1,0 +1,18 @@
+{
+  "facility_code": "11801720",
+  "institution": "UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE",
+  "city": "Adelphi",
+  "state": "MD",
+  "country": "USA",
+  "bah": 2193,
+  "poe": true,
+  "yr": true,
+  "gibill": 7645,
+  "cross": 163204,
+  "grad_rate": 10.3,
+  "grad_rate_rank": 1777,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 13250,
+  "avg_stu_loan_debt_rank": 572,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31982132",
+  "institution": "ELMIRA COLLEGE",
+  "city": "Elmira",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1380,
+  "poe": true,
+  "yr": true,
+  "gibill": 53,
+  "cross": 190983,
+  "grad_rate": 59.5,
+  "grad_rate_rank": 579,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 22043,
+  "avg_stu_loan_debt_rank": 1644,
+  "indicator_group": 1
+}

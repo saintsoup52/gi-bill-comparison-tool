@@ -1,0 +1,18 @@
+{
+  "facility_code": "24900738",
+  "institution": "LINCOLN TECHNICAL INSTITUTE (NE PHILA/2)",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": null,
+  "gibill": 17,
+  "cross": 442037,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 31.0,
+  "avg_stu_loan_debt": 8611,
+  "avg_stu_loan_debt_rank": 384,
+  "indicator_group": 3
+}

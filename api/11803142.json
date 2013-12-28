@@ -1,0 +1,18 @@
+{
+  "facility_code": "11803142",
+  "institution": "UNIVERSITY OF TENNESSEE AT CHATTANOOGA",
+  "city": "Chattanooga",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1104,
+  "poe": true,
+  "yr": true,
+  "gibill": 363,
+  "cross": 221740,
+  "grad_rate": 39.5,
+  "grad_rate_rank": 1250,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

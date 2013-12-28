@@ -1,0 +1,18 @@
+{
+  "facility_code": "25150222",
+  "institution": "NORTHWESTERN TECHNOLOGICAL INSTITUTE",
+  "city": "Southfield",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1521,
+  "poe": true,
+  "yr": null,
+  "gibill": 31,
+  "cross": 168573,
+  "grad_rate": 75.9,
+  "grad_rate_rank": 870,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1663,
+  "indicator_group": 5
+}

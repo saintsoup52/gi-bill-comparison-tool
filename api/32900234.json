@@ -1,0 +1,18 @@
+{
+  "facility_code": "32900234",
+  "institution": "SANFORD COLLEGE OF NURSING",
+  "city": "Bismarck",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1035,
+  "poe": true,
+  "yr": null,
+  "gibill": 2,
+  "cross": 200244,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 548,
+  "indicator_group": 1
+}

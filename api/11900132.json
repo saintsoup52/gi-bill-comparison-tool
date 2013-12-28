@@ -1,0 +1,18 @@
+{
+  "facility_code": "11900132",
+  "institution": "SUNY HEALTH SCIENCE CENTER AT BROOKLYN",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "USA",
+  "bah": 3258,
+  "poe": true,
+  "yr": null,
+  "gibill": 8,
+  "cross": 196255,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 15073,
+  "avg_stu_loan_debt_rank": 747,
+  "indicator_group": 1
+}

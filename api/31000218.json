@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000218",
+  "institution": "CENTENARY COLLEGE",
+  "city": "Shreveport",
+  "state": "LA",
+  "country": "USA",
+  "bah": 1362,
+  "poe": true,
+  "yr": true,
+  "gibill": 22,
+  "cross": 158477,
+  "grad_rate": 58.2,
+  "grad_rate_rank": 615,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 18325,
+  "avg_stu_loan_debt_rank": 1125,
+  "indicator_group": 1
+}

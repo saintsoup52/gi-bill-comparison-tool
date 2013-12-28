@@ -1,0 +1,18 @@
+{
+  "facility_code": "21900149",
+  "institution": "UNIVERSITY OF PHOENIX MILWAUKEE",
+  "city": "Brookfield",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1539,
+  "poe": true,
+  "yr": true,
+  "gibill": 40,
+  "cross": 440457,
+  "grad_rate": 9.6,
+  "grad_rate_rank": 1788,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

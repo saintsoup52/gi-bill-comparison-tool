@@ -1,0 +1,18 @@
+{
+  "facility_code": "21901111",
+  "institution": "STRAYER UNIVERSITY (CHAMBLEE)",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": true,
+  "gibill": 93,
+  "cross": 458919,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1835,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

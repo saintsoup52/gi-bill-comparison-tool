@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000338",
+  "institution": "ALLEGHENY COLLEGE",
+  "city": "Meadville",
+  "state": "PA",
+  "country": "USA",
+  "bah": 990,
+  "poe": null,
+  "yr": true,
+  "gibill": 11,
+  "cross": 210669,
+  "grad_rate": 80.4,
+  "grad_rate_rank": 148,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 25730,
+  "avg_stu_loan_debt_rank": 2000,
+  "indicator_group": 1
+}

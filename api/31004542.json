@@ -1,0 +1,18 @@
+{
+  "facility_code": "31004542",
+  "institution": "WELCH COLLEGE - NASHVILLE",
+  "city": "Nashville",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1515,
+  "poe": true,
+  "yr": true,
+  "gibill": 11,
+  "cross": 220206,
+  "grad_rate": 41.9,
+  "grad_rate_rank": 1158,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 16125,
+  "avg_stu_loan_debt_rank": 853,
+  "indicator_group": 1
+}

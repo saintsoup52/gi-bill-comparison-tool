@@ -1,0 +1,18 @@
+{
+  "facility_code": "35003063",
+  "institution": "ASPIRA INC. DE PUERTO RICO",
+  "city": "San Juan",
+  "state": "PR",
+  "country": "USA",
+  "bah": 1368,
+  "poe": true,
+  "yr": null,
+  "gibill": 1,
+  "cross": 449755,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 5
+}

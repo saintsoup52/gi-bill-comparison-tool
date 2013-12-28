@@ -1,0 +1,18 @@
+{
+  "facility_code": "24010811",
+  "institution": "MEDTECH COLLEGE",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": null,
+  "gibill": 48,
+  "cross": 444714,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 24.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

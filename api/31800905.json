@@ -1,0 +1,18 @@
+{
+  "facility_code": "31800905",
+  "institution": "ALLIANT INTERNATIONAL UNIVERSITY (SAN FRANCISCO)",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2928,
+  "poe": true,
+  "yr": true,
+  "gibill": 8,
+  "cross": 110468,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 2000,
+  "avg_stu_loan_debt_rank": 80,
+  "indicator_group": 1
+}

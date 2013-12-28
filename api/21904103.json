@@ -1,0 +1,18 @@
+{
+  "facility_code": "21904103",
+  "institution": "UNIVERSITY OF PHOENIX (MAIN)",
+  "city": "Tempe",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": true,
+  "gibill": 1328,
+  "cross": 105516,
+  "grad_rate": 16.7,
+  "grad_rate_rank": 1710,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

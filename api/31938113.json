@@ -1,0 +1,18 @@
+{
+  "facility_code": "31938113",
+  "institution": "QUINCY UNIVERSITY",
+  "city": "Quincy",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1023,
+  "poe": true,
+  "yr": true,
+  "gibill": 27,
+  "cross": 148131,
+  "grad_rate": 50.0,
+  "grad_rate_rank": 876,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 14719,
+  "avg_stu_loan_debt_rank": 696,
+  "indicator_group": 1
+}

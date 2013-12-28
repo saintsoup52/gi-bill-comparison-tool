@@ -1,0 +1,18 @@
+{
+  "facility_code": "32800115",
+  "institution": "ALLEN MEMORIAL HOSPITAL SCHOOL OF NURSING",
+  "city": "Waterloo",
+  "state": "IA",
+  "country": "USA",
+  "bah": 915,
+  "poe": true,
+  "yr": null,
+  "gibill": null,
+  "cross": 152798,
+  "grad_rate": 50.0,
+  "grad_rate_rank": 876,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 20250,
+  "avg_stu_loan_debt_rank": 1457,
+  "indicator_group": 1
+}

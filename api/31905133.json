@@ -1,0 +1,18 @@
+{
+  "facility_code": "31905133",
+  "institution": "PFEIFFER UNIVERSITY",
+  "city": "Misenheimer",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1023,
+  "poe": true,
+  "yr": true,
+  "gibill": 55,
+  "cross": 199306,
+  "grad_rate": 45.5,
+  "grad_rate_rank": 1041,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 19180,
+  "avg_stu_loan_debt_rank": 1276,
+  "indicator_group": 1
+}

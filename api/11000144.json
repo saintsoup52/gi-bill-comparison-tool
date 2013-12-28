@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000144",
+  "institution": "SOUTHERN UTAH UNIVERSITY",
+  "city": "Cedar City",
+  "state": "UT",
+  "country": "USA",
+  "bah": 1071,
+  "poe": true,
+  "yr": true,
+  "gibill": 262,
+  "cross": 230603,
+  "grad_rate": 34.6,
+  "grad_rate_rank": 1373,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1
+}

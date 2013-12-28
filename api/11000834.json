@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000834",
+  "institution": "BISMARCK STATE COLLEGE",
+  "city": "Bismarck",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1035,
+  "poe": true,
+  "yr": null,
+  "gibill": 292,
+  "cross": 200022,
+  "grad_rate": 39.6,
+  "grad_rate_rank": 336,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 755,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000435",
+  "institution": "BLUFFTON UNIVERSITY",
+  "city": "Bluffton",
+  "state": "OH",
+  "country": "USA",
+  "bah": 885,
+  "poe": true,
+  "yr": true,
+  "gibill": 16,
+  "cross": 201371,
+  "grad_rate": 59.2,
+  "grad_rate_rank": 586,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 20140,
+  "avg_stu_loan_debt_rank": 1447,
+  "indicator_group": 1
+}

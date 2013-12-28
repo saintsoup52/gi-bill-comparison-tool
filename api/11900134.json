@@ -1,0 +1,18 @@
+{
+  "facility_code": "11900134",
+  "institution": "DICKINSON STATE UNIVERSITY",
+  "city": "Dickinson",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1056,
+  "poe": true,
+  "yr": null,
+  "gibill": 72,
+  "cross": 200059,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 13329,
+  "avg_stu_loan_debt_rank": 578,
+  "indicator_group": 1
+}

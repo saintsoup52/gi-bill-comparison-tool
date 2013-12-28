@@ -1,0 +1,18 @@
+{
+  "facility_code": "21956301",
+  "institution": "STRAYER UNIVERSITY - BIRMINGHAM CAMPUS",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1113,
+  "poe": true,
+  "yr": true,
+  "gibill": 36,
+  "cross": 450377,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

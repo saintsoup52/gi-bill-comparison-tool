@@ -1,0 +1,18 @@
+{
+  "facility_code": "24036143",
+  "institution": "KAPLAN COLLEGE SAN PEDRO",
+  "city": "San Antonio",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1398,
+  "poe": true,
+  "yr": true,
+  "gibill": 149,
+  "cross": 364955,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 28.8,
+  "avg_stu_loan_debt": 9177,
+  "avg_stu_loan_debt_rank": 422,
+  "indicator_group": 3
+}

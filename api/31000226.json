@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000226",
+  "institution": "CARROLL COLLEGE",
+  "city": "Helena",
+  "state": "MT",
+  "country": "USA",
+  "bah": 1098,
+  "poe": true,
+  "yr": true,
+  "gibill": 67,
+  "cross": 180106,
+  "grad_rate": 58.9,
+  "grad_rate_rank": 597,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 22300,
+  "avg_stu_loan_debt_rank": 1685,
+  "indicator_group": 1
+}

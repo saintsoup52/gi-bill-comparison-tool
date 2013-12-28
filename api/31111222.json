@@ -1,0 +1,18 @@
+{
+  "facility_code": "31111222",
+  "institution": "ROCHESTER COLLEGE",
+  "city": "Rochester Hills",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1521,
+  "poe": true,
+  "yr": true,
+  "gibill": 29,
+  "cross": 170967,
+  "grad_rate": 41.6,
+  "grad_rate_rank": 1173,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 12718,
+  "avg_stu_loan_debt_rank": 529,
+  "indicator_group": 1
+}

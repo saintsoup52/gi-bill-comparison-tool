@@ -1,0 +1,18 @@
+{
+  "facility_code": "31012633",
+  "institution": "ST. ANDREWS UNIVERSITY",
+  "city": "Laurinburg",
+  "state": "NC",
+  "country": "USA",
+  "bah": 972,
+  "poe": true,
+  "yr": true,
+  "gibill": 16,
+  "cross": 199698,
+  "grad_rate": 42.9,
+  "grad_rate_rank": 1128,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 12250,
+  "avg_stu_loan_debt_rank": 475,
+  "indicator_group": 1
+}

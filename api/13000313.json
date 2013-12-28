@@ -1,0 +1,18 @@
+{
+  "facility_code": "13000313",
+  "institution": "NORTHEASTERN ILLINOIS UNIVERSITY",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": null,
+  "gibill": 371,
+  "cross": 147776,
+  "grad_rate": 23.1,
+  "grad_rate_rank": 1619,
+  "default_rate": 10.1,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 298,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11011206",
+  "institution": "ADAMS STATE UNIVERSITY",
+  "city": "Alamosa",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1023,
+  "poe": true,
+  "yr": true,
+  "gibill": 107,
+  "cross": 126182,
+  "grad_rate": 23.2,
+  "grad_rate_rank": 1618,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 11201,
+  "avg_stu_loan_debt_rank": 318,
+  "indicator_group": 1
+}

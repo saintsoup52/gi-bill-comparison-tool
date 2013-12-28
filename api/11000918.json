@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000918",
+  "institution": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
+  "city": "Lafayette",
+  "state": "LA",
+  "country": "USA",
+  "bah": 1317,
+  "poe": true,
+  "yr": true,
+  "gibill": 535,
+  "cross": 160658,
+  "grad_rate": 41.4,
+  "grad_rate_rank": 1183,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 12166,
+  "avg_stu_loan_debt_rank": 470,
+  "indicator_group": 1
+}

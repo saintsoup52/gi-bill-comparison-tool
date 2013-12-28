@@ -1,0 +1,18 @@
+{
+  "facility_code": "31003142",
+  "institution": "KING UNIVERSITY",
+  "city": "Bristol",
+  "state": "TN",
+  "country": "USA",
+  "bah": 981,
+  "poe": true,
+  "yr": true,
+  "gibill": 72,
+  "cross": 220516,
+  "grad_rate": 40.9,
+  "grad_rate_rank": 1200,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 15950,
+  "avg_stu_loan_debt_rank": 835,
+  "indicator_group": 1
+}

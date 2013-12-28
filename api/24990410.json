@@ -1,0 +1,18 @@
+{
+  "facility_code": "24990410",
+  "institution": "ANTHEM COLLEGE",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1302,
+  "poe": true,
+  "yr": true,
+  "gibill": 19,
+  "cross": 436225,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 8471,
+  "avg_stu_loan_debt_rank": 373,
+  "indicator_group": 3
+}

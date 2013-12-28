@@ -1,0 +1,18 @@
+{
+  "facility_code": "31007638",
+  "institution": "LA SALLE UNIVERSITY",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": true,
+  "gibill": 84,
+  "cross": 213367,
+  "grad_rate": 67.1,
+  "grad_rate_rank": 373,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 20134,
+  "avg_stu_loan_debt_rank": 1446,
+  "indicator_group": 1
+}

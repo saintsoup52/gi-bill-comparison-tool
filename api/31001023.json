@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001023",
+  "institution": "HAMLINE UNIVERSITY",
+  "city": "St Paul",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1449,
+  "poe": true,
+  "yr": true,
+  "gibill": 118,
+  "cross": 173665,
+  "grad_rate": 67.8,
+  "grad_rate_rank": 357,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 20041,
+  "avg_stu_loan_debt_rank": 1435,
+  "indicator_group": 1
+}

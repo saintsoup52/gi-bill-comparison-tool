@@ -1,0 +1,18 @@
+{
+  "facility_code": "21013723",
+  "institution": "WALDEN UNIVERSITY        VETERANS AFFAIRS OFFICE",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1449,
+  "poe": true,
+  "yr": true,
+  "gibill": 2207,
+  "cross": 125231,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 226,
+  "indicator_group": 1
+}

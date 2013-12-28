@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001935",
+  "institution": "LAKE ERIE COLLEGE",
+  "city": "Painesville",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1251,
+  "poe": true,
+  "yr": true,
+  "gibill": 49,
+  "cross": 203580,
+  "grad_rate": 53.4,
+  "grad_rate_rank": 764,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1177,
+  "indicator_group": 1
+}

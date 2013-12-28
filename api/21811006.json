@@ -1,0 +1,18 @@
+{
+  "facility_code": "21811006",
+  "institution": "NATIONAL AMERICAN UNIVERSITY - COLORADO SPRINGS",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1350,
+  "poe": true,
+  "yr": true,
+  "gibill": 176,
+  "cross": 127680,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1835,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 11421,
+  "avg_stu_loan_debt_rank": 326,
+  "indicator_group": 1
+}

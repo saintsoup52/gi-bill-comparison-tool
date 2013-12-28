@@ -1,0 +1,18 @@
+{
+  "facility_code": "31905121",
+  "institution": "BENTLEY UNIVERSITY",
+  "city": "Waltham",
+  "state": "MA",
+  "country": "USA",
+  "bah": 2454,
+  "poe": null,
+  "yr": true,
+  "gibill": 24,
+  "cross": 164739,
+  "grad_rate": 87.7,
+  "grad_rate_rank": 73,
+  "default_rate": 1.5,
+  "avg_stu_loan_debt": 22125,
+  "avg_stu_loan_debt_rank": 1654,
+  "indicator_group": 1
+}

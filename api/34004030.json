@@ -1,0 +1,18 @@
+{
+  "facility_code": "34004030",
+  "institution": "SOMERSET CHRISTIAN COLLEGE",
+  "city": "Newark",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": true,
+  "gibill": 20,
+  "cross": 440794,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 655,
+  "indicator_group": 1
+}

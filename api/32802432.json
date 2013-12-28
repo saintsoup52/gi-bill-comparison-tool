@@ -1,0 +1,18 @@
+{
+  "facility_code": "32802432",
+  "institution": "NEW YORK METHODIST HOSPITAL",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "USA",
+  "bah": 3258,
+  "poe": true,
+  "yr": null,
+  "gibill": 12,
+  "cross": 451413,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 15057,
+  "avg_stu_loan_debt_rank": 2477,
+  "indicator_group": 5
+}

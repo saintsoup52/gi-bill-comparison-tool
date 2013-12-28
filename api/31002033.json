@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002033",
+  "institution": "LIVINGSTONE COLLEGE",
+  "city": "Salisbury",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1038,
+  "poe": true,
+  "yr": true,
+  "gibill": 32,
+  "cross": 198862,
+  "grad_rate": 28.3,
+  "grad_rate_rank": 1532,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 724,
+  "indicator_group": 1
+}

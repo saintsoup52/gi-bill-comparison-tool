@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000740",
+  "institution": "FURMAN UNIVERSITY",
+  "city": "Greenville",
+  "state": "SC",
+  "country": "USA",
+  "bah": 1188,
+  "poe": true,
+  "yr": true,
+  "gibill": 39,
+  "cross": 218070,
+  "grad_rate": 86.9,
+  "grad_rate_rank": 80,
+  "default_rate": 1.6,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1741,
+  "indicator_group": 1
+}

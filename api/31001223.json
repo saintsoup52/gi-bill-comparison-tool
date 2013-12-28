@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001223",
+  "institution": "ST JOHNS UNIVERSITY",
+  "city": "Collegeville",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1053,
+  "poe": true,
+  "yr": true,
+  "gibill": 16,
+  "cross": 174792,
+  "grad_rate": 79.9,
+  "grad_rate_rank": 159,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 22750,
+  "avg_stu_loan_debt_rank": 1728,
+  "indicator_group": 1
+}

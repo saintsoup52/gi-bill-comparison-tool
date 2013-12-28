@@ -1,0 +1,18 @@
+{
+  "facility_code": "31961113",
+  "institution": "DOMINICAN UNIVERSITY",
+  "city": "River Forest",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 18,
+  "cross": 148496,
+  "grad_rate": 62.8,
+  "grad_rate_rank": 493,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 18772,
+  "avg_stu_loan_debt_rank": 1202,
+  "indicator_group": 1
+}

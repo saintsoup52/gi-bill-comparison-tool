@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000314",
+  "institution": "DEPAUW UNIVERSITY",
+  "city": "Greencastle",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1086,
+  "poe": true,
+  "yr": true,
+  "gibill": 11,
+  "cross": 150400,
+  "grad_rate": 85.2,
+  "grad_rate_rank": 96,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 18938,
+  "avg_stu_loan_debt_rank": 1219,
+  "indicator_group": 1
+}

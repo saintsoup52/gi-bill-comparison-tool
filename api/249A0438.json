@@ -1,0 +1,18 @@
+{
+  "facility_code": "249A0438",
+  "institution": "BRADFORD SCHOOL",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1431,
+  "poe": true,
+  "yr": null,
+  "gibill": 6,
+  "cross": 211200,
+  "grad_rate": 95.1,
+  "grad_rate_rank": 10,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 15915,
+  "avg_stu_loan_debt_rank": 1171,
+  "indicator_group": 2
+}

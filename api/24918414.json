@@ -1,0 +1,18 @@
+{
+  "facility_code": "24918414",
+  "institution": "KAPLAN COLLEGE - HAMMOND",
+  "city": "Hammond",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1152,
+  "poe": true,
+  "yr": true,
+  "gibill": 18,
+  "cross": 152415,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 21.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

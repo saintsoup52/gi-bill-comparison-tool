@@ -1,0 +1,18 @@
+{
+  "facility_code": "31800118",
+  "institution": "TULANE UNIVERSITY",
+  "city": "New Orleans",
+  "state": "LA",
+  "country": "USA",
+  "bah": 1290,
+  "poe": true,
+  "yr": true,
+  "gibill": 159,
+  "cross": 160755,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 19758,
+  "avg_stu_loan_debt_rank": 1370,
+  "indicator_group": 1
+}

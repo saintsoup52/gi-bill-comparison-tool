@@ -1,0 +1,18 @@
+{
+  "facility_code": "24921920",
+  "institution": "TESST COLLEGE OF TECHNOLOGY - TOWSON",
+  "city": "Towson",
+  "state": "MD",
+  "country": "USA",
+  "bah": 1959,
+  "poe": true,
+  "yr": true,
+  "gibill": 31,
+  "cross": 161776,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 9274,
+  "avg_stu_loan_debt_rank": 428,
+  "indicator_group": 3
+}

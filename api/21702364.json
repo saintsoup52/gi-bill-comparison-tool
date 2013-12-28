@@ -1,0 +1,18 @@
+{
+  "facility_code": "21702364",
+  "institution": "ARGOSY UNIVERSITY HONOLULU",
+  "city": "Honolulu",
+  "state": "HI",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": true,
+  "gibill": 111,
+  "cross": 366748,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 9220,
+  "avg_stu_loan_debt_rank": 197,
+  "indicator_group": 1
+}

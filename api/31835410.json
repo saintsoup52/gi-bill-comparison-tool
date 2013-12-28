@@ -1,0 +1,18 @@
+{
+  "facility_code": "31835410",
+  "institution": "KEISER UNIVERSITY - TAMPA",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1662,
+  "poe": true,
+  "yr": true,
+  "gibill": null,
+  "cross": 135081,
+  "grad_rate": 56.8,
+  "grad_rate_rank": 160,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1379,
+  "indicator_group": 2
+}

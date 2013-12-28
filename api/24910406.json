@@ -1,0 +1,18 @@
+{
+  "facility_code": "24910406",
+  "institution": "LINCOLN COLLEGE OF TECHNOLOGY",
+  "city": "Denver",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1635,
+  "poe": true,
+  "yr": true,
+  "gibill": 216,
+  "cross": 126951,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 36.3,
+  "avg_stu_loan_debt": 18406,
+  "avg_stu_loan_debt_rank": 1369,
+  "indicator_group": 2
+}

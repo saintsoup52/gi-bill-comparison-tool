@@ -1,0 +1,18 @@
+{
+  "facility_code": "24804805",
+  "institution": "HEALD COLLEGE-MILPITAS",
+  "city": "Milpitas",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2544,
+  "poe": true,
+  "yr": true,
+  "gibill": 123,
+  "cross": 115490,
+  "grad_rate": 43.3,
+  "grad_rate_rank": 283,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 14564,
+  "avg_stu_loan_debt_rank": 1111,
+  "indicator_group": 2
+}

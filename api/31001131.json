@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001131",
+  "institution": "UNIVERSITY OF THE SOUTHWEST",
+  "city": "Hobbs",
+  "state": "NM",
+  "country": "USA",
+  "bah": 1023,
+  "poe": true,
+  "yr": true,
+  "gibill": 29,
+  "cross": 188182,
+  "grad_rate": 17.6,
+  "grad_rate_rank": 1701,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 13070,
+  "avg_stu_loan_debt_rank": 564,
+  "indicator_group": 1
+}

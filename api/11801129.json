@@ -1,0 +1,18 @@
+{
+  "facility_code": "11801129",
+  "institution": "UNIVERSITY OF NEW HAMPSHIRE - MANCHESTER",
+  "city": "Manchester",
+  "state": "NH",
+  "country": "USA",
+  "bah": 1539,
+  "poe": true,
+  "yr": true,
+  "gibill": 70,
+  "cross": 183071,
+  "grad_rate": 55.4,
+  "grad_rate_rank": 692,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 23060,
+  "avg_stu_loan_debt_rank": 1795,
+  "indicator_group": 1
+}

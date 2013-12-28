@@ -1,0 +1,18 @@
+{
+  "facility_code": "14926404",
+  "institution": "MID SOUTH COMMUNITY COLLEGE",
+  "city": "West Memphis",
+  "state": "AR",
+  "country": "USA",
+  "bah": 1320,
+  "poe": true,
+  "yr": true,
+  "gibill": 68,
+  "cross": 107318,
+  "grad_rate": 14.0,
+  "grad_rate_rank": 1060,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 2
+}

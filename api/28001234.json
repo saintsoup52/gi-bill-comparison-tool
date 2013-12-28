@@ -1,0 +1,18 @@
+{
+  "facility_code": "28001234",
+  "institution": "MOLER BARBER COLLEGE OF FARGO",
+  "city": "Fargo",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1128,
+  "poe": true,
+  "yr": null,
+  "gibill": null,
+  "cross": 200262,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1663,
+  "indicator_group": 5
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31008438",
+  "institution": "LYCOMING COLLEGE - VA CERTIFYING OFFICIAL ATTN: REGISTRAR'S OFFICE",
+  "city": "Williamsport",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1137,
+  "poe": true,
+  "yr": true,
+  "gibill": 22,
+  "cross": 213668,
+  "grad_rate": 70.0,
+  "grad_rate_rank": 305,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 26397,
+  "avg_stu_loan_debt_rank": 2011,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "32810015",
+  "institution": "IOWA HEALTH SYSTEMS - IOWA METHODIST MEDICAL CENTER",
+  "city": "Des Moines",
+  "state": "IA",
+  "country": "USA",
+  "bah": 1230,
+  "poe": true,
+  "yr": null,
+  "gibill": 1,
+  "cross": 153542,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 2315,
+  "indicator_group": 5
+}

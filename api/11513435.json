@@ -1,0 +1,18 @@
+{
+  "facility_code": "11513435",
+  "institution": "MIAMI UNIVERSITY",
+  "city": "Oxford",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1320,
+  "poe": true,
+  "yr": true,
+  "gibill": 396,
+  "cross": 204024,
+  "grad_rate": 81.5,
+  "grad_rate_rank": 134,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 17000,
+  "avg_stu_loan_debt_rank": 950,
+  "indicator_group": 1
+}

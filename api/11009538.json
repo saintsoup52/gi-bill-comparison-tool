@@ -1,0 +1,18 @@
+{
+  "facility_code": "11009538",
+  "institution": "EDINBORO UNIVERSITY OF PENNSYLVANIA",
+  "city": "Edinboro",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1041,
+  "poe": true,
+  "yr": null,
+  "gibill": 251,
+  "cross": 212160,
+  "grad_rate": 53.1,
+  "grad_rate_rank": 770,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 17875,
+  "avg_stu_loan_debt_rank": 1066,
+  "indicator_group": 1
+}

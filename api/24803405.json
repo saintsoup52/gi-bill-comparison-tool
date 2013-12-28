@@ -1,0 +1,18 @@
+{
+  "facility_code": "24803405",
+  "institution": "CONCORDE CAREER COLLEGE (SAN BERNARDINO)",
+  "city": "San Bernardino",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1389,
+  "poe": true,
+  "yr": true,
+  "gibill": 61,
+  "cross": 124706,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

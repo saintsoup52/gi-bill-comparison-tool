@@ -1,0 +1,18 @@
+{
+  "facility_code": "21004303",
+  "institution": "COLLINS COLLEGE",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": true,
+  "gibill": 110,
+  "cross": 103723,
+  "grad_rate": 40.9,
+  "grad_rate_rank": 1200,
+  "default_rate": 28.6,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 1
+}

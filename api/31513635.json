@@ -1,0 +1,18 @@
+{
+  "facility_code": "31513635",
+  "institution": "CASE WESTERN RESERVE UNIVERSITY",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1251,
+  "poe": true,
+  "yr": true,
+  "gibill": 64,
+  "cross": 201645,
+  "grad_rate": 78.1,
+  "grad_rate_rank": 181,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 18688,
+  "avg_stu_loan_debt_rank": 1173,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "13115025",
+  "institution": "MISSOURI STATE UNIVERSITY-WEST PLAINS",
+  "city": "West Plains",
+  "state": "MO",
+  "country": "USA",
+  "bah": 990,
+  "poe": true,
+  "yr": null,
+  "gibill": 120,
+  "cross": 179344,
+  "grad_rate": 31.7,
+  "grad_rate_rank": 488,
+  "default_rate": 20.8,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 550,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "25010603",
+  "institution": "CORTIVA INSTITUTE - SCOTTSDALE",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1461,
+  "poe": true,
+  "yr": null,
+  "gibill": 6,
+  "cross": 105482,
+  "grad_rate": 62.5,
+  "grad_rate_rank": 1489,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 9196,
+  "avg_stu_loan_debt_rank": 1597,
+  "indicator_group": 5
+}

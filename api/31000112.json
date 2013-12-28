@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000112",
+  "institution": "THE COLLEGE OF IDAHO",
+  "city": "Caldwell",
+  "state": "ID",
+  "country": "USA",
+  "bah": 933,
+  "poe": true,
+  "yr": true,
+  "gibill": 24,
+  "cross": 142294,
+  "grad_rate": 63.4,
+  "grad_rate_rank": 465,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 17259,
+  "avg_stu_loan_debt_rank": 985,
+  "indicator_group": 1
+}

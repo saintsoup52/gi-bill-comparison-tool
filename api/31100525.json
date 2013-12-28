@@ -1,0 +1,18 @@
+{
+  "facility_code": "31100525",
+  "institution": "LINDENWOOD UNIVERSITY",
+  "city": "St. Charles",
+  "state": "MO",
+  "country": "USA",
+  "bah": 1332,
+  "poe": true,
+  "yr": true,
+  "gibill": 371,
+  "cross": 177968,
+  "grad_rate": 44.9,
+  "grad_rate_rank": 1061,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1
+}

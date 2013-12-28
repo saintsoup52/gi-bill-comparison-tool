@@ -1,0 +1,18 @@
+{
+  "facility_code": "11913138",
+  "institution": "MANSFIELD UNIVERSITY OF PA",
+  "city": "Mansfield",
+  "state": "PA",
+  "country": "USA",
+  "bah": 990,
+  "poe": true,
+  "yr": true,
+  "gibill": 121,
+  "cross": 213783,
+  "grad_rate": 52.7,
+  "grad_rate_rank": 782,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 19347,
+  "avg_stu_loan_debt_rank": 1293,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "24812136",
+  "institution": "PLATT COLLEGE MOORE",
+  "city": "Moore",
+  "state": "OK",
+  "country": "USA",
+  "bah": 1086,
+  "poe": true,
+  "yr": true,
+  "gibill": 18,
+  "cross": 447379,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 25.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

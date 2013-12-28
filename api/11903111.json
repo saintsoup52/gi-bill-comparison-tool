@@ -1,0 +1,18 @@
+{
+  "facility_code": "11903111",
+  "institution": "SAVANNAH STATE UNIVERSITY",
+  "city": "Savannah",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1410,
+  "poe": true,
+  "yr": null,
+  "gibill": 204,
+  "cross": 140960,
+  "grad_rate": 30.1,
+  "grad_rate_rank": 1498,
+  "default_rate": 16.2,
+  "avg_stu_loan_debt": 18283,
+  "avg_stu_loan_debt_rank": 1119,
+  "indicator_group": 1
+}

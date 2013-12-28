@@ -1,0 +1,18 @@
+{
+  "facility_code": "31924138",
+  "institution": "VILLANOVA UNIVERSITY",
+  "city": "Villanova",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": true,
+  "gibill": 1383,
+  "cross": 216597,
+  "grad_rate": 90.5,
+  "grad_rate_rank": 58,
+  "default_rate": 1.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1922,
+  "indicator_group": 1
+}

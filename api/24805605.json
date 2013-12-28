@@ -1,0 +1,18 @@
+{
+  "facility_code": "24805605",
+  "institution": "HEALD COLLEGE-CONCORD",
+  "city": "Concord",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2409,
+  "poe": true,
+  "yr": true,
+  "gibill": 122,
+  "cross": 115533,
+  "grad_rate": 48.1,
+  "grad_rate_rank": 239,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 13019,
+  "avg_stu_loan_debt_rank": 1064,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11903113",
+  "institution": "NORTHERN ILLINOIS UNIVERSITY",
+  "city": "Dekalb",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1200,
+  "poe": true,
+  "yr": null,
+  "gibill": 698,
+  "cross": 147703,
+  "grad_rate": 55.5,
+  "grad_rate_rank": 688,
+  "default_rate": 7.4,
+  "avg_stu_loan_debt": 17325,
+  "avg_stu_loan_debt_rank": 991,
+  "indicator_group": 1
+}

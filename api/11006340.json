@@ -1,0 +1,18 @@
+{
+  "facility_code": "11006340",
+  "institution": "FRANCIS MARION UNIVERSITY",
+  "city": "Florence",
+  "state": "SC",
+  "country": "USA",
+  "bah": 1041,
+  "poe": true,
+  "yr": true,
+  "gibill": 221,
+  "cross": 218061,
+  "grad_rate": 41.7,
+  "grad_rate_rank": 1167,
+  "default_rate": 6.5,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1
+}

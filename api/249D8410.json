@@ -1,0 +1,18 @@
+{
+  "facility_code": "249D8410",
+  "institution": "SANFORD BROWN INSTITUTE - ORLANDO",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1302,
+  "poe": true,
+  "yr": true,
+  "gibill": null,
+  "cross": 458663,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 20.7,
+  "avg_stu_loan_debt": 11352,
+  "avg_stu_loan_debt_rank": 690,
+  "indicator_group": 3
+}

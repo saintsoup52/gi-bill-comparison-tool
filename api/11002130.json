@@ -1,0 +1,18 @@
+{
+  "facility_code": "11002130",
+  "institution": "RAMAPO COLLEGE OF NEW JERSEY",
+  "city": "Mahwah",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": true,
+  "gibill": 71,
+  "cross": 186201,
+  "grad_rate": 70.5,
+  "grad_rate_rank": 295,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1305,
+  "indicator_group": 1
+}

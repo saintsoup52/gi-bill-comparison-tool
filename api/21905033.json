@@ -1,0 +1,18 @@
+{
+  "facility_code": "21905033",
+  "institution": "STRAYER UNIVERSITY - SOUTH RALEIGH",
+  "city": "Raleigh",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1125,
+  "poe": true,
+  "yr": true,
+  "gibill": 63,
+  "cross": 453163,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1835,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

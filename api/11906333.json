@@ -1,0 +1,18 @@
+{
+  "facility_code": "11906333",
+  "institution": "UNIVERISTY OF NORTH CAROLINA AT CHAPEL HILL/KENAN FLAGLER BUSINESS SCHOOL",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1146,
+  "poe": true,
+  "yr": true,
+  "gibill": 63,
+  "cross": 199120,
+  "grad_rate": 89.0,
+  "grad_rate_rank": 67,
+  "default_rate": 0.8,
+  "avg_stu_loan_debt": 17115,
+  "avg_stu_loan_debt_rank": 963,
+  "indicator_group": 1
+}

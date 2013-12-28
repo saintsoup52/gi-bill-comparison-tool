@@ -1,0 +1,18 @@
+{
+  "facility_code": "31003123",
+  "institution": "CONCORDIA UNIVERSITY",
+  "city": "St Paul",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1449,
+  "poe": true,
+  "yr": true,
+  "gibill": 131,
+  "cross": 173328,
+  "grad_rate": 47.9,
+  "grad_rate_rank": 964,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 21071,
+  "avg_stu_loan_debt_rank": 1555,
+  "indicator_group": 1
+}

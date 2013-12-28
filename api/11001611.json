@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001611",
+  "institution": "ALBANY STATE UNIVERSITY",
+  "city": "Albany",
+  "state": "GA",
+  "country": "USA",
+  "bah": 978,
+  "poe": true,
+  "yr": true,
+  "gibill": 178,
+  "cross": 138716,
+  "grad_rate": 40.6,
+  "grad_rate_rank": 1207,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 21091,
+  "avg_stu_loan_debt_rank": 1558,
+  "indicator_group": 1
+}

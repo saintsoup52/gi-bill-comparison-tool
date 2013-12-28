@@ -1,0 +1,18 @@
+{
+  "facility_code": "21958301",
+  "institution": "STRAYER UNIVERSITY - HUNTSVILLE CAMPUS",
+  "city": "Huntsville",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1098,
+  "poe": true,
+  "yr": true,
+  "gibill": 92,
+  "cross": 450377,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "14001801",
+  "institution": "JEFFERSON STATE COMMUNITY COLLEGE",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1113,
+  "poe": true,
+  "yr": null,
+  "gibill": 479,
+  "cross": 101505,
+  "grad_rate": 11.9,
+  "grad_rate_rank": 1143,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 121,
+  "indicator_group": 2
+}

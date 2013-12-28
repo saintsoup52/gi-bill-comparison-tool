@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000130",
+  "institution": "UNIVERSITY OF PHOENIX - JERSEY CITY",
+  "city": "Jersey City",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": true,
+  "gibill": 120,
+  "cross": 445300,
+  "grad_rate": 16.7,
+  "grad_rate_rank": 1710,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

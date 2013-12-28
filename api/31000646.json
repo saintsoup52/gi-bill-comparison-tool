@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000646",
+  "institution": "LYNCHBURG COLLEGE",
+  "city": "Lynchburg",
+  "state": "VA",
+  "country": "USA",
+  "bah": 1113,
+  "poe": true,
+  "yr": true,
+  "gibill": 80,
+  "cross": 232609,
+  "grad_rate": 52.1,
+  "grad_rate_rank": 807,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1741,
+  "indicator_group": 1
+}

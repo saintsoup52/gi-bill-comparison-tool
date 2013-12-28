@@ -1,0 +1,18 @@
+{
+  "facility_code": "31505305",
+  "institution": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "city": "Pasadena",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": null,
+  "cross": 110404,
+  "grad_rate": 86.7,
+  "grad_rate_rank": 84,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 17750,
+  "avg_stu_loan_debt_rank": 1052,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21115105",
+  "institution": "ITT TECHNICAL INSTITUTE (CULVER CITY)",
+  "city": "Culver City",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 55,
+  "cross": 459693,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1193,
+  "indicator_group": 2
+}

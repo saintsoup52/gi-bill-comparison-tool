@@ -1,0 +1,18 @@
+{
+  "facility_code": "21001016",
+  "institution": "NATIONAL AMERICAN UNIVERSITY - OVERLAND PARK",
+  "city": "Overland Park",
+  "state": "KS",
+  "country": "USA",
+  "bah": 1158,
+  "poe": true,
+  "yr": true,
+  "gibill": 25,
+  "cross": 442718,
+  "grad_rate": 28.6,
+  "grad_rate_rank": 577,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 11421,
+  "avg_stu_loan_debt_rank": 944,
+  "indicator_group": 2
+}

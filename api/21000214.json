@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000214",
+  "institution": "DEVRY KELLER GRADUATE SCHOOL OF MANAGEMENT INDIANAPOLIS",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1245,
+  "poe": true,
+  "yr": true,
+  "gibill": 85,
+  "cross": 462123,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 4625,
+  "avg_stu_loan_debt_rank": 233,
+  "indicator_group": 4
+}

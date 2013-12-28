@@ -1,0 +1,18 @@
+{
+  "facility_code": "31910132",
+  "institution": "DOMINICAN COLLEGE",
+  "city": "Orangeburg",
+  "state": "NY",
+  "country": "USA",
+  "bah": 2295,
+  "poe": true,
+  "yr": true,
+  "gibill": 22,
+  "cross": 190761,
+  "grad_rate": 41.5,
+  "grad_rate_rank": 1179,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 1
+}

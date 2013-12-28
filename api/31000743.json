@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000743",
+  "institution": "AUSTIN COLLEGE",
+  "city": "Sherman",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1233,
+  "poe": true,
+  "yr": true,
+  "gibill": 17,
+  "cross": 222983,
+  "grad_rate": 74.9,
+  "grad_rate_rank": 229,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 24973,
+  "avg_stu_loan_debt_rank": 1917,
+  "indicator_group": 1
+}

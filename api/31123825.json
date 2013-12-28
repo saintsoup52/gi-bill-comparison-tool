@@ -1,0 +1,18 @@
+{
+  "facility_code": "31123825",
+  "institution": "DRURY UNIVERSITY",
+  "city": "Cabool",
+  "state": "MO",
+  "country": "USA",
+  "bah": 1026,
+  "poe": true,
+  "yr": true,
+  "gibill": 38,
+  "cross": 177214,
+  "grad_rate": 53.0,
+  "grad_rate_rank": 776,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21061910",
+  "institution": "ITT TECHNICAL INSTITUTE -FT LAUDERDALE",
+  "city": "Ft Lauderdale",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1950,
+  "poe": true,
+  "yr": true,
+  "gibill": 127,
+  "cross": 409069,
+  "grad_rate": 19.8,
+  "grad_rate_rank": 870,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1193,
+  "indicator_group": 2
+}

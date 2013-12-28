@@ -1,0 +1,18 @@
+{
+  "facility_code": "14999405",
+  "institution": "GLENDALE COMMUNITY COLLEGE",
+  "city": "Glendale",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": null,
+  "gibill": 151,
+  "cross": 115001,
+  "grad_rate": 28.3,
+  "grad_rate_rank": 589,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 5818,
+  "avg_stu_loan_debt_rank": 425,
+  "indicator_group": 2
+}

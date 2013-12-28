@@ -1,0 +1,18 @@
+{
+  "facility_code": "21005011",
+  "institution": "ARGOSY UNIVERSITY - ATLANTA CAMPUS",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1164,
+  "poe": true,
+  "yr": true,
+  "gibill": 148,
+  "cross": 367936,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 9220,
+  "avg_stu_loan_debt_rank": 197,
+  "indicator_group": 1
+}

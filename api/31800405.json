@@ -1,0 +1,18 @@
+{
+  "facility_code": "31800405",
+  "institution": "UNIVERSITY OF SAN DIEGO",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2139,
+  "poe": true,
+  "yr": true,
+  "gibill": 334,
+  "cross": 122436,
+  "grad_rate": 74.9,
+  "grad_rate_rank": 229,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1741,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11810104",
+  "institution": "UNIVERSITY OF ARKANSAS AT FAYETTEVILLE",
+  "city": "Fayetteville",
+  "state": "AR",
+  "country": "USA",
+  "bah": 852,
+  "poe": true,
+  "yr": true,
+  "gibill": 743,
+  "cross": 106397,
+  "grad_rate": 59.0,
+  "grad_rate_rank": 595,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 17077,
+  "avg_stu_loan_debt_rank": 960,
+  "indicator_group": 1
+}

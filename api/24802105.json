@@ -1,0 +1,18 @@
+{
+  "facility_code": "24802105",
+  "institution": "CARRINGTON COLLEGE CALIFORNIA (PLEASANT HILL)",
+  "city": "Pleasant Hill",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2409,
+  "poe": true,
+  "yr": true,
+  "gibill": 30,
+  "cross": 438258,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 710,
+  "indicator_group": 3
+}

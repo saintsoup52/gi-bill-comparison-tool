@@ -1,0 +1,18 @@
+{
+  "facility_code": "21801523",
+  "institution": "RASMUSSEN COLLEGE- LAKE ELMO",
+  "city": "Lake Elmo",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1449,
+  "poe": true,
+  "yr": true,
+  "gibill": 43,
+  "cross": 175014,
+  "grad_rate": 39.1,
+  "grad_rate_rank": 345,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 755,
+  "indicator_group": 2
+}

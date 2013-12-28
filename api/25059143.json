@@ -1,0 +1,18 @@
+{
+  "facility_code": "25059143",
+  "institution": "PCI HEALTH TRNG CENTER DALLAS",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1611,
+  "poe": true,
+  "yr": null,
+  "gibill": 3,
+  "cross": 369783,
+  "grad_rate": 78.6,
+  "grad_rate_rank": 721,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 1008,
+  "indicator_group": 5
+}

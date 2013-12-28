@@ -1,0 +1,18 @@
+{
+  "facility_code": "21001444",
+  "institution": "ARGOSY UNIVERSITY - SLC",
+  "city": "Draper",
+  "state": "UT",
+  "country": "USA",
+  "bah": 1233,
+  "poe": true,
+  "yr": true,
+  "gibill": 25,
+  "cross": 452090,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 9220,
+  "avg_stu_loan_debt_rank": 197,
+  "indicator_group": 1
+}

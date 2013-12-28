@@ -1,0 +1,18 @@
+{
+  "facility_code": "25002003",
+  "institution": "CORTIVA INSTITUTE - TUCSON",
+  "city": "Tucson",
+  "state": "AZ",
+  "country": "USA",
+  "bah": 1176,
+  "poe": true,
+  "yr": null,
+  "gibill": 12,
+  "cross": 104504,
+  "grad_rate": 97.1,
+  "grad_rate_rank": 99,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1663,
+  "indicator_group": 5
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "119A1132",
+  "institution": "SUNY COLLEGE AT PURCHASE",
+  "city": "Purchase",
+  "state": "NY",
+  "country": "USA",
+  "bah": 2490,
+  "poe": true,
+  "yr": null,
+  "gibill": 39,
+  "cross": 196219,
+  "grad_rate": 55.5,
+  "grad_rate_rank": 688,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1629,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "24805505",
+  "institution": "HEALD COLLEGE-FRESNO",
+  "city": "Fresno",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1308,
+  "poe": true,
+  "yr": true,
+  "gibill": 130,
+  "cross": 115472,
+  "grad_rate": 38.8,
+  "grad_rate_rank": 352,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 755,
+  "indicator_group": 2
+}

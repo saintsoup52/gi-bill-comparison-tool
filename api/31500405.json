@@ -1,0 +1,18 @@
+{
+  "facility_code": "31500405",
+  "institution": "WOODBURY UNIVERSITY",
+  "city": "Burbank",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 36,
+  "cross": 125897,
+  "grad_rate": 51.9,
+  "grad_rate_rank": 814,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 31000,
+  "avg_stu_loan_debt_rank": 2042,
+  "indicator_group": 1
+}

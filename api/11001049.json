@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001049",
+  "institution": "UNIV OF WISCONSIN-WHITEWATER",
+  "city": "Whitewater",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1251,
+  "poe": true,
+  "yr": true,
+  "gibill": 310,
+  "cross": 240189,
+  "grad_rate": 53.9,
+  "grad_rate_rank": 749,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 17292,
+  "avg_stu_loan_debt_rank": 988,
+  "indicator_group": 1
+}

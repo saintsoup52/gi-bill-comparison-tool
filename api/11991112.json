@@ -1,0 +1,18 @@
+{
+  "facility_code": "11991112",
+  "institution": "BOISE STATE UNIVERSITY",
+  "city": "Boise",
+  "state": "ID",
+  "country": "USA",
+  "bah": 933,
+  "poe": true,
+  "yr": true,
+  "gibill": 1395,
+  "cross": 142115,
+  "grad_rate": 29.2,
+  "grad_rate_rank": 1519,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 14900,
+  "avg_stu_loan_debt_rank": 717,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11900148",
+  "institution": "WEST VIRGINIA STATE UNIVERSITY",
+  "city": "Institute",
+  "state": "WV",
+  "country": "USA",
+  "bah": 945,
+  "poe": true,
+  "yr": true,
+  "gibill": 125,
+  "cross": 237899,
+  "grad_rate": 24.5,
+  "grad_rate_rank": 1598,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 14013,
+  "avg_stu_loan_debt_rank": 640,
+  "indicator_group": 1
+}

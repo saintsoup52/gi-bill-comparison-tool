@@ -1,0 +1,18 @@
+{
+  "facility_code": "21902405",
+  "institution": "EMPIRE COLLEGE",
+  "city": "Santa Rosa",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1983,
+  "poe": true,
+  "yr": null,
+  "gibill": 28,
+  "cross": 114123,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 777,
+  "indicator_group": 3
+}

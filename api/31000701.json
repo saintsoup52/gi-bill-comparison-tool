@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000701",
+  "institution": "JUDSON COLLEGE",
+  "city": "Marion",
+  "state": "AL",
+  "country": "USA",
+  "bah": 990,
+  "poe": true,
+  "yr": true,
+  "gibill": 9,
+  "cross": 101541,
+  "grad_rate": 38.0,
+  "grad_rate_rank": 1300,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 12365,
+  "avg_stu_loan_debt_rank": 488,
+  "indicator_group": 1
+}

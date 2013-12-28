@@ -1,0 +1,18 @@
+{
+  "facility_code": "31874232",
+  "institution": "FORDHAM UNIVERSITY AT LINCOLN CENTER",
+  "city": "New York",
+  "state": "NY",
+  "country": "USA",
+  "bah": 3258,
+  "poe": true,
+  "yr": true,
+  "gibill": 160,
+  "cross": 191241,
+  "grad_rate": 77.6,
+  "grad_rate_rank": 183,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1741,
+  "indicator_group": 1
+}

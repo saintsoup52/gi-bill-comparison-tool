@@ -1,0 +1,18 @@
+{
+  "facility_code": "31100925",
+  "institution": "FONTBONNE UNIVERSITY",
+  "city": "St Louis",
+  "state": "MO",
+  "country": "USA",
+  "bah": 1332,
+  "poe": true,
+  "yr": true,
+  "gibill": 36,
+  "cross": 177418,
+  "grad_rate": 42.8,
+  "grad_rate_rank": 1133,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 27500,
+  "avg_stu_loan_debt_rank": 2018,
+  "indicator_group": 1
+}

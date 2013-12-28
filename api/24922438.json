@@ -1,0 +1,18 @@
+{
+  "facility_code": "24922438",
+  "institution": "PENNCO TECHNICAL INSTITUTE",
+  "city": "Bristol",
+  "state": "PA",
+  "country": "USA",
+  "bah": 2025,
+  "poe": true,
+  "yr": true,
+  "gibill": 77,
+  "cross": 214944,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

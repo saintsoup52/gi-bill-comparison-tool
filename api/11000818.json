@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000818",
+  "institution": "SOUTHEASTERN LOUISIANA UNIVERSITY",
+  "city": "Hammond",
+  "state": "LA",
+  "country": "USA",
+  "bah": 1290,
+  "poe": true,
+  "yr": true,
+  "gibill": 480,
+  "cross": 160612,
+  "grad_rate": 33.2,
+  "grad_rate_rank": 1418,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 490,
+  "indicator_group": 1
+}

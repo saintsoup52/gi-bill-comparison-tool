@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002022",
+  "institution": "UNIVERSITY OF DETROIT MERCY",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1521,
+  "poe": true,
+  "yr": true,
+  "gibill": 78,
+  "cross": 169716,
+  "grad_rate": 57.2,
+  "grad_rate_rank": 645,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 21085,
+  "avg_stu_loan_debt_rank": 1557,
+  "indicator_group": 1
+}

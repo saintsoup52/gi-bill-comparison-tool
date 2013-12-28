@@ -1,0 +1,18 @@
+{
+  "facility_code": "31964113",
+  "institution": "NATIONAL UNIVERSITY OF HEALTH  SCIENCES",
+  "city": "Lombard",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 17,
+  "cross": 147590,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 8875,
+  "avg_stu_loan_debt_rank": 183,
+  "indicator_group": 1
+}

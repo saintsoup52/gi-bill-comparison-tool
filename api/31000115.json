@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000115",
+  "institution": "BRIAR CLIFF UNIVERSITY",
+  "city": "Sioux City",
+  "state": "IA",
+  "country": "USA",
+  "bah": 951,
+  "poe": true,
+  "yr": true,
+  "gibill": 43,
+  "cross": 152992,
+  "grad_rate": 44.6,
+  "grad_rate_rank": 1073,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 1081,
+  "indicator_group": 1
+}

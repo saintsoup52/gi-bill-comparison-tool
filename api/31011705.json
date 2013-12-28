@@ -1,0 +1,18 @@
+{
+  "facility_code": "31011705",
+  "institution": "ALLIANT INTERNATIONAL UNIVERSITY (SACRAMENTO)",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1806,
+  "poe": true,
+  "yr": null,
+  "gibill": 1,
+  "cross": 110468,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 2000,
+  "avg_stu_loan_debt_rank": 80,
+  "indicator_group": 1
+}

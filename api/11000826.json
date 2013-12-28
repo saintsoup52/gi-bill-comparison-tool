@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000826",
+  "institution": "MONTANA STATE UNIVERSITY-BILLINGS",
+  "city": "Billings",
+  "state": "MT",
+  "country": "USA",
+  "bah": 1230,
+  "poe": true,
+  "yr": true,
+  "gibill": 271,
+  "cross": 180179,
+  "grad_rate": 32.9,
+  "grad_rate_rank": 1425,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 8887,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 1
+}

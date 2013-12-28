@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000543",
+  "institution": "ANGELO STATE UNIVERSITY",
+  "city": "San Angelo",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1101,
+  "poe": true,
+  "yr": true,
+  "gibill": 443,
+  "cross": 222831,
+  "grad_rate": 30.3,
+  "grad_rate_rank": 1494,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 12312,
+  "avg_stu_loan_debt_rank": 482,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31005733",
+  "institution": "MARS HILL UNIVERSITY",
+  "city": "Mars Hill",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1185,
+  "poe": true,
+  "yr": true,
+  "gibill": 36,
+  "cross": 198899,
+  "grad_rate": 38.5,
+  "grad_rate_rank": 1285,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 17000,
+  "avg_stu_loan_debt_rank": 950,
+  "indicator_group": 1
+}

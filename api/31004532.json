@@ -1,0 +1,18 @@
+{
+  "facility_code": "31004532",
+  "institution": "UNION COLLEGE",
+  "city": "Schenectady",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1698,
+  "poe": true,
+  "yr": true,
+  "gibill": 7,
+  "cross": 196866,
+  "grad_rate": 86.4,
+  "grad_rate_rank": 88,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1741,
+  "indicator_group": 1
+}

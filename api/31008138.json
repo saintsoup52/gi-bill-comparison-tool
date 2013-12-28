@@ -1,0 +1,18 @@
+{
+  "facility_code": "31008138",
+  "institution": "CABRINI COLLEGE",
+  "city": "Radnor",
+  "state": "PA",
+  "country": "USA",
+  "bah": 2025,
+  "poe": true,
+  "yr": true,
+  "gibill": 26,
+  "cross": 211352,
+  "grad_rate": 52.5,
+  "grad_rate_rank": 790,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 21264,
+  "avg_stu_loan_debt_rank": 1571,
+  "indicator_group": 1
+}

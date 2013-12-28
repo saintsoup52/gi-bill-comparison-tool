@@ -1,0 +1,18 @@
+{
+  "facility_code": "13301032",
+  "institution": "SUNY COLLEGE AT GENESEO",
+  "city": "Geneseo",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1233,
+  "poe": true,
+  "yr": null,
+  "gibill": 65,
+  "cross": 196167,
+  "grad_rate": 80.9,
+  "grad_rate_rank": 144,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1177,
+  "indicator_group": 1
+}

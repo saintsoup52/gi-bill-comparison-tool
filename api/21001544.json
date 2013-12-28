@@ -1,0 +1,18 @@
+{
+  "facility_code": "21001544",
+  "institution": "THE ART INSTITUTE OF SALT LAKE CITY",
+  "city": "Draper",
+  "state": "UT",
+  "country": "USA",
+  "bah": 1233,
+  "poe": true,
+  "yr": true,
+  "gibill": 71,
+  "cross": 450049,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 12668,
+  "avg_stu_loan_debt_rank": 1019,
+  "indicator_group": 2
+}

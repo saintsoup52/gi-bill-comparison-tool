@@ -1,0 +1,18 @@
+{
+  "facility_code": "21904611",
+  "institution": "STRAYER UNIVERSITY (AUGUSTA)",
+  "city": "Augusta",
+  "state": "GA",
+  "country": "USA",
+  "bah": 1092,
+  "poe": true,
+  "yr": true,
+  "gibill": 301,
+  "cross": 458919,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1835,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

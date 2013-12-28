@@ -1,0 +1,18 @@
+{
+  "facility_code": "13960125",
+  "institution": "MISSOURI STATE UNIVERSITY",
+  "city": "Springfield",
+  "state": "MO",
+  "country": "USA",
+  "bah": 915,
+  "poe": true,
+  "yr": true,
+  "gibill": 747,
+  "cross": 179566,
+  "grad_rate": 54.5,
+  "grad_rate_rank": 726,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 16838,
+  "avg_stu_loan_debt_rank": 926,
+  "indicator_group": 1
+}

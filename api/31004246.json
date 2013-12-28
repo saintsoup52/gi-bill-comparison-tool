@@ -1,0 +1,18 @@
+{
+  "facility_code": "31004246",
+  "institution": "VIRGINIA WESLEYAN COLLEGE",
+  "city": "Norfolk",
+  "state": "VA",
+  "country": "USA",
+  "bah": 1518,
+  "poe": true,
+  "yr": true,
+  "gibill": 225,
+  "cross": 234173,
+  "grad_rate": 48.3,
+  "grad_rate_rank": 950,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 20600,
+  "avg_stu_loan_debt_rank": 1494,
+  "indicator_group": 1
+}

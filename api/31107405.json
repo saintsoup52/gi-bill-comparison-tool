@@ -1,0 +1,18 @@
+{
+  "facility_code": "31107405",
+  "institution": "SAYBROOK UNIVERSITY",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2928,
+  "poe": true,
+  "yr": null,
+  "gibill": 6,
+  "cross": 123095,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 4
+}

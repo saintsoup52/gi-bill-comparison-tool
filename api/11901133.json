@@ -1,0 +1,18 @@
+{
+  "facility_code": "11901133",
+  "institution": "UNIVERSITY OF NORTH CAROLINA @ CHARLOTTE",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1224,
+  "poe": true,
+  "yr": true,
+  "gibill": 1024,
+  "cross": 199139,
+  "grad_rate": 52.7,
+  "grad_rate_rank": 782,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 15250,
+  "avg_stu_loan_debt_rank": 754,
+  "indicator_group": 1
+}

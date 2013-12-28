@@ -1,0 +1,18 @@
+{
+  "facility_code": "21114322",
+  "institution": "DEVRY UNIVERSITY - SOUTHFIELD",
+  "city": "Southfield",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1521,
+  "poe": true,
+  "yr": true,
+  "gibill": 46,
+  "cross": 450508,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 24.1,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1341,
+  "indicator_group": 1
+}

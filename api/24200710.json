@@ -1,0 +1,18 @@
+{
+  "facility_code": "24200710",
+  "institution": "BROWN MACKIE COLLEGE",
+  "city": "Miramar",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1950,
+  "poe": true,
+  "yr": true,
+  "gibill": 44,
+  "cross": 447290,
+  "grad_rate": 50.0,
+  "grad_rate_rank": 219,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 12668,
+  "avg_stu_loan_debt_rank": 1019,
+  "indicator_group": 2
+}

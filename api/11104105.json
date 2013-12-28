@@ -1,0 +1,18 @@
+{
+  "facility_code": "11104105",
+  "institution": "UNIVERSITY OF CALIFORNIA  MERCED",
+  "city": "Merced",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1233,
+  "poe": null,
+  "yr": true,
+  "gibill": 52,
+  "cross": 445188,
+  "grad_rate": 58.2,
+  "grad_rate_rank": 615,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 548,
+  "indicator_group": 1
+}

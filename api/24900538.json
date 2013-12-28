@@ -1,0 +1,18 @@
+{
+  "facility_code": "24900538",
+  "institution": "LINCOLN TECHNICAL INSTITUTE (CENTER CITY)",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": true,
+  "gibill": 23,
+  "cross": 442046,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 31.0,
+  "avg_stu_loan_debt": 8611,
+  "avg_stu_loan_debt_rank": 384,
+  "indicator_group": 3
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000649",
+  "institution": "SANFORD - BROWN COLLEGE (SBC)",
+  "city": "West Allis",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1539,
+  "poe": true,
+  "yr": true,
+  "gibill": 16,
+  "cross": 448789,
+  "grad_rate": 40.1,
+  "grad_rate_rank": 252,
+  "default_rate": 27.5,
+  "avg_stu_loan_debt": 11125,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 3
+}

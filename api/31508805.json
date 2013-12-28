@@ -1,0 +1,18 @@
+{
+  "facility_code": "31508805",
+  "institution": "SOUTHWESTERN UNIVERSITY SCHOOL OF LAW",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 10,
+  "cross": 123970,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 4
+}

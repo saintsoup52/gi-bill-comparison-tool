@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000207",
+  "institution": "CONNECTICUT COLLEGE",
+  "city": "New London",
+  "state": "CT",
+  "country": "USA",
+  "bah": 1425,
+  "poe": true,
+  "yr": true,
+  "gibill": 3,
+  "cross": 128902,
+  "grad_rate": 83.5,
+  "grad_rate_rank": 111,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 22219,
+  "avg_stu_loan_debt_rank": 1675,
+  "indicator_group": 1
+}

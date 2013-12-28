@@ -1,0 +1,18 @@
+{
+  "facility_code": "21800330",
+  "institution": "STRAYER UNIVERSITY - WILLINGBORO",
+  "city": "Willingboro",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": true,
+  "gibill": 57,
+  "cross": 453215,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

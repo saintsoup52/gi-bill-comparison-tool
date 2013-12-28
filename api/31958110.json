@@ -1,0 +1,18 @@
+{
+  "facility_code": "31958110",
+  "institution": "LYNN UNIVERSITY",
+  "city": "Boca Raton",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1950,
+  "poe": true,
+  "yr": true,
+  "gibill": 55,
+  "cross": 132657,
+  "grad_rate": 41.6,
+  "grad_rate_rank": 1173,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 1
+}

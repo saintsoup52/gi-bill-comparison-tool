@@ -1,0 +1,18 @@
+{
+  "facility_code": "31383132",
+  "institution": "HILBERT COLLEGE",
+  "city": "Hamburg",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1410,
+  "poe": true,
+  "yr": true,
+  "gibill": 63,
+  "cross": 191621,
+  "grad_rate": 40.2,
+  "grad_rate_rank": 1222,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1475,
+  "indicator_group": 1
+}

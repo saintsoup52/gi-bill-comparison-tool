@@ -1,0 +1,18 @@
+{
+  "facility_code": "11011006",
+  "institution": "COLORADO STATE UNIVERSITY - FT COLLINS",
+  "city": "Fort Collins",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1185,
+  "poe": true,
+  "yr": true,
+  "gibill": 1027,
+  "cross": 126818,
+  "grad_rate": 63.5,
+  "grad_rate_rank": 462,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 19597,
+  "avg_stu_loan_debt_rank": 1329,
+  "indicator_group": 1
+}

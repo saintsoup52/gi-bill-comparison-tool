@@ -1,0 +1,18 @@
+{
+  "facility_code": "13001324",
+  "institution": "DELTA STATE UNIVERSITY",
+  "city": "Cleveland",
+  "state": "MS",
+  "country": "USA",
+  "bah": 1005,
+  "poe": true,
+  "yr": null,
+  "gibill": 109,
+  "cross": 175616,
+  "grad_rate": 32.3,
+  "grad_rate_rank": 1442,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 11388,
+  "avg_stu_loan_debt_rank": 323,
+  "indicator_group": 1
+}

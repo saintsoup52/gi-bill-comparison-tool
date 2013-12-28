@@ -1,0 +1,18 @@
+{
+  "facility_code": "31003321",
+  "institution": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "city": "Cambridge",
+  "state": "MA",
+  "country": "USA",
+  "bah": 2454,
+  "poe": true,
+  "yr": true,
+  "gibill": 86,
+  "cross": 166683,
+  "grad_rate": 92.9,
+  "grad_rate_rank": 32,
+  "default_rate": 0.5,
+  "avg_stu_loan_debt": 15293,
+  "avg_stu_loan_debt_rank": 764,
+  "indicator_group": 1
+}

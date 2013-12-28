@@ -1,0 +1,18 @@
+{
+  "facility_code": "11802405",
+  "institution": "UNIVERSITY OF CALIFORNIA DAVIS",
+  "city": "Davis",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1806,
+  "poe": null,
+  "yr": true,
+  "gibill": 344,
+  "cross": 110644,
+  "grad_rate": 81.7,
+  "grad_rate_rank": 129,
+  "default_rate": 3.0,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 1
+}

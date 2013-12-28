@@ -1,0 +1,18 @@
+{
+  "facility_code": "31301832",
+  "institution": "HOBART & WILLIAM SMITH COLLEGES",
+  "city": "Geneva",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1344,
+  "poe": true,
+  "yr": true,
+  "gibill": 12,
+  "cross": 191630,
+  "grad_rate": 75.2,
+  "grad_rate_rank": 221,
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 24952,
+  "avg_stu_loan_debt_rank": 1916,
+  "indicator_group": 1
+}

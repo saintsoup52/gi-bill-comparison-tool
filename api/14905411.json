@@ -1,0 +1,18 @@
+{
+  "facility_code": "14905411",
+  "institution": "ALBANY TECHNICAL COLLEGE",
+  "city": "Albany",
+  "state": "GA",
+  "country": "USA",
+  "bah": 978,
+  "poe": true,
+  "yr": null,
+  "gibill": 365,
+  "cross": 138682,
+  "grad_rate": 43.0,
+  "grad_rate_rank": 241,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 183,
+  "indicator_group": 3
+}

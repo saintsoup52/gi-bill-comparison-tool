@@ -1,0 +1,18 @@
+{
+  "facility_code": "11985122",
+  "institution": "WAYNE STATE UNIVERSITY",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1521,
+  "poe": true,
+  "yr": true,
+  "gibill": 515,
+  "cross": 172644,
+  "grad_rate": 26.4,
+  "grad_rate_rank": 1565,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 1081,
+  "indicator_group": 1
+}

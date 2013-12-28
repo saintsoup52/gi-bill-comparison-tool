@@ -1,0 +1,18 @@
+{
+  "facility_code": "11034643",
+  "institution": "TEXAS A M UNIV SYS HEALTH SCI CENTER",
+  "city": "Bryan",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1284,
+  "poe": true,
+  "yr": null,
+  "gibill": 18,
+  "cross": 223214,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 1.1,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1
+}

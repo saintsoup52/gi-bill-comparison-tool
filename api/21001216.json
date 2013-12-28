@@ -1,0 +1,18 @@
+{
+  "facility_code": "21001216",
+  "institution": "UNIVERSITY OF PHOENIX LENEXA",
+  "city": "Lenexa",
+  "state": "KS",
+  "country": "USA",
+  "bah": 1158,
+  "poe": true,
+  "yr": true,
+  "gibill": 19,
+  "cross": 443465,
+  "grad_rate": 12.8,
+  "grad_rate_rank": 1754,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

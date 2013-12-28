@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000417",
+  "institution": "GEORGETOWN COLLEGE",
+  "city": "Georgetown",
+  "state": "KY",
+  "country": "USA",
+  "bah": 1119,
+  "poe": true,
+  "yr": true,
+  "gibill": 30,
+  "cross": 156745,
+  "grad_rate": 59.1,
+  "grad_rate_rank": 592,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 18029,
+  "avg_stu_loan_debt_rank": 1097,
+  "indicator_group": 1
+}

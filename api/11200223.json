@@ -1,0 +1,18 @@
+{
+  "facility_code": "11200223",
+  "institution": "BEMIDJI STATE UNIVERSITY",
+  "city": "Bemidji",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1038,
+  "poe": true,
+  "yr": null,
+  "gibill": 194,
+  "cross": 173124,
+  "grad_rate": 42.3,
+  "grad_rate_rank": 1148,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 12294,
+  "avg_stu_loan_debt_rank": 481,
+  "indicator_group": 1
+}

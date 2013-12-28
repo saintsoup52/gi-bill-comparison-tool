@@ -1,0 +1,18 @@
+{
+  "facility_code": "11802101",
+  "institution": "AUBURN UNIVERSITY AT MONTGOMERY",
+  "city": "Montgomery",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1119,
+  "poe": true,
+  "yr": true,
+  "gibill": 520,
+  "cross": 100830,
+  "grad_rate": 33.3,
+  "grad_rate_rank": 1403,
+  "default_rate": 12.4,
+  "avg_stu_loan_debt": 9773,
+  "avg_stu_loan_debt_rank": 250,
+  "indicator_group": 1
+}

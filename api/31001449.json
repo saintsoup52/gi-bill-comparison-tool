@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001449",
+  "institution": "SAINT NORBERT COLLEGE",
+  "city": "De Pere",
+  "state": "WI",
+  "country": "USA",
+  "bah": 879,
+  "poe": true,
+  "yr": true,
+  "gibill": 28,
+  "cross": 239716,
+  "grad_rate": 70.2,
+  "grad_rate_rank": 298,
+  "default_rate": 3.0,
+  "avg_stu_loan_debt": 22125,
+  "avg_stu_loan_debt_rank": 1654,
+  "indicator_group": 1
+}

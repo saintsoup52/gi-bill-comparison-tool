@@ -1,0 +1,18 @@
+{
+  "facility_code": "11003136",
+  "institution": "CAMERON UNIVERSITY",
+  "city": "Lawton",
+  "state": "OK",
+  "country": "USA",
+  "bah": 1008,
+  "poe": true,
+  "yr": true,
+  "gibill": 1229,
+  "cross": 206914,
+  "grad_rate": 19.0,
+  "grad_rate_rank": 1683,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 7450,
+  "avg_stu_loan_debt_rank": 161,
+  "indicator_group": 1
+}

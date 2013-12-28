@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001149",
+  "institution": "RIPON COLLEGE",
+  "city": "Ripon",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1038,
+  "poe": true,
+  "yr": true,
+  "gibill": 13,
+  "cross": 239628,
+  "grad_rate": 70.1,
+  "grad_rate_rank": 304,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 22625,
+  "avg_stu_loan_debt_rank": 1721,
+  "indicator_group": 1
+}

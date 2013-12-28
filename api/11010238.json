@@ -1,0 +1,18 @@
+{
+  "facility_code": "11010238",
+  "institution": "WEST CHESTER UNIVERSITY OF PA",
+  "city": "West Chester",
+  "state": "PA",
+  "country": "USA",
+  "bah": 2025,
+  "poe": true,
+  "yr": true,
+  "gibill": 261,
+  "cross": 216764,
+  "grad_rate": 68.4,
+  "grad_rate_rank": 337,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 19175,
+  "avg_stu_loan_debt_rank": 1275,
+  "indicator_group": 1
+}

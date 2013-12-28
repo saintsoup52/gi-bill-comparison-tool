@@ -1,0 +1,18 @@
+{
+  "facility_code": "34038043",
+  "institution": "REMINGTON COLLEGE",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1623,
+  "poe": true,
+  "yr": true,
+  "gibill": 52,
+  "cross": 445203,
+  "grad_rate": 59.0,
+  "grad_rate_rank": 144,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 9385,
+  "avg_stu_loan_debt_rank": 436,
+  "indicator_group": 3
+}

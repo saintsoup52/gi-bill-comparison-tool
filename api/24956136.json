@@ -1,0 +1,18 @@
+{
+  "facility_code": "24956136",
+  "institution": "OKLAHOMA TECHNICAL COLLEGE",
+  "city": "Tulsa",
+  "state": "OK",
+  "country": "USA",
+  "bah": 948,
+  "poe": true,
+  "yr": true,
+  "gibill": 30,
+  "cross": 469629,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 26.1,
+  "avg_stu_loan_debt": 9790,
+  "avg_stu_loan_debt_rank": 647,
+  "indicator_group": 3
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "119B3232",
+  "institution": "SUNY ALBANY",
+  "city": "Albany",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1698,
+  "poe": true,
+  "yr": null,
+  "gibill": 258,
+  "cross": 196060,
+  "grad_rate": 64.5,
+  "grad_rate_rank": 446,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 18862,
+  "avg_stu_loan_debt_rank": 1212,
+  "indicator_group": 1
+}

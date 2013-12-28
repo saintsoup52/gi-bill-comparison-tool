@@ -1,0 +1,18 @@
+{
+  "facility_code": "25054143",
+  "institution": "SOUTH TEXAS VOCATIONAL TECHNICAL INST MCALLEN",
+  "city": "Mcallen",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1365,
+  "poe": true,
+  "yr": null,
+  "gibill": 13,
+  "cross": 228219,
+  "grad_rate": 89.1,
+  "grad_rate_rank": 295,
+  "default_rate": 13.2,
+  "avg_stu_loan_debt": 9340,
+  "avg_stu_loan_debt_rank": 1619,
+  "indicator_group": 5
+}

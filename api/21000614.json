@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000614",
+  "institution": "THE ART INSTITUTE OF INDIANAPOLIS",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1245,
+  "poe": true,
+  "yr": true,
+  "gibill": 107,
+  "cross": 448345,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 12668,
+  "avg_stu_loan_debt_rank": 524,
+  "indicator_group": 1
+}

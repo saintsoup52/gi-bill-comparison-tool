@@ -1,0 +1,18 @@
+{
+  "facility_code": "349D0435",
+  "institution": "UNIVERSITY OF NORTHWESTERN OHIO",
+  "city": "Lima",
+  "state": "OH",
+  "country": "USA",
+  "bah": 885,
+  "poe": true,
+  "yr": true,
+  "gibill": 226,
+  "cross": 204486,
+  "grad_rate": 59.8,
+  "grad_rate_rank": 134,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 15250,
+  "avg_stu_loan_debt_rank": 1142,
+  "indicator_group": 2
+}

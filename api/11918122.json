@@ -1,0 +1,18 @@
+{
+  "facility_code": "11918122",
+  "institution": "WESTERN MICHIGAN UNIVERSITY",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1227,
+  "poe": true,
+  "yr": true,
+  "gibill": 632,
+  "cross": 172699,
+  "grad_rate": 55.9,
+  "grad_rate_rank": 676,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 20941,
+  "avg_stu_loan_debt_rank": 1517,
+  "indicator_group": 1
+}

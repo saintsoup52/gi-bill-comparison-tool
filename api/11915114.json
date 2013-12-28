@@ -1,0 +1,18 @@
+{
+  "facility_code": "11915114",
+  "institution": "INDIANA STATE UNIVERSITY",
+  "city": "Terre Haute",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1071,
+  "poe": true,
+  "yr": true,
+  "gibill": 378,
+  "cross": 151324,
+  "grad_rate": 41.9,
+  "grad_rate_rank": 1158,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 12802,
+  "avg_stu_loan_debt_rank": 542,
+  "indicator_group": 1
+}

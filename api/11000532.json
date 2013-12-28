@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000532",
+  "institution": "CITY COLLEGE OF NEW YORK",
+  "city": "New York",
+  "state": "NY",
+  "country": "USA",
+  "bah": 3258,
+  "poe": true,
+  "yr": true,
+  "gibill": 191,
+  "cross": 190567,
+  "grad_rate": 40.0,
+  "grad_rate_rank": 1229,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 10418,
+  "avg_stu_loan_debt_rank": 268,
+  "indicator_group": 1
+}

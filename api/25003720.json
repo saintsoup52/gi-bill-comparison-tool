@@ -1,0 +1,18 @@
+{
+  "facility_code": "25003720",
+  "institution": "NORTH AMERICAN TRADE SCHOOLS",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "USA",
+  "bah": 1959,
+  "poe": true,
+  "yr": null,
+  "gibill": 55,
+  "cross": 162371,
+  "grad_rate": 65.1,
+  "grad_rate_rank": 1387,
+  "default_rate": 31.1,
+  "avg_stu_loan_debt": 7769,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 5
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "34930446",
+  "institution": "JEFFERSON COLLEGE OF HEALTH SCIENCES",
+  "city": "Roanoke",
+  "state": "VA",
+  "country": "USA",
+  "bah": 1056,
+  "poe": true,
+  "yr": true,
+  "gibill": 33,
+  "cross": 231837,
+  "grad_rate": 10.0,
+  "grad_rate_rank": 1781,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1
+}

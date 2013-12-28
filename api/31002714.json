@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002714",
+  "institution": "FRANKLIN COLLEGE",
+  "city": "Franklin",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1245,
+  "poe": true,
+  "yr": true,
+  "gibill": 21,
+  "cross": 150604,
+  "grad_rate": 49.1,
+  "grad_rate_rank": 925,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 22485,
+  "avg_stu_loan_debt_rank": 1706,
+  "indicator_group": 1
+}

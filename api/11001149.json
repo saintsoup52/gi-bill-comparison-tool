@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001149",
+  "institution": "UNIV OF WISC-STOUT",
+  "city": "Menomonie",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1023,
+  "poe": true,
+  "yr": null,
+  "gibill": 334,
+  "cross": 240417,
+  "grad_rate": 52.5,
+  "grad_rate_rank": 790,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 17883,
+  "avg_stu_loan_debt_rank": 1069,
+  "indicator_group": 1
+}

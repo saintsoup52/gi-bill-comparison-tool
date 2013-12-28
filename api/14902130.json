@@ -1,0 +1,18 @@
+{
+  "facility_code": "14902130",
+  "institution": "PASSAIC COUNTY COMMUNITY COLLEGE",
+  "city": "Paterson",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": null,
+  "gibill": 166,
+  "cross": 186034,
+  "grad_rate": 8.8,
+  "grad_rate_rank": 1231,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 4300,
+  "avg_stu_loan_debt_rank": 200,
+  "indicator_group": 2
+}

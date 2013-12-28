@@ -1,0 +1,18 @@
+{
+  "facility_code": "11910414",
+  "institution": "INDIANA UNIVERSITY PURDUE UNIVERSITY AT COLUMBUS",
+  "city": "Columbus",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1104,
+  "poe": true,
+  "yr": true,
+  "gibill": 70,
+  "cross": 151111,
+  "grad_rate": 32.7,
+  "grad_rate_rank": 1433,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 16927,
+  "avg_stu_loan_debt_rank": 942,
+  "indicator_group": 1
+}

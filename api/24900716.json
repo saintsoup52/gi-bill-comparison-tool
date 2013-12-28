@@ -1,0 +1,18 @@
+{
+  "facility_code": "24900716",
+  "institution": "VATTEROTT COLLEGE-WICHITA",
+  "city": "Wichita",
+  "state": "KS",
+  "country": "USA",
+  "bah": 1017,
+  "poe": true,
+  "yr": true,
+  "gibill": 54,
+  "cross": 440891,
+  "grad_rate": 56.7,
+  "grad_rate_rank": 165,
+  "default_rate": 25.5,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 815,
+  "indicator_group": 3
+}

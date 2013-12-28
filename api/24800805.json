@@ -1,0 +1,18 @@
+{
+  "facility_code": "24800805",
+  "institution": "PLATT COLLEGE (ALHAMBRA)",
+  "city": "Alhambra",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 24,
+  "cross": 260789,
+  "grad_rate": 47.6,
+  "grad_rate_rank": 248,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 18142,
+  "avg_stu_loan_debt_rank": 1365,
+  "indicator_group": 2
+}

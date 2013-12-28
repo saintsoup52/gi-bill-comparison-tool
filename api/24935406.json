@@ -1,0 +1,18 @@
+{
+  "facility_code": "24935406",
+  "institution": "ANTHEM COLLEGE",
+  "city": "Aurora",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1635,
+  "poe": true,
+  "yr": true,
+  "gibill": 13,
+  "cross": 410539,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 8471,
+  "avg_stu_loan_debt_rank": 373,
+  "indicator_group": 3
+}

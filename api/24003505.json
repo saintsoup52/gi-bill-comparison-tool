@@ -1,0 +1,18 @@
+{
+  "facility_code": "24003505",
+  "institution": "INSTITUTE OF TECHNOLOGY (REDDING)",
+  "city": "Redding",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1446,
+  "poe": true,
+  "yr": true,
+  "gibill": 58,
+  "cross": 431141,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 31.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

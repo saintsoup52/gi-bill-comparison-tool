@@ -1,0 +1,18 @@
+{
+  "facility_code": "11802034",
+  "institution": "UNIVERSITY OF NORTH DAKOTA - GRAND FORKS",
+  "city": "Grand Forks",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1044,
+  "poe": true,
+  "yr": true,
+  "gibill": 676,
+  "cross": 200280,
+  "grad_rate": 54.3,
+  "grad_rate_rank": 737,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 17120,
+  "avg_stu_loan_debt_rank": 964,
+  "indicator_group": 1
+}

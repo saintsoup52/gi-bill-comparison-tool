@@ -1,0 +1,18 @@
+{
+  "facility_code": "14900417",
+  "institution": "HENDERSON COMMUNITY COLLEGE",
+  "city": "Henderson",
+  "state": "KY",
+  "country": "USA",
+  "bah": 1092,
+  "poe": true,
+  "yr": null,
+  "gibill": 39,
+  "cross": 156851,
+  "grad_rate": 24.6,
+  "grad_rate_rank": 386,
+  "default_rate": 19.4,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 200,
+  "indicator_group": 3
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31001821",
+  "institution": "MOUNT HOLYOKE COLLEGE",
+  "city": "South Hadley",
+  "state": "MA",
+  "country": "USA",
+  "bah": 1620,
+  "poe": true,
+  "yr": true,
+  "gibill": 19,
+  "cross": 166939,
+  "grad_rate": 84.9,
+  "grad_rate_rank": 98,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1578,
+  "indicator_group": 1
+}

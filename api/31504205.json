@@ -1,0 +1,18 @@
+{
+  "facility_code": "31504205",
+  "institution": "LOYOLA MARYMOUNT UNIVERSITY",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 63,
+  "cross": 117946,
+  "grad_rate": 77.0,
+  "grad_rate_rank": 196,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 24750,
+  "avg_stu_loan_debt_rank": 1903,
+  "indicator_group": 1
+}

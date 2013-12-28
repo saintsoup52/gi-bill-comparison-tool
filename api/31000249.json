@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000249",
+  "institution": "CARROLL UNIVERSITY",
+  "city": "Waukesha",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1539,
+  "poe": true,
+  "yr": true,
+  "gibill": 70,
+  "cross": 238458,
+  "grad_rate": 57.2,
+  "grad_rate_rank": 645,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1224,
+  "indicator_group": 1
+}

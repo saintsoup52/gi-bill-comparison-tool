@@ -1,0 +1,18 @@
+{
+  "facility_code": "31804032",
+  "institution": "MEDAILLE COLLEGE",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1410,
+  "poe": true,
+  "yr": true,
+  "gibill": 33,
+  "cross": 192925,
+  "grad_rate": 50.0,
+  "grad_rate_rank": 876,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 19125,
+  "avg_stu_loan_debt_rank": 1265,
+  "indicator_group": 1
+}

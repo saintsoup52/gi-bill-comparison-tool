@@ -1,0 +1,18 @@
+{
+  "facility_code": "31964105",
+  "institution": "MENLO COLLEGE",
+  "city": "Atherton",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2544,
+  "poe": true,
+  "yr": true,
+  "gibill": 12,
+  "cross": 118693,
+  "grad_rate": 34.3,
+  "grad_rate_rank": 1381,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 22250,
+  "avg_stu_loan_debt_rank": 1678,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31851935",
+  "institution": "ANTIOCH UNIVERSITY MIDWEST",
+  "city": "Yellow Springs",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1044,
+  "poe": true,
+  "yr": true,
+  "gibill": 13,
+  "cross": 245892,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1922,
+  "indicator_group": 1
+}

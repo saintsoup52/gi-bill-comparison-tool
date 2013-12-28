@@ -1,0 +1,18 @@
+{
+  "facility_code": "32017330",
+  "institution": "COOPER HOSPITAL/UNIVERSITY MEDICAL CENTER",
+  "city": "Camden",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": null,
+  "gibill": null,
+  "cross": 184153,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 10250,
+  "avg_stu_loan_debt_rank": 2175,
+  "indicator_group": 5
+}

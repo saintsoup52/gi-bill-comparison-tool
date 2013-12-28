@@ -1,0 +1,18 @@
+{
+  "facility_code": "31009042",
+  "institution": "WILLIAMSON CHRISTIAN COLLEGE",
+  "city": "Franklin",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1515,
+  "poe": true,
+  "yr": true,
+  "gibill": 2,
+  "cross": 443340,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 16725,
+  "avg_stu_loan_debt_rank": 914,
+  "indicator_group": 1
+}

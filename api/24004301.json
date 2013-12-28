@@ -1,0 +1,18 @@
+{
+  "facility_code": "24004301",
+  "institution": "SOUTH UNIVERSITY",
+  "city": "Montgomery",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1119,
+  "poe": true,
+  "yr": true,
+  "gibill": 241,
+  "cross": 101116,
+  "grad_rate": 10.9,
+  "grad_rate_rank": 1177,
+  "default_rate": 21.5,
+  "avg_stu_loan_debt": 9098,
+  "avg_stu_loan_debt_rank": 728,
+  "indicator_group": 2
+}

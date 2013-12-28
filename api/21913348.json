@@ -1,0 +1,18 @@
+{
+  "facility_code": "21913348",
+  "institution": "STRAYER UNIVERSITY (TEAYS VALLEY CAMPUS)",
+  "city": "Scott Depot",
+  "state": "WV",
+  "country": "USA",
+  "bah": 945,
+  "poe": true,
+  "yr": true,
+  "gibill": 19,
+  "cross": 456621,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

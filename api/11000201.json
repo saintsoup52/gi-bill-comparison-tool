@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000201",
+  "institution": "AUBURN UNIVERSITY",
+  "city": "Auburn",
+  "state": "AL",
+  "country": "USA",
+  "bah": 1077,
+  "poe": true,
+  "yr": true,
+  "gibill": 764,
+  "cross": 100858,
+  "grad_rate": 66.3,
+  "grad_rate_rank": 401,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1224,
+  "indicator_group": 1
+}

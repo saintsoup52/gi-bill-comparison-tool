@@ -1,0 +1,18 @@
+{
+  "facility_code": "21831105",
+  "institution": "ITT TECHNICAL INSTITUTE (SAN DIMAS)",
+  "city": "San Dimas",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 119,
+  "cross": 116475,
+  "grad_rate": 37.3,
+  "grad_rate_rank": 381,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1193,
+  "indicator_group": 2
+}

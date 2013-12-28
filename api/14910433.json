@@ -1,0 +1,18 @@
+{
+  "facility_code": "14910433",
+  "institution": "WESTERN PIEDMONT COMMUNITY COLLEGE",
+  "city": "Morganton",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1005,
+  "poe": true,
+  "yr": null,
+  "gibill": 94,
+  "cross": 199908,
+  "grad_rate": 25.8,
+  "grad_rate_rank": 660,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 121,
+  "indicator_group": 2
+}

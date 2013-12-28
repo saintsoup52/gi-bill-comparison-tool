@@ -1,0 +1,18 @@
+{
+  "facility_code": "11901215",
+  "institution": "UNIVERSITY OF PHOENIX WEST DES MOINES",
+  "city": "Des Moines",
+  "state": "IA",
+  "country": "USA",
+  "bah": 1230,
+  "poe": true,
+  "yr": true,
+  "gibill": 4,
+  "cross": 446729,
+  "grad_rate": 10.0,
+  "grad_rate_rank": 1781,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 347,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11011106",
+  "institution": "COLORADO STATE UNIVERSITY - PUEBLO",
+  "city": "Pueblo",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1350,
+  "poe": true,
+  "yr": true,
+  "gibill": 419,
+  "cross": 128106,
+  "grad_rate": 32.3,
+  "grad_rate_rank": 1442,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 12750,
+  "avg_stu_loan_debt_rank": 530,
+  "indicator_group": 1
+}

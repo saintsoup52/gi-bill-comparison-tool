@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001222",
+  "institution": "GRAND VALLEY STATE UNIVERSITY",
+  "city": "Allendale",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1017,
+  "poe": true,
+  "yr": true,
+  "gibill": 554,
+  "cross": 170082,
+  "grad_rate": 63.3,
+  "grad_rate_rank": 472,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 21569,
+  "avg_stu_loan_debt_rank": 1601,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11902214",
+  "institution": "INDIANA UNIVERSITY NORTHWEST",
+  "city": "Gary",
+  "state": "IN",
+  "country": "USA",
+  "bah": 1152,
+  "poe": true,
+  "yr": true,
+  "gibill": 195,
+  "cross": 151360,
+  "grad_rate": 23.1,
+  "grad_rate_rank": 1619,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 12794,
+  "avg_stu_loan_debt_rank": 539,
+  "indicator_group": 1
+}

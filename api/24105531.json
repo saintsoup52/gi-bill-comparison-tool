@@ -1,0 +1,18 @@
+{
+  "facility_code": "24105531",
+  "institution": "COMPUTER CAREER CENTER",
+  "city": "Las Cruces",
+  "state": "NM",
+  "country": "USA",
+  "bah": 1098,
+  "poe": true,
+  "yr": true,
+  "gibill": 36,
+  "cross": 365204,
+  "grad_rate": 82.5,
+  "grad_rate_rank": 32,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

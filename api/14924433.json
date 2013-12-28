@@ -1,0 +1,18 @@
+{
+  "facility_code": "14924433",
+  "institution": "MCDOWELL TECHNICAL COMMUNITY COLLEGE",
+  "city": "Marion",
+  "state": "NC",
+  "country": "USA",
+  "bah": 990,
+  "poe": true,
+  "yr": true,
+  "gibill": 30,
+  "cross": 198923,
+  "grad_rate": 42.7,
+  "grad_rate_rank": 242,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 3
+}

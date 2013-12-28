@@ -1,0 +1,18 @@
+{
+  "facility_code": "21985913",
+  "institution": "COYNE COLLEGE-LOOP CAMPUS",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 1,
+  "cross": 144485,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 32.4,
+  "avg_stu_loan_debt": 9499,
+  "avg_stu_loan_debt_rank": 457,
+  "indicator_group": 3
+}

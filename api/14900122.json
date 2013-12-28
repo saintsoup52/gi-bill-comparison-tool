@@ -1,0 +1,18 @@
+{
+  "facility_code": "14900122",
+  "institution": "WAYNE COUNTY COMMUNITY COLLEGE",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "USA",
+  "bah": 1521,
+  "poe": true,
+  "yr": null,
+  "gibill": 385,
+  "cross": 172635,
+  "grad_rate": 9.6,
+  "grad_rate_rank": 1212,
+  "default_rate": 30.1,
+  "avg_stu_loan_debt": 5547,
+  "avg_stu_loan_debt_rank": 391,
+  "indicator_group": 2
+}

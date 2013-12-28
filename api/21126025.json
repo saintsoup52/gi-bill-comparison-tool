@@ -1,0 +1,18 @@
+{
+  "facility_code": "21126025",
+  "institution": "BROWN MACKIE COLLEGE",
+  "city": "Fenton",
+  "state": "MO",
+  "country": "USA",
+  "bah": 1332,
+  "poe": true,
+  "yr": true,
+  "gibill": 40,
+  "cross": 460048,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 12668,
+  "avg_stu_loan_debt_rank": 729,
+  "indicator_group": 3
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11820104",
+  "institution": "ARKANSAS STATE UNIVERSITY-JONESBORO",
+  "city": "State University",
+  "state": "AR",
+  "country": "USA",
+  "bah": 1029,
+  "poe": true,
+  "yr": true,
+  "gibill": 586,
+  "cross": 106458,
+  "grad_rate": 38.0,
+  "grad_rate_rank": 1300,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 629,
+  "indicator_group": 1
+}

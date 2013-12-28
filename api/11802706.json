@@ -1,0 +1,18 @@
+{
+  "facility_code": "11802706",
+  "institution": "UNIVERSITY OF COLORADO - COLORADO SPRINGS",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "country": "USA",
+  "bah": 1350,
+  "poe": true,
+  "yr": true,
+  "gibill": 1290,
+  "cross": 126580,
+  "grad_rate": 41.0,
+  "grad_rate_rank": 1195,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 15470,
+  "avg_stu_loan_debt_rank": 777,
+  "indicator_group": 1
+}

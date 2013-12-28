@@ -1,0 +1,18 @@
+{
+  "facility_code": "11011943",
+  "institution": "UT SW MEDICAL CENTER MEDICAL SCH",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "USA",
+  "bah": 1611,
+  "poe": true,
+  "yr": null,
+  "gibill": 6,
+  "cross": 228635,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.9,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 1
+}

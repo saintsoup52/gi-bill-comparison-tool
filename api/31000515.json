@@ -1,0 +1,18 @@
+{
+  "facility_code": "31000515",
+  "institution": "COE COLLEGE",
+  "city": "Cedar Rapids",
+  "state": "IA",
+  "country": "USA",
+  "bah": 915,
+  "poe": true,
+  "yr": true,
+  "gibill": 18,
+  "cross": 153144,
+  "grad_rate": 69.3,
+  "grad_rate_rank": 323,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 25216,
+  "avg_stu_loan_debt_rank": 1986,
+  "indicator_group": 1
+}

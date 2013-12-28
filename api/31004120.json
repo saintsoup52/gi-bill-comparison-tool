@@ -1,0 +1,18 @@
+{
+  "facility_code": "31004120",
+  "institution": "FLORIDA INSTITUTE OF TECHNOLOGY PATUXENT RIVER MARYLAND",
+  "city": "Patuxent River",
+  "state": "MD",
+  "country": "USA",
+  "bah": 1575,
+  "poe": true,
+  "yr": true,
+  "gibill": 14,
+  "cross": 133881,
+  "grad_rate": 56.2,
+  "grad_rate_rank": 671,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 5972,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 1
+}

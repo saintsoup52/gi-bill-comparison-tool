@@ -1,0 +1,18 @@
+{
+  "facility_code": "11001433",
+  "institution": "NORTH CAROLINA STATE UNIVERSITY",
+  "city": "Raleigh",
+  "state": "NC",
+  "country": "USA",
+  "bah": 1125,
+  "poe": true,
+  "yr": true,
+  "gibill": 766,
+  "cross": 199193,
+  "grad_rate": 72.4,
+  "grad_rate_rank": 269,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 1137,
+  "indicator_group": 1
+}

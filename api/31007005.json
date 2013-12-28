@@ -1,0 +1,18 @@
+{
+  "facility_code": "31007005",
+  "institution": "GOLDEN GATE UNIVERSITY (CH 31)",
+  "city": "Los Altos",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2544,
+  "poe": true,
+  "yr": null,
+  "gibill": null,
+  "cross": 115083,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 16080,
+  "avg_stu_loan_debt_rank": 850,
+  "indicator_group": 1
+}

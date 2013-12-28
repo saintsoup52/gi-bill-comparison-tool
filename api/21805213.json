@@ -1,0 +1,18 @@
+{
+  "facility_code": "21805213",
+  "institution": "DEVRY UNIVERSITY - TINLEY PARK",
+  "city": "Tinley Park",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": true,
+  "gibill": 112,
+  "cross": 144759,
+  "grad_rate": 33.1,
+  "grad_rate_rank": 1420,
+  "default_rate": 24.1,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1341,
+  "indicator_group": 1
+}

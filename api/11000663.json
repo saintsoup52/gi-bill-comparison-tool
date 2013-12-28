@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000663",
+  "institution": "CONSERVATORIO DE MUSICA DE PUERTO RICO",
+  "city": "San Juan",
+  "state": "PR",
+  "country": "USA",
+  "bah": 1368,
+  "poe": true,
+  "yr": null,
+  "gibill": 10,
+  "cross": 241766,
+  "grad_rate": 81.0,
+  "grad_rate_rank": 143,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 12017,
+  "avg_stu_loan_debt_rank": 463,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "21000149",
+  "institution": "DEVRY UNIV/KELLER GRADUATE SCHOOL",
+  "city": "Waukesha",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1539,
+  "poe": true,
+  "yr": true,
+  "gibill": 9,
+  "cross": 437361,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 4625,
+  "avg_stu_loan_debt_rank": 233,
+  "indicator_group": 4
+}

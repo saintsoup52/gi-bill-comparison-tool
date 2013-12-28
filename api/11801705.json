@@ -1,0 +1,18 @@
+{
+  "facility_code": "11801705",
+  "institution": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": null,
+  "yr": true,
+  "gibill": 400,
+  "cross": 110662,
+  "grad_rate": 90.0,
+  "grad_rate_rank": 64,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 16495,
+  "avg_stu_loan_debt_rank": 883,
+  "indicator_group": 1
+}

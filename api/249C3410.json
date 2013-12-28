@@ -1,0 +1,18 @@
+{
+  "facility_code": "249C3410",
+  "institution": "CONCORDE CAREER INSTITUTE - MIRAMAR",
+  "city": "Miramar",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1950,
+  "poe": true,
+  "yr": true,
+  "gibill": 26,
+  "cross": 133854,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 8575,
+  "avg_stu_loan_debt_rank": 380,
+  "indicator_group": 3
+}

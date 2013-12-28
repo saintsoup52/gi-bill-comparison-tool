@@ -1,0 +1,18 @@
+{
+  "facility_code": "21800230",
+  "institution": "STRAYER UNIVERSITY - PISCATAWAY",
+  "city": "Piscataway",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 1989,
+  "poe": true,
+  "yr": true,
+  "gibill": 11,
+  "cross": 453215,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

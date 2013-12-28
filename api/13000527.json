@@ -1,0 +1,18 @@
+{
+  "facility_code": "13000527",
+  "institution": "WAYNE STATE COLLEGE",
+  "city": "Wayne",
+  "state": "NE",
+  "country": "USA",
+  "bah": 1005,
+  "poe": true,
+  "yr": true,
+  "gibill": 93,
+  "cross": 181783,
+  "grad_rate": 50.9,
+  "grad_rate_rank": 849,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 13480,
+  "avg_stu_loan_debt_rank": 587,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31005038",
+  "institution": "WESTMINSTER COLLEGE",
+  "city": "New Wilmington",
+  "state": "PA",
+  "country": "USA",
+  "bah": 951,
+  "poe": true,
+  "yr": true,
+  "gibill": 18,
+  "cross": 216807,
+  "grad_rate": 74.4,
+  "grad_rate_rank": 234,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1852,
+  "indicator_group": 1
+}

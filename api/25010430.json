@@ -1,0 +1,18 @@
+{
+  "facility_code": "25010430",
+  "institution": "THE INSTITUTE FOR HEALTH EDUCATION",
+  "city": "Jersey City",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": null,
+  "gibill": 4,
+  "cross": 430999,
+  "grad_rate": 95.1,
+  "grad_rate_rank": 130,
+  "default_rate": 39.4,
+  "avg_stu_loan_debt": 4759,
+  "avg_stu_loan_debt_rank": 770,
+  "indicator_group": 5
+}

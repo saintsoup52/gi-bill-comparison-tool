@@ -1,0 +1,18 @@
+{
+  "facility_code": "24003905",
+  "institution": "ICDC COLLEGE",
+  "city": "Huntington Park",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 579,
+  "cross": 437662,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 9490,
+  "avg_stu_loan_debt_rank": 454,
+  "indicator_group": 3
+}

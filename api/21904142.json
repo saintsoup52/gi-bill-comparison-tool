@@ -1,0 +1,18 @@
+{
+  "facility_code": "21904142",
+  "institution": "THE ART INSTITUTE OF TENNESSEE - NASHVILLE",
+  "city": "Nashville",
+  "state": "TN",
+  "country": "USA",
+  "bah": 1515,
+  "poe": true,
+  "yr": true,
+  "gibill": 169,
+  "cross": 449010,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 26.5,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000549",
+  "institution": "UNIV OF WISC-OSHKOSH",
+  "city": "Oshkosh",
+  "state": "WI",
+  "country": "USA",
+  "bah": 843,
+  "poe": true,
+  "yr": true,
+  "gibill": 485,
+  "cross": 240365,
+  "grad_rate": 50.2,
+  "grad_rate_rank": 873,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 16220,
+  "avg_stu_loan_debt_rank": 863,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "14920105",
+  "institution": "ANTELOPE VALLEY COLLEGE",
+  "city": "Lancaster",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1170,
+  "poe": true,
+  "yr": null,
+  "gibill": 379,
+  "cross": 109350,
+  "grad_rate": 21.3,
+  "grad_rate_rank": 820,
+  "default_rate": 33.2,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 720,
+  "indicator_group": 2
+}

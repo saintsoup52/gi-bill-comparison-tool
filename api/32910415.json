@@ -1,0 +1,18 @@
+{
+  "facility_code": "32910415",
+  "institution": "ALLEN COLLEGE  DEGREE DIVISION",
+  "city": "Waterloo",
+  "state": "IA",
+  "country": "USA",
+  "bah": 915,
+  "poe": true,
+  "yr": true,
+  "gibill": 6,
+  "cross": 152798,
+  "grad_rate": 50.0,
+  "grad_rate_rank": 876,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 20250,
+  "avg_stu_loan_debt_rank": 1457,
+  "indicator_group": 1
+}

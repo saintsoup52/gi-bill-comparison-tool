@@ -1,0 +1,18 @@
+{
+  "facility_code": "26013518",
+  "institution": "CAMERON COLLEGE",
+  "city": "New Orleans",
+  "state": "LA",
+  "country": "USA",
+  "bah": 1290,
+  "poe": true,
+  "yr": null,
+  "gibill": 12,
+  "cross": 158440,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3671,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 3
+}

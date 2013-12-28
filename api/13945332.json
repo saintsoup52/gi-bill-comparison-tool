@@ -1,0 +1,18 @@
+{
+  "facility_code": "13945332",
+  "institution": "SUNY COLLEGE AT PLATTSBURGH",
+  "city": "Plattsburgh",
+  "state": "NY",
+  "country": "USA",
+  "bah": 1137,
+  "poe": true,
+  "yr": true,
+  "gibill": 150,
+  "cross": 196246,
+  "grad_rate": 58.9,
+  "grad_rate_rank": 597,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 17548,
+  "avg_stu_loan_debt_rank": 1037,
+  "indicator_group": 1
+}

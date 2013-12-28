@@ -1,0 +1,18 @@
+{
+  "facility_code": "24804605",
+  "institution": "KAPLAN COLLEGE-BAKERSFIELD",
+  "city": "Bakersfield",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1125,
+  "poe": true,
+  "yr": true,
+  "gibill": 21,
+  "cross": 447102,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 25.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 459,
+  "indicator_group": 3
+}

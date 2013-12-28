@@ -1,0 +1,18 @@
+{
+  "facility_code": "11002440",
+  "institution": "MEDICAL UNIVERSITY OF SOUTH CAROLINA",
+  "city": "Charleston",
+  "state": "SC",
+  "country": "USA",
+  "bah": 1278,
+  "poe": null,
+  "yr": null,
+  "gibill": 62,
+  "cross": 218335,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 0.7,
+  "avg_stu_loan_debt": 3000,
+  "avg_stu_loan_debt_rank": 82,
+  "indicator_group": 1
+}

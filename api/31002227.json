@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002227",
+  "institution": "CLARKSON COLLEGE",
+  "city": "Omaha",
+  "state": "NE",
+  "country": "USA",
+  "bah": 1155,
+  "poe": true,
+  "yr": true,
+  "gibill": 36,
+  "cross": 180832,
+  "grad_rate": 56.3,
+  "grad_rate_rank": 667,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 23590,
+  "avg_stu_loan_debt_rank": 1834,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "34900138",
+  "institution": "ORLEANS TECHNICAL INSTITUTE",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1758,
+  "poe": true,
+  "yr": null,
+  "gibill": 46,
+  "cross": 214528,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 6025,
+  "avg_stu_loan_debt_rank": 236,
+  "indicator_group": 3
+}

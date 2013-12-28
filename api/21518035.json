@@ -1,0 +1,18 @@
+{
+  "facility_code": "21518035",
+  "institution": "ITT TECHNICAL INSTITUTE DAYTON",
+  "city": "Dayton",
+  "state": "OH",
+  "country": "USA",
+  "bah": 1044,
+  "poe": true,
+  "yr": true,
+  "gibill": 90,
+  "cross": 203313,
+  "grad_rate": 38.8,
+  "grad_rate_rank": 352,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1193,
+  "indicator_group": 2
+}

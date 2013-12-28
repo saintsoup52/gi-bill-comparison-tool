@@ -1,0 +1,18 @@
+{
+  "facility_code": "31906120",
+  "institution": "LOYOLA UNIVERSITY MARYLAND",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "USA",
+  "bah": 1959,
+  "poe": true,
+  "yr": true,
+  "gibill": 78,
+  "cross": 163046,
+  "grad_rate": 82.6,
+  "grad_rate_rank": 119,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1852,
+  "indicator_group": 1
+}

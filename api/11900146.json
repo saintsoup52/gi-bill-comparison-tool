@@ -1,0 +1,18 @@
+{
+  "facility_code": "11900146",
+  "institution": "OLD DOMINION UNIVERSITY",
+  "city": "Norfolk",
+  "state": "VA",
+  "country": "USA",
+  "bah": 1518,
+  "poe": true,
+  "yr": true,
+  "gibill": 2906,
+  "cross": 232982,
+  "grad_rate": 50.0,
+  "grad_rate_rank": 876,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 18751,
+  "avg_stu_loan_debt_rank": 1199,
+  "indicator_group": 1
+}

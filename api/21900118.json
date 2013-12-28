@@ -1,0 +1,18 @@
+{
+  "facility_code": "21900118",
+  "institution": "HERZING UNIVERSITY",
+  "city": "Kenner",
+  "state": "LA",
+  "country": "USA",
+  "bah": 1290,
+  "poe": true,
+  "yr": true,
+  "gibill": 17,
+  "cross": 433536,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 11399,
+  "avg_stu_loan_debt_rank": 937,
+  "indicator_group": 2
+}

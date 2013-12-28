@@ -1,0 +1,18 @@
+{
+  "facility_code": "219B3110",
+  "institution": "STRAYER UNIVERSITY-ORLANDO SO PK CIR",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1302,
+  "poe": true,
+  "yr": true,
+  "gibill": 99,
+  "cross": 449038,
+  "grad_rate": null,
+  "grad_rate_rank": 0,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 431,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "11000949",
+  "institution": "UNIV OF WISC-SUPERIOR",
+  "city": "Superior",
+  "state": "WI",
+  "country": "USA",
+  "bah": 1380,
+  "poe": true,
+  "yr": null,
+  "gibill": 153,
+  "cross": 240426,
+  "grad_rate": 43.8,
+  "grad_rate_rank": 1100,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 13750,
+  "avg_stu_loan_debt_rank": 607,
+  "indicator_group": 1
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "31002438",
+  "institution": "LEHIGH UNIVERSITY",
+  "city": "Bethlehem",
+  "state": "PA",
+  "country": "USA",
+  "bah": 1491,
+  "poe": true,
+  "yr": true,
+  "gibill": 30,
+  "cross": 213543,
+  "grad_rate": 86.9,
+  "grad_rate_rank": 80,
+  "default_rate": 1.9,
+  "avg_stu_loan_debt": 22125,
+  "avg_stu_loan_debt_rank": 1654,
+  "indicator_group": 1
+}

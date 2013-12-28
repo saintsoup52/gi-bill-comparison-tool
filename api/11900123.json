@@ -1,0 +1,18 @@
+{
+  "facility_code": "11900123",
+  "institution": "METROPOLITAN STATE UNIVERSITY",
+  "city": "St Paul",
+  "state": "MN",
+  "country": "USA",
+  "bah": 1449,
+  "poe": true,
+  "yr": null,
+  "gibill": 421,
+  "cross": 174020,
+  "grad_rate": 29.3,
+  "grad_rate_rank": 1516,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 16125,
+  "avg_stu_loan_debt_rank": 853,
+  "indicator_group": 1
+}

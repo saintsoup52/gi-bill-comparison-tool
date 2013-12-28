@@ -1,0 +1,18 @@
+{
+  "facility_code": "24901150",
+  "institution": "INSTITUTE OF BUSINESS AND MEDICAL CAREERS - CHEYENNE",
+  "city": "Cheyenne",
+  "state": "WY",
+  "country": "USA",
+  "bah": 1110,
+  "poe": true,
+  "yr": true,
+  "gibill": 42,
+  "cross": 372329,
+  "grad_rate": 67.5,
+  "grad_rate_rank": 84,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 13874,
+  "avg_stu_loan_debt_rank": 1085,
+  "indicator_group": 2
+}

@@ -1,0 +1,18 @@
+{
+  "facility_code": "35061013",
+  "institution": "CENTER FOR EMPLOYMENT TRAINING",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "bah": 1740,
+  "poe": true,
+  "yr": null,
+  "gibill": 3,
+  "cross": 146791,
+  "grad_rate": 89.2,
+  "grad_rate_rank": 291,
+  "default_rate": 24.5,
+  "avg_stu_loan_debt": 4175,
+  "avg_stu_loan_debt_rank": 698,
+  "indicator_group": 5
+}

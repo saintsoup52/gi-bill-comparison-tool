@@ -1,0 +1,18 @@
+{
+  "facility_code": "11905105",
+  "institution": "UNIVERSITY OF CALIFORNIA- SANTA BARBARA",
+  "city": "Santa Barbara",
+  "state": "CA",
+  "country": "USA",
+  "bah": 1794,
+  "poe": true,
+  "yr": null,
+  "gibill": 214,
+  "cross": 110705,
+  "grad_rate": 79.8,
+  "grad_rate_rank": 162,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 1081,
+  "indicator_group": 1
+}

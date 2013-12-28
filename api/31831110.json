@@ -1,0 +1,18 @@
+{
+  "facility_code": "31831110",
+  "institution": "UNIVERSIDAD DEL TURABO-MIRAMAR",
+  "city": "Miramar",
+  "state": "FL",
+  "country": "USA",
+  "bah": 1950,
+  "poe": true,
+  "yr": null,
+  "gibill": 4,
+  "cross": 243601,
+  "grad_rate": 15.0,
+  "grad_rate_rank": 1730,
+  "default_rate": 17.8,
+  "avg_stu_loan_debt": 4250,
+  "avg_stu_loan_debt_rank": 89,
+  "indicator_group": 1
+}

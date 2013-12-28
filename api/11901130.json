@@ -1,0 +1,18 @@
+{
+  "facility_code": "11901130",
+  "institution": "MONTCLAIR STATE UNIVERSITY",
+  "city": "Montclair",
+  "state": "NJ",
+  "country": "USA",
+  "bah": 2256,
+  "poe": true,
+  "yr": true,
+  "gibill": 344,
+  "cross": 185590,
+  "grad_rate": 62.3,
+  "grad_rate_rank": 507,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1305,
+  "indicator_group": 1
+}

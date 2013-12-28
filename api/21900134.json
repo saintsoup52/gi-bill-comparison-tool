@@ -1,0 +1,18 @@
+{
+  "facility_code": "21900134",
+  "institution": "RASMUSSEN COLLEGE - BISMARCK",
+  "city": "Bismarck",
+  "state": "ND",
+  "country": "USA",
+  "bah": 1035,
+  "poe": true,
+  "yr": true,
+  "gibill": 14,
+  "cross": 200013,
+  "grad_rate": 41.7,
+  "grad_rate_rank": 306,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 755,
+  "indicator_group": 2
+}

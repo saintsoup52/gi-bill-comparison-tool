@@ -1,0 +1,18 @@
+{
+  "facility_code": "21111605",
+  "institution": "WEST COAST UNIVERSITY (N. HOLLYWOOD)",
+  "city": "North Hollywood",
+  "state": "CA",
+  "country": "USA",
+  "bah": 2292,
+  "poe": true,
+  "yr": true,
+  "gibill": 65,
+  "cross": 443331,
+  "grad_rate": 80.9,
+  "grad_rate_rank": 30,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1432,
+  "indicator_group": 2
+}
