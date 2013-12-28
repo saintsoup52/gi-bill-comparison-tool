@@ -14,10 +14,10 @@ task :build do
   # Start the timer
   start = Time.now
   
-  # Array of institutions
-  data = []
-  
   puts "Parsing `_data/data.csv`".bold
+  
+  # Array containing all data
+  data = []
   
   CSV.foreach("_data/data.csv", :headers => true, :header_converters => :symbol) do |row|
     f = row.fields
@@ -52,6 +52,7 @@ task :build do
   
   puts "Writing `api/institutions.json`".bold
   
+  # Array of only institutions and their facility_code
   institutions = []
   
   data.each do |el|

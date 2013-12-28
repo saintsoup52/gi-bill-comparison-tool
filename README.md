@@ -1,6 +1,7 @@
 # GI Bill Comparison Tool
 
 [View the site.](http://department-of-veterans-affairs.github.io/gi-bill-comparison-tool/)
+[View the logic testing page.](http://department-of-veterans-affairs.github.io/gi-bill-comparison-tool/logic_test.html)
 
 # Building the Data API
 

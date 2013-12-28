@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 50px 100px;
+    }
+    table {
+      border-spacing: 0;
+      border-collapse: collapse;
+    }
+    table th, td {
+      font-weight: normal;
+      border: 1px solid #bfbfbf;
+      padding: 6px 13px;
+    }
+    hr {
+      margin: 30px 0;
+    }
+  </style>
+</head>
+<body>
+  
+  <h1>GI Bill Comparison Tool</h1>
+  <h2>Logic Test</h2>
+  
+  <hr>
+  
+  <p>Cumulative Post 9-11 Active Duty Service</p>
+
+  <select name="Cumulative Post 9-11 Active Duty Service" id="cumulative-service" >
+    <option value="">36+ months: 100% (includes BASIC)</option>
+    <option value="">30 months: 90% (includes BASIC)</option>
+    <option value="">24 months: 80% (includes BASIC)</option>
+    <option value="">18 months: 70% (excludes BASIC)</option>
+    <option value="">12 months: 60% (excludes BASIC)</option>
+    <option value="">6 months: 50% (excludes BASIC)</option>
+    <option value="">90 days: 40% (excludes BASIC)</option>
+    <option value="">Less than 90 days 0% (excludes BASIC)</option>
+    <option value="">Service Connected Discharge: 100%</option>
+    <option value="">GYSGT Fry Scholarship: 100%</option>
+  </select>
+
+  <p>Military Status</p>
+
+  <select name="Military Status" id="military-status">
+    <option value="">Veteran</option>
+    <option value="">Active Duty</option>
+    <option value="">National Guard / Reserves</option>
+    <option value="">Spouse</option>
+    <option value="">Child</option>
+  </select>
+
+  <p>School or Employer Information</p>
+
+  <input name="Institution or Employer" id="organization" type="text" placeholder="Enter school or employer name" size="70" maxlength="256" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+
+  <p>Taking all online classes?</p>
+
+  <input name="Online Courses" type="radio" value="yes"><label class="radio">Yes</label>
+  <input name="Online Courses" type="radio" value="no"><label class="radio">No</label>
+
+  <hr>
+
+  <h3>Benefit Estimator</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Institution</th>
+        <th>Type</th>
+        <th>Tuition / Fees</th>
+        <th>Housing Allowance</th>
+        <th>Book Stipend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <h3>Veteran Indicators</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Principles of Excellence</th>
+        <th>Yellow Ribbon</th>
+        <th>GI Bill Beneficiaries</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <h3>School Indicators (Non-veteran Specific)</h3>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Graduation Rates</th>
+        <th>Loan Default Rates</th>
+        <th>Median Borrowing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
