@@ -61,10 +61,12 @@ task :build do
   
   File.open("api/institutions.json", 'w') { |f| f.write(institutions.to_json) }
   
-  puts "Writing institution data as `api/[facility_code].json`".bold
+  puts "Writing institution data".bold
   
   data.each do |el|
-    File.open("api/#{el[:facility_code]}.json", 'w') { |f| f.write(JSON.pretty_generate(el)) }
+    dir_path = "api/#{el[:facility_code][0..2]}"
+    FileUtils.mkdir_p dir_path
+    File.open("#{dir_path}/#{el[:facility_code]}.json", 'w') { |f| f.write(JSON.pretty_generate(el)) }
   end
   
   puts "Finished in #{(Time.now - start).round(2)} seconds".status

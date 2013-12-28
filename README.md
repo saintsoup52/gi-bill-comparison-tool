@@ -4,7 +4,7 @@
 
 # Building the Data API
 
-To build the API used by the comparison tool, first place CSV data named `data.csv` in the [`_data/`](/data) directory with the following headers in this order:
+To build the API used by the comparison tool, first place CSV data named `data.csv` in the [`_data/`](/_data) directory with the following headers in this order:
 
 | facility_code | institution | city   | state  | country | bah     | poe     | yr      | gibill  | cross   | grad_rate | grad_rate_rank | default_rate | avg_stu_loan_debt | avg_stu_loan_debt_rank | indicator_group |
 | ------------- | ----------- | ------ | ------ | ------- | ------- | ------- | ------- | ------- | ------- | --------- | -------------- | ------------ | ----------------- | ---------------------- | --------------- |
