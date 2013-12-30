@@ -30,36 +30,36 @@
   
   <p>Cumulative Post 9-11 Active Duty Service</p>
 
-  <select name="Cumulative Post 9-11 Active Duty Service" id="cumulative-service" >
-    <option value="">36+ months: 100% (includes BASIC)</option>
-    <option value="">30 months: 90% (includes BASIC)</option>
-    <option value="">24 months: 80% (includes BASIC)</option>
-    <option value="">18 months: 70% (excludes BASIC)</option>
-    <option value="">12 months: 60% (excludes BASIC)</option>
-    <option value="">6 months: 50% (excludes BASIC)</option>
-    <option value="">90 days: 40% (excludes BASIC)</option>
-    <option value="">Less than 90 days 0% (excludes BASIC)</option>
-    <option value="">Service Connected Discharge: 100%</option>
-    <option value="">GYSGT Fry Scholarship: 100%</option>
+  <select id="cumulative-service" name="Cumulative Post 9-11 Active Duty Service">
+    <option value="1.0">36+ months: 100% (includes BASIC)</option>
+    <option value="0.9">30 months: 90% (includes BASIC)</option>
+    <option value="0.8">24 months: 80% (includes BASIC)</option>
+    <option value="0.8">18 months: 70% (excludes BASIC)</option>
+    <option value="0.6">12 months: 60% (excludes BASIC)</option>
+    <option value="0.5">6 months: 50% (excludes BASIC)</option>
+    <option value="0.4">90 days: 40% (excludes BASIC)</option>
+    <option value="0.0">Less than 90 days 0% (excludes BASIC)</option>
+    <option value="1.0">GYSGT Fry Scholarship: 100%</option>
+    <option value="service discharge">Service-Connected Discharge: 100%</option>
   </select>
 
   <p>Military Status</p>
 
-  <select name="Military Status" id="military-status">
-    <option value="">Veteran</option>
-    <option value="">Active Duty</option>
-    <option value="">National Guard / Reserves</option>
-    <option value="">Spouse</option>
-    <option value="">Child</option>
+  <select id="military-status" name="Military Status">
+    <option value="veteran">Veteran</option>
+    <option value="active duty">Active Duty</option>
+    <option value="national guard / reserves">National Guard / Reserves</option>
+    <option value="spouse">Spouse</option>
+    <option value="child">Child</option>
   </select>
 
   <p>School or Employer Information</p>
 
-  <input name="Institution or Employer" id="organization" type="text" placeholder="Enter school or employer name" size="70" maxlength="256" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+  <input id="organization" name="Institution or Employer" type="text" placeholder="Enter school or employer name" size="70" maxlength="256" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 
   <p>Taking all online classes?</p>
 
-  <input name="Online Courses" type="radio" value="yes"><label class="radio">Yes</label>
+  <input id="online" name="Online Courses" type="radio" value="yes"><label class="radio">Yes</label>
   <input name="Online Courses" type="radio" value="no"><label class="radio">No</label>
 
   <hr>
