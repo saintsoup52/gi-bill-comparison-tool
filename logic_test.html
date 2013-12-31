@@ -5,14 +5,16 @@
   <style>
     body {
       font-family: sans-serif;
-      padding: 50px 100px;
+      padding: 25px 50px;
     }
     table {
       border-spacing: 0;
       border-collapse: collapse;
     }
+    table th {
+      color: #808080;
+    }
     table th, td {
-      font-weight: normal;
       border: 1px solid #bfbfbf;
       padding: 6px 13px;
     }
@@ -29,8 +31,8 @@
   <hr>
   
   <p>Cumulative Post 9-11 Active Duty Service</p>
-
-  <select id="cumulative-service" name="Cumulative Post 9-11 Active Duty Service">
+  
+  <select id="cumulative-service" name="Cumulative Post 9-11 Active Duty Service" onchange="GIBComparisonTool.update(data)">
     <option value="1.0">36+ months: 100% (includes BASIC)</option>
     <option value="0.9">30 months: 90% (includes BASIC)</option>
     <option value="0.8">24 months: 80% (includes BASIC)</option>
@@ -45,23 +47,40 @@
 
   <p>Military Status</p>
 
-  <select id="military-status" name="Military Status">
+  <select id="military-status" name="Military Status" onchange="GIBComparisonTool.update(data)">
     <option value="veteran">Veteran</option>
     <option value="active duty">Active Duty</option>
     <option value="national guard / reserves">National Guard / Reserves</option>
     <option value="spouse">Spouse</option>
     <option value="child">Child</option>
   </select>
-
+  
+  <p>Is your husband / wife on active duty?</p>
+  <input id="spouse-active-duty" name="Spouse Active Duty" type="radio" value="yes" onchange="GIBComparisonTool.update(data)"><label class="radio">Yes</label>
+  <input name="Spouse Active Duty" type="radio" value="no" checked onchange="GIBComparisonTool.update(data)"><label class="radio">No</label>
+  
   <p>School or Employer Information</p>
-
-  <input id="organization" name="Institution or Employer" type="text" placeholder="Enter school or employer name" size="70" maxlength="256" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-
+  
+  <select id="institution-select" size="3" onchange="GIBComparisonTool.update(data)">
+    <option value="31800121">
+      HARVARD UNIVERSITY
+    </option>
+    <option value="11001349">
+      UNIVERSITY OF WISCONSIN-GREEN BAY
+    </option>
+    <option value="20508346">
+      ANTHONY'S SALON &amp; SPA
+    </option>
+    <option value="11100899">
+      AUCKLAND UNIVERSITY OF TECHNOLOGY
+    </option>
+  </select>
+  
   <p>Taking all online classes?</p>
 
-  <input id="online" name="Online Courses" type="radio" value="yes"><label class="radio">Yes</label>
-  <input name="Online Courses" type="radio" value="no"><label class="radio">No</label>
-
+  <input id="online" name="Online Courses" type="radio" value="yes" onchange="GIBComparisonTool.update(data)"><label class="radio">Yes</label>
+  <input name="Online Courses" type="radio" value="no" checked onchange="GIBComparisonTool.update(data)"><label class="radio">No</label>
+  
   <hr>
 
   <h3>Benefit Estimator</h3>
@@ -70,6 +89,7 @@
     <thead>
       <tr>
         <th>Institution</th>
+        <th>Location</th>
         <th>Type</th>
         <th>Tuition / Fees</th>
         <th>Housing Allowance</th>
@@ -78,11 +98,12 @@
     </thead>
     <tbody>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td id="institution"></td>
+        <td id="location"></td>
+        <td id="type"></td>
+        <td id="tuition-fees"></td>
+        <td id="housing-allowance"></td>
+        <td id="book-stipend"></td>
       </tr>
     </tbody>
   </table>
@@ -100,9 +121,9 @@
     </thead>
     <tbody>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td id="poe"></td>
+        <td id="yr"></td>
+        <td id="gibill"></td>
       </tr>
     </tbody>
   </table>
@@ -126,6 +147,88 @@
       </tr>
     </tbody>
   </table>
-
+  
+  
+  <script>
+    
+    var data = {
+      "31800121": {
+        "facility_code": "31800121",
+        "institution": "HARVARD UNIVERSITY",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "USA",
+        "bah": 2454,
+        "poe": null,
+        "yr": true,
+        "gibill": 226,
+        "cross": 166027,
+        "grad_rate": 97.4,
+        "grad_rate_rank": 10,
+        "default_rate": 1.0,
+        "avg_stu_loan_debt": 7700,
+        "avg_stu_loan_debt_rank": 167,
+        "indicator_group": 1
+      },
+      "11001349": {
+        "facility_code": "11001349",
+        "institution": "UNIVERSITY OF WISCONSIN-GREEN BAY",
+        "city": "Green Bay",
+        "state": "WI",
+        "country": "USA",
+        "bah": 879,
+        "poe": true,
+        "yr": true,
+        "gibill": 262,
+        "cross": 240277,
+        "grad_rate": 54.5,
+        "grad_rate_rank": 726,
+        "default_rate": 4.2,
+        "avg_stu_loan_debt": 13580,
+        "avg_stu_loan_debt_rank": 598,
+        "indicator_group": 1
+      },
+      "20508346": {
+        "facility_code": "20508346",
+        "institution": "ANTHONY'S SALON & SPA",
+        "city": "Suffolk",
+        "state": "VA",
+        "country": "USA",
+        "bah": 1518,
+        "poe": null,
+        "yr": null,
+        "gibill": null,
+        "cross": null,
+        "grad_rate": null,
+        "grad_rate_rank": null,
+        "default_rate": null,
+        "avg_stu_loan_debt": null,
+        "avg_stu_loan_debt_rank": null,
+        "indicator_group": null
+      },
+      "11100899": {
+        "facility_code": "11100899",
+        "institution": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+        "city": "Auckland",
+        "state": "New Zealand",
+        "country": "New Zealand",
+        "bah": null,
+        "poe": null,
+        "yr": null,
+        "gibill": 2,
+        "cross": null,
+        "grad_rate": null,
+        "grad_rate_rank": null,
+        "default_rate": null,
+        "avg_stu_loan_debt": null,
+        "avg_stu_loan_debt_rank": null,
+        "indicator_group": null
+      }
+    };
+    
+  </script>
+  <script src="va_files/2012/scripts/jquery-min.js"></script>
+  <script src="js/GIBComparisonTool.js"></script>
+  
 </body>
 </html>

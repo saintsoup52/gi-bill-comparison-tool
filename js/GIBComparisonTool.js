@@ -7,31 +7,28 @@ var GIBComparisonTool = function () {
   // Properties
   ///////////////////////////
   
-  // Cumulative post-9/11 active duty service
-  var tier,                      // 1..0.4
-      serviceDischarge = false;  // Boolean
-  // Military service (String)
-  var serve;
-  // All online classes (Boolean)
-  var online;
+  // User form data
+  var formData = {
+    cumulative_service: "",
+    military_status: "",
+    spouse_active_duty: false,
+    facility_code: "",
+    online: false
+  };
   
-  // Institution data
-  var facility_code,
-      institution,
-      city,
-      state,
-      country,
-      bah,
-      poe,
-      yr,
-      gibill,
-      cross,
-      grad_rate,
-      grad_rate_rank,
-      default_rate,
-      avg_stu_loan_debt,
-      avg_stu_loan_debt_rank,
-      indicator_group;
+  // The current institution
+  var institution = {};
+  
+  // Calculated values
+  var calculated = {
+    tier: 0.0,
+    service_discharge: false,
+    institution_type: "",
+    location: "",
+    tuition_fees: "",
+    housing_allowance: "",
+    book_stipend: ""
+  };
   
   // Constants
   var TFCAP = 19198,
@@ -96,6 +93,108 @@ var GIBComparisonTool = function () {
   // Private Methods
   ///////////////////////////
   
+  /*
+   * Get user data from the form
+   */
+  var getFormData = function () {
+    formData.cumulative_service = $('#cumulative-service').val();
+    formData.military_status = $('#military-status').val();
+    formData.spouse_active_duty = $('#spouse-active-duty').prop('checked');
+    formData.facility_code = $('#institution-select').val();
+    formData.online = $('#online').prop('checked');
+  };
+  
+  
+  /*
+   * Format location of the institution
+   */
+  var formatLocation = function () {
+    calculated.location = "" + institution.city + ", "
+                             + institution.state + ", "
+                             + institution.country;
+  };
+  
+  
+  /*
+   * Determine the type of institution
+   */
+  var getInstitutionType = function () {
+    if (institution.facility_code[1] == "0") {
+      calculated.institution_type = "OJT / Apprenticeship";
+    } else if (institution.country != "USA") {
+      calculated.institution_type = "Foreign";
+    } else {
+      switch (institution.facility_code[0]) {
+        case '1':
+          calculated.institution_type = "Public School";
+          break;
+        case '2':
+          calculated.institution_type = "For Profit School";
+          break;
+        case '3':
+          calculated.institution_type = "Private School";
+          break;
+      }
+    }
+  };
+  
+  
+  /*
+   * Calculate the tier
+   */
+  var getTier = function () {
+    if (formData.cumulative_service == "service discharge") {
+      calculated.tier = 1;
+      calculated.service_discharge = true;
+    } else {
+      calculated.tier = parseFloat(formData.cumulative_service);
+    }
+  };
+  
+  
+  /*
+   * Calculates the tuition and fees
+   */
+  var getTuitionFees = function () {
+    if (calculated.institution_type == "OJT / Apprenticeship") {
+      calculated.tuition_fees = "";
+    } else if ((calculated.institution_type == "Public School") &&
+               (institution.country == "USA")) {
+      calculated.tuition_fees = "" + Math.round((calculated.tier * 100)) +
+                                "% of instate tuition";
+    } else {
+      calculated.tuition_fees = "$" + Math.round((TFCAP * calculated.tier)) +
+                                " / year";
+    }
+  };
+  
+  
+  /*
+   * Calculate the housing allowance
+   */
+  var getHousingAllowance = function () {
+    if (formData.military_status == "active duty") {
+      calculated.housing_allowance = "$0";
+    } else if ((formData.military_status == "spouse") &&
+                formData.spouse_active_duty) {
+      calculated.housing_allowance = "$0";
+    } else if (formData.online) {
+      calculated.housing_allowance = "$" + Math.round((calculated.tier * AVGBAH) / 2);
+    } else if (institution.country != "USA") {
+      calculated.housing_allowance = "$" + Math.round(calculated.tier * AVGBAH);
+    } else {
+      calculated.housing_allowance = "$" + Math.round(calculated.tier * institution.bah);
+    }
+  };
+  
+  
+  /*
+   * Calculate the book stipend
+   */
+  var getBookStipend = function () {
+    calculated.book_stipend = "$" + Math.round(calculated.tier * BSCAP);
+  };
+  
   
   // Public Methods
   ///////////////////////////
@@ -103,21 +202,35 @@ var GIBComparisonTool = function () {
   /*
    * Update benefit information
    */
-  var update = function () {
-    var val = $('#cumulative-service').val();
+  var update = function (data) {
+    // Get user data from the form
+    getFormData();
     
-    if (val == 'service discharge') {
-      tier = 1;
-      serviceDischarge = true;
-    } else {
-      tier = parseFloat(val);
-    }
+    // An institution must be selected
+    if (!formData.facility_code) { return; }
     
-    online = $('#online').prop('checked');
+    // Lookup the current institution
+    institution = data[formData.facility_code];
     
-    serve = $('#military-status').val();
+    // Calculate values
+    formatLocation();
+    getInstitutionType();
+    getTier();
+    getTuitionFees();
+    getHousingAllowance();
+    getBookStipend();
     
-    var ad = (serve == 'active duty') ? 'yes' : 'no';
+    // Write results to the page
+    $('#institution').html(institution.institution);
+    $('#location').html(calculated.location);
+    $('#type').html(calculated.institution_type);
+    $('#tuition-fees').html(calculated.tuition_fees);
+    $('#housing-allowance').html(calculated.housing_allowance);
+    $('#book-stipend').html(calculated.book_stipend);
+    
+    $('#poe').html(institution.poe ? "Yes" : "No");
+    $('#yr').html(institution.yr ? "Yes" : "No");
+    $('#gibill').html(institution.gibill ? institution.gibill : 0);
   };
   
   
