@@ -109,9 +109,13 @@ var GIBComparisonTool = function () {
    * Format location of the institution
    */
   var formatLocation = function () {
-    calculated.location = "" + institution.city + ", "
-                             + institution.state + ", "
-                             + institution.country;
+    if (institution.country != "USA") {
+      calculated.location = "" + institution.city + ", "
+                               + institution.country;
+    } else {
+      calculated.location = "" + institution.city + ", "
+                               + institution.state + ", "
+    }
   };
   
   
