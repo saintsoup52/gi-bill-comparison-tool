@@ -178,6 +178,8 @@ var GIBComparisonTool = function () {
     } else if ((formData.military_status == "spouse") &&
                 formData.spouse_active_duty) {
       calculated.housing_allowance = "$0";
+    } else if (calculated.institution_type == "OJT / Apprenticeship") {
+      calculated.housing_allowance = "$" + Math.round(calculated.tier * institution.bah)
     } else if (formData.online) {
       calculated.housing_allowance = "$" + Math.round((calculated.tier * AVGBAH) / 2);
     } else if (institution.country != "USA") {
