@@ -164,7 +164,7 @@ var GIBComparisonTool = function () {
                                 "% of instate tuition";
     } else {
       calculated.tuition_fees = "$" + Math.round((TFCAP * calculated.tier)) +
-                                " / year";
+                                "/year (up to)";
     }
   };
   
@@ -174,16 +174,16 @@ var GIBComparisonTool = function () {
    */
   var getHousingAllowance = function () {
     if (formData.military_status == "active duty") {
-      calculated.housing_allowance = "$0";
+      calculated.housing_allowance = "$0/month";
     } else if ((formData.military_status == "spouse") &&
                 formData.spouse_active_duty) {
-      calculated.housing_allowance = "$0";
+      calculated.housing_allowance = "$0/month";
     } else if (formData.online) {
-      calculated.housing_allowance = "$" + Math.round((calculated.tier * AVGBAH) / 2);
+      calculated.housing_allowance = "$" + Math.round((calculated.tier * AVGBAH) / 2) + "/month (full time)";
     } else if (institution.country != "USA") {
-      calculated.housing_allowance = "$" + Math.round(calculated.tier * AVGBAH);
+      calculated.housing_allowance = "$" + Math.round(calculated.tier * AVGBAH) + "/month (full time)";
     } else {
-      calculated.housing_allowance = "$" + Math.round(calculated.tier * institution.bah);
+      calculated.housing_allowance = "$" + Math.round(calculated.tier * institution.bah) + "/month (full time)";
     }
   };
   
@@ -192,7 +192,7 @@ var GIBComparisonTool = function () {
    * Calculate the book stipend
    */
   var getBookStipend = function () {
-    calculated.book_stipend = "$" + Math.round(calculated.tier * BSCAP);
+    calculated.book_stipend = "$" + Math.round(calculated.tier * BSCAP) + "/year";
   };
   
   
