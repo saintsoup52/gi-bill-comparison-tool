@@ -114,7 +114,7 @@ var GIBComparisonTool = function () {
                                + institution.country;
     } else {
       calculated.location = "" + institution.city + ", "
-                               + institution.state +
+                               + institution.state;
     }
   };
   
