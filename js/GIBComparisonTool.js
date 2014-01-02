@@ -237,6 +237,7 @@ var GIBComparisonTool = function () {
     $('#poe').html(institution.poe ? "Yes" : "No");
     $('#yr').html(institution.yr ? "Yes" : "No");
     $('#gibill').html(institution.gibill ? institution.gibill : 0);
+    $('#grad_rate').html(institution.grad_rate ? institution.grad_rate : "NR");
   };
   
   
