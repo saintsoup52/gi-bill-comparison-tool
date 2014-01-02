@@ -238,6 +238,9 @@ var GIBComparisonTool = function () {
     $('#yr').html(institution.yr ? "Yes" : "No");
     $('#gibill').html(institution.gibill ? institution.gibill : 0);
     $('#grad_rate').html(institution.grad_rate ? institution.grad_rate : "NR");
+    $('#default_rate').html(institution.default_rate ? institution.default_rate : "NR");
+    $('#avg_stu_loan_debt').html(institution.avg_stu_loan_debt ? avg_stu_loan_debt : "NR");
+
   };
   
   
