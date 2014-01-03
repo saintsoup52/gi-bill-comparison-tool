@@ -1,164 +1,172 @@
 ---
 layout: va
 ---
-<h1 id="site-title">Choosing a School</h1>
 
+<!-- ================================================== -->
+<!--                 Headers and Titles                 -->
+<!-- ================================================== -->
+
+<h1 id="site-title">Choosing a School</h1>
 <h2>INSERT TIMELINE HERE</h2>
 
 <div class="heading">GI Bill Comparison Tool Beta</div>
-
 <h2>Calculate your benefits and research approved programs.</h2>
+
+<!-- ================================================== -->
+<!--                 Eligibility Section                -->
+<!-- ================================================== -->
 
 <div class="heading">Eligibility</div>
 
+<!-- Cumulative Post 9-11 Active Duty Service -->
+<div class="form-group">
+  <label>Cumulative Post 9-11 Active Duty Service:</label>
+  
+  <select id="cumulative-service" name="Cumulative Post 9-11 Active Duty Service">
+    <option value="1.0">36+ months: 100% (includes BASIC)</option>
+    <option value="0.9">30 months: 90% (includes BASIC)</option>
+    <option value="0.8">24 months: 80% (includes BASIC)</option>
+    <option value="0.7">18 months: 70% (excludes BASIC)</option>
+    <option value="0.6">12 months: 60% (excludes BASIC)</option>
+    <option value="0.5">6 months: 50% (excludes BASIC)</option>
+    <option value="0.4">90 days: 40% (excludes BASIC)</option>
+    <option value="0.0">Less than 90 days 0% (excludes BASIC)</option>
+    <option value="1.0">GYSGT Fry Scholarship: 100%</option>
+    <option value="service discharge">Service-Connected Discharge: 100%</option>
+  </select>
+</div>
 
-<table>
-  <tbody>
-    <tr>
-      <td style="font-weight: bold;">Cumulative Post 9-11 Active Duty Service</td>
-      <td><select name="Cumulative Post 9-11 Active Duty Service" id="cumulative-service" >
-          <option value="">36+ months: 100% (includes BASIC)</option>
-          <option value="">30 months: 90% (includes BASIC)</option>
-          <option value="">24 months: 80% (includes BASIC)</option>
-          <option value="">18 months: 70% (excludes BASIC)</option>
-          <option value="">12 months: 60% (excludes BASIC)</option>
-          <option value="">6 months: 50% (excludes BASIC)</option>
-          <option value="">90 days: 40% (excludes BASIC)</option>
-          <option value="">Less than 90 days 0% (excludes BASIC)</option>
-          <option value="">Service Connected Discharge: 100%</option>
-          <option value="">GYSGT Fry Scholarship: 100%</option>
-        </select></td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td style="font-weight: bold;">Military Status</td>
-      <td><select name="Military Status" id="military-status">
-            <option value="">Veteran</option>
-            <option value="">Active Duty</option>
-            <option value="">National Guard / Reserves</option>
-            <option value="">Spouse</option>
-            <option value="">Child</option>
-          </select></td>
-    </tr>
-  </tbody>
-</table>
+<!-- Military Status -->
+<div class="form-group">
+  <label>Military Status</label>
+  
+  <select id="military-status" name="Military Status">
+    <option value="veteran">Veteran</option>
+    <option value="active duty">Active Duty</option>
+    <option value="national guard / reserves">National Guard / Reserves</option>
+    <option value="spouse">Spouse</option>
+    <option value="child">Child</option>
+  </select>
+</div>
+
+<!-- Spouse on Active Duty -->
+<div class="form-group">
+  <label>Is your husband / wife on active duty?</label>
+    
+  <label class="radio">Yes</label>
+  <input id="spouse-active-duty-yes" name="Spouse Active Duty" type="radio" value="yes">
+  
+  <label class="radio">No</label>
+  <input id="spouse-active-duty-no" name="Spouse Active Duty" type="radio" value="no" checked>
+</div>
+
+<div class="clear"></div>
+
+<!-- ================================================== -->
+<!--       School / Employer Information Section        -->
+<!-- ================================================== -->
 
 <div class="heading">School / Employer Information</div>
 
-<h2>Enter Name of a School or Employer</h2>
+<div class="form-group school-employer">
+  <p>Search for a School or Employer</p>
+  <input id="institution-search" type="text" placeholder="Enter the name of the school or employer">
+  <button id="button-search">Search</button> <button id="button-clear">Show All</button>
+  
+  <br>
+  
+  <select id="institution-select" size="5">
+  </select>
+</div>
 
-<input name="Institution or Employer" id="organization" type="text" placeholder="Enter school or employer name" size="70" maxlength="256" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+<div class="form-group">
+  <label>Taking all online classes?</label>
+  
+  <label class="radio">Yes</label>
+  <input id="online-yes" name="Online Courses" type="radio" value="yes">
+  
+  <label class="radio">No</label>
+  <input id="online-no" name="Online Courses" type="radio" value="no" checked>
+</div>
 
-<h2>Taking all online classes?</h2>
+<div class="clear"></div>
 
-<input name="Online Courses" type="radio" value="yes"><label class="radio">Yes</label>
-<input name="Online Courses" type="radio" value="no"><label class="radio">No</label>
-
+<!-- ================================================== -->
+<!--                  Benefit Estimator                 -->
+<!-- ================================================== -->
 
 <div class="heading">Benefit Estimator</div>
 
-<h2>UNIVERSITY OF WISCONSIN-GREEN BAY</h2>
-<p class="large">Green Bay, WI</p>
-<p class="large">Public School</p>
+<h2 id="institution"></h2>
+<p id="location"></p>
+<p id="type"></p>
 
 <table>
   <thead>
     <tr>
-      <td style="font-weight: bold;">Tuition / Fees</td>
-      <td>100% of instate tuition</td>
+      <th>Tuition / Fees</th>
+      <td id="tuition-fees"></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="font-weight: bold;">Housing Allowance</td>
-      <td>$879 / month (full time)</td>
+      <th>Housing Allowance</th>
+      <td id="housing-allowance"></td>
     </tr>
-  </tbody>
+  </thead>
   <tbody>
     <tr>
-      <td style="font-weight: bold;">Book Stipend</td>
-      <td>$1,000 / year</td>
+      <th>Book Stipend</th>
+      <td id="book-stipend"></td>
     </tr>
   </tbody>
 </table>
 
+<!-- ================================================== -->
+<!--                  Veteran Indicators                -->
+<!-- ================================================== -->
 
 <div class="heading">Veteran Indicators</div>
 
 <table>
   <thead>
     <tr>
-      <td style="font-weight: bold;">Principles of Excellence</td>
-      <td>Yes</td>
+      <th>Principles of Excellence</th>
+      <td id="poe"></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="font-weight: bold;">Yellow Ribbon</td>
-      <td>Yes</td>
+      <th>Yellow Ribbon</th>
+      <td id="yr"></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="font-weight: bold;">GI Bill Beneficiaries</td>
-      <td>262</td>
+      <th>GI Bill Beneficiaries</th>
+      <td id="gibill"></td>
     </tr>
   </tbody>
 </table>
 
+<!-- ================================================== -->
+<!--      School Indicators (Non-Veteran Specific)      -->
+<!-- ================================================== -->
 
 <div class="heading">School Indicators (Non-Veteran Specific)</div>
-
-
-<table>
-  <tbody>
-    <tr>
-      <td style="font-weight: bold;">Graduation Rates</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>Percent of full-time students that graduated within 150% of the expected time for completion. Graduation rate data are based on undergraduate students who enrolled full-time and have never enrolled in college before. This may not represent all undergraduates that attend this institution.</td>
-      <td align="center"><svg height="40" version="1.1" width="225" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative;"><desc>Created with Rapha�l 2.1.0</desc><defs><linearGradient id="990-_526c7a-_64a0c1" x1="0" y1="1" x2="6.123233995736766e-17" y2="0" gradientTransform="matrix(1,0,0,1,0,0)"><stop offset="0%" stop-color="#526c7a"></stop><stop offset="100%" stop-color="#64a0c1"></stop></linearGradient></defs><rect x="0" y="20" width="73" height="20" r="0" rx="0" ry="0" fill="#add8e6" stroke="#000" style=""></rect><rect x="73" y="20" width="73" height="20" r="0" rx="0" ry="0" fill="#659ec7" stroke="#000" style=""></rect><rect x="146" y="20" width="73" height="20" r="0" rx="0" ry="0" fill="#2b547e" stroke="#000" style=""></rect><path fill="#add8e6" stroke="#000000" d="M0,20L73,20L73,40L0,40Z" stroke-width="0.5" stroke-linejoin="round" style="stroke-linejoin: round;"></path><path fill="#659ec7" stroke="#000000" d="M73,20L146,20L146,40L73,40Z" stroke-width="1" stroke-linejoin="round" style="stroke-linejoin: round;"></path><path fill="#2b547e" stroke="#000000" d="M146,20L219,20L219,40L146,40Z" stroke-width="1" stroke-linejoin="round" style="stroke-linejoin: round;"></path><text x="35" y="30" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">Low</tspan></text><text x="110" y="30" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">Medium</tspan></text><text x="180" y="30" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">High</tspan></text><path fill="#808080" stroke="#3b4449" d="M126,20L121,15L131,15Z" opacity="1" fill-opacity="1" stroke-width="1" stroke-linejoin="round" style="opacity: 1; fill-opacity: 1; stroke-linejoin: round;"></path><text x="126" y="6" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#808080" font-size="14px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 14px; line-height: normal; font-family: Arial;"><tspan dy="5">54.5%</tspan></text></svg></td>
-    </tr>
-  </tbody>
-</table>
 
 <h2>Graduation Rates</h2>
 
 <p>Percent of full-time students that graduated within 150% of the expected time for completion. Graduation rate data are based on undergraduate students who enrolled full-time and have never enrolled in college before. This may not represent all undergraduates that attend this institution.</p>
 
-<svg height="40" version="1.1" width="225" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative;"><desc>Created with Rapha�l 2.1.0</desc><defs><linearGradient id="990-_526c7a-_64a0c1" x1="0" y1="1" x2="6.123233995736766e-17" y2="0" gradientTransform="matrix(1,0,0,1,0,0)"><stop offset="0%" stop-color="#526c7a"></stop><stop offset="100%" stop-color="#64a0c1"></stop></linearGradient></defs><rect x="0" y="20" width="73" height="20" r="0" rx="0" ry="0" fill="#add8e6" stroke="#000" style=""></rect><rect x="73" y="20" width="73" height="20" r="0" rx="0" ry="0" fill="#659ec7" stroke="#000" style=""></rect><rect x="146" y="20" width="73" height="20" r="0" rx="0" ry="0" fill="#2b547e" stroke="#000" style=""></rect><path fill="#add8e6" stroke="#000000" d="M0,20L73,20L73,40L0,40Z" stroke-width="0.5" stroke-linejoin="round" style="stroke-linejoin: round;"></path><path fill="#659ec7" stroke="#000000" d="M73,20L146,20L146,40L73,40Z" stroke-width="1" stroke-linejoin="round" style="stroke-linejoin: round;"></path><path fill="#2b547e" stroke="#000000" d="M146,20L219,20L219,40L146,40Z" stroke-width="1" stroke-linejoin="round" style="stroke-linejoin: round;"></path><text x="35" y="30" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">Low</tspan></text><text x="110" y="30" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">Medium</tspan></text><text x="180" y="30" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">High</tspan></text><path fill="#808080" stroke="#3b4449" d="M126,20L121,15L131,15Z" opacity="1" fill-opacity="1" stroke-width="1" stroke-linejoin="round" style="opacity: 1; fill-opacity: 1; stroke-linejoin: round;"></path><text x="126" y="6" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#808080" font-size="14px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 14px; line-height: normal; font-family: Arial;"><tspan dy="5">54.5%</tspan></text></svg>
-
 <h2>Loan Default Rates</h2>
 
 <p>Percent of student borrowers that failed to repay their Federal student loans within three years of entering repayment.</p>
 
-<svg height="100" version="1.1" width="200" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative;"><desc>Created with Rapha�l 2.1.0</desc><defs></defs><path fill="none" stroke="#585858" d="M0,60L200,60" stroke-width="3" style=""></path><rect x="120" y="30" width="60" height="30" r="0" rx="0" ry="0" fill="#585858" stroke="#585858" style=""></rect><rect x="30" y="50.59701492537313" width="60" height="9.402985074626866" r="0" rx="0" ry="0" fill="#585858" stroke="#585858" style=""></rect><text x="55" y="70" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#808080" font-size="11px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 11px; line-height: normal; font-family: Arial;"><tspan dy="3.5">This school</tspan></text><text x="55" y="87" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#808080" font-size="14px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 14px; line-height: normal; font-family: Arial;"><tspan dy="5">4.2%</tspan></text><text x="145" y="70" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#808080" font-size="11px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 11px; line-height: normal; font-family: Arial;"><tspan dy="3.5">National average</tspan></text><text x="145" y="87" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#808080" font-size="14px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 14px; line-height: normal; font-family: Arial;"><tspan dy="5">13.4%</tspan></text><path fill="#808080" stroke="#000000" d="M120,30L180,30L180,60L120,60Z" stroke-width="0.5" stroke-linejoin="round" style="stroke-linejoin: round;"></path><path fill="#808080" stroke="#000000" d="M30,50.59701492537313L90,50.59701492537313L90,60L30,60Z" stroke-width="0.5" stroke-linejoin="round" style="stroke-linejoin: round;"></path></svg>
-
 <h2>Median Borrowing</h2>
 
-<p>Families who borrow typically take out this amount in Federal loans for a student's undergraduate study. Your borrowing may be different. <a href=" http://studentaid.ed.gov/repay-loans/understand/plans">Learn about repayment options.</a></p>
-
-<svg height="100" version="1.1" width="200" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative;"><desc>Created with Rapha�l 2.1.0</desc><defs><linearGradient id="2090-_2B547E-_2B547E" x1="0" y1="1" x2="6.123233995736766e-17" y2="0" gradientTransform="matrix(1,0,0,1,0,0)"><stop offset="0%" stop-color="#2b547e"></stop><stop offset="100%" stop-color="#2b547e"></stop></linearGradient><linearGradient id="2190-_659EC7-_659EC7" x1="0" y1="1" x2="6.123233995736766e-17" y2="0" gradientTransform="matrix(1,0,0,1,0,0)"><stop offset="0%" stop-color="#659ec7"></stop><stop offset="100%" stop-color="#659ec7"></stop></linearGradient><linearGradient id="2290-_ADD8E6-_ADD8E6" x1="0" y1="1" x2="6.123233995736766e-17" y2="0" gradientTransform="matrix(1,0,0,1,0,0)"><stop offset="0%" stop-color="#add8e6"></stop><stop offset="100%" stop-color="#add8e6"></stop></linearGradient></defs><path fill="url(#2090-_2B547E-_2B547E)" stroke="#ffffff" d="M100,70L160,70A60,60,0,0,0,130,18.038475772933687Z" opacity="1" fill-opacity="1" stroke-width="0.01" style="opacity: 1; fill-opacity: 1;"></path><path fill="url(#2190-_659EC7-_659EC7)" stroke="#ffffff" d="M100,70L130,18.038475772933687A60,60,0,0,0,70.00000000000001,18.038475772933673Z" opacity="1" fill-opacity="1" stroke-width="0.01" style="opacity: 1; fill-opacity: 1;"></path><path fill="url(#2290-_ADD8E6-_ADD8E6)" stroke="#ffffff" d="M100,70L70.00000000000001,18.038475772933673A60,60,0,0,0,40,69.99999999999999Z" opacity="1" fill-opacity="1" stroke-width="0.01" style="opacity: 1; fill-opacity: 1;"></path><text x="65" y="50" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">Low</tspan></text><text x="100" y="27" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">Medium</tspan></text><text x="135" y="50" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#ffffff" font-size="10px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-family: Arial;"><tspan dy="3.5">High</tspan></text><text x="100" y="85" text-anchor="middle" font="10px &quot;Arial&quot;" stroke="none" fill="#808080" font-size="14px" font-weight="bold" style="text-anchor: middle; font-style: normal; font-variant: normal; font-weight: bold; font-size: 14px; line-height: normal; font-family: Arial;"><tspan dy="5">$13,580</tspan></text><path fill="#f5f5f5" stroke="#000000" d="M69.35822227524088,44.288495612538426L97.42884956125384,73.06417777247592L102.57115043874616,66.93582222752408Z" style=""></path><circle cx="100" cy="70" r="6" fill="#ffffff" stroke="#000" style=""></circle><path fill="#ffffff" stroke="#ffffff" d="M69.35822227524088,44.288495612538426L97.42884956125384,73.06417777247592L102.57115043874616,66.93582222752408Z" stroke-width="0.05" stroke-linejoin="round" style="stroke-linejoin: round;"></path></svg>
+<p>Families who borrow typically take out this amount in Federal loans for a student's undergraduate study. Your borrowing may be different. <a href="http://studentaid.ed.gov/repay-loans/understand/plans">Learn about repayment options.</a></p>
 
 <h2>Employment</h2>
 
-<p>The U.S. Department of Education is working to provide information about the average earnings of former undergraduate students at this school who borrowed Federal student loans</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p>The U.S. Department of Education is working to provide information about the average earnings of former undergraduate students at this school who borrowed Federal student loans.</p>
