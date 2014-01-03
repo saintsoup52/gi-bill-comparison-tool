@@ -1,11 +1,14 @@
 /*
- * GIBComparisonTool.js - The GI Bill Comparison Tool Module
+ * gib-comparison-tool.js - The GI Bill Comparison Tool Module
  */
 
 var GIBComparisonTool = function () {
   
   // Properties
   ///////////////////////////
+  
+  // All institutions (names and facility codes)
+  var institutions = [];
   
   // User form data
   var formData = {
@@ -99,9 +102,22 @@ var GIBComparisonTool = function () {
   var getFormData = function () {
     formData.cumulative_service = $('#cumulative-service').val();
     formData.military_status = $('#military-status').val();
-    formData.spouse_active_duty = $('#spouse-active-duty').prop('checked');
+    formData.spouse_active_duty = $('#spouse-active-duty-yes').prop('checked');
     formData.facility_code = $('#institution-select').val();
-    formData.online = $('#online').prop('checked');
+    formData.online = $('#online-yes').prop('checked');
+  };
+  
+  
+  /*
+   * Find the selected institution
+   */
+  var getInstitution = function (facility_code, callback) {
+    var url = "api/" + facility_code.substr(0, 3) + "/" + facility_code + ".json";
+    
+    $.getJSON(url, function(data) {
+      institution = data;
+      callback();
+    });
   };
   
   
@@ -211,49 +227,98 @@ var GIBComparisonTool = function () {
   /*
    * Update benefit information
    */
-  var update = function (data) {
+  var update = function () {
     // Get user data from the form
     getFormData();
     
-    // An institution must be selected
+    // An institution must be selected to proceed
     if (!formData.facility_code) { return; }
     
+    if (formData.facility_code == institution.facility_code) {
+      // TODO: Just do an update with existing institution, no $.getJSON call
+    }
+    
     // Lookup the current institution
-    institution = data[formData.facility_code];
-    
-    // Calculate values
-    formatLocation();
-    getInstitutionType();
-    getTier();
-    getTuitionFees();
-    getHousingAllowance();
-    getBookStipend();
-    
-    // Write results to the page
-    $('#institution').html(institution.institution);
-    $('#location').html(calculated.location);
-    $('#type').html(calculated.institution_type);
-    $('#tuition-fees').html(calculated.tuition_fees);
-    $('#housing-allowance').html(calculated.housing_allowance);
-    $('#book-stipend').html(calculated.book_stipend);
-    
-    $('#poe').html(institution.poe ? "Yes" : "No");
-    $('#yr').html(institution.yr ? "Yes" : "No");
-    $('#gibill').html(institution.gibill ? institution.gibill : 0);
-    $('#grad_rate').html(institution.grad_rate ? institution.grad_rate : "NR");
-    $('#default_rate').html(institution.default_rate ? institution.default_rate : "NR");
-    $('#avg_stu_loan_debt').html(institution.avg_stu_loan_debt ? avg_stu_loan_debt : "NR");
-
+    getInstitution(formData.facility_code, function () {
+      // Calculate values
+      formatLocation();
+      getInstitutionType();
+      getTier();
+      getTuitionFees();
+      getHousingAllowance();
+      getBookStipend();
+      
+      // Write results to the page
+      $('#institution').html(institution.institution);
+      $('#location').html(calculated.location);
+      $('#type').html(calculated.institution_type);
+      $('#tuition-fees').html(calculated.tuition_fees);
+      $('#housing-allowance').html(calculated.housing_allowance);
+      $('#book-stipend').html(calculated.book_stipend);
+      
+      $('#poe').html(institution.poe ? "Yes" : "No");
+      $('#yr').html(institution.yr ? "Yes" : "No");
+      $('#gibill').html(institution.gibill ? institution.gibill : 0);
+      $('#grad_rate').html(institution.grad_rate ? institution.grad_rate : "NR");
+      $('#default_rate').html(institution.default_rate ? institution.default_rate : "NR");
+      $('#avg_stu_loan_debt').html(institution.avg_stu_loan_debt ? institution.avg_stu_loan_debt : "NR");
+    });
+  };
+  
+  
+  /*
+   * Clear the search field
+   */
+  var clear = function () {
+    $('#institution-search').val('');
+    $('#button-search').trigger('click');
   };
   
   
   // Init
   ///////////////////////////
   
+  $(document).ready(function () {
+    $('#institution-select').hide();
+    
+    // Bind event handlers to form elements
+    
+    $('#button-clear').on('click', function () {
+      GIBComparisonTool.clear();
+    });
+    
+    $('#cumulative-service, #military-status, #institution-select, ' +
+      '#spouse-active-duty-yes, #spouse-active-duty-no, ' +
+      '#online-yes, #online-no').on('change', function () {
+      GIBComparisonTool.update();
+    });
+    
+    $('#institution-search').keyup(function (e) {
+      if (e.keyCode == 13) { $('#button-search').trigger('click'); }
+    });
+    
+    // Load institution data
+    $.getJSON("api/institutions.json", function(data) {
+      institutions = data;
+      var html = "";
+      
+      for (var i = 0; i < institutions.length; i++) {
+        html += "<option value='"+ institutions[i][0] +"'>"+ institutions[i][1] +"</option>";
+      }
+      
+      // Use native DOM API for speed, instead of jQuery's .append()
+      document.getElementById('institution-select').innerHTML = html;
+      
+      $('#institution-select').show();
+      $('#institution-select').filterByText($('#institution-search'), $('#button-search'));
+    });
+  });
+  
   
   // Reveal public methods
   return {
-    update: update
+    update: update,
+    clear: clear
   };
   
 }();
