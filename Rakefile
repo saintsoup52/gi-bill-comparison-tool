@@ -56,8 +56,7 @@ task :build do
   institutions = []
   
   data.each do |el|
-    institutions.push Hash["facility_code", el[:facility_code],
-                           "institution", el[:institution]]
+    institutions.push Array[el[:facility_code], el[:institution]]
   end
   
   File.open("api/institutions.json", 'w') { |f| f.write(institutions.to_json) }
