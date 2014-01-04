@@ -12,10 +12,10 @@ jQuery.fn.filterByText = function(textbox, button, selectSingleMatch) {
     });
     $(select).data('options', options);
     
-    $(button).click(function () {
-      // If input is empty, restore original HTML
-      if (textbox.val() == "") {
-        select.innerHTML = html;
+    $(textbox).bind('change keyup', function() {
+      // If search field is < 3 chars, show nothing
+      if (textbox.val().length < 3) {
+        $(select).empty();
         return;
       }
       
@@ -23,12 +23,16 @@ jQuery.fn.filterByText = function(textbox, button, selectSingleMatch) {
       var search = $.trim($(textbox).val());
       var regex = new RegExp(search,'gi');
       var resultHTML = "";
+      var results = 0;  // Count the number of results
       
       $.each(options, function (i) {
         var option = options[i];
         if (option.text.match(regex) !== null) {
-          resultHTML += "<option value='"+ option.value +
+          if (results < 5) {
+            resultHTML += "<option value='"+ option.value +
                         "'>"+ option.text +"</option>";
+          }
+          results++;
         }
       });
       
@@ -39,7 +43,6 @@ jQuery.fn.filterByText = function(textbox, button, selectSingleMatch) {
         $(select).children().get(0).selected = true;
       }
       
-      // if ($('#' + $(select).attr('id') + ' option').size() == 0) {
       if ($(select).html() == "") {
         select.innerHTML = "<option value=''>No Results</option>";
       }

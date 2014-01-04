@@ -266,15 +266,6 @@ var GIBComparisonTool = function () {
   };
   
   
-  /*
-   * Clear the search field
-   */
-  var clear = function () {
-    $('#institution-search').val('');
-    $('#button-search').trigger('click');
-  };
-  
-  
   // Init
   ///////////////////////////
   
@@ -282,19 +273,10 @@ var GIBComparisonTool = function () {
     $('#institution-select').hide();
     
     // Bind event handlers to form elements
-    
-    $('#button-clear').on('click', function () {
-      GIBComparisonTool.clear();
-    });
-    
     $('#cumulative-service, #military-status, #institution-select, ' +
       '#spouse-active-duty-yes, #spouse-active-duty-no, ' +
       '#online-yes, #online-no').on('change', function () {
       GIBComparisonTool.update();
-    });
-    
-    $('#institution-search').keyup(function (e) {
-      if (e.keyCode == 13) { $('#button-search').trigger('click'); }
     });
     
     // Load institution data
@@ -309,16 +291,16 @@ var GIBComparisonTool = function () {
       // Use native DOM API for speed, instead of jQuery's .append()
       document.getElementById('institution-select').innerHTML = html;
       
-      $('#institution-select').show();
       $('#institution-select').filterByText($('#institution-search'), $('#button-search'));
+      $('#institution-select').empty();
+      $('#institution-select').show();
     });
   });
   
   
   // Reveal public methods
   return {
-    update: update,
-    clear: clear
+    update: update
   };
   
 }();
