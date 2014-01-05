@@ -219,8 +219,12 @@ var GIBComparisonTool = function () {
   var getBookStipend = function () {
     calculated.book_stipend = "$" + Math.round(calculated.tier * BSCAP) + " / year";
   };
-  
-  
+
+  /*
+   * More Information About School Link
+   */
+  document.getElementById("navigatorlink").innerHTML = "<p><a href=\"http://nces.ed.gov/collegenavigator/?id="+institution.cross+ "\" target=\"newtab\" >More information about your school</a></p>";  
+
   // Public Methods
   ///////////////////////////
   
