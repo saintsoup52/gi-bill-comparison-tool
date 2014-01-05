@@ -223,7 +223,7 @@ var GIBComparisonTool = function () {
   /*
    * More Information About School Link
    */
-  document.getElementById("navigatorlink").innerHTML = "<p><a href=\"http://nces.ed.gov/collegenavigator/?id="+institution.cross+ "\" target=\"newtab\" >More information about your school</a></p>";  
+  document.getElementById("navigatorlink").innerHTML = "<p><a href=\"http://nces.ed.gov/collegenavigator/?id=" + institution.cross + "\" target=\"newtab\" >More information about your school</a></p>";  
 
   // Public Methods
   ///////////////////////////
