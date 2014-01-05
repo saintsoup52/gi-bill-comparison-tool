@@ -92,6 +92,12 @@ var GIBComparisonTool = function () {
       GROUP5LOANRANKHIGH = 0,
       GROUP5LOANRANKMAX = 0;
   
+  // Colors
+  var lightBlue  = '#94bac9',
+      mediumBlue = '#1d7893',
+      darkBlue   = '#004974',
+      darkGray   = '#494949';
+  
   
   // Private Methods
   ///////////////////////////
@@ -219,12 +225,291 @@ var GIBComparisonTool = function () {
   var getBookStipend = function () {
     calculated.book_stipend = "$" + Math.round(calculated.tier * BSCAP) + " / year";
   };
-
+  
+  
   /*
-   * More Information About School Link
+   * Draw the graduation rate
    */
-  document.getElementById("navigatorlink").innerHTML = "<p><a href=\"http://nces.ed.gov/collegenavigator/?id=" + institution.cross + "\" target=\"newtab\" >More information about your school</a></p>";  
+  var drawGraduationRate = function () {
+    var canvas = Raphael('graduation-rates-chart', 300, 100);
+    
+    var indent = 30;
+    var w = 80;
+    var h = 30;
+    var y = 69;
+    
+    var font = 'Arial, Helvetica, sans-serif';
+    var xText = indent + 40;
+    var yText = y + 15;
+    
+    canvas.add([
+      // Temp outline
+      {
+        stroke: 'none',
+        fill: '#e6e6e6',
+        type: 'rect',
+        x: 0,
+        y: 0,
+        width: 300,
+        height: 100
+      },
+      // Low rect
+      {
+        type: 'rect',
+        x: indent,
+        y: y,
+        width: w,
+        height: h,
+        fill: lightBlue,
+        stroke: '#000'
+      },
+      // Medium rect
+      {
+        type: 'rect',
+        x: indent + w,
+        y: y,
+        width: w,
+        height: h,
+        fill: mediumBlue,
+        stroke: '#000'
+      },
+      // High rect
+      {
+        type: 'rect',
+        x: indent + (w * 2),
+        y: y,
+        width: w,
+        height: h,
+        fill: darkBlue,
+        stroke: '#000'
+      },
+      // Low text
+      {
+        type: 'text',
+        text: 'LOW',
+        x: xText,
+        y: yText,
+        'font-family': font,
+        'font-size': 12,
+        fill: '#fff'
+      },
+      // Medium text
+      {
+        type: 'text',
+        text: 'MEDIUM',
+        x: xText + w,
+        y: yText,
+        'font-family': font,
+        'font-size': 12,
+        fill: '#fff'
+      },
+      // High text
+      {
+        type: 'text',
+        text: 'HIGH',
+        x: xText + (w * 2),
+        y: yText,
+        'font-family': font,
+        'font-size': 12,
+        fill: '#fff'
+      }
+    ]);
 
+    // Arrow
+    var arrow = canvas.path('M0,0 L16,0 L8,10 L0,0');
+    arrow.attr({
+      fill: darkGray,
+      stroke: 'none'
+    });
+    var range = {
+      start: indent - 8,
+      end: indent - 8 + (w * 3)
+    }
+    arrow.translate(range.start, y - 13);
+
+    // Label
+    var percent = '98.7%';
+    // var xLabel = 35;
+    var xLabel = range.start + 8;
+    var label = canvas.text(xLabel, 46, percent);
+    label.attr({
+      'font-family': font,
+      'font-size': 16,
+      fill: darkGray
+    });
+  };
+  
+  
+  /*
+   * Draw the loan default rates chart
+   */
+  var drawLoanDefaultRates = function () {
+    var canvas = Raphael('loan-default-rates-chart', 300, 200);
+    var font = 'Arial, Helvetica, sans-serif';
+    var y = 75;
+    
+    canvas.add([
+      // Temp outline
+      {
+        stroke: 'none',
+        fill: '#e6e6e6',
+        type: 'rect',
+        x: 0,
+        y: 0,
+        width: 300,
+        height: 200
+      },
+      // Bottom bar
+      {
+        type: 'rect',
+        x: 25,
+        y: y + 70,
+        width: 250,
+        height: 4,
+        fill: darkGray,
+        stroke: 'none'
+      },
+      // This school bar
+      {
+        type: 'rect',
+        x: 50,
+        y: y + 60,   // 70 - val
+        width: 50,
+        height: 10,  // val
+        fill: mediumBlue,
+        stroke: 'none'
+      },
+      // National average bar
+      {
+        type: 'rect',
+        x: 200,
+        y: y - 5,
+        width: 50,
+        height: 75,
+        fill: darkGray,
+        stroke: 'none'
+      },
+      // This school text
+      {
+        type: 'text',
+        text: 'THIS SCHOOL',
+        x: 100 - 20,
+        y: y + 85,
+        'font-family': font,
+        'font-size': 12,
+        fill: darkGray
+      },
+      // National average text
+      {
+        type: 'text',
+        text: 'NATIONAL AVERAGE',
+        x: 200 + 20,
+        y: y + 85,
+        'font-family': font,
+        'font-size': 12,
+        fill: darkGray
+      },
+      // This school percentage
+      {
+        type: 'text',
+        text: '13.4%',
+        x: 100 - 20,
+        y: y + 102,
+        'font-family': font,
+        'font-size': 16,
+        fill: darkGray
+      },
+      // National average percentage
+      {
+        type: 'text',
+        text: '13.4%',
+        x: 200 + 20,
+        y: y + 102,
+        'font-family': font,
+        'font-size': 16,
+        fill: darkGray
+      }
+    ]);
+  };
+  
+  
+  /*
+   * Draw the median borrowing chart
+   */
+  var drawMedianBorrowingChart = function () {
+    var canvas = Raphael('median-borrowing-chart', 300, 150);
+    var font = 'Arial, Helvetica, sans-serif';
+    
+    canvas.add([
+      // Temp outline
+      {
+        stroke: 'none',
+        fill: '#e6e6e6',
+        type: 'rect',
+        x: 0,
+        y: 0,
+        width: 300,
+        height: 150
+      },
+      // Low wedge
+      {
+        type: 'path',
+        path: wedgePath(150, 120, 180, 240, 100),
+        fill: lightBlue,
+        stroke: 'none'
+      },
+      // Medium wedge
+      {
+        type: 'path',
+        path: wedgePath(150, 120, 240, 300, 100),
+        fill: mediumBlue,
+        stroke: 'none'
+      },
+      // High wedge
+      {
+        type: 'path',
+        path: wedgePath(150, 120, 300, 360, 100),
+        fill: darkBlue,
+        stroke: 'none'
+      },
+      // Small gray circle
+      {
+        type: 'path',
+        path: wedgePath(150, 120, 180, 360, 15),
+        fill: darkGray,
+        stroke: 'none'
+      },
+      // Amount text
+      {
+        type: 'text',
+        text: '$7,700',
+        x: 150,
+        y: 135,
+        'font-family': font,
+        'font-weight': 'bold',
+        'font-size': 18,
+        fill: darkGray
+      }
+    ]);
+    
+    // TODO: Draw the arrow thingy
+  };
+  
+  
+  /*
+   * Creates an SVG wedge path
+   * Adapted from: stackoverflow.com/questions/13092979/svg-javascript-pie-wedge-generator
+   */
+  var wedgePath = function (x, y, startAngle, endAngle, r) {
+    var x1 = x + r * Math.cos(Math.PI * startAngle / 180),
+        y1 = y + r * Math.sin(Math.PI * startAngle / 180),
+        x2 = x + r * Math.cos(Math.PI * endAngle / 180),
+        y2 = y + r * Math.sin(Math.PI * endAngle / 180);
+    
+    return 'M'+x+' '+y+' L'+x1+' '+y1+' A'+r+' '+r+' 0 0 1 '+x2+' '+y2 +' z';
+  }
+  
+  
   // Public Methods
   ///////////////////////////
   
@@ -266,6 +551,12 @@ var GIBComparisonTool = function () {
       $('#grad_rate').html(institution.grad_rate ? institution.grad_rate : "NR");
       $('#default_rate').html(institution.default_rate ? institution.default_rate : "NR");
       $('#avg_stu_loan_debt').html(institution.avg_stu_loan_debt ? institution.avg_stu_loan_debt : "NR");
+      
+      // More information about school link
+      $('navigatorlink').html(
+        "<p><a href='http://nces.ed.gov/collegenavigator/?id=" +
+        institution.cross +
+        "' target='newtab'>More information about your school</a></p>");
     });
   };
   
@@ -300,6 +591,11 @@ var GIBComparisonTool = function () {
       $('#institution-select').show();
     });
   });
+  
+  // Testing drawing functions
+  drawGraduationRate();
+  drawLoanDefaultRates();
+  drawMedianBorrowingChart();
   
   
   // Reveal public methods
