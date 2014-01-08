@@ -115,7 +115,29 @@ var GIBComparisonTool = function () {
   
   
   /*
-   * Find the selected institution
+   * Searches all institution names for matching text
+   */
+  var search = function (text, maxResults) {
+    var regex = new RegExp(text,'gi');
+    var matches = 0;
+    var results = [];
+    
+    $.each(institutions, function (i) {
+      var obj = institutions[i];
+      if (obj.name.match(regex) !== null) {
+        if (matches < maxResults) {
+          results.push(obj);
+        }
+        matches++;
+      }
+    });
+     
+    return results;
+  };
+  
+  
+  /*
+   * Get data for selected institution
    */
   var getInstitution = function (facility_code, callback) {
     var url = "api/" + facility_code.substr(0, 3) + "/" + facility_code + ".json";
@@ -565,7 +587,6 @@ var GIBComparisonTool = function () {
   ///////////////////////////
   
   $(document).ready(function () {
-    $('#institution-select').hide();
     
     // Bind event handlers to form elements
     $('#cumulative-service, #military-status, #institution-select, ' +
@@ -576,19 +597,32 @@ var GIBComparisonTool = function () {
     
     // Load institution data
     $.getJSON("api/institutions.json", function(data) {
-      institutions = data;
-      var html = "";
       
-      for (var i = 0; i < institutions.length; i++) {
-        html += "<option value='"+ institutions[i][0] +"'>"+ institutions[i][1] +"</option>";
+      for (var i = 0; i < data.length; i++) {
+        institutions.push({ facility_code: data[i][0], name: data[i][1] });
       }
       
-      // Use native DOM API for speed, instead of jQuery's .append()
-      document.getElementById('institution-select').innerHTML = html;
+      $('#institution-search').bind('change keyup', function() {
+        $('#institution-select').empty();
+        
+        if ($('#institution-search').val().length < 3) { return; }
+        
+        var results = search($('#institution-search').val(), 25);
+        
+        if (results == 0) {
+          $('#institution-select').append(
+            $('<option>').text("No Results").val('')
+          );
+        } else {
+          $.each(results, function (i) {
+            $('#institution-select').append(
+              $('<option>').text(results[i].name).val(results[i].facility_code)
+            );
+          });
+        }
+        
+      });
       
-      $('#institution-select').filterByText($('#institution-search'), $('#button-search'));
-      $('#institution-select').empty();
-      $('#institution-select').show();
     });
   });
   
