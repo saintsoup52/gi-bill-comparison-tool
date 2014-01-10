@@ -783,7 +783,7 @@ background: -ms-linear-gradient(top,  #daf0f7 0%,#afdeed 100%); /* IE10+ */
 
 background: linear-gradient(top,  #daf0f7 0%,#afdeed 100%); /* W3C */
 
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#daf0f7', endColorstr='#afdeed',GradientType=0 ); /* IE6-8 */
+/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#daf0f7', endColorstr='#afdeed',GradientType=0 );*/ /* IE6-8 */
 
 }
 

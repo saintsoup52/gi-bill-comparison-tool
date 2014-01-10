@@ -1,4 +1,26 @@
-.comparison {}
+
+#tier4innerContent img {
+  padding: 0;
+}
+
+sup {
+  vertical-align: super;
+  font-size: 60%;
+}
+
+.comparison a {
+  text-decoration: none;
+  color: #0B6CB2;
+}
+
+.comparison a:hover {
+  text-decoration: underline;
+  color: #990000;
+}
+
+.comparison img.info {
+  margin-left: 10px;
+}
 
 .comparison .timeline {
   width: 920px;
@@ -18,15 +40,6 @@
   vertical-align: top;
   display: inline-block;
   margin-right: 10px;
-}
-
-.comparison .timeline .box a {
-  color: #0b6cb2;
-  text-decoration: none;
-}
-
-.comparison .timeline .box a:hover {
-  color: rgb(153, 0, 0);
 }
 
 .comparison .timeline .box span {
@@ -95,6 +108,17 @@
   border-bottom: 2px solid #0082c1;
 }
 
+.comparison .heading.solid {
+  padding: 0 10px;
+  background: #0082c1;
+  border: none;
+}
+
+.comparison .heading.solid h3 {
+  color: #fff;
+  padding: 0;
+}
+
 .comparison .heading h3 {
   margin: 0;
 }
@@ -104,7 +128,7 @@
 }
 
 .comparison svg {
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
 }
 
 /* Forms */
@@ -119,11 +143,6 @@
   width: 916px;
 }
 
-.comparison .form-group #institution-select {
-  margin-top: 20px;
-  width: 100%;
-}
-
 .comparison .form-group label {
   float: left;
   margin-right: 10px;
@@ -132,7 +151,6 @@
 }
 
 .comparison .form-group input {
-  float: left;
   font-size: 16px;
 }
 
@@ -141,11 +159,14 @@
 }
 
 .comparison .form-group input[type="radio"] {
+  float: left;
   margin-right: 15px;
   color: #444;
 }
 
 .comparison .form-group select {
+  position: relative;
+  top: -4px;
   font-size: 16px;
   color: #444;
 }
@@ -164,19 +185,133 @@
 
 .comparison table {
   font-size: 16px;
+  background: #0083BE;
+  margin: 0 auto;
+  width: 600px;
 }
 
-.comparison table tr {
-  border: 1px solid #bfbfbf;
-}
+.comparison table tr {}
 
 .comparison table th {
   font-family: sans-serif;
-  color: #444;
+  color: #fff;
   padding: 10px 25px;
+  background: none;
+  text-transform: none;
+  width: 50%;
+}
+
+.comparison table th.normal {
+  font-weight: normal;
+}
+
+.comparison table th.title {
+  font-size: 24px;
+  font-weight: bolder;
+  text-align: center;
+  border-bottom: 1px solid #fff;
+}
+
+.comparison table th a {
+  text-decoration: underline;
+  color: #fff;
+}
+.comparison table th a:hover {
+  color: #fff;
 }
 
 .comparison table td {
-  color: #444;
+  color: #fff;
   padding: 0 25px;
+}
+
+.comparison .school-indicators-box {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.comparison .school-indicators-box > div {
+  display: inline-block;
+  width: 350px;
+  vertical-align: middle;
+}
+
+.comparison .school-indicators-box .description {
+  text-align: left;
+}
+
+.comparison .about-this-school {
+  margin: 50px 0 10px 0;
+  text-align: center;
+  font-size: 12px;
+}
+
+.comparison .about-this-school a {
+  margin-right: 50px;
+}
+
+.comparison #benefit-estimator {
+  margin: 50px 0;
+}
+
+.comparison #benefit-estimator table.inactive {
+  background: #808080;
+}
+
+.comparison #benefit-estimator th#institution { font-size: 18px; }
+.comparison #benefit-estimator th#location { font-size: 18px; }
+.comparison #benefit-estimator th#type { font-size: 18px; }
+
+.comparison #veteran-indicators {
+  margin: 50px 0;
+}
+
+.comparison #school-indicators {
+  margin: 50px 0;
+}
+
+.comparison #school-indicators table {
+  background: none;
+  border: 2px solid #0083BE;
+  width: 760px;
+}
+.comparison #school-indicators table thead {
+  background: #0083BE;
+}
+
+.comparison #employment table {
+  background: none;
+  border: 2px solid #0083BE;
+  width: 600px;
+}
+
+.comparison #employment table thead {
+  background: #0083BE;
+}
+
+.comparison #employment table td {
+  padding: 25px;
+}
+
+.ui-autocomplete {
+  max-height: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: #fff;
+  border: 2px solid #0083BE;
+}
+
+.ui-autocomplete .ui-menu .ui-menu-item {
+  font-size: 14px;
+}
+
+.ui-menu-item a:hover {
+  color: inherit;
+}
+
+.ui-menu .ui-menu-item a.ui-state-focus,
+.ui-menu .ui-menu-item a.ui-state-active {
+  margin: 0;
+  background: #0083BE;
+  color: #fff;
 }
