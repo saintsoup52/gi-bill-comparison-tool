@@ -164,6 +164,19 @@ var GIBComparisonTool = function () {
   
   
   /*
+   * Formats currency in USD
+   */
+  var formatCurrency = function (num) {
+    var str = num.toString();
+    if (str.length > 3) {
+       return "$" + str.slice(0, -3) + "," + str.slice(-3);
+    } else {
+      return "$" + str;
+    }
+  };
+  
+  
+  /*
    * Determine the type of institution
    */
   var getInstitutionType = function () {
