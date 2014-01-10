@@ -1,6 +1,6 @@
 {
   "facility_code": "31148910",
-  "institution": "SOUTH FLORIDA BIBLE COLLEGE & THEOLOGICAL SEMINARY",
+  "institution": "South Florida Bible College & Theological Seminary",
   "city": "Deerfield Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 366003,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "default_rate": 66.6,
+  "avg_stu_loan_debt": 6554,
+  "avg_stu_loan_debt_rank": 64,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33441",
+  "email": true
 }

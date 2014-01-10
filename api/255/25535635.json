@@ -1,6 +1,6 @@
 {
   "facility_code": "25535635",
-  "institution": "CASAL AVEDA INSTITUTE",
+  "institution": "Casal Aveda Institute",
   "city": "Austintown",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 203438,
-  "grad_rate": 73.0,
-  "grad_rate_rank": 1019,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 8793,
-  "avg_stu_loan_debt_rank": 1527,
-  "indicator_group": 5
+  "grad_rate": 81.9,
+  "grad_rate_rank": 558,
+  "default_rate": 16.1,
+  "avg_stu_loan_debt": 8788,
+  "avg_stu_loan_debt_rank": 955,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44515",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11057047",
-  "institution": "CENTRAL WASHINGTON UNIVERSITY",
+  "institution": "Central Washington University",
   "city": "Ellensburg",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 541,
   "cross": 234827,
-  "grad_rate": 55.9,
-  "grad_rate_rank": 676,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 16837,
-  "avg_stu_loan_debt_rank": 925,
-  "indicator_group": 1
+  "grad_rate": 53.3,
+  "grad_rate_rank": 799,
+  "default_rate": 7.4,
+  "avg_stu_loan_debt": 18155,
+  "avg_stu_loan_debt_rank": 940,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98926",
+  "email": true
 }

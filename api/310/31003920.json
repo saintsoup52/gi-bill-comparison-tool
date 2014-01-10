@@ -1,6 +1,6 @@
 {
   "facility_code": "31003920",
-  "institution": "NER ISRAEL RABBINICAL COLLEGE",
+  "institution": "Ner Israel Rabbinical College",
   "city": "Balto",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 163532,
-  "grad_rate": 52.6,
-  "grad_rate_rank": 787,
+  "grad_rate": 43.1,
+  "grad_rate_rank": 1129,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21208",
+  "email": false
 }

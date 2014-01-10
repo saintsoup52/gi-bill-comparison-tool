@@ -1,18 +1,21 @@
 {
   "facility_code": "25027363",
-  "institution": "**CH 31 ONLY**INSTITUTO DE BANCA-HATO REY",
+  "institution": "**Ch 31 Only**Instituto De Banca-Hato Rey",
   "city": "Hato Rey",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": 3,
   "cross": 242422,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 24.6,
+  "grad_rate": 63.3,
+  "grad_rate_rank": 261,
+  "default_rate": 25.9,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 111,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 24,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "918",
+  "email": "No (SCO)"
 }

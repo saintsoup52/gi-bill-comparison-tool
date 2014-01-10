@@ -1,6 +1,6 @@
 {
   "facility_code": "28306238",
-  "institution": "JEAN MADELINE AVEDA INSTITUTE - NE PHILA",
+  "institution": "Jean Madeline Aveda Institute - Ne Phila",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 414540,
-  "grad_rate": 71.8,
-  "grad_rate_rank": 1090,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 9556,
-  "avg_stu_loan_debt_rank": 2092,
-  "indicator_group": 5
+  "grad_rate": 76.5,
+  "grad_rate_rank": 842,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19135",
+  "email": true
 }

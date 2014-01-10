@@ -1,6 +1,6 @@
 {
   "facility_code": "14800823",
-  "institution": "MINNESOTA WEST COMM & TECH COLLEGE-CANBY CAMPUS",
+  "institution": "Minnesota West Comm & Tech College-Canby Campus",
   "city": "Canby",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 35,
   "cross": 173638,
-  "grad_rate": 46.0,
-  "grad_rate_rank": 229,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 406,
-  "indicator_group": 3
+  "grad_rate": 45.4,
+  "grad_rate_rank": 430,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 546,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "56220",
+  "email": false
 }

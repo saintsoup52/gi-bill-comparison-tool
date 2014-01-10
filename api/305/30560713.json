@@ -1,6 +1,6 @@
 {
   "facility_code": "30560713",
-  "institution": "BRICKLAYERS LOCAL 21 APPRENTICESHIP & TRAINING PROGRAM",
+  "institution": "Bricklayers Local 21 Apprenticeship & Training Program",
   "city": "Addison",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60101",
+  "email": false
 }

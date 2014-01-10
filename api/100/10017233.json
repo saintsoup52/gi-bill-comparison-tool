@@ -1,6 +1,6 @@
 {
   "facility_code": "10017233",
-  "institution": "CITY OF WASHINGTON DEPT OF FIRE-RESCUE-EMS",
+  "institution": "City Of Washington Dept Of Fire-Rescue-Ems",
   "city": "Washington",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27889",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25168905",
-  "institution": "SPECIALIZED BICYCLE COMPONENTS UNIVERSITY (CH31 ONLY)",
+  "institution": "Specialized Bicycle Components University (Ch31 Only)",
   "city": "Morgan Hill",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95037",
+  "email": false
 }

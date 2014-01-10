@@ -1,6 +1,6 @@
 {
   "facility_code": "28150330",
-  "institution": "PENNCO TECH",
+  "institution": "Pennco Tech",
   "city": "Blackwood",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 72,
   "cross": 186052,
-  "grad_rate": 71.2,
-  "grad_rate_rank": 1119,
-  "default_rate": 29.5,
+  "grad_rate": 80.3,
+  "grad_rate_rank": 626,
+  "default_rate": 32.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8012",
+  "email": true
 }

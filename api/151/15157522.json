@@ -1,6 +1,6 @@
 {
   "facility_code": "15157522",
-  "institution": "BROWN CITY LEARNING CENTER",
+  "institution": "Brown City Learning Center",
   "city": "Brown City",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48416",
+  "email": false
 }

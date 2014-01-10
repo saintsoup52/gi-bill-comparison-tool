@@ -1,6 +1,6 @@
 {
   "facility_code": "31901104",
-  "institution": "PHILANDER SMITH COLLEGE",
+  "institution": "Philander Smith College",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 37,
   "cross": 107600,
-  "grad_rate": 31.1,
-  "grad_rate_rank": 1469,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 19116,
-  "avg_stu_loan_debt_rank": 1264,
-  "indicator_group": 1
+  "grad_rate": 30.7,
+  "grad_rate_rank": 1516,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 19292,
+  "avg_stu_loan_debt_rank": 1105,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72202",
+  "email": false
 }

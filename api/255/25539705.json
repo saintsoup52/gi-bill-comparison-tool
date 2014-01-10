@@ -1,6 +1,6 @@
 {
   "facility_code": "25539705",
-  "institution": "BROWNSON TECHNICAL SCHOOL",
+  "institution": "Brownson Technical School",
   "city": "Anaheim",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 110194,
-  "grad_rate": 85.5,
-  "grad_rate_rank": 418,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 6669,
-  "avg_stu_loan_debt_rank": 1094,
-  "indicator_group": 5
+  "grad_rate": 91.6,
+  "grad_rate_rank": 231,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 6860,
+  "avg_stu_loan_debt_rank": 610,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92805",
+  "email": false
 }

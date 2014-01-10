@@ -1,6 +1,6 @@
 {
   "facility_code": "28806421",
-  "institution": "MANSFIELD BEAUTY SCHOOL",
+  "institution": "Mansfield Beauty School",
   "city": "Quincy",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 166595,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 86.7,
+  "grad_rate_rank": 378,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 5576,
+  "avg_stu_loan_debt_rank": 365,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2169",
+  "email": false
 }

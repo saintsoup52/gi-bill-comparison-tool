@@ -1,6 +1,6 @@
 {
   "facility_code": "31919122",
-  "institution": "CORNERSTONE UNIVERSITY",
+  "institution": "Cornerstone University",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 170037,
-  "grad_rate": 43.1,
-  "grad_rate_rank": 1122,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 16930,
-  "avg_stu_loan_debt_rank": 943,
-  "indicator_group": 1
+  "grad_rate": 44.8,
+  "grad_rate_rank": 1072,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 17125,
+  "avg_stu_loan_debt_rank": 810,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49505",
+  "email": true
 }

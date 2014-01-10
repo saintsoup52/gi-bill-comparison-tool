@@ -1,6 +1,6 @@
 {
   "facility_code": "25001229",
-  "institution": "NEW ENGLAND ACADEMY OF THERAPEUTIC SCIENCES",
+  "institution": "New England Academy Of Therapeutic Sciences",
   "city": "Nashua",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3063",
+  "email": false
 }

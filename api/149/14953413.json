@@ -1,6 +1,6 @@
 {
   "facility_code": "14953413",
-  "institution": "BLACK HAWK COLLEGE EAST",
+  "institution": "Black Hawk College East",
   "city": "Galva",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 143279,
-  "grad_rate": 22.8,
-  "grad_rate_rank": 769,
-  "default_rate": 21.9,
+  "grad_rate": 18.9,
+  "grad_rate_rank": 976,
+  "default_rate": 22.1,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "61434",
+  "email": true
 }

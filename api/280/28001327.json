@@ -1,6 +1,6 @@
 {
   "facility_code": "28001327",
-  "institution": "JOSEPH'S COLLEGE OF BEAUTY- LINCOLN",
+  "institution": "Joseph'S College Of Beauty- Lincoln",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 181190,
-  "grad_rate": 55.7,
-  "grad_rate_rank": 1756,
-  "default_rate": 19.1,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 2494,
-  "indicator_group": 5
+  "grad_rate": 58.0,
+  "grad_rate_rank": 1708,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 1896,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "68510",
+  "email": false
 }

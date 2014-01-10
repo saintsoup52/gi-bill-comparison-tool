@@ -1,6 +1,6 @@
 {
   "facility_code": "31969138",
-  "institution": "ROBERT MORRIS UNIVERSITY",
+  "institution": "Robert Morris University",
   "city": "Moon Township",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 286,
   "cross": 215655,
-  "grad_rate": 59.4,
-  "grad_rate_rank": 581,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 22718,
-  "avg_stu_loan_debt_rank": 1726,
-  "indicator_group": 1
+  "grad_rate": 54.2,
+  "grad_rate_rank": 767,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15108",
+  "email": true
 }

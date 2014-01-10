@@ -1,6 +1,6 @@
 {
   "facility_code": "15002518",
-  "institution": "CLAIBORNE PARISH SCHOOL BOARD (CH 31)",
+  "institution": "Claiborne Parish School Board (Ch 31)",
   "city": "Homer",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71040",
+  "email": "No (SCO)"
 }

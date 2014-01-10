@@ -1,6 +1,6 @@
 {
   "facility_code": "149D5438",
-  "institution": "BUTLER COUNTY COMMUNITY COLLEGE",
+  "institution": "Butler County Community College",
   "city": "Butler",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 170,
   "cross": 211343,
-  "grad_rate": 15.6,
-  "grad_rate_rank": 1008,
-  "default_rate": 11.5,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 14.3,
+  "grad_rate_rank": 1139,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 5411,
+  "avg_stu_loan_debt_rank": 213,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16003",
+  "email": false
 }

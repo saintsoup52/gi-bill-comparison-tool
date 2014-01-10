@@ -1,6 +1,6 @@
 {
   "facility_code": "31000449",
-  "institution": "MARQUETTE UNIVERSITY",
+  "institution": "Marquette University",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 89,
   "cross": 239105,
-  "grad_rate": 81.4,
-  "grad_rate_rank": 135,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 80.1,
+  "grad_rate_rank": 157,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53233",
+  "email": true
 }

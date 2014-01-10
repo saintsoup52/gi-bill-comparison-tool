@@ -1,6 +1,6 @@
 {
   "facility_code": "28019716",
-  "institution": "AMERICAN INSTITUTE OF BAKING",
+  "institution": "American Institute Of Baking",
   "city": "Manhattan",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66502",
+  "email": true
 }

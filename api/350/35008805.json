@@ -1,6 +1,6 @@
 {
   "facility_code": "35008805",
-  "institution": "CENTER FOR EMPLOYMENT TRAINING (SANTA MARIA)",
+  "institution": "Center For Employment Training (Santa Maria)",
   "city": "Santa Maria",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 381325,
-  "grad_rate": 82.5,
-  "grad_rate_rank": 522,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 4175,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 5
+  "grad_rate": 77.4,
+  "grad_rate_rank": 791,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 262,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93458",
+  "email": true
 }

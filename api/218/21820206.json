@@ -1,6 +1,6 @@
 {
   "facility_code": "21820206",
-  "institution": "WESTWOOD COLLEGE - DENVER SOUTH",
+  "institution": "Westwood College - Denver South",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 381787,
-  "grad_rate": 48.5,
-  "grad_rate_rank": 236,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 22104,
-  "avg_stu_loan_debt_rank": 1439,
-  "indicator_group": 2
+  "grad_rate": 31.3,
+  "grad_rate_rank": 1498,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 26180,
+  "avg_stu_loan_debt_rank": 1837,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80227",
+  "email": true
 }

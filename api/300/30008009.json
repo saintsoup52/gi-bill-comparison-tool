@@ -1,6 +1,6 @@
 {
   "facility_code": "30008009",
-  "institution": "WASHINGTON LODGE #193 INTERNAT'L ASSOCIATION OF MACHINISTS",
+  "institution": "Washington Lodge #193 Internat'L Association Of Machinists",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20002",
+  "email": false
 }

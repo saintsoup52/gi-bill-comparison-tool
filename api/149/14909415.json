@@ -1,6 +1,6 @@
 {
   "facility_code": "14909415",
-  "institution": "ELLSWORTH COMMUNITY COLLEGE",
+  "institution": "Ellsworth Community College",
   "city": "Iowa Falls",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 153296,
-  "grad_rate": 33.7,
-  "grad_rate_rank": 447,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 6225,
-  "avg_stu_loan_debt_rank": 462,
-  "indicator_group": 2
+  "grad_rate": 25.1,
+  "grad_rate_rank": 780,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 6501,
+  "avg_stu_loan_debt_rank": 402,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "50126",
+  "email": true
 }

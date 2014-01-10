@@ -1,6 +1,6 @@
 {
   "facility_code": "119G3143",
-  "institution": "LAMAR UNIVERSITY",
+  "institution": "Lamar University",
   "city": "Beaumont",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 634,
   "cross": 226091,
-  "grad_rate": 30.6,
-  "grad_rate_rank": 1486,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 12793,
-  "avg_stu_loan_debt_rank": 538,
-  "indicator_group": 1
+  "grad_rate": 32.2,
+  "grad_rate_rank": 1470,
+  "default_rate": 18.6,
+  "avg_stu_loan_debt": 11445,
+  "avg_stu_loan_debt_rank": 250,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77710",
+  "email": false
 }

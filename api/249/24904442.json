@@ -1,6 +1,6 @@
 {
   "facility_code": "24904442",
-  "institution": "MILLER MOTTE TECHNICAL COLLEGE - MADISON",
+  "institution": "Miller Motte Technical College - Madison",
   "city": "Madison",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 448664,
-  "grad_rate": 76.2,
-  "grad_rate_rank": 46,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 12185,
-  "avg_stu_loan_debt_rank": 722,
-  "indicator_group": 3
+  "grad_rate": 63.4,
+  "grad_rate_rank": 260,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 10484,
+  "avg_stu_loan_debt_rank": 543,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "37115",
+  "email": false
 }

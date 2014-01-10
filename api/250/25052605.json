@@ -1,6 +1,6 @@
 {
   "facility_code": "25052605",
-  "institution": "THE TOUCH THERAPY INSTITUTE (CHAP 31 ONLY)",
+  "institution": "The Touch Therapy Institute (Chap 31 Only)",
   "city": "Sherman Oaks",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91403",
+  "email": "No (SCO)"
 }

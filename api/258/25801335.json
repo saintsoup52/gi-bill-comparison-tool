@@ -1,6 +1,6 @@
 {
   "facility_code": "25801335",
-  "institution": "MOLER-HOLLYWOOD BEAUTY COLLEGE",
+  "institution": "Moler-Hollywood Beauty College",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 204121,
-  "grad_rate": 70.6,
-  "grad_rate_rank": 1150,
-  "default_rate": 11.1,
+  "grad_rate": 55.0,
+  "grad_rate_rank": 1801,
+  "default_rate": 7.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45213",
+  "email": true
 }

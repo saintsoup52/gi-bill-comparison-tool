@@ -1,6 +1,6 @@
 {
   "facility_code": "24034643",
-  "institution": "EVEREST COLLEGE ARLINGTON",
+  "institution": "Everest College Arlington",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 443854,
-  "grad_rate": 59.3,
-  "grad_rate_rank": 140,
-  "default_rate": 32.9,
+  "grad_rate": 60.6,
+  "grad_rate_rank": 286,
+  "default_rate": 16.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "76011",
+  "email": false
 }

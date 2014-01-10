@@ -1,6 +1,6 @@
 {
   "facility_code": "31920138",
-  "institution": "BAPTIST BIBLE COLLEGE & SEMINARY",
+  "institution": "Baptist Bible College & Seminary",
   "city": "Clarks Summit",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 35,
   "cross": 211024,
-  "grad_rate": 45.5,
-  "grad_rate_rank": 1041,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 52.0,
+  "grad_rate_rank": 828,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18411",
+  "email": true
 }

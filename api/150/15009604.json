@@ -1,6 +1,6 @@
 {
   "facility_code": "15009604",
-  "institution": "CROWLEYS RIDGE TECHNICAL INSTITUTE",
+  "institution": "Crowleys Ridge Technical Institute",
   "city": "Forrest City",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 106829,
-  "grad_rate": 48.7,
-  "grad_rate_rank": 1954,
+  "grad_rate": 34.2,
+  "grad_rate_rank": 2169,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72336",
+  "email": false
 }

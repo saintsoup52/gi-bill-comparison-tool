@@ -1,6 +1,6 @@
 {
   "facility_code": "31015421",
-  "institution": "LESLEY UNIVERSITY",
+  "institution": "Lesley University",
   "city": "Cambridge",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 49,
   "cross": 166452,
-  "grad_rate": 49.4,
-  "grad_rate_rank": 913,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 46.3,
+  "grad_rate_rank": 1026,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 23132,
+  "avg_stu_loan_debt_rank": 1546,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2138",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14922403",
-  "institution": "ESTRELLA MOUNTAIN COMMUNITY COLLEGE",
+  "institution": "Estrella Mountain Community College",
   "city": "Avondale",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 614,
   "cross": 384333,
-  "grad_rate": 15.8,
-  "grad_rate_rank": 1006,
-  "default_rate": 19.1,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 13.4,
+  "grad_rate_rank": 1186,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 5578,
+  "avg_stu_loan_debt_rank": 296,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85392",
+  "email": false
 }

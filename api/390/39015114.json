@@ -1,6 +1,6 @@
 {
   "facility_code": "39015114",
-  "institution": "TEAMSTERS LOCAL UNION # 142 - CHAPTER 31",
+  "institution": "Teamsters Local Union # 142 - Chapter 31",
   "city": "Gary",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46404",
+  "email": false
 }

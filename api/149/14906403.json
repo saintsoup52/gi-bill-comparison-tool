@@ -1,6 +1,6 @@
 {
   "facility_code": "14906403",
-  "institution": "RIO SALADO COMMUNITY COLLEGE",
+  "institution": "Rio Salado Community College",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 791,
   "cross": 105668,
-  "grad_rate": 26.7,
-  "grad_rate_rank": 371,
-  "default_rate": 22.8,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 183,
-  "indicator_group": 3
+  "grad_rate": 15.9,
+  "grad_rate_rank": 675,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 80,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85281",
+  "email": false
 }

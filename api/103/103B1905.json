@@ -1,6 +1,6 @@
 {
   "facility_code": "103B1905",
-  "institution": "DEPARTMENT OF VETERANS AFFAIRS FRESNO MED CNTR (CHAPTER 31 ONLY)",
+  "institution": "Department Of Veterans Affairs Fresno Med Cntr (Chapter 31 Only)",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93703",
+  "email": false
 }

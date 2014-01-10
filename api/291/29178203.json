@@ -1,6 +1,6 @@
 {
   "facility_code": "29178203",
-  "institution": "SE ARIZONA BEHAVIORAL HEALTH SERVICES INC",
+  "institution": "Se Arizona Behavioral Health Services Inc",
   "city": "Safford",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85546",
+  "email": false
 }

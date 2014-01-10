@@ -1,6 +1,6 @@
 {
   "facility_code": "20B35722",
-  "institution": "FORD MOTOR CO-MILAN PLASTICS PLANT -APP-",
+  "institution": "Ford Motor Co-Milan Plastics Plant -App-",
   "city": "Milan",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48160",
+  "email": false
 }

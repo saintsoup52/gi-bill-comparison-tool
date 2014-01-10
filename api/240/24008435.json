@@ -1,6 +1,6 @@
 {
   "facility_code": "24008435",
-  "institution": "BRYANT & STRATTON COLLEGE - CLEVELAND",
+  "institution": "Bryant & Stratton College - Cleveland",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 202684,
-  "grad_rate": 12.2,
-  "grad_rate_rank": 1133,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 916,
-  "indicator_group": 2
+  "grad_rate": 4.5,
+  "grad_rate_rank": 1380,
+  "default_rate": 30.3,
+  "avg_stu_loan_debt": 11027,
+  "avg_stu_loan_debt_rank": 783,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44114",
+  "email": true
 }

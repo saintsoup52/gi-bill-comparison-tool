@@ -1,6 +1,6 @@
 {
   "facility_code": "24906644",
-  "institution": "FORTIS COLLEGE - SLC UT",
+  "institution": "Fortis College - Slc Ut",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 456454,
-  "grad_rate": 67.7,
-  "grad_rate_rank": 82,
-  "default_rate": 14.6,
-  "avg_stu_loan_debt": 11221,
-  "avg_stu_loan_debt_rank": 683,
-  "indicator_group": 3
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 9586,
+  "avg_stu_loan_debt_rank": 514,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "84107",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31301132",
-  "institution": "ROBERTS WESLEYAN COLLEGE",
+  "institution": "Roberts Wesleyan College",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 56,
   "cross": 194958,
-  "grad_rate": 64.7,
-  "grad_rate_rank": 441,
-  "default_rate": 8.2,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 59.2,
+  "grad_rate_rank": 587,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 20832,
+  "avg_stu_loan_debt_rank": 1292,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14624",
+  "email": true
 }

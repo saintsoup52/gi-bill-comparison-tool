@@ -1,6 +1,6 @@
 {
   "facility_code": "28001415",
-  "institution": "AMERICAN COLLEGE OF HAIRSTYLING  CEDAR RAPIDS",
+  "institution": "American College Of Hairstyling  Cedar Rapids",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 153092,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 30.0,
-  "avg_stu_loan_debt": 13229,
-  "avg_stu_loan_debt_rank": 2415,
-  "indicator_group": 5
+  "grad_rate": 72.7,
+  "grad_rate_rank": 1041,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 13984,
+  "avg_stu_loan_debt_rank": 1895,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52402",
+  "email": false
 }

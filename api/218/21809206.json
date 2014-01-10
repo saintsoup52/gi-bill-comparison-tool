@@ -1,6 +1,6 @@
 {
   "facility_code": "21809206",
-  "institution": "COLORADO TECHNICAL UNIVERSITY - DENVER",
+  "institution": "Colorado Technical University - Denver",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 312,
   "cross": 430087,
-  "grad_rate": 7.0,
-  "grad_rate_rank": 1811,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 12194,
-  "avg_stu_loan_debt_rank": 472,
-  "indicator_group": 1
+  "grad_rate": 12.5,
+  "grad_rate_rank": 1809,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 14666,
+  "avg_stu_loan_debt_rank": 503,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80014",
+  "email": true
 }

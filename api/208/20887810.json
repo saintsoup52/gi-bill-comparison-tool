@@ -1,6 +1,6 @@
 {
   "facility_code": "20887810",
-  "institution": "ASSOCIATED MINERALS USA LTD INC INJ",
+  "institution": "Associated Minerals Usa Ltd Inc Inj",
   "city": "Green Cove Springs",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32043",
+  "email": "No (SCO)"
 }

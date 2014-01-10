@@ -1,6 +1,6 @@
 {
   "facility_code": "31702064",
-  "institution": "BRIGHAM YOUNG UNIVERSITY - HAWAII",
+  "institution": "Brigham Young University - Hawaii",
   "city": "Laie",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 46,
   "cross": 230047,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 844,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 5625,
-  "avg_stu_loan_debt_rank": 127,
-  "indicator_group": 1
+  "grad_rate": 47.8,
+  "grad_rate_rank": 975,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 29,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "96762",
+  "email": true
 }

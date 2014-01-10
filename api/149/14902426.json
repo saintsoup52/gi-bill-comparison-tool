@@ -1,6 +1,6 @@
 {
   "facility_code": "14902426",
-  "institution": "MILES COMMUNITY COLLEGE",
+  "institution": "Miles Community College",
   "city": "Miles City",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 180373,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 151,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 6866,
-  "avg_stu_loan_debt_rank": 536,
-  "indicator_group": 2
+  "grad_rate": 47.3,
+  "grad_rate_rank": 299,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 7504,
+  "avg_stu_loan_debt_rank": 514,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "59301",
+  "email": true
 }

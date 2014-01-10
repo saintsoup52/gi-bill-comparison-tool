@@ -1,6 +1,6 @@
 {
   "facility_code": "21013006",
-  "institution": "SOUTHWEST ACUPUNCTURE COLLEGE",
+  "institution": "Southwest Acupuncture College",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 436261,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.1,
-  "avg_stu_loan_debt": 9250,
-  "avg_stu_loan_debt_rank": 282,
-  "indicator_group": 4
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 8525,
+  "avg_stu_loan_debt_rank": 50,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "80301",
+  "email": true
 }

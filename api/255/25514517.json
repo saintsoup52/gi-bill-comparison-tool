@@ -1,6 +1,6 @@
 {
   "facility_code": "25514517",
-  "institution": "KENTUCKY HORSESHOEING SCHOOL",
+  "institution": "Kentucky Horseshoeing School",
   "city": "Richmond",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40476",
+  "email": true
 }

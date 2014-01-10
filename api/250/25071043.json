@@ -1,6 +1,6 @@
 {
   "facility_code": "25071043",
-  "institution": "KUSSAD INSTITUTE OF COURT REPORTING",
+  "institution": "Kussad Institute Of Court Reporting",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 441751,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 2154,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 38304,
-  "avg_stu_loan_debt_rank": 2566,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 2263,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 22625,
+  "avg_stu_loan_debt_rank": 2010,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78704",
+  "email": false
 }

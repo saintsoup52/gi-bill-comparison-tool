@@ -1,6 +1,6 @@
 {
   "facility_code": "14940436",
-  "institution": "SEMINOLE STATE COLLEGE",
+  "institution": "Seminole State College",
   "city": "Seminole",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 90,
   "cross": 207740,
-  "grad_rate": 30.5,
-  "grad_rate_rank": 514,
-  "default_rate": 27.9,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 20.1,
+  "grad_rate_rank": 933,
+  "default_rate": 32.3,
+  "avg_stu_loan_debt": 7920,
+  "avg_stu_loan_debt_rank": 545,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "74868",
+  "email": true
 }

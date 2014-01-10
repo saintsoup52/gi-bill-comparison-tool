@@ -1,6 +1,6 @@
 {
   "facility_code": "25010349",
-  "institution": "THE SALON PROFESSIONAL ACADEMY - EAU CLAIRE",
+  "institution": "The Salon Professional Academy - Eau Claire",
   "city": "Eau Claire",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 238810,
-  "grad_rate": 86.9,
-  "grad_rate_rank": 365,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 736,
-  "indicator_group": 5
+  "grad_rate": 89.9,
+  "grad_rate_rank": 279,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 821,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "54701",
+  "email": false
 }

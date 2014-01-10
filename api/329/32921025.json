@@ -1,6 +1,6 @@
 {
   "facility_code": "32921025",
-  "institution": "SOUTHEAST MISSOURI HOSPITAL COLLEGE OF NURSING",
+  "institution": "Southeast Missouri Hospital College Of Nursing",
   "city": "Cape Girardeau",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 417734,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 130,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 14500,
-  "avg_stu_loan_debt_rank": 1109,
-  "indicator_group": 2
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 891,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "63701",
+  "email": false
 }

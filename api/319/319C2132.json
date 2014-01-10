@@ -1,6 +1,6 @@
 {
   "facility_code": "319C2132",
-  "institution": "WAGNER COLLEGE",
+  "institution": "Wagner College",
   "city": "Staten Island",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 197197,
-  "grad_rate": 67.0,
-  "grad_rate_rank": 378,
-  "default_rate": 5.4,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 65.8,
+  "grad_rate_rank": 413,
+  "default_rate": 4.7,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10301",
+  "email": true
 }

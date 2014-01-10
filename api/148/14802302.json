@@ -1,6 +1,6 @@
 {
   "facility_code": "14802302",
-  "institution": "KODIAK COLLEGE",
+  "institution": "Kodiak College",
   "city": "Kodiak",
   "state": "AK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 89,
   "cross": 102553,
-  "grad_rate": 25.3,
-  "grad_rate_rank": 1585,
-  "default_rate": 9.4,
-  "avg_stu_loan_debt": 12004,
-  "avg_stu_loan_debt_rank": 462,
-  "indicator_group": 1
+  "grad_rate": 25.7,
+  "grad_rate_rank": 1620,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 12769,
+  "avg_stu_loan_debt_rank": 346,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99615",
+  "email": true
 }

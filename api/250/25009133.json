@@ -1,6 +1,6 @@
 {
   "facility_code": "25009133",
-  "institution": "SERENDIPITY FARM AND STUDIOS (CH31)",
+  "institution": "Serendipity Farm And Studios (Ch31)",
   "city": "Hartford",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27944",
+  "email": false
 }

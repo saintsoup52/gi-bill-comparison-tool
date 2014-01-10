@@ -1,6 +1,6 @@
 {
   "facility_code": "31900145",
-  "institution": "CHAMPLAIN COLLEGE",
+  "institution": "Champlain College",
   "city": "Burlington",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 139,
   "cross": 230852,
-  "grad_rate": 62.4,
-  "grad_rate_rank": 505,
-  "default_rate": 2.9,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 64.2,
+  "grad_rate_rank": 459,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 28813,
+  "avg_stu_loan_debt_rank": 1926,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5402",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25832746",
-  "institution": "WARDS CORNER BEAUTY ACADEMY",
+  "institution": "Wards Corner Beauty Academy",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 5,
   "cross": 445683,
   "grad_rate": 16.9,
-  "grad_rate_rank": 2183,
-  "default_rate": 18.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate_rank": 2252,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 11720,
+  "avg_stu_loan_debt_rank": 1735,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23462",
+  "email": true
 }

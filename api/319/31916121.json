@@ -1,6 +1,6 @@
 {
   "facility_code": "31916121",
-  "institution": "BOSTON COLLEGE",
+  "institution": "Boston College",
   "city": "Chestnut Hill",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 100,
   "cross": 164924,
-  "grad_rate": 90.8,
-  "grad_rate_rank": 55,
-  "default_rate": 2.2,
+  "grad_rate": 92.2,
+  "grad_rate_rank": 40,
+  "default_rate": 2.5,
   "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2467",
+  "email": true
 }

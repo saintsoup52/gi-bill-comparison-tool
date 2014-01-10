@@ -1,6 +1,6 @@
 {
   "facility_code": "10606913",
-  "institution": "US ARMY CORPS OF ENGINEERS LOCK&DAM 16",
+  "institution": "Us Army Corps Of Engineers Lock&Dam 16",
   "city": "Illinois City",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61259",
+  "email": false
 }

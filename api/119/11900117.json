@@ -1,6 +1,6 @@
 {
   "facility_code": "11900117",
-  "institution": "UNIVERSITY OF KENTUCKY",
+  "institution": "University Of Kentucky",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 757,
   "cross": 157085,
-  "grad_rate": 59.2,
-  "grad_rate_rank": 586,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 15712,
-  "avg_stu_loan_debt_rank": 804,
-  "indicator_group": 1
+  "grad_rate": 57.6,
+  "grad_rate_rank": 646,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 16286,
+  "avg_stu_loan_debt_rank": 725,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40506",
+  "email": true
 }

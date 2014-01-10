@@ -1,6 +1,6 @@
 {
   "facility_code": "28475547",
-  "institution": "CORTIVA INSTITUTE - SEATTLE",
+  "institution": "Cortiva Institute - Seattle",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 419411,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 8.8,
+  "grad_rate": 82.0,
+  "grad_rate_rank": 554,
+  "default_rate": 11.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98109",
+  "email": true
 }

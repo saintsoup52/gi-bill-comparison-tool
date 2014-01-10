@@ -1,6 +1,6 @@
 {
   "facility_code": "28056721",
-  "institution": "ROB ROY ACADEMY-TAUNTON",
+  "institution": "Rob Roy Academy-Taunton",
   "city": "Taunton",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 168032,
-  "grad_rate": 64.4,
-  "grad_rate_rank": 1420,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 6274,
-  "avg_stu_loan_debt_rank": 997,
-  "indicator_group": 5
+  "grad_rate": 56.7,
+  "grad_rate_rank": 1745,
+  "default_rate": 21.0,
+  "avg_stu_loan_debt": 6829,
+  "avg_stu_loan_debt_rank": 605,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2780",
+  "email": false
 }

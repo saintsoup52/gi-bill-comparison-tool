@@ -1,6 +1,6 @@
 {
   "facility_code": "25459710",
-  "institution": "THE FLORIDA SCHOOL OF TRADITIONAL MIDWIFERY INC",
+  "institution": "The Florida School Of Traditional Midwifery Inc",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 457350,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
+  "default_rate": 33.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32601",
+  "email": true
 }

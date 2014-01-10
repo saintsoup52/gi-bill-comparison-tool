@@ -1,6 +1,6 @@
 {
   "facility_code": "31001235",
-  "institution": "FRANKLIN UNIVERSITY",
+  "institution": "Franklin University",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 465,
   "cross": 202806,
-  "grad_rate": 19.0,
-  "grad_rate_rank": 1683,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 15350,
-  "avg_stu_loan_debt_rank": 767,
-  "indicator_group": 1
+  "grad_rate": 13.1,
+  "grad_rate_rank": 1804,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 16653,
+  "avg_stu_loan_debt_rank": 764,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43215",
+  "email": true
 }

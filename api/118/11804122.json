@@ -1,6 +1,6 @@
 {
   "facility_code": "11804122",
-  "institution": "UNIVERSITY OF MICHIGAN - ANN ARBOR TRANSCRIPT & CERTIFICATION OFFICE",
+  "institution": "University Of Michigan - Ann Arbor Transcript & Certification Office",
   "city": "Ann Arbor",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 307,
   "cross": 170976,
-  "grad_rate": 89.5,
-  "grad_rate_rank": 66,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 90.7,
+  "grad_rate_rank": 51,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 22853,
+  "avg_stu_loan_debt_rank": 1508,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48109",
+  "email": true
 }

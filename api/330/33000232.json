@@ -1,6 +1,6 @@
 {
   "facility_code": "33000232",
-  "institution": "BANK STREET COLLEGE OF EDUCATION",
+  "institution": "Bank Street College Of Education",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 189015,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 1657,
+  "avg_stu_loan_debt_rank": 2,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "10025",
+  "email": true
 }

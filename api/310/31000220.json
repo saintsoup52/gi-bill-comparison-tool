@@ -1,6 +1,6 @@
 {
   "facility_code": "31000220",
-  "institution": "NOTRE DAME OF MARYLAND UNIVERSITY FORMERLY COLLEGE OF NOTRE DAME OF MARYLAND",
+  "institution": "Notre Dame Of Maryland University Formerly College Of Notre Dame Of Maryland",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 59,
   "cross": 163578,
-  "grad_rate": 48.3,
-  "grad_rate_rank": 950,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 23322,
-  "avg_stu_loan_debt_rank": 1809,
-  "indicator_group": 1
+  "grad_rate": 48.4,
+  "grad_rate_rank": 948,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 22830,
+  "avg_stu_loan_debt_rank": 1502,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21210",
+  "email": true
 }

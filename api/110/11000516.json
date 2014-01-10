@@ -1,6 +1,6 @@
 {
   "facility_code": "11000516",
-  "institution": "FORT HAYS STATE UNIVERSITY",
+  "institution": "Fort Hays State University",
   "city": "Hays",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 418,
   "cross": 155061,
-  "grad_rate": 40.2,
-  "grad_rate_rank": 1222,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 13228,
-  "avg_stu_loan_debt_rank": 571,
-  "indicator_group": 1
+  "grad_rate": 40.9,
+  "grad_rate_rank": 1216,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 12455,
+  "avg_stu_loan_debt_rank": 303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67601",
+  "email": false
 }

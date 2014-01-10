@@ -1,6 +1,6 @@
 {
   "facility_code": "14001001",
-  "institution": "SOUTHERN UNION STATE C.C.",
+  "institution": "Southern Union State C.C.",
   "city": "Wadley",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 319,
   "cross": 251260,
-  "grad_rate": 17.6,
-  "grad_rate_rank": 945,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 4000,
-  "avg_stu_loan_debt_rank": 182,
-  "indicator_group": 2
+  "grad_rate": 14.2,
+  "grad_rate_rank": 1145,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 4500,
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "36276",
+  "email": true
 }

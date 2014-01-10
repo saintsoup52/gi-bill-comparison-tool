@@ -1,6 +1,6 @@
 {
   "facility_code": "28036236",
-  "institution": "STILLWATER BEAUTY ACADEMY",
+  "institution": "Stillwater Beauty Academy",
   "city": "Stillwater",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 414559,
-  "grad_rate": 89.8,
-  "grad_rate_rank": 273,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 10946,
-  "avg_stu_loan_debt_rank": 2233,
-  "indicator_group": 5
+  "grad_rate": 84.6,
+  "grad_rate_rank": 450,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74075",
+  "email": false
 }

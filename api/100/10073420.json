@@ -1,6 +1,6 @@
 {
   "facility_code": "10073420",
-  "institution": "MONTGOMERY COUNTY CORRECTIONAL FACILITY",
+  "institution": "Montgomery County Correctional Facility",
   "city": "Boyds",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20841",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11912111",
-  "institution": "UNIVERSITY OF NORTH GEORGIA FKA NORTH GEORGIA COLLEGE & STATE UNIVERSITY",
+  "institution": "University Of North Georgia Fka North Georgia College & State University",
   "city": "Dahlonega",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 612,
   "cross": 140669,
-  "grad_rate": 52.8,
-  "grad_rate_rank": 779,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 11324,
-  "avg_stu_loan_debt_rank": 321,
-  "indicator_group": 1
+  "grad_rate": 53.6,
+  "grad_rate_rank": 790,
+  "default_rate": 7.2,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30597",
+  "email": true
 }

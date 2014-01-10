@@ -1,6 +1,6 @@
 {
   "facility_code": "14934411",
-  "institution": "OKEFENOKEE TECHNICAL COLLEGE",
+  "institution": "Okefenokee Technical College",
   "city": "Waycross",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 78,
   "cross": 248776,
-  "grad_rate": 42.7,
-  "grad_rate_rank": 242,
+  "grad_rate": 38.2,
+  "grad_rate_rank": 468,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31503",
+  "email": true
 }

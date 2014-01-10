@@ -1,18 +1,21 @@
 {
   "facility_code": "14002363",
-  "institution": "INSTITUTO TECNOLOGICO DE PR MANATI",
+  "institution": "Instituto Tecnologico De Pr Manati",
   "city": "Manati",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": 6,
   "cross": 242316,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 1632,
+  "grad_rate": 60.2,
+  "grad_rate_rank": 1628,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "674",
+  "email": true
 }

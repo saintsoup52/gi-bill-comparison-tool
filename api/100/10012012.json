@@ -1,6 +1,6 @@
 {
   "facility_code": "10012012",
-  "institution": "NAMPA FIRE DEPARTMENT",
+  "institution": "Nampa Fire Department",
   "city": "Nampa",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83651",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24141303",
-  "institution": "SANFORD-BROWN COLLEGE",
+  "institution": "Sanford-Brown College",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 458654,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 11352,
-  "avg_stu_loan_debt_rank": 690,
-  "indicator_group": 3
+  "grad_rate": 71.4,
+  "grad_rate_rank": 154,
+  "default_rate": 26.7,
+  "avg_stu_loan_debt": 9750,
+  "avg_stu_loan_debt_rank": 515,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85021",
+  "email": false
 }

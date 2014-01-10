@@ -1,6 +1,6 @@
 {
   "facility_code": "31960138",
-  "institution": "MERCYHURST UNIVERSITY",
+  "institution": "Mercyhurst University",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 173,
   "cross": 213987,
-  "grad_rate": 67.8,
-  "grad_rate_rank": 357,
-  "default_rate": 10.3,
-  "avg_stu_loan_debt": 17875,
-  "avg_stu_loan_debt_rank": 1066,
-  "indicator_group": 1
+  "grad_rate": 68.4,
+  "grad_rate_rank": 340,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 18651,
+  "avg_stu_loan_debt_rank": 1003,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16546",
+  "email": true
 }

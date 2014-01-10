@@ -1,6 +1,6 @@
 {
   "facility_code": "25015623",
-  "institution": "CENTERPOINT MASSAGE &    SHIATSU THERAPY SCHOOL",
+  "institution": "Centerpoint Massage &    Shiatsu Therapy School",
   "city": "St Louis Park",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 457651,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 1002,
+  "grad_rate": 86.7,
+  "grad_rate_rank": 378,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55416",
+  "email": false
 }

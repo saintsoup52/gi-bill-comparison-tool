@@ -1,6 +1,6 @@
 {
   "facility_code": "25448447",
-  "institution": "GARY MANUEL AVEDA INSTITUTE",
+  "institution": "Gary Manuel Aveda Institute",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 458131,
-  "grad_rate": 86.8,
-  "grad_rate_rank": 367,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 10908,
-  "avg_stu_loan_debt_rank": 2227,
-  "indicator_group": 5
+  "grad_rate": 86.2,
+  "grad_rate_rank": 398,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 10556,
+  "avg_stu_loan_debt_rank": 1562,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98122",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14918413",
-  "institution": "OLIVE HARVEY COLLEGE",
+  "institution": "Olive Harvey College",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 88,
   "cross": 144175,
-  "grad_rate": 6.8,
-  "grad_rate_rank": 529,
+  "grad_rate": 6.4,
+  "grad_rate_rank": 1362,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 163,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "60628",
+  "email": true
 }

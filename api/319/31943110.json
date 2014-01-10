@@ -1,6 +1,6 @@
 {
   "facility_code": "31943110",
-  "institution": "ECKERD COLLEGE",
+  "institution": "Eckerd College",
   "city": "St Petersburg",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 133492,
-  "grad_rate": 63.3,
-  "grad_rate_rank": 472,
-  "default_rate": 7.9,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 60.1,
+  "grad_rate_rank": 564,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 22737,
+  "avg_stu_loan_debt_rank": 1490,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33733",
+  "email": true
 }

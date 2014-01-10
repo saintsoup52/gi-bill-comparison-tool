@@ -1,6 +1,6 @@
 {
   "facility_code": "21901103",
-  "institution": "UNIVERSITY OF ADVANCING TECHNOLOGY",
+  "institution": "University Of Advancing Technology",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 180,
   "cross": 363934,
-  "grad_rate": 28.9,
-  "grad_rate_rank": 1524,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 21458,
-  "avg_stu_loan_debt_rank": 1576,
-  "indicator_group": 1
+  "grad_rate": 33.3,
+  "grad_rate_rank": 1432,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 20202,
+  "avg_stu_loan_debt_rank": 1218,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85283",
+  "email": true
 }

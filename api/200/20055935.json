@@ -1,6 +1,6 @@
 {
   "facility_code": "20055935",
-  "institution": "GENERAL ELECTRIC CO.  K",
+  "institution": "General Electric Co.  K",
   "city": "Euclid",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44117",
+  "email": false
 }

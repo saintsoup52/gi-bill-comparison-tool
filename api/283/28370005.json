@@ -1,6 +1,6 @@
 {
   "facility_code": "28370005",
-  "institution": "LYTLE'S REDWOOD EMPIRE BEAUTY COLLEGE",
+  "institution": "Lytle'S Redwood Empire Beauty College",
   "city": "Santa Rosa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 118161,
-  "grad_rate": 88.2,
-  "grad_rate_rank": 324,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 8139,
-  "avg_stu_loan_debt_rank": 1413,
-  "indicator_group": 5
+  "grad_rate": 92.7,
+  "grad_rate_rank": 200,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 8486,
+  "avg_stu_loan_debt_rank": 891,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95403",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25055346",
-  "institution": "TIDEWATER TECH TRADES",
+  "institution": "Tidewater Tech Trades",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 144,
   "cross": 232919,
-  "grad_rate": 86.0,
-  "grad_rate_rank": 392,
-  "default_rate": 58.4,
+  "grad_rate": 90.7,
+  "grad_rate_rank": 250,
+  "default_rate": 43.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23502",
+  "email": true
 }

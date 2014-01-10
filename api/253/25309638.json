@@ -1,6 +1,6 @@
 {
   "facility_code": "25309638",
-  "institution": "EMPIRE BEAUTY SCHOOL (MONROEVILLE)",
+  "institution": "Empire Beauty School (Monroeville)",
   "city": "Monroeville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 430227,
-  "grad_rate": 50.5,
-  "grad_rate_rank": 1911,
-  "default_rate": 15.2,
-  "avg_stu_loan_debt": 12100,
-  "avg_stu_loan_debt_rank": 2347,
-  "indicator_group": 5
+  "grad_rate": 45.8,
+  "grad_rate_rank": 2020,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 10372,
+  "avg_stu_loan_debt_rank": 1547,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15146",
+  "email": true
 }

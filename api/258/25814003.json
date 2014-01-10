@@ -1,6 +1,6 @@
 {
   "facility_code": "25814003",
-  "institution": "ARIZONA ACADEMY OF BEAUTY - NORTH",
+  "institution": "Arizona Academy Of Beauty - North",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 262235,
-  "grad_rate": 55.1,
-  "grad_rate_rank": 1777,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 5643,
-  "avg_stu_loan_debt_rank": 913,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 5950,
+  "avg_stu_loan_debt_rank": 409,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85705",
+  "email": false
 }

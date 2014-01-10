@@ -1,6 +1,6 @@
 {
   "facility_code": "11057210",
-  "institution": "UNIVERSITY OF ARKANSAS-GRAD RESIDENT CTR HURLBURT FIELD",
+  "institution": "University Of Arkansas-Grad Resident Ctr Hurlburt Field",
   "city": "Hurlburt Field",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 106397,
-  "grad_rate": 59.0,
-  "grad_rate_rank": 595,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 17077,
-  "avg_stu_loan_debt_rank": 960,
-  "indicator_group": 1
+  "grad_rate": 60.4,
+  "grad_rate_rank": 558,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 15996,
+  "avg_stu_loan_debt_rank": 625,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32544",
+  "email": false
 }

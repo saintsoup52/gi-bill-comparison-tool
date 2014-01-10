@@ -1,6 +1,6 @@
 {
   "facility_code": "31011549",
-  "institution": "FRANK LLOYD WRIGHT SCHOOL OF ARCHITECTURE (FLLWSA)",
+  "institution": "Frank Lloyd Wright School Of Architecture (Fllwsa)",
   "city": "Spring Green",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 104665,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53588",
+  "email": false
 }

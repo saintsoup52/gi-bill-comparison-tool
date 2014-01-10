@@ -1,6 +1,6 @@
 {
   "facility_code": "31006732",
-  "institution": "BARNARD COLLEGE",
+  "institution": "Barnard College",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 189097,
-  "grad_rate": 91.9,
-  "grad_rate_rank": 39,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 17000,
-  "avg_stu_loan_debt_rank": 950,
-  "indicator_group": 1
+  "grad_rate": 89.6,
+  "grad_rate_rank": 71,
+  "default_rate": 0.9,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10027",
+  "email": false
 }

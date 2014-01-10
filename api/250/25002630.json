@@ -1,6 +1,6 @@
 {
   "facility_code": "25002630",
-  "institution": "LINCOLN TECHNICAL INSTITUTE - MAHWAH",
+  "institution": "Lincoln Technical Institute - Mahwah",
   "city": "Mahwah",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 28,
   "cross": 420343,
-  "grad_rate": 62.8,
-  "grad_rate_rank": 1480,
-  "default_rate": 32.1,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 2465,
-  "indicator_group": 5
+  "grad_rate": 60.5,
+  "grad_rate_rank": 1619,
+  "default_rate": 28.1,
+  "avg_stu_loan_debt": 15766,
+  "avg_stu_loan_debt_rank": 1938,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7430",
+  "email": true
 }

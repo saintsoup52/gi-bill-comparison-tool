@@ -1,6 +1,6 @@
 {
   "facility_code": "14939405",
-  "institution": "BARSTOW COLLEGE",
+  "institution": "Barstow College",
   "city": "Barstow",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 174,
   "cross": 109907,
-  "grad_rate": 20.9,
-  "grad_rate_rank": 832,
+  "grad_rate": 10.6,
+  "grad_rate_rank": 1270,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92311",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000334",
-  "institution": "UNIVERSITY OF MARY",
+  "institution": "University Of Mary",
   "city": "Bismarck",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 196,
   "cross": 200217,
-  "grad_rate": 51.5,
-  "grad_rate_rank": 827,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 18208,
-  "avg_stu_loan_debt_rank": 1112,
-  "indicator_group": 1
+  "grad_rate": 20.1,
+  "grad_rate_rank": 1708,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 17952,
+  "avg_stu_loan_debt_rank": 903,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "58504",
+  "email": false
 }

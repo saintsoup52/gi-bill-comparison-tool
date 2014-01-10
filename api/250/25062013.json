@@ -1,6 +1,6 @@
 {
   "facility_code": "25062013",
-  "institution": "EVEREST COLLEGE - NORTH AURORA",
+  "institution": "Everest College - North Aurora",
   "city": "North Aurora",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 445771,
-  "grad_rate": 69.9,
-  "grad_rate_rank": 1180,
-  "default_rate": 28.1,
+  "grad_rate": 67.9,
+  "grad_rate_rank": 1279,
+  "default_rate": 19.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60542",
+  "email": true
 }

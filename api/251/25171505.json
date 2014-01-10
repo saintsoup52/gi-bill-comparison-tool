@@ -1,6 +1,6 @@
 {
   "facility_code": "25171505",
-  "institution": "CAREER READINESS TRNG (CHAPTER 31 ONLY)",
+  "institution": "Career Readiness Trng (Chapter 31 Only)",
   "city": "San Rafael",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94903",
+  "email": false
 }

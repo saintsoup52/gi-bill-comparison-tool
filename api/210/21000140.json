@@ -1,6 +1,6 @@
 {
   "facility_code": "21000140",
-  "institution": "CHARLESTON SCHOOL OF LAW",
+  "institution": "Charleston School Of Law",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 451510,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "29403",
+  "email": true
 }

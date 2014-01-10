@@ -1,6 +1,6 @@
 {
   "facility_code": "31902113",
-  "institution": "LOYOLA UNIVERSITY OF CHICAGO",
+  "institution": "Loyola University Of Chicago",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 181,
   "cross": 146719,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 312,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 70.0,
+  "grad_rate_rank": 313,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 25500,
+  "avg_stu_loan_debt_rank": 1807,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60660",
+  "email": true
 }

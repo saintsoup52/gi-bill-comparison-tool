@@ -1,6 +1,6 @@
 {
   "facility_code": "31014038",
-  "institution": "REFORMED PRESBYTERIAN THEOLOGICAL SEMINARY",
+  "institution": "Reformed Presbyterian Theological Seminary",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 215628,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "15208",
+  "email": true
 }

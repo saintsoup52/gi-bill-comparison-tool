@@ -1,6 +1,6 @@
 {
   "facility_code": "25035206",
-  "institution": "EMPIRE BEAUTY SCHOOL - LITTLETON",
+  "institution": "Empire Beauty School - Littleton",
   "city": "Littleton",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447166,
-  "grad_rate": 32.3,
-  "grad_rate_rank": 2124,
-  "default_rate": 24.2,
+  "grad_rate": 58.0,
+  "grad_rate_rank": 1708,
+  "default_rate": 22.7,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80123",
+  "email": true
 }

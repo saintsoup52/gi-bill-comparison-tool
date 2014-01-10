@@ -1,6 +1,6 @@
 {
   "facility_code": "31001208",
-  "institution": "DELAWARE COLLEGE OF ART AND DESIGN",
+  "institution": "Delaware College Of Art And Design",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 432524,
-  "grad_rate": 55.0,
-  "grad_rate_rank": 174,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 19986,
-  "avg_stu_loan_debt_rank": 1409,
-  "indicator_group": 2
+  "grad_rate": 69.2,
+  "grad_rate_rank": 96,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19801",
+  "email": true
 }

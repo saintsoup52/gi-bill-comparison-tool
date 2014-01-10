@@ -1,6 +1,6 @@
 {
   "facility_code": "21125925",
-  "institution": "GRANTHAM UNIVERSITY",
+  "institution": "Grantham University",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6300,
   "cross": 442569,
-  "grad_rate": 13.3,
-  "grad_rate_rank": 1751,
-  "default_rate": null,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 22,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64153",
+  "email": true
 }

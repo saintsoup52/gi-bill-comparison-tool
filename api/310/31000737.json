@@ -1,6 +1,6 @@
 {
   "facility_code": "31000737",
-  "institution": "LEWIS AND CLARK COLLEGE",
+  "institution": "Lewis And Clark College",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 43,
   "cross": 209056,
-  "grad_rate": 73.1,
-  "grad_rate_rank": 254,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 18976,
-  "avg_stu_loan_debt_rank": 1221,
-  "indicator_group": 1
+  "grad_rate": 76.2,
+  "grad_rate_rank": 212,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97219",
+  "email": true
 }

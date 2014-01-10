@@ -1,6 +1,6 @@
 {
   "facility_code": "31910638",
-  "institution": "CAIRN UNIVERSITY",
+  "institution": "Cairn University",
   "city": "Langhorne",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 215114,
-  "grad_rate": 62.8,
-  "grad_rate_rank": 493,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 18537,
-  "avg_stu_loan_debt_rank": 1157,
-  "indicator_group": 1
+  "grad_rate": 63.2,
+  "grad_rate_rank": 481,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 22250,
+  "avg_stu_loan_debt_rank": 1446,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19047",
+  "email": true
 }

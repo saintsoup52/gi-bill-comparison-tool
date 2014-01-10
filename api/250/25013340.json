@@ -1,6 +1,6 @@
 {
   "facility_code": "25013340",
-  "institution": "THE REAL ESTATE CAREER INSTITUTE (CHAPTER 31 ONLY)",
+  "institution": "The Real Estate Career Institute (Chapter 31 Only)",
   "city": "Murrells Inlet",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29576",
+  "email": false
 }

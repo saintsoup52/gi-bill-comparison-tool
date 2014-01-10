@@ -1,6 +1,6 @@
 {
   "facility_code": "21905144",
-  "institution": "STRAYER UNIVERSITY - UTAH",
+  "institution": "Strayer University - Utah",
   "city": "Sandy",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 456630,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84070",
+  "email": true
 }

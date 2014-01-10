@@ -1,6 +1,6 @@
 {
   "facility_code": "31803120",
-  "institution": "JOHNS HOPKINS UNIVERSITY - COMPUTER CAREER INSTITUTE - CHAPTER 31 ONLY",
+  "institution": "Johns Hopkins University - Computer Career Institute - Chapter 31 Only",
   "city": "Columbia",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 162928,
-  "grad_rate": 91.1,
-  "grad_rate_rank": 51,
-  "default_rate": 1.4,
+  "grad_rate": 92.1,
+  "grad_rate_rank": 43,
+  "default_rate": 2.4,
   "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21046",
+  "email": false
 }

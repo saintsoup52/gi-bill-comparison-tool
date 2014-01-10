@@ -1,6 +1,6 @@
 {
   "facility_code": "11903414",
-  "institution": "INDIANA UNIVERSITY PURDUE UNIVERSITY INDIANAPOLIS",
+  "institution": "Indiana University Purdue University Indianapolis",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1061,
   "cross": 151111,
-  "grad_rate": 32.7,
-  "grad_rate_rank": 1433,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 16927,
-  "avg_stu_loan_debt_rank": 942,
-  "indicator_group": 1
+  "grad_rate": 38.3,
+  "grad_rate_rank": 1303,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 17250,
+  "avg_stu_loan_debt_rank": 823,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46202",
+  "email": true
 }

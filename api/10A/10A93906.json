@@ -1,6 +1,6 @@
 {
   "facility_code": "10A93906",
-  "institution": "COLORADO STATE UNIVERSITY POLICE DEPARTMENT",
+  "institution": "Colorado State University Police Department",
   "city": "Ft. Collins",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80523",
+  "email": false
 }

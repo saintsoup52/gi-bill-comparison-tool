@@ -1,6 +1,6 @@
 {
   "facility_code": "31005124",
-  "institution": "MISSISSIPPI COLLEGE",
+  "institution": "Mississippi College",
   "city": "Clinton",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 208,
   "cross": 176053,
-  "grad_rate": 51.3,
-  "grad_rate_rank": 833,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 17828,
-  "avg_stu_loan_debt_rank": 1063,
-  "indicator_group": 1
+  "grad_rate": 62.2,
+  "grad_rate_rank": 509,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39058",
+  "email": true
 }

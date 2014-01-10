@@ -1,6 +1,6 @@
 {
   "facility_code": "20263304",
-  "institution": "CHICOT CONTRACTING INC",
+  "institution": "Chicot Contracting Inc",
   "city": "Lake Village",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71653",
+  "email": false
 }

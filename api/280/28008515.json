@@ -1,6 +1,6 @@
 {
   "facility_code": "28008515",
-  "institution": "IOWA SCHOOL OF BEAUTY  SIOUX CITY",
+  "institution": "Iowa School Of Beauty  Sioux City",
   "city": "Sioux City",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 154457,
-  "grad_rate": 92.3,
-  "grad_rate_rank": 195,
+  "grad_rate": 78.8,
+  "grad_rate_rank": 712,
   "default_rate": 4.1,
-  "avg_stu_loan_debt": 7862,
-  "avg_stu_loan_debt_rank": 1317,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 9309,
+  "avg_stu_loan_debt_rank": 1039,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "51106",
+  "email": false
 }

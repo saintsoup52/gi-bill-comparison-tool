@@ -1,6 +1,6 @@
 {
   "facility_code": "14912431",
-  "institution": "UNIVERSITY OF NEW MEXICO",
+  "institution": "University Of New Mexico",
   "city": "Los Alamos",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 187976,
-  "grad_rate": 8.6,
-  "grad_rate_rank": 1237,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 13700,
-  "avg_stu_loan_debt_rank": 1074,
-  "indicator_group": 2
+  "grad_rate": 2.5,
+  "grad_rate_rank": 1388,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 14149,
+  "avg_stu_loan_debt_rank": 949,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "87544",
+  "email": true
 }

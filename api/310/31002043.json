@@ -1,6 +1,6 @@
 {
   "facility_code": "31002043",
-  "institution": "NORTHWOOD UNIVERSITY CEDAR HILL",
+  "institution": "Northwood University Cedar Hill",
   "city": "Cedar Hill",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 54,
   "cross": 227243,
-  "grad_rate": 38.1,
-  "grad_rate_rank": 1298,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 42.9,
+  "grad_rate_rank": 1141,
+  "default_rate": 12.4,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75104",
+  "email": false
 }

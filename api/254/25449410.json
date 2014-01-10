@@ -1,6 +1,6 @@
 {
   "facility_code": "25449410",
-  "institution": "AMERICAN INSTITUTE-SCHOOL OF HEALTH CAREERS",
+  "institution": "American Institute-School Of Health Careers",
   "city": "Margate",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 443234,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 1917,
-  "default_rate": 15.5,
-  "avg_stu_loan_debt": 10472,
-  "avg_stu_loan_debt_rank": 2183,
-  "indicator_group": 5
+  "grad_rate": 66.8,
+  "grad_rate_rank": 1330,
+  "default_rate": 25.3,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33063",
+  "email": true
 }

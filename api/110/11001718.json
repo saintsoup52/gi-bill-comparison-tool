@@ -1,6 +1,6 @@
 {
   "facility_code": "11001718",
-  "institution": "LOUISIANA TECH UNIVERSITY - RUSTON",
+  "institution": "Louisiana Tech University - Ruston",
   "city": "Ruston",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 328,
   "cross": 159647,
-  "grad_rate": 49.3,
-  "grad_rate_rank": 920,
-  "default_rate": 7.9,
-  "avg_stu_loan_debt": 14146,
-  "avg_stu_loan_debt_rank": 648,
-  "indicator_group": 1
+  "grad_rate": 47.5,
+  "grad_rate_rank": 985,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 13160,
+  "avg_stu_loan_debt_rank": 381,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71272",
+  "email": true
 }

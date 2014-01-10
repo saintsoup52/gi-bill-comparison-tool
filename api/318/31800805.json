@@ -1,6 +1,6 @@
 {
   "facility_code": "31800805",
-  "institution": "ALLIANT INTERNATIONAL UNIVERSITY/CSPP (FRESNO)",
+  "institution": "Alliant International University/Cspp (Fresno)",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 110468,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 5.3,
+  "default_rate": 4.4,
   "avg_stu_loan_debt": 2000,
-  "avg_stu_loan_debt_rank": 80,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 2,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93727",
+  "email": false
 }

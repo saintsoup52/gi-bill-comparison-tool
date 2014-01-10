@@ -1,6 +1,6 @@
 {
   "facility_code": "11803142",
-  "institution": "UNIVERSITY OF TENNESSEE AT CHATTANOOGA",
+  "institution": "University Of Tennessee At Chattanooga",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 363,
   "cross": 221740,
-  "grad_rate": 39.5,
-  "grad_rate_rank": 1250,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 38.2,
+  "grad_rate_rank": 1304,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 12212,
+  "avg_stu_loan_debt_rank": 291,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37403",
+  "email": true
 }

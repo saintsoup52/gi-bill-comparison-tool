@@ -1,6 +1,6 @@
 {
   "facility_code": "35800705",
-  "institution": "NTMA TRAINING CENTERS OF SOUTHERN CALIFORNIA (ONTARIO)",
+  "institution": "Ntma Training Centers Of Southern California (Ontario)",
   "city": "Ontario",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 443207,
-  "grad_rate": 74.9,
-  "grad_rate_rank": 938,
-  "default_rate": 34.2,
-  "avg_stu_loan_debt": 6479,
-  "avg_stu_loan_debt_rank": 1062,
-  "indicator_group": 5
+  "grad_rate": 77.3,
+  "grad_rate_rank": 795,
+  "default_rate": 32.1,
+  "avg_stu_loan_debt": 6404,
+  "avg_stu_loan_debt_rank": 523,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91761",
+  "email": true
 }

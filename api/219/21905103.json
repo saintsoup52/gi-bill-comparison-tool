@@ -1,6 +1,6 @@
 {
   "facility_code": "21905103",
-  "institution": "UNIVERSITY OF PHOENIX (SOUTHERN ARIZONA)",
+  "institution": "University Of Phoenix (Southern Arizona)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 431,
   "cross": 405979,
-  "grad_rate": 22.8,
-  "grad_rate_rank": 1625,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 23.9,
+  "grad_rate_rank": 1658,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85711",
+  "email": true
 }

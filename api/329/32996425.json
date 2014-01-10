@@ -1,6 +1,6 @@
 {
   "facility_code": "32996425",
-  "institution": "GOLDFARB SCHOOL OF NURSING AT BARNES JEWISH COLLEGE",
+  "institution": "Goldfarb School Of Nursing At Barnes Jewish College",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 177719,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.2,
+  "default_rate": 3.5,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63110",
+  "email": true
 }

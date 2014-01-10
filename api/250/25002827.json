@@ -1,6 +1,6 @@
 {
   "facility_code": "25002827",
-  "institution": "COLLEGE OF HAIR DESIGN - EAST CAMPUS",
+  "institution": "College Of Hair Design - East Campus",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 456287,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 16.0,
-  "avg_stu_loan_debt": 13800,
-  "avg_stu_loan_debt_rank": 2433,
-  "indicator_group": 5
+  "grad_rate": 81.4,
+  "grad_rate_rank": 579,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "68526",
+  "email": false
 }

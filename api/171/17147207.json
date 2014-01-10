@@ -1,6 +1,6 @@
 {
   "facility_code": "17147207",
-  "institution": "PLAINFIELD HIGH SCHOOL",
+  "institution": "Plainfield High School",
   "city": "Central Village",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6332",
+  "email": false
 }

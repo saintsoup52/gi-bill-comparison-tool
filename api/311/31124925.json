@@ -1,6 +1,6 @@
 {
   "facility_code": "31124925",
-  "institution": "MISSOURI BAPTIST UNIVERSITY",
+  "institution": "Missouri Baptist University",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 86,
   "cross": 178244,
-  "grad_rate": 27.8,
-  "grad_rate_rank": 1539,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "grad_rate": 37.8,
+  "grad_rate_rank": 1311,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 17667,
+  "avg_stu_loan_debt_rank": 884,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63141",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25390432",
-  "institution": "AMERICAN BUILDING INSPECTION & TRAINING CO. INC.",
+  "institution": "American Building Inspection & Training Co. Inc.",
   "city": "East Syracuse",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13057",
+  "email": false
 }

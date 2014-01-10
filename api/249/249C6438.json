@@ -1,6 +1,6 @@
 {
   "facility_code": "249C6438",
-  "institution": "PITTSBURGH TECHNICAL INSTITUTE",
+  "institution": "Pittsburgh Technical Institute",
   "city": "Oakdale",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 113,
   "cross": 215415,
-  "grad_rate": 53.6,
-  "grad_rate_rank": 191,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 17407,
-  "avg_stu_loan_debt_rank": 1346,
-  "indicator_group": 2
+  "grad_rate": 54.2,
+  "grad_rate_rank": 226,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 18458,
+  "avg_stu_loan_debt_rank": 1141,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15071",
+  "email": true
 }

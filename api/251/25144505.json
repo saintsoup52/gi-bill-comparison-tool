@@ -1,6 +1,6 @@
 {
   "facility_code": "25144505",
-  "institution": "INFOTECH CAREER COLLEGE",
+  "institution": "Infotech Career College",
   "city": "Paramount",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 450960,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.8,
+  "grad_rate": 53.0,
+  "grad_rate_rank": 1863,
+  "default_rate": 34.0,
   "avg_stu_loan_debt": 6323,
-  "avg_stu_loan_debt_rank": 247,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 448,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90723",
+  "email": false
 }

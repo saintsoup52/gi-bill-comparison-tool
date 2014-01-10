@@ -1,6 +1,6 @@
 {
   "facility_code": "15802132",
-  "institution": "NY CITY POLICE DEPT EMERGENCY SERVICE UNIT",
+  "institution": "Ny City Police Dept Emergency Service Unit",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11234",
+  "email": false
 }

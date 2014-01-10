@@ -1,6 +1,6 @@
 {
   "facility_code": "31005738",
-  "institution": "SAINT CHARLES BORROMEO SEMINARY",
+  "institution": "Saint Charles Borromeo Seminary",
   "city": "Wynnewood",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 216047,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 876,
+  "grad_rate": 80.0,
+  "grad_rate_rank": 159,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 10200,
-  "avg_stu_loan_debt_rank": 261,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 12799,
+  "avg_stu_loan_debt_rank": 348,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19018",
+  "email": true
 }

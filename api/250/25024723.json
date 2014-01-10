@@ -1,6 +1,6 @@
 {
   "facility_code": "25024723",
-  "institution": "EMPIRE BEAUTY SCHOOLS -  ST PAUL CAMPUS",
+  "institution": "Empire Beauty Schools -  St Paul Campus",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 445504,
-  "grad_rate": 35.1,
-  "grad_rate_rank": 2107,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 10194,
-  "avg_stu_loan_debt_rank": 2171,
-  "indicator_group": 5
+  "grad_rate": 38.9,
+  "grad_rate_rank": 2120,
+  "default_rate": 16.1,
+  "avg_stu_loan_debt": 14672,
+  "avg_stu_loan_debt_rank": 1911,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55119",
+  "email": false
 }

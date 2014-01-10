@@ -1,6 +1,6 @@
 {
   "facility_code": "14908411",
-  "institution": "BAINBRIDGE COLLEGE",
+  "institution": "Bainbridge College",
   "city": "Bainbridge",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 117,
   "cross": 139010,
-  "grad_rate": 12.1,
-  "grad_rate_rank": 502,
-  "default_rate": 24.9,
-  "avg_stu_loan_debt": 5843,
-  "avg_stu_loan_debt_rank": 227,
-  "indicator_group": 3
+  "grad_rate": 10.5,
+  "grad_rate_rank": 1275,
+  "default_rate": 29.4,
+  "avg_stu_loan_debt": 5562,
+  "avg_stu_loan_debt_rank": 293,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39819",
+  "email": true
 }

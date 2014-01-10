@@ -1,6 +1,6 @@
 {
   "facility_code": "20487524",
-  "institution": "E I DUPONT DENEMOURS AND CO INC",
+  "institution": "E I Dupont Denemours And Co Inc",
   "city": "Pass Christian",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39571",
+  "email": true
 }

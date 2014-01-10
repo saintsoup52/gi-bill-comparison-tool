@@ -1,6 +1,6 @@
 {
   "facility_code": "25057318",
-  "institution": "BLUE CLIFF COLLEGE - LAFAYETTE",
+  "institution": "Blue Cliff College - Lafayette",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 439491,
-  "grad_rate": 84.2,
-  "grad_rate_rank": 457,
-  "default_rate": 21.4,
-  "avg_stu_loan_debt": 9499,
-  "avg_stu_loan_debt_rank": 1661,
-  "indicator_group": 5
+  "grad_rate": 50.9,
+  "grad_rate_rank": 1931,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70508",
+  "email": true
 }

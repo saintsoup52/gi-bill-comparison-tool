@@ -1,6 +1,6 @@
 {
   "facility_code": "11006232",
-  "institution": "HUNTER COLLEGE-CUNY",
+  "institution": "Hunter College-Cuny",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 191,
   "cross": 190594,
-  "grad_rate": 45.9,
-  "grad_rate_rank": 1026,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 11894,
-  "avg_stu_loan_debt_rank": 424,
-  "indicator_group": 1
+  "grad_rate": 45.7,
+  "grad_rate_rank": 1042,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10065",
+  "email": true
 }

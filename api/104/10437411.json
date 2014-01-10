@@ -1,6 +1,6 @@
 {
   "facility_code": "10437411",
-  "institution": "HOUSTON COUNTY SHERIFF'S DEPTARTMENT",
+  "institution": "Houston County Sheriff'S Deptartment",
   "city": "Perry",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31069",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10683525",
-  "institution": "MO ARMY NATIONAL GUARD-CO A 311TH BSB",
+  "institution": "Mo Army National Guard-Co A 311th Bsb",
   "city": "Nevada",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64772",
+  "email": false
 }

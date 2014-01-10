@@ -1,6 +1,6 @@
 {
   "facility_code": "14952423",
-  "institution": "ST CLOUD TECH AND COMM COLLEGE",
+  "institution": "St Cloud Tech And Comm College",
   "city": "St Cloud",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 283,
   "cross": 174756,
-  "grad_rate": 34.1,
-  "grad_rate_rank": 438,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 8229,
-  "avg_stu_loan_debt_rank": 662,
-  "indicator_group": 2
+  "grad_rate": 30.2,
+  "grad_rate_rank": 634,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 7700,
+  "avg_stu_loan_debt_rank": 527,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "56303",
+  "email": true
 }

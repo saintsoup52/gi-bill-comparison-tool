@@ -1,6 +1,6 @@
 {
   "facility_code": "29106528",
-  "institution": "COMEVISIT COM (CH31)",
+  "institution": "Comevisit Com (Ch31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89121",
+  "email": false
 }

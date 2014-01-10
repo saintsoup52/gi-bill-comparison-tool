@@ -1,6 +1,6 @@
 {
   "facility_code": "34910440",
-  "institution": "CLINTON JUNIOR COLLEGE",
+  "institution": "Clinton Junior College",
   "city": "Rock Hill",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 217891,
-  "grad_rate": 65.3,
-  "grad_rate_rank": 95,
-  "default_rate": 45.9,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 486,
-  "indicator_group": 2
+  "grad_rate": 53.0,
+  "grad_rate_rank": 238,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 567,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "29730",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25149805",
-  "institution": "THE INTERNATIONAL CULINARY CENTER OF CALIFORNIA",
+  "institution": "The International Culinary Center Of California",
   "city": "Campbell",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 191287,
-  "grad_rate": 91.5,
-  "grad_rate_rank": 218,
-  "default_rate": 7.4,
+  "grad_rate": 88.5,
+  "grad_rate_rank": 317,
+  "default_rate": 9.5,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95008",
+  "email": true
 }

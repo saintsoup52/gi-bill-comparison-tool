@@ -1,6 +1,6 @@
 {
   "facility_code": "31119125",
-  "institution": "FOREST INSTITUTE OF PROFESSIONAL PSYCHOLOGY",
+  "institution": "Forest Institute Of Professional Psychology",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 177427,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "65807",
+  "email": true
 }

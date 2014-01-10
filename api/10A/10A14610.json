@@ -1,6 +1,6 @@
 {
   "facility_code": "10A14610",
-  "institution": "PALM HARBOR GOLF CLUB",
+  "institution": "Palm Harbor Golf Club",
   "city": "Palm Coast",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32137",
+  "email": true
 }

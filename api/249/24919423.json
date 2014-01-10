@@ -1,6 +1,6 @@
 {
   "facility_code": "24919423",
-  "institution": "MINNEAPOLIS BUSINESS COLLEGE",
+  "institution": "Minneapolis Business College",
   "city": "Roseville",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 174118,
-  "grad_rate": 89.3,
-  "grad_rate_rank": 21,
-  "default_rate": 11.5,
-  "avg_stu_loan_debt": 11494,
-  "avg_stu_loan_debt_rank": 699,
-  "indicator_group": 3
+  "grad_rate": 82.6,
+  "grad_rate_rank": 31,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 13546,
+  "avg_stu_loan_debt_rank": 925,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55113",
+  "email": false
 }

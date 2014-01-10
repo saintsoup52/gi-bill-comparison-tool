@@ -1,6 +1,6 @@
 {
   "facility_code": "17037119",
-  "institution": "BUCKSPORT HIGH SCHOOL (DAY PROGRAM)",
+  "institution": "Bucksport High School (Day Program)",
   "city": "Bucksport",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4416",
+  "email": false
 }

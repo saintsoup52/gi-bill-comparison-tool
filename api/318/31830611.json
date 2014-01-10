@@ -1,6 +1,6 @@
 {
   "facility_code": "31830611",
-  "institution": "EMORY UNIVERSITY SCHOOL OF LAW",
+  "institution": "Emory University School Of Law",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 139658,
-  "grad_rate": 89.8,
-  "grad_rate_rank": 65,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 90.1,
+  "grad_rate_rank": 62,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 20250,
+  "avg_stu_loan_debt_rank": 1223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30322",
+  "email": false
 }

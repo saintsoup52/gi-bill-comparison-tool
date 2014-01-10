@@ -1,6 +1,6 @@
 {
   "facility_code": "31008621",
-  "institution": "GORDON COLLEGE",
+  "institution": "Gordon College",
   "city": "Wenham",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 165936,
-  "grad_rate": 73.9,
-  "grad_rate_rank": 241,
-  "default_rate": 2.1,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 73.7,
+  "grad_rate_rank": 253,
+  "default_rate": 1.8,
+  "avg_stu_loan_debt": 23250,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1984",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D25649",
-  "institution": "TOWN OF MINOCQUA",
+  "institution": "Town Of Minocqua",
   "city": "Minocqua",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54548",
+  "email": false
 }

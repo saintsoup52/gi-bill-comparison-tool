@@ -1,6 +1,6 @@
 {
   "facility_code": "28000916",
-  "institution": "MARINELLO SCHOOL OF BEAUTY-MANHATTAN",
+  "institution": "Marinello School Of Beauty-Manhattan",
   "city": "Manhattan",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 154970,
-  "grad_rate": 58.7,
-  "grad_rate_rank": 1643,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 59.3,
+  "grad_rate_rank": 1655,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 7738,
+  "avg_stu_loan_debt_rank": 776,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "66505",
+  "email": false
 }

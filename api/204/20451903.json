@@ -1,6 +1,6 @@
 {
   "facility_code": "20451903",
-  "institution": "SUN CITY VISTOSO GOLF CLUB (OJT)",
+  "institution": "Sun City Vistoso Golf Club (Ojt)",
   "city": "Oro Valley",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85755",
+  "email": false
 }

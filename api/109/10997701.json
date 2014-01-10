@@ -1,6 +1,6 @@
 {
   "facility_code": "10997701",
-  "institution": "UNIVERSITY OF ALABAMA - B'HAM POLICE DEPT",
+  "institution": "University Of Alabama - B'Ham Police Dept",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35205",
+  "email": false
 }

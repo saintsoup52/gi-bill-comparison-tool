@@ -1,6 +1,6 @@
 {
   "facility_code": "28570532",
-  "institution": "NEW YORK INSTITUTE OF ENGLISH AND BUSINESS",
+  "institution": "New York Institute Of English And Business",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10001",
+  "email": false
 }

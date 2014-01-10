@@ -1,6 +1,6 @@
 {
   "facility_code": "17179140",
-  "institution": "FORT MILL HIGH SCHOOL",
+  "institution": "Fort Mill High School",
   "city": "Fort Mill",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29715",
+  "email": false
 }

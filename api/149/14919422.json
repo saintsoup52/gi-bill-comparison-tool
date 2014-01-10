@@ -1,6 +1,6 @@
 {
   "facility_code": "14919422",
-  "institution": "MONTCALM COMMUNITY COLLEGE",
+  "institution": "Montcalm Community College",
   "city": "Sidney",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 54,
   "cross": 171234,
-  "grad_rate": 12.1,
-  "grad_rate_rank": 1139,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 6899,
-  "avg_stu_loan_debt_rank": 544,
-  "indicator_group": 2
+  "grad_rate": 10.6,
+  "grad_rate_rank": 1270,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 6875,
+  "avg_stu_loan_debt_rank": 429,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48885",
+  "email": true
 }

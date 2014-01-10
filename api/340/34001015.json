@@ -1,6 +1,6 @@
 {
   "facility_code": "34001015",
-  "institution": "GRAND VIEW UNIVERSITY",
+  "institution": "Grand View University",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 136,
   "cross": 153375,
-  "grad_rate": 40.7,
-  "grad_rate_rank": 1205,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 1
+  "grad_rate": 49.0,
+  "grad_rate_rank": 930,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 19386,
+  "avg_stu_loan_debt_rank": 1110,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "50316",
+  "email": true
 }

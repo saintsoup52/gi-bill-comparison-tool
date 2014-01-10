@@ -1,6 +1,6 @@
 {
   "facility_code": "15054536",
-  "institution": "STUART HIGH SCHOOL",
+  "institution": "Stuart High School",
   "city": "Stuart",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74570",
+  "email": false
 }

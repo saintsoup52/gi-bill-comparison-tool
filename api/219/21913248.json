@@ -1,6 +1,6 @@
 {
   "facility_code": "21913248",
-  "institution": "SALEM INTERNATIONAL UNIVERSITY LLC",
+  "institution": "Salem International University Llc",
   "city": "Salem",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 52,
   "cross": 237783,
-  "grad_rate": 13.6,
-  "grad_rate_rank": 1747,
-  "default_rate": 22.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 11.3,
+  "grad_rate_rank": 1822,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 484,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26426",
+  "email": true
 }

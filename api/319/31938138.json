@@ -1,6 +1,6 @@
 {
   "facility_code": "31938138",
-  "institution": "THIEL COLLEGE",
+  "institution": "Thiel College",
   "city": "Greenville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 43,
   "cross": 216357,
-  "grad_rate": 38.9,
-  "grad_rate_rank": 1266,
-  "default_rate": 11.2,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 32.3,
+  "grad_rate_rank": 1465,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 20660,
+  "avg_stu_loan_debt_rank": 1277,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16125",
+  "email": false
 }

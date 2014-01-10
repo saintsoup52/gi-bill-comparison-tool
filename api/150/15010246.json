@@ -1,6 +1,6 @@
 {
   "facility_code": "15010246",
-  "institution": "HALIFAX-SOUTH BOSTON COM HOSP SCH OF PRAC NURSING",
+  "institution": "Halifax-South Boston Com Hosp Sch Of Prac Nursing",
   "city": "South Boston",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24592",
+  "email": false
 }

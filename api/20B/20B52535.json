@@ -1,6 +1,6 @@
 {
   "facility_code": "20B52535",
-  "institution": "ALL AMERICAN ELECTRONICS K",
+  "institution": "All American Electronics K",
   "city": "Proctorville",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45669",
+  "email": false
 }

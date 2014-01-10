@@ -1,6 +1,6 @@
 {
   "facility_code": "31004935",
-  "institution": "MARIETTA COLLEGE",
+  "institution": "Marietta College",
   "city": "Marietta",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 29,
   "cross": 203845,
-  "grad_rate": 51.2,
-  "grad_rate_rank": 835,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 22986,
-  "avg_stu_loan_debt_rank": 1737,
-  "indicator_group": 1
+  "grad_rate": 63.1,
+  "grad_rate_rank": 486,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 24250,
+  "avg_stu_loan_debt_rank": 1660,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45750",
+  "email": false
 }

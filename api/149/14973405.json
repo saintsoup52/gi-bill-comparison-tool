@@ -1,6 +1,6 @@
 {
   "facility_code": "14973405",
-  "institution": "VICTOR VALLEY COLLEGE",
+  "institution": "Victor Valley College",
   "city": "Victorville",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 382,
   "cross": 125091,
-  "grad_rate": 13.8,
-  "grad_rate_rank": 1071,
-  "default_rate": 31.0,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 639,
-  "indicator_group": 2
+  "grad_rate": 13.6,
+  "grad_rate_rank": 1176,
+  "default_rate": 32.6,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 567,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92392",
+  "email": true
 }

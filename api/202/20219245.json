@@ -1,6 +1,6 @@
 {
   "facility_code": "20219245",
-  "institution": "ST PETER CONSTRUCTION INC",
+  "institution": "St Peter Construction Inc",
   "city": "Richmond",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5477",
+  "email": "No (SCO)"
 }

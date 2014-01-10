@@ -1,6 +1,6 @@
 {
   "facility_code": "25803205",
-  "institution": "EVEREST COLLEGE-ALHAMBRA",
+  "institution": "Everest College-Alhambra",
   "city": "Alhambra",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 119465,
-  "grad_rate": 79.8,
-  "grad_rate_rank": 676,
-  "default_rate": 28.6,
+  "grad_rate": 71.9,
+  "grad_rate_rank": 1078,
+  "default_rate": 20.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91803",
+  "email": true
 }

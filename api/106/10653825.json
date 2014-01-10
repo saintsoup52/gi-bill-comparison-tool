@@ -1,6 +1,6 @@
 {
   "facility_code": "10653825",
-  "institution": "PLEASANT VALLEY POLICE DEPT.",
+  "institution": "Pleasant Valley Police Dept.",
   "city": "Pleasant Valley",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64068",
+  "email": false
 }

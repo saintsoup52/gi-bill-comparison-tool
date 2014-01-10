@@ -1,6 +1,6 @@
 {
   "facility_code": "21003303",
-  "institution": "PHOENIX INSTITUTE OF HERBAL MEDICINE & ACUPUNCTURE",
+  "institution": "Phoenix Institute Of Herbal Medicine & Acupuncture",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 447698,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 8525,
+  "avg_stu_loan_debt_rank": 50,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "85012",
+  "email": true
 }

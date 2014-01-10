@@ -1,6 +1,6 @@
 {
   "facility_code": "20472217",
-  "institution": "STATE DOCK AT LAKE CUMBERLAND",
+  "institution": "State Dock At Lake Cumberland",
   "city": "Jamestown",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "42629",
+  "email": false
 }

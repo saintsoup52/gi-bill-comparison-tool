@@ -1,6 +1,6 @@
 {
   "facility_code": "24010135",
-  "institution": "BECKFIELD COLLEGE",
+  "institution": "Beckfield College",
   "city": "Springdale",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 452373,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 10583,
-  "avg_stu_loan_debt_rank": 891,
-  "indicator_group": 2
+  "grad_rate": 11.8,
+  "grad_rate_rank": 1238,
+  "default_rate": 22.4,
+  "avg_stu_loan_debt": 13193,
+  "avg_stu_loan_debt_rank": 918,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45246",
+  "email": true
 }

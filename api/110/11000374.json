@@ -1,10 +1,10 @@
 {
   "facility_code": "11000374",
-  "institution": "THE COURTAULD INSTITUTE OF ART",
+  "institution": "The Courtauld Institute Of Art",
   "city": "London Wc2R Orn",
   "state": "England",
   "country": "England",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

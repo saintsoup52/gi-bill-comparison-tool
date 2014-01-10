@@ -1,6 +1,6 @@
 {
   "facility_code": "14905416",
-  "institution": "KANSAS CITY KANSAS COMMUNITY COLLEGE AND TECHNICAL EDUCATION CENTER",
+  "institution": "Kansas City Kansas Community College And Technical Education Center",
   "city": "Kansas City",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 337,
   "cross": 155292,
-  "grad_rate": 23.4,
-  "grad_rate_rank": 401,
-  "default_rate": 12.3,
+  "grad_rate": 24.8,
+  "grad_rate_rank": 597,
+  "default_rate": 15.9,
   "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 336,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 239,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "66112",
+  "email": true
 }

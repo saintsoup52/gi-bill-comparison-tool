@@ -1,6 +1,6 @@
 {
   "facility_code": "25125605",
-  "institution": "SAN DIEGO CULINARY INSTITUTE INC.",
+  "institution": "San Diego Culinary Institute Inc.",
   "city": "La Mesa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 457244,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 7811,
-  "avg_stu_loan_debt_rank": 1313,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 9204,
+  "avg_stu_loan_debt_rank": 1021,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91942",
+  "email": true
 }

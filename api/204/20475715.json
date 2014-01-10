@@ -1,6 +1,6 @@
 {
   "facility_code": "20475715",
-  "institution": "IOWA ARMY NATIONAL GUARD",
+  "institution": "Iowa Army National Guard",
   "city": "Johnston",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50131",
+  "email": true
 }

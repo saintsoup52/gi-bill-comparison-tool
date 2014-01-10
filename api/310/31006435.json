@@ -1,6 +1,6 @@
 {
   "facility_code": "31006435",
-  "institution": "FRANCISCAN UNIVERSITY OF STEUBENVILLE",
+  "institution": "Franciscan University Of Steubenville",
   "city": "Steubenville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 205957,
-  "grad_rate": 70.2,
-  "grad_rate_rank": 298,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 20682,
-  "avg_stu_loan_debt_rank": 1501,
-  "indicator_group": 1
+  "grad_rate": 78.2,
+  "grad_rate_rank": 185,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 22205,
+  "avg_stu_loan_debt_rank": 1444,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43952",
+  "email": false
 }

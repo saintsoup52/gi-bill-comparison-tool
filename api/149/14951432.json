@@ -1,6 +1,6 @@
 {
   "facility_code": "14951432",
-  "institution": "FINGER LAKES COMMUNITY COLLEGE",
+  "institution": "Finger Lakes Community College",
   "city": "Canandaigua",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 225,
   "cross": 191199,
-  "grad_rate": 29.4,
-  "grad_rate_rank": 554,
-  "default_rate": 20.5,
-  "avg_stu_loan_debt": 7430,
-  "avg_stu_loan_debt_rank": 597,
-  "indicator_group": 2
+  "grad_rate": 26.9,
+  "grad_rate_rank": 727,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 7575,
+  "avg_stu_loan_debt_rank": 518,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14424",
+  "email": true
 }

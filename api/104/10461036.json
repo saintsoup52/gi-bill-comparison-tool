@@ -1,6 +1,6 @@
 {
   "facility_code": "10461036",
-  "institution": "US ARMY AMMUNITION PLANT FIRE DEPARTMENT MCALESTER",
+  "institution": "Us Army Ammunition Plant Fire Department Mcalester",
   "city": "Mcalester",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74501",
+  "email": false
 }

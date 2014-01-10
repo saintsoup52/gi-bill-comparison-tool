@@ -1,6 +1,6 @@
 {
   "facility_code": "14901119",
-  "institution": "NORTHERN MAINE COMMUNITY COLLEGE",
+  "institution": "Northern Maine Community College",
   "city": "Presque Isle",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 161484,
-  "grad_rate": 42.5,
-  "grad_rate_rank": 295,
-  "default_rate": 23.7,
-  "avg_stu_loan_debt": 8612,
-  "avg_stu_loan_debt_rank": 691,
-  "indicator_group": 2
+  "grad_rate": 39.4,
+  "grad_rate_rank": 421,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "4769",
+  "email": true
 }

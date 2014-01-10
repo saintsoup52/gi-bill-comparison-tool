@@ -1,6 +1,6 @@
 {
   "facility_code": "11000532",
-  "institution": "CITY COLLEGE OF NEW YORK",
+  "institution": "City College Of New York",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 191,
   "cross": 190567,
-  "grad_rate": 40.0,
-  "grad_rate_rank": 1229,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 10418,
-  "avg_stu_loan_debt_rank": 268,
-  "indicator_group": 1
+  "grad_rate": 42.0,
+  "grad_rate_rank": 1173,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 10239,
+  "avg_stu_loan_debt_rank": 169,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10031",
+  "email": true
 }

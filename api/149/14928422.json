@@ -1,6 +1,6 @@
 {
   "facility_code": "14928422",
-  "institution": "GLEN OAKS COMMUNITY COLLEGE",
+  "institution": "Glen Oaks Community College",
   "city": "Centreville",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 169974,
-  "grad_rate": 21.1,
-  "grad_rate_rank": 825,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 5700,
-  "avg_stu_loan_debt_rank": 408,
-  "indicator_group": 2
+  "grad_rate": 24.0,
+  "grad_rate_rank": 821,
+  "default_rate": 17.4,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "49032",
+  "email": true
 }

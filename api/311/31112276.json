@@ -1,10 +1,10 @@
 {
   "facility_code": "31112276",
-  "institution": "UNIVERSIDAD VERITAS S.A.",
+  "institution": "Universidad Veritas S.A.",
   "city": "San Jose",
   "state": "Costa Rica",
   "country": "Costa Rica",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 3,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28017544",
-  "institution": "MYOTHERAPY COLLEGE OF UTAH",
+  "institution": "Myotherapy College Of Utah",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 406486,
-  "grad_rate": 80.9,
-  "grad_rate_rank": 612,
-  "default_rate": 26.1,
-  "avg_stu_loan_debt": 7756,
-  "avg_stu_loan_debt_rank": 1300,
-  "indicator_group": 5
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 7617,
+  "avg_stu_loan_debt_rank": 746,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84115",
+  "email": true
 }

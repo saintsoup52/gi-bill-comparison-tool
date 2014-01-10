@@ -1,6 +1,6 @@
 {
   "facility_code": "24921520",
-  "institution": "TESST COLLEGE OF TECHNOLOGY - BALTIMORE",
+  "institution": "Tesst College Of Technology - Baltimore",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 163736,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 32.1,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 406,
-  "indicator_group": 3
+  "grad_rate": 56.4,
+  "grad_rate_rank": 338,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 9123,
+  "avg_stu_loan_debt_rank": 312,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "21227",
+  "email": false
 }

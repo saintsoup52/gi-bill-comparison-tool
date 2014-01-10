@@ -1,6 +1,6 @@
 {
   "facility_code": "31994138",
-  "institution": "MISERICORDIA UNIVERSITY",
+  "institution": "Misericordia University",
   "city": "Dallas",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 56,
   "cross": 214069,
-  "grad_rate": 63.9,
-  "grad_rate_rank": 455,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 67.9,
+  "grad_rate_rank": 355,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 25250,
+  "avg_stu_loan_debt_rank": 1793,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18612",
+  "email": true
 }

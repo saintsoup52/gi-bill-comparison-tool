@@ -1,10 +1,10 @@
 {
   "facility_code": "29023763",
-  "institution": "PANADERIA LA ESPIGA DE PLATA (CH 35 REST TRAINING)",
+  "institution": "Panaderia La Espiga De Plata (Ch 35 Rest Training)",
   "city": "Utuado",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "641",
+  "email": "No (SCO)"
 }

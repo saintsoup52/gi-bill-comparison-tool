@@ -1,6 +1,6 @@
 {
   "facility_code": "31804005",
-  "institution": "WESTERN SEMINARY SACRAMENTO",
+  "institution": "Western Seminary Sacramento",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 210368,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "95821",
+  "email": true
 }

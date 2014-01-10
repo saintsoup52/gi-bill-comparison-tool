@@ -1,6 +1,6 @@
 {
   "facility_code": "11001216",
-  "institution": "WICHITA STATE UNIVERSITY",
+  "institution": "Wichita State University",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 585,
   "cross": 156125,
-  "grad_rate": 43.4,
-  "grad_rate_rank": 1113,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "grad_rate": 41.3,
+  "grad_rate_rank": 1201,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 15366,
+  "avg_stu_loan_debt_rank": 572,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67260",
+  "email": true
 }

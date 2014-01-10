@@ -1,6 +1,6 @@
 {
   "facility_code": "25126143",
-  "institution": "MIAT INSTITUTE OF TECHNOLOGY",
+  "institution": "Miat Institute Of Technology",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 169655,
-  "grad_rate": 75.3,
-  "grad_rate_rank": 899,
-  "default_rate": 15.5,
-  "avg_stu_loan_debt": 15735,
-  "avg_stu_loan_debt_rank": 2489,
-  "indicator_group": 5
+  "grad_rate": 82.9,
+  "grad_rate_rank": 527,
+  "default_rate": 15.1,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1951,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77073",
+  "email": true
 }

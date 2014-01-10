@@ -1,6 +1,6 @@
 {
   "facility_code": "29B75643",
-  "institution": "JENSON FISHING TACKLE",
+  "institution": "Jenson Fishing Tackle",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78766",
+  "email": "No (SCO)"
 }

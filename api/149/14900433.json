@@ -1,6 +1,6 @@
 {
   "facility_code": "14900433",
-  "institution": "ISOTHERMAL COMMUNITY COLLEGE",
+  "institution": "Isothermal Community College",
   "city": "Spindale",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 66,
   "cross": 198710,
-  "grad_rate": 17.9,
-  "grad_rate_rank": 936,
+  "grad_rate": 13.1,
+  "grad_rate_rank": 1195,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 3875,
+  "avg_stu_loan_debt_rank": 75,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28160",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34000505",
-  "institution": "CASA LOMA COLLEGE (HAWTHORNE)",
+  "institution": "Casa Loma College (Hawthorne)",
   "city": "Hawthorne",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 111638,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 15989,
-  "avg_stu_loan_debt_rank": 793,
-  "indicator_group": 3
+  "grad_rate": 70.1,
+  "grad_rate_rank": 171,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 16861,
+  "avg_stu_loan_debt_rank": 689,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90250",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10643240",
-  "institution": "FAIRFIELD COUNTY SHERIFF'S DEPARTMENT",
+  "institution": "Fairfield County Sheriff'S Department",
   "city": "Winnsboro",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29180",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25301608",
-  "institution": "HARRIS SCHOOL OF BUSINESS",
+  "institution": "Harris School Of Business",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 444200,
-  "grad_rate": 61.4,
-  "grad_rate_rank": 1536,
-  "default_rate": 22.2,
+  "grad_rate": 54.3,
+  "grad_rate_rank": 1828,
+  "default_rate": 15.4,
   "avg_stu_loan_debt": 6767,
-  "avg_stu_loan_debt_rank": 1102,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 590,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19904",
+  "email": true
 }

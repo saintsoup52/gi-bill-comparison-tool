@@ -1,6 +1,6 @@
 {
   "facility_code": "25060213",
-  "institution": "EMPIRE BEAUTY SCHOOL",
+  "institution": "Empire Beauty School",
   "city": "Arlington Heights",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 450623,
-  "grad_rate": 53.1,
-  "grad_rate_rank": 1839,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 60.6,
+  "grad_rate_rank": 1615,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60004",
+  "email": true
 }

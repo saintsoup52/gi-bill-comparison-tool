@@ -1,6 +1,6 @@
 {
   "facility_code": "15009042",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - ELIZABETHTON",
+  "institution": "Tennessee College Of Applied Technology - Elizabethton",
   "city": "Elizabethton",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 26,
   "cross": 220127,
-  "grad_rate": 82.5,
-  "grad_rate_rank": 522,
+  "grad_rate": 70.7,
+  "grad_rate_rank": 1142,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37644",
+  "email": false
 }

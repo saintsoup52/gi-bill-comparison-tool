@@ -1,6 +1,6 @@
 {
   "facility_code": "31008011",
-  "institution": "CAMBRIDGE COLLEGE (AUGUSTA REGIONAL CENTER)",
+  "institution": "Cambridge College (Augusta Regional Center)",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 165167,
-  "grad_rate": 7.7,
-  "grad_rate_rank": 1804,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 18522,
-  "avg_stu_loan_debt_rank": 1156,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 18655,
+  "avg_stu_loan_debt_rank": 1004,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30901",
+  "email": true
 }

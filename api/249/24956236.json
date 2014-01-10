@@ -1,6 +1,6 @@
 {
   "facility_code": "24956236",
-  "institution": "CAREER POINT COLLEGE",
+  "institution": "Career Point College",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 246008,
-  "grad_rate": 55.7,
-  "grad_rate_rank": 173,
-  "default_rate": 20.9,
+  "grad_rate": 71.0,
+  "grad_rate_rank": 162,
+  "default_rate": 15.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "74146",
+  "email": true
 }

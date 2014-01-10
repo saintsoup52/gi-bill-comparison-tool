@@ -1,6 +1,6 @@
 {
   "facility_code": "31007835",
-  "institution": "LOURDES UNIVERSITY",
+  "institution": "Lourdes University",
   "city": "Sylvania",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 203757,
-  "grad_rate": 28.3,
-  "grad_rate_rank": 1532,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 18331,
-  "avg_stu_loan_debt_rank": 1126,
-  "indicator_group": 1
+  "grad_rate": 19.6,
+  "grad_rate_rank": 1719,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 18803,
+  "avg_stu_loan_debt_rank": 1037,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43560",
+  "email": true
 }

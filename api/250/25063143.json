@@ -1,6 +1,6 @@
 {
   "facility_code": "25063143",
-  "institution": "CENTRAL TEXAS BEAUTY COLLEGE TEMPLE",
+  "institution": "Central Texas Beauty College Temple",
   "city": "Temple",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 383464,
-  "grad_rate": 55.0,
-  "grad_rate_rank": 1781,
+  "grad_rate": 47.0,
+  "grad_rate_rank": 1998,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "76504",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15008742",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - CROSSVILLE",
+  "institution": "Tennessee College Of Applied Technology - Crossville",
   "city": "Crossville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 221591,
-  "grad_rate": 70.8,
-  "grad_rate_rank": 1140,
+  "grad_rate": 74.6,
+  "grad_rate_rank": 947,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38557",
+  "email": false
 }

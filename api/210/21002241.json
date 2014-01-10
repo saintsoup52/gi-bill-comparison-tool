@@ -1,6 +1,6 @@
 {
   "facility_code": "21002241",
-  "institution": "NATIONAL AMERICAN UNIVERSITY",
+  "institution": "National American University",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 74,
   "cross": 219213,
-  "grad_rate": 29.0,
-  "grad_rate_rank": 568,
-  "default_rate": 22.9,
-  "avg_stu_loan_debt": 11421,
-  "avg_stu_loan_debt_rank": 944,
-  "indicator_group": 2
+  "grad_rate": 12.2,
+  "grad_rate_rank": 1221,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 12479,
+  "avg_stu_loan_debt_rank": 881,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "57108",
+  "email": false
 }

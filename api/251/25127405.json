@@ -1,6 +1,6 @@
 {
   "facility_code": "25127405",
-  "institution": "SIERRA VALLEY COLLEGE",
+  "institution": "Sierra Valley College",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 123396,
-  "grad_rate": 5.3,
-  "grad_rate_rank": 2200,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 12353,
-  "avg_stu_loan_debt_rank": 2376,
-  "indicator_group": 5
+  "grad_rate": 3.6,
+  "grad_rate_rank": 2262,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 15970,
+  "avg_stu_loan_debt_rank": 1942,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93726",
+  "email": false
 }

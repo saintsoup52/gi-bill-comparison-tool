@@ -1,6 +1,6 @@
 {
   "facility_code": "25057446",
-  "institution": "NORTHERN VIRGINIA SCHOOL OF THERAPEUTIC MASSAGE",
+  "institution": "Northern Virginia School Of Therapeutic Massage",
   "city": "Falls Church",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 461412,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 5542,
+  "avg_stu_loan_debt_rank": 362,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "22046",
+  "email": true
 }

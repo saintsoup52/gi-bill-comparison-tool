@@ -1,6 +1,6 @@
 {
   "facility_code": "24901437",
-  "institution": "EVEREST COLLEGE",
+  "institution": "Everest College",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 210359,
-  "grad_rate": 34.6,
-  "grad_rate_rank": 299,
-  "default_rate": 31.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 31.8,
+  "grad_rate_rank": 581,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 9564,
+  "avg_stu_loan_debt_rank": 720,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "97204",
+  "email": true
 }

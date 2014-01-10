@@ -1,6 +1,6 @@
 {
   "facility_code": "15115848",
-  "institution": "JOHN D ROCKEFELLER IV TECHNICAL CENTER",
+  "institution": "John D Rockefeller Iv Technical Center",
   "city": "New Cumberland",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 446349,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
-  "default_rate": 9.0,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 22.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26047",
+  "email": true
 }

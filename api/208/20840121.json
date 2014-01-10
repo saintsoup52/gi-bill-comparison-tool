@@ -1,6 +1,6 @@
 {
   "facility_code": "20840121",
-  "institution": "NOVA CHEMICALS INC.",
+  "institution": "Nova Chemicals Inc.",
   "city": "Indian Orchard",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1151",
+  "email": false
 }

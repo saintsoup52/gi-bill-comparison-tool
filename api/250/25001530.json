@@ -1,6 +1,6 @@
 {
   "facility_code": "25001530",
-  "institution": "AMERICAN INSTITUTE",
+  "institution": "American Institute",
   "city": "Clifton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 184092,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 1768,
-  "default_rate": 22.4,
-  "avg_stu_loan_debt": 11518,
-  "avg_stu_loan_debt_rank": 2266,
-  "indicator_group": 5
+  "grad_rate": 51.3,
+  "grad_rate_rank": 1918,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 10365,
+  "avg_stu_loan_debt_rank": 1545,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7011",
+  "email": true
 }

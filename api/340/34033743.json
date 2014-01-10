@@ -1,6 +1,6 @@
 {
   "facility_code": "34033743",
-  "institution": "COLLEGE OF BIBLICAL STUDIES",
+  "institution": "College Of Biblical Studies",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 388520,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 1669,
-  "default_rate": 15.7,
-  "avg_stu_loan_debt": 11720,
-  "avg_stu_loan_debt_rank": 345,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 16.9,
+  "avg_stu_loan_debt": 6702,
+  "avg_stu_loan_debt_rank": 65,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77036",
+  "email": false
 }

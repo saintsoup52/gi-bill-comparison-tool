@@ -1,6 +1,6 @@
 {
   "facility_code": "11968138",
-  "institution": "PENN STATE UNIVERSITY - BEHREND CAMPUS",
+  "institution": "Penn State University - Behrend Campus",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 155,
   "cross": 214591,
-  "grad_rate": 66.4,
-  "grad_rate_rank": 398,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 23426,
-  "avg_stu_loan_debt_rank": 1813,
-  "indicator_group": 1
+  "grad_rate": 66.6,
+  "grad_rate_rank": 389,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16563",
+  "email": false
 }

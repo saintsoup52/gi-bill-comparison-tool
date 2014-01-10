@@ -1,6 +1,6 @@
 {
   "facility_code": "20518517",
-  "institution": "HAWKLAND FARMS BUILDING AND RESTORATION",
+  "institution": "Hawkland Farms Building And Restoration",
   "city": "Clay City",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40312",
+  "email": false
 }

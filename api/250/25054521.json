@@ -1,6 +1,6 @@
 {
   "facility_code": "25054521",
-  "institution": "NEW ENGLAND SCHOOL OF ARCHITECTURAL WOODWORKING",
+  "institution": "New England School Of Architectural Woodworking",
   "city": "Easthampton",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1027",
+  "email": true
 }

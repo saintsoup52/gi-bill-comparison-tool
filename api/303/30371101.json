@@ -1,6 +1,6 @@
 {
   "facility_code": "30371101",
-  "institution": "PLUMBERS STEAMFITTERS AND REFRIGERATION J A C",
+  "institution": "Plumbers Steamfitters And Refrigeration J A C",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36607",
+  "email": false
 }

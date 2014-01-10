@@ -1,6 +1,6 @@
 {
   "facility_code": "21109705",
-  "institution": "CONCORD LAW SCHOOL OF KAPLAN UNIVERSITY",
+  "institution": "Concord Law School Of Kaplan University",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 260901,
-  "grad_rate": 30.7,
-  "grad_rate_rank": 1483,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 820,
-  "indicator_group": 1
+  "grad_rate": 6.9,
+  "grad_rate_rank": 1848,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90024",
+  "email": false
 }

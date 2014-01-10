@@ -1,6 +1,6 @@
 {
   "facility_code": "14914410",
-  "institution": "FLORIDA GATEWAY COLLEGE",
+  "institution": "Florida Gateway College",
   "city": "Lake City",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 160,
   "cross": 135160,
-  "grad_rate": 48.0,
-  "grad_rate_rank": 241,
-  "default_rate": 20.4,
-  "avg_stu_loan_debt": 4264,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 2
+  "grad_rate": 43.0,
+  "grad_rate_rank": 366,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32025",
+  "email": true
 }

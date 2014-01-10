@@ -1,6 +1,6 @@
 {
   "facility_code": "31000214",
-  "institution": "BUTLER UNIVERSITY",
+  "institution": "Butler University",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 45,
   "cross": 150163,
-  "grad_rate": 71.8,
-  "grad_rate_rank": 277,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 23250,
-  "avg_stu_loan_debt_rank": 1806,
-  "indicator_group": 1
+  "grad_rate": 73.1,
+  "grad_rate_rank": 267,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46208",
+  "email": false
 }

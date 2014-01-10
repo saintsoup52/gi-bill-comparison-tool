@@ -1,6 +1,6 @@
 {
   "facility_code": "21811011",
-  "institution": "WESTWOOD COLLEGE (MIDTOWN)",
+  "institution": "Westwood College (Midtown)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 101,
   "cross": 445072,
   "grad_rate": 20.0,
-  "grad_rate_rank": 1669,
-  "default_rate": 19.5,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 820,
-  "indicator_group": 1
+  "grad_rate_rank": 1709,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 19151,
+  "avg_stu_loan_debt_rank": 1095,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30309",
+  "email": true
 }

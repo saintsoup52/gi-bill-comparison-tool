@@ -1,6 +1,6 @@
 {
   "facility_code": "10C05543",
-  "institution": "IEC INDEP ELECT CONTRACTORS DALLAS CO",
+  "institution": "Iec Indep Elect Contractors Dallas Co",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75038",
+  "email": false
 }

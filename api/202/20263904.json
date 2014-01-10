@@ -1,6 +1,6 @@
 {
   "facility_code": "20263904",
-  "institution": "FORTUNE EQUIPMENT COMPANY",
+  "institution": "Fortune Equipment Company",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72209",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25134605",
-  "institution": "CAREER COLLEGE OF CALIFORNIA",
+  "institution": "Career College Of California",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 449436,
-  "grad_rate": 94.4,
-  "grad_rate_rank": 151,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 7690,
-  "avg_stu_loan_debt_rank": 1289,
-  "indicator_group": 5
+  "grad_rate": 87.5,
+  "grad_rate_rank": 344,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 9202,
+  "avg_stu_loan_debt_rank": 1020,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92701",
+  "email": true
 }

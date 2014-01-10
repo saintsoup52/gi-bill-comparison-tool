@@ -1,6 +1,6 @@
 {
   "facility_code": "14922136",
-  "institution": "CONNORS STATE COLLEGE",
+  "institution": "Connors State College",
   "city": "Muskogee",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 138,
   "cross": 206996,
-  "grad_rate": 22.3,
-  "grad_rate_rank": 786,
-  "default_rate": 26.6,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 17.7,
+  "grad_rate_rank": 1017,
+  "default_rate": 25.3,
+  "avg_stu_loan_debt": 6250,
+  "avg_stu_loan_debt_rank": 358,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "74401",
+  "email": true
 }

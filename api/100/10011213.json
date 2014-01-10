@@ -1,6 +1,6 @@
 {
   "facility_code": "10011213",
-  "institution": "WILLARD AIRPORT FIRE DEPARTMENT-U OF I",
+  "institution": "Willard Airport Fire Department-U Of I",
   "city": "Savoy",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61874",
+  "email": true
 }

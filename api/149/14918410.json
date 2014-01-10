@@ -1,6 +1,6 @@
 {
   "facility_code": "14918410",
-  "institution": "NORTH FLORIDA COMMUNITY COLLEGE",
+  "institution": "North Florida Community College",
   "city": "Madison",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 136145,
-  "grad_rate": 38.7,
-  "grad_rate_rank": 264,
+  "grad_rate": 44.2,
+  "grad_rate_rank": 434,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "32340",
+  "email": false
 }

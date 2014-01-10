@@ -1,6 +1,6 @@
 {
   "facility_code": "25000438",
-  "institution": "PRINCETON INFORMATION TECHNOLOGY CENTER",
+  "institution": "Princeton Information Technology Center",
   "city": "Glenside",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 444811,
-  "grad_rate": 54.1,
-  "grad_rate_rank": 1808,
+  "grad_rate": 52.3,
+  "grad_rate_rank": 1887,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5782,
-  "avg_stu_loan_debt_rank": 934,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 7824,
+  "avg_stu_loan_debt_rank": 785,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19038",
+  "email": true
 }

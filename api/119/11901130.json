@@ -1,6 +1,6 @@
 {
   "facility_code": "11901130",
-  "institution": "MONTCLAIR STATE UNIVERSITY",
+  "institution": "Montclair State University",
   "city": "Montclair",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 344,
   "cross": 185590,
-  "grad_rate": 62.3,
-  "grad_rate_rank": 507,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 63.2,
+  "grad_rate_rank": 481,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 20200,
+  "avg_stu_loan_debt_rank": 1217,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7043",
+  "email": false
 }

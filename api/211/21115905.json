@@ -1,6 +1,6 @@
 {
   "facility_code": "21115905",
-  "institution": "STANBRIDGE COLLEGE",
+  "institution": "Stanbridge College",
   "city": "Irvine",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 62,
   "cross": 446561,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
+  "grad_rate": 81.8,
+  "grad_rate_rank": 50,
+  "default_rate": 4.7,
   "avg_stu_loan_debt": 18250,
-  "avg_stu_loan_debt_rank": 813,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 699,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92612",
+  "email": true
 }

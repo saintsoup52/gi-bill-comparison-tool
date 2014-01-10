@@ -1,6 +1,6 @@
 {
   "facility_code": "25037743",
-  "institution": "ITS ACADEMY OF BEAUTY 18",
+  "institution": "Its Academy Of Beauty 18",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 187505,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 1793,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 53.9,
+  "grad_rate_rank": 1842,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 7697,
+  "avg_stu_loan_debt_rank": 759,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79912",
+  "email": false
 }

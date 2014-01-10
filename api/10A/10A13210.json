@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13210",
-  "institution": "GULFPORT POLICE DEPARTMENT",
+  "institution": "Gulfport Police Department",
   "city": "Gulfport",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33707",
+  "email": true
 }

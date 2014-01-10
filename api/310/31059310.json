@@ -1,6 +1,6 @@
 {
   "facility_code": "31059310",
-  "institution": "POLYTECHNIC UNIVERSITY OF PUERTO RICO- MIAMI CAMPUS",
+  "institution": "Polytechnic University Of Puerto Rico- Miami Campus",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 456481,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 10999,
+  "avg_stu_loan_debt_rank": 220,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33166",
+  "email": true
 }

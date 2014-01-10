@@ -1,6 +1,6 @@
 {
   "facility_code": "15002313",
-  "institution": "CUMBERLAND UNIT 77 HIGH SCHOOL",
+  "institution": "Cumberland Unit 77 High School",
   "city": "Toledo",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62468",
+  "email": false
 }

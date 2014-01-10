@@ -1,6 +1,6 @@
 {
   "facility_code": "14907417",
-  "institution": "MAYSVILLE COMM & TECH COLLEGE - MAYSVILLE CAMPUS",
+  "institution": "Maysville Comm & Tech College - Maysville Campus",
   "city": "Maysville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 67,
   "cross": 157331,
-  "grad_rate": 32.4,
-  "grad_rate_rank": 318,
-  "default_rate": 32.3,
-  "avg_stu_loan_debt": 8136,
-  "avg_stu_loan_debt_rank": 352,
-  "indicator_group": 3
+  "grad_rate": 32.2,
+  "grad_rate_rank": 524,
+  "default_rate": 32.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "41056",
+  "email": true
 }

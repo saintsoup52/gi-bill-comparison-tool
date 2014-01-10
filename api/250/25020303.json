@@ -1,6 +1,6 @@
 {
   "facility_code": "25020303",
-  "institution": "SCHOOL OF EXERCISE TRAINING & SCIENCE",
+  "institution": "School Of Exercise Training & Science",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85028",
+  "email": true
 }

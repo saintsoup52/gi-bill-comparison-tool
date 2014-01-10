@@ -1,6 +1,6 @@
 {
   "facility_code": "31010029",
-  "institution": "LEBANON COLLEGE",
+  "institution": "Lebanon College",
   "city": "Lebanon",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 182908,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 682,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 7661,
-  "avg_stu_loan_debt_rank": 622,
-  "indicator_group": 2
+  "grad_rate": 70.6,
+  "grad_rate_rank": 88,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 5625,
+  "avg_stu_loan_debt_rank": 297,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "3766",
+  "email": true
 }

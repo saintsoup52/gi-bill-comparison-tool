@@ -1,6 +1,6 @@
 {
   "facility_code": "14909418",
-  "institution": "BATON ROUGE COMMUNITY COLLEGE",
+  "institution": "Baton Rouge Community College",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 446,
   "cross": 437103,
-  "grad_rate": 4.6,
-  "grad_rate_rank": 1295,
-  "default_rate": 0.0,
+  "grad_rate": 2.7,
+  "grad_rate_rank": 1387,
+  "default_rate": 27.9,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "70806",
+  "email": true
 }

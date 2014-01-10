@@ -1,6 +1,6 @@
 {
   "facility_code": "10825421",
-  "institution": "RANDOLPH FIRE DEPARTMENT",
+  "institution": "Randolph Fire Department",
   "city": "Randolph",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2368",
+  "email": false
 }

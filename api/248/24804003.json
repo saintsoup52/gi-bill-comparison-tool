@@ -1,6 +1,6 @@
 {
   "facility_code": "24804003",
-  "institution": "CARRINGTON COLLEGE - PHOENIX",
+  "institution": "Carrington College - Phoenix",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 103893,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 23.5,
+  "grad_rate": 65.0,
+  "grad_rate_rank": 237,
+  "default_rate": 25.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85051",
+  "email": false
 }

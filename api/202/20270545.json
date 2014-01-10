@@ -1,6 +1,6 @@
 {
   "facility_code": "20270545",
-  "institution": "ALL SERVICES PLUMBING AND HEATING",
+  "institution": "All Services Plumbing And Heating",
   "city": "Enosburg Falls",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5450",
+  "email": false
 }

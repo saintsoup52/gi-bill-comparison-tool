@@ -1,6 +1,6 @@
 {
   "facility_code": "25002644",
-  "institution": "ROADMASTER DRIVERS SCHOOL  OF SALT LAKE CITY INC.",
+  "institution": "Roadmaster Drivers School  Of Salt Lake City Inc.",
   "city": "West Valley City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84128",
+  "email": true
 }

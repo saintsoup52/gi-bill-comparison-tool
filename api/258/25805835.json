@@ -1,6 +1,6 @@
 {
   "facility_code": "25805835",
-  "institution": "WESTERN HILLS SCHOOL OF BEAUTY AND HAIR DESIGN",
+  "institution": "Western Hills School Of Beauty And Hair Design",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 206482,
-  "grad_rate": 52.2,
-  "grad_rate_rank": 1859,
-  "default_rate": 8.3,
+  "grad_rate": 59.6,
+  "grad_rate_rank": 1649,
+  "default_rate": 3.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45211",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31917105",
-  "institution": "UNIVERSITY OF SAN FRANCISCO-REGISTRARS OFFICE",
+  "institution": "University Of San Francisco-Registrars Office",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 142,
   "cross": 122612,
-  "grad_rate": 70.2,
-  "grad_rate_rank": 298,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 24800,
-  "avg_stu_loan_debt_rank": 1908,
-  "indicator_group": 1
+  "grad_rate": 67.4,
+  "grad_rate_rank": 363,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94117",
+  "email": false
 }

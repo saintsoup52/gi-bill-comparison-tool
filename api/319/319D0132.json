@@ -1,6 +1,6 @@
 {
   "facility_code": "319D0132",
-  "institution": "ITHACA COLLEGE",
+  "institution": "Ithaca College",
   "city": "Ithaca",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 61,
   "cross": 191968,
-  "grad_rate": 73.6,
-  "grad_rate_rank": 247,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 23500,
-  "avg_stu_loan_debt_rank": 1829,
-  "indicator_group": 1
+  "grad_rate": 76.6,
+  "grad_rate_rank": 209,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 24800,
+  "avg_stu_loan_debt_rank": 1706,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14850",
+  "email": true
 }

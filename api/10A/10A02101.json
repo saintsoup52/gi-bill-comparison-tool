@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02101",
-  "institution": "TVA BROWN'S FERRY NUCLEAR PLANT",
+  "institution": "Tva Brown'S Ferry Nuclear Plant",
   "city": "Decatur",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35609",
+  "email": true
 }

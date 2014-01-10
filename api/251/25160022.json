@@ -1,6 +1,6 @@
 {
   "facility_code": "25160022",
-  "institution": "TAYLORTOWN SCHOOL OF BEAUTY INC.",
+  "institution": "Taylortown School Of Beauty Inc.",
   "city": "Taylor",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 261719,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
+  "grad_rate": 60.7,
+  "grad_rate_rank": 1610,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 1094,
+  "avg_stu_loan_debt_rank": 3,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48180",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24916048",
-  "institution": "EVEREST INSTITUTE",
+  "institution": "Everest Institute",
   "city": "Cross Lanes",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 237604,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 29.5,
+  "grad_rate": 60.2,
+  "grad_rate_rank": 1628,
+  "default_rate": 19.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25313",
+  "email": true
 }

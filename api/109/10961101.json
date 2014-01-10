@@ -1,6 +1,6 @@
 {
   "facility_code": "10961101",
-  "institution": "(CHAPTER 31)VA MEDICAL CENTER",
+  "institution": "(Chapter 31)Va Medical Center",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36091",
+  "email": false
 }

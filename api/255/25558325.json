@@ -1,6 +1,6 @@
 {
   "facility_code": "25558325",
-  "institution": "AMERICAN COLLEGE OF HAIR DESIGN",
+  "institution": "American College Of Hair Design",
   "city": "Sedalia",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 179229,
-  "grad_rate": 48.0,
-  "grad_rate_rank": 1962,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 2917,
-  "avg_stu_loan_debt_rank": 546,
-  "indicator_group": 5
+  "grad_rate": 54.8,
+  "grad_rate_rank": 1810,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4595,
+  "avg_stu_loan_debt_rank": 186,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65301",
+  "email": false
 }

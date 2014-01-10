@@ -1,6 +1,6 @@
 {
   "facility_code": "25545405",
-  "institution": "BELLUS ACADEMY--POWAY CAMPUS",
+  "institution": "Bellus Academy--Poway Campus",
   "city": "Poway",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 377722,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 624,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 9786,
-  "avg_stu_loan_debt_rank": 2120,
-  "indicator_group": 5
+  "grad_rate": 78.6,
+  "grad_rate_rank": 720,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 9261,
+  "avg_stu_loan_debt_rank": 1027,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92064",
+  "email": false
 }

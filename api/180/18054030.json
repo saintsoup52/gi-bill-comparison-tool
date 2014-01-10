@@ -1,6 +1,6 @@
 {
   "facility_code": "18054030",
-  "institution": "WARREN COUNTY VOCATIONAL AND TECHNICAL SCHOOL",
+  "institution": "Warren County Vocational And Technical School",
   "city": "Washington",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7882",
+  "email": true
 }

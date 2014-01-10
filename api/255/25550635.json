@@ -1,6 +1,6 @@
 {
   "facility_code": "25550635",
-  "institution": "INTERNATIONAL ACADEMY OF HAIR DESIGN",
+  "institution": "International Academy Of Hair Design",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 407470,
-  "grad_rate": 82.6,
-  "grad_rate_rank": 516,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 8250,
-  "avg_stu_loan_debt_rank": 1432,
-  "indicator_group": 5
+  "grad_rate": 94.4,
+  "grad_rate_rank": 161,
+  "default_rate": 6.5,
+  "avg_stu_loan_debt": 8114,
+  "avg_stu_loan_debt_rank": 845,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45239",
+  "email": false
 }

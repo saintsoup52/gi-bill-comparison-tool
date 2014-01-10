@@ -1,6 +1,6 @@
 {
   "facility_code": "14918443",
-  "institution": "VICTORIA COLLEGE",
+  "institution": "Victoria College",
   "city": "Victoria",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 190,
   "cross": 229540,
-  "grad_rate": 13.4,
-  "grad_rate_rank": 1087,
-  "default_rate": 21.2,
-  "avg_stu_loan_debt": 9334,
-  "avg_stu_loan_debt_rank": 745,
-  "indicator_group": 2
+  "grad_rate": 13.1,
+  "grad_rate_rank": 1195,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 9126,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "77901",
+  "email": false
 }

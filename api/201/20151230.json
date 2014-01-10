@@ -1,6 +1,6 @@
 {
   "facility_code": "20151230",
-  "institution": "STEAMFITTERS PIPEFITTERS AND APPRENTICES LU 475",
+  "institution": "Steamfitters Pipefitters And Apprentices Lu 475",
   "city": "Warren",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7059",
+  "email": false
 }

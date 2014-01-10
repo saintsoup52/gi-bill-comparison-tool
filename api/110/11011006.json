@@ -1,6 +1,6 @@
 {
   "facility_code": "11011006",
-  "institution": "COLORADO STATE UNIVERSITY - FT COLLINS",
+  "institution": "Colorado State University - Ft Collins",
   "city": "Fort Collins",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1027,
   "cross": 126818,
-  "grad_rate": 63.5,
-  "grad_rate_rank": 462,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 19597,
-  "avg_stu_loan_debt_rank": 1329,
-  "indicator_group": 1
+  "grad_rate": 62.8,
+  "grad_rate_rank": 493,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 19937,
+  "avg_stu_loan_debt_rank": 1174,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80523",
+  "email": true
 }

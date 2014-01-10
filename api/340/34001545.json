@@ -1,6 +1,6 @@
 {
   "facility_code": "34001545",
-  "institution": "SOUTHERN VERMONT COLLEGE",
+  "institution": "Southern Vermont College",
   "city": "Bennington",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 231086,
-  "grad_rate": 19.1,
-  "grad_rate_rank": 1681,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 20695,
-  "avg_stu_loan_debt_rank": 1504,
-  "indicator_group": 1
+  "grad_rate": 35.3,
+  "grad_rate_rank": 1380,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5201",
+  "email": true
 }

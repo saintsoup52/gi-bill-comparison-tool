@@ -1,6 +1,6 @@
 {
   "facility_code": "25016430",
-  "institution": "THE CENTER FOR ALLIED HEALTH AND NURSING EDUCATION",
+  "institution": "The Center For Allied Health And Nursing Education",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 455196,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 12743,
-  "avg_stu_loan_debt_rank": 732,
-  "indicator_group": 3
+  "grad_rate": 64.2,
+  "grad_rate_rank": 248,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 640,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "7601",
+  "email": true
 }

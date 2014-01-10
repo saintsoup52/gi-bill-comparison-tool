@@ -1,6 +1,6 @@
 {
   "facility_code": "20C15143",
-  "institution": "FOREST PARK EAST",
+  "institution": "Forest Park East",
   "city": "Webster",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77598",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25041643",
-  "institution": "TX BARBER AND HAIRSTYLING SCH # 1",
+  "institution": "Tx Barber And Hairstyling Sch # 1",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75246",
+  "email": false
 }

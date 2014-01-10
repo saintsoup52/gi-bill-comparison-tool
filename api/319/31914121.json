@@ -1,6 +1,6 @@
 {
   "facility_code": "31914121",
-  "institution": "NEW ENGLAND CONSERVATORY OF MUSIC",
+  "institution": "New England Conservatory Of Music",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 167057,
-  "grad_rate": 77.0,
-  "grad_rate_rank": 196,
-  "default_rate": 1.2,
-  "avg_stu_loan_debt": 26435,
-  "avg_stu_loan_debt_rank": 2012,
-  "indicator_group": 1
+  "grad_rate": 82.7,
+  "grad_rate_rank": 124,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 28177,
+  "avg_stu_loan_debt_rank": 1917,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2115",
+  "email": true
 }

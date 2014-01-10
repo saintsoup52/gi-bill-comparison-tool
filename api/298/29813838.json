@@ -1,6 +1,6 @@
 {
   "facility_code": "29813838",
-  "institution": "REMED BRAIN INJURY REHABILITATION CENTER-PGH DIVISION",
+  "institution": "Remed Brain Injury Rehabilitation Center-Pgh Division",
   "city": "Paoli",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19301",
+  "email": false
 }

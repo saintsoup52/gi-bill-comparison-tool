@@ -1,6 +1,6 @@
 {
   "facility_code": "28615535",
-  "institution": "E AND J SWIGART COMPANY (31)",
+  "institution": "E And J Swigart Company (31)",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45202",
+  "email": "No (SCO)"
 }

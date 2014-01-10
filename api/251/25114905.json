@@ -1,6 +1,6 @@
 {
   "facility_code": "25114905",
-  "institution": "UNIVERSAL TECHNICAL INSTITUTE (RANCHO CUCAMONGA)",
+  "institution": "Universal Technical Institute (Rancho Cucamonga)",
   "city": "Rancho Cucamonga",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 449,
   "cross": 438504,
-  "grad_rate": 60.8,
-  "grad_rate_rank": 1555,
-  "default_rate": 14.3,
+  "grad_rate": 56.8,
+  "grad_rate_rank": 1742,
+  "default_rate": 18.9,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91730",
+  "email": false
 }

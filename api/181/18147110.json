@@ -1,6 +1,6 @@
 {
   "facility_code": "18147110",
-  "institution": "RIDGE CAREER CENTER",
+  "institution": "Ridge Career Center",
   "city": "Winter Haven",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 136765,
-  "grad_rate": 82.9,
-  "grad_rate_rank": 508,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 91.4,
+  "grad_rate_rank": 235,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33881",
+  "email": true
 }

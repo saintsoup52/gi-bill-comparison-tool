@@ -1,6 +1,6 @@
 {
   "facility_code": "29032106",
-  "institution": "BARNETT BICYCLE INSTITUTE",
+  "institution": "Barnett Bicycle Institute",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80904",
+  "email": false
 }

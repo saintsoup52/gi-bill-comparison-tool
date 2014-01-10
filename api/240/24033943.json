@@ -1,6 +1,6 @@
 {
   "facility_code": "24033943",
-  "institution": "VIRGINIA COLLEGE AT AUSTIN",
+  "institution": "Virginia College At Austin",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 91,
   "cross": 441928,
-  "grad_rate": 36.6,
-  "grad_rate_rank": 280,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 737,
-  "indicator_group": 3
+  "grad_rate": 43.2,
+  "grad_rate_rank": 438,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 12207,
+  "avg_stu_loan_debt_rank": 593,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "78723",
+  "email": false
 }

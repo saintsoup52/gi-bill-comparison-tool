@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13910",
-  "institution": "DEPARTMENT OF THE INTERIOR - NATIONAL PARK SERVICE GULF ISLAND NATIONAL SEASHORE",
+  "institution": "Department Of The Interior - National Park Service Gulf Island National Seashore",
   "city": "Gulf Breeze",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32563",
+  "email": true
 }

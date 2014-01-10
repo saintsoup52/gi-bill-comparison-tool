@@ -1,6 +1,6 @@
 {
   "facility_code": "15560325",
-  "institution": "COLUMBIA AREA VO/TECH SCHOOL & HEALTH OCCUPATION CENTER",
+  "institution": "Columbia Area Vo/Tech School & Health Occupation Center",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 177056,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 17.6,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 62.5,
+  "grad_rate_rank": 1533,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4400,
+  "avg_stu_loan_debt_rank": 171,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65203",
+  "email": false
 }

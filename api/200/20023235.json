@@ -1,6 +1,6 @@
 {
   "facility_code": "20023235",
-  "institution": "FORD MOTOR CO-CLEVELAND MANUFACTURING SITE (K)",
+  "institution": "Ford Motor Co-Cleveland Manufacturing Site (K)",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44142",
+  "email": false
 }

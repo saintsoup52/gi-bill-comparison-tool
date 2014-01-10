@@ -1,6 +1,6 @@
 {
   "facility_code": "24956538",
-  "institution": "CAMBRIA ROWE BUSINESS COLLEGE-INDIANA",
+  "institution": "Cambria Rowe Business College-Indiana",
   "city": "Indiana",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 428329,
-  "grad_rate": 59.0,
-  "grad_rate_rank": 144,
-  "default_rate": 22.6,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 967,
-  "indicator_group": 2
+  "grad_rate": 53.8,
+  "grad_rate_rank": 231,
+  "default_rate": 21.1,
+  "avg_stu_loan_debt": 10643,
+  "avg_stu_loan_debt_rank": 768,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15701",
+  "email": true
 }

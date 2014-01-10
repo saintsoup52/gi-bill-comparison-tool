@@ -1,6 +1,6 @@
 {
   "facility_code": "24914048",
-  "institution": "WEST VIRGINIA JUNIOR COLLEGE AT MORGANTOWN",
+  "institution": "West Virginia Junior College At Morgantown",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 237996,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 146,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 8361,
-  "avg_stu_loan_debt_rank": 674,
-  "indicator_group": 2
+  "grad_rate": 67.1,
+  "grad_rate_rank": 115,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 9741,
+  "avg_stu_loan_debt_rank": 727,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "26505",
+  "email": false
 }

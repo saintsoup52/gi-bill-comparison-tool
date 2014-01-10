@@ -1,6 +1,6 @@
 {
   "facility_code": "119G2143",
-  "institution": "UNIVERSITY OF TEXAS AT SAN ANTONIO",
+  "institution": "University Of Texas At San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2268,
   "cross": 229027,
-  "grad_rate": 27.2,
-  "grad_rate_rank": 1550,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 16166,
-  "avg_stu_loan_debt_rank": 858,
-  "indicator_group": 1
+  "grad_rate": 28.3,
+  "grad_rate_rank": 1575,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 15750,
+  "avg_stu_loan_debt_rank": 599,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78249",
+  "email": false
 }

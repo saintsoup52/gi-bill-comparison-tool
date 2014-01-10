@@ -1,6 +1,6 @@
 {
   "facility_code": "11801505",
-  "institution": "UNIVERSITY OF CALIFORNIA LOS ANGELES EXTENSION",
+  "institution": "University Of California Los Angeles Extension",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 90,
   "cross": 110662,
-  "grad_rate": 90.0,
-  "grad_rate_rank": 64,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 16495,
-  "avg_stu_loan_debt_rank": 883,
-  "indicator_group": 1
+  "grad_rate": 91.5,
+  "grad_rate_rank": 48,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 16916,
+  "avg_stu_loan_debt_rank": 792,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90024",
+  "email": true
 }

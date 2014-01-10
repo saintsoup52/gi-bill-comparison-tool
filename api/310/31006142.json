@@ -1,6 +1,6 @@
 {
   "facility_code": "31006142",
-  "institution": "EMMANUEL CHRISTIAN SEMINARY D/B/A EMMANUEL SCHOOL OF RELIGION",
+  "institution": "Emmanuel Christian Seminary D/B/A Emmanuel School Of Religion",
   "city": "Johnson City",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 220136,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "37601",
+  "email": true
 }

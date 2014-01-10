@@ -1,6 +1,6 @@
 {
   "facility_code": "25548925",
-  "institution": "COSMETOLOGY CONCEPTS INSTITUTE",
+  "institution": "Cosmetology Concepts Institute",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 177685,
-  "grad_rate": 67.3,
-  "grad_rate_rank": 1279,
-  "default_rate": 22.2,
-  "avg_stu_loan_debt": 8662,
-  "avg_stu_loan_debt_rank": 1513,
-  "indicator_group": 5
+  "grad_rate": 74.4,
+  "grad_rate_rank": 958,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 9666,
+  "avg_stu_loan_debt_rank": 1473,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65202",
+  "email": false
 }

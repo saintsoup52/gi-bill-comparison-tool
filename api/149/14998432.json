@@ -1,6 +1,6 @@
 {
   "facility_code": "14998432",
-  "institution": "FULTON MONTGOMERY COMMUNITY COLLEGE",
+  "institution": "Fulton Montgomery Community College",
   "city": "Johnstown",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 191302,
-  "grad_rate": 31.2,
-  "grad_rate_rank": 497,
-  "default_rate": 24.8,
-  "avg_stu_loan_debt": 7200,
-  "avg_stu_loan_debt_rank": 581,
-  "indicator_group": 2
+  "grad_rate": 28.0,
+  "grad_rate_rank": 691,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 8367,
+  "avg_stu_loan_debt_rank": 575,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12095",
+  "email": true
 }

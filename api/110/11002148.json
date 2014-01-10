@@ -1,6 +1,6 @@
 {
   "facility_code": "11002148",
-  "institution": "GLENVILLE STATE COLLEGE",
+  "institution": "Glenville State College",
   "city": "Glenville",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 237385,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 1475,
-  "default_rate": 14.6,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 548,
-  "indicator_group": 1
+  "grad_rate": 29.8,
+  "grad_rate_rank": 1540,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 11819,
+  "avg_stu_loan_debt_rank": 270,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26351",
+  "email": true
 }

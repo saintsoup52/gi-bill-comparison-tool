@@ -1,6 +1,6 @@
 {
   "facility_code": "14810225",
-  "institution": "STATE FAIR COMMUNITY COLLEGE - WHITEMAN AFB",
+  "institution": "State Fair Community College - Whiteman Afb",
   "city": "Whiteman Afb",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 78,
   "cross": 179539,
-  "grad_rate": 20.7,
-  "grad_rate_rank": 838,
-  "default_rate": 19.9,
-  "avg_stu_loan_debt": 5748,
-  "avg_stu_loan_debt_rank": 413,
-  "indicator_group": 2
+  "grad_rate": 21.6,
+  "grad_rate_rank": 892,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 6491,
+  "avg_stu_loan_debt_rank": 384,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "65305",
+  "email": true
 }

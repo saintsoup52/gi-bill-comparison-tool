@@ -1,6 +1,6 @@
 {
   "facility_code": "31002203",
-  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV PRESCOTT",
+  "institution": "Embry-Riddle Aeronautical Univ Prescott",
   "city": "Prescott",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 275,
   "cross": 104586,
-  "grad_rate": 56.7,
-  "grad_rate_rank": 657,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 20487,
-  "avg_stu_loan_debt_rank": 1473,
-  "indicator_group": 1
+  "grad_rate": 55.1,
+  "grad_rate_rank": 734,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 20057,
+  "avg_stu_loan_debt_rank": 1206,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "86301",
+  "email": true
 }

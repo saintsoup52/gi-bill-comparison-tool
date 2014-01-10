@@ -1,6 +1,6 @@
 {
   "facility_code": "25084643",
-  "institution": "VOGUE COLLEGE  MCALLEN",
+  "institution": "Vogue College  Mcallen",
   "city": "Mcallen",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 229656,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 59.4,
+  "grad_rate_rank": 1654,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3717,
+  "avg_stu_loan_debt_rank": 132,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78501",
+  "email": false
 }

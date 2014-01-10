@@ -1,6 +1,6 @@
 {
   "facility_code": "14001816",
-  "institution": "SALINA AREA TECHNICAL COLLEGE",
+  "institution": "Salina Area Technical College",
   "city": "Salina",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 155830,
-  "grad_rate": 64.8,
-  "grad_rate_rank": 101,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 4616,
-  "avg_stu_loan_debt_rank": 158,
-  "indicator_group": 3
+  "grad_rate": 61.0,
+  "grad_rate_rank": 283,
+  "default_rate": 22.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "67401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31901102",
-  "institution": "ALASKA PACIFIC UNIVERSITY",
+  "institution": "Alaska Pacific University",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 61,
   "cross": 102669,
-  "grad_rate": 46.2,
-  "grad_rate_rank": 1018,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 22375,
-  "avg_stu_loan_debt_rank": 1687,
-  "indicator_group": 1
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1157,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99508",
+  "email": true
 }

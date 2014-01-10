@@ -1,6 +1,6 @@
 {
   "facility_code": "25039501",
-  "institution": "CARDIAC VASCULAR INSTITUTE OF ULTRASOUND INC.",
+  "institution": "Cardiac Vascular Institute Of Ultrasound Inc.",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 455707,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 18598,
-  "avg_stu_loan_debt_rank": 2525,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1976,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "36606",
+  "email": true
 }

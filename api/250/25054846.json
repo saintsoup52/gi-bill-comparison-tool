@@ -1,6 +1,6 @@
 {
   "facility_code": "25054846",
-  "institution": "DOMINION SCHOOL OF HAIR DESIGN",
+  "institution": "Dominion School Of Hair Design",
   "city": "Gloucester Point",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 451617,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 578,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1951,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23062",
+  "email": false
 }

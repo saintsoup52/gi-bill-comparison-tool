@@ -1,6 +1,6 @@
 {
   "facility_code": "13945332",
-  "institution": "SUNY COLLEGE AT PLATTSBURGH",
+  "institution": "Suny College At Plattsburgh",
   "city": "Plattsburgh",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 150,
   "cross": 196246,
-  "grad_rate": 58.9,
-  "grad_rate_rank": 597,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 17548,
-  "avg_stu_loan_debt_rank": 1037,
-  "indicator_group": 1
+  "grad_rate": 60.5,
+  "grad_rate_rank": 551,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 18202,
+  "avg_stu_loan_debt_rank": 943,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12901",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15441247",
-  "institution": "SHORECREST HIGH SCHOOL",
+  "institution": "Shorecrest High School",
   "city": "Shoreline",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98155",
+  "email": false
 }

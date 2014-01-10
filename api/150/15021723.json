@@ -1,6 +1,6 @@
 {
   "facility_code": "15021723",
-  "institution": "SCHOOL OF ENVIRONMENTAL  STUDIES",
+  "institution": "School Of Environmental  Studies",
   "city": "Apple Valley",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 174817,
-  "grad_rate": 62.4,
-  "grad_rate_rank": 505,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 17125,
-  "avg_stu_loan_debt_rank": 965,
-  "indicator_group": 1
+  "grad_rate": 61.5,
+  "grad_rate_rank": 529,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55124",
+  "email": false
 }

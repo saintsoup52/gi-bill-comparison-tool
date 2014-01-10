@@ -1,6 +1,6 @@
 {
   "facility_code": "24970413",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN & TECHNOLOGY",
+  "institution": "International Academy Of Design & Technology",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 146010,
-  "grad_rate": 18.1,
-  "grad_rate_rank": 1695,
-  "default_rate": 28.6,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 15.8,
+  "grad_rate_rank": 1769,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 21331,
+  "avg_stu_loan_debt_rank": 1347,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60602",
+  "email": true
 }

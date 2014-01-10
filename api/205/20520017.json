@@ -1,6 +1,6 @@
 {
   "facility_code": "20520017",
-  "institution": "INDEPENDENT ELECTRICAL CONTRACTORS OF KENTUCKY AND SOUTHERN INDIANA",
+  "institution": "Independent Electrical Contractors Of Kentucky And Southern Indiana",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40299",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21001549",
-  "institution": "BRYANT & STRATTON COLLEGE - WAUWATOSA",
+  "institution": "Bryant & Stratton College - Wauwatosa",
   "city": "Wauwatosa",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 451750,
-  "grad_rate": 38.8,
-  "grad_rate_rank": 352,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 916,
-  "indicator_group": 2
+  "grad_rate": 17.4,
+  "grad_rate_rank": 1030,
+  "default_rate": 30.3,
+  "avg_stu_loan_debt": 11027,
+  "avg_stu_loan_debt_rank": 783,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "53226",
+  "email": true
 }

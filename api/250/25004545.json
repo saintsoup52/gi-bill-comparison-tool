@@ -1,6 +1,6 @@
 {
   "facility_code": "25004545",
-  "institution": "ADVANCED WELDING INSTITUTE",
+  "institution": "Advanced Welding Institute",
   "city": "S. Burlington",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 456001,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9612,
-  "avg_stu_loan_debt_rank": 2097,
-  "indicator_group": 5
+  "grad_rate": 91.7,
+  "grad_rate_rank": 224,
+  "default_rate": 30.7,
+  "avg_stu_loan_debt": 8769,
+  "avg_stu_loan_debt_rank": 949,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "5403",
+  "email": false
 }

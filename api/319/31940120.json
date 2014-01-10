@@ -1,6 +1,6 @@
 {
   "facility_code": "31940120",
-  "institution": "HOOD COLLEGE",
+  "institution": "Hood College",
   "city": "Frederick",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 93,
   "cross": 162760,
-  "grad_rate": 68.2,
-  "grad_rate_rank": 344,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 60.1,
+  "grad_rate_rank": 564,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 22850,
+  "avg_stu_loan_debt_rank": 1507,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21701",
+  "email": true
 }

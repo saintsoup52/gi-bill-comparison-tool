@@ -1,6 +1,6 @@
 {
   "facility_code": "25006141",
-  "institution": "THE POWER HOUSE",
+  "institution": "The Power House",
   "city": "Rapid City",
   "state": "SD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "57702",
+  "email": "No (SCO)"
 }

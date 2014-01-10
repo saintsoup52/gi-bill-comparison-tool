@@ -1,6 +1,6 @@
 {
   "facility_code": "20004035",
-  "institution": "ASBESTOS WORKERS JATC LOCAL #8   K",
+  "institution": "Asbestos Workers Jatc Local #8   K",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45227",
+  "email": false
 }

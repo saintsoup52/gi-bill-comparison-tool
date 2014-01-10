@@ -1,6 +1,6 @@
 {
   "facility_code": "11104805",
-  "institution": "SAN DIEGO STATE UNIVERSITY COLLEGE OF EXTENDED STUDIES",
+  "institution": "San Diego State University College Of Extended Studies",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 122409,
-  "grad_rate": 65.6,
-  "grad_rate_rank": 414,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 15598,
-  "avg_stu_loan_debt_rank": 797,
-  "indicator_group": 1
+  "grad_rate": 66.0,
+  "grad_rate_rank": 407,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 14998,
+  "avg_stu_loan_debt_rank": 520,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92182",
+  "email": true
 }

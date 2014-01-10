@@ -1,6 +1,6 @@
 {
   "facility_code": "28005738",
-  "institution": "FAYETTE INSTITUTE OF COMMERCE AND TECHNOLOGY",
+  "institution": "Fayette Institute Of Commerce And Technology",
   "city": "Uniontown",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15401",
+  "email": false
 }

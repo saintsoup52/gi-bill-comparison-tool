@@ -1,6 +1,6 @@
 {
   "facility_code": "15625332",
-  "institution": "GEORGE F BAKER HIGH SCHOOL",
+  "institution": "George F Baker High School",
   "city": "Tuxedo",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10987",
+  "email": false
 }

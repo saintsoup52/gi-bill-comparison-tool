@@ -1,6 +1,6 @@
 {
   "facility_code": "31000126",
-  "institution": "WALLA WALLA UNIVERSITY - MISSOULA",
+  "institution": "Walla Walla University - Missoula",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 236896,
-  "grad_rate": 48.8,
-  "grad_rate_rank": 932,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 21217,
-  "avg_stu_loan_debt_rank": 1563,
-  "indicator_group": 1
+  "grad_rate": 50.2,
+  "grad_rate_rank": 889,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59802",
+  "email": true
 }

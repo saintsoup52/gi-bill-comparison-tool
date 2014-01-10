@@ -1,6 +1,6 @@
 {
   "facility_code": "24926506",
-  "institution": "PIMA MEDICAL INSTITUTE - SOUTH DENVER",
+  "institution": "Pima Medical Institute - South Denver",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461689,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 9188,
-  "avg_stu_loan_debt_rank": 1596,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9240,
+  "avg_stu_loan_debt_rank": 1025,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80012",
+  "email": true
 }

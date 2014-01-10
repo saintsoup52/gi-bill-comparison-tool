@@ -1,6 +1,6 @@
 {
   "facility_code": "25089212",
-  "institution": "D & L ACADEMY OF HAIR DESIGN INC",
+  "institution": "D & L Academy Of Hair Design Inc",
   "city": "Twin Falls",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 457493,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 301,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 1574,
-  "indicator_group": 5
+  "grad_rate": 73.3,
+  "grad_rate_rank": 1015,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 13475,
+  "avg_stu_loan_debt_rank": 1858,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "83303",
+  "email": true
 }

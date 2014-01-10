@@ -1,6 +1,6 @@
 {
   "facility_code": "32837432",
-  "institution": "UNION COMMUNITY CENTER C/O ST. BARNABAS HOSPITAL",
+  "institution": "Union Community Center C/O St. Barnabas Hospital",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10457",
+  "email": false
 }

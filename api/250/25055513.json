@@ -1,6 +1,6 @@
 {
   "facility_code": "25055513",
-  "institution": "MR. JOHN'S SCHOOL OF COSMETOLOGY",
+  "institution": "Mr. John'S School Of Cosmetology",
   "city": "Jacksonville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 443173,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 2129,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9779,
-  "avg_stu_loan_debt_rank": 2119,
-  "indicator_group": 5
+  "grad_rate": 45.2,
+  "grad_rate_rank": 2031,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 12700,
+  "avg_stu_loan_debt_rank": 1825,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62650",
+  "email": false
 }

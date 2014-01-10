@@ -1,6 +1,6 @@
 {
   "facility_code": "21008242",
-  "institution": "DAYMAR INSTITUTE - NASHVILLE",
+  "institution": "Daymar Institute - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 220002,
-  "grad_rate": 40.1,
-  "grad_rate_rank": 325,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 12634,
-  "avg_stu_loan_debt_rank": 1011,
-  "indicator_group": 2
+  "grad_rate": 38.0,
+  "grad_rate_rank": 443,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 13566,
+  "avg_stu_loan_debt_rank": 927,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37217",
+  "email": true
 }

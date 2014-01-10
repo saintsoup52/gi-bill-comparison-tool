@@ -1,6 +1,6 @@
 {
   "facility_code": "31947440",
-  "institution": "MORRIS COLLEGE",
+  "institution": "Morris College",
   "city": "Sumter",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 52,
   "cross": 218399,
-  "grad_rate": 32.9,
-  "grad_rate_rank": 1425,
-  "default_rate": 27.5,
-  "avg_stu_loan_debt": 12150,
-  "avg_stu_loan_debt_rank": 467,
-  "indicator_group": 1
+  "grad_rate": 31.3,
+  "grad_rate_rank": 1498,
+  "default_rate": 28.8,
+  "avg_stu_loan_debt": 11687,
+  "avg_stu_loan_debt_rank": 265,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29150",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10008135",
-  "institution": "NASA LEWIS RESEARCH CENTER G K",
+  "institution": "Nasa Lewis Research Center G K",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44135",
+  "email": false
 }

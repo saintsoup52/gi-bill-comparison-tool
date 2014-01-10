@@ -1,6 +1,6 @@
 {
   "facility_code": "31011233",
-  "institution": "WINGATE UNIVERSITY",
+  "institution": "Wingate University",
   "city": "Wingate",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 199962,
-  "grad_rate": 52.8,
-  "grad_rate_rank": 779,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 18900,
-  "avg_stu_loan_debt_rank": 1217,
-  "indicator_group": 1
+  "grad_rate": 44.9,
+  "grad_rate_rank": 1069,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 17580,
+  "avg_stu_loan_debt_rank": 871,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28174",
+  "email": true
 }

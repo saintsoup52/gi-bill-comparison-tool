@@ -1,6 +1,6 @@
 {
   "facility_code": "20A10611",
-  "institution": "F. S. INC.                           (CH 31 ONLY)",
+  "institution": "F. S. Inc.                           (Ch 31 Only)",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31901",
+  "email": false
 }

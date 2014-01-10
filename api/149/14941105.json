@@ -1,6 +1,6 @@
 {
   "facility_code": "14941105",
-  "institution": "COLLEGE OF THE SISKIYOUS",
+  "institution": "College Of The Siskiyous",
   "city": "Weed",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 46,
   "cross": 123484,
-  "grad_rate": 15.6,
-  "grad_rate_rank": 1008,
-  "default_rate": 27.1,
-  "avg_stu_loan_debt": 9320,
-  "avg_stu_loan_debt_rank": 742,
-  "indicator_group": 2
+  "grad_rate": 25.4,
+  "grad_rate_rank": 771,
+  "default_rate": 27.7,
+  "avg_stu_loan_debt": 9750,
+  "avg_stu_loan_debt_rank": 729,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "96094",
+  "email": false
 }

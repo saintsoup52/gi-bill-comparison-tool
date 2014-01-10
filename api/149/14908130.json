@@ -1,6 +1,6 @@
 {
   "facility_code": "14908130",
-  "institution": "OCEAN COUNTY COLLEGE",
+  "institution": "Ocean County College",
   "city": "Toms River",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 322,
   "cross": 185873,
-  "grad_rate": 31.8,
-  "grad_rate_rank": 483,
-  "default_rate": 19.9,
-  "avg_stu_loan_debt": 7750,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 2
+  "grad_rate": 30.1,
+  "grad_rate_rank": 636,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": 7700,
+  "avg_stu_loan_debt_rank": 527,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "8754",
+  "email": true
 }

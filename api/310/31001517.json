@@ -1,6 +1,6 @@
 {
   "facility_code": "31001517",
-  "institution": "BELLARMINE UNIVERSITY",
+  "institution": "Bellarmine University",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 156286,
-  "grad_rate": 66.4,
-  "grad_rate_rank": 398,
+  "grad_rate": 61.8,
+  "grad_rate_rank": 519,
   "default_rate": 5.6,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40205",
+  "email": false
 }

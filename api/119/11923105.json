@@ -1,6 +1,6 @@
 {
   "facility_code": "11923105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-DOMINGUEZ HILLS",
+  "institution": "California State University-Dominguez Hills",
   "city": "Carson",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 289,
   "cross": 110547,
-  "grad_rate": 24.4,
-  "grad_rate_rank": 1602,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 27.6,
+  "grad_rate_rank": 1582,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90747",
+  "email": true
 }

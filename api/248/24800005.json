@@ -1,6 +1,6 @@
 {
   "facility_code": "24800005",
-  "institution": "PLATT COLLEGE (ONTARIO)",
+  "institution": "Platt College (Ontario)",
   "city": "Ontario",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 53,
   "cross": 432384,
-  "grad_rate": 58.4,
-  "grad_rate_rank": 150,
-  "default_rate": 23.0,
-  "avg_stu_loan_debt": 18142,
-  "avg_stu_loan_debt_rank": 1365,
-  "indicator_group": 2
+  "grad_rate": 47.3,
+  "grad_rate_rank": 299,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 18362,
+  "avg_stu_loan_debt_rank": 1135,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91764",
+  "email": true
 }

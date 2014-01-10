@@ -1,6 +1,6 @@
 {
   "facility_code": "25077236",
-  "institution": "IMAGINE PAUL MITCHELL PARTNER SCHOOL",
+  "institution": "Imagine Paul Mitchell Partner School",
   "city": "Norman",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 106908,
-  "grad_rate": 54.9,
-  "grad_rate_rank": 1784,
-  "default_rate": 25.8,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 5
+  "grad_rate": 53.8,
+  "grad_rate_rank": 1844,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73072",
+  "email": false
 }

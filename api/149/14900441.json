@@ -1,6 +1,6 @@
 {
   "facility_code": "14900441",
-  "institution": "SOUTHEAST TECHNICAL INSTITUTE",
+  "institution": "Southeast Technical Institute",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 210,
   "cross": 219426,
-  "grad_rate": 33.8,
-  "grad_rate_rank": 443,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 38.3,
+  "grad_rate_rank": 437,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 738,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "57107",
+  "email": false
 }

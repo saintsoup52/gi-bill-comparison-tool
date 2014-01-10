@@ -1,6 +1,6 @@
 {
   "facility_code": "24800332",
-  "institution": "SBI CAMPUS-AN AFFILIATE OF SANFORD-BROWN",
+  "institution": "Sbi Campus-An Affiliate Of Sanford-Brown",
   "city": "Melville",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 192156,
-  "grad_rate": 56.5,
-  "grad_rate_rank": 162,
-  "default_rate": 26.6,
-  "avg_stu_loan_debt": 10831,
-  "avg_stu_loan_debt_rank": 900,
-  "indicator_group": 2
+  "grad_rate": 48.4,
+  "grad_rate_rank": 281,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 8999,
+  "avg_stu_loan_debt_rank": 620,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "11747",
+  "email": true
 }

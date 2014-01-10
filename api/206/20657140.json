@@ -1,6 +1,6 @@
 {
   "facility_code": "20657140",
-  "institution": "SANTEE COOPER - DISTRIBUTION TECHNICAL OPERATIONS (MYRTLE BEACH)",
+  "institution": "Santee Cooper - Distribution Technical Operations (Myrtle Beach)",
   "city": "Myrtle Beach",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29577",
+  "email": true
 }

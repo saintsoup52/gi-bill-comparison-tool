@@ -1,6 +1,6 @@
 {
   "facility_code": "21802340",
-  "institution": "VIRGINIA COLLEGE GREENVILLE",
+  "institution": "Virginia College Greenville",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 454625,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 737,
-  "indicator_group": 3
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 12207,
+  "avg_stu_loan_debt_rank": 593,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "29607",
+  "email": true
 }

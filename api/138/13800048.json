@@ -1,6 +1,6 @@
 {
   "facility_code": "13800048",
-  "institution": "WEST LIBERTY UNIVERSITY",
+  "institution": "West Liberty University",
   "city": "West Liberty",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 55,
   "cross": 237932,
-  "grad_rate": 46.0,
-  "grad_rate_rank": 1025,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 16964,
-  "avg_stu_loan_debt_rank": 946,
-  "indicator_group": 1
+  "grad_rate": 40.5,
+  "grad_rate_rank": 1232,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 17147,
+  "avg_stu_loan_debt_rank": 813,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26074",
+  "email": true
 }

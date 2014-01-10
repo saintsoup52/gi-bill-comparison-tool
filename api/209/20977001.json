@@ -1,6 +1,6 @@
 {
   "facility_code": "20977001",
-  "institution": "(CHAPTER 31)DAVIS BODY SHOP",
+  "institution": "(Chapter 31)Davis Body Shop",
   "city": "Alex City",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35010",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25014320",
-  "institution": "BALTIMORE SCHOOL OF MASSAGE",
+  "institution": "Baltimore School Of Massage",
   "city": "Linthicum",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 434308,
-  "grad_rate": 72.1,
-  "grad_rate_rank": 1075,
-  "default_rate": 22.6,
-  "avg_stu_loan_debt": 7887,
-  "avg_stu_loan_debt_rank": 1321,
-  "indicator_group": 5
+  "grad_rate": 61.0,
+  "grad_rate_rank": 1598,
+  "default_rate": 22.3,
+  "avg_stu_loan_debt": 8107,
+  "avg_stu_loan_debt_rank": 841,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21090",
+  "email": true
 }

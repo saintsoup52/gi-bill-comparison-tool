@@ -1,6 +1,6 @@
 {
   "facility_code": "25025123",
-  "institution": "EVEREST INSTITUTE",
+  "institution": "Everest Institute",
   "city": "Eagan",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 445382,
-  "grad_rate": 52.0,
-  "grad_rate_rank": 1870,
-  "default_rate": 29.5,
+  "grad_rate": 52.9,
+  "grad_rate_rank": 1866,
+  "default_rate": 19.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55121",
+  "email": true
 }

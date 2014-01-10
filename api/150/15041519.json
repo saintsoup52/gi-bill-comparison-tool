@@ -1,6 +1,6 @@
 {
   "facility_code": "15041519",
-  "institution": "CALAIS HIGH SCHOOL",
+  "institution": "Calais High School",
   "city": "Calais",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4619",
+  "email": false
 }

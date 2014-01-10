@@ -1,6 +1,6 @@
 {
   "facility_code": "31902111",
-  "institution": "ERSKINE THEOLOGICAL SEMINARY",
+  "institution": "Erskine Theological Seminary",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 217998,
-  "grad_rate": 54.7,
-  "grad_rate_rank": 721,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 64.6,
+  "grad_rate_rank": 443,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 13074,
+  "avg_stu_loan_debt_rank": 375,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30901",
+  "email": false
 }

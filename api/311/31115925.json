@@ -1,6 +1,6 @@
 {
   "facility_code": "31115925",
-  "institution": "CENTRAL CHRISTIAN COLLEGE OF THE BIBLE",
+  "institution": "Central Christian College Of The Bible",
   "city": "Moberly",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 176910,
-  "grad_rate": 31.9,
-  "grad_rate_rank": 1451,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 12986,
-  "avg_stu_loan_debt_rank": 547,
-  "indicator_group": 1
+  "grad_rate": 25.4,
+  "grad_rate_rank": 1623,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 11500,
+  "avg_stu_loan_debt_rank": 256,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65270",
+  "email": false
 }

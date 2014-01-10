@@ -1,6 +1,6 @@
 {
   "facility_code": "31033613",
-  "institution": "JUDSON UNIVERSITY",
+  "institution": "Judson University",
   "city": "Elgin",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 146339,
-  "grad_rate": 48.6,
-  "grad_rate_rank": 936,
-  "default_rate": 5.4,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60123",
+  "email": true
 }

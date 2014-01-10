@@ -1,6 +1,6 @@
 {
   "facility_code": "31001319",
-  "institution": "UNIVERSITY OF NEW ENGLAND - COLLEGE OF OSTEOPATHY",
+  "institution": "University Of New England - College Of Osteopathy",
   "city": "Biddeford",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 161457,
-  "grad_rate": 56.8,
-  "grad_rate_rank": 653,
-  "default_rate": 3.3,
-  "avg_stu_loan_debt": 23831,
-  "avg_stu_loan_debt_rank": 1845,
-  "indicator_group": 1
+  "grad_rate": 57.8,
+  "grad_rate_rank": 636,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 24250,
+  "avg_stu_loan_debt_rank": 1660,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4005",
+  "email": false
 }

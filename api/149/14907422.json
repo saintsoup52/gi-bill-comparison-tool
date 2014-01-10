@@ -1,6 +1,6 @@
 {
   "facility_code": "14907422",
-  "institution": "HENRY FORD COMMUNITY COLLEGE",
+  "institution": "Henry Ford Community College",
   "city": "Dearborn",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 300,
   "cross": 170240,
-  "grad_rate": 9.4,
-  "grad_rate_rank": 1215,
-  "default_rate": 16.9,
-  "avg_stu_loan_debt": 7888,
-  "avg_stu_loan_debt_rank": 634,
-  "indicator_group": 2
+  "grad_rate": 6.7,
+  "grad_rate_rank": 1360,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 7506,
+  "avg_stu_loan_debt_rank": 515,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48128",
+  "email": true
 }

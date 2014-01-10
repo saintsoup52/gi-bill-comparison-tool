@@ -1,6 +1,6 @@
 {
   "facility_code": "11955110",
-  "institution": "UNIVERSITY OF CENTRAL FLORIDA",
+  "institution": "University Of Central Florida",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1844,
   "cross": 132903,
-  "grad_rate": 62.7,
-  "grad_rate_rank": 496,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 14032,
-  "avg_stu_loan_debt_rank": 644,
-  "indicator_group": 1
+  "grad_rate": 65.0,
+  "grad_rate_rank": 434,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 14325,
+  "avg_stu_loan_debt_rank": 473,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32816",
+  "email": true
 }

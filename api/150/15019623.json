@@ -1,6 +1,6 @@
 {
   "facility_code": "15019623",
-  "institution": "NORTHFIELD HIGH SCHOOL",
+  "institution": "Northfield High School",
   "city": "Northfield",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55057",
+  "email": false
 }

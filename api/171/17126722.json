@@ -1,6 +1,6 @@
 {
   "facility_code": "17126722",
-  "institution": "TECUMSEH PUBLIC SCHOOLS COMMUNITY  ADULT EDUCATION",
+  "institution": "Tecumseh Public Schools Community  Adult Education",
   "city": "Tecumseh",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49286",
+  "email": false
 }

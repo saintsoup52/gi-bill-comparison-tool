@@ -1,6 +1,6 @@
 {
   "facility_code": "32930146",
-  "institution": "BON SECOURS MEMORIAL COLLEGE OF NURSING",
+  "institution": "Bon Secours Memorial College Of Nursing",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 233356,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 21896,
-  "avg_stu_loan_debt_rank": 832,
-  "indicator_group": 3
+  "grad_rate": 0.0,
+  "grad_rate_rank": 740,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 24168,
+  "avg_stu_loan_debt_rank": 722,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23227",
+  "email": true
 }

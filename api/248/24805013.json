@@ -1,6 +1,6 @@
 {
   "facility_code": "24805013",
-  "institution": "NORTHWESTERN COLLEGE",
+  "institution": "Northwestern College",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 147749,
-  "grad_rate": 22.5,
-  "grad_rate_rank": 779,
-  "default_rate": 20.6,
-  "avg_stu_loan_debt": 12667,
-  "avg_stu_loan_debt_rank": 1017,
-  "indicator_group": 2
+  "grad_rate": 30.7,
+  "grad_rate_rank": 618,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 15749,
+  "avg_stu_loan_debt_rank": 1043,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "60630",
+  "email": true
 }

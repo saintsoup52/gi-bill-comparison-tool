@@ -1,6 +1,6 @@
 {
   "facility_code": "14914404",
-  "institution": "RICH MOUNTAIN COMMUNITY COLLEGE",
+  "institution": "Rich Mountain Community College",
   "city": "Mena",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 107743,
-  "grad_rate": 19.2,
-  "grad_rate_rank": 448,
+  "grad_rate": 14.9,
+  "grad_rate_rank": 684,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "71953",
+  "email": false
 }

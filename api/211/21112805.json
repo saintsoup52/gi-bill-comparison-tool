@@ -1,6 +1,6 @@
 {
   "facility_code": "21112805",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN & TECHNOLOGY",
+  "institution": "International Academy Of Design & Technology",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 450447,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 26.9,
-  "avg_stu_loan_debt": 14826,
-  "avg_stu_loan_debt_rank": 706,
-  "indicator_group": 1
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95834",
+  "email": true
 }

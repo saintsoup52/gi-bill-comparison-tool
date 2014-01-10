@@ -1,6 +1,6 @@
 {
   "facility_code": "14918404",
-  "institution": "COSSATOT COMMUNITY COLLEGE OF THE UNIV OF ARKANSAS",
+  "institution": "Cossatot Community College Of The Univ Of Arkansas",
   "city": "Dequeen",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 106795,
-  "grad_rate": 23.1,
-  "grad_rate_rank": 403,
+  "grad_rate": 31.1,
+  "grad_rate_rank": 539,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "71832",
+  "email": false
 }

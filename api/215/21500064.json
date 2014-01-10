@@ -1,6 +1,6 @@
 {
   "facility_code": "21500064",
-  "institution": "EDISON UNIVERSITY (CH 31 ONLY)",
+  "institution": "Edison University (Ch 31 Only)",
   "city": "Kailua",
   "state": "HI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96734",
+  "email": false
 }

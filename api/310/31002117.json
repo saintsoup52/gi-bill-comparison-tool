@@ -1,6 +1,6 @@
 {
   "facility_code": "31002117",
-  "institution": "CAMPBELLSVILLE UNIVERSITY",
+  "institution": "Campbellsville University",
   "city": "Campbellsville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 93,
   "cross": 156365,
-  "grad_rate": 42.0,
-  "grad_rate_rank": 1157,
-  "default_rate": 9.6,
-  "avg_stu_loan_debt": 12750,
-  "avg_stu_loan_debt_rank": 530,
-  "indicator_group": 1
+  "grad_rate": 43.7,
+  "grad_rate_rank": 1114,
+  "default_rate": 16.2,
+  "avg_stu_loan_debt": 12475,
+  "avg_stu_loan_debt_rank": 305,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "42718",
+  "email": false
 }

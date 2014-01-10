@@ -1,6 +1,6 @@
 {
   "facility_code": "30002847",
-  "institution": "SEATTLE - TACOMA CARPENTERS APPRENTICESHIP",
+  "institution": "Seattle - Tacoma Carpenters Apprenticeship",
   "city": "Renton",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98056",
+  "email": true
 }

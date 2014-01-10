@@ -1,6 +1,6 @@
 {
   "facility_code": "15541335",
-  "institution": "VANTAGE CAREER CENTER",
+  "institution": "Vantage Career Center",
   "city": "Van Wert",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 418278,
-  "grad_rate": 88.4,
-  "grad_rate_rank": 323,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 88.0,
+  "grad_rate_rank": 335,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45891",
+  "email": false
 }

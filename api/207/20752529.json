@@ -1,6 +1,6 @@
 {
   "facility_code": "20752529",
-  "institution": "AFFORDABLE ENERGY SOLUTIONS",
+  "institution": "Affordable Energy Solutions",
   "city": "Milford",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3055",
+  "email": false
 }

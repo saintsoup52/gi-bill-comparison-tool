@@ -1,6 +1,6 @@
 {
   "facility_code": "24906433",
-  "institution": "ECPI UNIVERSITY/CHARLOTTE",
+  "institution": "Ecpi University/Charlotte",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 163,
   "cross": 248934,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 260,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 15592,
-  "avg_stu_loan_debt_rank": 1147,
-  "indicator_group": 2
+  "grad_rate": 39.6,
+  "grad_rate_rank": 419,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 16905,
+  "avg_stu_loan_debt_rank": 1098,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28208",
+  "email": true
 }

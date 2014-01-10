@@ -1,6 +1,6 @@
 {
   "facility_code": "10205416",
-  "institution": "CITY OF COFFEYVILLE ELECTRICAL DISTRIBUTION",
+  "institution": "City Of Coffeyville Electrical Distribution",
   "city": "Coffeyville",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67337",
+  "email": false
 }

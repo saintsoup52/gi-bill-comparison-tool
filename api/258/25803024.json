@@ -1,6 +1,6 @@
 {
   "facility_code": "25803024",
-  "institution": "THE ACADEMY OF HAIR DESIGN #1 - GRENADA",
+  "institution": "The Academy Of Hair Design #1 - Grenada",
   "city": "Grenada",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 175722,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 443,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 95.0,
+  "grad_rate_rank": 147,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 1750,
+  "avg_stu_loan_debt_rank": 8,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38901",
+  "email": false
 }

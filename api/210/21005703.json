@@ -1,6 +1,6 @@
 {
   "facility_code": "21005703",
-  "institution": "BROOKLINE COLLEGE - ONLINE",
+  "institution": "Brookline College - Online",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 104090,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.1,
+  "grad_rate": 56.5,
+  "grad_rate_rank": 335,
+  "default_rate": 15.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85016",
+  "email": true
 }

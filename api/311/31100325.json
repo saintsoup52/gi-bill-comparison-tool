@@ -1,6 +1,6 @@
 {
   "facility_code": "31100325",
-  "institution": "CULVER-STOCKTON COLLEGE",
+  "institution": "Culver-Stockton College",
   "city": "Canton",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 177144,
-  "grad_rate": 41.3,
-  "grad_rate_rank": 1189,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 19156,
-  "avg_stu_loan_debt_rank": 1273,
-  "indicator_group": 1
+  "grad_rate": 49.8,
+  "grad_rate_rank": 910,
+  "default_rate": 13.2,
+  "avg_stu_loan_debt": 18075,
+  "avg_stu_loan_debt_rank": 927,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63435",
+  "email": false
 }

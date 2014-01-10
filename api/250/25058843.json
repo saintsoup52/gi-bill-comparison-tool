@@ -1,6 +1,6 @@
 {
   "facility_code": "25058843",
-  "institution": "SOUTHERN CAREERS INST PHARR",
+  "institution": "Southern Careers Inst Pharr",
   "city": "Pharr",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 408385,
-  "grad_rate": 87.0,
-  "grad_rate_rank": 356,
-  "default_rate": 37.3,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 41.4,
+  "grad_rate_rank": 2085,
+  "default_rate": 30.2,
+  "avg_stu_loan_debt": 6520,
+  "avg_stu_loan_debt_rank": 551,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78577",
+  "email": false
 }

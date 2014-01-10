@@ -1,6 +1,6 @@
 {
   "facility_code": "25052305",
-  "institution": "SOUTHERN CALIFORNIA VETERANS SERVICES COUNCILINC. (CH 31)",
+  "institution": "Southern California Veterans Services Councilinc. (Ch 31)",
   "city": "Inglewood",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90302",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31512435",
-  "institution": "CHATFIELD COLLEGE",
+  "institution": "Chatfield College",
   "city": "St Martin",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 201751,
-  "grad_rate": 48.2,
-  "grad_rate_rank": 238,
-  "default_rate": 31.2,
-  "avg_stu_loan_debt": 8547,
-  "avg_stu_loan_debt_rank": 685,
-  "indicator_group": 2
+  "grad_rate": 33.3,
+  "grad_rate_rank": 539,
+  "default_rate": 27.5,
+  "avg_stu_loan_debt": 10244,
+  "avg_stu_loan_debt_rank": 749,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45118",
+  "email": true
 }

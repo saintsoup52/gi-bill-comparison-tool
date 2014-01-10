@@ -1,6 +1,6 @@
 {
   "facility_code": "20150938",
-  "institution": "STEAMFITTERS LOCAL #420 JAC",
+  "institution": "Steamfitters Local #420 Jac",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19154",
+  "email": true
 }

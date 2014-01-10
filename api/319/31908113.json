@@ -1,6 +1,6 @@
 {
   "facility_code": "31908113",
-  "institution": "SHIMER COLLEGE",
+  "institution": "Shimer College",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 148849,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 500,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 21219,
-  "avg_stu_loan_debt_rank": 1564,
-  "indicator_group": 1
+  "grad_rate": 16.7,
+  "grad_rate_rank": 1752,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 23250,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60616",
+  "email": false
 }

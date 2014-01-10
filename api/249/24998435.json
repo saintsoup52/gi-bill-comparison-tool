@@ -1,6 +1,6 @@
 {
   "facility_code": "24998435",
-  "institution": "OHIO VALLEY COLLEGE OF TECHNOLOGY",
+  "institution": "Ohio Valley College Of Technology",
   "city": "East Liverpool",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 204884,
-  "grad_rate": 52.4,
-  "grad_rate_rank": 198,
-  "default_rate": 0.9,
-  "avg_stu_loan_debt": 9450,
-  "avg_stu_loan_debt_rank": 752,
-  "indicator_group": 2
+  "grad_rate": 50.0,
+  "grad_rate_rank": 263,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 9325,
+  "avg_stu_loan_debt_rank": 647,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43920",
+  "email": true
 }

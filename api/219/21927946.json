@@ -1,6 +1,6 @@
 {
   "facility_code": "21927946",
-  "institution": "THE ART INSTITUTE OF WASHINGTON - NORTHERN VIRGINIA",
+  "institution": "The Art Institute Of Washington - Northern Virginia",
   "city": "Sterling",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 456010,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 26.5,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1348,
-  "indicator_group": 2
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 19803,
+  "avg_stu_loan_debt_rank": 1192,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "20166",
+  "email": true
 }

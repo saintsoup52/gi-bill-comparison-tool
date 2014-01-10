@@ -1,6 +1,6 @@
 {
   "facility_code": "25036706",
-  "institution": "COLLEGE OF INTERNATIONAL ESTHETICS",
+  "institution": "College Of International Esthetics",
   "city": "Arvada",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80002",
+  "email": true
 }

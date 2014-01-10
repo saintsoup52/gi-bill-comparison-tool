@@ -1,6 +1,6 @@
 {
   "facility_code": "20W38338",
-  "institution": "CORNELL COMPANIES INC MVCC",
+  "institution": "Cornell Companies Inc Mvcc",
   "city": "Philipsburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "16866",
+  "email": true
 }

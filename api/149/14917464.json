@@ -1,6 +1,6 @@
 {
   "facility_code": "14917464",
-  "institution": "HONOLULU COMMUNITY COLLEGE NON-CREDIT PROGAMS",
+  "institution": "Honolulu Community College Non-Credit Progams",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 141680,
-  "grad_rate": 12.9,
-  "grad_rate_rank": 1099,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 4225,
-  "avg_stu_loan_debt_rank": 195,
-  "indicator_group": 2
+  "grad_rate": 14.2,
+  "grad_rate_rank": 1145,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 3302,
+  "avg_stu_loan_debt_rank": 21,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "96817",
+  "email": true
 }

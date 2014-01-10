@@ -1,6 +1,6 @@
 {
   "facility_code": "25059321",
-  "institution": "MILLENNIUM TRAINING INSTITUTE INC.",
+  "institution": "Millennium Training Institute Inc.",
   "city": "Woburn",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 451264,
-  "grad_rate": 81.4,
-  "grad_rate_rank": 575,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 1064,
-  "indicator_group": 5
+  "grad_rate": 73.8,
+  "grad_rate_rank": 987,
+  "default_rate": 36.0,
+  "avg_stu_loan_debt": 6784,
+  "avg_stu_loan_debt_rank": 595,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1801",
+  "email": true
 }

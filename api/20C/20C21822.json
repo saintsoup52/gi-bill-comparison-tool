@@ -1,6 +1,6 @@
 {
   "facility_code": "20C21822",
-  "institution": "SPRINKLER FITTING INDUSTRY OF DETROIT AND VICINITY AND THE DETROIT SPRINKLER",
+  "institution": "Sprinkler Fitting Industry Of Detroit And Vicinity And The Detroit Sprinkler",
   "city": "Farmington Hills",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48336",
+  "email": true
 }

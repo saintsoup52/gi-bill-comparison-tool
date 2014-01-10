@@ -1,6 +1,6 @@
 {
   "facility_code": "28000720",
-  "institution": "INTERNATIONAL BEAUTY ACADEMY",
+  "institution": "International Beauty Academy",
   "city": "Cumberland",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 164100,
-  "grad_rate": 76.4,
-  "grad_rate_rank": 849,
-  "default_rate": 21.8,
+  "grad_rate": 72.8,
+  "grad_rate_rank": 1039,
+  "default_rate": 24.5,
   "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 2501,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1951,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21502",
+  "email": false
 }

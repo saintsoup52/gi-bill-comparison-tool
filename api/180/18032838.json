@@ -1,6 +1,6 @@
 {
   "facility_code": "18032838",
-  "institution": "FORBES ROAD CAREER & TECHNOLOGY CENTER",
+  "institution": "Forbes Road Career & Technology Center",
   "city": "Monroeville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 419332,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 3077,
+  "avg_stu_loan_debt_rank": 54,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15146",
+  "email": false
 }

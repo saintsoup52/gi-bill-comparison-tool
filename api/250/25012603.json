@@ -1,6 +1,6 @@
 {
   "facility_code": "25012603",
-  "institution": "WESTERN TRUCK SCHOOL  (CHAPT 31)",
+  "institution": "Western Truck School  (Chapt 31)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85719",
+  "email": false
 }

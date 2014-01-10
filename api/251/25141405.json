@@ -1,6 +1,6 @@
 {
   "facility_code": "25141405",
-  "institution": "PAUL MITCHELL THE SCHOOL (COSTA MESA)",
+  "institution": "Paul Mitchell The School (Costa Mesa)",
   "city": "Costa Mesa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 442240,
-  "grad_rate": 76.4,
-  "grad_rate_rank": 849,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 11667,
-  "avg_stu_loan_debt_rank": 2278,
-  "indicator_group": 5
+  "grad_rate": 74.6,
+  "grad_rate_rank": 947,
+  "default_rate": 17.4,
+  "avg_stu_loan_debt": 13863,
+  "avg_stu_loan_debt_rank": 1887,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92626",
+  "email": false
 }

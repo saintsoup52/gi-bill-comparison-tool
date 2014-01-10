@@ -1,6 +1,6 @@
 {
   "facility_code": "11840430",
-  "institution": "RUTGERS THE STATE UNIVERSITY GRADUATE SCHOOL OF BIOMEDICAL SCIENCES-NEWARK",
+  "institution": "Rutgers The State University Graduate School Of Biomedical Sciences-Newark",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 186399,
-  "grad_rate": 67.9,
-  "grad_rate_rank": 354,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 60.7,
+  "grad_rate_rank": 545,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7101",
+  "email": false
 }

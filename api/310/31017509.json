@@ -1,6 +1,6 @@
 {
   "facility_code": "31017509",
-  "institution": "HOWARD UNIVERSITY",
+  "institution": "Howard University",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 276,
   "cross": 131520,
-  "grad_rate": 62.6,
-  "grad_rate_rank": 499,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 32000,
-  "avg_stu_loan_debt_rank": 2046,
-  "indicator_group": 1
+  "grad_rate": 63.3,
+  "grad_rate_rank": 480,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 32553,
+  "avg_stu_loan_debt_rank": 1976,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20059",
+  "email": true
 }

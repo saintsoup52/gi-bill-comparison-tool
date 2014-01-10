@@ -1,6 +1,6 @@
 {
   "facility_code": "31927246",
-  "institution": "VALLEY FORGE CHRISTIAN COLLEGE",
+  "institution": "Valley Forge Christian College",
   "city": "Woodbridge",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 216542,
-  "grad_rate": 53.3,
-  "grad_rate_rank": 768,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 26000,
-  "avg_stu_loan_debt_rank": 2004,
-  "indicator_group": 1
+  "grad_rate": 46.5,
+  "grad_rate_rank": 1020,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 26250,
+  "avg_stu_loan_debt_rank": 1848,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22192",
+  "email": true
 }

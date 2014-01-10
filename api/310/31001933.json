@@ -1,6 +1,6 @@
 {
   "facility_code": "31001933",
-  "institution": "JOHNSON C. SMITH UNIVERSITY",
+  "institution": "Johnson C. Smith University",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 67,
   "cross": 198756,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 1321,
-  "default_rate": 24.4,
-  "avg_stu_loan_debt": 37562,
-  "avg_stu_loan_debt_rank": 2059,
-  "indicator_group": 1
+  "grad_rate": 41.6,
+  "grad_rate_rank": 1189,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 38000,
+  "avg_stu_loan_debt_rank": 1994,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28216",
+  "email": true
 }

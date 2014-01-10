@@ -1,6 +1,6 @@
 {
   "facility_code": "11913164",
-  "institution": "UNIV OF HAWAII MANOA",
+  "institution": "Univ Of Hawaii Manoa",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 874,
   "cross": 141574,
-  "grad_rate": 54.8,
-  "grad_rate_rank": 717,
+  "grad_rate": 55.7,
+  "grad_rate_rank": 711,
   "default_rate": 4.4,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 16956,
+  "avg_stu_loan_debt_rank": 797,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "96822",
+  "email": true
 }

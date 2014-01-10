@@ -1,6 +1,6 @@
 {
   "facility_code": "25490510",
-  "institution": "COSMIX SCHOOL OF MAKEUP ARTISTRY",
+  "institution": "Cosmix School Of Makeup Artistry",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33306",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14901048",
-  "institution": "WEST VIRGINIA NORTHERN COMMUNITY COLLEGE",
+  "institution": "West Virginia Northern Community College",
   "city": "Wheeling",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 79,
   "cross": 238014,
-  "grad_rate": 12.3,
-  "grad_rate_rank": 1128,
-  "default_rate": 27.6,
-  "avg_stu_loan_debt": 6229,
-  "avg_stu_loan_debt_rank": 463,
-  "indicator_group": 2
+  "grad_rate": 9.2,
+  "grad_rate_rank": 1315,
+  "default_rate": 31.7,
+  "avg_stu_loan_debt": 5648,
+  "avg_stu_loan_debt_rank": 300,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "26003",
+  "email": true
 }

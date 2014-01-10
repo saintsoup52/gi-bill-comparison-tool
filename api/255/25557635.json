@@ -1,6 +1,6 @@
 {
   "facility_code": "25557635",
-  "institution": "BROWN AVEDA INSTITUTE",
+  "institution": "Brown Aveda Institute",
   "city": "Mentor",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 441645,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 578,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 5
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44060",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14932433",
-  "institution": "HALIFAX COMMUNITY COLLEGE",
+  "institution": "Halifax Community College",
   "city": "Weldon",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 42,
   "cross": 198640,
-  "grad_rate": 27.5,
-  "grad_rate_rank": 364,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 5232,
-  "avg_stu_loan_debt_rank": 182,
-  "indicator_group": 3
+  "grad_rate": 20.4,
+  "grad_rate_rank": 640,
+  "default_rate": 29.7,
+  "avg_stu_loan_debt": 5836,
+  "avg_stu_loan_debt_rank": 147,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "27890",
+  "email": true
 }

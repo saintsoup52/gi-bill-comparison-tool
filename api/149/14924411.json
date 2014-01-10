@@ -1,6 +1,6 @@
 {
   "facility_code": "14924411",
-  "institution": "OCONEE FALL LINE TECHNICAL COLLEGE",
+  "institution": "Oconee Fall Line Technical College",
   "city": "Sandersville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 77,
   "cross": 420431,
-  "grad_rate": 45.0,
-  "grad_rate_rank": 234,
-  "default_rate": null,
-  "avg_stu_loan_debt": 2852,
-  "avg_stu_loan_debt_rank": 103,
-  "indicator_group": 3
+  "grad_rate": 41.3,
+  "grad_rate_rank": 450,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 2000,
+  "avg_stu_loan_debt_rank": 3,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31082",
+  "email": true
 }

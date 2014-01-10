@@ -1,6 +1,6 @@
 {
   "facility_code": "25170505",
-  "institution": "ACADEMY FOR SALON PROFESSIONALS",
+  "institution": "Academy For Salon Professionals",
   "city": "Santa Clara",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461980,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95050",
+  "email": false
 }

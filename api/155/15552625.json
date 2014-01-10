@@ -1,6 +1,6 @@
 {
   "facility_code": "15552625",
-  "institution": "LEX LA RAY TECHNICAL CENTER",
+  "institution": "Lex La Ray Technical Center",
   "city": "Lexington",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 177931,
-  "grad_rate": 53.3,
-  "grad_rate_rank": 1830,
-  "default_rate": 31.2,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 5
+  "grad_rate": 73.9,
+  "grad_rate_rank": 983,
+  "default_rate": 22.7,
+  "avg_stu_loan_debt": 12175,
+  "avg_stu_loan_debt_rank": 1798,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64067",
+  "email": true
 }

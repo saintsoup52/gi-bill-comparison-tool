@@ -1,6 +1,6 @@
 {
   "facility_code": "25580335",
-  "institution": "AVIATORS FLIGHT ACADEMY LLC",
+  "institution": "Aviators Flight Academy Llc",
   "city": "Miamisburg",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45342",
+  "email": true
 }

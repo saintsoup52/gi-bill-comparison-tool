@@ -1,6 +1,6 @@
 {
   "facility_code": "10543031",
-  "institution": "US DEPT. OF THE INTERIOR US FISH & WILDLIFE",
+  "institution": "Us Dept. Of The Interior Us Fish & Wildlife",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87103",
+  "email": false
 }

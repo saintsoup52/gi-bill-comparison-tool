@@ -1,6 +1,6 @@
 {
   "facility_code": "11810846",
-  "institution": "UNIVERSITY OF VIRGINIA NORTHERN VA CTR",
+  "institution": "University Of Virginia Northern Va Ctr",
   "city": "Falls Church",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 234076,
-  "grad_rate": 93.9,
-  "grad_rate_rank": 26,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 93.4,
+  "grad_rate_rank": 29,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22043",
+  "email": true
 }

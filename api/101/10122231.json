@@ -1,6 +1,6 @@
 {
   "facility_code": "10122231",
-  "institution": "NEW MEXICO STATE HWY. AND TRANS.DEPT/DISTRICT ONE",
+  "institution": "New Mexico State Hwy. And Trans.Dept/District One",
   "city": "Deming",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "88031",
+  "email": false
 }

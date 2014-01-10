@@ -1,6 +1,6 @@
 {
   "facility_code": "15034504",
-  "institution": "GRAVETTE HIGH SCHOOL",
+  "institution": "Gravette High School",
   "city": "Gravette",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72736",
+  "email": false
 }

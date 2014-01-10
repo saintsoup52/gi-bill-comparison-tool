@@ -1,6 +1,6 @@
 {
   "facility_code": "11800219",
-  "institution": "UNIVERSITY OF SOUTHERN MAINE",
+  "institution": "University Of Southern Maine",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 503,
   "cross": 161554,
-  "grad_rate": 32.9,
-  "grad_rate_rank": 1425,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 17000,
-  "avg_stu_loan_debt_rank": 950,
-  "indicator_group": 1
+  "grad_rate": 30.4,
+  "grad_rate_rank": 1524,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 18250,
+  "avg_stu_loan_debt_rank": 944,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4104",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24936405",
-  "institution": "KAPLAN COLLEGE-SACRAMENTO",
+  "institution": "Kaplan College-Sacramento",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 42,
   "cross": 118259,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 25.8,
+  "grad_rate": 72.9,
+  "grad_rate_rank": 140,
+  "default_rate": 28.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "95821",
+  "email": true
 }

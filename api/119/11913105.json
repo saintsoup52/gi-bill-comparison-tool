@@ -1,6 +1,6 @@
 {
   "facility_code": "11913105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-SAN BERNARDINO",
+  "institution": "California State University-San Bernardino",
   "city": "San Bernardino",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 406,
   "cross": 110510,
-  "grad_rate": 44.6,
-  "grad_rate_rank": 1073,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 17000,
-  "avg_stu_loan_debt_rank": 950,
-  "indicator_group": 1
+  "grad_rate": 43.5,
+  "grad_rate_rank": 1118,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 17355,
+  "avg_stu_loan_debt_rank": 833,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92407",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15103539",
-  "institution": "D.W. WYATT DETENTION FACILITY",
+  "institution": "D.W. Wyatt Detention Facility",
   "city": "Central Falls",
   "state": "RI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2863",
+  "email": true
 }

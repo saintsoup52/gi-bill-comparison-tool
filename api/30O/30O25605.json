@@ -1,6 +1,6 @@
 {
   "facility_code": "30O25605",
-  "institution": "PAINTING AND DECORATING JATC OF THE BAY AREA INC.",
+  "institution": "Painting And Decorating Jatc Of The Bay Area Inc.",
   "city": "San Leandro",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94577",
+  "email": false
 }

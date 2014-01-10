@@ -1,6 +1,6 @@
 {
   "facility_code": "10080014",
-  "institution": "EDGEWOOD POLICE DEPARTMENT",
+  "institution": "Edgewood Police Department",
   "city": "Anderson",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46011",
+  "email": false
 }

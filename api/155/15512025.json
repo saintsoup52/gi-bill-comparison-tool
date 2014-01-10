@@ -1,6 +1,6 @@
 {
   "facility_code": "15512025",
-  "institution": "ROLLA TECHNICAL INSTITUTE",
+  "institution": "Rolla Technical Institute",
   "city": "Rolla",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 179052,
-  "grad_rate": 81.1,
-  "grad_rate_rank": 593,
-  "default_rate": 17.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 73.5,
+  "grad_rate_rank": 1008,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 5550,
+  "avg_stu_loan_debt_rank": 363,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65401",
+  "email": false
 }

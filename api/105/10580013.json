@@ -1,6 +1,6 @@
 {
   "facility_code": "10580013",
-  "institution": "EAST ALTON FIRE DEPARTMENT",
+  "institution": "East Alton Fire Department",
   "city": "East Alton",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62024",
+  "email": false
 }

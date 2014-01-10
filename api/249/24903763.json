@@ -1,18 +1,21 @@
 {
   "facility_code": "24903763",
-  "institution": "MECH TECH COLLEGE (VEGA BAJA)",
+  "institution": "Mech Tech College (Vega Baja)",
   "city": "Vega Baja",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": true,
   "yr": null,
   "gibill": 41,
   "cross": 414461,
-  "grad_rate": 61.6,
-  "grad_rate_rank": 122,
+  "grad_rate": 59.5,
+  "grad_rate_rank": 300,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4120,
-  "avg_stu_loan_debt_rank": 138,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 2800,
+  "avg_stu_loan_debt_rank": 14,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "963",
+  "email": true
 }

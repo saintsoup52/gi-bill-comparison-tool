@@ -1,6 +1,6 @@
 {
   "facility_code": "20114935",
-  "institution": "PAINTERS DISTRICT COUNCIL #12 OF COLUMBUS OHIO",
+  "institution": "Painters District Council #12 Of Columbus Ohio",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43201",
+  "email": false
 }

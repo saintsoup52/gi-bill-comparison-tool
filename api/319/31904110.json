@@ -1,6 +1,6 @@
 {
   "facility_code": "31904110",
-  "institution": "EDWARD WATERS COLLEGE",
+  "institution": "Edward Waters College",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 133526,
-  "grad_rate": 17.7,
-  "grad_rate_rank": 1700,
-  "default_rate": 32.6,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 22.9,
+  "grad_rate_rank": 1671,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32209",
+  "email": false
 }

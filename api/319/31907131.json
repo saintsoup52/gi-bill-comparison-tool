@@ -1,6 +1,6 @@
 {
   "facility_code": "31907131",
-  "institution": "UNIVERSITY OF NEW HAVEN",
+  "institution": "University Of New Haven",
   "city": "Kirtland Afb",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 129941,
-  "grad_rate": 52.5,
-  "grad_rate_rank": 790,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 56.0,
+  "grad_rate_rank": 703,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 23714,
+  "avg_stu_loan_debt_rank": 1595,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "87117",
+  "email": true
 }

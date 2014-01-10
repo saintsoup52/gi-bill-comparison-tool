@@ -1,6 +1,6 @@
 {
   "facility_code": "15553335",
-  "institution": "TRI-COUNTY VOCATIONAL SCHOOL ADULT CAREER CENTER",
+  "institution": "Tri-County Vocational School Adult Career Center",
   "city": "Nelsonville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 206172,
-  "grad_rate": 85.3,
-  "grad_rate_rank": 423,
+  "grad_rate": 95.0,
+  "grad_rate_rank": 147,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45764",
+  "email": false
 }

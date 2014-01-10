@@ -1,6 +1,6 @@
 {
   "facility_code": "21058110",
-  "institution": "FLORIDA COLLEGE OF INTEGRATIVE MEDICINE",
+  "institution": "Florida College Of Integrative Medicine",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 434441,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.9,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 277,
-  "indicator_group": 4
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 7378,
+  "avg_stu_loan_debt_rank": 48,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "32809",
+  "email": false
 }

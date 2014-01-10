@@ -1,6 +1,6 @@
 {
   "facility_code": "13400425",
-  "institution": "TRUMAN STATE UNIVERSITY",
+  "institution": "Truman State University",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 58,
   "cross": 178615,
-  "grad_rate": 68.8,
-  "grad_rate_rank": 331,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 15400,
-  "avg_stu_loan_debt_rank": 768,
-  "indicator_group": 1
+  "grad_rate": 73.6,
+  "grad_rate_rank": 259,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 17507,
+  "avg_stu_loan_debt_rank": 861,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63501",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24804005",
-  "institution": "SAN JOAQUIN VALLEY COLLEGE (ON-LINE)",
+  "institution": "San Joaquin Valley College (On-Line)",
   "city": "Visalia",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93277",
+  "email": false
 }

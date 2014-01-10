@@ -1,6 +1,6 @@
 {
   "facility_code": "25162905",
-  "institution": "GALAXY MEDICAL COLLEGE",
+  "institution": "Galaxy Medical College",
   "city": "North Hollywood",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461254,
-  "grad_rate": 98.0,
-  "grad_rate_rank": 90,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 92.3,
+  "grad_rate_rank": 209,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4897,
+  "avg_stu_loan_debt_rank": 232,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91606",
+  "email": false
 }

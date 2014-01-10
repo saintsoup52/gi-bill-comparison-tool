@@ -1,6 +1,6 @@
 {
   "facility_code": "11816306",
-  "institution": "UNIVERSITY OF NORTHERN COLORADO - DENVER",
+  "institution": "University Of Northern Colorado - Denver",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 127741,
-  "grad_rate": 45.6,
-  "grad_rate_rank": 1036,
+  "grad_rate": 44.8,
+  "grad_rate_rank": 1072,
   "default_rate": 7.6,
-  "avg_stu_loan_debt": 15278,
-  "avg_stu_loan_debt_rank": 761,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 16509,
+  "avg_stu_loan_debt_rank": 754,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80230",
+  "email": true
 }

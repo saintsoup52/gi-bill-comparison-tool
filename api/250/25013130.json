@@ -1,6 +1,6 @@
 {
   "facility_code": "25013130",
-  "institution": "INSTITUTE FOR THERAPEUTIC MASSAGE RED BANK",
+  "institution": "Institute For Therapeutic Massage Red Bank",
   "city": "Red Bank",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 441548,
-  "grad_rate": 89.6,
-  "grad_rate_rank": 278,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 6219,
-  "avg_stu_loan_debt_rank": 984,
-  "indicator_group": 5
+  "grad_rate": 92.3,
+  "grad_rate_rank": 209,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 5416,
+  "avg_stu_loan_debt_rank": 301,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7701",
+  "email": false
 }

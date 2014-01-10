@@ -1,6 +1,6 @@
 {
   "facility_code": "31001545",
-  "institution": "COLLEGE OF ST JOSEPH",
+  "institution": "College Of St Joseph",
   "city": "Rutland",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 231077,
-  "grad_rate": 44.7,
-  "grad_rate_rank": 1065,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 18623,
-  "avg_stu_loan_debt_rank": 1163,
-  "indicator_group": 1
+  "grad_rate": 53.8,
+  "grad_rate_rank": 779,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 18815,
+  "avg_stu_loan_debt_rank": 1039,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5701",
+  "email": true
 }

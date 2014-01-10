@@ -1,6 +1,6 @@
 {
   "facility_code": "25447547",
-  "institution": "THE SALON PROFESSIONAL ACADEMY",
+  "institution": "The Salon Professional Academy",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 459550,
-  "grad_rate": 81.0,
-  "grad_rate_rank": 600,
+  "grad_rate": 81.8,
+  "grad_rate_rank": 563,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 7389,
-  "avg_stu_loan_debt_rank": 1198,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 15374,
+  "avg_stu_loan_debt_rank": 1930,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98409",
+  "email": true
 }

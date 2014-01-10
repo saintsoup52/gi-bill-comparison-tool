@@ -1,6 +1,6 @@
 {
   "facility_code": "25055743",
-  "institution": "HANDS ON THERAPY SCHOOL OF MASSAGE",
+  "institution": "Hands On Therapy School Of Massage",
   "city": "Mesquite",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 455327,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 7187,
-  "avg_stu_loan_debt_rank": 1171,
-  "indicator_group": 5
+  "grad_rate": 19.5,
+  "grad_rate_rank": 2246,
+  "default_rate": 27.3,
+  "avg_stu_loan_debt": 7673,
+  "avg_stu_loan_debt_rank": 758,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75149",
+  "email": false
 }

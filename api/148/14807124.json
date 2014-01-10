@@ -1,6 +1,6 @@
 {
   "facility_code": "14807124",
-  "institution": "EAST MISSISSIPPI COMMUNITY COLLEGE-SCOOBA",
+  "institution": "East Mississippi Community College-Scooba",
   "city": "Scooba",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 175652,
-  "grad_rate": 20.2,
-  "grad_rate_rank": 850,
-  "default_rate": 19.9,
+  "grad_rate": 26.4,
+  "grad_rate_rank": 743,
+  "default_rate": 23.5,
   "avg_stu_loan_debt": 8091,
-  "avg_stu_loan_debt_rank": 654,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 557,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39358",
+  "email": true
 }

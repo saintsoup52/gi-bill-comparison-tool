@@ -1,6 +1,6 @@
 {
   "facility_code": "18012130",
-  "institution": "MONMOUTH COUNTY VOCATIONAL SCHOOLS",
+  "institution": "Monmouth County Vocational Schools",
   "city": "Freehold",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 374592,
-  "grad_rate": 75.2,
-  "grad_rate_rank": 905,
-  "default_rate": 17.0,
-  "avg_stu_loan_debt": 3625,
-  "avg_stu_loan_debt_rank": 649,
-  "indicator_group": 5
+  "grad_rate": 80.5,
+  "grad_rate_rank": 617,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7728",
+  "email": false
 }

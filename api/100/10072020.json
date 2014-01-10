@@ -1,6 +1,6 @@
 {
   "facility_code": "10072020",
-  "institution": "MARYLAND TOLL FACILITIES POLICE",
+  "institution": "Maryland Toll Facilities Police",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21225",
+  "email": "No (SCO)"
 }

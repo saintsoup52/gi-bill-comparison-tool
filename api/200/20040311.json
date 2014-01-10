@@ -1,6 +1,6 @@
 {
   "facility_code": "20040311",
-  "institution": "C2 TECHNOLOGIES INC",
+  "institution": "C2 Technologies Inc",
   "city": "Fort Gordon",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30905",
+  "email": false
 }

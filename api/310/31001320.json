@@ -1,6 +1,6 @@
 {
   "facility_code": "31001320",
-  "institution": "WASHINGTON ADVENTIST UNIVERSITY  AKA COLUMBIA UNION COLLEGE",
+  "institution": "Washington Adventist University  Aka Columbia Union College",
   "city": "Takoma Park",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 162210,
-  "grad_rate": 27.3,
-  "grad_rate_rank": 1546,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 22250,
-  "avg_stu_loan_debt_rank": 1678,
-  "indicator_group": 1
+  "grad_rate": 30.9,
+  "grad_rate_rank": 1511,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20912",
+  "email": true
 }

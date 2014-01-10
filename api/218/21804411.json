@@ -1,6 +1,6 @@
 {
   "facility_code": "21804411",
-  "institution": "KELLER GRADUATE SCHOOL OF MANAGEMENT -ALPHARETTA",
+  "institution": "Keller Graduate School Of Management -Alpharetta",
   "city": "Alpharetta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 419536,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 4625,
-  "avg_stu_loan_debt_rank": 233,
-  "indicator_group": 4
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 5000,
+  "avg_stu_loan_debt_rank": 11,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "30009",
+  "email": true
 }

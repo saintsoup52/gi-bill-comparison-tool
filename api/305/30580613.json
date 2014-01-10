@@ -1,6 +1,6 @@
 {
   "facility_code": "30580613",
-  "institution": "ILLINOIS LABORER'S & CONTRACTORS JOINT APPRENTICESHIP & TRAINING PROGRAMS",
+  "institution": "Illinois Laborer'S & Contractors Joint Apprenticeship & Training Programs",
   "city": "Mt. Sterling",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62353",
+  "email": false
 }

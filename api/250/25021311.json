@@ -1,6 +1,6 @@
 {
   "facility_code": "25021311",
-  "institution": "PAUL MITCHELL THE SCHOOL (ATLANTA)",
+  "institution": "Paul Mitchell The School (Atlanta)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 454926,
-  "grad_rate": 97.9,
-  "grad_rate_rank": 92,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 13833,
-  "avg_stu_loan_debt_rank": 2436,
-  "indicator_group": 5
+  "grad_rate": 67.9,
+  "grad_rate_rank": 1279,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 13197,
+  "avg_stu_loan_debt_rank": 1850,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30318",
+  "email": true
 }

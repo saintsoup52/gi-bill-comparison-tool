@@ -1,6 +1,6 @@
 {
   "facility_code": "31983105",
-  "institution": "THE KING'S UNIVERSITY",
+  "institution": "The King'S University",
   "city": "Van Nuys",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 26,
   "cross": 439701,
-  "grad_rate": 22.2,
-  "grad_rate_rank": 413,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 13333,
-  "avg_stu_loan_debt_rank": 759,
-  "indicator_group": 3
+  "grad_rate": 11.8,
+  "grad_rate_rank": 707,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 616,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "91405",
+  "email": false
 }

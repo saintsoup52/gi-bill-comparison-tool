@@ -1,6 +1,6 @@
 {
   "facility_code": "28011337",
-  "institution": "ACADEMY OF HAIR DESIGN INC",
+  "institution": "Academy Of Hair Design Inc",
   "city": "Salem",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 208080,
-  "grad_rate": 60.5,
-  "grad_rate_rank": 1565,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 10330,
-  "avg_stu_loan_debt_rank": 2177,
-  "indicator_group": 5
+  "grad_rate": 52.6,
+  "grad_rate_rank": 1880,
+  "default_rate": 29.1,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97301",
+  "email": false
 }

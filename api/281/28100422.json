@@ -1,6 +1,6 @@
 {
   "facility_code": "28100422",
-  "institution": "EVEREST INSTITUTE - GRAND RAPIDS",
+  "institution": "Everest Institute - Grand Rapids",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 170046,
-  "grad_rate": 67.4,
-  "grad_rate_rank": 1275,
-  "default_rate": 26.3,
+  "grad_rate": 65.6,
+  "grad_rate_rank": 1397,
+  "default_rate": 16.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49525",
+  "email": true
 }

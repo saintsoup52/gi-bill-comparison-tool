@@ -1,6 +1,6 @@
 {
   "facility_code": "10484717",
-  "institution": "MOREHEAD POLICE DEPARTMENT",
+  "institution": "Morehead Police Department",
   "city": "Morehead",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40351",
+  "email": false
 }

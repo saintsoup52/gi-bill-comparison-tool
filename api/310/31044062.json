@@ -1,18 +1,21 @@
 {
   "facility_code": "31044062",
-  "institution": "SIENA COLLEGE OF SAN JOSE CITY",
+  "institution": "Siena College Of San Jose City",
   "city": "San Jose Del Monte City",
   "state": "Philippines",
   "country": "Philippines",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
   "cross": 195474,
-  "grad_rate": 73.8,
-  "grad_rate_rank": 243,
+  "grad_rate": 73.4,
+  "grad_rate_rank": 262,
   "default_rate": 4.1,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 26500,
+  "avg_stu_loan_debt_rank": 1856,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

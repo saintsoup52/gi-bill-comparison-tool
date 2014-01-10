@@ -1,6 +1,6 @@
 {
   "facility_code": "10C29943",
-  "institution": "US CUSTOMS AND BORDER PROTECTION CORPUS",
+  "institution": "Us Customs And Border Protection Corpus",
   "city": "Port Aransas",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78373",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21803205",
-  "institution": "WESTWOOD COLLEGE-INLAND EMPIRE",
+  "institution": "Westwood College-Inland Empire",
   "city": "Upland",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 194,
   "cross": 440484,
-  "grad_rate": 25.4,
-  "grad_rate_rank": 1581,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 22104,
-  "avg_stu_loan_debt_rank": 1649,
-  "indicator_group": 1
+  "grad_rate": 37.7,
+  "grad_rate_rank": 1316,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 26180,
+  "avg_stu_loan_debt_rank": 1837,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91786",
+  "email": true
 }

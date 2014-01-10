@@ -1,6 +1,6 @@
 {
   "facility_code": "25100043",
-  "institution": "INTL BEAUTY COLLEGE 3",
+  "institution": "Intl Beauty College 3",
   "city": "Garland",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 431284,
-  "grad_rate": 90.9,
-  "grad_rate_rank": 235,
+  "grad_rate": 94.7,
+  "grad_rate_rank": 157,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75040",
+  "email": false
 }

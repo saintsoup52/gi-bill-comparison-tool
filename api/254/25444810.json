@@ -1,6 +1,6 @@
 {
   "facility_code": "25444810",
-  "institution": "TRENDSETTERS OF FLORIDA SCHOOL OF BEAUTY & BARBERING INC",
+  "institution": "Trendsetters Of Florida School Of Beauty & Barbering Inc",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 447865,
-  "grad_rate": 70.6,
-  "grad_rate_rank": 1150,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": 4591,
-  "avg_stu_loan_debt_rank": 745,
-  "indicator_group": 5
+  "grad_rate": 77.4,
+  "grad_rate_rank": 791,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 4775,
+  "avg_stu_loan_debt_rank": 222,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32205",
+  "email": true
 }

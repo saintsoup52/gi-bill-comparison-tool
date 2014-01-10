@@ -1,6 +1,6 @@
 {
   "facility_code": "25069643",
-  "institution": "MILAN INSTITUTE SAN ANTONIO",
+  "institution": "Milan Institute San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 437778,
-  "grad_rate": 46.7,
-  "grad_rate_rank": 1975,
-  "default_rate": 32.0,
-  "avg_stu_loan_debt": 9390,
-  "avg_stu_loan_debt_rank": 1632,
-  "indicator_group": 5
+  "grad_rate": 54.4,
+  "grad_rate_rank": 1821,
+  "default_rate": 29.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78238",
+  "email": false
 }

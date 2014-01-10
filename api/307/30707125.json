@@ -1,6 +1,6 @@
 {
   "facility_code": "30707125",
-  "institution": "CUIVRE RIVER ELECTRIC COOPERATIVE",
+  "institution": "Cuivre River Electric Cooperative",
   "city": "Troy",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63379",
+  "email": false
 }

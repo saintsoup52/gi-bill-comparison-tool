@@ -1,6 +1,6 @@
 {
   "facility_code": "31404547",
-  "institution": "SALISH KOOTENAI COLLEGE @ SPOKANE RESERVATION (CH31)",
+  "institution": "Salish Kootenai College @ Spokane Reservation (Ch31)",
   "city": "Wellpinit",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 180647,
-  "grad_rate": 55.3,
-  "grad_rate_rank": 171,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 5846,
-  "avg_stu_loan_debt_rank": 430,
-  "indicator_group": 2
+  "grad_rate": 47.4,
+  "grad_rate_rank": 297,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "99040",
+  "email": false
 }

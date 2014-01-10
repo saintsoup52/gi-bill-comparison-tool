@@ -1,6 +1,6 @@
 {
   "facility_code": "12126825",
-  "institution": "SOUTHERN ILLINOIS UNIVERSITY-CARBONDALE/BARNES JEWISH HOSPITAL",
+  "institution": "Southern Illinois University-Carbondale/Barnes Jewish Hospital",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 149222,
-  "grad_rate": 44.5,
-  "grad_rate_rank": 1077,
-  "default_rate": 8.1,
-  "avg_stu_loan_debt": 17869,
-  "avg_stu_loan_debt_rank": 1065,
-  "indicator_group": 1
+  "grad_rate": 47.6,
+  "grad_rate_rank": 980,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 17209,
+  "avg_stu_loan_debt_rank": 816,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63110",
+  "email": false
 }

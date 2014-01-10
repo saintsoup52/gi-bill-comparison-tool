@@ -1,6 +1,6 @@
 {
   "facility_code": "249M3443",
-  "institution": "CULINARY INST OF AMER SAN ANTONIO",
+  "institution": "Culinary Inst Of Amer San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 190503,
-  "grad_rate": 82.6,
-  "grad_rate_rank": 25,
-  "default_rate": 9.3,
+  "grad_rate": 79.3,
+  "grad_rate_rank": 48,
+  "default_rate": 9.4,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "78215",
+  "email": false
 }

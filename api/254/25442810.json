@@ -1,6 +1,6 @@
 {
   "facility_code": "25442810",
-  "institution": "NEW HORIZONS CLC OF NORTH FLORIDA (GAINESVILLE)",
+  "institution": "New Horizons Clc Of North Florida (Gainesville)",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32607",
+  "email": true
 }

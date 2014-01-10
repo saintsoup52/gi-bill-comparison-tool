@@ -1,6 +1,6 @@
 {
   "facility_code": "24851046",
-  "institution": "CHESTER CAREER COLLEGE",
+  "institution": "Chester Career College",
   "city": "Chester",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 437769,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 8369,
-  "avg_stu_loan_debt_rank": 365,
-  "indicator_group": 3
+  "grad_rate": 47.4,
+  "grad_rate_rank": 415,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 7258,
+  "avg_stu_loan_debt_rank": 208,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23836",
+  "email": true
 }

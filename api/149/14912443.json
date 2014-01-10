@@ -1,6 +1,6 @@
 {
   "facility_code": "14912443",
-  "institution": "LAREDO COMMUNITY COLLEGE",
+  "institution": "Laredo Community College",
   "city": "Laredo",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 193,
   "cross": 226134,
-  "grad_rate": 19.3,
-  "grad_rate_rank": 882,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 2626,
-  "avg_stu_loan_debt_rank": 117,
-  "indicator_group": 2
+  "grad_rate": 19.2,
+  "grad_rate_rank": 963,
+  "default_rate": 25.1,
+  "avg_stu_loan_debt": 2334,
+  "avg_stu_loan_debt_rank": 7,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "78040",
+  "email": false
 }

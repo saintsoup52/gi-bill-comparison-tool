@@ -1,6 +1,6 @@
 {
   "facility_code": "31815032",
-  "institution": "MERCY COLLEGE -  DOBBS FERRY",
+  "institution": "Mercy College -  Dobbs Ferry",
   "city": "Dobbs Ferry",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 128,
   "cross": 193016,
-  "grad_rate": 31.5,
-  "grad_rate_rank": 1457,
-  "default_rate": 7.9,
-  "avg_stu_loan_debt": 13800,
-  "avg_stu_loan_debt_rank": 613,
-  "indicator_group": 1
+  "grad_rate": 33.7,
+  "grad_rate_rank": 1418,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 428,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10522",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20711125",
-  "institution": "BLASTCO",
+  "institution": "Blastco",
   "city": "Wentzville",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63385",
+  "email": true
 }

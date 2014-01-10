@@ -1,6 +1,6 @@
 {
   "facility_code": "21903111",
-  "institution": "STRAYER UNIVERSITY (MORROW)",
+  "institution": "Strayer University (Morrow)",
   "city": "Morrow",
   "state": "GA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 209,
   "cross": 458919,
   "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate_rank": 0,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30260",
+  "email": true
 }

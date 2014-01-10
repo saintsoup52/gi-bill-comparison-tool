@@ -1,6 +1,6 @@
 {
   "facility_code": "20B97235",
-  "institution": "NORTHERN OHIO ELECTRICAL CONTRACTORS ASSOCIATION - LAKEWOOD CHAPTER",
+  "institution": "Northern Ohio Electrical Contractors Association - Lakewood Chapter",
   "city": "Lakewood",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44107",
+  "email": false
 }

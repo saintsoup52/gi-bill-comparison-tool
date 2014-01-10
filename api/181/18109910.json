@@ -1,6 +1,6 @@
 {
   "facility_code": "18109910",
-  "institution": "FLORIDA STATE FIRE COLLEGE - CHPT 31 ONLY",
+  "institution": "Florida State Fire College - Chpt 31 Only",
   "city": "Ocala",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34482",
+  "email": "No (SCO)"
 }

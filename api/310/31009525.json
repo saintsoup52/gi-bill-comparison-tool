@@ -1,6 +1,6 @@
 {
   "facility_code": "31009525",
-  "institution": "CALVARY BIBLE COLLEGE & THEOLOGICAL SEMINARY",
+  "institution": "Calvary Bible College & Theological Seminary",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 176789,
-  "grad_rate": 42.9,
-  "grad_rate_rank": 1128,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 43.9,
+  "grad_rate_rank": 1101,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 17000,
+  "avg_stu_loan_debt_rank": 800,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64147",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31005232",
-  "institution": "BARD COLLEGE",
+  "institution": "Bard College",
   "city": "Annandale-On-Hudson",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 189088,
-  "grad_rate": 76.3,
-  "grad_rate_rank": 210,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 78.6,
+  "grad_rate_rank": 180,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12504",
+  "email": false
 }

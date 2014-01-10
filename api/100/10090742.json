@@ -1,6 +1,6 @@
 {
   "facility_code": "10090742",
-  "institution": "US ARMY CORPS OF ENGINEERS-NASHVILLE DISTRICT",
+  "institution": "Us Army Corps Of Engineers-Nashville District",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37202",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25001044",
-  "institution": "ICON (CH 31)",
+  "institution": "Icon (Ch 31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84111",
+  "email": "No (SCO)"
 }

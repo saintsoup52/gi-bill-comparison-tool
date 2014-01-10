@@ -1,6 +1,6 @@
 {
   "facility_code": "24911431",
-  "institution": "SOUTHWEST UNIVERSITY OF VISUAL ARTS",
+  "institution": "Southwest University Of Visual Arts",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 402776,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 500,
-  "default_rate": 15.7,
-  "avg_stu_loan_debt": 21002,
-  "avg_stu_loan_debt_rank": 1551,
-  "indicator_group": 1
+  "grad_rate": 33.8,
+  "grad_rate_rank": 1417,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 29250,
+  "avg_stu_loan_debt_rank": 1955,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "87110",
+  "email": true
 }

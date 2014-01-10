@@ -1,6 +1,6 @@
 {
   "facility_code": "149A0405",
-  "institution": "SADDLEBACK COLLEGE",
+  "institution": "Saddleback College",
   "city": "Mission Viejo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 641,
   "cross": 122205,
-  "grad_rate": 34.6,
-  "grad_rate_rank": 299,
-  "default_rate": 14.6,
-  "avg_stu_loan_debt": 4687,
-  "avg_stu_loan_debt_rank": 162,
-  "indicator_group": 3
+  "grad_rate": 35.1,
+  "grad_rate_rank": 494,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92692",
+  "email": false
 }

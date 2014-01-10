@@ -1,6 +1,6 @@
 {
   "facility_code": "31000115",
-  "institution": "BRIAR CLIFF UNIVERSITY",
+  "institution": "Briar Cliff University",
   "city": "Sioux City",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 43,
   "cross": 152992,
-  "grad_rate": 44.6,
-  "grad_rate_rank": 1073,
-  "default_rate": 8.1,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 43.2,
+  "grad_rate_rank": 1126,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 15897,
+  "avg_stu_loan_debt_rank": 614,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "51104",
+  "email": true
 }

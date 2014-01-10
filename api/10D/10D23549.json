@@ -1,6 +1,6 @@
 {
   "facility_code": "10D23549",
-  "institution": "FOX VALLEY TECHNICAL COLLEGE",
+  "institution": "Fox Valley Technical College",
   "city": "Appleton",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 238722,
-  "grad_rate": 33.5,
-  "grad_rate_rank": 307,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 200,
-  "indicator_group": 3
+  "grad_rate": 38.9,
+  "grad_rate_rank": 463,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 5818,
+  "avg_stu_loan_debt_rank": 145,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "54912",
+  "email": false
 }

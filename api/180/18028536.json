@@ -1,6 +1,6 @@
 {
   "facility_code": "18028536",
-  "institution": "HIGH PLAINS TECHNOLOGY CENTER",
+  "institution": "High Plains Technology Center",
   "city": "Woodward",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 208053,
-  "grad_rate": 72.5,
-  "grad_rate_rank": 1045,
+  "grad_rate": 58.3,
+  "grad_rate_rank": 1696,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73801",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24958447",
-  "institution": "ITT TECHNICAL INSTITUTE (EVERETT)",
+  "institution": "Itt Technical Institute (Everett)",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 148,
   "cross": 414531,
-  "grad_rate": 27.9,
-  "grad_rate_rank": 601,
-  "default_rate": 28.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 34.2,
+  "grad_rate_rank": 521,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 25499,
+  "avg_stu_loan_debt_rank": 1398,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98203",
+  "email": true
 }

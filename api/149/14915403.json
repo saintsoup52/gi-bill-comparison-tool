@@ -1,6 +1,6 @@
 {
   "facility_code": "14915403",
-  "institution": "EASTERN ARIZONA COLLEGE",
+  "institution": "Eastern Arizona College",
   "city": "Thatcher",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 77,
   "cross": 104577,
-  "grad_rate": 24.5,
-  "grad_rate_rank": 390,
+  "grad_rate": 24.1,
+  "grad_rate_rank": 599,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85552",
+  "email": false
 }

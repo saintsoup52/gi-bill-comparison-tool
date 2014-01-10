@@ -1,6 +1,6 @@
 {
   "facility_code": "31000118",
-  "institution": "DILLARD UNIVERSITY",
+  "institution": "Dillard University",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 158802,
-  "grad_rate": 24.5,
-  "grad_rate_rank": 1598,
-  "default_rate": 10.9,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 30.6,
+  "grad_rate_rank": 1519,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 19703,
+  "avg_stu_loan_debt_rank": 1153,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70122",
+  "email": true
 }

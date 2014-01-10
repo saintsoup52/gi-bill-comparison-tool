@@ -1,6 +1,6 @@
 {
   "facility_code": "349D2438",
-  "institution": "MANOR COLLEGE",
+  "institution": "Manor College",
   "city": "Jenkintown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 213774,
-  "grad_rate": 40.7,
-  "grad_rate_rank": 319,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 10000,
-  "avg_stu_loan_debt_rank": 851,
-  "indicator_group": 2
+  "grad_rate": 40.1,
+  "grad_rate_rank": 408,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 11100,
+  "avg_stu_loan_debt_rank": 803,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19046",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25114643",
-  "institution": "FORTIS INSTITUTE HOUSTON NORTH",
+  "institution": "Fortis Institute Houston North",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 459958,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 8294,
-  "avg_stu_loan_debt_rank": 1440,
-  "indicator_group": 5
+  "grad_rate": 67.5,
+  "grad_rate_rank": 1307,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77060",
+  "email": false
 }

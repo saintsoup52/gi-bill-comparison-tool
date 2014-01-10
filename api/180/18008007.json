@@ -1,6 +1,6 @@
 {
   "facility_code": "18008007",
-  "institution": "WINDHAM TECHNICAL HIGH SCHOOL",
+  "institution": "Windham Technical High School",
   "city": "Willimantic",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 441353,
-  "grad_rate": 92.9,
-  "grad_rate_rank": 185,
+  "grad_rate": 83.3,
+  "grad_rate_rank": 504,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6260",
+  "email": true
 }

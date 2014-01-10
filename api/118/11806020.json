@@ -1,6 +1,6 @@
 {
   "facility_code": "11806020",
-  "institution": "DREXEL UNIVERSITY (APG)",
+  "institution": "Drexel University (Apg)",
   "city": "Aberdeen Proving Ground",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 212054,
-  "grad_rate": 68.1,
-  "grad_rate_rank": 348,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 20260,
-  "avg_stu_loan_debt_rank": 1461,
-  "indicator_group": 1
+  "grad_rate": 65.3,
+  "grad_rate_rank": 425,
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 21597,
+  "avg_stu_loan_debt_rank": 1389,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21010",
+  "email": false
 }

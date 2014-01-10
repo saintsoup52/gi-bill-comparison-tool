@@ -1,6 +1,6 @@
 {
   "facility_code": "21039843",
-  "institution": "THE ART INSTITUTE OF AUSTIN",
+  "institution": "The Art Institute Of Austin",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 361,
   "cross": 451820,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 25.4,
-  "avg_stu_loan_debt": 16918,
-  "avg_stu_loan_debt_rank": 939,
-  "indicator_group": 1
+  "default_rate": 25.2,
+  "avg_stu_loan_debt": 16198,
+  "avg_stu_loan_debt_rank": 717,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78728",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28800618",
-  "institution": "CLOYD'S BEAUTY SCHOOL #2",
+  "institution": "Cloyd'S Beauty School #2",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 366155,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 652,
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71202",
+  "email": false
 }

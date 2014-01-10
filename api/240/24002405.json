@@ -1,6 +1,6 @@
 {
   "facility_code": "24002405",
-  "institution": "AMERICAN CAREER COLLEGE (ONTARIO)",
+  "institution": "American Career College (Ontario)",
   "city": "Ontario",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 81,
   "cross": 447768,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 4.9,
+  "grad_rate": 71.5,
+  "grad_rate_rank": 152,
+  "default_rate": 8.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "91764",
+  "email": false
 }

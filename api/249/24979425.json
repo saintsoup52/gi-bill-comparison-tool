@@ -1,6 +1,6 @@
 {
   "facility_code": "24979425",
-  "institution": "MISSOURI TECH",
+  "institution": "Missouri Tech",
   "city": "St.Charles",
   "state": "MO",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 16,
   "cross": 178350,
   "grad_rate": 50.0,
-  "grad_rate_rank": 876,
-  "default_rate": 22.7,
-  "avg_stu_loan_debt": 27865,
-  "avg_stu_loan_debt_rank": 2024,
-  "indicator_group": 1
+  "grad_rate_rank": 893,
+  "default_rate": 39.1,
+  "avg_stu_loan_debt": 33781,
+  "avg_stu_loan_debt_rank": 1981,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63303",
+  "email": false
 }

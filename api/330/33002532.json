@@ -1,6 +1,6 @@
 {
   "facility_code": "33002532",
-  "institution": "COLUMBIA UNIVERSITY - TEACHERS COLLEGE",
+  "institution": "Columbia University - Teachers College",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 196468,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 43,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "10027",
+  "email": false
 }

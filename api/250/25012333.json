@@ -1,6 +1,6 @@
 {
   "facility_code": "25012333",
-  "institution": "AVEDA INSTITUTE CHAPEL HILL",
+  "institution": "Aveda Institute Chapel Hill",
   "city": "Chapel Hill",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 455141,
-  "grad_rate": 66.3,
-  "grad_rate_rank": 1349,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 10710,
-  "avg_stu_loan_debt_rank": 2213,
-  "indicator_group": 5
+  "grad_rate": 74.1,
+  "grad_rate_rank": 971,
+  "default_rate": 29.3,
+  "avg_stu_loan_debt": 9976,
+  "avg_stu_loan_debt_rank": 1520,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "27516",
+  "email": true
 }

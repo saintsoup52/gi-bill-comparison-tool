@@ -1,6 +1,6 @@
 {
   "facility_code": "28022529",
-  "institution": "SCH NAIL DESIGNINC DBA LAIRD INST OF SPA THERAPY - MANCHESTER",
+  "institution": "Sch Nail Designinc Dba Laird Inst Of Spa Therapy - Manchester",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 461290,
-  "grad_rate": 87.5,
-  "grad_rate_rank": 340,
-  "default_rate": null,
-  "avg_stu_loan_debt": 7901,
-  "avg_stu_loan_debt_rank": 1328,
-  "indicator_group": 5
+  "grad_rate": 93.8,
+  "grad_rate_rank": 172,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3102",
+  "email": false
 }

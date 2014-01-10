@@ -1,6 +1,6 @@
 {
   "facility_code": "25012922",
-  "institution": "EVEREST INSTITUTE - KALAMAZOO",
+  "institution": "Everest Institute - Kalamazoo",
   "city": "Kalamazoo",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 373890,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 1002,
-  "default_rate": 26.3,
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
+  "default_rate": 16.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49009",
+  "email": true
 }

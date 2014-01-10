@@ -1,6 +1,6 @@
 {
   "facility_code": "24041140",
-  "institution": "CENTURA COLLEGE - COLUMBIA",
+  "institution": "Centura College - Columbia",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 30,
   "cross": 444972,
-  "grad_rate": 52.9,
-  "grad_rate_rank": 1840,
-  "default_rate": 33.3,
+  "grad_rate": 68.0,
+  "grad_rate_rank": 193,
+  "default_rate": 23.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "29223",
+  "email": true
 }

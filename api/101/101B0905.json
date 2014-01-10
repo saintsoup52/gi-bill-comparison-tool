@@ -1,6 +1,6 @@
 {
   "facility_code": "101B0905",
-  "institution": "TWELVE BRIDGES GOLF CLUB (CHAPTER 31)",
+  "institution": "Twelve Bridges Golf Club (Chapter 31)",
   "city": "Lincoln",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95648",
+  "email": false
 }

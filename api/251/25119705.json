@@ -1,6 +1,6 @@
 {
   "facility_code": "25119705",
-  "institution": "LAURUS COLLEGE",
+  "institution": "Laurus College",
   "city": "Santa Maria",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 44,
   "cross": 454786,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 18.7,
+  "grad_rate": 40.7,
+  "grad_rate_rank": 2094,
+  "default_rate": 24.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93454",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25011111",
-  "institution": "EVEREST INSTITUTE (MARIETTA)",
+  "institution": "Everest Institute (Marietta)",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 430421,
-  "grad_rate": 55.8,
-  "grad_rate_rank": 1751,
-  "default_rate": 26.6,
+  "grad_rate": 60.4,
+  "grad_rate_rank": 1623,
+  "default_rate": 19.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30067",
+  "email": true
 }

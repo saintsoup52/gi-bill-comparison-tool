@@ -1,6 +1,6 @@
 {
   "facility_code": "11001404",
-  "institution": "ARKANSAS TECH UNIVERSITY",
+  "institution": "Arkansas Tech University",
   "city": "Russellville",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 406,
   "cross": 106467,
-  "grad_rate": 42.8,
-  "grad_rate_rank": 1133,
-  "default_rate": 18.5,
-  "avg_stu_loan_debt": 10250,
-  "avg_stu_loan_debt_rank": 263,
-  "indicator_group": 1
+  "grad_rate": 40.9,
+  "grad_rate_rank": 1216,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72801",
+  "email": false
 }

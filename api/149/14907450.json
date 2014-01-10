@@ -1,6 +1,6 @@
 {
   "facility_code": "14907450",
-  "institution": "NORTHWEST COLLEGE",
+  "institution": "Northwest College",
   "city": "Powell",
   "state": "WY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 57,
   "cross": 240657,
-  "grad_rate": 31.9,
-  "grad_rate_rank": 480,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 5788,
-  "avg_stu_loan_debt_rank": 418,
-  "indicator_group": 2
+  "grad_rate": 29.1,
+  "grad_rate_rank": 655,
+  "default_rate": 13.0,
+  "avg_stu_loan_debt": 6629,
+  "avg_stu_loan_debt_rank": 411,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "82435",
+  "email": true
 }

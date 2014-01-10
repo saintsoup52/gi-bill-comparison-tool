@@ -1,6 +1,6 @@
 {
   "facility_code": "31935113",
-  "institution": "ILLINOIS INSTITUTE OF TECHNOLOGY/STUART SCHOOL OF BUSINESS",
+  "institution": "Illinois Institute Of Technology/Stuart School Of Business",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 145725,
-  "grad_rate": 63.6,
-  "grad_rate_rank": 459,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 22444,
-  "avg_stu_loan_debt_rank": 1700,
-  "indicator_group": 1
+  "grad_rate": 68.3,
+  "grad_rate_rank": 342,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 23474,
+  "avg_stu_loan_debt_rank": 1572,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60616",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20899535",
-  "institution": "LIBERTY MEDIA INC (31)",
+  "institution": "Liberty Media Inc (31)",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44124",
+  "email": "No (SCO)"
 }

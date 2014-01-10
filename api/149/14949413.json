@@ -1,6 +1,6 @@
 {
   "facility_code": "14949413",
-  "institution": "TRITON COLLEGE",
+  "institution": "Triton College",
   "city": "River Grove",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 260,
   "cross": 149532,
-  "grad_rate": 14.4,
-  "grad_rate_rank": 1049,
-  "default_rate": 12.7,
+  "grad_rate": 14.9,
+  "grad_rate_rank": 1114,
+  "default_rate": 16.0,
   "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 245,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 136,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "60171",
+  "email": true
 }

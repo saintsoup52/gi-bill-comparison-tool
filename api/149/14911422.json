@@ -1,6 +1,6 @@
 {
   "facility_code": "14911422",
-  "institution": "KELLOGG COMMUNITY COLLEGE",
+  "institution": "Kellogg Community College",
   "city": "Battle Creek",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 203,
   "cross": 170550,
-  "grad_rate": 14.7,
-  "grad_rate_rank": 1039,
-  "default_rate": 14.5,
-  "avg_stu_loan_debt": 8145,
-  "avg_stu_loan_debt_rank": 661,
-  "indicator_group": 2
+  "grad_rate": 21.0,
+  "grad_rate_rank": 909,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 8875,
+  "avg_stu_loan_debt_rank": 612,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "49017",
+  "email": true
 }

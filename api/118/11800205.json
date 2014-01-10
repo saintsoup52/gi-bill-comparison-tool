@@ -1,6 +1,6 @@
 {
   "facility_code": "11800205",
-  "institution": "UNIVERSITY OF CALIFORNIA  IRVINE EXTENSION",
+  "institution": "University Of California  Irvine Extension",
   "city": "Irvine",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 27,
   "cross": 110653,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 102,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 18132,
-  "avg_stu_loan_debt_rank": 1105,
-  "indicator_group": 1
+  "grad_rate": 85.6,
+  "grad_rate_rank": 93,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92616",
+  "email": false
 }

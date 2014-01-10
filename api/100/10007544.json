@@ -1,6 +1,6 @@
 {
   "facility_code": "10007544",
-  "institution": "US FEDERAL RESERVE BANK SALT LAKE CITY BRANCH APP",
+  "institution": "Us Federal Reserve Bank Salt Lake City Branch App",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84111",
+  "email": false
 }

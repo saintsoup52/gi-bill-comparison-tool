@@ -1,6 +1,6 @@
 {
   "facility_code": "103C3005",
-  "institution": "UNITED STATES MARINE CORPS PROVOST MARSHAL'S OFFICE",
+  "institution": "United States Marine Corps Provost Marshal'S Office",
   "city": "Twentynine Palms",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92278",
+  "email": false
 }

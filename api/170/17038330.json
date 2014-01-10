@@ -1,6 +1,6 @@
 {
   "facility_code": "17038330",
-  "institution": "JAMES J. FERRIS HIGH SCHOOL",
+  "institution": "James J. Ferris High School",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7302",
+  "email": true
 }

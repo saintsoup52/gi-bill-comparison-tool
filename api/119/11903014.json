@@ -1,6 +1,6 @@
 {
   "facility_code": "11903014",
-  "institution": "UNIVERSITY OF SOUTHERN INDIANA",
+  "institution": "University Of Southern Indiana",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 302,
   "cross": 151306,
-  "grad_rate": 34.3,
-  "grad_rate_rank": 1381,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 11866,
-  "avg_stu_loan_debt_rank": 422,
-  "indicator_group": 1
+  "grad_rate": 35.5,
+  "grad_rate_rank": 1379,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 12418,
+  "avg_stu_loan_debt_rank": 302,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47712",
+  "email": true
 }

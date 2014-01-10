@@ -1,6 +1,6 @@
 {
   "facility_code": "31804132",
-  "institution": "MEDAILLE COLLEGE-ACCELERATED LEARNING PROGRAM",
+  "institution": "Medaille College-Accelerated Learning Program",
   "city": "Williamsville",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 77,
   "cross": 192925,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 876,
-  "default_rate": 9.2,
-  "avg_stu_loan_debt": 19125,
-  "avg_stu_loan_debt_rank": 1265,
-  "indicator_group": 1
+  "grad_rate": 44.7,
+  "grad_rate_rank": 1076,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14221",
+  "email": true
 }

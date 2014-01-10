@@ -1,6 +1,6 @@
 {
   "facility_code": "25055505",
-  "institution": "THE TRAVEL ACADEMY (CHAP 31)",
+  "institution": "The Travel Academy (Chap 31)",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92704",
+  "email": "No (SCO)"
 }

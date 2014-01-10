@@ -1,6 +1,6 @@
 {
   "facility_code": "20C04643",
-  "institution": "PRESCRIPTION PEST ENVIRO SVCS",
+  "institution": "Prescription Pest Enviro Svcs",
   "city": "Round Rock",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78664",
+  "email": false
 }

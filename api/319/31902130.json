@@ -1,6 +1,6 @@
 {
   "facility_code": "31902130",
-  "institution": "SAINT PETER'S COLLEGE",
+  "institution": "Saint Peter'S College",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 186432,
-  "grad_rate": 50.5,
-  "grad_rate_rank": 862,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 20392,
-  "avg_stu_loan_debt_rank": 1468,
-  "indicator_group": 1
+  "grad_rate": 52.5,
+  "grad_rate_rank": 818,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7306",
+  "email": true
 }

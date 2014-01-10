@@ -1,6 +1,6 @@
 {
   "facility_code": "11002106",
-  "institution": "WESTERN STATE COLORADO UNIVERSITY",
+  "institution": "Western State Colorado University",
   "city": "Gunnison",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 128391,
-  "grad_rate": 38.7,
-  "grad_rate_rank": 1278,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "grad_rate": 37.5,
+  "grad_rate_rank": 1319,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "81231",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25004626",
-  "institution": "HEALTH WORKS INSTITUTE",
+  "institution": "Health Works Institute",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 444644,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 6967,
+  "avg_stu_loan_debt_rank": 628,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "59715",
+  "email": true
 }

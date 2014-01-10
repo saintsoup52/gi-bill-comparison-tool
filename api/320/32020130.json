@@ -1,6 +1,6 @@
 {
   "facility_code": "32020130",
-  "institution": "COOPER HOSPITAL/UMC PROCEDURAL DERMATOLOGY FELLOWSHIP",
+  "institution": "Cooper Hospital/Umc Procedural Dermatology Fellowship",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8103",
+  "email": true
 }

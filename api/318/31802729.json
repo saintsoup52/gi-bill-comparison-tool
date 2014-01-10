@@ -1,6 +1,6 @@
 {
   "facility_code": "31802729",
-  "institution": "FRANKLIN PIERCE UNIVERSITY - WEST LEBANON",
+  "institution": "Franklin Pierce University - West Lebanon",
   "city": "West Lebanon",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 182795,
-  "grad_rate": 50.8,
-  "grad_rate_rank": 856,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 21514,
-  "avg_stu_loan_debt_rank": 1599,
-  "indicator_group": 1
+  "grad_rate": 49.7,
+  "grad_rate_rank": 914,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 21700,
+  "avg_stu_loan_debt_rank": 1396,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3784",
+  "email": true
 }

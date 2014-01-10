@@ -1,6 +1,6 @@
 {
   "facility_code": "25538105",
-  "institution": "CAREER ACADEMY OF BEAUTY",
+  "institution": "Career Academy Of Beauty",
   "city": "Garden Grove",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 111513,
-  "grad_rate": 71.7,
-  "grad_rate_rank": 1093,
-  "default_rate": 24.2,
-  "avg_stu_loan_debt": 6332,
-  "avg_stu_loan_debt_rank": 1006,
-  "indicator_group": 5
+  "grad_rate": 71.2,
+  "grad_rate_rank": 1119,
+  "default_rate": 25.1,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92845",
+  "email": false
 }

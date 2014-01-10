@@ -1,6 +1,6 @@
 {
   "facility_code": "15532735",
-  "institution": "GALLIA-JACKSON-VINTON JVSD DISTRICT (BUCKEYE HILLS CAREER CENTER)",
+  "institution": "Gallia-Jackson-Vinton Jvsd District (Buckeye Hills Career Center)",
   "city": "Rio Grande",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 201478,
-  "grad_rate": 95.1,
-  "grad_rate_rank": 130,
-  "default_rate": 16.6,
+  "grad_rate": 90.4,
+  "grad_rate_rank": 258,
+  "default_rate": 30.3,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45674",
+  "email": true
 }

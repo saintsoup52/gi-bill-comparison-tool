@@ -1,6 +1,6 @@
 {
   "facility_code": "21109905",
-  "institution": "ARGOSY UNIVERSITY (ORANGE COUNTY)",
+  "institution": "Argosy University (Orange County)",
   "city": "Orange",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 70,
   "cross": 436438,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92868",
+  "email": true
 }

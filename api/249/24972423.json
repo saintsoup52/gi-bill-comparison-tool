@@ -1,6 +1,6 @@
 {
   "facility_code": "24972423",
-  "institution": "LECORDON BLEU COLLEGE OF CULINARY ARTS MPLS/ST PAUL",
+  "institution": "Lecordon Bleu College Of Culinary Arts Mpls/St Paul",
   "city": "Mendota Heights",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 75,
   "cross": 446844,
-  "grad_rate": 63.5,
-  "grad_rate_rank": 105,
-  "default_rate": 23.9,
-  "avg_stu_loan_debt": 17831,
-  "avg_stu_loan_debt_rank": 1355,
-  "indicator_group": 2
+  "grad_rate": 60.7,
+  "grad_rate_rank": 162,
+  "default_rate": 24.0,
+  "avg_stu_loan_debt": 14966,
+  "avg_stu_loan_debt_rank": 989,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55120",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11505001",
-  "institution": "JACKSONVILLE STATE UNIVERSITY",
+  "institution": "Jacksonville State University",
   "city": "Jacksonville",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 485,
   "cross": 101480,
-  "grad_rate": 31.5,
-  "grad_rate_rank": 1457,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 15125,
-  "avg_stu_loan_debt_rank": 750,
-  "indicator_group": 1
+  "grad_rate": 28.6,
+  "grad_rate_rank": 1563,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36265",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15014229",
-  "institution": "PROFILE JR/SR HIGH SCHOOL",
+  "institution": "Profile Jr/Sr High School",
   "city": "Bethlehem",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3574",
+  "email": false
 }

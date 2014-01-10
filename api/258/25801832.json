@@ -1,6 +1,6 @@
 {
   "facility_code": "25801832",
-  "institution": "FRANKLIN CAREER INSTITUTE - BROOKLYN",
+  "institution": "Franklin Career Institute - Brooklyn",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 436012,
-  "grad_rate": 59.8,
-  "grad_rate_rank": 1601,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 78.6,
+  "grad_rate_rank": 720,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11220",
+  "email": true
 }

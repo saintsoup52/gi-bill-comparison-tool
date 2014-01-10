@@ -1,6 +1,6 @@
 {
   "facility_code": "20199212",
-  "institution": "POCATELLO & SOUTHEASTERN IDAHO SHEET METAL WORKERS JATC",
+  "institution": "Pocatello & Southeastern Idaho Sheet Metal Workers Jatc",
   "city": "Pocatello",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83201",
+  "email": false
 }

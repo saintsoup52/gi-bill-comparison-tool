@@ -1,6 +1,6 @@
 {
   "facility_code": "24900716",
-  "institution": "VATTEROTT COLLEGE-WICHITA",
+  "institution": "Vatterott College-Wichita",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 54,
   "cross": 440891,
-  "grad_rate": 56.7,
-  "grad_rate_rank": 165,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 815,
-  "indicator_group": 3
+  "grad_rate": 57.8,
+  "grad_rate_rank": 322,
+  "default_rate": 23.8,
+  "avg_stu_loan_debt": 19222,
+  "avg_stu_loan_debt_rank": 706,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "67226",
+  "email": false
 }

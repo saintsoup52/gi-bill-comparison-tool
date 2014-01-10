@@ -1,6 +1,6 @@
 {
   "facility_code": "31045413",
-  "institution": "HEBREW THEOLOGICAL COLLEGE",
+  "institution": "Hebrew Theological College",
   "city": "Skokie",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 145497,
-  "grad_rate": 5.7,
-  "grad_rate_rank": 1818,
-  "default_rate": 4.3,
+  "grad_rate": 8.8,
+  "grad_rate_rank": 1839,
+  "default_rate": 5.8,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 115,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 29,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60077",
+  "email": true
 }

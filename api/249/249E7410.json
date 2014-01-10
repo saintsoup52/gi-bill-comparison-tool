@@ -1,6 +1,6 @@
 {
   "facility_code": "249E7410",
-  "institution": "INSTITUTE OF TECHNICAL ARTS",
+  "institution": "Institute Of Technical Arts",
   "city": "Casselberry",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32707",
+  "email": true
 }

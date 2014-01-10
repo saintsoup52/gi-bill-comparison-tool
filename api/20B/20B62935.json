@@ -1,6 +1,6 @@
 {
   "facility_code": "20B62935",
-  "institution": "JOB COACHING SERVICES INC (31)",
+  "institution": "Job Coaching Services Inc (31)",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43604",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15007211",
-  "institution": "JONES COUNTY HIGH SCHOOL",
+  "institution": "Jones County High School",
   "city": "Gray",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31032",
+  "email": true
 }

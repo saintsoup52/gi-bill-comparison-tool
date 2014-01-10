@@ -1,6 +1,6 @@
 {
   "facility_code": "31901048",
-  "institution": "APPALACHIAN BIBLE COLLEGE",
+  "institution": "Appalachian Bible College",
   "city": "Mount Hope",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 237136,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 1403,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 145,
-  "indicator_group": 1
+  "grad_rate": 47.2,
+  "grad_rate_rank": 998,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 106,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "25880",
+  "email": true
 }

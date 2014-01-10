@@ -1,6 +1,6 @@
 {
   "facility_code": "32546535",
-  "institution": "SAINT VINCENT MERCY MEDICAL CENTER-EMERGENCY MEDICINE RESIDENCY",
+  "institution": "Saint Vincent Mercy Medical Center-Emergency Medicine Residency",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43608",
+  "email": false
 }

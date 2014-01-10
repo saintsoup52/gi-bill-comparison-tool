@@ -1,6 +1,6 @@
 {
   "facility_code": "11000541",
-  "institution": "UNIVERSITY OF SOUTH DAKOTA",
+  "institution": "University Of South Dakota",
   "city": "Vermillion",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 473,
   "cross": 219471,
-  "grad_rate": 46.9,
-  "grad_rate_rank": 988,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 17125,
-  "avg_stu_loan_debt_rank": 965,
-  "indicator_group": 1
+  "grad_rate": 45.2,
+  "grad_rate_rank": 1054,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 16312,
+  "avg_stu_loan_debt_rank": 728,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57069",
+  "email": false
 }

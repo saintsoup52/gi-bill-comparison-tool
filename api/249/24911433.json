@@ -1,6 +1,6 @@
 {
   "facility_code": "24911433",
-  "institution": "MILLER-MOTTE COLLEGE @ CARY",
+  "institution": "Miller-Motte College @ Cary",
   "city": "Cary",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 449117,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 152,
-  "default_rate": 20.2,
+  "grad_rate": 65.4,
+  "grad_rate_rank": 232,
+  "default_rate": 17.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "27518",
+  "email": true
 }

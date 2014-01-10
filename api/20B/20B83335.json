@@ -1,6 +1,6 @@
 {
   "facility_code": "20B83335",
-  "institution": "KAREN D. BECKWITH  (31)",
+  "institution": "Karen D. Beckwith  (31)",
   "city": "Shaker Hts.",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44120",
+  "email": "No (SCO)"
 }

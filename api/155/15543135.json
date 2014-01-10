@@ -1,6 +1,6 @@
 {
   "facility_code": "15543135",
-  "institution": "VANGUARD-SENTINEL CAREER CENTER",
+  "institution": "Vanguard-Sentinel Career Center",
   "city": "Fremont",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 421717,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43420",
+  "email": true
 }

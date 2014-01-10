@@ -1,6 +1,6 @@
 {
   "facility_code": "25006804",
-  "institution": "ARKANSAS BEAUTY COLLEGE-RUSSELLVILLE",
+  "institution": "Arkansas Beauty College-Russellville",
   "city": "Russellville",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 106324,
-  "grad_rate": 65.0,
-  "grad_rate_rank": 1390,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 6085,
-  "avg_stu_loan_debt_rank": 971,
-  "indicator_group": 5
+  "grad_rate": 65.1,
+  "grad_rate_rank": 1422,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 5750,
+  "avg_stu_loan_debt_rank": 384,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72801",
+  "email": false
 }

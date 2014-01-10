@@ -1,6 +1,6 @@
 {
   "facility_code": "38403532",
-  "institution": "ANIMAL BEHAVIOR CENTER OF NEW YORK",
+  "institution": "Animal Behavior Center Of New York",
   "city": "Rego Park",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11374",
+  "email": false
 }

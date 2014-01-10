@@ -1,6 +1,6 @@
 {
   "facility_code": "31905105",
-  "institution": "PACIFIC UNION COLLEGE",
+  "institution": "Pacific Union College",
   "city": "Angwin",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 58,
   "cross": 120865,
-  "grad_rate": 44.7,
-  "grad_rate_rank": 1065,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 19002,
-  "avg_stu_loan_debt_rank": 1258,
-  "indicator_group": 1
+  "grad_rate": 39.9,
+  "grad_rate_rank": 1258,
+  "default_rate": 12.4,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94508",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11905124",
-  "institution": "JACKSON STATE UNIVERSITY",
+  "institution": "Jackson State University",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 280,
   "cross": 175856,
-  "grad_rate": 40.1,
-  "grad_rate_rank": 1227,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 25706,
-  "avg_stu_loan_debt_rank": 1999,
-  "indicator_group": 1
+  "grad_rate": 45.1,
+  "grad_rate_rank": 1060,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 25516,
+  "avg_stu_loan_debt_rank": 1812,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39217",
+  "email": false
 }

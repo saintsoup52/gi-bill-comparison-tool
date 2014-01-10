@@ -1,6 +1,6 @@
 {
   "facility_code": "24804303",
-  "institution": "CARRINGTON COLLEGE - WESTSIDE",
+  "institution": "Carrington College - Westside",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 81,
   "cross": 250601,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 23.5,
+  "grad_rate": 56.4,
+  "grad_rate_rank": 207,
+  "default_rate": 25.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85017",
+  "email": false
 }

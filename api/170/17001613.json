@@ -1,6 +1,6 @@
 {
   "facility_code": "17001613",
-  "institution": "HENRY-SENACHWINE HIGH SCHOOL",
+  "institution": "Henry-Senachwine High School",
   "city": "Henry",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61537",
+  "email": true
 }

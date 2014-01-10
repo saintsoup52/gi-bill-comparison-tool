@@ -1,6 +1,6 @@
 {
   "facility_code": "21902128",
-  "institution": "MORRISON UNIVERSITY",
+  "institution": "Morrison University",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 37,
   "cross": 182430,
-  "grad_rate": 92.3,
-  "grad_rate_rank": 13,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 8052,
-  "avg_stu_loan_debt_rank": 652,
-  "indicator_group": 2
+  "grad_rate": 27.6,
+  "grad_rate_rank": 705,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 8390,
+  "avg_stu_loan_debt_rank": 576,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "89511",
+  "email": true
 }

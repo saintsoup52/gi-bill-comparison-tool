@@ -1,6 +1,6 @@
 {
   "facility_code": "31010211",
-  "institution": "SAVANNAH COLLEGE OF ART AND DESIGN - (SAVANNAH)",
+  "institution": "Savannah College Of Art And Design - (Savannah)",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 295,
   "cross": 140951,
-  "grad_rate": 64.2,
-  "grad_rate_rank": 451,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 30916,
-  "avg_stu_loan_debt_rank": 2041,
-  "indicator_group": 1
+  "grad_rate": 65.3,
+  "grad_rate_rank": 425,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 31000,
+  "avg_stu_loan_debt_rank": 1967,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25158805",
-  "institution": "BIOHEALTH COLLEGE",
+  "institution": "Biohealth College",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 454731,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 4478,
-  "avg_stu_loan_debt_rank": 734,
-  "indicator_group": 5
+  "grad_rate": 88.5,
+  "grad_rate_rank": 317,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 4494,
+  "avg_stu_loan_debt_rank": 177,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95134",
+  "email": true
 }

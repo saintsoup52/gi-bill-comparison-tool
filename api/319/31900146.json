@@ -1,6 +1,6 @@
 {
   "facility_code": "31900146",
-  "institution": "UNIVERSITY OF RICHMOND",
+  "institution": "University Of Richmond",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 54,
   "cross": 233374,
-  "grad_rate": 82.7,
-  "grad_rate_rank": 117,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 82.8,
+  "grad_rate_rank": 122,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 18540,
+  "avg_stu_loan_debt_rank": 989,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23173",
+  "email": true
 }

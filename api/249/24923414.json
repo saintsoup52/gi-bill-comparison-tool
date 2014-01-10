@@ -1,6 +1,6 @@
 {
   "facility_code": "24923414",
-  "institution": "KAPLAN COLLEGE - INDIANAPOLIS",
+  "institution": "Kaplan College - Indianapolis",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 12,
   "cross": 152220,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 17.3,
-  "avg_stu_loan_debt": 9303,
-  "avg_stu_loan_debt_rank": 429,
-  "indicator_group": 3
+  "grad_rate": 65.3,
+  "grad_rate_rank": 233,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "46278",
+  "email": true
 }

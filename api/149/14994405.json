@@ -1,6 +1,6 @@
 {
   "facility_code": "14994405",
-  "institution": "AMERICAN RIVER COLLEGE",
+  "institution": "American River College",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1014,
   "cross": 109208,
-  "grad_rate": 22.2,
-  "grad_rate_rank": 790,
-  "default_rate": 27.5,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 639,
-  "indicator_group": 2
+  "grad_rate": 20.0,
+  "grad_rate_rank": 939,
+  "default_rate": 30.3,
+  "avg_stu_loan_debt": 8072,
+  "avg_stu_loan_debt_rank": 556,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "95841",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25050501",
-  "institution": "PREMIERE DRIVING ACADEMY",
+  "institution": "Premiere Driving Academy",
   "city": "Theodore",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36582",
+  "email": true
 }

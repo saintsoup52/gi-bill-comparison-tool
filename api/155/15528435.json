@@ -1,6 +1,6 @@
 {
   "facility_code": "15528435",
-  "institution": "CHOFFIN CAREER CENTER",
+  "institution": "Choffin Career Center",
   "city": "Youngstown",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 201803,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 2.0,
+  "grad_rate": 55.6,
+  "grad_rate_rank": 1786,
+  "default_rate": 18.5,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44503",
+  "email": true
 }

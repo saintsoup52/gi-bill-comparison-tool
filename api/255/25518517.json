@@ -1,6 +1,6 @@
 {
   "facility_code": "25518517",
-  "institution": "MICHAEL'S COLLEGE OF HAIR DESIGN",
+  "institution": "Michael'S College Of Hair Design",
   "city": "Florence",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41042",
+  "email": false
 }

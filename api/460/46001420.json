@@ -1,6 +1,6 @@
 {
   "facility_code": "46001420",
-  "institution": "NORTH EAST REGIONAL BOARD OF DENTAL EXAMINERS INC",
+  "institution": "North East Regional Board Of Dental Examiners Inc",
   "city": "Silver Spring",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20910",
+  "email": true
 }

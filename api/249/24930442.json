@@ -1,6 +1,6 @@
 {
   "facility_code": "24930442",
-  "institution": "MILLER MOTTE TECHNICAL COLLEGE - CLARKSVILLE",
+  "institution": "Miller Motte Technical College - Clarksville",
   "city": "Clarksville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 172,
   "cross": 382771,
-  "grad_rate": 30.0,
-  "grad_rate_rank": 342,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 12185,
-  "avg_stu_loan_debt_rank": 722,
-  "indicator_group": 3
+  "grad_rate": 37.7,
+  "grad_rate_rank": 454,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 10484,
+  "avg_stu_loan_debt_rank": 752,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37040",
+  "email": false
 }

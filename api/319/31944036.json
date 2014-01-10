@@ -1,6 +1,6 @@
 {
   "facility_code": "31944036",
-  "institution": "SAINT GREGORY'S UNIVERSITY",
+  "institution": "Saint Gregory'S University",
   "city": "Shawnee",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 207689,
-  "grad_rate": 29.4,
-  "grad_rate_rank": 1511,
-  "default_rate": 19.0,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "grad_rate": 24.7,
+  "grad_rate_rank": 1645,
+  "default_rate": 24.5,
+  "avg_stu_loan_debt": 16750,
+  "avg_stu_loan_debt_rank": 777,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74804",
+  "email": true
 }

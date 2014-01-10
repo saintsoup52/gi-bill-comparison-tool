@@ -1,6 +1,6 @@
 {
   "facility_code": "15Z00214",
-  "institution": "NORTH CENTRAL INDIANA SMALL BUSINESS DEVELOPMENT CENTER",
+  "institution": "North Central Indiana Small Business Development Center",
   "city": "Kokomo",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46902",
+  "email": false
 }

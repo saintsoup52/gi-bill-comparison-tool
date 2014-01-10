@@ -1,6 +1,6 @@
 {
   "facility_code": "101B1405",
-  "institution": "CITY OF FONTANA POLICE DEPT.",
+  "institution": "City Of Fontana Police Dept.",
   "city": "Fontana",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92335",
+  "email": false
 }

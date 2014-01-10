@@ -1,6 +1,6 @@
 {
   "facility_code": "35007705",
-  "institution": "HOMESTEAD SCHOOLS INC.",
+  "institution": "Homestead Schools Inc.",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 457086,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 17060,
-  "avg_stu_loan_debt_rank": 2508,
-  "indicator_group": 5
+  "grad_rate": 91.4,
+  "grad_rate_rank": 235,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 17072,
+  "avg_stu_loan_debt_rank": 1963,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90505",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31925122",
-  "institution": "COLLEGE FOR CREATIVE STUDIES",
+  "institution": "College For Creative Studies",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 28,
   "cross": 169442,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 648,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 25876,
-  "avg_stu_loan_debt_rank": 2003,
-  "indicator_group": 1
+  "grad_rate": 57.3,
+  "grad_rate_rank": 657,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48202",
+  "email": true
 }

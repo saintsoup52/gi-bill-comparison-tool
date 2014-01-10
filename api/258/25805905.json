@@ -1,6 +1,6 @@
 {
   "facility_code": "25805905",
-  "institution": "MARINELLO SCHOOL OF BEAUTY (LAKE FOREST)",
+  "institution": "Marinello School Of Beauty (Lake Forest)",
   "city": "Lake Forest",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 124344,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 1191,
-  "default_rate": 8.9,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 1136,
-  "indicator_group": 5
+  "grad_rate": 54.0,
+  "grad_rate_rank": 1838,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92630",
+  "email": true
 }

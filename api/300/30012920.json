@@ -1,6 +1,6 @@
 {
   "facility_code": "30012920",
-  "institution": "CUMBERLAND PLUMBERS & PIPEFITTERS LOCAL 489 JAC",
+  "institution": "Cumberland Plumbers & Pipefitters Local 489 Jac",
   "city": "Cumberland",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21502",
+  "email": true
 }

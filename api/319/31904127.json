@@ -1,6 +1,6 @@
 {
   "facility_code": "31904127",
-  "institution": "GRACE UNIVERSITY",
+  "institution": "Grace University",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 181093,
-  "grad_rate": 30.4,
-  "grad_rate_rank": 1491,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 16668,
-  "avg_stu_loan_debt_rank": 909,
-  "indicator_group": 1
+  "grad_rate": 41.3,
+  "grad_rate_rank": 1201,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 484,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68108",
+  "email": true
 }

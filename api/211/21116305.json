@@ -1,6 +1,6 @@
 {
   "facility_code": "21116305",
-  "institution": "UNITEK COLLEGE",
+  "institution": "Unitek College",
   "city": "Fremont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 459204,
-  "grad_rate": 61.5,
-  "grad_rate_rank": 123,
-  "default_rate": null,
+  "grad_rate": 74.2,
+  "grad_rate_rank": 129,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "94538",
+  "email": true
 }

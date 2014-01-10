@@ -1,6 +1,6 @@
 {
   "facility_code": "20012331",
-  "institution": "INTER. ASSOC. HEAT/FROST/INSULATORS/ASBESTOS WORK",
+  "institution": "Inter. Assoc. Heat/Frost/Insulators/Asbestos Work",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87108",
+  "email": false
 }

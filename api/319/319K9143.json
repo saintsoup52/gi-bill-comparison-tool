@@ -1,6 +1,6 @@
 {
   "facility_code": "319K9143",
-  "institution": "PARKER UNIVERSITY",
+  "institution": "Parker University",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 243823,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 5.1,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 171,
-  "indicator_group": 1
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75229",
+  "email": false
 }

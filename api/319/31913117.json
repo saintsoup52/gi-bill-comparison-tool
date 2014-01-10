@@ -1,6 +1,6 @@
 {
   "facility_code": "31913117",
-  "institution": "KENTUCKY CHRISTIAN UNIVERSITY",
+  "institution": "Kentucky Christian University",
   "city": "Grayson",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 157100,
-  "grad_rate": 44.2,
-  "grad_rate_rank": 1087,
-  "default_rate": 13.5,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 1
+  "grad_rate": 40.7,
+  "grad_rate_rank": 1222,
+  "default_rate": 19.8,
+  "avg_stu_loan_debt": 15075,
+  "avg_stu_loan_debt_rank": 557,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "41143",
+  "email": false
 }

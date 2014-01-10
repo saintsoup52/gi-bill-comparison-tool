@@ -1,6 +1,6 @@
 {
   "facility_code": "31910533",
-  "institution": "CAROLINA CHRISTIAN COLLEGE",
+  "institution": "Carolina Christian College",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 199971,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 40.0,
-  "avg_stu_loan_debt": 13020,
-  "avg_stu_loan_debt_rank": 561,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 6375,
+  "avg_stu_loan_debt_rank": 57,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27102",
+  "email": true
 }

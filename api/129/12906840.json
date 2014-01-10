@@ -1,6 +1,6 @@
 {
   "facility_code": "12906840",
-  "institution": "BAPTIST MEDICAL CENTER OF COLUMBIA",
+  "institution": "Baptist Medical Center Of Columbia",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29220",
+  "email": false
 }

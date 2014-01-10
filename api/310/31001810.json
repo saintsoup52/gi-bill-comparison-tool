@@ -1,6 +1,6 @@
 {
   "facility_code": "31001810",
-  "institution": "RINGLING COLLEGE OF ART AND DESIGN",
+  "institution": "Ringling College Of Art And Design",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 55,
   "cross": 136774,
-  "grad_rate": 65.9,
-  "grad_rate_rank": 409,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 37500,
-  "avg_stu_loan_debt_rank": 2057,
-  "indicator_group": 1
+  "grad_rate": 65.4,
+  "grad_rate_rank": 421,
+  "default_rate": 14.3,
+  "avg_stu_loan_debt": 37750,
+  "avg_stu_loan_debt_rank": 1993,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "34234",
+  "email": true
 }

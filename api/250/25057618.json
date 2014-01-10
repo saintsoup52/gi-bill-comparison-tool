@@ -1,6 +1,6 @@
 {
   "facility_code": "25057618",
-  "institution": "STAGE ONE THE HAIR SCHOOL",
+  "institution": "Stage One The Hair School",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 407151,
-  "grad_rate": 53.3,
-  "grad_rate_rank": 1830,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 4100,
-  "avg_stu_loan_debt_rank": 688,
-  "indicator_group": 5
+  "grad_rate": 68.2,
+  "grad_rate_rank": 1267,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 5200,
+  "avg_stu_loan_debt_rank": 259,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70605",
+  "email": true
 }

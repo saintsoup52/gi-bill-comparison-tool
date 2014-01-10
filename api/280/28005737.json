@@ -1,6 +1,6 @@
 {
   "facility_code": "28005737",
-  "institution": "COLLEGE OF COSMETOLOGY",
+  "institution": "College Of Cosmetology",
   "city": "Klamath Falls",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 210340,
-  "grad_rate": 63.3,
-  "grad_rate_rank": 1456,
-  "default_rate": 29.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 54.1,
+  "grad_rate_rank": 1836,
+  "default_rate": 38.8,
+  "avg_stu_loan_debt": 11574,
+  "avg_stu_loan_debt_rank": 1643,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97601",
+  "email": true
 }

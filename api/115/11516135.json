@@ -1,6 +1,6 @@
 {
   "facility_code": "11516135",
-  "institution": "UNIVERSITY OF CINCINNATI-VETERANS PROGRAMS AND SERVICES",
+  "institution": "University Of Cincinnati-Veterans Programs And Services",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1222,
   "cross": 201885,
-  "grad_rate": 58.7,
-  "grad_rate_rank": 602,
-  "default_rate": 8.9,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 1
+  "grad_rate": 62.2,
+  "grad_rate_rank": 509,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45221",
+  "email": true
 }

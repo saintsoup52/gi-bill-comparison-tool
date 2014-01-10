@@ -1,6 +1,6 @@
 {
   "facility_code": "249E0410",
-  "institution": "JERSEY COLLEGE - JACKSONVILLE",
+  "institution": "Jersey College - Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 455196,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 12743,
-  "avg_stu_loan_debt_rank": 732,
-  "indicator_group": 3
+  "grad_rate": 64.2,
+  "grad_rate_rank": 248,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 640,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "32256",
+  "email": true
 }

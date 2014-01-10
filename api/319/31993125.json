@@ -1,6 +1,6 @@
 {
   "facility_code": "31993125",
-  "institution": "HANNIBAL-LAGRANGE UNIVERSITY",
+  "institution": "Hannibal-Lagrange University",
   "city": "Hannibal",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 47,
   "cross": 177542,
-  "grad_rate": 39.4,
-  "grad_rate_rank": 1254,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 15617,
-  "avg_stu_loan_debt_rank": 799,
-  "indicator_group": 1
+  "grad_rate": 51.4,
+  "grad_rate_rank": 850,
+  "default_rate": 6.5,
+  "avg_stu_loan_debt": 17790,
+  "avg_stu_loan_debt_rank": 894,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63401",
+  "email": true
 }

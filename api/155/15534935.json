@@ -1,6 +1,6 @@
 {
   "facility_code": "15534935",
-  "institution": "EASTLAND-FAIRFIELD CAREER AND TECHNICAL SCHOOLS",
+  "institution": "Eastland-Fairfield Career And Technical Schools",
   "city": "Groveport",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 407461,
-  "grad_rate": 93.0,
-  "grad_rate_rank": 183,
-  "default_rate": 21.2,
+  "grad_rate": 90.1,
+  "grad_rate_rank": 266,
+  "default_rate": 17.3,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43125",
+  "email": false
 }

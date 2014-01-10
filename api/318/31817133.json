@@ -1,6 +1,6 @@
 {
   "facility_code": "31817133",
-  "institution": "DUKE UNIVERSITY SCHOOL OF MEDICINE",
+  "institution": "Duke University School Of Medicine",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 198419,
-  "grad_rate": 94.4,
-  "grad_rate_rank": 25,
+  "grad_rate": 94.5,
+  "grad_rate_rank": 24,
   "default_rate": 1.0,
-  "avg_stu_loan_debt": 8840,
-  "avg_stu_loan_debt_rank": 182,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27710",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11802105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-SACRAMENTO",
+  "institution": "California State University-Sacramento",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 804,
   "cross": 110617,
-  "grad_rate": 41.6,
-  "grad_rate_rank": 1173,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 41.4,
+  "grad_rate_rank": 1197,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 15570,
+  "avg_stu_loan_debt_rank": 587,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95819",
+  "email": true
 }

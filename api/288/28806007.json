@@ -1,6 +1,6 @@
 {
   "facility_code": "28806007",
-  "institution": "LEON INSTITUTE OF HAIR DESIGN",
+  "institution": "Leon Institute Of Hair Design",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 129640,
-  "grad_rate": 77.8,
-  "grad_rate_rank": 762,
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6604",
+  "email": false
 }

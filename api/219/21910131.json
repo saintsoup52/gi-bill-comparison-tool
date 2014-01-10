@@ -1,6 +1,6 @@
 {
   "facility_code": "21910131",
-  "institution": "NATIONAL AMERICAN UNIVERSITY",
+  "institution": "National American University",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 99,
   "cross": 248882,
-  "grad_rate": 14.3,
-  "grad_rate_rank": 1740,
-  "default_rate": 22.9,
-  "avg_stu_loan_debt": 11421,
-  "avg_stu_loan_debt_rank": 326,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 12479,
+  "avg_stu_loan_debt_rank": 306,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "87110",
+  "email": true
 }

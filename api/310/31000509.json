@@ -1,6 +1,6 @@
 {
   "facility_code": "31000509",
-  "institution": "SOUTHEASTERN UNIVERSITY",
+  "institution": "Southeastern University",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 137564,
-  "grad_rate": 41.7,
-  "grad_rate_rank": 1167,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 39.6,
+  "grad_rate_rank": 1265,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 21646,
+  "avg_stu_loan_debt_rank": 1393,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20024",
+  "email": false
 }

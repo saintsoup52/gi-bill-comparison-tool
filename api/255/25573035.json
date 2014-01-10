@@ -1,6 +1,6 @@
 {
   "facility_code": "25573035",
-  "institution": "NORTHCOAST MEDICAL TRAINING ACADEMY",
+  "institution": "Northcoast Medical Training Academy",
   "city": "Kent",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 449719,
-  "grad_rate": 91.0,
-  "grad_rate_rank": 233,
-  "default_rate": 26.2,
-  "avg_stu_loan_debt": 9400,
-  "avg_stu_loan_debt_rank": 1637,
-  "indicator_group": 5
+  "grad_rate": 71.7,
+  "grad_rate_rank": 1091,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44240",
+  "email": true
 }

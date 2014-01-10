@@ -1,6 +1,6 @@
 {
   "facility_code": "31001420",
-  "institution": "MCDANIEL COLLEGE",
+  "institution": "Mcdaniel College",
   "city": "Westminster",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 46,
   "cross": 164270,
-  "grad_rate": 73.6,
-  "grad_rate_rank": 247,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 20100,
-  "avg_stu_loan_debt_rank": 1441,
-  "indicator_group": 1
+  "grad_rate": 73.3,
+  "grad_rate_rank": 263,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21157",
+  "email": false
 }

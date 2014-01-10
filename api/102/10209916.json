@@ -1,6 +1,6 @@
 {
   "facility_code": "10209916",
-  "institution": "EL DORADO CORRECTIONAL FACILITY",
+  "institution": "El Dorado Correctional Facility",
   "city": "El Dorado",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67042",
+  "email": false
 }

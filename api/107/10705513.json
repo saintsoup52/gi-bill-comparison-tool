@@ -1,6 +1,6 @@
 {
   "facility_code": "10705513",
-  "institution": "LAKE FOREST POLICE DEPARTMENT",
+  "institution": "Lake Forest Police Department",
   "city": "Lake Forest",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60045",
+  "email": true
 }

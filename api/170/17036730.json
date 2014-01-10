@@ -1,6 +1,6 @@
 {
   "facility_code": "17036730",
-  "institution": "THE COLLEGE OF NEW JERSEY ADULT LEARNING CENTER",
+  "institution": "The College Of New Jersey Adult Learning Center",
   "city": "Ewing",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8628",
+  "email": false
 }

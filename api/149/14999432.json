@@ -1,6 +1,6 @@
 {
   "facility_code": "14999432",
-  "institution": "ADIRONDACK COMMUNITY COLLEGE",
+  "institution": "Adirondack Community College",
   "city": "Queensbury",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 211,
   "cross": 188438,
-  "grad_rate": 20.7,
-  "grad_rate_rank": 838,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 6950,
-  "avg_stu_loan_debt_rank": 548,
-  "indicator_group": 2
+  "grad_rate": 18.8,
+  "grad_rate_rank": 980,
+  "default_rate": 19.8,
+  "avg_stu_loan_debt": 7230,
+  "avg_stu_loan_debt_rank": 475,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12804",
+  "email": true
 }

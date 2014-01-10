@@ -1,6 +1,6 @@
 {
   "facility_code": "25099143",
-  "institution": "JAYS TECHNICAL INSTITUTE BEAUMONT",
+  "institution": "Jays Technical Institute Beaumont",
   "city": "Beaumont",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 443146,
-  "grad_rate": 57.8,
-  "grad_rate_rank": 1676,
-  "default_rate": 52.6,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 67.1,
+  "grad_rate_rank": 1316,
+  "default_rate": 58.1,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 262,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77703",
+  "email": false
 }

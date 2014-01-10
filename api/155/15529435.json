@@ -1,6 +1,6 @@
 {
   "facility_code": "15529435",
-  "institution": "GREENE COUNTY CAREER CENTER",
+  "institution": "Greene County Career Center",
   "city": "Xenia",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 365240,
-  "grad_rate": 94.4,
-  "grad_rate_rank": 151,
-  "default_rate": 25.8,
+  "grad_rate": 83.6,
+  "grad_rate_rank": 491,
+  "default_rate": 18.1,
   "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 956,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 410,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45385",
+  "email": true
 }

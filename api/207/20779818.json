@@ -1,6 +1,6 @@
 {
   "facility_code": "20779818",
-  "institution": "IRONMEN RIGGERS & RODMEN #58 JAC",
+  "institution": "Ironmen Riggers & Rodmen #58 Jac",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70126",
+  "email": false
 }

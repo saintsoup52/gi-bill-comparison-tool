@@ -1,6 +1,6 @@
 {
   "facility_code": "15009213",
-  "institution": "OFALLON TOWNSHIP HIGH SCHOOL DISTRICT 203",
+  "institution": "Ofallon Township High School District 203",
   "city": "Ofallon",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62269",
+  "email": true
 }

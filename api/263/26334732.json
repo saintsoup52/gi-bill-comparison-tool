@@ -1,6 +1,6 @@
 {
   "facility_code": "26334732",
-  "institution": "CHERYL FELLS SCHOOL OF BUSINESS",
+  "institution": "Cheryl Fells School Of Business",
   "city": "Niagara Falls Ny",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 189954,
-  "grad_rate": 73.0,
-  "grad_rate_rank": 1019,
-  "default_rate": 31.2,
-  "avg_stu_loan_debt": 14045,
-  "avg_stu_loan_debt_rank": 2444,
-  "indicator_group": 5
+  "grad_rate": 68.2,
+  "grad_rate_rank": 1267,
+  "default_rate": 38.0,
+  "avg_stu_loan_debt": 15750,
+  "avg_stu_loan_debt_rank": 1937,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14304",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20216024",
-  "institution": "JACKSON SHEETMETAL WORKERS JAC LOCAL 406",
+  "institution": "Jackson Sheetmetal Workers Jac Local 406",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39204",
+  "email": false
 }

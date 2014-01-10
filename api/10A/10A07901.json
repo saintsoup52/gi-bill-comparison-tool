@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07901",
-  "institution": "(CH31) US ARMY CORPS OF ENGINEERS MOBILE DISTRICT",
+  "institution": "(Ch31) Us Army Corps Of Engineers Mobile District",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36621",
+  "email": false
 }

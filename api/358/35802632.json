@@ -1,6 +1,6 @@
 {
   "facility_code": "35802632",
-  "institution": "LORETTO HEALTH & REHABILITATION LORETTO LIGHTS - NURSE AIDE TRAINING PROGRAM",
+  "institution": "Loretto Health & Rehabilitation Loretto Lights - Nurse Aide Training Program",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13205",
+  "email": true
 }

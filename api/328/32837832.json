@@ -1,6 +1,6 @@
 {
   "facility_code": "32837832",
-  "institution": "MEMORIAL SLOAN - KETTERING CANCER CENTER",
+  "institution": "Memorial Sloan - Kettering Cancer Center",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 192970,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10021",
+  "email": false
 }

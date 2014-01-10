@@ -1,6 +1,6 @@
 {
   "facility_code": "14840048",
-  "institution": "SOUTHERN WEST VIRGINIA COMMUNITY AND TECHNICAL COLLEGE",
+  "institution": "Southern West Virginia Community And Technical College",
   "city": "Mt. Gay",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 57,
   "cross": 237817,
-  "grad_rate": 12.6,
-  "grad_rate_rank": 1115,
-  "default_rate": 22.1,
-  "avg_stu_loan_debt": 4024,
-  "avg_stu_loan_debt_rank": 190,
-  "indicator_group": 2
+  "grad_rate": 9.4,
+  "grad_rate_rank": 1311,
+  "default_rate": 27.2,
+  "avg_stu_loan_debt": 4677,
+  "avg_stu_loan_debt_rank": 129,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "25637",
+  "email": true
 }

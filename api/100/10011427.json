@@ -1,6 +1,6 @@
 {
   "facility_code": "10011427",
-  "institution": "NEBRASKA STATE PATROL",
+  "institution": "Nebraska State Patrol",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "68509",
+  "email": true
 }

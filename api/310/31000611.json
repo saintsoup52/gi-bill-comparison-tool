@@ -1,6 +1,6 @@
 {
   "facility_code": "31000611",
-  "institution": "SPRING HILL COLLEGE",
+  "institution": "Spring Hill College",
   "city": "Norcross",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 102234,
-  "grad_rate": 60.9,
-  "grad_rate_rank": 536,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 61.7,
+  "grad_rate_rank": 522,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30093",
+  "email": true
 }

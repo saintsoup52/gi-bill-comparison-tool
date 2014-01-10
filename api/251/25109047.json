@@ -1,6 +1,6 @@
 {
   "facility_code": "25109047",
-  "institution": "GLEN DOW ACADEMY OF HAIR DESIGN",
+  "institution": "Glen Dow Academy Of Hair Design",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 235307,
-  "grad_rate": 88.8,
-  "grad_rate_rank": 314,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 7125,
-  "avg_stu_loan_debt_rank": 1163,
-  "indicator_group": 5
+  "grad_rate": 81.9,
+  "grad_rate_rank": 558,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 7731,
+  "avg_stu_loan_debt_rank": 772,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "99201",
+  "email": true
 }

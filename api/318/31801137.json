@@ -1,6 +1,6 @@
 {
   "facility_code": "31801137",
-  "institution": "LINFIELD COLLEGE (MCMINNVILLE CAMPUS)",
+  "institution": "Linfield College (Mcminnville Campus)",
   "city": "Mcminnville",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 209065,
-  "grad_rate": 72.8,
-  "grad_rate_rank": 260,
-  "default_rate": 2.4,
+  "grad_rate": 67.2,
+  "grad_rate_rank": 375,
+  "default_rate": 4.7,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97128",
+  "email": true
 }

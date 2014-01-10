@@ -1,6 +1,6 @@
 {
   "facility_code": "25409047",
-  "institution": "MASER'S ACADEMY OF FINE GROOMING - CH 31 ONLY",
+  "institution": "Maser'S Academy Of Fine Grooming - Ch 31 Only",
   "city": "Kenmore",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98028",
+  "email": false
 }

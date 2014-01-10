@@ -1,6 +1,6 @@
 {
   "facility_code": "25038543",
-  "institution": "ATI GRAPHIC ARTS INSTITUTE",
+  "institution": "Ati Graphic Arts Institute",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 222761,
-  "grad_rate": 52.0,
-  "grad_rate_rank": 1870,
-  "default_rate": 40.8,
-  "avg_stu_loan_debt": 10746,
-  "avg_stu_loan_debt_rank": 2215,
-  "indicator_group": 5
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75229",
+  "email": "No (SCO)"
 }

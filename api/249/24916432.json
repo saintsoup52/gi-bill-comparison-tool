@@ -1,6 +1,6 @@
 {
   "facility_code": "24916432",
-  "institution": "WOOD-TOBE COBURN SCHOOL",
+  "institution": "Wood-Tobe Coburn School",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 197522,
-  "grad_rate": 79.0,
-  "grad_rate_rank": 39,
-  "default_rate": 24.8,
-  "avg_stu_loan_debt": 14369,
-  "avg_stu_loan_debt_rank": 1102,
-  "indicator_group": 2
+  "grad_rate": 73.0,
+  "grad_rate_rank": 77,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 15825,
+  "avg_stu_loan_debt_rank": 1046,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10016",
+  "email": false
 }

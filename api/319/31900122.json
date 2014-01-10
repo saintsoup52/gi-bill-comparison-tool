@@ -1,6 +1,6 @@
 {
   "facility_code": "31900122",
-  "institution": "MARYGROVE COLLEGE",
+  "institution": "Marygrove College",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 170842,
-  "grad_rate": 22.1,
-  "grad_rate_rank": 1639,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 21750,
-  "avg_stu_loan_debt_rank": 1614,
-  "indicator_group": 1
+  "grad_rate": 16.4,
+  "grad_rate_rank": 1760,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 23625,
+  "avg_stu_loan_debt_rank": 1589,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48221",
+  "email": true
 }

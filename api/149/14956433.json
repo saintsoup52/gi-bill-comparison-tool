@@ -1,6 +1,6 @@
 {
   "facility_code": "14956433",
-  "institution": "PIEDMONT COMMUNITY COLLEGE",
+  "institution": "Piedmont Community College",
   "city": "Roxboro",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 199324,
-  "grad_rate": 50.7,
-  "grad_rate_rank": 199,
+  "grad_rate": 42.9,
+  "grad_rate_rank": 440,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 5000,
+  "avg_stu_loan_debt_rank": 94,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "27573",
+  "email": true
 }

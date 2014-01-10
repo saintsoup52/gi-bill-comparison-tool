@@ -1,6 +1,6 @@
 {
   "facility_code": "20089722",
-  "institution": "MICHIGAN DEPARTMENT OF CORRECTIONS THUMB CORRECTIONAL FACILITY",
+  "institution": "Michigan Department Of Corrections Thumb Correctional Facility",
   "city": "Lapeer",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48446",
+  "email": true
 }

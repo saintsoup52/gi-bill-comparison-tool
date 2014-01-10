@@ -1,6 +1,6 @@
 {
   "facility_code": "31943138",
-  "institution": "LANCASTER BIBLE COLLEGE",
+  "institution": "Lancaster Bible College",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 213400,
-  "grad_rate": 48.5,
-  "grad_rate_rank": 943,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 73.3,
+  "grad_rate_rank": 263,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 13250,
+  "avg_stu_loan_debt_rank": 383,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17608",
+  "email": true
 }

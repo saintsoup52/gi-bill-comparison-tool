@@ -1,6 +1,6 @@
 {
   "facility_code": "28004430",
-  "institution": "ROBERT FIANCE BEAUTY SCHOOL - PERTH AMBOY",
+  "institution": "Robert Fiance Beauty School - Perth Amboy",
   "city": "Perth Amboy",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 186274,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 1683,
-  "default_rate": 22.6,
-  "avg_stu_loan_debt": 8351,
-  "avg_stu_loan_debt_rank": 1450,
-  "indicator_group": 5
+  "grad_rate": 58.8,
+  "grad_rate_rank": 1674,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 7571,
+  "avg_stu_loan_debt_rank": 736,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8861",
+  "email": true
 }

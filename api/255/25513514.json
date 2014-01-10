@@ -1,6 +1,6 @@
 {
   "facility_code": "25513514",
-  "institution": "EMPIRE BEAUTY SCHOOL",
+  "institution": "Empire Beauty School",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 151652,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 1028,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 47.5,
+  "grad_rate_rank": 1987,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46237",
+  "email": true
 }

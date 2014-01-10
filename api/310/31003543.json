@@ -1,6 +1,6 @@
 {
   "facility_code": "31003543",
-  "institution": "EAST TEXAS BAPTIST UNIVERSITY",
+  "institution": "East Texas Baptist University",
   "city": "Marshall",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 224527,
-  "grad_rate": 43.2,
-  "grad_rate_rank": 1119,
-  "default_rate": 14.8,
-  "avg_stu_loan_debt": 14654,
-  "avg_stu_loan_debt_rank": 689,
-  "indicator_group": 1
+  "grad_rate": 31.7,
+  "grad_rate_rank": 1487,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 14098,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75670",
+  "email": true
 }

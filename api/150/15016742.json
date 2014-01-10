@@ -1,6 +1,6 @@
 {
   "facility_code": "15016742",
-  "institution": "SEQUOYAH HIGH SCHOOL",
+  "institution": "Sequoyah High School",
   "city": "Soddy Daisy",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37379",
+  "email": false
 }

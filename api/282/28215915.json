@@ -1,6 +1,6 @@
 {
   "facility_code": "28215915",
-  "institution": "IOWA SCHOOL OF BEAUTY",
+  "institution": "Iowa School Of Beauty",
   "city": "Ottumwa",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 154165,
-  "grad_rate": 95.5,
-  "grad_rate_rank": 124,
-  "default_rate": 5.4,
-  "avg_stu_loan_debt": 11145,
-  "avg_stu_loan_debt_rank": 2242,
-  "indicator_group": 5
+  "grad_rate": 51.1,
+  "grad_rate_rank": 1921,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 10870,
+  "avg_stu_loan_debt_rank": 1600,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52501",
+  "email": false
 }

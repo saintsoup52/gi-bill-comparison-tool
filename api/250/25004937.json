@@ -1,6 +1,6 @@
 {
   "facility_code": "25004937",
-  "institution": "CAPTAIN JACK'S TATOO SCHOOL",
+  "institution": "Captain Jack'S Tatoo School",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97215",
+  "email": false
 }

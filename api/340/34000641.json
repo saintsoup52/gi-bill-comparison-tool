@@ -1,6 +1,6 @@
 {
   "facility_code": "34000641",
-  "institution": "KILIAN COMMUNITY COLLEGE",
+  "institution": "Kilian Community College",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 219055,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 858,
-  "default_rate": 23.8,
-  "avg_stu_loan_debt": 8321,
-  "avg_stu_loan_debt_rank": 672,
-  "indicator_group": 2
+  "grad_rate": 3.6,
+  "grad_rate_rank": 1385,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 9501,
+  "avg_stu_loan_debt_rank": 719,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "57103",
+  "email": false
 }

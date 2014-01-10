@@ -1,6 +1,6 @@
 {
   "facility_code": "31005138",
-  "institution": "EASTERN UNIVERSITY",
+  "institution": "Eastern University",
   "city": "St. Davids",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 65,
   "cross": 212133,
-  "grad_rate": 67.1,
-  "grad_rate_rank": 373,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 59.5,
+  "grad_rate_rank": 576,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19087",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31920144",
-  "institution": "BRIGHAM YOUNG UNIVERSITY",
+  "institution": "Brigham Young University",
   "city": "Provo",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 407,
   "cross": 230038,
-  "grad_rate": 77.5,
-  "grad_rate_rank": 184,
-  "default_rate": 0.9,
-  "avg_stu_loan_debt": 10920,
-  "avg_stu_loan_debt_rank": 295,
-  "indicator_group": 1
+  "grad_rate": 77.4,
+  "grad_rate_rank": 199,
+  "default_rate": 1.3,
+  "avg_stu_loan_debt": 10875,
+  "avg_stu_loan_debt_rank": 216,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84602",
+  "email": true
 }

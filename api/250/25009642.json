@@ -1,6 +1,6 @@
 {
   "facility_code": "25009642",
-  "institution": "FAYETTEVILLE COLLEGE OF COSMETOLOGY ARTS & SCIENCES INC.",
+  "institution": "Fayetteville College Of Cosmetology Arts & Sciences Inc.",
   "city": "Fayetteville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 220163,
-  "grad_rate": 70.4,
-  "grad_rate_rank": 1162,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 76.0,
+  "grad_rate_rank": 865,
+  "default_rate": 37.8,
+  "avg_stu_loan_debt": 6680,
+  "avg_stu_loan_debt_rank": 580,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37334",
+  "email": false
 }

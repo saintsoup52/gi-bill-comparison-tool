@@ -1,6 +1,6 @@
 {
   "facility_code": "14957433",
-  "institution": "STANLY COMMUNITY COLLEGE",
+  "institution": "Stanly Community College",
   "city": "Albemarle",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 109,
   "cross": 199740,
-  "grad_rate": 32.7,
-  "grad_rate_rank": 464,
+  "grad_rate": 30.5,
+  "grad_rate_rank": 625,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 1725,
+  "avg_stu_loan_debt_rank": 3,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28001",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31390047",
-  "institution": "SEATTLE PACIFIC UNIVERSITY",
+  "institution": "Seattle Pacific University",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 113,
   "cross": 236577,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 236,
-  "default_rate": 2.4,
-  "avg_stu_loan_debt": 20656,
-  "avg_stu_loan_debt_rank": 1498,
-  "indicator_group": 1
+  "grad_rate": 72.0,
+  "grad_rate_rank": 286,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 22218,
+  "avg_stu_loan_debt_rank": 1445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98119",
+  "email": true
 }

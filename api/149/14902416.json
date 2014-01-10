@@ -1,6 +1,6 @@
 {
   "facility_code": "14902416",
-  "institution": "COWLEY COUNTY COMMUNITY COLLEGE",
+  "institution": "Cowley County Community College",
   "city": "Arkansas City",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 142,
   "cross": 154952,
-  "grad_rate": 29.2,
-  "grad_rate_rank": 562,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 28.5,
+  "grad_rate_rank": 672,
+  "default_rate": 18.3,
+  "avg_stu_loan_debt": 6006,
+  "avg_stu_loan_debt_rank": 333,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "67005",
+  "email": false
 }

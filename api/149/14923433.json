@@ -1,6 +1,6 @@
 {
   "facility_code": "14923433",
-  "institution": "ASHEVILLE-BUNCOMBE TECHNICAL COMMUNITY COLLEGE",
+  "institution": "Asheville-Buncombe Technical Community College",
   "city": "Asheville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 393,
   "cross": 197887,
-  "grad_rate": 18.5,
-  "grad_rate_rank": 913,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 28.5,
+  "grad_rate_rank": 672,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28801",
+  "email": true
 }

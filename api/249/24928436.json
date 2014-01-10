@@ -1,6 +1,6 @@
 {
   "facility_code": "24928436",
-  "institution": "SPARTAN COLLEGE OF AERONAUTICS AND TECHNOLOGY",
+  "institution": "Spartan College Of Aeronautics And Technology",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 228,
   "cross": 207254,
-  "grad_rate": 47.5,
-  "grad_rate_rank": 215,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 829,
-  "indicator_group": 3
+  "grad_rate": 40.3,
+  "grad_rate_rank": 455,
+  "default_rate": 23.6,
+  "avg_stu_loan_debt": 23716,
+  "avg_stu_loan_debt_rank": 721,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "74158",
+  "email": false
 }

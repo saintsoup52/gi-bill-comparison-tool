@@ -1,6 +1,6 @@
 {
   "facility_code": "31800121",
-  "institution": "HARVARD UNIVERSITY",
+  "institution": "Harvard University",
   "city": "Cambridge",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 226,
   "cross": 166027,
-  "grad_rate": 97.4,
-  "grad_rate_rank": 10,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 7700,
-  "avg_stu_loan_debt_rank": 167,
-  "indicator_group": 1
+  "grad_rate": 97.0,
+  "grad_rate_rank": 9,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2138",
+  "email": true
 }

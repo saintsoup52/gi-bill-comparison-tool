@@ -1,6 +1,6 @@
 {
   "facility_code": "35014611",
-  "institution": "CENTER FOR THE VISUALLY IMPAIRED      (CH 31 ONLY)",
+  "institution": "Center For The Visually Impaired      (Ch 31 Only)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30308",
+  "email": "No (SCO)"
 }

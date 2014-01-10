@@ -1,6 +1,6 @@
 {
   "facility_code": "25071501",
-  "institution": "UNIVERSITY OF ULTRASONICS",
+  "institution": "University Of Ultrasonics",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35244",
+  "email": false
 }

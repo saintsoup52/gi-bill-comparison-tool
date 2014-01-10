@@ -1,6 +1,6 @@
 {
   "facility_code": "28087012",
-  "institution": "HEADMASTERS SCHOOL OF HAIR DESIGN - LEWISTON",
+  "institution": "Headmasters School Of Hair Design - Lewiston",
   "city": "Lewiston",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 247010,
-  "grad_rate": 67.2,
-  "grad_rate_rank": 1283,
-  "default_rate": 23.0,
-  "avg_stu_loan_debt": 6524,
-  "avg_stu_loan_debt_rank": 1076,
-  "indicator_group": 5
+  "grad_rate": 79.4,
+  "grad_rate_rank": 682,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 15731,
+  "avg_stu_loan_debt_rank": 1935,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "83501",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28002630",
-  "institution": "RIZZIERI AVEDA SCHOOL",
+  "institution": "Rizzieri Aveda School",
   "city": "Voorhees",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 185466,
-  "grad_rate": 64.1,
-  "grad_rate_rank": 1430,
-  "default_rate": 7.3,
+  "grad_rate": 75.6,
+  "grad_rate_rank": 884,
+  "default_rate": 13.1,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8043",
+  "email": true
 }

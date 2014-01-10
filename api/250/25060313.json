@@ -1,6 +1,6 @@
 {
   "facility_code": "25060313",
-  "institution": "ALVAREITA'S COLLEGE OF COSMETOLOGY",
+  "institution": "Alvareita'S College Of Cosmetology",
   "city": "Belleville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447254,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 1461,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 5445,
-  "avg_stu_loan_debt_rank": 835,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 5305,
+  "avg_stu_loan_debt_rank": 285,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62226",
+  "email": true
 }

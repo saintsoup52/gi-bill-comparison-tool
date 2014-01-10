@@ -1,6 +1,6 @@
 {
   "facility_code": "24943025",
-  "institution": "AVIATION INSTITUTE OF MAINTENANCE",
+  "institution": "Aviation Institute Of Maintenance",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 59,
   "cross": 441496,
-  "grad_rate": 57.1,
-  "grad_rate_rank": 1700,
-  "default_rate": 33.0,
-  "avg_stu_loan_debt": 18303,
-  "avg_stu_loan_debt_rank": 2523,
-  "indicator_group": 5
+  "grad_rate": 36.7,
+  "grad_rate_rank": 2142,
+  "default_rate": 44.3,
+  "avg_stu_loan_debt": 28332,
+  "avg_stu_loan_debt_rank": 2017,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64129",
+  "email": false
 }

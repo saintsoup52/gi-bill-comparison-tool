@@ -1,6 +1,6 @@
 {
   "facility_code": "20526735",
-  "institution": "SPRINGFIELD MOLD & DIE INC.  K",
+  "institution": "Springfield Mold & Die Inc.  K",
   "city": "Mansfield",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44906",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18102339",
-  "institution": "VA MEDICAL CENTER",
+  "institution": "Va Medical Center",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2908",
+  "email": "No (SCO)"
 }

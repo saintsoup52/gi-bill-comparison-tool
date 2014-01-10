@@ -1,6 +1,6 @@
 {
   "facility_code": "25005630",
-  "institution": "ANTHEM INSTITUTE - NORTH BRUNSWICK",
+  "institution": "Anthem Institute - North Brunswick",
   "city": "North Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 445577,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 1191,
-  "default_rate": 10.9,
-  "avg_stu_loan_debt": 7793,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 5
+  "grad_rate": 76.9,
+  "grad_rate_rank": 811,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 7963,
+  "avg_stu_loan_debt_rank": 814,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8902",
+  "email": true
 }

@@ -1,10 +1,10 @@
 {
   "facility_code": "11100292",
-  "institution": "UNIVERSIDAD NUESTRA SENORA DE LA PAZ",
+  "institution": "Universidad Nuestra Senora De La Paz",
   "city": "La Paz  Bolivia",
   "state": "Bolivia",
   "country": "Bolivia",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

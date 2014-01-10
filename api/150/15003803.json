@@ -1,6 +1,6 @@
 {
   "facility_code": "15003803",
-  "institution": "LEARNING FOUNDATION & PERFORMING ARTS CHARTER HIGH SCHOOL",
+  "institution": "Learning Foundation & Performing Arts Charter High School",
   "city": "Gilbert",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85296",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14002949",
-  "institution": "UNIV OF WISC-COLLEGES ONLINE",
+  "institution": "Univ Of Wisc-Colleges Online",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 240055,
-  "grad_rate": 20.9,
-  "grad_rate_rank": 832,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 6869,
-  "avg_stu_loan_debt_rank": 537,
-  "indicator_group": 2
+  "grad_rate": 21.5,
+  "grad_rate_rank": 896,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 6977,
+  "avg_stu_loan_debt_rank": 437,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "53711",
+  "email": true
 }

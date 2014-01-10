@@ -1,6 +1,6 @@
 {
   "facility_code": "20977201",
-  "institution": "(CHAPTER 31)A-1 ALABAMA KEY AND LOCKSMITH COMPANY",
+  "institution": "(Chapter 31)A-1 Alabama Key And Locksmith Company",
   "city": "Tuscaloosa",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35405",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25598925",
-  "institution": "TREND SETTERS SCHOOL OF COSMETOLOGY INC",
+  "institution": "Trend Setters School Of Cosmetology Inc",
   "city": "Cape Girardeau",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 451316,
-  "grad_rate": 55.6,
-  "grad_rate_rank": 1758,
+  "grad_rate": 97.8,
+  "grad_rate_rank": 97,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 8500,
+  "avg_stu_loan_debt_rank": 898,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63703",
+  "email": true
 }

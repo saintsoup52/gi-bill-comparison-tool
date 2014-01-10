@@ -1,6 +1,6 @@
 {
   "facility_code": "25510314",
-  "institution": "HAIR ARTS ACADEMY",
+  "institution": "Hair Arts Academy",
   "city": "Bloomington",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 367088,
-  "grad_rate": 54.4,
-  "grad_rate_rank": 1798,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 7925,
-  "avg_stu_loan_debt_rank": 1359,
-  "indicator_group": 5
+  "grad_rate": 42.1,
+  "grad_rate_rank": 2074,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47404",
+  "email": false
 }

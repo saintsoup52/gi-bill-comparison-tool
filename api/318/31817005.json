@@ -1,6 +1,6 @@
 {
   "facility_code": "31817005",
-  "institution": "CHAPMAN UNIVERSITY SCHOOL OF LAW",
+  "institution": "Chapman University School Of Law",
   "city": "Orange",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 111948,
-  "grad_rate": 71.9,
-  "grad_rate_rank": 276,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 15409,
-  "avg_stu_loan_debt_rank": 769,
-  "indicator_group": 1
+  "grad_rate": 72.3,
+  "grad_rate_rank": 280,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92866",
+  "email": false
 }

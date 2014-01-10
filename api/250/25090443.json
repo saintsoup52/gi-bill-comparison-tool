@@ -1,6 +1,6 @@
 {
   "facility_code": "25090443",
-  "institution": "SOUTH TEXAS VOCATIONAL TECH BROWNSVILLE",
+  "institution": "South Texas Vocational Tech Brownsville",
   "city": "Brownsville",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 456922,
-  "grad_rate": 80.2,
-  "grad_rate_rank": 650,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 9340,
-  "avg_stu_loan_debt_rank": 1619,
-  "indicator_group": 5
+  "grad_rate": 66.9,
+  "grad_rate_rank": 1328,
+  "default_rate": 21.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78520",
+  "email": "No (SCO)"
 }

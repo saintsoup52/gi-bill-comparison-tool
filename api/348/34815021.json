@@ -1,6 +1,6 @@
 {
   "facility_code": "34815021",
-  "institution": "BECKER COLLEGE WORCESTER",
+  "institution": "Becker College Worcester",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 50,
   "cross": 164720,
-  "grad_rate": 26.9,
+  "grad_rate": 29.1,
   "grad_rate_rank": 1555,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 22250,
-  "avg_stu_loan_debt_rank": 1678,
-  "indicator_group": 1
+  "default_rate": 16.9,
+  "avg_stu_loan_debt": 21450,
+  "avg_stu_loan_debt_rank": 1352,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1609",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15634032",
-  "institution": "OTSELIC VALLEY JUNIOR-SENIOR HIGH SCHOOL",
+  "institution": "Otselic Valley Junior-Senior High School",
   "city": "South Otselic",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13155",
+  "email": false
 }

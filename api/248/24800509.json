@@ -1,6 +1,6 @@
 {
   "facility_code": "24800509",
-  "institution": "MEDTECH COLLEGE",
+  "institution": "Medtech College",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 448415,
-  "grad_rate": 30.6,
-  "grad_rate_rank": 511,
-  "default_rate": 19.8,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 63.3,
+  "grad_rate_rank": 146,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 15205,
+  "avg_stu_loan_debt_rank": 1027,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "20045",
+  "email": false
 }

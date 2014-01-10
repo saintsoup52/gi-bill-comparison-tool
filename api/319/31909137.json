@@ -1,6 +1,6 @@
 {
   "facility_code": "31909137",
-  "institution": "MARYLHURST UNIVERSITY",
+  "institution": "Marylhurst University",
   "city": "Marylhurst",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 103,
   "cross": 209108,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 22999,
-  "avg_stu_loan_debt_rank": 1740,
-  "indicator_group": 1
+  "grad_rate": 37.5,
+  "grad_rate_rank": 1319,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97036",
+  "email": true
 }

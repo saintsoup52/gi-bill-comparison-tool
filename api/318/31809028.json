@@ -1,6 +1,6 @@
 {
   "facility_code": "31809028",
-  "institution": "SIERRA NEVADA COLLEGE",
+  "institution": "Sierra Nevada College",
   "city": "Incline Village",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 30,
   "cross": 182458,
-  "grad_rate": 36.5,
-  "grad_rate_rank": 1335,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 15900,
-  "avg_stu_loan_debt_rank": 830,
-  "indicator_group": 1
+  "grad_rate": 48.8,
+  "grad_rate_rank": 936,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 21750,
+  "avg_stu_loan_debt_rank": 1402,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89451",
+  "email": true
 }

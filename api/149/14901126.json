@@ -1,6 +1,6 @@
 {
   "facility_code": "14901126",
-  "institution": "MONTANA STATE UNIVERSITY - GALLATIN COLLEGE",
+  "institution": "Montana State University - Gallatin College",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 180461,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 844,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 16447,
-  "avg_stu_loan_debt_rank": 882,
-  "indicator_group": 1
+  "grad_rate": 48.7,
+  "grad_rate_rank": 941,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59717",
+  "email": true
 }

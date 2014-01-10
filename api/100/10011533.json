@@ -1,6 +1,6 @@
 {
   "facility_code": "10011533",
-  "institution": "NCDOC - AVERY/MITCHELL CORRECTIONAL INSTITUTION",
+  "institution": "Ncdoc - Avery/Mitchell Correctional Institution",
   "city": "Spruce Pine",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28777",
+  "email": true
 }

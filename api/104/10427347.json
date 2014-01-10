@@ -1,6 +1,6 @@
 {
   "facility_code": "10427347",
-  "institution": "REDMOND POLICE DEPARTMENT",
+  "institution": "Redmond Police Department",
   "city": "Redmond",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98073",
+  "email": true
 }

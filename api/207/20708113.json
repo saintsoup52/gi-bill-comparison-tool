@@ -1,6 +1,6 @@
 {
   "facility_code": "20708113",
-  "institution": "ROCK ISLAND ARSENAL HISTORICAL SOCIETY GIFT SHOP",
+  "institution": "Rock Island Arsenal Historical Society Gift Shop",
   "city": "Rock Island",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61299",
+  "email": false
 }

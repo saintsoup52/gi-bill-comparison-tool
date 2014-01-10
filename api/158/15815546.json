@@ -1,6 +1,6 @@
 {
   "facility_code": "15815546",
-  "institution": "VIRGINIA TECH - OUTREACH PROGRAM DEVELOPMENT",
+  "institution": "Virginia Tech - Outreach Program Development",
   "city": "Blacksburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 233921,
-  "grad_rate": 81.7,
-  "grad_rate_rank": 129,
-  "default_rate": 1.8,
-  "avg_stu_loan_debt": 21125,
-  "avg_stu_loan_debt_rank": 1559,
-  "indicator_group": 1
+  "grad_rate": 82.8,
+  "grad_rate_rank": 122,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 23633,
+  "avg_stu_loan_debt_rank": 1591,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24061",
+  "email": true
 }

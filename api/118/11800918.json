@@ -1,6 +1,6 @@
 {
   "facility_code": "11800918",
-  "institution": "LOUISIANA STATE UNIVERSITY - SHREVEPORT",
+  "institution": "Louisiana State University - Shreveport",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 280,
   "cross": 159416,
-  "grad_rate": 28.4,
-  "grad_rate_rank": 1529,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 13298,
-  "avg_stu_loan_debt_rank": 574,
-  "indicator_group": 1
+  "grad_rate": 26.9,
+  "grad_rate_rank": 1596,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 13545,
+  "avg_stu_loan_debt_rank": 402,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71115",
+  "email": true
 }

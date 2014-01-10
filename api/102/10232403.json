@@ -1,6 +1,6 @@
 {
   "facility_code": "10232403",
-  "institution": "MARICOPA COUNTY ANIMAL CARE AND CONTROL (CHAPTER 31 ONLY)",
+  "institution": "Maricopa County Animal Care And Control (Chapter 31 Only)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85009",
+  "email": false
 }

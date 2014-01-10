@@ -1,6 +1,6 @@
 {
   "facility_code": "25480210",
-  "institution": "EASTERN ACADEMY OF SCUBA EDUCATION",
+  "institution": "Eastern Academy Of Scuba Education",
   "city": "Vero Beach",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32961",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15570425",
-  "institution": "UNIVERSITY CITY ADULT EDUCATION & LITERACY PROGRAM",
+  "institution": "University City Adult Education & Literacy Program",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63124",
+  "email": false
 }

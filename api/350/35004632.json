@@ -1,6 +1,6 @@
 {
   "facility_code": "35004632",
-  "institution": "NEIGHBORHOOD PLAYHOUSE SCHOOL OF THE THEATRE",
+  "institution": "Neighborhood Playhouse School Of The Theatre",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 193609,
-  "grad_rate": 43.5,
-  "grad_rate_rank": 2033,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 10000,
-  "avg_stu_loan_debt_rank": 2155,
-  "indicator_group": 5
+  "grad_rate": 26.0,
+  "grad_rate_rank": 2222,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10022",
+  "email": true
 }

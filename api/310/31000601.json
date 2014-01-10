@@ -1,6 +1,6 @@
 {
   "facility_code": "31000601",
-  "institution": "HUNTINGDON COLLEGE",
+  "institution": "Huntingdon College",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 67,
   "cross": 101435,
-  "grad_rate": 51.9,
-  "grad_rate_rank": 814,
-  "default_rate": 11.0,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 46.7,
+  "grad_rate_rank": 1012,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 18125,
+  "avg_stu_loan_debt_rank": 933,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36106",
+  "email": true
 }

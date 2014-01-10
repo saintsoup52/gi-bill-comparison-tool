@@ -1,6 +1,6 @@
 {
   "facility_code": "11000649",
-  "institution": "UNIV OF WISC-PLATTEVILLE",
+  "institution": "Univ Of Wisc-Platteville",
   "city": "Platteville",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 254,
   "cross": 240462,
-  "grad_rate": 52.5,
-  "grad_rate_rank": 790,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 15750,
+  "grad_rate": 52.1,
+  "grad_rate_rank": 825,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 17125,
   "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53818",
+  "email": true
 }

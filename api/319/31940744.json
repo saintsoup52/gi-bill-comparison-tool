@@ -1,6 +1,6 @@
 {
   "facility_code": "31940744",
-  "institution": "STEVENS-HENAGER COLLEGE-MURRAY/SALT LAKE CITY",
+  "institution": "Stevens-Henager College-Murray/Salt Lake City",
   "city": "Murray",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84123",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18868210",
-  "institution": "ATLANTIC TECHNICAL CENTER",
+  "institution": "Atlantic Technical Center",
   "city": "Coconut Creek",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 57,
   "cross": 132374,
-  "grad_rate": 49.0,
-  "grad_rate_rank": 1951,
+  "grad_rate": 52.0,
+  "grad_rate_rank": 1896,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33063",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31802705",
-  "institution": "COLUMBIA COLLEGE (HOLLYWOOD)",
+  "institution": "Columbia College (Hollywood)",
   "city": "Tarzana",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 112570,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 17.6,
-  "avg_stu_loan_debt": 32916,
-  "avg_stu_loan_debt_rank": 2049,
-  "indicator_group": 1
+  "grad_rate": 20.4,
+  "grad_rate_rank": 1705,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 30842,
+  "avg_stu_loan_debt_rank": 1965,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91356",
+  "email": false
 }

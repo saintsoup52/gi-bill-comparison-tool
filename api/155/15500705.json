@@ -1,6 +1,6 @@
 {
   "facility_code": "15500705",
-  "institution": "HACIENDA LA PUENTE ADULT EDUCATION",
+  "institution": "Hacienda La Puente Adult Education",
   "city": "La Puente",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 383084,
-  "grad_rate": 38.8,
-  "grad_rate_rank": 2079,
+  "grad_rate": 70.3,
+  "grad_rate_rank": 1166,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91746",
+  "email": false
 }

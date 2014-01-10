@@ -1,6 +1,6 @@
 {
   "facility_code": "25005204",
-  "institution": "ABC BEAUTY COLLEGE",
+  "institution": "Abc Beauty College",
   "city": "Arkadelphia",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 106281,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 1461,
-  "default_rate": 10.3,
-  "avg_stu_loan_debt": 12023,
-  "avg_stu_loan_debt_rank": 2340,
-  "indicator_group": 5
+  "grad_rate": 51.9,
+  "grad_rate_rank": 1897,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 9122,
+  "avg_stu_loan_debt_rank": 1013,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71923",
+  "email": false
 }

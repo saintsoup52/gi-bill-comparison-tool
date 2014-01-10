@@ -1,6 +1,6 @@
 {
   "facility_code": "28020529",
-  "institution": "EMPIRE BEAUTY SCHOOL - SOMERSWORTH NH",
+  "institution": "Empire Beauty School - Somersworth Nh",
   "city": "Somersworth",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 182722,
-  "grad_rate": 55.6,
-  "grad_rate_rank": 1758,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 63.6,
+  "grad_rate_rank": 1484,
+  "default_rate": 31.6,
+  "avg_stu_loan_debt": 9471,
+  "avg_stu_loan_debt_rank": 1059,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3878",
+  "email": true
 }

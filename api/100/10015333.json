@@ -1,6 +1,6 @@
 {
   "facility_code": "10015333",
-  "institution": "NCDOC - WARREN CORRECTIONAL INSTITUTION",
+  "institution": "Ncdoc - Warren Correctional Institution",
   "city": "Manson",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27533",
+  "email": false
 }

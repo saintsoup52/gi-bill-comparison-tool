@@ -1,6 +1,6 @@
 {
   "facility_code": "25601105",
-  "institution": "MUELLER COLLEGE",
+  "institution": "Mueller College",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 44,
   "cross": 119234,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 1002,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 13700,
-  "avg_stu_loan_debt_rank": 2430,
-  "indicator_group": 5
+  "grad_rate": 78.1,
+  "grad_rate_rank": 755,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 9837,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92108",
+  "email": false
 }

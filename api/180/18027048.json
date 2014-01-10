@@ -1,6 +1,6 @@
 {
   "facility_code": "18027048",
-  "institution": "UNITED TECHNICAL CENTER",
+  "institution": "United Technical Center",
   "city": "Clarksburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 419031,
-  "grad_rate": 81.8,
-  "grad_rate_rank": 554,
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26301",
+  "email": true
 }

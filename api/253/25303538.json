@@ -1,6 +1,6 @@
 {
   "facility_code": "25303538",
-  "institution": "CORTIVA INSTITUTE - PENNSYLVANIA",
+  "institution": "Cortiva Institute - Pennsylvania",
   "city": "King Of Prussia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 215044,
-  "grad_rate": 95.5,
-  "grad_rate_rank": 124,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 6967,
-  "avg_stu_loan_debt_rank": 1132,
-  "indicator_group": 5
+  "grad_rate": 79.7,
+  "grad_rate_rank": 669,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 6861,
+  "avg_stu_loan_debt_rank": 611,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19406",
+  "email": true
 }

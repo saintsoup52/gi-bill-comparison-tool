@@ -1,6 +1,6 @@
 {
   "facility_code": "10712725",
-  "institution": "US ARMY MSCOE-PMID",
+  "institution": "Us Army Mscoe-Pmid",
   "city": "Fort Leonard Wood",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65473",
+  "email": false
 }

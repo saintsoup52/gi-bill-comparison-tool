@@ -1,6 +1,6 @@
 {
   "facility_code": "31000949",
-  "institution": "NORTHLAND COLLEGE",
+  "institution": "Northland College",
   "city": "Ashland",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 239512,
-  "grad_rate": 47.8,
-  "grad_rate_rank": 967,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 20228,
-  "avg_stu_loan_debt_rank": 1455,
-  "indicator_group": 1
+  "grad_rate": 54.1,
+  "grad_rate_rank": 773,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "54806",
+  "email": false
 }

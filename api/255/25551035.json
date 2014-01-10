@@ -1,6 +1,6 @@
 {
   "facility_code": "25551035",
-  "institution": "A.C.T.G. OF OHIO INC  (31)",
+  "institution": "A.C.T.G. Of Ohio Inc  (31)",
   "city": "St Mary'S",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45885",
+  "email": "No (SCO)"
 }

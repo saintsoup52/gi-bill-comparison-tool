@@ -1,6 +1,6 @@
 {
   "facility_code": "20996601",
-  "institution": "(CHAPTER 31)CAMPBELL BODY SHOP INC.",
+  "institution": "(Chapter 31)Campbell Body Shop Inc.",
   "city": "Tuscaloosa",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35401",
+  "email": false
 }

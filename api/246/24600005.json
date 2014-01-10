@@ -1,6 +1,6 @@
 {
   "facility_code": "24600005",
-  "institution": "PROFESSIONAL GOLFERS CAREER COLLEGE",
+  "institution": "Professional Golfers Career College",
   "city": "Temecula",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 437750,
-  "grad_rate": 39.9,
-  "grad_rate_rank": 332,
-  "default_rate": 14.7,
+  "grad_rate": 85.2,
+  "grad_rate_rank": 23,
+  "default_rate": 14.2,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92591",
+  "email": false
 }

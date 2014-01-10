@@ -1,6 +1,6 @@
 {
   "facility_code": "14501025",
-  "institution": "ST. LOUIS COMMUNITY COLLEGE AT MERAMEC",
+  "institution": "St. Louis Community College At Meramec",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 343,
   "cross": 179308,
-  "grad_rate": 9.3,
-  "grad_rate_rank": 1218,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 6251,
-  "avg_stu_loan_debt_rank": 470,
-  "indicator_group": 2
+  "grad_rate": 9.8,
+  "grad_rate_rank": 1298,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 6051,
+  "avg_stu_loan_debt_rank": 336,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "63122",
+  "email": true
 }

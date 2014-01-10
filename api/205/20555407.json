@@ -1,6 +1,6 @@
 {
   "facility_code": "20555407",
-  "institution": "NEW ENGLAND MECHANICAL SERVICES INC",
+  "institution": "New England Mechanical Services Inc",
   "city": "Vernon",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6066",
+  "email": false
 }

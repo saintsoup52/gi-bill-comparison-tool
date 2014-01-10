@@ -1,6 +1,6 @@
 {
   "facility_code": "14904411",
-  "institution": "OGEECHEE TECHNICAL COLLEGE",
+  "institution": "Ogeechee Technical College",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 159,
   "cross": 366465,
-  "grad_rate": 32.0,
-  "grad_rate_rank": 323,
-  "default_rate": null,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 31.3,
+  "grad_rate_rank": 535,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3650,
+  "avg_stu_loan_debt_rank": 40,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30458",
+  "email": true
 }

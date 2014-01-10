@@ -1,6 +1,6 @@
 {
   "facility_code": "20A07111",
-  "institution": "BROWN'S EYE CENTER                     (CH31 ONLY)",
+  "institution": "Brown'S Eye Center                     (Ch31 Only)",
   "city": "Milledgeville",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31211",
+  "email": "No (SCO)"
 }

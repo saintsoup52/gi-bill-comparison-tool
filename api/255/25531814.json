@@ -1,6 +1,6 @@
 {
   "facility_code": "25531814",
-  "institution": "DON ROBERTS SCHOOL OF HAIR DESIGN - SCHERERVILLE",
+  "institution": "Don Roberts School Of Hair Design - Schererville",
   "city": "Schererville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 150428,
-  "grad_rate": 65.0,
-  "grad_rate_rank": 1390,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 4625,
-  "avg_stu_loan_debt_rank": 749,
-  "indicator_group": 5
+  "grad_rate": 52.8,
+  "grad_rate_rank": 1875,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 6614,
+  "avg_stu_loan_debt_rank": 573,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46375",
+  "email": false
 }

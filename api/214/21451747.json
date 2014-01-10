@@ -1,6 +1,6 @@
 {
   "facility_code": "21451747",
-  "institution": "CHARTER COLLEGE @ VANCOUVER",
+  "institution": "Charter College @ Vancouver",
   "city": "Vancouver",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 102845,
-  "grad_rate": 93.8,
-  "grad_rate_rank": 17,
-  "default_rate": 17.5,
+  "grad_rate": 33.6,
+  "grad_rate_rank": 513,
+  "default_rate": 18.8,
   "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 737,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 623,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "98683",
+  "email": true
 }

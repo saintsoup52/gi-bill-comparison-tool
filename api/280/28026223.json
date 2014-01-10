@@ -1,6 +1,6 @@
 {
   "facility_code": "28026223",
-  "institution": "COSMETOLOGY TRAINING CENTER-MANKATO",
+  "institution": "Cosmetology Training Center-Mankato",
   "city": "Mankato",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "56001",
+  "email": true
 }

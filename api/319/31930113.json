@@ -1,6 +1,6 @@
 {
   "facility_code": "31930113",
-  "institution": "LINCOLN CHRISTIAN UNIVERSITY",
+  "institution": "Lincoln Christian University",
   "city": "Lincoln",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 146667,
-  "grad_rate": 41.9,
-  "grad_rate_rank": 1158,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 45.1,
+  "grad_rate_rank": 1060,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 21469,
+  "avg_stu_loan_debt_rank": 1357,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62656",
+  "email": true
 }

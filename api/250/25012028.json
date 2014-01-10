@@ -1,6 +1,6 @@
 {
   "facility_code": "25012028",
-  "institution": "EUPHORIA INSTITUTE OF BEAUTY ARTS & SCIENCES - SUMMERLIN",
+  "institution": "Euphoria Institute Of Beauty Arts & Sciences - Summerlin",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 450720,
-  "grad_rate": 61.7,
-  "grad_rate_rank": 1527,
-  "default_rate": 30.3,
-  "avg_stu_loan_debt": 9546,
-  "avg_stu_loan_debt_rank": 2087,
-  "indicator_group": 5
+  "grad_rate": 42.3,
+  "grad_rate_rank": 2070,
+  "default_rate": 32.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "89117",
+  "email": true
 }

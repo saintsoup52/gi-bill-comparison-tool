@@ -1,6 +1,6 @@
 {
   "facility_code": "31000149",
-  "institution": "BELOIT COLLEGE",
+  "institution": "Beloit College",
   "city": "Beloit",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 238333,
-  "grad_rate": 75.8,
-  "grad_rate_rank": 214,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 22764,
-  "avg_stu_loan_debt_rank": 1730,
-  "indicator_group": 1
+  "grad_rate": 78.1,
+  "grad_rate_rank": 187,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53511",
+  "email": false
 }

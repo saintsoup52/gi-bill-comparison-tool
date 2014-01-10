@@ -1,6 +1,6 @@
 {
   "facility_code": "15002214",
-  "institution": "METROPOLITAN SCHOOL DISTRICT COMMUNITY & CONTINUING EDUCATION CENTER",
+  "institution": "Metropolitan School District Community & Continuing Education Center",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46240",
+  "email": false
 }

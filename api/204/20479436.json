@@ -1,6 +1,6 @@
 {
   "facility_code": "20479436",
-  "institution": "EDMOND PUBLIC WORKS",
+  "institution": "Edmond Public Works",
   "city": "Edmond",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73083",
+  "email": false
 }

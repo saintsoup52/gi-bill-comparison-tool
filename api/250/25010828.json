@@ -1,6 +1,6 @@
 {
   "facility_code": "25010828",
-  "institution": "ANTHEM INSTITUTE",
+  "institution": "Anthem Institute",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 442648,
-  "grad_rate": 59.9,
-  "grad_rate_rank": 1600,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 8471,
-  "avg_stu_loan_debt_rank": 1468,
-  "indicator_group": 5
+  "grad_rate": 70.8,
+  "grad_rate_rank": 1137,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 9042,
+  "avg_stu_loan_debt_rank": 1002,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "89102",
+  "email": false
 }

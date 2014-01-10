@@ -1,6 +1,6 @@
 {
   "facility_code": "15075336",
-  "institution": "NORTHEAST TECHNOLOGY CENTER - CLAREMORE",
+  "institution": "Northeast Technology Center - Claremore",
   "city": "Claremore",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 456560,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 14.5,
+  "grad_rate_rank": 2259,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74017",
+  "email": false
 }

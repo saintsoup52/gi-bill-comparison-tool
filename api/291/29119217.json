@@ -1,6 +1,6 @@
 {
   "facility_code": "29119217",
-  "institution": "LEONARD A ROE",
+  "institution": "Leonard A Roe",
   "city": "South Shore",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41175",
+  "email": false
 }

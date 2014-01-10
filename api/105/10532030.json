@@ -1,6 +1,6 @@
 {
   "facility_code": "10532030",
-  "institution": "OLD TAPPAN POLICE DEPARTMENT",
+  "institution": "Old Tappan Police Department",
   "city": "Old Tappan",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7675",
+  "email": false
 }

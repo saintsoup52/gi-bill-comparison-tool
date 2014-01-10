@@ -1,6 +1,6 @@
 {
   "facility_code": "20592213",
-  "institution": "FAA-AIR TRAFFIC CONTROL-TERMINAL CHICAGO TRACON",
+  "institution": "Faa-Air Traffic Control-Terminal Chicago Tracon",
   "city": "Elgin",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60123",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24934403",
-  "institution": "SOUTHWEST INSTITUTE OF HEALING ARTS",
+  "institution": "Southwest Institute Of Healing Arts",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 442879,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 12.4,
+  "grad_rate": 78.6,
+  "grad_rate_rank": 78,
+  "default_rate": 11.5,
   "avg_stu_loan_debt": 7916,
-  "avg_stu_loan_debt_rank": 333,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 236,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85281",
+  "email": false
 }

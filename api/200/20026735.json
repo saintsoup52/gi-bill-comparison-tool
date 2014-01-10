@@ -1,6 +1,6 @@
 {
   "facility_code": "20026735",
-  "institution": "GM POWERTRAIN-TOLEDO   K",
+  "institution": "Gm Powertrain-Toledo   K",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43612",
+  "email": true
 }

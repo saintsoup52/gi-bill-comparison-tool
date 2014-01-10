@@ -1,6 +1,6 @@
 {
   "facility_code": "31903101",
-  "institution": "TUSKEGEE UNIVERSITY",
+  "institution": "Tuskegee University",
   "city": "Tuskegee",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 142,
   "cross": 102377,
-  "grad_rate": 43.0,
-  "grad_rate_rank": 1123,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 23879,
-  "avg_stu_loan_debt_rank": 1847,
-  "indicator_group": 1
+  "grad_rate": 45.9,
+  "grad_rate_rank": 1036,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 26125,
+  "avg_stu_loan_debt_rank": 1835,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36088",
+  "email": true
 }

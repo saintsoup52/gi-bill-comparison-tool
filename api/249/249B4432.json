@@ -1,6 +1,6 @@
 {
   "facility_code": "249B4432",
-  "institution": "PROFESSIONAL BUSINESS COLLEGE",
+  "institution": "Professional Business College",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 194611,
-  "grad_rate": 20.8,
-  "grad_rate_rank": 836,
-  "default_rate": 32.1,
-  "avg_stu_loan_debt": 1750,
-  "avg_stu_loan_debt_rank": 104,
-  "indicator_group": 2
+  "grad_rate": 27.1,
+  "grad_rate_rank": 722,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 2169,
+  "avg_stu_loan_debt_rank": 4,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10013",
+  "email": true
 }

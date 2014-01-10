@@ -1,6 +1,6 @@
 {
   "facility_code": "25803224",
-  "institution": "THE ACADEMY OF HAIR DESIGN #6 - HATTIESBURG",
+  "institution": "The Academy Of Hair Design #6 - Hattiesburg",
   "city": "Hattiesburg",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 438674,
-  "grad_rate": 57.9,
-  "grad_rate_rank": 1670,
-  "default_rate": 0.0,
+  "grad_rate": 94.6,
+  "grad_rate_rank": 160,
+  "default_rate": 9.0,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "39401",
+  "email": false
 }

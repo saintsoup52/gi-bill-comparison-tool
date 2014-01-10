@@ -1,10 +1,10 @@
 {
   "facility_code": "11000170",
-  "institution": "GRIFFITH UNIVERSITY",
+  "institution": "Griffith University",
   "city": "Queensland",
   "state": "Australia",
   "country": "Australia",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 5,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

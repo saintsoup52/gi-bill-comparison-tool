@@ -1,6 +1,6 @@
 {
   "facility_code": "18848310",
-  "institution": "SHERIDAN  TECHNICAL CENTER",
+  "institution": "Sheridan  Technical Center",
   "city": "Hollywood",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 137245,
-  "grad_rate": 46.5,
-  "grad_rate_rank": 1982,
+  "grad_rate": 44.8,
+  "grad_rate_rank": 2034,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33021",
+  "email": true
 }

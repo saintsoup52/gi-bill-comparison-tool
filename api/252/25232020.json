@@ -1,6 +1,6 @@
 {
   "facility_code": "25232020",
-  "institution": "HAIR EXPRESSIONS ACADEMY (CHAPTER 31 ONLY)",
+  "institution": "Hair Expressions Academy (Chapter 31 Only)",
   "city": "Rockville",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447971,
-  "grad_rate": 70.9,
-  "grad_rate_rank": 1136,
-  "default_rate": 8.3,
+  "grad_rate": 78.3,
+  "grad_rate_rank": 741,
+  "default_rate": 26.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "20852",
+  "email": "No (SCO)"
 }

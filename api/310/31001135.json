@@ -1,6 +1,6 @@
 {
   "facility_code": "31001135",
-  "institution": "DENISON UNIVERSITY",
+  "institution": "Denison University",
   "city": "Granville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 202523,
-  "grad_rate": 79.2,
-  "grad_rate_rank": 167,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 19201,
-  "avg_stu_loan_debt_rank": 1279,
-  "indicator_group": 1
+  "grad_rate": 85.5,
+  "grad_rate_rank": 95,
+  "default_rate": 1.8,
+  "avg_stu_loan_debt": 22698,
+  "avg_stu_loan_debt_rank": 1487,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43023",
+  "email": true
 }

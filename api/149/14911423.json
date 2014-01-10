@@ -1,6 +1,6 @@
 {
   "facility_code": "14911423",
-  "institution": "RAINY RIVER COMM COLLEGE",
+  "institution": "Rainy River Comm College",
   "city": "International Falls",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 174604,
-  "grad_rate": 35.9,
-  "grad_rate_rank": 412,
-  "default_rate": 23.8,
-  "avg_stu_loan_debt": 6400,
-  "avg_stu_loan_debt_rank": 481,
-  "indicator_group": 2
+  "grad_rate": 37.2,
+  "grad_rate_rank": 460,
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "56649",
+  "email": false
 }

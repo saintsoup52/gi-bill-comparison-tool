@@ -1,6 +1,6 @@
 {
   "facility_code": "31913146",
-  "institution": "GEORGE WASHINGTON UNIVERSITY",
+  "institution": "George Washington University",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 77,
   "cross": 131469,
-  "grad_rate": 81.1,
-  "grad_rate_rank": 141,
+  "grad_rate": 79.6,
+  "grad_rate_rank": 163,
   "default_rate": 1.5,
-  "avg_stu_loan_debt": 22300,
-  "avg_stu_loan_debt_rank": 1685,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 24050,
+  "avg_stu_loan_debt_rank": 1649,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23602",
+  "email": true
 }

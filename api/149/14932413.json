@@ -1,6 +1,6 @@
 {
   "facility_code": "14932413",
-  "institution": "SHAWNEE COMMUNITY COLLEGE",
+  "institution": "Shawnee Community College",
   "city": "Ullin",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 73,
   "cross": 148821,
-  "grad_rate": 26.9,
-  "grad_rate_rank": 629,
+  "grad_rate": 30.5,
+  "grad_rate_rank": 625,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3625,
-  "avg_stu_loan_debt_rank": 167,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 3143,
+  "avg_stu_loan_debt_rank": 18,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "62992",
+  "email": false
 }

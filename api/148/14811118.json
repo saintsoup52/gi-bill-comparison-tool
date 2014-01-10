@@ -1,6 +1,6 @@
 {
   "facility_code": "14811118",
-  "institution": "SOUTH CENTRAL LOUISIANA TECH COLL - LAFOURCHE",
+  "institution": "South Central Louisiana Tech Coll - Lafourche",
   "city": "Thibodaux",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 160913,
-  "grad_rate": 46.7,
-  "grad_rate_rank": 222,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 70.7,
+  "grad_rate_rank": 167,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "70301",
+  "email": true
 }

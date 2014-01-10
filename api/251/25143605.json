@@ -1,6 +1,6 @@
 {
   "facility_code": "25143605",
-  "institution": "CENTRAL COAST COLLEGE",
+  "institution": "Central Coast College",
   "city": "Salinas",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 378105,
-  "grad_rate": 71.8,
-  "grad_rate_rank": 1090,
-  "default_rate": 20.4,
-  "avg_stu_loan_debt": 5607,
-  "avg_stu_loan_debt_rank": 909,
-  "indicator_group": 5
+  "grad_rate": 83.8,
+  "grad_rate_rank": 486,
+  "default_rate": 18.3,
+  "avg_stu_loan_debt": 6079,
+  "avg_stu_loan_debt_rank": 422,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93901",
+  "email": false
 }

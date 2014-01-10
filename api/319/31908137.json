@@ -1,6 +1,6 @@
 {
   "facility_code": "31908137",
-  "institution": "UNIVERSITY OF PORTLAND",
+  "institution": "University Of Portland",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 82,
   "cross": 209825,
-  "grad_rate": 75.5,
-  "grad_rate_rank": 219,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 25668,
-  "avg_stu_loan_debt_rank": 1998,
-  "indicator_group": 1
+  "grad_rate": 73.8,
+  "grad_rate_rank": 252,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 26000,
+  "avg_stu_loan_debt_rank": 1830,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97203",
+  "email": true
 }

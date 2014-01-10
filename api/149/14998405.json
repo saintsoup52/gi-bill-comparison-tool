@@ -1,6 +1,6 @@
 {
   "facility_code": "14998405",
-  "institution": "COLLEGE OF THE CANYONS",
+  "institution": "College Of The Canyons",
   "city": "Santa Clarita",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 442,
   "cross": 111461,
-  "grad_rate": 25.7,
-  "grad_rate_rank": 665,
-  "default_rate": 12.4,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 486,
-  "indicator_group": 2
+  "grad_rate": 27.2,
+  "grad_rate_rank": 718,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91355",
+  "email": false
 }

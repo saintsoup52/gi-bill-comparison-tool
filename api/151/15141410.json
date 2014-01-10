@@ -1,6 +1,6 @@
 {
   "facility_code": "15141410",
-  "institution": "MID FLORIDA TECH",
+  "institution": "Mid Florida Tech",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 55,
   "cross": 135735,
-  "grad_rate": 45.6,
-  "grad_rate_rank": 1999,
+  "grad_rate": 35.4,
+  "grad_rate_rank": 2157,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32809",
+  "email": true
 }

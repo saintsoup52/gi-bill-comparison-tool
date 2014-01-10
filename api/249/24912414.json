@@ -1,6 +1,6 @@
 {
   "facility_code": "24912414",
-  "institution": "ITT TECHNICAL INSTITUTE - ONLINE",
+  "institution": "Itt Technical Institute - Online",
   "city": "Carmel",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 736,
   "cross": 151519,
-  "grad_rate": 16.4,
-  "grad_rate_rank": 982,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 17.8,
+  "grad_rate_rank": 1012,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "46032",
+  "email": false
 }

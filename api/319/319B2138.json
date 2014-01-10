@@ -1,6 +1,6 @@
 {
   "facility_code": "319B2138",
-  "institution": "SAINT JOSEPH'S UNIVERSITY",
+  "institution": "Saint Joseph'S University",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 126,
   "cross": 215770,
-  "grad_rate": 75.8,
-  "grad_rate_rank": 214,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 24999,
-  "avg_stu_loan_debt_rank": 1921,
-  "indicator_group": 1
+  "grad_rate": 79.1,
+  "grad_rate_rank": 172,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 25750,
+  "avg_stu_loan_debt_rank": 1822,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19131",
+  "email": true
 }

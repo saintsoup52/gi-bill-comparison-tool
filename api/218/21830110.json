@@ -1,6 +1,6 @@
 {
   "facility_code": "21830110",
-  "institution": "THE ART INSTITUTE OF JACKSONVILLE",
+  "institution": "The Art Institute Of Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 134811,
-  "grad_rate": 41.3,
-  "grad_rate_rank": 1189,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 21068,
-  "avg_stu_loan_debt_rank": 1554,
-  "indicator_group": 1
+  "grad_rate": 39.5,
+  "grad_rate_rank": 1267,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 21992,
+  "avg_stu_loan_debt_rank": 1414,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32256",
+  "email": true
 }

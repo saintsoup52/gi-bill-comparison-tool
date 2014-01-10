@@ -1,6 +1,6 @@
 {
   "facility_code": "18575048",
-  "institution": "CABELL COUNTY CAREER TECHNOLOGY CENTER",
+  "institution": "Cabell County Career Technology Center",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 237242,
-  "grad_rate": 68.5,
-  "grad_rate_rank": 1230,
+  "grad_rate": 81.7,
+  "grad_rate_rank": 571,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25705",
+  "email": true
 }

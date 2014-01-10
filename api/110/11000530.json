@@ -1,6 +1,6 @@
 {
   "facility_code": "11000530",
-  "institution": "THE COLLEGE OF NEW JERSEY",
+  "institution": "The College Of New Jersey",
   "city": "Ewing",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 63,
   "cross": 187134,
-  "grad_rate": 86.6,
-  "grad_rate_rank": 87,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 86.9,
+  "grad_rate_rank": 84,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "8628",
+  "email": true
 }

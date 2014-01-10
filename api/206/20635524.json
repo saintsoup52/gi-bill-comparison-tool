@@ -1,6 +1,6 @@
 {
   "facility_code": "20635524",
-  "institution": "SOUTHERN APPRENTICESHIP AND TRAINING FUND",
+  "institution": "Southern Apprenticeship And Training Fund",
   "city": "Luka",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "38852",
+  "email": false
 }

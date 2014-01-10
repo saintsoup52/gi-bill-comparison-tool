@@ -1,6 +1,6 @@
 {
   "facility_code": "21832311",
-  "institution": "UNIVERSITY OF PHOENIX - SAVANNAH",
+  "institution": "University Of Phoenix - Savannah",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 181,
   "cross": 447652,
-  "grad_rate": 18.3,
-  "grad_rate_rank": 1692,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 11.5,
+  "grad_rate_rank": 1820,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31405",
+  "email": true
 }

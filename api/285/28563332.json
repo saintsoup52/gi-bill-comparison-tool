@@ -1,6 +1,6 @@
 {
   "facility_code": "28563332",
-  "institution": "CONTINENTAL SCHOOL OF BEAUTY CULTURE (BATAVIA)",
+  "institution": "Continental School Of Beauty Culture (Batavia)",
   "city": "Batavia",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 190309,
-  "grad_rate": 65.4,
-  "grad_rate_rank": 1373,
-  "default_rate": 14.9,
+  "grad_rate": 76.2,
+  "grad_rate_rank": 853,
+  "default_rate": 8.2,
   "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14020",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31004120",
-  "institution": "FLORIDA INSTITUTE OF TECHNOLOGY PATUXENT RIVER MARYLAND",
+  "institution": "Florida Institute Of Technology Patuxent River Maryland",
   "city": "Patuxent River",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 133881,
-  "grad_rate": 56.2,
-  "grad_rate_rank": 671,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 5972,
-  "avg_stu_loan_debt_rank": 130,
-  "indicator_group": 1
+  "grad_rate": 54.6,
+  "grad_rate_rank": 750,
+  "default_rate": 14.3,
+  "avg_stu_loan_debt": 8883,
+  "avg_stu_loan_debt_rank": 120,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20670",
+  "email": true
 }

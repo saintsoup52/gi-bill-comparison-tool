@@ -1,6 +1,6 @@
 {
   "facility_code": "25257410",
-  "institution": "CLOUD DANCER AVIATION",
+  "institution": "Cloud Dancer Aviation",
   "city": "Deland",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32724",
+  "email": false
 }

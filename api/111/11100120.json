@@ -1,6 +1,6 @@
 {
   "facility_code": "11100120",
-  "institution": "FROSTBURG STATE UNIVERSITY",
+  "institution": "Frostburg State University",
   "city": "Frostburg",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 147,
   "cross": 162584,
-  "grad_rate": 45.5,
-  "grad_rate_rank": 1041,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 15026,
-  "avg_stu_loan_debt_rank": 746,
-  "indicator_group": 1
+  "grad_rate": 44.0,
+  "grad_rate_rank": 1099,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 16525,
+  "avg_stu_loan_debt_rank": 755,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21532",
+  "email": true
 }

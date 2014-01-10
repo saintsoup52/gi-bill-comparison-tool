@@ -1,6 +1,6 @@
 {
   "facility_code": "25151822",
-  "institution": "MICHIGAN COLLEGE OF BEAUTY - TROY",
+  "institution": "Michigan College Of Beauty - Troy",
   "city": "Troy",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 381370,
-  "grad_rate": 78.1,
-  "grad_rate_rank": 750,
-  "default_rate": 23.1,
+  "grad_rate": 83.4,
+  "grad_rate_rank": 500,
+  "default_rate": 20.9,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48083",
+  "email": true
 }

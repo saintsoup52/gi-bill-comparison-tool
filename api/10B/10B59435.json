@@ -1,6 +1,6 @@
 {
   "facility_code": "10B59435",
-  "institution": "US FOREST SERVICE (CH 31)",
+  "institution": "Us Forest Service (Ch 31)",
   "city": "Pedro",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45659",
+  "email": false
 }

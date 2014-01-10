@@ -1,6 +1,6 @@
 {
   "facility_code": "18032136",
-  "institution": "PIONEER TECHNOLOGY CENTER",
+  "institution": "Pioneer Technology Center",
   "city": "Ponca City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 364627,
-  "grad_rate": 50.7,
-  "grad_rate_rank": 1905,
+  "grad_rate": 55.1,
+  "grad_rate_rank": 1799,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74601",
+  "email": true
 }

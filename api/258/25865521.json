@@ -1,6 +1,6 @@
 {
   "facility_code": "25865521",
-  "institution": "CENTRAL MASSACHUSETTS SCHOOL OF MASSAGE & THERAPY INC.",
+  "institution": "Central Massachusetts School Of Massage & Therapy Inc.",
   "city": "Spencer",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 425870,
-  "grad_rate": 93.8,
-  "grad_rate_rank": 166,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 5
+  "grad_rate": 88.2,
+  "grad_rate_rank": 322,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1562",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34010535",
-  "institution": "ROSEDALE BIBLE COLLEGE",
+  "institution": "Rosedale Bible College",
   "city": "Irwin",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 439899,
-  "grad_rate": 42.0,
-  "grad_rate_rank": 302,
-  "default_rate": 0.0,
+  "grad_rate": 32.1,
+  "grad_rate_rank": 572,
+  "default_rate": 4.0,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43029",
+  "email": true
 }

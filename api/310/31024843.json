@@ -1,6 +1,6 @@
 {
   "facility_code": "31024843",
-  "institution": "ARLINGTON BAPTIST COLLEGE",
+  "institution": "Arlington Baptist College",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 222877,
-  "grad_rate": 40.6,
-  "grad_rate_rank": 1207,
-  "default_rate": 13.6,
-  "avg_stu_loan_debt": 6750,
-  "avg_stu_loan_debt_rank": 141,
-  "indicator_group": 1
+  "grad_rate": 42.3,
+  "grad_rate_rank": 1166,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76012",
+  "email": false
 }

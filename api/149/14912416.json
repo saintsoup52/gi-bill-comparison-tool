@@ -1,6 +1,6 @@
 {
   "facility_code": "14912416",
-  "institution": "JOHNSON COUNTY COMMUNITY COLLEGE",
+  "institution": "Johnson County Community College",
   "city": "Overland Park",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 580,
   "cross": 155210,
-  "grad_rate": 17.1,
-  "grad_rate_rank": 465,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 5717,
-  "avg_stu_loan_debt_rank": 220,
-  "indicator_group": 3
+  "grad_rate": 12.8,
+  "grad_rate_rank": 1207,
+  "default_rate": 17.4,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "66210",
+  "email": false
 }

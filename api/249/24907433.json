@@ -1,6 +1,6 @@
 {
   "facility_code": "24907433",
-  "institution": "LIVING ARTS COLLEGE @ SCHOOL OF COMMUNICATION (FORMER SCH OF COMMUNICATION ARTS)",
+  "institution": "Living Arts College @ School Of Communication (Former Sch Of Communication Arts)",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 48,
   "cross": 421832,
-  "grad_rate": 70.0,
-  "grad_rate_rank": 69,
-  "default_rate": 16.8,
-  "avg_stu_loan_debt": 11834,
-  "avg_stu_loan_debt_rank": 706,
-  "indicator_group": 3
+  "grad_rate": 64.2,
+  "grad_rate_rank": 248,
+  "default_rate": 30.0,
+  "avg_stu_loan_debt": 12667,
+  "avg_stu_loan_debt_rank": 620,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "27614",
+  "email": true
 }

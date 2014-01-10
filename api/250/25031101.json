@@ -1,6 +1,6 @@
 {
   "facility_code": "25031101",
-  "institution": "(CHAPTER 31)FRANKLIN COLLEGE TRUCK DRIVING SCHOOL",
+  "institution": "(Chapter 31)Franklin College Truck Driving School",
   "city": "Decatur",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35601",
+  "email": "No (SCO)"
 }

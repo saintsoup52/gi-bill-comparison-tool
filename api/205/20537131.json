@@ -1,6 +1,6 @@
 {
   "facility_code": "20537131",
-  "institution": "WEST MESA PEST CONTROL INC. (CH31)",
+  "institution": "West Mesa Pest Control Inc. (Ch31)",
   "city": "Rio  Rancho,",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87124",
+  "email": false
 }

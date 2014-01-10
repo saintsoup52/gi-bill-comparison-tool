@@ -1,6 +1,6 @@
 {
   "facility_code": "14949432",
-  "institution": "MOHAWK VALLEY COMMUNITY COLLEGE (ROME)",
+  "institution": "Mohawk Valley Community College (Rome)",
   "city": "Rome",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 193283,
-  "grad_rate": 24.0,
-  "grad_rate_rank": 724,
-  "default_rate": 20.3,
-  "avg_stu_loan_debt": 6673,
-  "avg_stu_loan_debt_rank": 516,
-  "indicator_group": 2
+  "grad_rate": 22.9,
+  "grad_rate_rank": 847,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13440",
+  "email": true
 }

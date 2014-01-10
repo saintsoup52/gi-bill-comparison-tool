@@ -1,6 +1,6 @@
 {
   "facility_code": "10481748",
-  "institution": "MORGANTOWN FIRE DEPARTMENT",
+  "institution": "Morgantown Fire Department",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "26505",
+  "email": true
 }

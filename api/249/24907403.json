@@ -1,6 +1,6 @@
 {
   "facility_code": "24907403",
-  "institution": "ANTHEM COLLEGE - PHOENIX",
+  "institution": "Anthem College - Phoenix",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 32,
   "cross": 104805,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 8055,
-  "avg_stu_loan_debt_rank": 342,
-  "indicator_group": 3
+  "grad_rate": 46.1,
+  "grad_rate_rank": 322,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 8978,
+  "avg_stu_loan_debt_rank": 618,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85014",
+  "email": true
 }

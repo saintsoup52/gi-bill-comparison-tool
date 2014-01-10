@@ -1,6 +1,6 @@
 {
   "facility_code": "25033343",
-  "institution": "THE OCEAN CORPORATION",
+  "institution": "The Ocean Corporation",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 138,
   "cross": 227298,
-  "grad_rate": 73.9,
-  "grad_rate_rank": 976,
-  "default_rate": 23.9,
+  "grad_rate": 76.8,
+  "grad_rate_rank": 827,
+  "default_rate": 24.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77099",
+  "email": false
 }

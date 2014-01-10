@@ -1,6 +1,6 @@
 {
   "facility_code": "10439447",
-  "institution": "SOCIAL SECURITY ADMINISTRATION-EVERETT CH 31 ONLY",
+  "institution": "Social Security Administration-Everett Ch 31 Only",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98208",
+  "email": false
 }

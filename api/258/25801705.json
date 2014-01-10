@@ -1,6 +1,6 @@
 {
   "facility_code": "25801705",
-  "institution": "QUATTRO BARBER COLLEGE CORP DBA MOLER BARBER COLLEGE",
+  "institution": "Quattro Barber College Corp Dba Moler Barber College",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 118994,
-  "grad_rate": 73.9,
-  "grad_rate_rank": 976,
+  "grad_rate": 78.9,
+  "grad_rate_rank": 705,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94609",
+  "email": false
 }

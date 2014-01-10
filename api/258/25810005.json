@@ -1,6 +1,6 @@
 {
   "facility_code": "25810005",
-  "institution": "EVEREST COLLEGE (SAN JOSE)",
+  "institution": "Everest College (San Jose)",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 119438,
-  "grad_rate": 74.8,
-  "grad_rate_rank": 942,
-  "default_rate": 26.9,
+  "grad_rate": 70.9,
+  "grad_rate_rank": 1133,
+  "default_rate": 11.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95128",
+  "email": true
 }

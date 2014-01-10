@@ -1,6 +1,6 @@
 {
   "facility_code": "21003403",
-  "institution": "EVEREST COLLEGE PHOENIX - ONLINE CAMPUS",
+  "institution": "Everest College Phoenix - Online Campus",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 63,
   "cross": 103644,
-  "grad_rate": 41.2,
-  "grad_rate_rank": 313,
-  "default_rate": 29.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 36.4,
+  "grad_rate_rank": 474,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 11832,
+  "avg_stu_loan_debt_rank": 841,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85284",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "26018530",
-  "institution": "LINCOLN TECHNICAL INSTITUTE MOORESTOWN",
+  "institution": "Lincoln Technical Institute Moorestown",
   "city": "Moorestown",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 374574,
-  "grad_rate": 72.1,
-  "grad_rate_rank": 1075,
-  "default_rate": 31.0,
-  "avg_stu_loan_debt": 8611,
-  "avg_stu_loan_debt_rank": 1494,
-  "indicator_group": 5
+  "grad_rate": 61.5,
+  "grad_rate_rank": 1573,
+  "default_rate": 27.3,
+  "avg_stu_loan_debt": 9059,
+  "avg_stu_loan_debt_rank": 1003,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8057",
+  "email": true
 }

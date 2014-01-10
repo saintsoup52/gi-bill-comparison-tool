@@ -1,6 +1,6 @@
 {
   "facility_code": "31005042",
-  "institution": "TENNESSEE WESLEYAN COLLEGE",
+  "institution": "Tennessee Wesleyan College",
   "city": "Athens",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 35,
   "cross": 221731,
-  "grad_rate": 43.7,
-  "grad_rate_rank": 1105,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 15274,
-  "avg_stu_loan_debt_rank": 760,
-  "indicator_group": 1
+  "grad_rate": 45.0,
+  "grad_rate_rank": 1065,
+  "default_rate": 10.3,
+  "avg_stu_loan_debt": 15500,
+  "avg_stu_loan_debt_rank": 576,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37303",
+  "email": true
 }

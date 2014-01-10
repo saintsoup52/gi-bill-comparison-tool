@@ -1,6 +1,6 @@
 {
   "facility_code": "21811506",
-  "institution": "ITT TECHNICAL INSTITUTE-WESTMINSTER",
+  "institution": "Itt Technical Institute-Westminster",
   "city": "Westminster",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 79,
   "cross": 244154,
-  "grad_rate": 29.3,
-  "grad_rate_rank": 559,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 35.4,
+  "grad_rate_rank": 495,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "80031",
+  "email": true
 }

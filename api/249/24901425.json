@@ -1,6 +1,6 @@
 {
   "facility_code": "24901425",
-  "institution": "ANTHEM COLLEGE",
+  "institution": "Anthem College",
   "city": "Maryland Heights",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 176549,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 11.1,
+  "grad_rate": 74.0,
+  "grad_rate_rank": 71,
+  "default_rate": 10.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "63043",
+  "email": true
 }

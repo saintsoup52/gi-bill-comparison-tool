@@ -1,6 +1,6 @@
 {
   "facility_code": "21801223",
-  "institution": "MINNESOTA SCHOOL OF BUSINESS - PLYMOUTH CAMPUS",
+  "institution": "Minnesota School Of Business - Plymouth Campus",
   "city": "Plymouth",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 442578,
-  "grad_rate": 29.3,
-  "grad_rate_rank": 559,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1379,
-  "indicator_group": 2
+  "grad_rate": 48.4,
+  "grad_rate_rank": 281,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 22041,
+  "avg_stu_loan_debt_rank": 1369,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55447",
+  "email": false
 }

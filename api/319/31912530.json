@@ -1,6 +1,6 @@
 {
   "facility_code": "31912530",
-  "institution": "FAIRLEIGH DICKINSON UNIVERSITY - PARALEGAL STUDIES PROGRAM",
+  "institution": "Fairleigh Dickinson University - Paralegal Studies Program",
   "city": "Madison",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 184694,
-  "grad_rate": 54.6,
-  "grad_rate_rank": 724,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 57.9,
+  "grad_rate_rank": 630,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7940",
+  "email": true
 }

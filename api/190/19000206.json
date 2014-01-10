@@ -1,6 +1,6 @@
 {
   "facility_code": "19000206",
-  "institution": "WELD COUNTY VETERANS SERVICES OFFICE",
+  "institution": "Weld County Veterans Services Office",
   "city": "Greeley",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80631",
+  "email": false
 }

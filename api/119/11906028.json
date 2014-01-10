@@ -1,6 +1,6 @@
 {
   "facility_code": "11906028",
-  "institution": "NEVADA STATE COLLEGE",
+  "institution": "Nevada State College",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 125,
   "cross": 441900,
-  "grad_rate": 21.6,
-  "grad_rate_rank": 1645,
-  "default_rate": 15.2,
-  "avg_stu_loan_debt": 11680,
-  "avg_stu_loan_debt_rank": 342,
-  "indicator_group": 1
+  "grad_rate": 15.9,
+  "grad_rate_rank": 1768,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89015",
+  "email": true
 }

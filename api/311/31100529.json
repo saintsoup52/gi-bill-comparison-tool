@@ -1,6 +1,6 @@
 {
   "facility_code": "31100529",
-  "institution": "NEW HAMPSHIRE INSTITUTE OF ART",
+  "institution": "New Hampshire Institute Of Art",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 430810,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 7.7,
-  "avg_stu_loan_debt": 21989,
-  "avg_stu_loan_debt_rank": 1628,
-  "indicator_group": 1
+  "grad_rate": 79.2,
+  "grad_rate_rank": 171,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 22440,
+  "avg_stu_loan_debt_rank": 1462,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3104",
+  "email": true
 }

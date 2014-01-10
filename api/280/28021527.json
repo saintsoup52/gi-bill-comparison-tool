@@ -1,6 +1,6 @@
 {
   "facility_code": "28021527",
-  "institution": "JOSEPH'S OF KEARNEY SCHOOL OF HAIR DESIGN",
+  "institution": "Joseph'S Of Kearney School Of Hair Design",
   "city": "Kearney",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "68847",
+  "email": false
 }

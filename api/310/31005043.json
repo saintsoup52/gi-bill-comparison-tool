@@ -1,6 +1,6 @@
 {
   "facility_code": "31005043",
-  "institution": "HOUSTON BAPTIST UNIVERSITY",
+  "institution": "Houston Baptist University",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 67,
   "cross": 225399,
-  "grad_rate": 45.1,
-  "grad_rate_rank": 1057,
-  "default_rate": 7.7,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "grad_rate": 44.7,
+  "grad_rate_rank": 1076,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 18081,
+  "avg_stu_loan_debt_rank": 928,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77074",
+  "email": false
 }

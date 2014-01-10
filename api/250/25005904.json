@@ -1,6 +1,6 @@
 {
   "facility_code": "25005904",
-  "institution": "CAREER ACADEMY OF HAIR DESIGN (FORMERLY LEONS HAIR TRNG ACAD)",
+  "institution": "Career Academy Of Hair Design (Formerly Leons Hair Trng Acad)",
   "city": "Springdale",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 107220,
-  "grad_rate": 67.6,
-  "grad_rate_rank": 1265,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 26.3,
+  "grad_rate_rank": 2218,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 8844,
+  "avg_stu_loan_debt_rank": 965,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72764",
+  "email": false
 }

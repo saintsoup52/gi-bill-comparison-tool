@@ -1,6 +1,6 @@
 {
   "facility_code": "31001236",
-  "institution": "SOUTHWESTERN CHRISTIAN UNIVERSITY",
+  "institution": "Southwestern Christian University",
   "city": "Bethany",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 207856,
-  "grad_rate": 28.2,
-  "grad_rate_rank": 1535,
-  "default_rate": 24.7,
-  "avg_stu_loan_debt": 12037,
-  "avg_stu_loan_debt_rank": 464,
-  "indicator_group": 1
+  "grad_rate": 23.3,
+  "grad_rate_rank": 1667,
+  "default_rate": 21.2,
+  "avg_stu_loan_debt": 8547,
+  "avg_stu_loan_debt_rank": 114,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73008",
+  "email": true
 }

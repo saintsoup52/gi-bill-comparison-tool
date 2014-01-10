@@ -1,6 +1,6 @@
 {
   "facility_code": "28019209",
-  "institution": "POTOMAC MASSAGE TRAINING INSTITUTE",
+  "institution": "Potomac Massage Training Institute",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20016",
+  "email": false
 }

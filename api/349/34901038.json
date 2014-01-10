@@ -1,6 +1,6 @@
 {
   "facility_code": "34901038",
-  "institution": "VALLEY FORGE MILITARY ACADEMY AND COLLEGE",
+  "institution": "Valley Forge Military Academy And College",
   "city": "Wayne",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 216551,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 12.9,
-  "avg_stu_loan_debt": 10250,
-  "avg_stu_loan_debt_rank": 868,
-  "indicator_group": 2
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 17875,
+  "avg_stu_loan_debt_rank": 1119,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19087",
+  "email": true
 }

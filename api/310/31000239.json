@@ -1,6 +1,6 @@
 {
   "facility_code": "31000239",
-  "institution": "PROVIDENCE COLLEGE",
+  "institution": "Providence College",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 27,
   "cross": 217402,
-  "grad_rate": 85.0,
-  "grad_rate_rank": 97,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 86.7,
+  "grad_rate_rank": 86,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 25589,
+  "avg_stu_loan_debt_rank": 1816,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2918",
+  "email": true
 }

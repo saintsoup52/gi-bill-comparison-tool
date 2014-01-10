@@ -1,6 +1,6 @@
 {
   "facility_code": "24977438",
-  "institution": "TRIANGLE TECH INC (GREENSBURG CAMPUS)",
+  "institution": "Triangle Tech Inc (Greensburg Campus)",
   "city": "Greensburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 216445,
-  "grad_rate": 82.6,
-  "grad_rate_rank": 25,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 16486,
-  "avg_stu_loan_debt_rank": 1191,
-  "indicator_group": 2
+  "grad_rate": 75.2,
+  "grad_rate_rank": 60,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 16000,
+  "avg_stu_loan_debt_rank": 1058,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15601",
+  "email": true
 }

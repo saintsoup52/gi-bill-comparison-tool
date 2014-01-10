@@ -1,6 +1,6 @@
 {
   "facility_code": "31931121",
-  "institution": "FRANKLIN W. OLIN COLLEGE OF ENGINEERING",
+  "institution": "Franklin W. Olin College Of Engineering",
   "city": "Needham",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 441982,
-  "grad_rate": 96.1,
-  "grad_rate_rank": 15,
+  "grad_rate": 94.0,
+  "grad_rate_rank": 25,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 9750,
-  "avg_stu_loan_debt_rank": 249,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2492",
+  "email": true
 }

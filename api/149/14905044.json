@@ -1,6 +1,6 @@
 {
   "facility_code": "14905044",
-  "institution": "SNOW COLLEGE RICHFIELD",
+  "institution": "Snow College Richfield",
   "city": "Richfield",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 230597,
-  "grad_rate": 32.4,
-  "grad_rate_rank": 471,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "grad_rate": 38.8,
+  "grad_rate_rank": 431,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 4100,
+  "avg_stu_loan_debt_rank": 84,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "84701",
+  "email": true
 }

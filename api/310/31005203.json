@@ -1,6 +1,6 @@
 {
   "facility_code": "31005203",
-  "institution": "WAYLAND BAPTIST UNIVERSITY - FT HUACHUCA/SIERRA VISTA",
+  "institution": "Wayland Baptist University - Ft Huachuca/Sierra Vista",
   "city": "Ft Huachuca",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 255,
   "cross": 229780,
-  "grad_rate": 37.4,
-  "grad_rate_rank": 1314,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 13891,
-  "avg_stu_loan_debt_rank": 623,
-  "indicator_group": 1
+  "grad_rate": 36.0,
+  "grad_rate_rank": 1367,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85613",
+  "email": true
 }

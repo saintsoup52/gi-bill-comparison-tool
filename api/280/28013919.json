@@ -1,6 +1,6 @@
 {
   "facility_code": "28013919",
-  "institution": "SHELTER INSTITUTE",
+  "institution": "Shelter Institute",
   "city": "Woolwich",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4579",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31504505",
-  "institution": "LA SIERRA UNIVERSITY",
+  "institution": "La Sierra University",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 37,
   "cross": 117627,
-  "grad_rate": 32.2,
-  "grad_rate_rank": 1444,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 16718,
-  "avg_stu_loan_debt_rank": 913,
-  "indicator_group": 1
+  "grad_rate": 44.5,
+  "grad_rate_rank": 1088,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 17923,
+  "avg_stu_loan_debt_rank": 899,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92515",
+  "email": true
 }

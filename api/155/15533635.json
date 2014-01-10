@@ -1,6 +1,6 @@
 {
   "facility_code": "15533635",
-  "institution": "MAHONING COUNTY CAREER & TECHNICAL CENTER",
+  "institution": "Mahoning County Career & Technical Center",
   "city": "Canfield",
   "state": "OH",
   "country": "USA",
@@ -12,7 +12,10 @@
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5900,
-  "avg_stu_loan_debt_rank": 946,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44406",
+  "email": true
 }

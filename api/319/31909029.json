@@ -1,6 +1,6 @@
 {
   "facility_code": "31909029",
-  "institution": "MCPHS (MASS. COLL. PHARMACY AND HEALTH SERVICES) - NEW HAMPSHIRE",
+  "institution": "Mcphs (Mass. Coll. Pharmacy And Health Services) - New Hampshire",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 166656,
-  "grad_rate": 68.6,
-  "grad_rate_rank": 336,
-  "default_rate": 1.0,
+  "grad_rate": 66.4,
+  "grad_rate_rank": 397,
+  "default_rate": 1.5,
   "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1435,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3101",
+  "email": true
 }

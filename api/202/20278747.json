@@ -1,6 +1,6 @@
 {
   "facility_code": "20278747",
-  "institution": "CONSTRUCTION INDUSTRY TNG. COUNCIL",
+  "institution": "Construction Industry Tng. Council",
   "city": "Bellevue",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98004",
+  "email": true
 }

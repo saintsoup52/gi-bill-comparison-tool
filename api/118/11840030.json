@@ -1,6 +1,6 @@
 {
   "facility_code": "11840030",
-  "institution": "RUTGERS THE STATE UNIV. R.W.JOHNSON MEDICAL SCHOOL-FAMILY MEDICINE RESIDENCY",
+  "institution": "Rutgers The State Univ. R.W.Johnson Medical School-Family Medicine Residency",
   "city": "Freehold",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7728",
+  "email": true
 }

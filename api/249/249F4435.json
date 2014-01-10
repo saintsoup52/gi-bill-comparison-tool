@@ -1,6 +1,6 @@
 {
   "facility_code": "249F4435",
-  "institution": "ATS INSTITUTE OF TECHNOLOGY",
+  "institution": "Ats Institute Of Technology",
   "city": "Highland Heights",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 439455,
-  "grad_rate": 78.7,
-  "grad_rate_rank": 37,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 18278,
-  "avg_stu_loan_debt_rank": 814,
-  "indicator_group": 3
+  "grad_rate": 78.2,
+  "grad_rate_rank": 82,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 640,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "44143",
+  "email": false
 }

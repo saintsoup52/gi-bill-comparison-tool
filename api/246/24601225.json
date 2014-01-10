@@ -1,6 +1,6 @@
 {
   "facility_code": "24601225",
-  "institution": "EVEREST COLLEGE",
+  "institution": "Everest College",
   "city": "Earth City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 447227,
-  "grad_rate": 50.3,
-  "grad_rate_rank": 1913,
-  "default_rate": 25.0,
+  "grad_rate": 49.2,
+  "grad_rate_rank": 1968,
+  "default_rate": 17.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63045",
+  "email": false
 }

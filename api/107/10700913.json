@@ -1,6 +1,6 @@
 {
   "facility_code": "10700913",
-  "institution": "ILLINOIS STATE POLICE DIST. 6",
+  "institution": "Illinois State Police Dist. 6",
   "city": "Pontiac",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61764",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B34323",
-  "institution": "MN DEPT OF VETERANS AFFAIRS",
+  "institution": "Mn Dept Of Veterans Affairs",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55155",
+  "email": false
 }

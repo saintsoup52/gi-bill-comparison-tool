@@ -1,6 +1,6 @@
 {
   "facility_code": "31001638",
-  "institution": "GETTYSBURG COLLEGE",
+  "institution": "Gettysburg College",
   "city": "Gettysburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 212674,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 102,
-  "default_rate": 0.4,
-  "avg_stu_loan_debt": 19395,
-  "avg_stu_loan_debt_rank": 1295,
-  "indicator_group": 1
+  "grad_rate": 84.1,
+  "grad_rate_rank": 105,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 22957,
+  "avg_stu_loan_debt_rank": 1511,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17325",
+  "email": true
 }

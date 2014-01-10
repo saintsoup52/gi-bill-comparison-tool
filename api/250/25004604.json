@@ -1,6 +1,6 @@
 {
   "facility_code": "25004604",
-  "institution": "NEW TYLER BARBER COLLEGE INC",
+  "institution": "New Tyler Barber College Inc",
   "city": "North Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 107442,
-  "grad_rate": 65.1,
-  "grad_rate_rank": 1387,
-  "default_rate": 21.4,
+  "grad_rate": 76.1,
+  "grad_rate_rank": 861,
+  "default_rate": 25.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72114",
+  "email": false
 }

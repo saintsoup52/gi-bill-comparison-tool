@@ -1,6 +1,6 @@
 {
   "facility_code": "20972810",
-  "institution": "MANATEE COUNTY CENTER LIBRARY",
+  "institution": "Manatee County Center Library",
   "city": "Bradenton",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34205",
+  "email": "No (SCO)"
 }

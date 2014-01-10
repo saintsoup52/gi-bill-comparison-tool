@@ -1,6 +1,6 @@
 {
   "facility_code": "20B99343",
-  "institution": "AMARILLO THERMO KING",
+  "institution": "Amarillo Thermo King",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "79118",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31107505",
-  "institution": "INSTITUTE FOR ADVANCED STUDY OF HUMAN SEXUALITY",
+  "institution": "Institute For Advanced Study Of Human Sexuality",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94109",
+  "email": false
 }

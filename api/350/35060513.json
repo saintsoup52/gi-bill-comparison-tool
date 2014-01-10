@@ -1,6 +1,6 @@
 {
   "facility_code": "35060513",
-  "institution": "NORTHWESTERN INSTITUTE OF HEALTH AND TECHNOLOGY",
+  "institution": "Northwestern Institute Of Health And Technology",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 8,
   "cross": 462293,
   "grad_rate": 97.0,
-  "grad_rate_rank": 102,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4666,
-  "avg_stu_loan_debt_rank": 750,
-  "indicator_group": 5
+  "grad_rate_rank": 108,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60640",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25066913",
-  "institution": "TRICOCI UNIVERSITY OF BEAUTY CULTURE-GLENDALE HEIGHTS",
+  "institution": "Tricoci University Of Beauty Culture-Glendale Heights",
   "city": "Glendale Heights",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 454980,
-  "grad_rate": 80.5,
-  "grad_rate_rank": 633,
-  "default_rate": 100.0,
-  "avg_stu_loan_debt": 11656,
-  "avg_stu_loan_debt_rank": 2276,
-  "indicator_group": 5
+  "grad_rate": 77.2,
+  "grad_rate_rank": 802,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 10703,
+  "avg_stu_loan_debt_rank": 1588,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60139",
+  "email": true
 }

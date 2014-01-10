@@ -1,6 +1,6 @@
 {
   "facility_code": "15527435",
-  "institution": "AUBURN CAREER CENTER",
+  "institution": "Auburn Career Center",
   "city": "Concord Township",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 201159,
-  "grad_rate": 96.2,
-  "grad_rate_rank": 115,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 94.9,
+  "grad_rate_rank": 151,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44077",
+  "email": true
 }

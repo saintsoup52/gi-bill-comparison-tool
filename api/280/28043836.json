@@ -1,6 +1,6 @@
 {
   "facility_code": "28043836",
-  "institution": "WOODWARD BEAUTY COLLEGE",
+  "institution": "Woodward Beauty College",
   "city": "Woodward",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 208044,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 2154,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 7224,
-  "avg_stu_loan_debt_rank": 1173,
-  "indicator_group": 5
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 4500,
+  "avg_stu_loan_debt_rank": 178,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73801",
+  "email": false
 }

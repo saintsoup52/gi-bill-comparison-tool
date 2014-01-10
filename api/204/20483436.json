@@ -1,6 +1,6 @@
 {
   "facility_code": "20483436",
-  "institution": "COMMUNITY WORKS",
+  "institution": "Community Works",
   "city": "Norman",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73069",
+  "email": false
 }

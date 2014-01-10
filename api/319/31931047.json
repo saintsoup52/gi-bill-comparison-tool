@@ -1,6 +1,6 @@
 {
   "facility_code": "31931047",
-  "institution": "BASTYR UNIVERSITY",
+  "institution": "Bastyr University",
   "city": "Kenmore",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 235547,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.6,
-  "avg_stu_loan_debt": 21197,
-  "avg_stu_loan_debt_rank": 1562,
-  "indicator_group": 1
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 22826,
+  "avg_stu_loan_debt_rank": 1501,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98028",
+  "email": false
 }

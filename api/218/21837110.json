@@ -1,6 +1,6 @@
 {
   "facility_code": "21837110",
-  "institution": "FLORIDA NATIONAL UNIVERSITY - MIAMI",
+  "institution": "Florida National University - Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 408844,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 158,
-  "default_rate": 22.2,
+  "grad_rate": 54.7,
+  "grad_rate_rank": 222,
+  "default_rate": 21.0,
   "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1379,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 1156,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33175",
+  "email": false
 }

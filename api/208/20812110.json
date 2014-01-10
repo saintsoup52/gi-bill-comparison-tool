@@ -1,6 +1,6 @@
 {
   "facility_code": "20812110",
-  "institution": "R E BAY ELECTRIC CO",
+  "institution": "R E Bay Electric Co",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32204",
+  "email": "No (SCO)"
 }

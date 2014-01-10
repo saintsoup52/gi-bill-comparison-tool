@@ -1,6 +1,6 @@
 {
   "facility_code": "20D26649",
-  "institution": "NEWTON ELECTRIC CORP",
+  "institution": "Newton Electric Corp",
   "city": "Wausau",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54401",
+  "email": false
 }

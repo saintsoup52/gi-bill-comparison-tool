@@ -1,6 +1,6 @@
 {
   "facility_code": "10502215",
-  "institution": "DNR NE REGIONAL OFFICE MANCHESTER FISH HATCHERY",
+  "institution": "Dnr Ne Regional Office Manchester Fish Hatchery",
   "city": "Manchester",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52057",
+  "email": false
 }

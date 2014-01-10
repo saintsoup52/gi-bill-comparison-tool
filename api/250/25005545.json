@@ -1,6 +1,6 @@
 {
   "facility_code": "25005545",
-  "institution": "VERMONT WORKS FOR WOMEN",
+  "institution": "Vermont Works For Women",
   "city": "Essex Junction",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5452",
+  "email": true
 }

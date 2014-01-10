@@ -1,6 +1,6 @@
 {
   "facility_code": "24918442",
-  "institution": "LINCOLN COLLEGE OF TECHNOLOGY - NASHVILLE",
+  "institution": "Lincoln College Of Technology - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 277,
   "cross": 221148,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 59.3,
+  "grad_rate_rank": 303,
+  "default_rate": 34.0,
+  "avg_stu_loan_debt": 15858,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "37206",
+  "email": false
 }

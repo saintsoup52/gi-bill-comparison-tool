@@ -1,6 +1,6 @@
 {
   "facility_code": "20022909",
-  "institution": "MERIDIAN ROOFING & CONSTRUCTION COMPANY INC",
+  "institution": "Meridian Roofing & Construction Company Inc",
   "city": "3705 Benning Road Ne",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20019",
+  "email": "No (SCO)"
 }

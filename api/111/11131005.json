@@ -1,6 +1,6 @@
 {
   "facility_code": "11131005",
-  "institution": "UNIVERSITY OF CALIFORNIA-SAN FRANCISCO",
+  "institution": "University Of California-San Francisco",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 110699,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 257,
-  "indicator_group": 4
+  "default_rate": 0.5,
+  "avg_stu_loan_debt": 6000,
+  "avg_stu_loan_debt_rank": 39,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "94143",
+  "email": true
 }

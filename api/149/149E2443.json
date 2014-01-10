@@ -1,6 +1,6 @@
 {
   "facility_code": "149E2443",
-  "institution": "NORTH LAKE COLLEGE",
+  "institution": "North Lake College",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 389,
   "cross": 227191,
-  "grad_rate": 9.3,
-  "grad_rate_rank": 1218,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 6240,
-  "avg_stu_loan_debt_rank": 465,
-  "indicator_group": 2
+  "grad_rate": 9.5,
+  "grad_rate_rank": 1308,
+  "default_rate": 17.8,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 498,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75038",
+  "email": true
 }

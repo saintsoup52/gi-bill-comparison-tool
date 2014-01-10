@@ -1,6 +1,6 @@
 {
   "facility_code": "31001411",
-  "institution": "COLUMBIA INTERNATIONAL UNIVERSITY",
+  "institution": "Columbia International University",
   "city": "Toccoa Falls",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 217925,
-  "grad_rate": 56.8,
-  "grad_rate_rank": 653,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 69.0,
+  "grad_rate_rank": 325,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 19150,
+  "avg_stu_loan_debt_rank": 1094,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30598",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11927111",
-  "institution": "COLUMBUS STATE UNIVERSITY",
+  "institution": "Columbus State University",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 784,
   "cross": 139366,
-  "grad_rate": 31.4,
-  "grad_rate_rank": 1461,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 14500,
-  "avg_stu_loan_debt_rank": 678,
-  "indicator_group": 1
+  "grad_rate": 34.3,
+  "grad_rate_rank": 1408,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 13750,
+  "avg_stu_loan_debt_rank": 417,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31907",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14906411",
-  "institution": "NORTH GEORGIA TECHNICAL COLLEGE",
+  "institution": "North Georgia Technical College",
   "city": "Clarkesville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 92,
   "cross": 140678,
-  "grad_rate": 39.0,
-  "grad_rate_rank": 261,
+  "grad_rate": 31.3,
+  "grad_rate_rank": 535,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 111,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 2400,
+  "avg_stu_loan_debt_rank": 6,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30523",
+  "email": true
 }

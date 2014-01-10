@@ -1,6 +1,6 @@
 {
   "facility_code": "10495217",
-  "institution": "EDMONTON POLICE DEPARTMENT",
+  "institution": "Edmonton Police Department",
   "city": "Edmonton",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "42129",
+  "email": false
 }

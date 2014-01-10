@@ -1,6 +1,6 @@
 {
   "facility_code": "25384932",
-  "institution": "HUDSON VALLEY SCHOOL OF MASSAGE THERAPY",
+  "institution": "Hudson Valley School Of Massage Therapy",
   "city": "West Park",
   "state": "NY",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 2,
   "cross": 451431,
   "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12493",
+  "email": false
 }

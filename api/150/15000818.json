@@ -1,6 +1,6 @@
 {
   "facility_code": "15000818",
-  "institution": "CADDO PARISH ADULT EDUCATION CENTER",
+  "institution": "Caddo Parish Adult Education Center",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71107",
+  "email": true
 }

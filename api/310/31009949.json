@@ -1,6 +1,6 @@
 {
   "facility_code": "31009949",
-  "institution": "MARIAN UNIVERSITY",
+  "institution": "Marian University",
   "city": "Fond Du Lac",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 82,
   "cross": 239080,
-  "grad_rate": 52.3,
-  "grad_rate_rank": 800,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 50.6,
+  "grad_rate_rank": 876,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 23844,
+  "avg_stu_loan_debt_rank": 1602,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "54935",
+  "email": false
 }

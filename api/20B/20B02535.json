@@ -1,6 +1,6 @@
 {
   "facility_code": "20B02535",
-  "institution": "GENERAL ENGINEERING CO. THE  K",
+  "institution": "General Engineering Co. The  K",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43609",
+  "email": false
 }

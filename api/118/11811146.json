@@ -1,6 +1,6 @@
 {
   "facility_code": "11811146",
-  "institution": "UNIVERSITY OF VIRGINIA COLLEGE AT WISE",
+  "institution": "University Of Virginia College At Wise",
   "city": "Wise",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 64,
   "cross": 233897,
-  "grad_rate": 38.8,
-  "grad_rate_rank": 1274,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 10944,
-  "avg_stu_loan_debt_rank": 296,
-  "indicator_group": 1
+  "grad_rate": 42.1,
+  "grad_rate_rank": 1171,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 14556,
+  "avg_stu_loan_debt_rank": 500,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24293",
+  "email": true
 }

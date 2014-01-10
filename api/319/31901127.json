@@ -1,6 +1,6 @@
 {
   "facility_code": "31901127",
-  "institution": "UNION COLLEGE",
+  "institution": "Union College",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 181738,
-  "grad_rate": 32.9,
-  "grad_rate_rank": 1425,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 18625,
-  "avg_stu_loan_debt_rank": 1164,
-  "indicator_group": 1
+  "grad_rate": 49.1,
+  "grad_rate_rank": 926,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 19962,
+  "avg_stu_loan_debt_rank": 1176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68506",
+  "email": false
 }

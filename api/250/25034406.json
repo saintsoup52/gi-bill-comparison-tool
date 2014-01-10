@@ -1,6 +1,6 @@
 {
   "facility_code": "25034406",
-  "institution": "EMPIRE BEAUTY SCHOOL - ARVADA",
+  "institution": "Empire Beauty School - Arvada",
   "city": "Arvada",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 381750,
-  "grad_rate": 43.8,
-  "grad_rate_rank": 2030,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 11955,
-  "avg_stu_loan_debt_rank": 2314,
-  "indicator_group": 5
+  "grad_rate": 42.4,
+  "grad_rate_rank": 2067,
+  "default_rate": 24.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80003",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "39405647",
-  "institution": "PENINSULA SERVICES (CH31)",
+  "institution": "Peninsula Services (Ch31)",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98310",
+  "email": false
 }

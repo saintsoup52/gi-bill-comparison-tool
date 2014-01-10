@@ -1,6 +1,6 @@
 {
   "facility_code": "20264737",
-  "institution": "OREGON SW-WA IUOE 701 & AGC JATC",
+  "institution": "Oregon Sw-Wa Iuoe 701 & Agc Jatc",
   "city": "Gladstone",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97027",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11905146",
-  "institution": "VIRGINIA COMMONWEALTH UNIVERSITY/OFFICE OF VETERANS AFFAIRS",
+  "institution": "Virginia Commonwealth University/Office Of Veterans Affairs",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1176,
   "cross": 234030,
-  "grad_rate": 53.1,
-  "grad_rate_rank": 770,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 18149,
-  "avg_stu_loan_debt_rank": 1108,
-  "indicator_group": 1
+  "grad_rate": 56.1,
+  "grad_rate_rank": 702,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 19125,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23284",
+  "email": true
 }

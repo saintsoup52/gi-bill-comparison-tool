@@ -1,6 +1,6 @@
 {
   "facility_code": "31907029",
-  "institution": "ANTIOCH UNIVERSITY NEW ENGLAND",
+  "institution": "Antioch University New England",
   "city": "Keene",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 245865,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 318,
-  "indicator_group": 4
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 23523,
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "3431",
+  "email": true
 }

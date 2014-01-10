@@ -1,6 +1,6 @@
 {
   "facility_code": "25806205",
-  "institution": "NORTH-WEST COLLEGE   (POMONA)",
+  "institution": "North-West College   (Pomona)",
   "city": "Pomona",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 120069,
-  "grad_rate": 76.4,
-  "grad_rate_rank": 849,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 5350,
-  "avg_stu_loan_debt_rank": 826,
-  "indicator_group": 5
+  "grad_rate": 69.8,
+  "grad_rate_rank": 1190,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 539,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91768",
+  "email": false
 }

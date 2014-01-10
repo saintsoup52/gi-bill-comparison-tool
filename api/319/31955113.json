@@ -1,6 +1,6 @@
 {
   "facility_code": "31955113",
-  "institution": "LAKE FOREST COLLEGE",
+  "institution": "Lake Forest College",
   "city": "Lake Forest",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 146481,
-  "grad_rate": 68.2,
-  "grad_rate_rank": 344,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 70.5,
+  "grad_rate_rank": 307,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 26288,
+  "avg_stu_loan_debt_rank": 1852,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60045",
+  "email": true
 }

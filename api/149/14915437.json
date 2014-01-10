@@ -1,6 +1,6 @@
 {
   "facility_code": "14915437",
-  "institution": "LINN-BENTON COMMUNITY COLLEGE",
+  "institution": "Linn-Benton Community College",
   "city": "Albany",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 467,
   "cross": 209074,
-  "grad_rate": 10.7,
-  "grad_rate_rank": 1184,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 6875,
-  "avg_stu_loan_debt_rank": 538,
-  "indicator_group": 2
+  "grad_rate": 17.9,
+  "grad_rate_rank": 1009,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 7667,
+  "avg_stu_loan_debt_rank": 525,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "97321",
+  "email": true
 }

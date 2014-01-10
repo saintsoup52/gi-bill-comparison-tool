@@ -1,6 +1,6 @@
 {
   "facility_code": "149E4443",
-  "institution": "COLLEGE OF THE MAINLAND",
+  "institution": "College Of The Mainland",
   "city": "Texas City",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 212,
   "cross": 226408,
-  "grad_rate": 6.7,
-  "grad_rate_rank": 1277,
+  "grad_rate": 10.6,
+  "grad_rate_rank": 1270,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3792,
-  "avg_stu_loan_debt_rank": 176,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 4331,
+  "avg_stu_loan_debt_rank": 94,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "77591",
+  "email": false
 }

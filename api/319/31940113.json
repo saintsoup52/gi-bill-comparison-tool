@@ -1,6 +1,6 @@
 {
   "facility_code": "31940113",
-  "institution": "SCHOOL OF THE ART INSTITUTE OF CHICAGO",
+  "institution": "School Of The Art Institute Of Chicago",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 143048,
-  "grad_rate": 60.5,
-  "grad_rate_rank": 552,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 23600,
-  "avg_stu_loan_debt_rank": 1835,
-  "indicator_group": 1
+  "grad_rate": 54.2,
+  "grad_rate_rank": 767,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 26209,
+  "avg_stu_loan_debt_rank": 1844,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60603",
+  "email": true
 }

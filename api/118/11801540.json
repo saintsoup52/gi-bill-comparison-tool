@@ -1,6 +1,6 @@
 {
   "facility_code": "11801540",
-  "institution": "COASTAL CAROLINA UNIVERSITY",
+  "institution": "Coastal Carolina University",
   "city": "Conway",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 351,
   "cross": 218724,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 1013,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 16750,
-  "avg_stu_loan_debt_rank": 915,
-  "indicator_group": 1
+  "grad_rate": 47.3,
+  "grad_rate_rank": 992,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 17150,
+  "avg_stu_loan_debt_rank": 814,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29528",
+  "email": false
 }

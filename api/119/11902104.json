@@ -1,6 +1,6 @@
 {
   "facility_code": "11902104",
-  "institution": "UNIVERSITY OF ARKANSAS-FORT SMITH",
+  "institution": "University Of Arkansas-Fort Smith",
   "city": "Fort Smith",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 493,
   "cross": 108092,
-  "grad_rate": 22.9,
-  "grad_rate_rank": 1624,
-  "default_rate": 18.8,
+  "grad_rate": 25.1,
+  "grad_rate_rank": 1628,
+  "default_rate": 22.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72913",
+  "email": false
 }

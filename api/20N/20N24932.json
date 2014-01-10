@@ -1,6 +1,6 @@
 {
   "facility_code": "20N24932",
-  "institution": "STONE DERRICKMEN & RIGGERS LOCAL 197",
+  "institution": "Stone Derrickmen & Riggers Local 197",
   "city": "Long Island City",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11101",
+  "email": false
 }

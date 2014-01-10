@@ -1,6 +1,6 @@
 {
   "facility_code": "21112105",
-  "institution": "THE ART INSTITUTE OF CALIFORNIA-SAN DIEGO",
+  "institution": "The Art Institute Of California-San Diego",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 877,
   "cross": 117113,
-  "grad_rate": 52.5,
-  "grad_rate_rank": 790,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "grad_rate": 38.4,
+  "grad_rate_rank": 1301,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92108",
+  "email": true
 }

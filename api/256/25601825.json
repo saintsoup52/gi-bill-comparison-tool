@@ -1,6 +1,6 @@
 {
   "facility_code": "25601825",
-  "institution": "TRANSFORMED BARBER AND COSMETOLOGY ACADEMY",
+  "institution": "Transformed Barber And Cosmetology Academy",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 457703,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 0.0,
+  "grad_rate": 45.6,
+  "grad_rate_rank": 2022,
+  "default_rate": 66.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64137",
+  "email": false
 }

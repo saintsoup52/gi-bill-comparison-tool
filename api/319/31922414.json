@@ -1,6 +1,6 @@
 {
   "facility_code": "31922414",
-  "institution": "UNIVERSITY OF EVANSVILLE",
+  "institution": "University Of Evansville",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 150534,
-  "grad_rate": 62.1,
-  "grad_rate_rank": 511,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 22846,
-  "avg_stu_loan_debt_rank": 1732,
-  "indicator_group": 1
+  "grad_rate": 68.3,
+  "grad_rate_rank": 342,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 22833,
+  "avg_stu_loan_debt_rank": 1503,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47722",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21823210",
-  "institution": "UNIVERSITY OF PHOENIX W FL",
+  "institution": "University Of Phoenix W Fl",
   "city": "Temple Terrace",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 366,
   "cross": 434964,
-  "grad_rate": 18.2,
-  "grad_rate_rank": 1693,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 15.1,
+  "grad_rate_rank": 1778,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33637",
+  "email": true
 }

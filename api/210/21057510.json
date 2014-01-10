@@ -1,6 +1,6 @@
 {
   "facility_code": "21057510",
-  "institution": "SOUTH UNIVERSITY- PALM BEACH CAMPUS",
+  "institution": "South University- Palm Beach Campus",
   "city": "Royal Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 115,
   "cross": 133465,
-  "grad_rate": 8.3,
-  "grad_rate_rank": 1798,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 9098,
-  "avg_stu_loan_debt_rank": 192,
-  "indicator_group": 1
+  "grad_rate": 21.4,
+  "grad_rate_rank": 1696,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 6463,
+  "avg_stu_loan_debt_rank": 58,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33411",
+  "email": true
 }

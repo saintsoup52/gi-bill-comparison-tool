@@ -1,6 +1,6 @@
 {
   "facility_code": "25449047",
-  "institution": "EVEREST COLLEGE @ RENTON",
+  "institution": "Everest College @ Renton",
   "city": "Renton",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 234784,
-  "grad_rate": 67.4,
-  "grad_rate_rank": 1275,
-  "default_rate": 37.0,
+  "grad_rate": 66.0,
+  "grad_rate_rank": 1382,
+  "default_rate": 20.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98057",
+  "email": true
 }

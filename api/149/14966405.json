@@ -1,6 +1,6 @@
 {
   "facility_code": "14966405",
-  "institution": "HARTNELL COLLEGE",
+  "institution": "Hartnell College",
   "city": "Salinas",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 130,
   "cross": 115393,
-  "grad_rate": 23.3,
-  "grad_rate_rank": 747,
-  "default_rate": 17.6,
+  "grad_rate": 22.5,
+  "grad_rate_rank": 864,
+  "default_rate": 47.5,
   "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93901",
+  "email": false
 }

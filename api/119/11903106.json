@@ -1,6 +1,6 @@
 {
   "facility_code": "11903106",
-  "institution": "METROPOLITAN STATE UNIVERSITY OF DENVER",
+  "institution": "Metropolitan State University Of Denver",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1213,
   "cross": 127565,
-  "grad_rate": 21.4,
-  "grad_rate_rank": 1649,
-  "default_rate": 15.5,
-  "avg_stu_loan_debt": 13408,
-  "avg_stu_loan_debt_rank": 581,
-  "indicator_group": 1
+  "grad_rate": 25.0,
+  "grad_rate_rank": 1629,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 13500,
+  "avg_stu_loan_debt_rank": 393,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80217",
+  "email": true
 }

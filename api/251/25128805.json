@@ -1,6 +1,6 @@
 {
   "facility_code": "25128805",
-  "institution": "PAINTED LIGHT IMAGES (CHAPTER 31)",
+  "institution": "Painted Light Images (Chapter 31)",
   "city": "Penn Valley",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95946",
+  "email": false
 }

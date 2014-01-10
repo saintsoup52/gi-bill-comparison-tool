@@ -1,6 +1,6 @@
 {
   "facility_code": "32801107",
-  "institution": "BRIDGEPORT HOSPITAL RESIDENCIES",
+  "institution": "Bridgeport Hospital Residencies",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 128726,
-  "grad_rate": 90.4,
-  "grad_rate_rank": 254,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 2465,
-  "indicator_group": 5
+  "grad_rate": 93.6,
+  "grad_rate_rank": 174,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 16000,
+  "avg_stu_loan_debt_rank": 1944,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6610",
+  "email": false
 }

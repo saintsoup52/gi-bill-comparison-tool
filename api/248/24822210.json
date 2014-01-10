@@ -1,6 +1,6 @@
 {
   "facility_code": "24822210",
-  "institution": "FLORIDA COLLEGE OF NATURAL HEALTH-MAITLAND CAMPUS",
+  "institution": "Florida College Of Natural Health-Maitland Campus",
   "city": "Maitland",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 438285,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 24.4,
-  "avg_stu_loan_debt": 8100,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 3
+  "grad_rate": 66.8,
+  "grad_rate_rank": 212,
+  "default_rate": 23.1,
+  "avg_stu_loan_debt": 8107,
+  "avg_stu_loan_debt_rank": 245,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "32751",
+  "email": true
 }

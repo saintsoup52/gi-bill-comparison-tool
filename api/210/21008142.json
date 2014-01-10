@@ -1,6 +1,6 @@
 {
   "facility_code": "21008142",
-  "institution": "DAYMAR INSTITUTE - MURFREESBORO",
+  "institution": "Daymar Institute - Murfreesboro",
   "city": "Murfreesboro",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 444255,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 130,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 12634,
-  "avg_stu_loan_debt_rank": 1011,
-  "indicator_group": 2
+  "grad_rate": 67.5,
+  "grad_rate_rank": 111,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 13566,
+  "avg_stu_loan_debt_rank": 927,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37128",
+  "email": false
 }

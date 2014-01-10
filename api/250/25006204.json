@@ -1,6 +1,6 @@
 {
   "facility_code": "25006204",
-  "institution": "ARKANSAS COLLEGE OF BARBERING & HAIR DESIGN INC",
+  "institution": "Arkansas College Of Barbering & Hair Design Inc",
   "city": "North Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 106351,
-  "grad_rate": 78.9,
-  "grad_rate_rank": 701,
-  "default_rate": 23.3,
-  "avg_stu_loan_debt": 11577,
-  "avg_stu_loan_debt_rank": 2270,
-  "indicator_group": 5
+  "grad_rate": 52.4,
+  "grad_rate_rank": 1884,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72114",
+  "email": false
 }

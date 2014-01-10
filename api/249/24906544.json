@@ -1,6 +1,6 @@
 {
   "facility_code": "24906544",
-  "institution": "VISTA COLLEGE - CLEARFIELD",
+  "institution": "Vista College - Clearfield",
   "city": "Clearfield",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 377342,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 75.5,
+  "grad_rate_rank": 112,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 3457,
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "84015",
+  "email": true
 }

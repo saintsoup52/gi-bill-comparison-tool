@@ -1,6 +1,6 @@
 {
   "facility_code": "14937433",
-  "institution": "CLEVELAND COMMUNITY COLLEGE",
+  "institution": "Cleveland Community College",
   "city": "Shelby",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 113,
   "cross": 198321,
-  "grad_rate": 40.3,
-  "grad_rate_rank": 251,
+  "grad_rate": 27.9,
+  "grad_rate_rank": 561,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28152",
+  "email": true
 }

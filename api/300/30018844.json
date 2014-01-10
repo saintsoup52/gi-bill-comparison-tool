@@ -1,6 +1,6 @@
 {
   "facility_code": "30018844",
-  "institution": "NORTHWEST LABORERS-EMPLOYERS TRAINING & TRUST FUND",
+  "institution": "Northwest Laborers-Employers Training & Trust Fund",
   "city": "West Jordan",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84088",
+  "email": true
 }

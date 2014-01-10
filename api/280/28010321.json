@@ -1,6 +1,6 @@
 {
   "facility_code": "28010321",
-  "institution": "MASSACHUSETTS SCHOOL OF BARBERING",
+  "institution": "Massachusetts School Of Barbering",
   "city": "Quincy",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 166805,
-  "grad_rate": 90.0,
-  "grad_rate_rank": 262,
+  "grad_rate": 94.1,
+  "grad_rate_rank": 168,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5437,
-  "avg_stu_loan_debt_rank": 834,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2169",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25577825",
-  "institution": "AMERICAN WOODWORKING ACADEMY INC.",
+  "institution": "American Woodworking Academy Inc.",
   "city": "Fenton",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63026",
+  "email": false
 }

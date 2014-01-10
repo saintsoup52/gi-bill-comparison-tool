@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95106",
-  "institution": "FAA - DENVER OEP DISTRICT OFFICE",
+  "institution": "Faa - Denver Oep District Office",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80249",
+  "email": true
 }

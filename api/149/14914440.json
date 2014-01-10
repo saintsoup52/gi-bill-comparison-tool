@@ -1,6 +1,6 @@
 {
   "facility_code": "14914440",
-  "institution": "GREENVILLE TECHNICAL COLLEGE",
+  "institution": "Greenville Technical College",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 751,
   "cross": 218113,
-  "grad_rate": 8.0,
-  "grad_rate_rank": 526,
-  "default_rate": 14.7,
+  "grad_rate": 8.3,
+  "grad_rate_rank": 729,
+  "default_rate": 17.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "29606",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15522725",
-  "institution": "FOUR RIVERS CAREER CENTER",
+  "institution": "Four Rivers Career Center",
   "city": "Washington",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 177436,
-  "grad_rate": 90.0,
-  "grad_rate_rank": 262,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 79.4,
+  "grad_rate_rank": 682,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63090",
+  "email": true
 }

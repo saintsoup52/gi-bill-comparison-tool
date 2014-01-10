@@ -1,6 +1,6 @@
 {
   "facility_code": "31002311",
-  "institution": "CLARK ATLANTA UNIVERSITY",
+  "institution": "Clark Atlanta University",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 200,
   "cross": 138947,
-  "grad_rate": 40.8,
-  "grad_rate_rank": 1204,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 33344,
-  "avg_stu_loan_debt_rank": 2050,
-  "indicator_group": 1
+  "grad_rate": 39.2,
+  "grad_rate_rank": 1277,
+  "default_rate": 14.3,
+  "avg_stu_loan_debt": 34552,
+  "avg_stu_loan_debt_rank": 1984,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30314",
+  "email": true
 }

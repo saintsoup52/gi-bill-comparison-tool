@@ -1,6 +1,6 @@
 {
   "facility_code": "25057005",
-  "institution": "DESERT RESORTS SCHOOL OF SOMATHERAPY (CHP 31)",
+  "institution": "Desert Resorts School Of Somatherapy (Chp 31)",
   "city": "Desert Hot Springs",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92240",
+  "email": "No (SCO)"
 }

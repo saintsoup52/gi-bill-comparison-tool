@@ -1,6 +1,6 @@
 {
   "facility_code": "31000225",
-  "institution": "AVILA UNIVERSITY",
+  "institution": "Avila University",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 176628,
-  "grad_rate": 41.6,
-  "grad_rate_rank": 1173,
-  "default_rate": 8.2,
-  "avg_stu_loan_debt": 17899,
-  "avg_stu_loan_debt_rank": 1070,
-  "indicator_group": 1
+  "grad_rate": 42.8,
+  "grad_rate_rank": 1149,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 18200,
+  "avg_stu_loan_debt_rank": 942,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64145",
+  "email": true
 }

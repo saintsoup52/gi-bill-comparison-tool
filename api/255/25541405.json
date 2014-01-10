@@ -1,6 +1,6 @@
 {
   "facility_code": "25541405",
-  "institution": "OCEANSIDE COLLEGE OF BEAUTY",
+  "institution": "Oceanside College Of Beauty",
   "city": "Oceanside",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 120272,
-  "grad_rate": 74.8,
-  "grad_rate_rank": 942,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8630,
-  "avg_stu_loan_debt_rank": 1507,
-  "indicator_group": 5
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
+  "default_rate": 31.2,
+  "avg_stu_loan_debt": 6062,
+  "avg_stu_loan_debt_rank": 420,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92054",
+  "email": false
 }

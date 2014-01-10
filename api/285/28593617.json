@@ -1,6 +1,6 @@
 {
   "facility_code": "28593617",
-  "institution": "BARRETT & COMPANY SCHOOL OF HAIR DESIGN",
+  "institution": "Barrett & Company School Of Hair Design",
   "city": "Nicholasville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 156277,
-  "grad_rate": 39.1,
-  "grad_rate_rank": 2077,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 3000,
-  "avg_stu_loan_debt_rank": 553,
-  "indicator_group": 5
+  "grad_rate": 64.3,
+  "grad_rate_rank": 1455,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 3300,
+  "avg_stu_loan_debt_rank": 67,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40356",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25542005",
-  "institution": "UNITED EDUCATION INSTITUTE (GARDENA)",
+  "institution": "United Education Institute (Gardena)",
   "city": "Gardena",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 124681,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 9425,
-  "avg_stu_loan_debt_rank": 442,
-  "indicator_group": 3
+  "grad_rate": 74.4,
+  "grad_rate_rank": 127,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90247",
+  "email": true
 }

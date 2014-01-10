@@ -1,6 +1,6 @@
 {
   "facility_code": "31514235",
-  "institution": "MALONE UNIVERSITY",
+  "institution": "Malone University",
   "city": "Canton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 54,
   "cross": 203775,
-  "grad_rate": 58.5,
-  "grad_rate_rank": 605,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 18500,
-  "avg_stu_loan_debt_rank": 1137,
-  "indicator_group": 1
+  "grad_rate": 62.5,
+  "grad_rate_rank": 501,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 17644,
+  "avg_stu_loan_debt_rank": 880,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44709",
+  "email": true
 }

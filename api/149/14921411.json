@@ -1,6 +1,6 @@
 {
   "facility_code": "14921411",
-  "institution": "NORTHWESTERN TECHNICAL COLLEGE",
+  "institution": "Northwestern Technical College",
   "city": "Rome",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 139384,
-  "grad_rate": 29.2,
-  "grad_rate_rank": 348,
+  "grad_rate": 28.1,
+  "grad_rate_rank": 560,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 234,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 2516,
+  "avg_stu_loan_debt_rank": 9,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30161",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10154034",
-  "institution": "FEDERAL AVIATION ADMIN-GRAND FORKS INTERNATIONAL AIRPORT",
+  "institution": "Federal Aviation Admin-Grand Forks International Airport",
   "city": "Grand Forks",
   "state": "ND",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "58201",
+  "email": false
 }

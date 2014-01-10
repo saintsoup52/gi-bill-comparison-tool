@@ -1,6 +1,6 @@
 {
   "facility_code": "35027106",
-  "institution": "MONTESSORI EDUCATION CENTER OF THE ROCKIES",
+  "institution": "Montessori Education Center Of The Rockies",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 127954,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 2117,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 8800,
+  "avg_stu_loan_debt_rank": 958,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80301",
+  "email": false
 }

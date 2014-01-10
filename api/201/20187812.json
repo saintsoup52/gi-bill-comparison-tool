@@ -1,6 +1,6 @@
 {
   "facility_code": "20187812",
-  "institution": "BOISE MOULDING & LUMBER CO. (CH 31)",
+  "institution": "Boise Moulding & Lumber Co. (Ch 31)",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83714",
+  "email": false
 }

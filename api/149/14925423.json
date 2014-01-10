@@ -1,6 +1,6 @@
 {
   "facility_code": "14925423",
-  "institution": "CENTRAL LAKES COLLEGE",
+  "institution": "Central Lakes College",
   "city": "Brainerd",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 191,
   "cross": 173203,
-  "grad_rate": 39.3,
-  "grad_rate_rank": 343,
-  "default_rate": 18.9,
-  "avg_stu_loan_debt": 8559,
-  "avg_stu_loan_debt_rank": 686,
-  "indicator_group": 2
+  "grad_rate": 38.5,
+  "grad_rate_rank": 436,
+  "default_rate": 21.1,
+  "avg_stu_loan_debt": 10369,
+  "avg_stu_loan_debt_rank": 750,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "56401",
+  "email": false
 }

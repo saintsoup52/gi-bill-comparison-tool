@@ -1,6 +1,6 @@
 {
   "facility_code": "25385932",
-  "institution": "NEW AGE TRAINING INC.",
+  "institution": "New Age Training Inc.",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 449685,
-  "grad_rate": 76.8,
-  "grad_rate_rank": 829,
-  "default_rate": 39.6,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 43.4,
+  "avg_stu_loan_debt": 2507,
+  "avg_stu_loan_debt_rank": 25,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10018",
+  "email": true
 }

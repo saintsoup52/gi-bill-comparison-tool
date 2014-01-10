@@ -1,6 +1,6 @@
 {
   "facility_code": "15628932",
-  "institution": "BOCES OSWEGO COUNTY",
+  "institution": "Boces Oswego County",
   "city": "Mexico",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 364964,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
-  "default_rate": 17.6,
-  "avg_stu_loan_debt": 8510,
-  "avg_stu_loan_debt_rank": 1482,
-  "indicator_group": 5
+  "grad_rate": 61.5,
+  "grad_rate_rank": 1573,
+  "default_rate": 9.7,
+  "avg_stu_loan_debt": 5700,
+  "avg_stu_loan_debt_rank": 379,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "13114",
+  "email": true
 }

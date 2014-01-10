@@ -1,6 +1,6 @@
 {
   "facility_code": "30J60438",
-  "institution": "LABORERS' DISTRICT COUNCIL OF EASTERN PA EDUC & TRAINING FUND",
+  "institution": "Laborers' District Council Of Eastern Pa Educ & Training Fund",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17112",
+  "email": false
 }

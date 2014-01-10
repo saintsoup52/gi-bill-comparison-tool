@@ -1,6 +1,6 @@
 {
   "facility_code": "20B92543",
-  "institution": "LAUREL LAND FUNERAL HOME AND CEMETERY",
+  "institution": "Laurel Land Funeral Home And Cemetery",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75232",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000440",
-  "institution": "COLUMBIA COLLEGE",
+  "institution": "Columbia College",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 217934,
-  "grad_rate": 49.5,
-  "grad_rate_rank": 904,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 45.9,
+  "grad_rate_rank": 1036,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 26959,
+  "avg_stu_loan_debt_rank": 1866,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29203",
+  "email": false
 }

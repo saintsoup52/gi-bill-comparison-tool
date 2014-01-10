@@ -1,6 +1,6 @@
 {
   "facility_code": "21357932",
-  "institution": "SCHOOL OF VISUAL ARTS",
+  "institution": "School Of Visual Arts",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 57,
   "cross": 197151,
-  "grad_rate": 69.5,
-  "grad_rate_rank": 318,
-  "default_rate": 7.7,
-  "avg_stu_loan_debt": 26000,
-  "avg_stu_loan_debt_rank": 2004,
-  "indicator_group": 1
+  "grad_rate": 67.9,
+  "grad_rate_rank": 355,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 27001,
+  "avg_stu_loan_debt_rank": 1902,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10010",
+  "email": false
 }

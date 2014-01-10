@@ -1,6 +1,6 @@
 {
   "facility_code": "24004405",
-  "institution": "EVEREST COLLEGE (LOS ANGELES)",
+  "institution": "Everest College (Los Angeles)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 119368,
-  "grad_rate": 64.1,
-  "grad_rate_rank": 107,
-  "default_rate": 36.9,
+  "grad_rate": 66.4,
+  "grad_rate_rank": 222,
+  "default_rate": 26.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90010",
+  "email": true
 }

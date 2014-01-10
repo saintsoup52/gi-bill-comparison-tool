@@ -1,6 +1,6 @@
 {
   "facility_code": "11006533",
-  "institution": "APPALACHIAN STATE UNIVERSITY",
+  "institution": "Appalachian State University",
   "city": "Boone",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 424,
   "cross": 197869,
-  "grad_rate": 65.2,
-  "grad_rate_rank": 428,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 18274,
-  "avg_stu_loan_debt_rank": 1118,
-  "indicator_group": 1
+  "grad_rate": 66.2,
+  "grad_rate_rank": 404,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 19125,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28608",
+  "email": true
 }

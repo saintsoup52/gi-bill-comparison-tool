@@ -1,6 +1,6 @@
 {
   "facility_code": "20N16432",
-  "institution": "ENTERGY NUCLEAR NORTHEAST - JAMES A. FITZPATRICK NPP",
+  "institution": "Entergy Nuclear Northeast - James A. Fitzpatrick Npp",
   "city": "Lycoming",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13093",
+  "email": true
 }

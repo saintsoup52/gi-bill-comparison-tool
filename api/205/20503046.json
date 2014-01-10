@@ -1,6 +1,6 @@
 {
   "facility_code": "20503046",
-  "institution": "HARRIE PLUMBING & HEATING INC.",
+  "institution": "Harrie Plumbing & Heating Inc.",
   "city": "Ruther Glen",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "22546",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14925116",
-  "institution": "NORTH CENTRAL KANSAS TECHNICAL COLLEGE",
+  "institution": "North Central Kansas Technical College",
   "city": "Beloit",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 155593,
-  "grad_rate": 81.0,
-  "grad_rate_rank": 33,
-  "default_rate": 13.6,
+  "grad_rate": 68.5,
+  "grad_rate_rank": 185,
+  "default_rate": 14.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "67420",
+  "email": false
 }

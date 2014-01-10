@@ -1,6 +1,6 @@
 {
   "facility_code": "25134905",
-  "institution": "BLAKE AUSTIN COLLEGE",
+  "institution": "Blake Austin College",
   "city": "Vacaville",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 447810,
-  "grad_rate": 70.5,
-  "grad_rate_rank": 1157,
-  "default_rate": 12.6,
+  "grad_rate": 95.2,
+  "grad_rate_rank": 145,
+  "default_rate": 9.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95687",
+  "email": false
 }

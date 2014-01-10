@@ -1,6 +1,6 @@
 {
   "facility_code": "21925417",
-  "institution": "BROWN MACKIE COLLEGE -LOUISVILLE",
+  "institution": "Brown Mackie College -Louisville",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 141,
   "cross": 157599,
-  "grad_rate": 42.5,
-  "grad_rate_rank": 295,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 1019,
-  "indicator_group": 2
+  "grad_rate": 32.7,
+  "grad_rate_rank": 557,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "40219",
+  "email": true
 }

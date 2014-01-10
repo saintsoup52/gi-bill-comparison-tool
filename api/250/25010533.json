@@ -1,6 +1,6 @@
 {
   "facility_code": "25010533",
-  "institution": "MCCLAIN BARBER SCHOOL",
+  "institution": "Mcclain Barber School",
   "city": "Wilson",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27893",
+  "email": true
 }

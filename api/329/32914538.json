@@ -1,6 +1,6 @@
 {
   "facility_code": "32914538",
-  "institution": "ARIA HEALTH SCHOOL OF NURSING",
+  "institution": "Aria Health School Of Nursing",
   "city": "Feasterville-Trevose",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 212568,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 24669,
-  "avg_stu_loan_debt_rank": 2561,
-  "indicator_group": 5
+  "grad_rate": 83.3,
+  "grad_rate_rank": 504,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 21388,
+  "avg_stu_loan_debt_rank": 2007,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19053",
+  "email": true
 }

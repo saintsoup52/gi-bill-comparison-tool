@@ -1,6 +1,6 @@
 {
   "facility_code": "31904133",
-  "institution": "LAUREL UNIVERSITY(FORMERLY JOHN WESLEY COLLEGE)",
+  "institution": "Laurel University(Formerly John Wesley College)",
   "city": "High Point",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 198747,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 562,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 12750,
-  "avg_stu_loan_debt_rank": 530,
-  "indicator_group": 1
+  "grad_rate": 18.2,
+  "grad_rate_rank": 1735,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27265",
+  "email": true
 }

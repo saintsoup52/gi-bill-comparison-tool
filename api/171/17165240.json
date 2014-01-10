@@ -1,6 +1,6 @@
 {
   "facility_code": "17165240",
-  "institution": "GREENVILLE COUNTY SCHOOLS LIFELONG LEARNING ADULT PROGRAM  CHAPTER 31 ONLY",
+  "institution": "Greenville County Schools Lifelong Learning Adult Program  Chapter 31 Only",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29605",
+  "email": false
 }

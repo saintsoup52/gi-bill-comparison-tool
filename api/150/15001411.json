@@ -1,6 +1,6 @@
 {
   "facility_code": "15001411",
-  "institution": "COLLEGE OF COASTAL GEORGIA - CTR FOR PROF. DEVELOPMENT & LIFELONG LEARNING",
+  "institution": "College Of Coastal Georgia - Ctr For Prof. Development & Lifelong Learning",
   "city": "Brunswick",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 139250,
-  "grad_rate": 13.9,
-  "grad_rate_rank": 1064,
-  "default_rate": 21.8,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 486,
-  "indicator_group": 2
+  "grad_rate": 14.0,
+  "grad_rate_rank": 1161,
+  "default_rate": 20.8,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "31520",
+  "email": false
 }

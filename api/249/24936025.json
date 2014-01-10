@@ -1,6 +1,6 @@
 {
   "facility_code": "24936025",
-  "institution": "ANTHEM COLLEGE KANSAS CITY",
+  "institution": "Anthem College Kansas City",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 445610,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 8055,
-  "avg_stu_loan_debt_rank": 342,
-  "indicator_group": 3
+  "grad_rate": 69.2,
+  "grad_rate_rank": 177,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 8978,
+  "avg_stu_loan_debt_rank": 293,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "64114",
+  "email": true
 }

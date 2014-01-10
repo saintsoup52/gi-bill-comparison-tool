@@ -1,6 +1,6 @@
 {
   "facility_code": "15007440",
-  "institution": "OCONEE COUNTY ADULT EDUCATION CENTER",
+  "institution": "Oconee County Adult Education Center",
   "city": "Seneca",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29678",
+  "email": false
 }

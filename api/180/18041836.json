@@ -1,6 +1,6 @@
 {
   "facility_code": "18041836",
-  "institution": "TULSA TECHNOLOGY CENTER BROKEN ARROW CAMPUS",
+  "institution": "Tulsa Technology Center Broken Arrow Campus",
   "city": "Broken Arrow",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 261393,
-  "grad_rate": 82.1,
-  "grad_rate_rank": 541,
+  "grad_rate": 83.6,
+  "grad_rate_rank": 491,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74011",
+  "email": true
 }

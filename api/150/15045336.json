@@ -1,6 +1,6 @@
 {
   "facility_code": "15045336",
-  "institution": "CHISHOLM TRAIL TECHNOLOGY CENTER",
+  "institution": "Chisholm Trail Technology Center",
   "city": "Omega",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 375656,
-  "grad_rate": 45.2,
-  "grad_rate_rank": 2005,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 39.0,
+  "grad_rate_rank": 2119,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73764",
+  "email": false
 }

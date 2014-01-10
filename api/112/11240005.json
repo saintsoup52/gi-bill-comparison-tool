@@ -1,6 +1,6 @@
 {
   "facility_code": "11240005",
-  "institution": "HASTINGS COLLEGE OF THE LAW",
+  "institution": "Hastings College Of The Law",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 110398,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 1.9,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 91,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "94102",
+  "email": false
 }

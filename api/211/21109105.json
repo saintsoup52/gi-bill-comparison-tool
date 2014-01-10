@@ -1,6 +1,6 @@
 {
   "facility_code": "21109105",
-  "institution": "CAL NORTHERN SCHOOL OF LAW",
+  "institution": "Cal Northern School Of Law",
   "city": "Chico",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95973",
+  "email": false
 }

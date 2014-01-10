@@ -1,6 +1,6 @@
 {
   "facility_code": "21912109",
-  "institution": "STRAYER UNIVERSITY",
+  "institution": "Strayer University",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 290,
   "cross": 131803,
-  "grad_rate": 22.7,
-  "grad_rate_rank": 1627,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 53.8,
+  "grad_rate_rank": 779,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20005",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32372432",
-  "institution": "ST. ELIZABETH COLLEGE OF NURSING",
+  "institution": "St. Elizabeth College Of Nursing",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 195687,
-  "grad_rate": 39.4,
-  "grad_rate_rank": 341,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "grad_rate": 47.4,
+  "grad_rate_rank": 297,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 19398,
+  "avg_stu_loan_debt_rank": 1174,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13501",
+  "email": true
 }

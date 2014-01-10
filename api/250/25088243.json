@@ -1,6 +1,6 @@
 {
   "facility_code": "25088243",
-  "institution": "EVEREST INSTITUTE HOUSTON",
+  "institution": "Everest Institute Houston",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 441016,
-  "grad_rate": 66.0,
-  "grad_rate_rank": 1356,
-  "default_rate": 36.8,
+  "grad_rate": 65.6,
+  "grad_rate_rank": 1397,
+  "default_rate": 23.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77087",
+  "email": false
 }

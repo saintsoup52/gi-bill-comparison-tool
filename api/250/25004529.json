@@ -1,6 +1,6 @@
 {
   "facility_code": "25004529",
-  "institution": "THE SALTER SCHOOL OF NURSING AND ALLIED HEALTH",
+  "institution": "The Salter School Of Nursing And Allied Health",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 460570,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 8104,
-  "avg_stu_loan_debt_rank": 1402,
-  "indicator_group": 5
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 7184,
+  "avg_stu_loan_debt_rank": 656,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3103",
+  "email": true
 }

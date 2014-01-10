@@ -1,6 +1,6 @@
 {
   "facility_code": "10011833",
-  "institution": "ALBEMARLE ELECTRIC MEMBERSHIP CORPORATION",
+  "institution": "Albemarle Electric Membership Corporation",
   "city": "Hertford",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27944",
+  "email": false
 }

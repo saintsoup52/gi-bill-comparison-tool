@@ -1,6 +1,6 @@
 {
   "facility_code": "15053036",
-  "institution": "PUTNAM CITY HIGH SCHOOL",
+  "institution": "Putnam City High School",
   "city": "Oklahoma City,",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73122",
+  "email": false
 }

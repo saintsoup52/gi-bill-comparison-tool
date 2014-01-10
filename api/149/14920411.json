@@ -1,6 +1,6 @@
 {
   "facility_code": "14920411",
-  "institution": "AUGUSTA TECHNICAL COLLEGE",
+  "institution": "Augusta Technical College",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 470,
   "cross": 138956,
-  "grad_rate": 36.3,
-  "grad_rate_rank": 282,
+  "grad_rate": 29.3,
+  "grad_rate_rank": 547,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 6782,
-  "avg_stu_loan_debt_rank": 276,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 3250,
+  "avg_stu_loan_debt_rank": 19,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30906",
+  "email": true
 }

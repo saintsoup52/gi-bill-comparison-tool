@@ -1,6 +1,6 @@
 {
   "facility_code": "14905146",
-  "institution": "JOHN TYLER COMMUNITY COLLEGE",
+  "institution": "John Tyler Community College",
   "city": "Chester",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 612,
   "cross": 232450,
-  "grad_rate": 12.7,
-  "grad_rate_rank": 1108,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 5718,
-  "avg_stu_loan_debt_rank": 410,
-  "indicator_group": 2
+  "grad_rate": 11.9,
+  "grad_rate_rank": 1233,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 5938,
+  "avg_stu_loan_debt_rank": 321,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "23831",
+  "email": true
 }

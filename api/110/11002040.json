@@ -1,6 +1,6 @@
 {
   "facility_code": "11002040",
-  "institution": "SOUTH CAROLINA STATE UNIVERSITY",
+  "institution": "South Carolina State University",
   "city": "Orangeburg",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 271,
   "cross": 218733,
-  "grad_rate": 34.6,
-  "grad_rate_rank": 1373,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 34.3,
+  "grad_rate_rank": 1408,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29117",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25002140",
-  "institution": "C R ENGLAND TRUCK DRIVING SCHOOL - CHAPTER 31 ONLY",
+  "institution": "C R England Truck Driving School - Chapter 31 Only",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29303",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15000524",
-  "institution": "STATE VOCATIONAL REHABILITATION SERVICES - CH31 ONLY",
+  "institution": "State Vocational Rehabilitation Services - Ch31 Only",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39203",
+  "email": "No (SCO)"
 }

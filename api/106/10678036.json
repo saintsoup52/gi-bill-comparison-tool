@@ -1,6 +1,6 @@
 {
   "facility_code": "10678036",
-  "institution": "ROGERS COUNTY SHERIFF",
+  "institution": "Rogers County Sheriff",
   "city": "Claremore",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73017",
+  "email": false
 }

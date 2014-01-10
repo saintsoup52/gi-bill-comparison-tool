@@ -1,6 +1,6 @@
 {
   "facility_code": "11041143",
-  "institution": "TEXAS A AND M UNIV HSC S AND W HOSP OB GYN",
+  "institution": "Texas A And M Univ Hsc S And W Hosp Ob Gyn",
   "city": "Temple",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76508",
+  "email": false
 }

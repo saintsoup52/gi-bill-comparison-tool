@@ -1,6 +1,6 @@
 {
   "facility_code": "31003311",
-  "institution": "BREWTON-PARKER COLLEGE",
+  "institution": "Brewton-Parker College",
   "city": "Mt. Vernon",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 139205,
-  "grad_rate": 19.1,
-  "grad_rate_rank": 1681,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 12787,
-  "avg_stu_loan_debt_rank": 537,
-  "indicator_group": 1
+  "grad_rate": 21.3,
+  "grad_rate_rank": 1698,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 11529,
+  "avg_stu_loan_debt_rank": 263,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30445",
+  "email": true
 }

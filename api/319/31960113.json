@@ -1,6 +1,6 @@
 {
   "facility_code": "31960113",
-  "institution": "MILLIKIN UNIVERSITY",
+  "institution": "Millikin University",
   "city": "Decatur",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 147244,
-  "grad_rate": 64.7,
-  "grad_rate_rank": 441,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 55.3,
+  "grad_rate_rank": 729,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62522",
+  "email": false
 }

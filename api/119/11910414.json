@@ -1,6 +1,6 @@
 {
   "facility_code": "11910414",
-  "institution": "INDIANA UNIVERSITY PURDUE UNIVERSITY AT COLUMBUS",
+  "institution": "Indiana University Purdue University At Columbus",
   "city": "Columbus",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 70,
   "cross": 151111,
-  "grad_rate": 32.7,
-  "grad_rate_rank": 1433,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 16927,
-  "avg_stu_loan_debt_rank": 942,
-  "indicator_group": 1
+  "grad_rate": 38.3,
+  "grad_rate_rank": 1303,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 17250,
+  "avg_stu_loan_debt_rank": 823,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47203",
+  "email": false
 }

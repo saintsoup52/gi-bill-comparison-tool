@@ -1,6 +1,6 @@
 {
   "facility_code": "20C96249",
-  "institution": "TOWER AUTOMOTIVE",
+  "institution": "Tower Automotive",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53216",
+  "email": false
 }

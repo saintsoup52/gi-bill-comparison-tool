@@ -1,6 +1,6 @@
 {
   "facility_code": "24811036",
-  "institution": "PLATT COLLEGE CENTRAL OKC CAMPUS",
+  "institution": "Platt College Central Okc Campus",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 207625,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 25.7,
+  "grad_rate": 53.3,
+  "grad_rate_rank": 368,
+  "default_rate": 18.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "73128",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25457647",
-  "institution": "ENVIRONMENTAL MANAGEMENT TRAINING - CH 31",
+  "institution": "Environmental Management Training - Ch 31",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98411",
+  "email": false
 }

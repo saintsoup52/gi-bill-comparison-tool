@@ -1,6 +1,6 @@
 {
   "facility_code": "31005703",
-  "institution": "PHOENIX SEMINARY",
+  "institution": "Phoenix Seminary",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 381459,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "85018",
+  "email": false
 }

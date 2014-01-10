@@ -1,6 +1,6 @@
 {
   "facility_code": "14920406",
-  "institution": "MORGAN COMMUNITY COLLEGE",
+  "institution": "Morgan Community College",
   "city": "Ft Morgan",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 127617,
-  "grad_rate": 36.8,
-  "grad_rate_rank": 277,
-  "default_rate": 18.9,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 336,
-  "indicator_group": 3
+  "grad_rate": 36.2,
+  "grad_rate_rank": 487,
+  "default_rate": 20.8,
+  "avg_stu_loan_debt": 8625,
+  "avg_stu_loan_debt_rank": 271,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80701",
+  "email": true
 }

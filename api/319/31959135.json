@@ -1,6 +1,6 @@
 {
   "facility_code": "31959135",
-  "institution": "TRI-STATE BIBLE COLLEGE",
+  "institution": "Tri-State Bible College",
   "city": "South Point",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 206154,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8750,
-  "avg_stu_loan_debt_rank": 179,
-  "indicator_group": 1
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 50.0,
+  "avg_stu_loan_debt": 11875,
+  "avg_stu_loan_debt_rank": 581,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "45680",
+  "email": true
 }

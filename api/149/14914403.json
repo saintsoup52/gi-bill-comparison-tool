@@ -1,6 +1,6 @@
 {
   "facility_code": "14914403",
-  "institution": "NORTHLAND PIONEER COLLEGE",
+  "institution": "Northland Pioneer College",
   "city": "Holbrook",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 67,
   "cross": 105349,
-  "grad_rate": 19.0,
-  "grad_rate_rank": 451,
+  "grad_rate": 6.1,
+  "grad_rate_rank": 736,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "86025",
+  "email": true
 }

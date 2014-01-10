@@ -1,6 +1,6 @@
 {
   "facility_code": "11801340",
-  "institution": "UNIVERSITY OF SOUTH CAROLINA - AIKEN",
+  "institution": "University Of South Carolina - Aiken",
   "city": "Aiken",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 158,
   "cross": 218645,
-  "grad_rate": 41.5,
-  "grad_rate_rank": 1179,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 42.9,
+  "grad_rate_rank": 1141,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 17200,
+  "avg_stu_loan_debt_rank": 815,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29801",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21959105",
-  "institution": "BROOKS INSTITUTE",
+  "institution": "Brooks Institute",
   "city": "Santa Barbara",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 100,
   "cross": 110185,
-  "grad_rate": 45.0,
-  "grad_rate_rank": 1058,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 38750,
-  "avg_stu_loan_debt_rank": 2060,
-  "indicator_group": 1
+  "grad_rate": 45.6,
+  "grad_rate_rank": 1048,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 32422,
+  "avg_stu_loan_debt_rank": 1975,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93103",
+  "email": true
 }

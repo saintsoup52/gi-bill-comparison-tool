@@ -1,6 +1,6 @@
 {
   "facility_code": "20967910",
-  "institution": "FLEA MARKET AUTO SALES",
+  "institution": "Flea Market Auto Sales",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33054",
+  "email": false
 }

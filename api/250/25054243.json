@@ -1,6 +1,6 @@
 {
   "facility_code": "25054243",
-  "institution": "SOUTH TEXAS VOCATIONAL TECHNICAL INST WESLACO",
+  "institution": "South Texas Vocational Technical Inst Weslaco",
   "city": "Weslaco",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 228200,
-  "grad_rate": 64.9,
-  "grad_rate_rank": 1395,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 9340,
-  "avg_stu_loan_debt_rank": 1619,
-  "indicator_group": 5
+  "grad_rate": 60.9,
+  "grad_rate_rank": 1602,
+  "default_rate": 21.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78596",
+  "email": false
 }

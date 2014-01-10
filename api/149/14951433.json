@@ -1,6 +1,6 @@
 {
   "facility_code": "14951433",
-  "institution": "HAYWOOD COMMUNITY COLLEGE",
+  "institution": "Haywood Community College",
   "city": "Clyde",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 102,
   "cross": 198668,
-  "grad_rate": 22.9,
-  "grad_rate_rank": 763,
+  "grad_rate": 27.8,
+  "grad_rate_rank": 562,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 264,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28721",
+  "email": true
 }

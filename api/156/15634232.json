@@ -1,6 +1,6 @@
 {
   "facility_code": "15634232",
-  "institution": "YOUNG MOTHERS & INTERIM HEALTH ACADEMY OF THE ROCHESTER CITY SCHOOL DISTRICT",
+  "institution": "Young Mothers & Interim Health Academy Of The Rochester City School District",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14605",
+  "email": true
 }

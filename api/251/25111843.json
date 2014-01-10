@@ -1,6 +1,6 @@
 {
   "facility_code": "25111843",
-  "institution": "UNIV OF COSMETOLOGY ARTS AND SCIENCES SAN ANTONIO",
+  "institution": "Univ Of Cosmetology Arts And Sciences San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 377193,
-  "grad_rate": 14.3,
-  "grad_rate_rank": 2187,
-  "default_rate": 32.6,
-  "avg_stu_loan_debt": 6444,
-  "avg_stu_loan_debt_rank": 1059,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 7160,
+  "avg_stu_loan_debt_rank": 653,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78226",
+  "email": false
 }

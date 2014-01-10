@@ -1,6 +1,6 @@
 {
   "facility_code": "14918405",
-  "institution": "SKYLINE COLLEGE",
+  "institution": "Skyline College",
   "city": "San Bruno",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 186,
   "cross": 123509,
-  "grad_rate": 20.3,
-  "grad_rate_rank": 848,
-  "default_rate": 17.0,
-  "avg_stu_loan_debt": 5599,
-  "avg_stu_loan_debt_rank": 397,
-  "indicator_group": 2
+  "grad_rate": 17.2,
+  "grad_rate_rank": 1035,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 5934,
+  "avg_stu_loan_debt_rank": 320,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "94066",
+  "email": true
 }

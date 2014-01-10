@@ -1,6 +1,6 @@
 {
   "facility_code": "32388732",
-  "institution": "ST. JOHN'S RIVERSIDE HOSPITAL - COCHRAN SCHOOL OF NURSING",
+  "institution": "St. John'S Riverside Hospital - Cochran School Of Nursing",
   "city": "Yonkers",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 190071,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 5.0,
+  "default_rate": 5.8,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10701",
+  "email": true
 }

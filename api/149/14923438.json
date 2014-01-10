@@ -1,6 +1,6 @@
 {
   "facility_code": "14923438",
-  "institution": "MONTGOMERY COUNTY COMMUNITY COLLEGE",
+  "institution": "Montgomery County Community College",
   "city": "Blue Bell",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 484,
   "cross": 214111,
-  "grad_rate": 11.6,
-  "grad_rate_rank": 1158,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 8563,
-  "avg_stu_loan_debt_rank": 687,
-  "indicator_group": 2
+  "grad_rate": 13.7,
+  "grad_rate_rank": 1171,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 7185,
+  "avg_stu_loan_debt_rank": 472,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19422",
+  "email": true
 }

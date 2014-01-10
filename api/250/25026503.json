@@ -1,6 +1,6 @@
 {
   "facility_code": "25026503",
-  "institution": "ALTRAIN DENTAL ASSISTING ACADEMY",
+  "institution": "Altrain Dental Assisting Academy",
   "city": "Glendale",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85308",
+  "email": false
 }

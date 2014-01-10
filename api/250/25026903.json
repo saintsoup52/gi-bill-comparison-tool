@@ -1,6 +1,6 @@
 {
   "facility_code": "25026903",
-  "institution": "AVEDA INSTITUTE",
+  "institution": "Aveda Institute",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 476753,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 53.4,
+  "grad_rate_rank": 1855,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85719",
+  "email": false
 }

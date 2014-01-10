@@ -1,6 +1,6 @@
 {
   "facility_code": "10534717",
-  "institution": "EASTERN REGION TRAINING CENTER FOR CORRECTION",
+  "institution": "Eastern Region Training Center For Correction",
   "city": "Sandy Hooks",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41171",
+  "email": false
 }

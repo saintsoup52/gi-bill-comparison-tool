@@ -1,6 +1,6 @@
 {
   "facility_code": "25028342",
-  "institution": "GENESIS CAREER COLLEGE OF COOKEVILLE",
+  "institution": "Genesis Career College Of Cookeville",
   "city": "Cookeville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 220765,
-  "grad_rate": 57.9,
-  "grad_rate_rank": 1670,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 87.6,
+  "grad_rate_rank": 343,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 5631,
+  "avg_stu_loan_debt_rank": 372,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38501",
+  "email": false
 }

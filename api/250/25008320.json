@@ -1,6 +1,6 @@
 {
   "facility_code": "25008320",
-  "institution": "ROBERT PAUL ACADEMY OF COSMETOLOGY ARTS AND SCIENCES",
+  "institution": "Robert Paul Academy Of Cosmetology Arts And Sciences",
   "city": "Timonium",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 163754,
-  "grad_rate": 63.3,
-  "grad_rate_rank": 1456,
-  "default_rate": 25.6,
-  "avg_stu_loan_debt": 7801,
-  "avg_stu_loan_debt_rank": 1310,
-  "indicator_group": 5
+  "grad_rate": 53.6,
+  "grad_rate_rank": 1850,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21093",
+  "email": true
 }

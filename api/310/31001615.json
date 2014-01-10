@@ -1,6 +1,6 @@
 {
   "facility_code": "31001615",
-  "institution": "ST AMBROSE UNIVERSITY",
+  "institution": "St Ambrose University",
   "city": "Davenport",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 94,
   "cross": 154235,
-  "grad_rate": 61.8,
-  "grad_rate_rank": 515,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 62.9,
+  "grad_rate_rank": 490,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 22469,
+  "avg_stu_loan_debt_rank": 1464,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52803",
+  "email": true
 }

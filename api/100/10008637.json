@@ -1,6 +1,6 @@
 {
   "facility_code": "10008637",
-  "institution": "WASHINGTON COUNTY FIRE DISTRICT #2",
+  "institution": "Washington County Fire District #2",
   "city": "North Plains",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97133",
+  "email": true
 }

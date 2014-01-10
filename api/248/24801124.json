@@ -1,6 +1,6 @@
 {
   "facility_code": "24801124",
-  "institution": "ANTONELLI COLLEGE - JACKSON",
+  "institution": "Antonelli College - Jackson",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 175528,
-  "grad_rate": 76.9,
-  "grad_rate_rank": 46,
-  "default_rate": 35.1,
-  "avg_stu_loan_debt": 12226,
-  "avg_stu_loan_debt_rank": 995,
-  "indicator_group": 2
+  "grad_rate": 46.5,
+  "grad_rate_rank": 315,
+  "default_rate": 33.0,
+  "avg_stu_loan_debt": 11084,
+  "avg_stu_loan_debt_rank": 800,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39232",
+  "email": true
 }

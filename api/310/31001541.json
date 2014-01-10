@@ -1,6 +1,6 @@
 {
   "facility_code": "31001541",
-  "institution": "BELLEVUE UNIVERSITY",
+  "institution": "Bellevue University",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 180814,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 1321,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 15278,
-  "avg_stu_loan_debt_rank": 761,
-  "indicator_group": 1
+  "grad_rate": 31.1,
+  "grad_rate_rank": 1505,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 16666,
+  "avg_stu_loan_debt_rank": 766,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57107",
+  "email": false
 }

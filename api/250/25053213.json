@@ -1,6 +1,6 @@
 {
   "facility_code": "25053213",
-  "institution": "THE SOMA INSTITUTE",
+  "institution": "The Soma Institute",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 445957,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 34.4,
-  "avg_stu_loan_debt": 7916,
-  "avg_stu_loan_debt_rank": 1329,
-  "indicator_group": 5
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 11995,
+  "avg_stu_loan_debt_rank": 1749,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60604",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31009243",
-  "institution": "PAUL QUINN COLLEGE",
+  "institution": "Paul Quinn College",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 227429,
-  "grad_rate": 5.4,
-  "grad_rate_rank": 1819,
-  "default_rate": 22.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 0.6,
+  "grad_rate_rank": 1872,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 9750,
+  "avg_stu_loan_debt_rank": 155,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75241",
+  "email": false
 }

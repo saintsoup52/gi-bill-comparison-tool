@@ -1,6 +1,6 @@
 {
   "facility_code": "25159005",
-  "institution": "MILAN INSTITUTE (INDIO)",
+  "institution": "Milan Institute (Indio)",
   "city": "Indio",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 442657,
-  "grad_rate": 76.6,
-  "grad_rate_rank": 838,
-  "default_rate": 28.1,
+  "grad_rate": 72.5,
+  "grad_rate_rank": 1055,
+  "default_rate": 22.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92201",
+  "email": false
 }

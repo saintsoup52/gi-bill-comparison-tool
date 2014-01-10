@@ -1,6 +1,6 @@
 {
   "facility_code": "15008542",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - ATHENS",
+  "institution": "Tennessee College Of Applied Technology - Athens",
   "city": "Athens",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 219596,
-  "grad_rate": 88.8,
-  "grad_rate_rank": 314,
+  "grad_rate": 83.3,
+  "grad_rate_rank": 504,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37371",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25523335",
-  "institution": "INNER STATE BEAUTY SCHOOL",
+  "institution": "Inner State Beauty School",
   "city": "Lyndhurst",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 388663,
-  "grad_rate": 72.6,
-  "grad_rate_rank": 1043,
+  "grad_rate": 73.1,
+  "grad_rate_rank": 1024,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44124",
+  "email": true
 }

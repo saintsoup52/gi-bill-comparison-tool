@@ -1,6 +1,6 @@
 {
   "facility_code": "20N22332",
-  "institution": "SHEET METAL WORKERS LOCAL #71 JATC",
+  "institution": "Sheet Metal Workers Local #71 Jatc",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14215",
+  "email": false
 }

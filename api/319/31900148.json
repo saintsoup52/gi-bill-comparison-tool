@@ -1,6 +1,6 @@
 {
   "facility_code": "31900148",
-  "institution": "OHIO VALLEY UNIVERSITY",
+  "institution": "Ohio Valley University",
   "city": "Vienna",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 237640,
-  "grad_rate": 42.7,
-  "grad_rate_rank": 1137,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 14875,
-  "avg_stu_loan_debt_rank": 714,
-  "indicator_group": 1
+  "grad_rate": 43.9,
+  "grad_rate_rank": 1101,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26105",
+  "email": true
 }

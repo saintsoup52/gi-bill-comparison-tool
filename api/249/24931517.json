@@ -1,6 +1,6 @@
 {
   "facility_code": "24931517",
-  "institution": "DAYMAR COLLEGE - CLINTON",
+  "institution": "Daymar College - Clinton",
   "city": "Clinton",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 406219,
-  "grad_rate": 18.8,
-  "grad_rate_rank": 905,
-  "default_rate": 29.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 56.5,
+  "grad_rate_rank": 203,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 12315,
+  "avg_stu_loan_debt_rank": 873,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "42031",
+  "email": true
 }

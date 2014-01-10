@@ -1,6 +1,6 @@
 {
   "facility_code": "15312438",
-  "institution": "NORTH PENN HIGH SCHOOL",
+  "institution": "North Penn High School",
   "city": "Lansdale",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19446",
+  "email": true
 }

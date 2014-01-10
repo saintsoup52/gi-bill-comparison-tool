@@ -1,6 +1,6 @@
 {
   "facility_code": "20507932",
-  "institution": "JAC IRONWORKERS LOCALS 40 AND 361",
+  "institution": "Jac Ironworkers Locals 40 And 361",
   "city": "Astoria",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11106",
+  "email": true
 }

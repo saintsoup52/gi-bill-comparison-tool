@@ -1,6 +1,6 @@
 {
   "facility_code": "31003813",
-  "institution": "VANDERCOOK COLLEGE OF MUSIC",
+  "institution": "Vandercook College Of Music",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 149639,
-  "grad_rate": 45.5,
-  "grad_rate_rank": 1041,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 29500,
-  "avg_stu_loan_debt_rank": 2037,
-  "indicator_group": 1
+  "grad_rate": 60.0,
+  "grad_rate_rank": 568,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 29751,
+  "avg_stu_loan_debt_rank": 1963,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60616",
+  "email": true
 }

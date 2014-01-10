@@ -1,10 +1,10 @@
 {
   "facility_code": "31110278",
-  "institution": "UNIVERSITY OF BASEL",
+  "institution": "University Of Basel",
   "city": "Ch 4051 Basel",
   "state": "Switzerland",
   "country": "Switzerland",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

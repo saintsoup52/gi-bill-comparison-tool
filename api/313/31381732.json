@@ -1,6 +1,6 @@
 {
   "facility_code": "31381732",
-  "institution": "THE KING'S COLLEGE",
+  "institution": "The King'S College",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 454184,
-  "grad_rate": 50.9,
-  "grad_rate_rank": 849,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 10500,
-  "avg_stu_loan_debt_rank": 271,
-  "indicator_group": 1
+  "grad_rate": 57.7,
+  "grad_rate_rank": 640,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 12195,
+  "avg_stu_loan_debt_rank": 288,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10004",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24938401",
-  "institution": "HERZING UNIVERSITY (FORMLY HERZING COLLEGE)",
+  "institution": "Herzing University (Formly Herzing College)",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 101365,
-  "grad_rate": 11.4,
-  "grad_rate_rank": 1165,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 11399,
-  "avg_stu_loan_debt_rank": 937,
-  "indicator_group": 2
+  "grad_rate": 43.9,
+  "grad_rate_rank": 349,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 15162,
+  "avg_stu_loan_debt_rank": 1019,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "35209",
+  "email": true
 }

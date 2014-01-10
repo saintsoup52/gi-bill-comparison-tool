@@ -1,6 +1,6 @@
 {
   "facility_code": "31382632",
-  "institution": "NICHOLS COLLEGE",
+  "institution": "Nichols College",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 167260,
-  "grad_rate": 43.5,
-  "grad_rate_rank": 1109,
+  "grad_rate": 49.8,
+  "grad_rate_rank": 910,
   "default_rate": 14.5,
-  "avg_stu_loan_debt": 21615,
-  "avg_stu_loan_debt_rank": 1603,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11252",
+  "email": false
 }

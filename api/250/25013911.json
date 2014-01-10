@@ -1,6 +1,6 @@
 {
   "facility_code": "25013911",
-  "institution": "EMPIRE BEAUTY SCHOOLS - LAWRENCEVILLE",
+  "institution": "Empire Beauty Schools - Lawrenceville",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 212337,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 1587,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 11715,
-  "avg_stu_loan_debt_rank": 2295,
-  "indicator_group": 5
+  "grad_rate": 39.6,
+  "grad_rate_rank": 2112,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 13700,
+  "avg_stu_loan_debt_rank": 1876,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30044",
+  "email": true
 }

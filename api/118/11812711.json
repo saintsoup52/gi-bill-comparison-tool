@@ -1,6 +1,6 @@
 {
   "facility_code": "11812711",
-  "institution": "UNIVERSITY OF GEORGIA - CENTER FOR CONTINUING EDUCATION",
+  "institution": "University Of Georgia - Center For Continuing Education",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 139959,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 123,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 16903,
-  "avg_stu_loan_debt_rank": 935,
-  "indicator_group": 1
+  "grad_rate": 81.3,
+  "grad_rate_rank": 138,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 17249,
+  "avg_stu_loan_debt_rank": 822,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30602",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11904122",
-  "institution": "FERRIS STATE UNIVERSITY",
+  "institution": "Ferris State University",
   "city": "Big Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 411,
   "cross": 169910,
-  "grad_rate": 45.0,
-  "grad_rate_rank": 1058,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 52.6,
+  "grad_rate_rank": 816,
+  "default_rate": 10.1,
+  "avg_stu_loan_debt": 19254,
+  "avg_stu_loan_debt_rank": 1103,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49307",
+  "email": true
 }

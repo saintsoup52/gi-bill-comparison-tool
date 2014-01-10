@@ -1,6 +1,6 @@
 {
   "facility_code": "14906534",
-  "institution": "NORTH DAKOTA STATE COLLEGE OF SCIENCE - FARGO",
+  "institution": "North Dakota State College Of Science - Fargo",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 200305,
-  "grad_rate": 52.0,
-  "grad_rate_rank": 204,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 10742,
-  "avg_stu_loan_debt_rank": 898,
-  "indicator_group": 2
+  "grad_rate": 50.7,
+  "grad_rate_rank": 257,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 738,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "58102",
+  "email": true
 }

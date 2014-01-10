@@ -1,6 +1,6 @@
 {
   "facility_code": "31000811",
-  "institution": "LAGRANGE COLLEGE",
+  "institution": "Lagrange College",
   "city": "Lagrange",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 140234,
-  "grad_rate": 48.4,
-  "grad_rate_rank": 947,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 21386,
-  "avg_stu_loan_debt_rank": 1574,
-  "indicator_group": 1
+  "grad_rate": 42.9,
+  "grad_rate_rank": 1141,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 21491,
+  "avg_stu_loan_debt_rank": 1359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30240",
+  "email": true
 }

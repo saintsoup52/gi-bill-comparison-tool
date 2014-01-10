@@ -1,6 +1,6 @@
 {
   "facility_code": "20512838",
-  "institution": "I B E W LOC 380 JATC",
+  "institution": "I B E W Loc 380 Jatc",
   "city": "Collegeville",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19426",
+  "email": false
 }

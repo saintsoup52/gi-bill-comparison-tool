@@ -1,6 +1,6 @@
 {
   "facility_code": "25463410",
-  "institution": "NEW HORIZONS CLC MIAMI",
+  "institution": "New Horizons Clc Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33144",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25094543",
-  "institution": "TEACHER BUILDER.COM MCALLEN",
+  "institution": "Teacher Builder.Com Mcallen",
   "city": "Mcallen",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78501",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15157622",
-  "institution": "HERBERT HENRY DOW HIGH SCHOOL",
+  "institution": "Herbert Henry Dow High School",
   "city": "Midland",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48640",
+  "email": false
 }

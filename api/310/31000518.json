@@ -1,6 +1,6 @@
 {
   "facility_code": "31000518",
-  "institution": "XAVIER UNIVERSITY OF LOUISIANA",
+  "institution": "Xavier University Of Louisiana",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 72,
   "cross": 160904,
-  "grad_rate": 54.9,
-  "grad_rate_rank": 712,
-  "default_rate": 10.9,
-  "avg_stu_loan_debt": 22243,
-  "avg_stu_loan_debt_rank": 1677,
-  "indicator_group": 1
+  "grad_rate": 47.0,
+  "grad_rate_rank": 1002,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 22482,
+  "avg_stu_loan_debt_rank": 1465,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70125",
+  "email": true
 }

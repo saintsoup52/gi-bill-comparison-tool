@@ -1,6 +1,6 @@
 {
   "facility_code": "20R16338",
-  "institution": "GASBARRE PRODUCTS INC",
+  "institution": "Gasbarre Products Inc",
   "city": "Dubois",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15801",
+  "email": false
 }

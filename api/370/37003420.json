@@ -1,6 +1,6 @@
 {
   "facility_code": "37003420",
-  "institution": "BISHOP MCNAMARA HIGH SCHOOL",
+  "institution": "Bishop Mcnamara High School",
   "city": "Forestville",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20747",
+  "email": false
 }

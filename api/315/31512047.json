@@ -1,6 +1,6 @@
 {
   "facility_code": "31512047",
-  "institution": "WHITWORTH UNIVERSITY",
+  "institution": "Whitworth University",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 104,
   "cross": 237066,
-  "grad_rate": 80.3,
-  "grad_rate_rank": 151,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 21250,
-  "avg_stu_loan_debt_rank": 1565,
-  "indicator_group": 1
+  "grad_rate": 75.9,
+  "grad_rate_rank": 217,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 23008,
+  "avg_stu_loan_debt_rank": 1540,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99251",
+  "email": true
 }

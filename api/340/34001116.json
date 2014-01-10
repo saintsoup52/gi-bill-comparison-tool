@@ -1,6 +1,6 @@
 {
   "facility_code": "34001116",
-  "institution": "HESSTON COLLEGE",
+  "institution": "Hesston College",
   "city": "Hesston",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 155177,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 219,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 967,
-  "indicator_group": 2
+  "grad_rate": 48.2,
+  "grad_rate_rank": 285,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "67062",
+  "email": false
 }

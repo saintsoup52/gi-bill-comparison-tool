@@ -1,6 +1,6 @@
 {
   "facility_code": "20484217",
-  "institution": "THORNTON OIL CORPORATION",
+  "institution": "Thornton Oil Corporation",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40223",
+  "email": false
 }

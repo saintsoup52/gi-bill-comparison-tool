@@ -1,6 +1,6 @@
 {
   "facility_code": "28077840",
-  "institution": "KENNETH SHULER SCHOOL OF COSMETOLOGY & NAIL DESIGN(COLUMBIA ST ANDREWS RD)",
+  "institution": "Kenneth Shuler School Of Cosmetology & Nail Design(Columbia St Andrews Rd)",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 218195,
-  "grad_rate": 59.1,
-  "grad_rate_rank": 1620,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 8625,
-  "avg_stu_loan_debt_rank": 1501,
-  "indicator_group": 5
+  "grad_rate": 60.3,
+  "grad_rate_rank": 1625,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 8639,
+  "avg_stu_loan_debt_rank": 927,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29210",
+  "email": true
 }

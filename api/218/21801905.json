@@ -1,6 +1,6 @@
 {
   "facility_code": "21801905",
-  "institution": "THE ART INSTITUTE OF CALIFORNIA-ORANGE COUNTY",
+  "institution": "The Art Institute Of California-Orange County",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 215,
   "cross": 441973,
-  "grad_rate": 39.3,
-  "grad_rate_rank": 1256,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "grad_rate": 36.2,
+  "grad_rate_rank": 1362,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92704",
+  "email": true
 }

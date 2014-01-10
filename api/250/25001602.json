@@ -1,6 +1,6 @@
 {
   "facility_code": "25001602",
-  "institution": "PEOPLE COUNT INC. (CH31)",
+  "institution": "People Count Inc. (Ch31)",
   "city": "Kenai",
   "state": "AK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99611",
+  "email": "No (SCO)"
 }

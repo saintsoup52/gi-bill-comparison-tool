@@ -1,6 +1,6 @@
 {
   "facility_code": "28357832",
-  "institution": "CAPRI COSMETOLOGY LEARNING CENTER",
+  "institution": "Capri Cosmetology Learning Center",
   "city": "Nanuet",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 189714,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 526,
-  "default_rate": 13.2,
-  "avg_stu_loan_debt": 6689,
-  "avg_stu_loan_debt_rank": 1099,
-  "indicator_group": 5
+  "grad_rate": 69.8,
+  "grad_rate_rank": 1190,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10954",
+  "email": false
 }

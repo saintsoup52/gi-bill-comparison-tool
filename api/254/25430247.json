@@ -1,6 +1,6 @@
 {
   "facility_code": "25430247",
-  "institution": "TOTAL COSMETOLOGY TRAINING CENTER",
+  "institution": "Total Cosmetology Training Center",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 364584,
-  "grad_rate": 90.3,
-  "grad_rate_rank": 256,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 9250,
-  "avg_stu_loan_debt_rank": 1604,
-  "indicator_group": 5
+  "grad_rate": 73.7,
+  "grad_rate_rank": 994,
+  "default_rate": 31.2,
+  "avg_stu_loan_debt": 6861,
+  "avg_stu_loan_debt_rank": 611,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "99217",
+  "email": false
 }

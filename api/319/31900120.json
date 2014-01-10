@@ -1,6 +1,6 @@
 {
   "facility_code": "31900120",
-  "institution": "MARYMOUNT UNIVERSITY @ HOLY CROSS HOSPITAL",
+  "institution": "Marymount University @ Holy Cross Hospital",
   "city": "Silver Spring",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 232706,
-  "grad_rate": 47.9,
-  "grad_rate_rank": 964,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 23737,
-  "avg_stu_loan_debt_rank": 1840,
-  "indicator_group": 1
+  "grad_rate": 50.1,
+  "grad_rate_rank": 891,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20910",
+  "email": false
 }

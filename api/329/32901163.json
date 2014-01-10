@@ -1,18 +1,21 @@
 {
   "facility_code": "32901163",
-  "institution": "UNIVERSAL TECHNOLOGY COLLEGE OF P.R. INC",
+  "institution": "Universal Technology College Of P.R. Inc",
   "city": "Aguadilla",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": 26,
   "cross": 376385,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 64.6,
+  "grad_rate_rank": 240,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "605",
+  "email": true
 }

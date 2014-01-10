@@ -1,6 +1,6 @@
 {
   "facility_code": "11903130",
-  "institution": "ROWAN UNIVERSITY",
+  "institution": "Rowan University",
   "city": "Glassboro",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 252,
   "cross": 184782,
-  "grad_rate": 67.8,
-  "grad_rate_rank": 357,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 19837,
-  "avg_stu_loan_debt_rank": 1377,
-  "indicator_group": 1
+  "grad_rate": 71.0,
+  "grad_rate_rank": 300,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 21125,
+  "avg_stu_loan_debt_rank": 1328,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "8028",
+  "email": true
 }

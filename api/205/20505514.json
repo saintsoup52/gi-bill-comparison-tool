@@ -1,6 +1,6 @@
 {
   "facility_code": "20505514",
-  "institution": "UNITED ASSOCIATION PLUMBERS - STEAMFITTERS LOCAL 440 J.A.T.C.",
+  "institution": "United Association Plumbers - Steamfitters Local 440 J.A.T.C.",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46241",
+  "email": false
 }

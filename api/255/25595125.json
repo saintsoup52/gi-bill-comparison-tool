@@ -1,6 +1,6 @@
 {
   "facility_code": "25595125",
-  "institution": "CENTRAL COLLEGE OF COSMETOLOGY",
+  "institution": "Central College Of Cosmetology",
   "city": "Linn Creek",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65052",
+  "email": false
 }

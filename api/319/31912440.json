@@ -1,6 +1,6 @@
 {
   "facility_code": "31912440",
-  "institution": "W. L. BONNER COLLEGE",
+  "institution": "W. L. Bonner College",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 446613,
-  "grad_rate": 9.1,
-  "grad_rate_rank": 1789,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 17131,
-  "avg_stu_loan_debt_rank": 968,
-  "indicator_group": 1
+  "grad_rate": 40.0,
+  "grad_rate_rank": 1248,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29203",
+  "email": true
 }

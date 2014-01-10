@@ -1,6 +1,6 @@
 {
   "facility_code": "15052436",
-  "institution": "NORTHEAST TECHNOLOGY CENTER - KANSAS",
+  "institution": "Northeast Technology Center - Kansas",
   "city": "Kansas",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 432074,
-  "grad_rate": 71.2,
-  "grad_rate_rank": 1119,
+  "grad_rate": 78.3,
+  "grad_rate_rank": 741,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74347",
+  "email": false
 }

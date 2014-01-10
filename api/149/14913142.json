@@ -1,6 +1,6 @@
 {
   "facility_code": "14913142",
-  "institution": "COLUMBIA STATE COMMUNITY COLLEGE",
+  "institution": "Columbia State Community College",
   "city": "Columbia",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 158,
   "cross": 219888,
-  "grad_rate": 16.7,
-  "grad_rate_rank": 974,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 5517,
-  "avg_stu_loan_debt_rank": 388,
-  "indicator_group": 2
+  "grad_rate": 13.8,
+  "grad_rate_rank": 1166,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "38402",
+  "email": false
 }

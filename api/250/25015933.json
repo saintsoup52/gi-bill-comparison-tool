@@ -1,6 +1,6 @@
 {
   "facility_code": "25015933",
-  "institution": "NATIONAL PERSONAL TRAINING INSTITUTE OF NORTH CAROLINA",
+  "institution": "National Personal Training Institute Of North Carolina",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27612",
+  "email": true
 }

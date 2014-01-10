@@ -1,6 +1,6 @@
 {
   "facility_code": "10Z53805",
-  "institution": "SAN DIEGO TROLLEY INC. JATC",
+  "institution": "San Diego Trolley Inc. Jatc",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92101",
+  "email": false
 }

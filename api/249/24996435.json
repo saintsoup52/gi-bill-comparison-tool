@@ -1,6 +1,6 @@
 {
   "facility_code": "24996435",
-  "institution": "INTERNATIONAL COLLEGE OF BROADCASTING",
+  "institution": "International College Of Broadcasting",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 203289,
-  "grad_rate": 84.4,
-  "grad_rate_rank": 21,
-  "default_rate": 17.8,
+  "grad_rate": 91.3,
+  "grad_rate_rank": 12,
+  "default_rate": 21.6,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45431",
+  "email": false
 }

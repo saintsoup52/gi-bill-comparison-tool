@@ -1,6 +1,6 @@
 {
   "facility_code": "31002713",
-  "institution": "ROCKFORD UNIVERSITY",
+  "institution": "Rockford University",
   "city": "Rockford",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 32,
   "cross": 148405,
-  "grad_rate": 30.6,
-  "grad_rate_rank": 1486,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 20683,
-  "avg_stu_loan_debt_rank": 1502,
-  "indicator_group": 1
+  "grad_rate": 38.1,
+  "grad_rate_rank": 1307,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 22275,
+  "avg_stu_loan_debt_rank": 1453,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61108",
+  "email": false
 }

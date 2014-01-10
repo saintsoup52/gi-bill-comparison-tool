@@ -1,6 +1,6 @@
 {
   "facility_code": "31900111",
-  "institution": "WESLEYAN COLLEGE",
+  "institution": "Wesleyan College",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 141325,
-  "grad_rate": 52.2,
-  "grad_rate_rank": 801,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 15290,
-  "avg_stu_loan_debt_rank": 763,
-  "indicator_group": 1
+  "grad_rate": 48.4,
+  "grad_rate_rank": 948,
+  "default_rate": 13.2,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31210",
+  "email": true
 }

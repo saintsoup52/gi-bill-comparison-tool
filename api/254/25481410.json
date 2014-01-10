@@ -1,6 +1,6 @@
 {
   "facility_code": "25481410",
-  "institution": "THE SALON PROFESSIONAL ACADEMY - TAMPA",
+  "institution": "The Salon Professional Academy - Tampa",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 457420,
-  "grad_rate": 88.0,
-  "grad_rate_rank": 330,
-  "default_rate": null,
-  "avg_stu_loan_debt": 10065,
-  "avg_stu_loan_debt_rank": 2160,
-  "indicator_group": 5
+  "grad_rate": 85.0,
+  "grad_rate_rank": 439,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 12954,
+  "avg_stu_loan_debt_rank": 1836,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33624",
+  "email": true
 }

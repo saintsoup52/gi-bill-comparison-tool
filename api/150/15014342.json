@@ -1,6 +1,6 @@
 {
   "facility_code": "15014342",
-  "institution": "KNOXVILLE FIRE DEPARTMENT TRAINING ACADEMY",
+  "institution": "Knoxville Fire Department Training Academy",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37914",
+  "email": false
 }

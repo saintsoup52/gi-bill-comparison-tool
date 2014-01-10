@@ -1,6 +1,6 @@
 {
   "facility_code": "24803005",
-  "institution": "WYOTECH (LONG BEACH)",
+  "institution": "Wyotech (Long Beach)",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 349,
   "cross": 398574,
-  "grad_rate": 59.2,
-  "grad_rate_rank": 142,
-  "default_rate": 36.2,
+  "grad_rate": 63.0,
+  "grad_rate_rank": 263,
+  "default_rate": 24.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90810",
+  "email": true
 }

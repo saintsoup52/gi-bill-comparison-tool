@@ -1,6 +1,6 @@
 {
   "facility_code": "11001523",
-  "institution": "MINNESOTA STATE UNIVERSITY MANKATO",
+  "institution": "Minnesota State University Mankato",
   "city": "Mankato",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 530,
   "cross": 173920,
-  "grad_rate": 49.6,
-  "grad_rate_rank": 903,
-  "default_rate": 5.4,
+  "grad_rate": 52.2,
+  "grad_rate_rank": 824,
+  "default_rate": 6.5,
   "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56001",
+  "email": false
 }

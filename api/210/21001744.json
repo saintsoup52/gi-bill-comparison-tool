@@ -1,6 +1,6 @@
 {
   "facility_code": "21001744",
-  "institution": "AMERITECH COLLEGE - DRAPER",
+  "institution": "Ameritech College - Draper",
   "city": "Draper",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 447263,
-  "grad_rate": 78.0,
-  "grad_rate_rank": 42,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 1155,
-  "indicator_group": 2
+  "grad_rate": 80.9,
+  "grad_rate_rank": 38,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "84020",
+  "email": true
 }

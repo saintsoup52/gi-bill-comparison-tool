@@ -1,6 +1,6 @@
 {
   "facility_code": "18057110",
-  "institution": "MAYNARD A.TRAVISS CAREER CENTER",
+  "institution": "Maynard A.Traviss Career Center",
   "city": "Lakeland",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 135522,
-  "grad_rate": 66.3,
-  "grad_rate_rank": 1349,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 71.3,
+  "grad_rate_rank": 1117,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33803",
+  "email": true
 }

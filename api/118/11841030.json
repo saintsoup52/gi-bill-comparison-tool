@@ -1,6 +1,6 @@
 {
   "facility_code": "11841030",
-  "institution": "UNIV OF MED & DENTISTRY OF NJ SOM OSTEOPATHIC POSTDOTORAL TRAINING INSTITUTION",
+  "institution": "Univ Of Med & Dentistry Of Nj Som Osteopathic Postdotoral Training Institution",
   "city": "Stratford",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 187222,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 16988,
-  "avg_stu_loan_debt_rank": 948,
-  "indicator_group": 1
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 15582,
+  "avg_stu_loan_debt_rank": 589,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "8084",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20478115",
-  "institution": "METAL INK",
+  "institution": "Metal Ink",
   "city": "Harlan",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "51537",
+  "email": false
 }

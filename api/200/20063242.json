@@ -1,6 +1,6 @@
 {
   "facility_code": "20063242",
-  "institution": "ROACH AND ROBINSON LLP - CHAPTER 31 ONLY",
+  "institution": "Roach And Robinson Llp - Chapter 31 Only",
   "city": "Jefferson City",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37760",
+  "email": false
 }

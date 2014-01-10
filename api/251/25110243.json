@@ -1,6 +1,6 @@
 {
   "facility_code": "25110243",
-  "institution": "CENTER FOR EMPLOYMENT TRAINING",
+  "institution": "Center For Employment Training",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 432269,
-  "grad_rate": 81.9,
-  "grad_rate_rank": 551,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 4175,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 5
+  "grad_rate": 85.5,
+  "grad_rate_rank": 428,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 262,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79907",
+  "email": false
 }

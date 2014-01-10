@@ -1,6 +1,6 @@
 {
   "facility_code": "10673336",
-  "institution": "TINKER AIR FORCE BASE/AIRMAN & FAMILY READINESS CENTER (CH 31 ONLY)",
+  "institution": "Tinker Air Force Base/Airman & Family Readiness Center (Ch 31 Only)",
   "city": "Midwest City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73145",
+  "email": false
 }

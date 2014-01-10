@@ -1,6 +1,6 @@
 {
   "facility_code": "31007921",
-  "institution": "BOSTON CONSERVATORY OF MUSIC",
+  "institution": "Boston Conservatory Of Music",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 164933,
-  "grad_rate": 53.1,
-  "grad_rate_rank": 770,
-  "default_rate": 10.3,
-  "avg_stu_loan_debt": 28409,
-  "avg_stu_loan_debt_rank": 2029,
-  "indicator_group": 1
+  "grad_rate": 64.5,
+  "grad_rate_rank": 447,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2215",
+  "email": true
 }

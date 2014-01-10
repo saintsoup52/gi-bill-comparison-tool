@@ -1,6 +1,6 @@
 {
   "facility_code": "28575148",
-  "institution": "HUNTINGTON SCHOOL OF BEAUTY CULTURE",
+  "institution": "Huntington School Of Beauty Culture",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 377643,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 43.2,
-  "avg_stu_loan_debt": 9250,
-  "avg_stu_loan_debt_rank": 1604,
-  "indicator_group": 5
+  "grad_rate": 46.8,
+  "grad_rate_rank": 2002,
+  "default_rate": 38.1,
+  "avg_stu_loan_debt": 8875,
+  "avg_stu_loan_debt_rank": 971,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25705",
+  "email": true
 }

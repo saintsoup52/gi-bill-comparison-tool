@@ -1,6 +1,6 @@
 {
   "facility_code": "28005038",
-  "institution": "BUTLER BEAUTY SCHOOL OF COSMETOLOGY ARTS & SCIENCES",
+  "institution": "Butler Beauty School Of Cosmetology Arts & Sciences",
   "city": "Butler",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 211334,
-  "grad_rate": 56.3,
-  "grad_rate_rank": 1734,
-  "default_rate": 14.8,
+  "grad_rate": 64.8,
+  "grad_rate_rank": 1437,
+  "default_rate": 26.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16001",
+  "email": false
 }

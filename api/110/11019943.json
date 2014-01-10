@@ -1,6 +1,6 @@
 {
   "facility_code": "11019943",
-  "institution": "UNIVERSITY OF TEXAS OF THE PERMIAN BASIN",
+  "institution": "University Of Texas Of The Permian Basin",
   "city": "Odessa",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 135,
   "cross": 229018,
-  "grad_rate": 33.7,
-  "grad_rate_rank": 1396,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 10000,
-  "avg_stu_loan_debt_rank": 253,
-  "indicator_group": 1
+  "grad_rate": 36.5,
+  "grad_rate_rank": 1348,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 9906,
+  "avg_stu_loan_debt_rank": 158,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "79762",
+  "email": false
 }

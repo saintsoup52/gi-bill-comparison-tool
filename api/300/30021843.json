@@ -1,6 +1,6 @@
 {
   "facility_code": "30021843",
-  "institution": "INTL ASSN HEAT AND FROST INSULATORS JATC",
+  "institution": "Intl Assn Heat And Frost Insulators Jatc",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75229",
+  "email": false
 }

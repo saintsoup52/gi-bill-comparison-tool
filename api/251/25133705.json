@@ -1,6 +1,6 @@
 {
   "facility_code": "25133705",
-  "institution": "ALAMEDA BEAUTY COLLEGE",
+  "institution": "Alameda Beauty College",
   "city": "Alameda",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 108649,
-  "grad_rate": 76.9,
-  "grad_rate_rank": 817,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 9197,
-  "avg_stu_loan_debt_rank": 1598,
-  "indicator_group": 5
+  "grad_rate": 79.4,
+  "grad_rate_rank": 682,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94501",
+  "email": false
 }

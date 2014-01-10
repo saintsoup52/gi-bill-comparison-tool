@@ -1,6 +1,6 @@
 {
   "facility_code": "20035411",
-  "institution": "HERMAN MILLER FOR HEALTH CARE",
+  "institution": "Herman Miller For Health Care",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30338",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11801305",
-  "institution": "CALIFORNIA STATE UNIVERSITY-LA /DIVISION OF EXTENDED ED PROGRAMS",
+  "institution": "California State University-La /Division Of Extended Ed Programs",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 3,
   "cross": 110592,
   "grad_rate": 36.5,
-  "grad_rate_rank": 1335,
-  "default_rate": 5.2,
+  "grad_rate_rank": 1348,
+  "default_rate": 7.6,
   "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90032",
+  "email": false
 }

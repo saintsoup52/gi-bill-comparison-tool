@@ -1,6 +1,6 @@
 {
   "facility_code": "25523314",
-  "institution": "RAVENSCROFT BEAUTY COLLEGE",
+  "institution": "Ravenscroft Beauty College",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 152275,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 1714,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 5
+  "grad_rate": 50.6,
+  "grad_rate_rank": 1936,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 9126,
+  "avg_stu_loan_debt_rank": 1014,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46815",
+  "email": false
 }

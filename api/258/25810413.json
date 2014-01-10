@@ -1,6 +1,6 @@
 {
   "facility_code": "25810413",
-  "institution": "BUSINESS INDUSTRIAL RESOURCES TRAINING CENTER",
+  "institution": "Business Industrial Resources Training Center",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 431026,
-  "grad_rate": 71.1,
-  "grad_rate_rank": 1125,
-  "default_rate": 20.9,
-  "avg_stu_loan_debt": 7467,
-  "avg_stu_loan_debt_rank": 1204,
-  "indicator_group": 5
+  "grad_rate": 69.8,
+  "grad_rate_rank": 1190,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 4749,
+  "avg_stu_loan_debt_rank": 198,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60659",
+  "email": true
 }

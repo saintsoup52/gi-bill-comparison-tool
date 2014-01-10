@@ -1,6 +1,6 @@
 {
   "facility_code": "18007921",
-  "institution": "GREATER LOWELL REGIONAL VOC TECH HIGH SCHOOL",
+  "institution": "Greater Lowell Regional Voc Tech High School",
   "city": "Tyngsboro",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 382416,
-  "grad_rate": 86.7,
-  "grad_rate_rank": 370,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 793,
-  "indicator_group": 5
+  "grad_rate": 90.9,
+  "grad_rate_rank": 243,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1879",
+  "email": false
 }

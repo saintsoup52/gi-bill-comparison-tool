@@ -1,6 +1,6 @@
 {
   "facility_code": "31006914",
-  "institution": "CONCORDIA THEOLOGICAL SEMINARY",
+  "institution": "Concordia Theological Seminary",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 150288,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "46825",
+  "email": false
 }

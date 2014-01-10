@@ -1,6 +1,6 @@
 {
   "facility_code": "11009638",
-  "institution": "KUTZTOWN UNIVERSITY",
+  "institution": "Kutztown University",
   "city": "Kutztown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 213,
   "cross": 213349,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 739,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 22250,
+  "avg_stu_loan_debt_rank": 1446,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19530",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "249E8435",
-  "institution": "FORTIS COLLEGE - CUYAHOGA FALLS",
+  "institution": "Fortis College - Cuyahoga Falls",
   "city": "Cuyahoga Falls",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 204307,
-  "grad_rate": 59.5,
-  "grad_rate_rank": 136,
-  "default_rate": 14.6,
-  "avg_stu_loan_debt": 11221,
-  "avg_stu_loan_debt_rank": 915,
-  "indicator_group": 2
+  "grad_rate": 56.5,
+  "grad_rate_rank": 203,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 9586,
+  "avg_stu_loan_debt_rank": 722,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44221",
+  "email": true
 }

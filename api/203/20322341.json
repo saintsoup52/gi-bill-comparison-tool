@@ -1,6 +1,6 @@
 {
   "facility_code": "20322341",
-  "institution": "TEREX UTILITIES FGI",
+  "institution": "Terex Utilities Fgi",
   "city": "Watertown",
   "state": "SD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "57201",
+  "email": false
 }

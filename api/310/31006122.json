@@ -1,6 +1,6 @@
 {
   "facility_code": "31006122",
-  "institution": "GREAT LAKES CHRISTIAN COLLEGE",
+  "institution": "Great Lakes Christian College",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 170091,
-  "grad_rate": 23.1,
-  "grad_rate_rank": 1619,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 16246,
-  "avg_stu_loan_debt_rank": 865,
-  "indicator_group": 1
+  "grad_rate": 27.9,
+  "grad_rate_rank": 1577,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48917",
+  "email": true
 }

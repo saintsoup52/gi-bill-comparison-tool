@@ -1,6 +1,6 @@
 {
   "facility_code": "25029906",
-  "institution": "NATIONAL PERSONAL TRAINING INSTITUTE-LAKEWOOD",
+  "institution": "National Personal Training Institute-Lakewood",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 462318,
-  "grad_rate": 64.1,
-  "grad_rate_rank": 1430,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 56.6,
+  "grad_rate_rank": 1746,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 5365,
+  "avg_stu_loan_debt_rank": 294,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80401",
+  "email": true
 }

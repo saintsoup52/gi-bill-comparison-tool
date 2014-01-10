@@ -1,6 +1,6 @@
 {
   "facility_code": "25026242",
-  "institution": "PAUL MITCHELL THE SCHOOL - NASHVILLE",
+  "institution": "Paul Mitchell The School - Nashville",
   "city": "Antioch",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 220491,
-  "grad_rate": 62.4,
-  "grad_rate_rank": 1503,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 9593,
-  "avg_stu_loan_debt_rank": 2093,
-  "indicator_group": 5
+  "grad_rate": 67.9,
+  "grad_rate_rank": 1279,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37013",
+  "email": true
 }

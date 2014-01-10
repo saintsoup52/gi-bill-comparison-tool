@@ -1,6 +1,6 @@
 {
   "facility_code": "25946638",
-  "institution": "DERIELLE COSMETOLOGY ACADEMY",
+  "institution": "Derielle Cosmetology Academy",
   "city": "Mechanicsburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17055",
+  "email": true
 }

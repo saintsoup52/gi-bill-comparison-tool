@@ -1,6 +1,6 @@
 {
   "facility_code": "31000245",
-  "institution": "MIDDLEBURY COLLEGE",
+  "institution": "Middlebury College",
   "city": "Middlebury",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 230959,
-  "grad_rate": 90.4,
-  "grad_rate_rank": 60,
+  "grad_rate": 93.8,
+  "grad_rate_rank": 27,
   "default_rate": 1.7,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 17529,
+  "avg_stu_loan_debt_rank": 862,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5753",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20001646",
-  "institution": "WESTVACO CORP",
+  "institution": "Westvaco Corp",
   "city": "Covington",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24426",
+  "email": false
 }

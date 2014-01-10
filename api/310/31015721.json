@@ -1,6 +1,6 @@
 {
   "facility_code": "31015721",
-  "institution": "WHEELOCK COLLEGE",
+  "institution": "Wheelock College",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 168290,
-  "grad_rate": 57.8,
+  "grad_rate": 58.1,
   "grad_rate_rank": 624,
-  "default_rate": 7.9,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2215",
+  "email": true
 }

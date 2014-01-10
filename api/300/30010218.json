@@ -1,6 +1,6 @@
 {
   "facility_code": "30010218",
-  "institution": "GOODWILL INDUSTRIES OF S.E. LA  (CH31)",
+  "institution": "Goodwill Industries Of S.E. La  (Ch31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70185",
+  "email": false
 }

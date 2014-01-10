@@ -1,6 +1,6 @@
 {
   "facility_code": "24916405",
-  "institution": "SOUTH COAST COLLEGE",
+  "institution": "South Coast College",
   "city": "Orange",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 123642,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 42.5,
+  "grad_rate_rank": 443,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 651,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92868",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25070113",
-  "institution": "J RENEE CAREER FACILITATION INC",
+  "institution": "J Renee Career Facilitation Inc",
   "city": "Elgin",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 462309,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 3629,
-  "avg_stu_loan_debt_rank": 652,
-  "indicator_group": 5
+  "grad_rate": 89.9,
+  "grad_rate_rank": 279,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3031,
+  "avg_stu_loan_debt_rank": 49,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60123",
+  "email": false
 }

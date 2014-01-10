@@ -1,6 +1,6 @@
 {
   "facility_code": "11804220",
-  "institution": "UNIVERSITY OF MARYLAND DEPT OF PHYSICAL THERAPY",
+  "institution": "University Of Maryland Dept Of Physical Therapy",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 163259,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21201",
+  "email": false
 }

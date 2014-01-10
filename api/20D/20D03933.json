@@ -1,6 +1,6 @@
 {
   "facility_code": "20D03933",
-  "institution": "WAYNE J. GRIFFIN ELECTRIC INC.",
+  "institution": "Wayne J. Griffin Electric Inc.",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27607",
+  "email": true
 }

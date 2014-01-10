@@ -1,6 +1,6 @@
 {
   "facility_code": "11007011",
-  "institution": "GEORGIA SOUTHWESTERN STATE UNIVERSITY",
+  "institution": "Georgia Southwestern State University",
   "city": "Americus",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 82,
   "cross": 139764,
-  "grad_rate": 30.0,
-  "grad_rate_rank": 1499,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 12760,
-  "avg_stu_loan_debt_rank": 536,
-  "indicator_group": 1
+  "grad_rate": 29.3,
+  "grad_rate_rank": 1548,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 13119,
+  "avg_stu_loan_debt_rank": 380,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31709",
+  "email": true
 }

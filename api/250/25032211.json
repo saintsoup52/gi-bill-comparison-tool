@@ -1,6 +1,6 @@
 {
   "facility_code": "25032211",
-  "institution": "THE ESANI INSTITUTE LLC",
+  "institution": "The Esani Institute Llc",
   "city": "Roswell",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 454607,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
-  "default_rate": 24.0,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 64.2,
+  "grad_rate_rank": 1462,
+  "default_rate": 16.9,
+  "avg_stu_loan_debt": 9841,
+  "avg_stu_loan_debt_rank": 1514,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30076",
+  "email": true
 }

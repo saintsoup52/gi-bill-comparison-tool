@@ -1,6 +1,6 @@
 {
   "facility_code": "14928411",
-  "institution": "SOUTHWEST GEORGIA TECHNICAL COLLEGE",
+  "institution": "Southwest Georgia Technical College",
   "city": "Thomasville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 94,
   "cross": 141158,
-  "grad_rate": 36.1,
-  "grad_rate_rank": 285,
+  "grad_rate": 39.8,
+  "grad_rate_rank": 458,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31792",
+  "email": true
 }

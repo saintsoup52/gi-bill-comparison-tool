@@ -1,6 +1,6 @@
 {
   "facility_code": "31006938",
-  "institution": "CURTIS INSTITUTE OF MUSIC",
+  "institution": "Curtis Institute Of Music",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 211893,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 224,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 16250,
-  "avg_stu_loan_debt_rank": 866,
-  "indicator_group": 1
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 17812,
+  "avg_stu_loan_debt_rank": 896,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19103",
+  "email": true
 }

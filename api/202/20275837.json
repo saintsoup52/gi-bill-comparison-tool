@@ -1,6 +1,6 @@
 {
   "facility_code": "20275837",
-  "institution": "OREGON LBME JTC-MA 1144",
+  "institution": "Oregon Lbme Jtc-Ma 1144",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97217",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31003601",
-  "institution": "STILLMAN COLLEGE - TUSCALOOSA",
+  "institution": "Stillman College - Tuscaloosa",
   "city": "Tuscaloosa",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 102270,
-  "grad_rate": 34.5,
-  "grad_rate_rank": 1377,
-  "default_rate": 11.2,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 1
+  "grad_rate": 25.2,
+  "grad_rate_rank": 1625,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 19600,
+  "avg_stu_loan_debt_rank": 1140,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35403",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25057413",
-  "institution": "ALVAREITA'S COLLEGE OF COSMETOLOGY-GODFREY",
+  "institution": "Alvareita'S College Of Cosmetology-Godfrey",
   "city": "Godfrey",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 142878,
-  "grad_rate": 94.7,
-  "grad_rate_rank": 137,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 4612,
-  "avg_stu_loan_debt_rank": 748,
-  "indicator_group": 5
+  "grad_rate": 85.0,
+  "grad_rate_rank": 439,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62035",
+  "email": false
 }

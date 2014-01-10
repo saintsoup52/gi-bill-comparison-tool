@@ -1,6 +1,6 @@
 {
   "facility_code": "15010442",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - PARIS",
+  "institution": "Tennessee College Of Applied Technology - Paris",
   "city": "Paris",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 221281,
-  "grad_rate": 69.2,
-  "grad_rate_rank": 1204,
+  "grad_rate": 68.5,
+  "grad_rate_rank": 1250,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38242",
+  "email": false
 }

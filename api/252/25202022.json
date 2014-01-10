@@ -1,6 +1,6 @@
 {
   "facility_code": "25202022",
-  "institution": "SCHOOL OF DESIGNING ARTS LLC",
+  "institution": "School Of Designing Arts Llc",
   "city": "Springfield",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451307,
-  "grad_rate": 65.7,
-  "grad_rate_rank": 1369,
-  "default_rate": 10.0,
+  "grad_rate": 61.5,
+  "grad_rate_rank": 1573,
+  "default_rate": 5.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49037",
+  "email": true
 }

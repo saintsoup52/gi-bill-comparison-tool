@@ -1,6 +1,6 @@
 {
   "facility_code": "20059128",
-  "institution": "NORTHERN NEVADA IRONWORKERS JATC",
+  "institution": "Northern Nevada Ironworkers Jatc",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89506",
+  "email": false
 }

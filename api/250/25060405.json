@@ -1,6 +1,6 @@
 {
   "facility_code": "25060405",
-  "institution": "VICTOR VALLEY BEAUTY COLLEGE  INC.",
+  "institution": "Victor Valley Beauty College  Inc.",
   "city": "Victorville",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 125082,
-  "grad_rate": 61.9,
-  "grad_rate_rank": 1519,
-  "default_rate": 19.5,
-  "avg_stu_loan_debt": 3421,
-  "avg_stu_loan_debt_rank": 580,
-  "indicator_group": 5
+  "grad_rate": 67.0,
+  "grad_rate_rank": 1321,
+  "default_rate": 25.8,
+  "avg_stu_loan_debt": 4175,
+  "avg_stu_loan_debt_rank": 161,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92392",
+  "email": false
 }

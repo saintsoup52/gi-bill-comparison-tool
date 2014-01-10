@@ -1,6 +1,6 @@
 {
   "facility_code": "10675625",
-  "institution": "MO NATIONAL GUARD-STATE RESOURCES OFFICE",
+  "institution": "Mo National Guard-State Resources Office",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65101",
+  "email": false
 }

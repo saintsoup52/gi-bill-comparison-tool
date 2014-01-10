@@ -1,6 +1,6 @@
 {
   "facility_code": "11050029",
-  "institution": "PLYMOUTH STATE UNIVERSITY",
+  "institution": "Plymouth State University",
   "city": "Plymouth",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 122,
   "cross": 183080,
-  "grad_rate": 59.1,
-  "grad_rate_rank": 592,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 23573,
-  "avg_stu_loan_debt_rank": 1833,
-  "indicator_group": 1
+  "grad_rate": 55.4,
+  "grad_rate_rank": 725,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 22283,
+  "avg_stu_loan_debt_rank": 1454,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3264",
+  "email": true
 }

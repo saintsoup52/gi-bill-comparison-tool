@@ -1,6 +1,6 @@
 {
   "facility_code": "25031811",
-  "institution": "VISION REHABILITATION SERVICES (CH 31 ONLY)",
+  "institution": "Vision Rehabilitation Services (Ch 31 Only)",
   "city": "Smyrna",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30080",
+  "email": false
 }

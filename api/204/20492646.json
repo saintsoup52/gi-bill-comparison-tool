@@ -1,6 +1,6 @@
 {
   "facility_code": "20492646",
-  "institution": "84 LUMBER (1723)",
+  "institution": "84 Lumber (1723)",
   "city": "Blairs",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24527",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20634140",
-  "institution": "THOMPSON COMMUNCATINS",
+  "institution": "Thompson Communcatins",
   "city": "Hilton Head",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29926",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35047521",
-  "institution": "NEW ENGLAND SHELTER FOR HOMELESS VETERANS",
+  "institution": "New England Shelter For Homeless Veterans",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2108",
+  "email": false
 }

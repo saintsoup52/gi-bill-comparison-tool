@@ -1,6 +1,6 @@
 {
   "facility_code": "31906136",
-  "institution": "UNIVERSITY OF TULSA",
+  "institution": "University Of Tulsa",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 97,
   "cross": 207971,
-  "grad_rate": 67.8,
-  "grad_rate_rank": 357,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 23125,
-  "avg_stu_loan_debt_rank": 1801,
-  "indicator_group": 1
+  "grad_rate": 66.2,
+  "grad_rate_rank": 404,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 22747,
+  "avg_stu_loan_debt_rank": 1491,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74104",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B99043",
-  "institution": "TITUS ELECTRICAL CONTRACTING INC.",
+  "institution": "Titus Electrical Contracting Inc.",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78753",
+  "email": false
 }

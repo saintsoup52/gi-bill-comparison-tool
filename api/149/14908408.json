@@ -1,6 +1,6 @@
 {
   "facility_code": "14908408",
-  "institution": "DELAWARE TECHNICAL AND COMMUNITY COLLEGE - TERRY CAMPUS",
+  "institution": "Delaware Technical And Community College - Terry Campus",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 263,
   "cross": 130907,
-  "grad_rate": 17.0,
-  "grad_rate_rank": 963,
-  "default_rate": 19.9,
-  "avg_stu_loan_debt": 4270,
-  "avg_stu_loan_debt_rank": 199,
-  "indicator_group": 2
+  "grad_rate": 12.8,
+  "grad_rate_rank": 1207,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 4375,
+  "avg_stu_loan_debt_rank": 96,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19904",
+  "email": true
 }

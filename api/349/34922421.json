@@ -1,6 +1,6 @@
 {
   "facility_code": "34922421",
-  "institution": "MARIAN COURT COLLEGE",
+  "institution": "Marian Court College",
   "city": "Swampscott",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 166601,
-  "grad_rate": 47.8,
-  "grad_rate_rank": 244,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 9422,
-  "avg_stu_loan_debt_rank": 749,
-  "indicator_group": 2
+  "grad_rate": 34.7,
+  "grad_rate_rank": 510,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 846,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "1907",
+  "email": true
 }

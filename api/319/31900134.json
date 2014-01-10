@@ -1,6 +1,6 @@
 {
   "facility_code": "31900134",
-  "institution": "TRINITY BIBLE COLLEGE",
+  "institution": "Trinity Bible College",
   "city": "Ellendale",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 200484,
-  "grad_rate": 29.5,
-  "grad_rate_rank": 1509,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 28.6,
+  "grad_rate_rank": 1563,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 12672,
+  "avg_stu_loan_debt_rank": 341,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "58436",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31008742",
-  "institution": "O'MORE COLLEGE OF DESIGN",
+  "institution": "O'More College Of Design",
   "city": "Franklin",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 221254,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 17250,
-  "avg_stu_loan_debt_rank": 977,
-  "indicator_group": 1
+  "grad_rate": 64.5,
+  "grad_rate_rank": 447,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 24500,
+  "avg_stu_loan_debt_rank": 1687,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37064",
+  "email": true
 }

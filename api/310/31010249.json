@@ -1,6 +1,6 @@
 {
   "facility_code": "31010249",
-  "institution": "WISCONSIN LUTHERAN COLLEGE",
+  "institution": "Wisconsin Lutheran College",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 240338,
-  "grad_rate": 63.3,
-  "grad_rate_rank": 472,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 15876,
-  "avg_stu_loan_debt_rank": 828,
-  "indicator_group": 1
+  "grad_rate": 58.1,
+  "grad_rate_rank": 624,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53226",
+  "email": true
 }

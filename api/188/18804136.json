@@ -1,6 +1,6 @@
 {
   "facility_code": "18804136",
-  "institution": "INDIAN CAPITAL TECHNOLOGY CENTER MUSKOGEE",
+  "institution": "Indian Capital Technology Center Muskogee",
   "city": "Muskogee",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 418296,
-  "grad_rate": 69.9,
-  "grad_rate_rank": 1180,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 83.9,
+  "grad_rate_rank": 482,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74403",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11010138",
-  "institution": "SLIPPERY ROCK UNIVERSITY OF PENNSYLVANIA",
+  "institution": "Slippery Rock University Of Pennsylvania",
   "city": "Slippery Rock",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 283,
   "cross": 216038,
-  "grad_rate": 59.1,
-  "grad_rate_rank": 592,
-  "default_rate": 5.4,
-  "avg_stu_loan_debt": 19522,
-  "avg_stu_loan_debt_rank": 1325,
-  "indicator_group": 1
+  "grad_rate": 61.9,
+  "grad_rate_rank": 517,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 21100,
+  "avg_stu_loan_debt_rank": 1326,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16057",
+  "email": true
 }

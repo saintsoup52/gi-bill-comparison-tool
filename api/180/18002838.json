@@ -1,6 +1,6 @@
 {
   "facility_code": "18002838",
-  "institution": "WILKES-BARRE CAREER AND TECHNICAL CENTER",
+  "institution": "Wilkes-Barre Career And Technical Center",
   "city": "Wilkes-Barre",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 365383,
-  "grad_rate": 83.5,
-  "grad_rate_rank": 475,
-  "default_rate": 9.3,
-  "avg_stu_loan_debt": 13584,
-  "avg_stu_loan_debt_rank": 2426,
-  "indicator_group": 5
+  "grad_rate": 87.3,
+  "grad_rate_rank": 359,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 13017,
+  "avg_stu_loan_debt_rank": 1841,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "18705",
+  "email": true
 }

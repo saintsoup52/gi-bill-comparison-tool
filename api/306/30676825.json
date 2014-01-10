@@ -1,6 +1,6 @@
 {
   "facility_code": "30676825",
-  "institution": "ST. JOSEPH AREA JATF OF SHEET METAL WORKERS LOCAL #2",
+  "institution": "St. Joseph Area Jatf Of Sheet Metal Workers Local #2",
   "city": "St. Joseph",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64502",
+  "email": false
 }

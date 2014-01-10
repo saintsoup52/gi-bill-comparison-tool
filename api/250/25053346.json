@@ -1,6 +1,6 @@
 {
   "facility_code": "25053346",
-  "institution": "CULPEPER COSMETOLOGY TRAINING CTR",
+  "institution": "Culpeper Cosmetology Training Ctr",
   "city": "Culpeper",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 446206,
-  "grad_rate": 23.1,
-  "grad_rate_rank": 2169,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 6150,
-  "avg_stu_loan_debt_rank": 978,
-  "indicator_group": 5
+  "grad_rate": 60.0,
+  "grad_rate_rank": 1631,
+  "default_rate": 28.5,
+  "avg_stu_loan_debt": 5761,
+  "avg_stu_loan_debt_rank": 390,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "22701",
+  "email": true
 }

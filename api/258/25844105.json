@@ -1,6 +1,6 @@
 {
   "facility_code": "25844105",
-  "institution": "AMERICAN BREWERS GUILD        (CHAPTER 31 ONLY)",
+  "institution": "American Brewers Guild        (Chapter 31 Only)",
   "city": "Davis",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95616",
+  "email": false
 }

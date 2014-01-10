@@ -1,6 +1,6 @@
 {
   "facility_code": "11903214",
-  "institution": "INDIANA UNIVERSITY PURDUE UNIVERSITY AT FORT WAYNE",
+  "institution": "Indiana University Purdue University At Fort Wayne",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 546,
   "cross": 151102,
-  "grad_rate": 25.6,
-  "grad_rate_rank": 1580,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 13104,
-  "avg_stu_loan_debt_rank": 565,
-  "indicator_group": 1
+  "grad_rate": 22.4,
+  "grad_rate_rank": 1679,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 484,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46805",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31009442",
-  "institution": "BAPTIST MEMORIAL COLLEGE OF HEALTH SCIENCES",
+  "institution": "Baptist Memorial College Of Health Sciences",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 219639,
-  "grad_rate": 64.3,
-  "grad_rate_rank": 449,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 59.5,
+  "grad_rate_rank": 576,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 25260,
+  "avg_stu_loan_debt_rank": 1798,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38104",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24850646",
-  "institution": "EVEREST COLLEGE",
+  "institution": "Everest College",
   "city": "Vienna",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 445470,
-  "grad_rate": 51.9,
-  "grad_rate_rank": 195,
-  "default_rate": 28.0,
+  "grad_rate": 57.2,
+  "grad_rate_rank": 331,
+  "default_rate": 18.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "22182",
+  "email": true
 }

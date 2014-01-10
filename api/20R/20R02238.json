@@ -1,6 +1,6 @@
 {
   "facility_code": "20R02238",
-  "institution": "DEPARTMENT OF INTERIOR OFFICE OF SURFACE MINING",
+  "institution": "Department Of Interior Office Of Surface Mining",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15904",
+  "email": false
 }

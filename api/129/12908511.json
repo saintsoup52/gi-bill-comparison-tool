@@ -1,6 +1,6 @@
 {
   "facility_code": "12908511",
-  "institution": "GRADY HEALTH SYSTEMS SCHOOL OF RADIOLOGIC TECHNOLOGY",
+  "institution": "Grady Health Systems School Of Radiologic Technology",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 139746,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 15858,
-  "avg_stu_loan_debt_rank": 2492,
-  "indicator_group": 5
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 1975,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30303",
+  "email": true
 }

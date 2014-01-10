@@ -1,6 +1,6 @@
 {
   "facility_code": "11000512",
-  "institution": "IDAHO STATE UNIVERSITY PSYCHOLOGY CLINIC (CH 31)",
+  "institution": "Idaho State University Psychology Clinic (Ch 31)",
   "city": "Pocatello",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 142276,
-  "grad_rate": 26.0,
-  "grad_rate_rank": 1573,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 1
+  "grad_rate": 30.5,
+  "grad_rate_rank": 1520,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 14864,
+  "avg_stu_loan_debt_rank": 519,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "83209",
+  "email": false
 }

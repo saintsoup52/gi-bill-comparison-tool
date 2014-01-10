@@ -1,6 +1,6 @@
 {
   "facility_code": "31001627",
-  "institution": "NEBRASKA CHRISTIAN COLLEGE",
+  "institution": "Nebraska Christian College",
   "city": "Papillion",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 181376,
-  "grad_rate": 41.5,
-  "grad_rate_rank": 1179,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 40.0,
+  "grad_rate_rank": 1248,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 11450,
+  "avg_stu_loan_debt_rank": 251,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68046",
+  "email": true
 }

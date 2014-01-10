@@ -1,18 +1,21 @@
 {
   "facility_code": "25022763",
-  "institution": "COLEGIO MAYOR DE TECNOLOGIA",
+  "institution": "Colegio Mayor De Tecnologia",
   "city": "Arroyo",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": 3,
   "cross": 376242,
-  "grad_rate": 59.4,
-  "grad_rate_rank": 1612,
+  "grad_rate": 56.8,
+  "grad_rate_rank": 1742,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "714",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31916113",
-  "institution": "AURORA UNIVERSITY",
+  "institution": "Aurora University",
   "city": "Aurora",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 91,
   "cross": 143118,
-  "grad_rate": 44.1,
-  "grad_rate_rank": 1093,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 884,
-  "indicator_group": 1
+  "grad_rate": 51.7,
+  "grad_rate_rank": 840,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 16000,
+  "avg_stu_loan_debt_rank": 628,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60506",
+  "email": true
 }

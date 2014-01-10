@@ -1,6 +1,6 @@
 {
   "facility_code": "31923117",
-  "institution": "SAINT CATHARINE COLLEGE",
+  "institution": "Saint Catharine College",
   "city": "St Catharine",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 157632,
-  "grad_rate": 22.9,
-  "grad_rate_rank": 763,
-  "default_rate": 13.6,
-  "avg_stu_loan_debt": 12275,
-  "avg_stu_loan_debt_rank": 999,
-  "indicator_group": 2
+  "grad_rate": 31.4,
+  "grad_rate_rank": 595,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 974,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "40061",
+  "email": true
 }

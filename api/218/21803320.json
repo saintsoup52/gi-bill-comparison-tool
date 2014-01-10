@@ -1,6 +1,6 @@
 {
   "facility_code": "21803320",
-  "institution": "ITT TECHNICAL INSTITUTE OWINGS MILLS",
+  "institution": "Itt Technical Institute Owings Mills",
   "city": "Owings Mills",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 173,
   "cross": 446914,
-  "grad_rate": 23.8,
-  "grad_rate_rank": 731,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 36.4,
+  "grad_rate_rank": 474,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "21117",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14910446",
-  "institution": "SOUTHWEST VIRGINIA COMMUNITY COLLEGE",
+  "institution": "Southwest Virginia Community College",
   "city": "Cedar Bluff",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 97,
   "cross": 233648,
-  "grad_rate": 35.0,
-  "grad_rate_rank": 292,
+  "grad_rate": 24.0,
+  "grad_rate_rank": 600,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "24609",
+  "email": true
 }

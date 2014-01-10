@@ -1,6 +1,6 @@
 {
   "facility_code": "18035136",
-  "institution": "KIAMICHI TECHNOLOGY CTR - IDABEL",
+  "institution": "Kiamichi Technology Ctr - Idabel",
   "city": "Idabel",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 375735,
-  "grad_rate": 77.8,
-  "grad_rate_rank": 762,
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74745",
+  "email": false
 }

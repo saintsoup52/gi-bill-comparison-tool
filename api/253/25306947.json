@@ -1,6 +1,6 @@
 {
   "facility_code": "25306947",
-  "institution": "NORTHWEST MARITIME EDUCATION SERVICE (CH31)",
+  "institution": "Northwest Maritime Education Service (Ch31)",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98119",
+  "email": false
 }

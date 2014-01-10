@@ -1,6 +1,6 @@
 {
   "facility_code": "19014022",
-  "institution": "MICHIGAN DEPARTMENT OF LABOR & ECONOMIC GROWTH MRS/DISABILITY MANGAGEMENT PROG",
+  "institution": "Michigan Department Of Labor & Economic Growth Mrs/Disability Mangagement Prog",
   "city": "Farmington Hills",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48331",
+  "email": "No (SCO)"
 }

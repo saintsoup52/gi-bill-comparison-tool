@@ -1,6 +1,6 @@
 {
   "facility_code": "31805529",
-  "institution": "SOUTHERN NEW HAMPSHIRE UNIVERSITY - NASHUA",
+  "institution": "Southern New Hampshire University - Nashua",
   "city": "Nashua",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 37,
   "cross": 183026,
-  "grad_rate": 60.9,
-  "grad_rate_rank": 536,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 59.4,
+  "grad_rate_rank": 580,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 13240,
+  "avg_stu_loan_debt_rank": 382,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3063",
+  "email": false
 }

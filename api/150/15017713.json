@@ -1,6 +1,6 @@
 {
   "facility_code": "15017713",
-  "institution": "ROCHELLE TOWNSHIP HIGH SCHOOL",
+  "institution": "Rochelle Township High School",
   "city": "Rochelle",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61068",
+  "email": false
 }

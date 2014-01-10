@@ -1,6 +1,6 @@
 {
   "facility_code": "20984801",
-  "institution": "(CHAPTER 31)ALABAMA COMPUTER ASSOCIATES",
+  "institution": "(Chapter 31)Alabama Computer Associates",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36106",
+  "email": false
 }

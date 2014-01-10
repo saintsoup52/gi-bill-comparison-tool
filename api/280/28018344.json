@@ -1,6 +1,6 @@
 {
   "facility_code": "28018344",
-  "institution": "MTA SCHOOLS (CH 31)",
+  "institution": "Mta Schools (Ch 31)",
   "city": "West Valley City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84119",
+  "email": "No (SCO)"
 }

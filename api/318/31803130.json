@@ -1,6 +1,6 @@
 {
   "facility_code": "31803130",
-  "institution": "FAIRLEIGH DICKINSON UNIVERSITY TEANECK CAMPUS",
+  "institution": "Fairleigh Dickinson University Teaneck Campus",
   "city": "Teaneck",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 239,
   "cross": 184603,
-  "grad_rate": 41.3,
-  "grad_rate_rank": 1189,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 47.0,
+  "grad_rate_rank": 1002,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7666",
+  "email": true
 }

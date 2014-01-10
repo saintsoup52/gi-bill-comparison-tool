@@ -1,6 +1,6 @@
 {
   "facility_code": "24018446",
-  "institution": "CAREER TRAINING SOLUTIONS",
+  "institution": "Career Training Solutions",
   "city": "Fredericksburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 441858,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 9.6,
+  "grad_rate": 82.1,
+  "grad_rate_rank": 48,
+  "default_rate": 24.1,
   "avg_stu_loan_debt": 8391,
-  "avg_stu_loan_debt_rank": 366,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 259,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "22408",
+  "email": true
 }

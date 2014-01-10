@@ -1,6 +1,6 @@
 {
   "facility_code": "10059408",
-  "institution": "DELAWARE MARINE POLICE DIV. OF FISH & WILDLIFE",
+  "institution": "Delaware Marine Police Div. Of Fish & Wildlife",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19901",
+  "email": false
 }

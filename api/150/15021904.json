@@ -1,6 +1,6 @@
 {
   "facility_code": "15021904",
-  "institution": "LITTLE ROCK POLICE DEPARTMENT TRAINING ACADEMY",
+  "institution": "Little Rock Police Department Training Academy",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72206",
+  "email": false
 }

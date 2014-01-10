@@ -1,6 +1,6 @@
 {
   "facility_code": "39013214",
-  "institution": "CEDAR LAKE BOYS & GIRLS CLUBS - CH.31",
+  "institution": "Cedar Lake Boys & Girls Clubs - Ch.31",
   "city": "Cedar Lake",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46303",
+  "email": false
 }

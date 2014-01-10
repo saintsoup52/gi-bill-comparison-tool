@@ -1,6 +1,6 @@
 {
   "facility_code": "31925138",
-  "institution": "CARLOW UNIVERSITY",
+  "institution": "Carlow University",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 211431,
-  "grad_rate": 50.9,
-  "grad_rate_rank": 849,
+  "grad_rate": 55.7,
+  "grad_rate_rank": 711,
   "default_rate": 4.8,
-  "avg_stu_loan_debt": 22173,
-  "avg_stu_loan_debt_rank": 1671,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15213",
+  "email": true
 }

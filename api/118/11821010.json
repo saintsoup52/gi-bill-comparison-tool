@@ -1,6 +1,6 @@
 {
   "facility_code": "11821010",
-  "institution": "UNIVERSITY OF SOUTH FLORIDA",
+  "institution": "University Of South Florida",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1802,
   "cross": 137351,
-  "grad_rate": 51.7,
-  "grad_rate_rank": 821,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 17253,
-  "avg_stu_loan_debt_rank": 980,
-  "indicator_group": 1
+  "grad_rate": 56.6,
+  "grad_rate_rank": 685,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33620",
+  "email": true
 }

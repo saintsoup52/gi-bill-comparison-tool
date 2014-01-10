@@ -1,6 +1,6 @@
 {
   "facility_code": "14968405",
-  "institution": "CERRITOS COLLEGE",
+  "institution": "Cerritos College",
   "city": "Norwalk",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 492,
   "cross": 111887,
-  "grad_rate": 20.5,
-  "grad_rate_rank": 842,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "grad_rate": 22.1,
+  "grad_rate_rank": 875,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 77,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90650",
+  "email": true
 }

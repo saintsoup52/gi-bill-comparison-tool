@@ -1,6 +1,6 @@
 {
   "facility_code": "319A8138",
-  "institution": "YORK COLLEGE OF PENNSYLVANIA",
+  "institution": "York College Of Pennsylvania",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 141,
   "cross": 217059,
-  "grad_rate": 59.6,
-  "grad_rate_rank": 577,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 20650,
-  "avg_stu_loan_debt_rank": 1497,
-  "indicator_group": 1
+  "grad_rate": 59.2,
+  "grad_rate_rank": 587,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17403",
+  "email": true
 }

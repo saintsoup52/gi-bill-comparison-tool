@@ -1,6 +1,6 @@
 {
   "facility_code": "14912411",
-  "institution": "CENTRAL GA TECHNICAL COLLEGE FKA MIDDLE GEORGIA TECHNICAL COLLEGE (SEE REMARKS)",
+  "institution": "Central Ga Technical College Fka Middle Georgia Technical College (See Remarks)",
   "city": "Warner Robins",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 359,
   "cross": 140085,
-  "grad_rate": 44.2,
-  "grad_rate_rank": 237,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5916,
-  "avg_stu_loan_debt_rank": 232,
-  "indicator_group": 3
+  "grad_rate": 37.0,
+  "grad_rate_rank": 478,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31088",
+  "email": true
 }

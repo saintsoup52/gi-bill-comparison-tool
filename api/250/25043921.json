@@ -1,6 +1,6 @@
 {
   "facility_code": "25043921",
-  "institution": "LINCOLN TECHNICAL INSTITUTE SOMERVILLE",
+  "institution": "Lincoln Technical Institute Somerville",
   "city": "Somerville",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 165556,
-  "grad_rate": 50.7,
-  "grad_rate_rank": 1905,
-  "default_rate": 35.7,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 53.6,
+  "grad_rate_rank": 1850,
+  "default_rate": 32.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2145",
+  "email": true
 }

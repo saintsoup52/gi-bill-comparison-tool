@@ -1,6 +1,6 @@
 {
   "facility_code": "14904414",
-  "institution": "IVY TECH COMMUNITY COLLEGE OF INDIANA - FT. WAYNE",
+  "institution": "Ivy Tech Community College Of Indiana - Ft. Wayne",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 410,
   "cross": 150987,
-  "grad_rate": 4.1,
-  "grad_rate_rank": 1300,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 8792,
-  "avg_stu_loan_debt_rank": 709,
-  "indicator_group": 2
+  "grad_rate": 8.0,
+  "grad_rate_rank": 1338,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 9151,
+  "avg_stu_loan_debt_rank": 639,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "46805",
+  "email": true
 }

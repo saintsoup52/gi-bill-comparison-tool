@@ -1,6 +1,6 @@
 {
   "facility_code": "25107743",
-  "institution": "ROYAL BEAUTY CAREERS SPENCER",
+  "institution": "Royal Beauty Careers Spencer",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 376987,
-  "grad_rate": 57.4,
-  "grad_rate_rank": 1694,
-  "default_rate": 24.6,
-  "avg_stu_loan_debt": 7900,
-  "avg_stu_loan_debt_rank": 1325,
-  "indicator_group": 5
+  "grad_rate": 58.1,
+  "grad_rate_rank": 1703,
+  "default_rate": 24.8,
+  "avg_stu_loan_debt": 6133,
+  "avg_stu_loan_debt_rank": 429,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77587",
+  "email": false
 }

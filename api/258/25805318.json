@@ -1,6 +1,6 @@
 {
   "facility_code": "25805318",
-  "institution": "UNITECH TRAINING ACADEMY - HOUMA",
+  "institution": "Unitech Training Academy - Houma",
   "city": "Houma",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 448646,
-  "grad_rate": 58.9,
-  "grad_rate_rank": 1629,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 3804,
-  "avg_stu_loan_debt_rank": 663,
-  "indicator_group": 5
+  "grad_rate": 53.2,
+  "grad_rate_rank": 1859,
+  "default_rate": 31.1,
+  "avg_stu_loan_debt": 3525,
+  "avg_stu_loan_debt_rank": 119,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70363",
+  "email": true
 }

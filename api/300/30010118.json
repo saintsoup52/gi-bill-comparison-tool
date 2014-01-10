@@ -1,6 +1,6 @@
 {
   "facility_code": "30010118",
-  "institution": "PARALYZED VETERANS OF AMERICA",
+  "institution": "Paralyzed Veterans Of America",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70113",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20452203",
-  "institution": "DAN'S RV REPAIR (OJT)",
+  "institution": "Dan'S Rv Repair (Ojt)",
   "city": "Parker",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85344",
+  "email": false
 }

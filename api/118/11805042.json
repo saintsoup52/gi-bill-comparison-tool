@@ -1,6 +1,6 @@
 {
   "facility_code": "11805042",
-  "institution": "MIDDLE TENNESSEE STATE UNIVERSITY",
+  "institution": "Middle Tennessee State University",
   "city": "Murfreesboro",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1353,
   "cross": 220978,
-  "grad_rate": 44.8,
-  "grad_rate_rank": 1062,
-  "default_rate": 12.3,
-  "avg_stu_loan_debt": 14500,
-  "avg_stu_loan_debt_rank": 678,
-  "indicator_group": 1
+  "grad_rate": 45.0,
+  "grad_rate_rank": 1065,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37132",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18010007",
-  "institution": "BRISTOL TECHNICAL EDUCATION CENTER",
+  "institution": "Bristol Technical Education Center",
   "city": "Bristol",
   "state": "CT",
   "country": "USA",
@@ -12,7 +12,10 @@
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6010",
+  "email": true
 }

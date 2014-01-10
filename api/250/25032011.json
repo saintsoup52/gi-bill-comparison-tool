@@ -1,6 +1,6 @@
 {
   "facility_code": "25032011",
-  "institution": "MIDDLE GEORGIA EASTER SEALS",
+  "institution": "Middle Georgia Easter Seals",
   "city": "Dublin",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31021",
+  "email": false
 }

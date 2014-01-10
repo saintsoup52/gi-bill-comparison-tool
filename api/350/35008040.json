@@ -1,6 +1,6 @@
 {
   "facility_code": "35008040",
-  "institution": "GOODWILL INDUSTRIES  (CHAPTER 31 ONLY)",
+  "institution": "Goodwill Industries  (Chapter 31 Only)",
   "city": "North Charleston",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29406",
+  "email": "No (SCO)"
 }

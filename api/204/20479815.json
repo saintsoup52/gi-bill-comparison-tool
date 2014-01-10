@@ -1,6 +1,6 @@
 {
   "facility_code": "20479815",
-  "institution": "THE AMMO BEARER LTD",
+  "institution": "The Ammo Bearer Ltd",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52240",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32900213",
-  "institution": "ST JOHNS COLLEGE DEPT. OF NURSING",
+  "institution": "St Johns College Dept. Of Nursing",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 148593,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 14285,
-  "avg_stu_loan_debt_rank": 661,
-  "indicator_group": 1
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62702",
+  "email": true
 }

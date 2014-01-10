@@ -1,6 +1,6 @@
 {
   "facility_code": "21805446",
-  "institution": "STRAYER UNIVERSITY - VIRGINIA BEACH",
+  "institution": "Strayer University - Virginia Beach",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 496,
   "cross": 233684,
-  "grad_rate": 23.8,
-  "grad_rate_rank": 1614,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 32.8,
+  "grad_rate_rank": 1454,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23462",
+  "email": true
 }

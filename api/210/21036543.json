@@ -1,6 +1,6 @@
 {
   "facility_code": "21036543",
-  "institution": "UNIVERSITY OF PHOENIX-SAN ANTONIO",
+  "institution": "University Of Phoenix-San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 849,
   "cross": 446738,
-  "grad_rate": 20.2,
-  "grad_rate_rank": 1667,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 14.1,
+  "grad_rate_rank": 1792,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78230",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14905422",
-  "institution": "CHARLES STEWART MOTT COMMUNITY COLLEGE",
+  "institution": "Charles Stewart Mott Community College",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 352,
   "cross": 169275,
-  "grad_rate": 12.4,
-  "grad_rate_rank": 1123,
+  "grad_rate": 11.5,
+  "grad_rate_rank": 1246,
   "default_rate": 24.5,
-  "avg_stu_loan_debt": 4982,
-  "avg_stu_loan_debt_rank": 262,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 5221,
+  "avg_stu_loan_debt_rank": 182,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48503",
+  "email": true
 }

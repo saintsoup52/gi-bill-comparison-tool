@@ -1,6 +1,6 @@
 {
   "facility_code": "20480015",
-  "institution": "DDM ELECTRIC INC",
+  "institution": "Ddm Electric Inc",
   "city": "Story City",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50248",
+  "email": false
 }

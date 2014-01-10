@@ -1,6 +1,6 @@
 {
   "facility_code": "149G5143",
-  "institution": "ODESSA COLLEGE",
+  "institution": "Odessa College",
   "city": "Odessa",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 134,
   "cross": 227304,
-  "grad_rate": 15.3,
-  "grad_rate_rank": 1019,
-  "default_rate": 15.8,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 16.9,
+  "grad_rate_rank": 1044,
+  "default_rate": 27.5,
+  "avg_stu_loan_debt": 5284,
+  "avg_stu_loan_debt_rank": 205,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "79764",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25392332",
-  "institution": "CONTINENTAL SCHOOL OF BEAUTY (SYRACUSE)",
+  "institution": "Continental School Of Beauty (Syracuse)",
   "city": "Mattydale",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 467094,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 15.2,
+  "default_rate": 10.5,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "13211",
+  "email": true
 }

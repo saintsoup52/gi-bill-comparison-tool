@@ -1,6 +1,6 @@
 {
   "facility_code": "20977801",
-  "institution": "UNION SPRINGS NEWSPAPER INC (CH31)",
+  "institution": "Union Springs Newspaper Inc (Ch31)",
   "city": "Union Springs",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36089",
+  "email": "No (SCO)"
 }

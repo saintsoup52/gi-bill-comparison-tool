@@ -1,6 +1,6 @@
 {
   "facility_code": "24805935",
-  "institution": "NATIONAL COLLEGE-CINCINNATI",
+  "institution": "National College-Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 453473,
-  "grad_rate": 28.6,
-  "grad_rate_rank": 577,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 17016,
-  "avg_stu_loan_debt_rank": 1338,
-  "indicator_group": 2
+  "grad_rate": 25.7,
+  "grad_rate_rank": 762,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 19001,
+  "avg_stu_loan_debt_rank": 1159,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45237",
+  "email": true
 }

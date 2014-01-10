@@ -1,6 +1,6 @@
 {
   "facility_code": "21013346",
-  "institution": "SANFORD-BROWN COLLEGE",
+  "institution": "Sanford-Brown College",
   "city": "Mclean",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 43,
   "cross": 234216,
-  "grad_rate": 31.5,
-  "grad_rate_rank": 494,
-  "default_rate": 31.5,
-  "avg_stu_loan_debt": 19857,
-  "avg_stu_loan_debt_rank": 1407,
-  "indicator_group": 2
+  "grad_rate": 36.0,
+  "grad_rate_rank": 484,
+  "default_rate": 31.6,
+  "avg_stu_loan_debt": 19998,
+  "avg_stu_loan_debt_rank": 1197,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "22102",
+  "email": true
 }

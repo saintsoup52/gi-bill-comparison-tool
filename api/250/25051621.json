@@ -1,6 +1,6 @@
 {
   "facility_code": "25051621",
-  "institution": "ADVANCED EDUCATIONAL CENTER NURSING INC.",
+  "institution": "Advanced Educational Center Nursing Inc.",
   "city": "Salem",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1970",
+  "email": false
 }

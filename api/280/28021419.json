@@ -1,6 +1,6 @@
 {
   "facility_code": "28021419",
-  "institution": "MAINE'S OUTDOOR LEARNING CENTER (CH31)",
+  "institution": "Maine'S Outdoor Learning Center (Ch31)",
   "city": "Lincolnville",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4849",
+  "email": false
 }

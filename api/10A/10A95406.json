@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95406",
-  "institution": "NORTH METRO FIRE RESCUE",
+  "institution": "North Metro Fire Rescue",
   "city": "Northglenn",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80516",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31008305",
-  "institution": "TOURO UNIVERSITY- CALIFORNIA",
+  "institution": "Touro University- California",
   "city": "Vallejo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 459736,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 16666,
-  "avg_stu_loan_debt_rank": 301,
-  "indicator_group": 4
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 84,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "94592",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001940",
-  "institution": "BENEDICT COLLEGE",
+  "institution": "Benedict College",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 104,
   "cross": 217721,
-  "grad_rate": 26.5,
-  "grad_rate_rank": 1562,
-  "default_rate": 29.3,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 28.8,
+  "grad_rate_rank": 1557,
+  "default_rate": 32.9,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29204",
+  "email": false
 }

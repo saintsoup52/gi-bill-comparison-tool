@@ -1,6 +1,6 @@
 {
   "facility_code": "10C12243",
-  "institution": "TEXAS VETERANS COMMISSION REGION I",
+  "institution": "Texas Veterans Commission Region I",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78221",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31014943",
-  "institution": "UNIVERSITY OF DALLAS",
+  "institution": "University Of Dallas",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 224323,
-  "grad_rate": 73.4,
-  "grad_rate_rank": 249,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 20097,
-  "avg_stu_loan_debt_rank": 1440,
-  "indicator_group": 1
+  "grad_rate": 68.9,
+  "grad_rate_rank": 327,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 20125,
+  "avg_stu_loan_debt_rank": 1212,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75062",
+  "email": true
 }

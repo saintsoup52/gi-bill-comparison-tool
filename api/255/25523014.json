@@ -1,6 +1,6 @@
 {
   "facility_code": "25523014",
-  "institution": "LAFAYETTE BEAUTY ACADEMY",
+  "institution": "Lafayette Beauty Academy",
   "city": "Lafayette",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 151607,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47901",
+  "email": false
 }

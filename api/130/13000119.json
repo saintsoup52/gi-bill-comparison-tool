@@ -1,6 +1,6 @@
 {
   "facility_code": "13000119",
-  "institution": "UNIVERSITY OF MAINE AT FARMINGTON",
+  "institution": "University Of Maine At Farmington",
   "city": "Farmington",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 72,
   "cross": 161226,
-  "grad_rate": 59.4,
-  "grad_rate_rank": 581,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 17942,
-  "avg_stu_loan_debt_rank": 1078,
-  "indicator_group": 1
+  "grad_rate": 57.7,
+  "grad_rate_rank": 640,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4938",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000922",
-  "institution": "AQUINAS COLLEGE",
+  "institution": "Aquinas College",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 168786,
-  "grad_rate": 52.2,
-  "grad_rate_rank": 801,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 17257,
-  "avg_stu_loan_debt_rank": 984,
-  "indicator_group": 1
+  "grad_rate": 52.7,
+  "grad_rate_rank": 813,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 18051,
+  "avg_stu_loan_debt_rank": 925,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49506",
+  "email": true
 }

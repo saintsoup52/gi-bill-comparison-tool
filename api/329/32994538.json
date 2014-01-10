@@ -1,6 +1,6 @@
 {
   "facility_code": "32994538",
-  "institution": "WASHINGTON HOSPITAL",
+  "institution": "Washington Hospital",
   "city": "Washington",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 216630,
-  "grad_rate": 14.3,
-  "grad_rate_rank": 2187,
-  "default_rate": 5.4,
-  "avg_stu_loan_debt": 15100,
-  "avg_stu_loan_debt_rank": 2479,
-  "indicator_group": 5
+  "grad_rate": 28.6,
+  "grad_rate_rank": 2206,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 16350,
+  "avg_stu_loan_debt_rank": 1948,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15301",
+  "email": true
 }

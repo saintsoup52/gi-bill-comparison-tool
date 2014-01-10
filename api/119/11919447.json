@@ -1,6 +1,6 @@
 {
   "facility_code": "11919447",
-  "institution": "SEATTLE CENTRAL COMMUNITY COLLEGE",
+  "institution": "Seattle Central Community College",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 357,
   "cross": 236513,
-  "grad_rate": 32.5,
-  "grad_rate_rank": 468,
+  "grad_rate": 11.8,
+  "grad_rate_rank": 1238,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 8267,
-  "avg_stu_loan_debt_rank": 671,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 4981,
+  "avg_stu_loan_debt_rank": 160,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98122",
+  "email": true
 }

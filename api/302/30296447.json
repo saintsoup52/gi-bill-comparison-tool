@@ -1,6 +1,6 @@
 {
   "facility_code": "30296447",
-  "institution": "INDEX SENSORS & CONTROLS   (CH31)",
+  "institution": "Index Sensors & Controls   (Ch31)",
   "city": "Bellevue",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98005",
+  "email": false
 }

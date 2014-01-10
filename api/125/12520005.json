@@ -1,6 +1,6 @@
 {
   "facility_code": "12520005",
-  "institution": "SAN JOAQUIN GENERAL HOSPITAL   SCHOOL OF RADIOLOGIC TECH",
+  "institution": "San Joaquin General Hospital   School Of Radiologic Tech",
   "city": "French Camp",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95231",
+  "email": false
 }

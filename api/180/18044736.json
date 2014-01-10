@@ -1,6 +1,6 @@
 {
   "facility_code": "18044736",
-  "institution": "WES WATKINS TECHNOLOGY CENTER",
+  "institution": "Wes Watkins Technology Center",
   "city": "Wetumka",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 418357,
-  "grad_rate": 64.8,
-  "grad_rate_rank": 1402,
+  "grad_rate": 68.0,
+  "grad_rate_rank": 1273,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74883",
+  "email": false
 }

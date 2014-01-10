@@ -1,6 +1,6 @@
 {
   "facility_code": "20425421",
-  "institution": "MCCORMICK - ALLUM COMPANY INC",
+  "institution": "Mccormick - Allum Company Inc",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1104",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31842111",
-  "institution": "SHORTER UNIVERSITY (ROME)",
+  "institution": "Shorter University (Rome)",
   "city": "Rome",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 55,
   "cross": 140988,
-  "grad_rate": 46.7,
-  "grad_rate_rank": 996,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 20563,
-  "avg_stu_loan_debt_rank": 1492,
-  "indicator_group": 1
+  "grad_rate": 46.6,
+  "grad_rate_rank": 1016,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 23100,
+  "avg_stu_loan_debt_rank": 1542,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30165",
+  "email": true
 }

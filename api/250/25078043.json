@@ -1,6 +1,6 @@
 {
   "facility_code": "25078043",
-  "institution": "STAR COLLEGE OF COSMETOLOGY",
+  "institution": "Star College Of Cosmetology",
   "city": "Tyler",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 382902,
-  "grad_rate": 64.1,
-  "grad_rate_rank": 1430,
-  "default_rate": 14.8,
-  "avg_stu_loan_debt": 2614,
-  "avg_stu_loan_debt_rank": 537,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75702",
+  "email": false
 }

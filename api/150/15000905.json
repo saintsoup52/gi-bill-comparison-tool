@@ -1,6 +1,6 @@
 {
   "facility_code": "15000905",
-  "institution": "REGIONAL OCCUPATIONAL PROGRAM (MONTEREY) (CHAP 31)",
+  "institution": "Regional Occupational Program (Monterey) (Chap 31)",
   "city": "Monterey",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93933",
+  "email": "No (SCO)"
 }

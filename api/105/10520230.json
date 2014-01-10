@@ -1,6 +1,6 @@
 {
   "facility_code": "10520230",
-  "institution": "MONTVALE POLICE DEPARTMENT",
+  "institution": "Montvale Police Department",
   "city": "Montvale",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7645",
+  "email": false
 }

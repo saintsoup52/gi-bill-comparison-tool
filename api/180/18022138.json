@@ -1,6 +1,6 @@
 {
   "facility_code": "18022138",
-  "institution": "LAWRENCE COUNTY CAREER & TECH CENTER",
+  "institution": "Lawrence County Career & Tech Center",
   "city": "New Castle",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 364618,
-  "grad_rate": 58.1,
-  "grad_rate_rank": 1664,
-  "default_rate": 20.5,
-  "avg_stu_loan_debt": 11356,
-  "avg_stu_loan_debt_rank": 2260,
-  "indicator_group": 5
+  "grad_rate": 54.4,
+  "grad_rate_rank": 1821,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 1814,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16101",
+  "email": true
 }

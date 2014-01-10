@@ -1,6 +1,6 @@
 {
   "facility_code": "25005003",
-  "institution": "CHANDLER AIR SERVICE INC.",
+  "institution": "Chandler Air Service Inc.",
   "city": "Chandler",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85249",
+  "email": true
 }

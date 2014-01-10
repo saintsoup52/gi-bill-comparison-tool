@@ -1,6 +1,6 @@
 {
   "facility_code": "17526201",
-  "institution": "CHATTAHOOCHEE VALLEY C.C. ADULT EDUC PRGM",
+  "institution": "Chattahoochee Valley C.C. Adult Educ Prgm",
   "city": "Phenix City",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36869",
+  "email": true
 }

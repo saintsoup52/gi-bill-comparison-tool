@@ -1,6 +1,6 @@
 {
   "facility_code": "25014005",
-  "institution": "ADRIAN'S BEAUTY COLLEGE OF TURLOCK INC.",
+  "institution": "Adrian'S Beauty College Of Turlock Inc.",
   "city": "Turlock",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 262369,
-  "grad_rate": 91.5,
-  "grad_rate_rank": 218,
-  "default_rate": 41.1,
+  "grad_rate": 75.2,
+  "grad_rate_rank": 900,
+  "default_rate": 25.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95380",
+  "email": false
 }

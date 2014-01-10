@@ -1,6 +1,6 @@
 {
   "facility_code": "24904438",
-  "institution": "NEW CASTLE SCHOOL OF TRADES",
+  "institution": "New Castle School Of Trades",
   "city": "New Castle",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 127,
   "cross": 214290,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 8233,
-  "avg_stu_loan_debt_rank": 354,
-  "indicator_group": 3
+  "grad_rate": 66.4,
+  "grad_rate_rank": 121,
+  "default_rate": 19.4,
+  "avg_stu_loan_debt": 9104,
+  "avg_stu_loan_debt_rank": 636,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16101",
+  "email": false
 }

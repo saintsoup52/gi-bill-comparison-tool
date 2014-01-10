@@ -1,6 +1,6 @@
 {
   "facility_code": "35001513",
-  "institution": "ST FRANCIS MEDICAL CENTER CENTRAL IL CENTER - EMERGENCY MEDICINE",
+  "institution": "St Francis Medical Center Central Il Center - Emergency Medicine",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 148575,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 16849,
+  "avg_stu_loan_debt_rank": 785,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61637",
+  "email": false
 }

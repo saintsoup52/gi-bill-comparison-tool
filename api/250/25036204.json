@@ -1,6 +1,6 @@
 {
   "facility_code": "25036204",
-  "institution": "SALON PROFESSIONAL ACADEMY",
+  "institution": "Salon Professional Academy",
   "city": "No Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 460987,
-  "grad_rate": 94.7,
-  "grad_rate_rank": 137,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 76.5,
+  "grad_rate_rank": 842,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 6759,
+  "avg_stu_loan_debt_rank": 588,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72116",
+  "email": false
 }

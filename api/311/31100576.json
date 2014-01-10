@@ -1,10 +1,10 @@
 {
   "facility_code": "31100576",
-  "institution": "UNIVERSIDAD LATINOAMERICANA DE CIENCIA Y TECNOLOGIA (ULACIT)",
+  "institution": "Universidad Latinoamericana De Ciencia Y Tecnologia (Ulacit)",
   "city": "San Jose 1000",
   "state": "Costa Rica",
   "country": "Costa Rica",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 2,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

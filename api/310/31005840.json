@@ -1,6 +1,6 @@
 {
   "facility_code": "31005840",
-  "institution": "BOB JONES UNIVERSITY",
+  "institution": "Bob Jones University",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 89,
   "cross": 217749,
-  "grad_rate": 62.3,
-  "grad_rate_rank": 507,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 61.2,
+  "grad_rate_rank": 535,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 13875,
+  "avg_stu_loan_debt_rank": 424,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29614",
+  "email": false
 }

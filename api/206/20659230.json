@@ -1,6 +1,6 @@
 {
   "facility_code": "20659230",
-  "institution": "FRANK'S PONTIAC GMC",
+  "institution": "Frank'S Pontiac Gmc",
   "city": "Lyndhurst",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7071",
+  "email": true
 }

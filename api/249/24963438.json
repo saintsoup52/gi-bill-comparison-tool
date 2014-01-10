@@ -1,6 +1,6 @@
 {
   "facility_code": "24963438",
-  "institution": "ERIE BUSINESS CENTER (ERIE)",
+  "institution": "Erie Business Center (Erie)",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 212425,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 151,
-  "default_rate": 31.0,
-  "avg_stu_loan_debt": 12122,
-  "avg_stu_loan_debt_rank": 987,
-  "indicator_group": 2
+  "grad_rate": 52.2,
+  "grad_rate_rank": 377,
+  "default_rate": 33.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "16501",
+  "email": false
 }

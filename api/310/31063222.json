@@ -1,6 +1,6 @@
 {
   "facility_code": "31063222",
-  "institution": "PURITAN REFORMED THEOLOGICAL SEMINARY",
+  "institution": "Puritan Reformed Theological Seminary",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49525",
+  "email": true
 }

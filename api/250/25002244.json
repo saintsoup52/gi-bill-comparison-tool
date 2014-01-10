@@ -1,6 +1,6 @@
 {
   "facility_code": "25002244",
-  "institution": "HEALING MOUNTAIN MASSAGE SCHOOL LC",
+  "institution": "Healing Mountain Massage School Lc",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 441830,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 1917,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 5990,
-  "avg_stu_loan_debt_rank": 954,
-  "indicator_group": 5
+  "grad_rate": 47.1,
+  "grad_rate_rank": 1995,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84102",
+  "email": true
 }

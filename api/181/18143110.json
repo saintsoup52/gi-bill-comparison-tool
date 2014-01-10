@@ -1,6 +1,6 @@
 {
   "facility_code": "18143110",
-  "institution": "MIAMI LAKES EDUCATIONAL CENTER",
+  "institution": "Miami Lakes Educational Center",
   "city": "Miami Lakes",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 135647,
-  "grad_rate": 18.3,
-  "grad_rate_rank": 2180,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 15.0,
+  "grad_rate_rank": 2257,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33014",
+  "email": true
 }

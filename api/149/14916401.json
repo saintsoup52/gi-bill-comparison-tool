@@ -1,6 +1,6 @@
 {
   "facility_code": "14916401",
-  "institution": "LAWSON STATE COMMUNITY COLLEGE",
+  "institution": "Lawson State Community College",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 271,
   "cross": 101569,
-  "grad_rate": 16.7,
-  "grad_rate_rank": 467,
+  "grad_rate": 17.3,
+  "grad_rate_rank": 661,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "35221",
+  "email": true
 }

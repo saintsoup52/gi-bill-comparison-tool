@@ -1,6 +1,6 @@
 {
   "facility_code": "17196629",
-  "institution": "JOHN STARK REGIONAL HIGH SCHOOL",
+  "institution": "John Stark Regional High School",
   "city": "Weare",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3281",
+  "email": false
 }

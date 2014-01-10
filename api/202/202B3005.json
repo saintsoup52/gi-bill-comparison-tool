@@ -1,6 +1,6 @@
 {
   "facility_code": "202B3005",
-  "institution": "SAN FRANCISCO. MARIN SAN MATEO AND NO. SANTA CLARA CO. AUTOMOTIVE REPAIR TRADES",
+  "institution": "San Francisco. Marin San Mateo And No. Santa Clara Co. Automotive Repair Trades",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94621",
+  "email": false
 }

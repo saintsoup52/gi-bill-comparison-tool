@@ -1,6 +1,6 @@
 {
   "facility_code": "31926446",
-  "institution": "HOLLINS UNIVERSITY",
+  "institution": "Hollins University",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 32,
   "cross": 232308,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 500,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 56.0,
+  "grad_rate_rank": 703,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 25925,
+  "avg_stu_loan_debt_rank": 1828,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24020",
+  "email": true
 }

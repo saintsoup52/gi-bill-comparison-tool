@@ -1,6 +1,6 @@
 {
   "facility_code": "10B62135",
-  "institution": "CITY OF LAKEWOOD DIVISION OF POLICE (K)",
+  "institution": "City Of Lakewood Division Of Police (K)",
   "city": "Lakewood",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44107",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10579725",
-  "institution": "TIPTON CORRECTIONAL CENTER",
+  "institution": "Tipton Correctional Center",
   "city": "Tipton",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65081",
+  "email": false
 }

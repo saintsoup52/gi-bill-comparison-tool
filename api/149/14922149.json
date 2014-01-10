@@ -1,6 +1,6 @@
 {
   "facility_code": "14922149",
-  "institution": "NORTHEAST WISCONSIN TECH COLLEGE",
+  "institution": "Northeast Wisconsin Tech College",
   "city": "Green Bay",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 371,
   "cross": 239488,
-  "grad_rate": 38.5,
-  "grad_rate_rank": 266,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 8030,
-  "avg_stu_loan_debt_rank": 341,
-  "indicator_group": 3
+  "grad_rate": 41.2,
+  "grad_rate_rank": 451,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 250,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "54307",
+  "email": true
 }

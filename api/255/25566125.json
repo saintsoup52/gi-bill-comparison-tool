@@ -1,6 +1,6 @@
 {
   "facility_code": "25566125",
-  "institution": "PARIS II EDUCATIONAL CENTER",
+  "institution": "Paris Ii Educational Center",
   "city": "Gladstone",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 365073,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 1489,
-  "default_rate": 30.1,
-  "avg_stu_loan_debt": 9154,
-  "avg_stu_loan_debt_rank": 1592,
-  "indicator_group": 5
+  "grad_rate": 54.3,
+  "grad_rate_rank": 1828,
+  "default_rate": 34.3,
+  "avg_stu_loan_debt": 5909,
+  "avg_stu_loan_debt_rank": 404,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64118",
+  "email": true
 }

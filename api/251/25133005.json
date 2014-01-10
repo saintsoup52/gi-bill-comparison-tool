@@ -1,6 +1,6 @@
 {
   "facility_code": "25133005",
-  "institution": "EXECUTIVE SUITE HAIR SALON (CHAPTER 31)",
+  "institution": "Executive Suite Hair Salon (Chapter 31)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95816",
+  "email": false
 }

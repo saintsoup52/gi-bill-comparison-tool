@@ -1,6 +1,6 @@
 {
   "facility_code": "11966135",
-  "institution": "OHIO UNIVERSITY",
+  "institution": "Ohio University",
   "city": "Athens",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 844,
   "cross": 204857,
-  "grad_rate": 65.0,
-  "grad_rate_rank": 437,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 13750,
-  "avg_stu_loan_debt_rank": 607,
-  "indicator_group": 1
+  "grad_rate": 63.4,
+  "grad_rate_rank": 477,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 16625,
+  "avg_stu_loan_debt_rank": 762,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45701",
+  "email": true
 }

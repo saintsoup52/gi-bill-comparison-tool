@@ -1,6 +1,6 @@
 {
   "facility_code": "20002711",
-  "institution": "TSN OF GA. INC.  (CH 31 ONLY)",
+  "institution": "Tsn Of Ga. Inc.  (Ch 31 Only)",
   "city": "Dexter",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31019",
+  "email": "No (SCO)"
 }

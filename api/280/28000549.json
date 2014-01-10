@@ -1,6 +1,6 @@
 {
   "facility_code": "28000549",
-  "institution": "ADVANCED INST OF HAIR DESIGN D/B/A VICI BEAUTY SCHOOL",
+  "institution": "Advanced Inst Of Hair Design D/B/A Vici Beauty School",
   "city": "Glendale",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 238166,
-  "grad_rate": 62.2,
-  "grad_rate_rank": 1509,
-  "default_rate": 8.5,
+  "grad_rate": 61.6,
+  "grad_rate_rank": 1571,
+  "default_rate": 9.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "53217",
+  "email": false
 }

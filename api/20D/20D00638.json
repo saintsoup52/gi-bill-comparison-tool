@@ -1,6 +1,6 @@
 {
   "facility_code": "20D00638",
-  "institution": "NORFOLK SOUTHERN RAILROAD - NORTHUMBERLAND",
+  "institution": "Norfolk Southern Railroad - Northumberland",
   "city": "Northumberland",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17857",
+  "email": true
 }

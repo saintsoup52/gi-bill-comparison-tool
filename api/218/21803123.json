@@ -1,6 +1,6 @@
 {
   "facility_code": "21803123",
-  "institution": "GLOBE UNIVERSITY ONLINE DIV-  MINN SCH OF BUSINESS",
+  "institution": "Globe University Online Div-  Minn Sch Of Business",
   "city": "Richfield",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 98,
   "cross": 173629,
-  "grad_rate": 48.5,
-  "grad_rate_rank": 236,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 9703,
-  "avg_stu_loan_debt_rank": 840,
-  "indicator_group": 2
+  "grad_rate": 30.4,
+  "grad_rate_rank": 628,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 15834,
+  "avg_stu_loan_debt_rank": 1048,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55423",
+  "email": true
 }

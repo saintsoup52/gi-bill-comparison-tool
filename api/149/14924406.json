@@ -1,6 +1,6 @@
 {
   "facility_code": "14924406",
-  "institution": "FRONT RANGE COMMUNITY COLLEGE",
+  "institution": "Front Range Community College",
   "city": "Westminster",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 875,
   "cross": 127200,
-  "grad_rate": 20.8,
-  "grad_rate_rank": 428,
-  "default_rate": 16.3,
-  "avg_stu_loan_debt": 8250,
-  "avg_stu_loan_debt_rank": 355,
-  "indicator_group": 3
+  "grad_rate": 16.5,
+  "grad_rate_rank": 672,
+  "default_rate": 16.5,
+  "avg_stu_loan_debt": 8700,
+  "avg_stu_loan_debt_rank": 274,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80031",
+  "email": true
 }

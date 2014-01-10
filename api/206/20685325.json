@@ -1,6 +1,6 @@
 {
   "facility_code": "20685325",
-  "institution": "CEDARIDGE ROOFING CO.",
+  "institution": "Cedaridge Roofing Co.",
   "city": "Greenwood",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64034",
+  "email": false
 }

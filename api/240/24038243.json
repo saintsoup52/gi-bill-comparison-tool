@@ -1,6 +1,6 @@
 {
   "facility_code": "24038243",
-  "institution": "THE COLLEGE OF HEALTH CARE PROFESSIONS SAN ANTONIO",
+  "institution": "The College Of Health Care Professions San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 449250,
-  "grad_rate": 90.1,
-  "grad_rate_rank": 261,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 7052,
-  "avg_stu_loan_debt_rank": 1154,
-  "indicator_group": 5
+  "grad_rate": 74.5,
+  "grad_rate_rank": 953,
+  "default_rate": 28.3,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78229",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25001603",
-  "institution": "ROBERTO-VENN SCHOOL OF LUTHIERY",
+  "institution": "Roberto-Venn School Of Luthiery",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 105677,
-  "grad_rate": 96.4,
-  "grad_rate_rank": 111,
-  "default_rate": 11.1,
+  "grad_rate": 90.0,
+  "grad_rate_rank": 267,
+  "default_rate": 5.0,
   "avg_stu_loan_debt": 7315,
-  "avg_stu_loan_debt_rank": 1192,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 674,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85007",
+  "email": false
 }

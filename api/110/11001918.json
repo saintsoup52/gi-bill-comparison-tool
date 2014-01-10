@@ -1,6 +1,6 @@
 {
   "facility_code": "11001918",
-  "institution": "GRAMBLING STATE UNIVERSITY",
+  "institution": "Grambling State University",
   "city": "Grambling",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 148,
   "cross": 159009,
-  "grad_rate": 26.7,
-  "grad_rate_rank": 1560,
-  "default_rate": 22.7,
-  "avg_stu_loan_debt": 26690,
-  "avg_stu_loan_debt_rank": 2014,
-  "indicator_group": 1
+  "grad_rate": 30.9,
+  "grad_rate_rank": 1511,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 28579,
+  "avg_stu_loan_debt_rank": 1922,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71245",
+  "email": true
 }

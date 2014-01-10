@@ -1,6 +1,6 @@
 {
   "facility_code": "20204316",
-  "institution": "OVERLAND TOWER APARTMENTS",
+  "institution": "Overland Tower Apartments",
   "city": "Overland Park",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66212",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32114322",
-  "institution": "WAYNE STATE UNIVERSITY-DETROIT MEDICAL CENTER",
+  "institution": "Wayne State University-Detroit Medical Center",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48201",
+  "email": false
 }

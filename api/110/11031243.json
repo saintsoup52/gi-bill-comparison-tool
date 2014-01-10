@@ -1,6 +1,6 @@
 {
   "facility_code": "11031243",
-  "institution": "EDUCATION SERVICE CENTER REGION 10",
+  "institution": "Education Service Center Region 10",
   "city": "Richardson",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 227216,
-  "grad_rate": 49.5,
-  "grad_rate_rank": 904,
-  "default_rate": 10.3,
-  "avg_stu_loan_debt": 17814,
-  "avg_stu_loan_debt_rank": 1061,
-  "indicator_group": 1
+  "grad_rate": 48.3,
+  "grad_rate_rank": 954,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75081",
+  "email": false
 }

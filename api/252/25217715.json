@@ -1,6 +1,6 @@
 {
   "facility_code": "25217715",
-  "institution": "NEW HORIZONS CLC HIAWATHA",
+  "institution": "New Horizons Clc Hiawatha",
   "city": "Hiawatha",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52233",
+  "email": false
 }

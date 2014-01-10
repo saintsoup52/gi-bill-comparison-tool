@@ -1,6 +1,6 @@
 {
   "facility_code": "31120005",
-  "institution": "CHURCH DIVINITY SCHOOL OF THE PACIFIC",
+  "institution": "Church Divinity School Of The Pacific",
   "city": "Berkeley",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 112127,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "94709",
+  "email": true
 }

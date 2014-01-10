@@ -1,6 +1,6 @@
 {
   "facility_code": "28033036",
-  "institution": "OKLAHOMA SCHOOL OF PHOTOGRAPHY",
+  "institution": "Oklahoma School Of Photography",
   "city": "Moore",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 207537,
-  "grad_rate": 88.2,
-  "grad_rate_rank": 324,
-  "default_rate": 20.0,
+  "grad_rate": 76.9,
+  "grad_rate_rank": 811,
+  "default_rate": 32.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73160",
+  "email": false
 }

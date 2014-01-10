@@ -1,6 +1,6 @@
 {
   "facility_code": "25114243",
-  "institution": "SW SCHOOL OF BUSINESS & TECHNICAL CAREERS NUVANI NORTH",
+  "institution": "Sw School Of Business & Technical Careers Nuvani North",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 377281,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
+  "grad_rate": 80.4,
+  "grad_rate_rank": 621,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5173,
-  "avg_stu_loan_debt_rank": 811,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78717",
+  "email": false
 }

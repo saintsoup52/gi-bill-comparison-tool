@@ -1,6 +1,6 @@
 {
   "facility_code": "25025823",
-  "institution": "EMPIRE BEAUTY SCHOOLS-   EDEN PRAIRIE",
+  "institution": "Empire Beauty Schools-   Eden Prairie",
   "city": "Eden Prairie",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 453570,
-  "grad_rate": 65.2,
-  "grad_rate_rank": 1381,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 60.6,
+  "grad_rate_rank": 1615,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55344",
+  "email": false
 }

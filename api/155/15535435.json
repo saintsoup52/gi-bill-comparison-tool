@@ -1,6 +1,6 @@
 {
   "facility_code": "15535435",
-  "institution": "UNIVERSITY OF AKRON POLICE ACADEMY",
+  "institution": "University Of Akron Police Academy",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 200800,
-  "grad_rate": 38.0,
-  "grad_rate_rank": 1300,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 15854,
-  "avg_stu_loan_debt_rank": 824,
-  "indicator_group": 1
+  "grad_rate": 39.6,
+  "grad_rate_rank": 1265,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 16000,
+  "avg_stu_loan_debt_rank": 628,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44325",
+  "email": false
 }

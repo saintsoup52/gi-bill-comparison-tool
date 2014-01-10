@@ -1,6 +1,6 @@
 {
   "facility_code": "11004835",
-  "institution": "CENTRAL MICHIGAN UNIV EXTENDED DEGREE PROG",
+  "institution": "Central Michigan Univ Extended Degree Prog",
   "city": "Wright-Patterson Afb",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 169248,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 739,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 22433,
-  "avg_stu_loan_debt_rank": 1698,
-  "indicator_group": 1
+  "grad_rate": 57.2,
+  "grad_rate_rank": 660,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 23528,
+  "avg_stu_loan_debt_rank": 1585,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45433",
+  "email": false
 }

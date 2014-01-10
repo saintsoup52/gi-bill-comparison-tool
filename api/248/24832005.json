@@ -1,6 +1,6 @@
 {
   "facility_code": "24832005",
-  "institution": "KAPLAN COLLEGE (SAN DIEGO)",
+  "institution": "Kaplan College (San Diego)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 367,
   "cross": 118277,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.9,
+  "grad_rate": 86.1,
+  "grad_rate_rank": 33,
+  "default_rate": 14.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92123",
+  "email": true
 }

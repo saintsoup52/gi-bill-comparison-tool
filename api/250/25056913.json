@@ -1,6 +1,6 @@
 {
   "facility_code": "25056913",
-  "institution": "PROFESSIONAL'S CHOICE HAIR DESIGN ACADEMY",
+  "institution": "Professional'S Choice Hair Design Academy",
   "city": "Joliet",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 148098,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 970,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": 8625,
-  "avg_stu_loan_debt_rank": 1501,
-  "indicator_group": 5
+  "grad_rate": 85.2,
+  "grad_rate_rank": 433,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 6797,
+  "avg_stu_loan_debt_rank": 597,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60435",
+  "email": true
 }

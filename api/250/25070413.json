@@ -1,6 +1,6 @@
 {
   "facility_code": "25070413",
-  "institution": "CAPRI SCHOOL OF BEAUTY CULTURE INC",
+  "institution": "Capri School Of Beauty Culture Inc",
   "city": "Oak Forest",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 143552,
-  "grad_rate": 71.1,
-  "grad_rate_rank": 1125,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 11298,
-  "avg_stu_loan_debt_rank": 2250,
-  "indicator_group": 5
+  "grad_rate": 67.9,
+  "grad_rate_rank": 1279,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 10765,
+  "avg_stu_loan_debt_rank": 1594,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60452",
+  "email": false
 }

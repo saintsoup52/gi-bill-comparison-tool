@@ -1,6 +1,6 @@
 {
   "facility_code": "301B6705",
-  "institution": "SO CAL PAVEMENT STRIPPER ROAD SLURRY HIGHWAY MAINT JATC",
+  "institution": "So Cal Pavement Stripper Road Slurry Highway Maint Jatc",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92507",
+  "email": false
 }

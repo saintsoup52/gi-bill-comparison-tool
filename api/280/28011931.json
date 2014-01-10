@@ -1,6 +1,6 @@
 {
   "facility_code": "28011931",
-  "institution": "DEWOLFF COLLEGE HAIRSTYLING AND COSMETOLOGY",
+  "institution": "Dewolff College Hairstyling And Cosmetology",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 187602,
-  "grad_rate": 69.8,
-  "grad_rate_rank": 1183,
-  "default_rate": 11.4,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 57.9,
+  "grad_rate_rank": 1714,
+  "default_rate": 26.9,
+  "avg_stu_loan_debt": 7430,
+  "avg_stu_loan_debt_rank": 687,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "87112",
+  "email": false
 }

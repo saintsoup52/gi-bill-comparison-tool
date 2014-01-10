@@ -1,6 +1,6 @@
 {
   "facility_code": "21900113",
-  "institution": "DEVRY INSTITUTE OF TECHNOLOGY CHICAGO",
+  "institution": "Devry Institute Of Technology Chicago",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -8,11 +8,14 @@
   "poe": true,
   "yr": true,
   "gibill": 252,
-  "cross": 0,
+  "cross": 482477,
   "grad_rate": null,
   "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60618",
+  "email": true
 }

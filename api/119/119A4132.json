@@ -1,6 +1,6 @@
 {
   "facility_code": "119A4132",
-  "institution": "CUNY  GRADUATE SCHOOL & UNIVERSITY CENTER",
+  "institution": "Cuny  Graduate School & University Center",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 190576,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 186,
-  "indicator_group": 1
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 9259,
+  "avg_stu_loan_debt_rank": 128,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10016",
+  "email": true
 }

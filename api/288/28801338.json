@@ -1,6 +1,6 @@
 {
   "facility_code": "28801338",
-  "institution": "EMPIRE BEAUTY SCHOOL (STATE COLLEGE)",
+  "institution": "Empire Beauty School (State College)",
   "city": "State College",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 212212,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 13700,
-  "avg_stu_loan_debt_rank": 2430,
-  "indicator_group": 5
+  "grad_rate": 65.0,
+  "grad_rate_rank": 1427,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16801",
+  "email": true
 }

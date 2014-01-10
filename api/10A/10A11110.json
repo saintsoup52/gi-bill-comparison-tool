@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11110",
-  "institution": "JACKSONVILLE FIRE & RESCUE DEPARTMENT TRAINING ACCADEMY",
+  "institution": "Jacksonville Fire & Rescue Department Training Accademy",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32246",
+  "email": true
 }

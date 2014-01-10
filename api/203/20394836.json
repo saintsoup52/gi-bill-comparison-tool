@@ -1,6 +1,6 @@
 {
   "facility_code": "20394836",
-  "institution": "GET & GO STORE 39",
+  "institution": "Get & Go Store 39",
   "city": "Okmulgee",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74447",
+  "email": "No (SCO)"
 }

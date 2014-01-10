@@ -1,6 +1,6 @@
 {
   "facility_code": "10156836",
-  "institution": "DURANT POLICE DEPARTMENT",
+  "institution": "Durant Police Department",
   "city": "Durant",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74701",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25036143",
-  "institution": "TRI STATE COSMETOLOGY INST NUMBER 1 GATEWAY",
+  "institution": "Tri State Cosmetology Inst Number 1 Gateway",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 402800,
-  "grad_rate": 70.5,
-  "grad_rate_rank": 1157,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 1648,
-  "avg_stu_loan_debt_rank": 514,
-  "indicator_group": 5
+  "grad_rate": 64.3,
+  "grad_rate_rank": 1455,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 2241,
+  "avg_stu_loan_debt_rank": 20,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79915",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11996132",
-  "institution": "SUNY COLLEGE OF TECHNOLOGY AT CANTON",
+  "institution": "Suny College Of Technology At Canton",
   "city": "Canton",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 154,
   "cross": 196015,
-  "grad_rate": 35.3,
-  "grad_rate_rank": 421,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 13188,
-  "avg_stu_loan_debt_rank": 1066,
-  "indicator_group": 2
+  "grad_rate": 31.6,
+  "grad_rate_rank": 585,
+  "default_rate": 18.2,
+  "avg_stu_loan_debt": 13545,
+  "avg_stu_loan_debt_rank": 924,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13617",
+  "email": true
 }

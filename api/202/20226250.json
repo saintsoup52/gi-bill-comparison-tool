@@ -1,6 +1,6 @@
 {
   "facility_code": "20226250",
-  "institution": "K.C.E. INC. DBA KALCON ELECTRIC",
+  "institution": "K.C.E. Inc. Dba Kalcon Electric",
   "city": "Laramie",
   "state": "WY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "82072",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21916417",
-  "institution": "BECKFIELD COLLEGE",
+  "institution": "Beckfield College",
   "city": "Florence",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 53,
   "cross": 247065,
-  "grad_rate": 47.8,
-  "grad_rate_rank": 244,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 10583,
-  "avg_stu_loan_debt_rank": 891,
-  "indicator_group": 2
+  "grad_rate": 36.4,
+  "grad_rate_rank": 474,
+  "default_rate": 22.4,
+  "avg_stu_loan_debt": 13193,
+  "avg_stu_loan_debt_rank": 918,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "41042",
+  "email": true
 }

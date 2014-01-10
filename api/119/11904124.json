@@ -1,6 +1,6 @@
 {
   "facility_code": "11904124",
-  "institution": "MISSISSIPPI UNIVERSITY FOR WOMEN",
+  "institution": "Mississippi University For Women",
   "city": "Columbus",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 74,
   "cross": 176035,
-  "grad_rate": 39.2,
-  "grad_rate_rank": 1260,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 16399,
-  "avg_stu_loan_debt_rank": 879,
-  "indicator_group": 1
+  "grad_rate": 39.4,
+  "grad_rate_rank": 1269,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39701",
+  "email": true
 }

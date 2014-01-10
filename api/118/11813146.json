@@ -1,6 +1,6 @@
 {
   "facility_code": "11813146",
-  "institution": "COLLEGE OF WILLIAM AND MARY",
+  "institution": "College Of William And Mary",
   "city": "Williamsburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 291,
   "cross": 231624,
-  "grad_rate": 90.7,
-  "grad_rate_rank": 56,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 18375,
-  "avg_stu_loan_debt_rank": 1129,
-  "indicator_group": 1
+  "grad_rate": 89.9,
+  "grad_rate_rank": 65,
+  "default_rate": 1.1,
+  "avg_stu_loan_debt": 19806,
+  "avg_stu_loan_debt_rank": 1169,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23187",
+  "email": true
 }

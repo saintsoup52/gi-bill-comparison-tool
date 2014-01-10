@@ -1,6 +1,6 @@
 {
   "facility_code": "202B4905",
-  "institution": "KMPH FOX 26 TELEVISION",
+  "institution": "Kmph Fox 26 Television",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93727",
+  "email": false
 }

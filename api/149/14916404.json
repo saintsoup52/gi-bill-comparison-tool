@@ -1,6 +1,6 @@
 {
   "facility_code": "14916404",
-  "institution": "NORTH ARKANSAS COLLEGE",
+  "institution": "North Arkansas College",
   "city": "Harrison",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 121,
   "cross": 107460,
-  "grad_rate": 15.3,
-  "grad_rate_rank": 478,
-  "default_rate": 24.9,
+  "grad_rate": 23.6,
+  "grad_rate_rank": 603,
+  "default_rate": 32.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "72601",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25049436",
-  "institution": "MYERS SCHOOL OF FINE ARTS (CH31)",
+  "institution": "Myers School Of Fine Arts (Ch31)",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74114",
+  "email": "No (SCO)"
 }

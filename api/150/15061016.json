@@ -1,6 +1,6 @@
 {
   "facility_code": "15061016",
-  "institution": "EUREKA JR/SR HIGH SCHOOL",
+  "institution": "Eureka Jr/Sr High School",
   "city": "Eureka",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67045",
+  "email": false
 }

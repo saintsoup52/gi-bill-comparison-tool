@@ -1,6 +1,6 @@
 {
   "facility_code": "31004037",
-  "institution": "UNIVERSITY OF WESTERN STATES",
+  "institution": "University Of Western States",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 210438,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 11848,
-  "avg_stu_loan_debt_rank": 707,
-  "indicator_group": 3
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 10250,
+  "avg_stu_loan_debt_rank": 536,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "97230",
+  "email": true
 }

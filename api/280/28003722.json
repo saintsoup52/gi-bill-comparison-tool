@@ -1,6 +1,6 @@
 {
   "facility_code": "28003722",
-  "institution": "LAWTON SEMI-ACADEMY",
+  "institution": "Lawton Semi-Academy",
   "city": "Lawton",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49065",
+  "email": "No (SCO)"
 }

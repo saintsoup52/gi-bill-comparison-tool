@@ -1,6 +1,6 @@
 {
   "facility_code": "10076818",
-  "institution": "JEFFERSON PARISH SHERIFF TRAINING ACAD.  (CH 31)",
+  "institution": "Jefferson Parish Sheriff Training Acad.  (Ch 31)",
   "city": "River Ridge",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70123",
+  "email": false
 }

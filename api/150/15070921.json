@@ -1,6 +1,6 @@
 {
   "facility_code": "15070921",
-  "institution": "DIGRIGOLI SCHOOL OF COSMETOLOGY",
+  "institution": "Digrigoli School Of Cosmetology",
   "city": "West Springfield",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 451255,
-  "grad_rate": 91.7,
-  "grad_rate_rank": 210,
-  "default_rate": 23.5,
-  "avg_stu_loan_debt": 6046,
-  "avg_stu_loan_debt_rank": 968,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 6222,
+  "avg_stu_loan_debt_rank": 437,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1089",
+  "email": true
 }

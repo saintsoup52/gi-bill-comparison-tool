@@ -1,6 +1,6 @@
 {
   "facility_code": "25302338",
-  "institution": "PRISM CAREER INSTITUTE - PHILADELPHIA",
+  "institution": "Prism Career Institute - Philadelphia",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 417840,
-  "grad_rate": 54.1,
-  "grad_rate_rank": 1808,
-  "default_rate": 29.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 91.7,
+  "grad_rate_rank": 224,
+  "default_rate": 36.6,
+  "avg_stu_loan_debt": 10415,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19152",
+  "email": true
 }

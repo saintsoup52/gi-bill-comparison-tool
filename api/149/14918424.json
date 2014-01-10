@@ -1,6 +1,6 @@
 {
   "facility_code": "14918424",
-  "institution": "SOUTHWEST MISSISSIPPI COMMUNITY COLLEGE",
+  "institution": "Southwest Mississippi Community College",
   "city": "Summit",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 85,
   "cross": 176354,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 507,
+  "grad_rate": 28.3,
+  "grad_rate_rank": 677,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39666",
+  "email": true
 }

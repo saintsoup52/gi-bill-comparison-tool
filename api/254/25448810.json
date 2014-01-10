@@ -1,6 +1,6 @@
 {
   "facility_code": "25448810",
-  "institution": "PALM BEACH ACADEMY OF HEALTH AND BEAUTY",
+  "institution": "Palm Beach Academy Of Health And Beauty",
   "city": "Lake Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 449490,
-  "grad_rate": 67.7,
-  "grad_rate_rank": 1262,
-  "default_rate": 10.8,
+  "grad_rate": 75.6,
+  "grad_rate_rank": 884,
+  "default_rate": 24.0,
   "avg_stu_loan_debt": 6598,
-  "avg_stu_loan_debt_rank": 1082,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 570,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33403",
+  "email": true
 }

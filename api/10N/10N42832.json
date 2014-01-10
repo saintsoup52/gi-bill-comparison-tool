@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42832",
-  "institution": "SUFFOLK COUNTY SHERIFF'S OFFICE",
+  "institution": "Suffolk County Sheriff'S Office",
   "city": "Yaphank",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11980",
+  "email": false
 }

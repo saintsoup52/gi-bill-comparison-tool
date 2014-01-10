@@ -1,6 +1,6 @@
 {
   "facility_code": "20B84322",
-  "institution": "SKY ELECTRIC OF NORTHERN MICHIGAN",
+  "institution": "Sky Electric Of Northern Michigan",
   "city": "East Jordan",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49727",
+  "email": false
 }

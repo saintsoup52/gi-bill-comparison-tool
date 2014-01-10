@@ -1,6 +1,6 @@
 {
   "facility_code": "11009438",
-  "institution": "EAST STROUDSBURG UNIVERSITY OF PA",
+  "institution": "East Stroudsburg University Of Pa",
   "city": "East Stroudsburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 136,
   "cross": 212115,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 599,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 17953,
-  "avg_stu_loan_debt_rank": 1079,
-  "indicator_group": 1
+  "grad_rate": 57.2,
+  "grad_rate_rank": 660,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 19408,
+  "avg_stu_loan_debt_rank": 1111,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18301",
+  "email": true
 }

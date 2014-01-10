@@ -1,6 +1,6 @@
 {
   "facility_code": "32951538",
-  "institution": "SHARON REGIONAL HEALTH SYSTEM",
+  "institution": "Sharon Regional Health System",
   "city": "Sharon",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 215983,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 1814,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16146",
+  "email": true
 }

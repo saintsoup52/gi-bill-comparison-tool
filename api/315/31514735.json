@@ -1,6 +1,6 @@
 {
   "facility_code": "31514735",
-  "institution": "THE CLEVELAND INSTITUTE OF MUSIC",
+  "institution": "The Cleveland Institute Of Music",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 202073,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 385,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 24690,
-  "avg_stu_loan_debt_rank": 1901,
-  "indicator_group": 1
+  "grad_rate": 78.0,
+  "grad_rate_rank": 189,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 26000,
+  "avg_stu_loan_debt_rank": 1830,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44106",
+  "email": false
 }

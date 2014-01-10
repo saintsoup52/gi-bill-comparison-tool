@@ -1,6 +1,6 @@
 {
   "facility_code": "31000315",
-  "institution": "CENTRAL COLLEGE",
+  "institution": "Central College",
   "city": "Pella",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 153108,
-  "grad_rate": 63.4,
-  "grad_rate_rank": 465,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 24500,
-  "avg_stu_loan_debt_rank": 1892,
-  "indicator_group": 1
+  "grad_rate": 68.8,
+  "grad_rate_rank": 331,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "50219",
+  "email": true
 }

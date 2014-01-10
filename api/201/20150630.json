@@ -1,6 +1,6 @@
 {
   "facility_code": "20150630",
-  "institution": "ASBURY PARK AREA JATC LOCAL 400",
+  "institution": "Asbury Park Area Jatc Local 400",
   "city": "Wall",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7719",
+  "email": false
 }

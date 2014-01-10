@@ -1,6 +1,6 @@
 {
   "facility_code": "25035404",
-  "institution": "SCHOOL FOR PRIVATE INVESTIGATIONS",
+  "institution": "School For Private Investigations",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72210",
+  "email": false
 }

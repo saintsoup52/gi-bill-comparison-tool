@@ -1,6 +1,6 @@
 {
   "facility_code": "25004504",
-  "institution": "ACADEMY OF SALON AND SPA",
+  "institution": "Academy Of Salon And Spa",
   "city": "Fort Smith",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 107293,
-  "grad_rate": 83.1,
-  "grad_rate_rank": 505,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 6666,
-  "avg_stu_loan_debt_rank": 1093,
-  "indicator_group": 5
+  "grad_rate": 34.2,
+  "grad_rate_rank": 2169,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72901",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31911939",
-  "institution": "ROGER WILLIAMS UNIVERSITY (LAW SCHOOL)",
+  "institution": "Roger Williams University (Law School)",
   "city": "Bristol",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 409616,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 23503,
-  "avg_stu_loan_debt_rank": 313,
-  "indicator_group": 4
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 24347,
+  "avg_stu_loan_debt_rank": 104,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "2809",
+  "email": true
 }

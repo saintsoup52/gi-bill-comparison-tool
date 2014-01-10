@@ -1,6 +1,6 @@
 {
   "facility_code": "29426448",
-  "institution": "ALPHA BYTES COMPUTER SOLUTIONS",
+  "institution": "Alpha Bytes Computer Solutions",
   "city": "Summersville",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "26651",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20A08010",
-  "institution": "PROGRESS ENERGY - CORPORATE HEADQUARTERS FLORIDA",
+  "institution": "Progress Energy - Corporate Headquarters Florida",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33701",
+  "email": true
 }

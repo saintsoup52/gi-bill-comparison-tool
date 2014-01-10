@@ -1,6 +1,6 @@
 {
   "facility_code": "28005137",
-  "institution": "PHAGANS' CENTRAL OREGON BEAUTY SCHOOL",
+  "institution": "Phagans' Central Oregon Beauty School",
   "city": "Bend",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 209676,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 1028,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 11277,
-  "avg_stu_loan_debt_rank": 2248,
-  "indicator_group": 5
+  "grad_rate": 76.0,
+  "grad_rate_rank": 865,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 10680,
+  "avg_stu_loan_debt_rank": 1584,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97701",
+  "email": true
 }

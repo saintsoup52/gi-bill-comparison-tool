@@ -1,6 +1,6 @@
 {
   "facility_code": "101B3405",
-  "institution": "N ORANGE COUNTY COMMUNITY COLLEGE DIST SCH OF CONT EDUC (CH 31)",
+  "institution": "N Orange County Community College Dist Sch Of Cont Educ (Ch 31)",
   "city": "Fullerton",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92832",
+  "email": false
 }

@@ -1,10 +1,10 @@
 {
   "facility_code": "31200279",
-  "institution": "ESC RENNES SCHOOL OF BUSINESS",
+  "institution": "Esc Rennes School Of Business",
   "city": "Rennes Cedex",
   "state": "France",
   "country": "France",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

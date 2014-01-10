@@ -1,6 +1,6 @@
 {
   "facility_code": "25006711",
-  "institution": "ATLANTA SCHOOL OF MASSAGE",
+  "institution": "Atlanta School Of Massage",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 138938,
-  "grad_rate": 89.0,
-  "grad_rate_rank": 297,
-  "default_rate": 15.3,
+  "grad_rate": 81.4,
+  "grad_rate_rank": 579,
+  "default_rate": 15.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30338",
+  "email": true
 }

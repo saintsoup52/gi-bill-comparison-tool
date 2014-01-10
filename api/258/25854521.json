@@ -1,6 +1,6 @@
 {
   "facility_code": "25854521",
-  "institution": "UNIVERSAL TECHNICAL INSTITUTE-NORWOOD MA",
+  "institution": "Universal Technical Institute-Norwood Ma",
   "city": "Norwood",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447403,
-  "grad_rate": 55.1,
-  "grad_rate_rank": 1777,
-  "default_rate": 14.3,
+  "grad_rate": 56.3,
+  "grad_rate_rank": 1759,
+  "default_rate": 18.9,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2062",
+  "email": true
 }

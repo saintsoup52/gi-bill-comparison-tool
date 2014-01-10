@@ -1,6 +1,6 @@
 {
   "facility_code": "39423547",
-  "institution": "VIETNAM VETERANS OF AMERICA - CH 31 ONLY",
+  "institution": "Vietnam Veterans Of America - Ch 31 Only",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98174",
+  "email": false
 }

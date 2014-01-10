@@ -1,6 +1,6 @@
 {
   "facility_code": "31004042",
-  "institution": "MEMPHIS COLLEGE OF ART",
+  "institution": "Memphis College Of Art",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 220808,
-  "grad_rate": 32.1,
-  "grad_rate_rank": 1448,
-  "default_rate": 18.0,
-  "avg_stu_loan_debt": 24450,
-  "avg_stu_loan_debt_rank": 1887,
-  "indicator_group": 1
+  "grad_rate": 47.6,
+  "grad_rate_rank": 980,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 25906,
+  "avg_stu_loan_debt_rank": 1827,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38104",
+  "email": false
 }

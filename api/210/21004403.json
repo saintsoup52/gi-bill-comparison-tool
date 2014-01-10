@@ -1,6 +1,6 @@
 {
   "facility_code": "21004403",
-  "institution": "BROWN MACKIE COLLEGE - TUCSON",
+  "institution": "Brown Mackie College - Tucson",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 131,
   "cross": 104364,
-  "grad_rate": 22.2,
-  "grad_rate_rank": 790,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 1019,
-  "indicator_group": 2
+  "grad_rate": 43.2,
+  "grad_rate_rank": 361,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85712",
+  "email": true
 }

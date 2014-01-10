@@ -1,6 +1,6 @@
 {
   "facility_code": "10637925",
-  "institution": "ORRICK R-XI SCHOOL DISTRICT",
+  "institution": "Orrick R-Xi School District",
   "city": "Orrick",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64077",
+  "email": false
 }

@@ -1,10 +1,10 @@
 {
   "facility_code": "31000969",
-  "institution": "HANYANG UNIVERSITY",
+  "institution": "Hanyang University",
   "city": "Seoul",
   "state": "South Korea",
   "country": "South Korea",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 1,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

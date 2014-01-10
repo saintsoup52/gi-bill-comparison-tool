@@ -1,6 +1,6 @@
 {
   "facility_code": "10645440",
-  "institution": "NORTH AUGUSTA DEPARTMENT OF PUBLIC SAFETY",
+  "institution": "North Augusta Department Of Public Safety",
   "city": "North Augusta",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29841",
+  "email": false
 }

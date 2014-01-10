@@ -1,6 +1,6 @@
 {
   "facility_code": "249F6435",
-  "institution": "DAVIS COLLEGE",
+  "institution": "Davis College",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 202435,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 682,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 12666,
-  "avg_stu_loan_debt_rank": 1015,
-  "indicator_group": 2
+  "grad_rate": 14.3,
+  "grad_rate_rank": 1139,
+  "default_rate": 24.3,
+  "avg_stu_loan_debt": 11875,
+  "avg_stu_loan_debt_rank": 842,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43623",
+  "email": false
 }

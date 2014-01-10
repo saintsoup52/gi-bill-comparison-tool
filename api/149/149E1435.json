@@ -1,6 +1,6 @@
 {
   "facility_code": "149E1435",
-  "institution": "JAMES A. RHODES STATE COLLEGE",
+  "institution": "James A. Rhodes State College",
   "city": "Lima",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 134,
   "cross": 203678,
-  "grad_rate": 21.0,
-  "grad_rate_rank": 829,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 18.0,
+  "grad_rate_rank": 1004,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 9963,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45804",
+  "email": false
 }

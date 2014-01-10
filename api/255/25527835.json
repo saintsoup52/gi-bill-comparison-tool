@@ -1,6 +1,6 @@
 {
   "facility_code": "25527835",
-  "institution": "TDDS TECHNICAL INSTITUTE",
+  "institution": "Tdds Technical Institute",
   "city": "Diamond",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 249566,
-  "grad_rate": 84.0,
-  "grad_rate_rank": 460,
-  "default_rate": 15.1,
+  "grad_rate": 82.2,
+  "grad_rate_rank": 547,
+  "default_rate": 6.2,
   "avg_stu_loan_debt": 5066,
-  "avg_stu_loan_debt_rank": 806,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 247,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44412",
+  "email": true
 }

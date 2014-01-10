@@ -1,6 +1,6 @@
 {
   "facility_code": "14921421",
-  "institution": "CAPE COD COMMUNITY COLLEGE",
+  "institution": "Cape Cod Community College",
   "city": "West Barnstable",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 204,
   "cross": 165194,
-  "grad_rate": 13.6,
-  "grad_rate_rank": 1078,
-  "default_rate": 19.9,
+  "grad_rate": 15.0,
+  "grad_rate_rank": 1109,
+  "default_rate": 15.8,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "2668",
+  "email": false
 }

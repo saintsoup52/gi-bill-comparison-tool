@@ -1,6 +1,6 @@
 {
   "facility_code": "32926146",
-  "institution": "SRMC PROFESSIONAL SCHOOLS",
+  "institution": "Srmc Professional Schools",
   "city": "Petersburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 233082,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 11320,
-  "avg_stu_loan_debt_rank": 688,
-  "indicator_group": 3
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 11540,
+  "avg_stu_loan_debt_rank": 576,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23803",
+  "email": false
 }

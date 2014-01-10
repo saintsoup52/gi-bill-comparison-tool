@@ -1,6 +1,6 @@
 {
   "facility_code": "28565314",
-  "institution": "PJ'S COLLEGE OF COSMETOLOGY - SOUTH",
+  "institution": "Pj'S College Of Cosmetology - South",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46227",
+  "email": false
 }

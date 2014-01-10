@@ -1,6 +1,6 @@
 {
   "facility_code": "31004742",
-  "institution": "LEE UNIVERSITY - CLEVELAND",
+  "institution": "Lee University - Cleveland",
   "city": "Cleveland",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 90,
   "cross": 220613,
-  "grad_rate": 49.0,
-  "grad_rate_rank": 928,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 49.1,
+  "grad_rate_rank": 926,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 19169,
+  "avg_stu_loan_debt_rank": 1099,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37320",
+  "email": false
 }

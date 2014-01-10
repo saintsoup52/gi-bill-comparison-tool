@@ -1,6 +1,6 @@
 {
   "facility_code": "14901405",
-  "institution": "LOS ANGELES SOUTHWEST COLLEGE",
+  "institution": "Los Angeles Southwest College",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 74,
   "cross": 117715,
-  "grad_rate": 6.4,
-  "grad_rate_rank": 1282,
+  "grad_rate": 7.1,
+  "grad_rate_rank": 1354,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 2000,
-  "avg_stu_loan_debt_rank": 105,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 2250,
+  "avg_stu_loan_debt_rank": 5,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90047",
+  "email": true
 }

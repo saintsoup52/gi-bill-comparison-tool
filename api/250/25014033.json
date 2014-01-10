@@ -1,6 +1,6 @@
 {
   "facility_code": "25014033",
-  "institution": "FAYETTEVILLE BEAUTY COLLEGE",
+  "institution": "Fayetteville Beauty College",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 198525,
-  "grad_rate": 53.4,
-  "grad_rate_rank": 1828,
-  "default_rate": 29.6,
-  "avg_stu_loan_debt": 5455,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 5
+  "grad_rate": 63.5,
+  "grad_rate_rank": 1494,
+  "default_rate": 46.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "28303",
+  "email": true
 }

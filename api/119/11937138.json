@@ -1,6 +1,6 @@
 {
   "facility_code": "11937138",
-  "institution": "PENN STATE UNIVERSITY - WORTHINGTON-SCRANTON",
+  "institution": "Penn State University - Worthington-Scranton",
   "city": "Dunmore",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 50,
   "cross": 214652,
-  "grad_rate": 45.6,
-  "grad_rate_rank": 1036,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 23426,
-  "avg_stu_loan_debt_rank": 1813,
-  "indicator_group": 1
+  "grad_rate": 47.5,
+  "grad_rate_rank": 985,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18512",
+  "email": false
 }

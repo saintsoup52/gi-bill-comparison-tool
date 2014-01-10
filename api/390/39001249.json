@@ -1,6 +1,6 @@
 {
   "facility_code": "39001249",
-  "institution": "MILWAUKEE CENTER FOR INDEPENDENCE",
+  "institution": "Milwaukee Center For Independence",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 174914,
-  "grad_rate": 74.3,
-  "grad_rate_rank": 235,
-  "default_rate": 2.1,
-  "avg_stu_loan_debt": 21601,
-  "avg_stu_loan_debt_rank": 1602,
-  "indicator_group": 1
+  "grad_rate": 74.4,
+  "grad_rate_rank": 241,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53233",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31006535",
-  "institution": "WITTENBERG UNIVERSITY",
+  "institution": "Wittenberg University",
   "city": "Springfield",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 206525,
-  "grad_rate": 71.3,
-  "grad_rate_rank": 282,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 25292,
-  "avg_stu_loan_debt_rank": 1990,
-  "indicator_group": 1
+  "grad_rate": 65.2,
+  "grad_rate_rank": 428,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 25250,
+  "avg_stu_loan_debt_rank": 1793,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45501",
+  "email": false
 }

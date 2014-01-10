@@ -1,6 +1,6 @@
 {
   "facility_code": "24917440",
-  "institution": "SPARTANBURG METHODIST COLLEGE",
+  "institution": "Spartanburg Methodist College",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 218821,
-  "grad_rate": 40.8,
-  "grad_rate_rank": 318,
-  "default_rate": 13.4,
+  "grad_rate": 37.7,
+  "grad_rate_rank": 454,
+  "default_rate": 15.3,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "29301",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11011201",
-  "institution": "UNIVERSITY OF SOUTH ALABAMA OFFICE OF VETERAN AFFAIRS",
+  "institution": "University Of South Alabama Office Of Veteran Affairs",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 941,
   "cross": 102094,
-  "grad_rate": 38.5,
-  "grad_rate_rank": 1285,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 12698,
-  "avg_stu_loan_debt_rank": 528,
-  "indicator_group": 1
+  "grad_rate": 36.9,
+  "grad_rate_rank": 1338,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 13571,
+  "avg_stu_loan_debt_rank": 403,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36688",
+  "email": true
 }

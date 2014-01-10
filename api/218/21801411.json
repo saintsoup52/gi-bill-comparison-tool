@@ -1,6 +1,6 @@
 {
   "facility_code": "21801411",
-  "institution": "KELLER GRADUATE SCHOOL OF MANAGEMENT - GWINNETT",
+  "institution": "Keller Graduate School Of Management - Gwinnett",
   "city": "Duluth",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 419536,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 4625,
-  "avg_stu_loan_debt_rank": 233,
-  "indicator_group": 4
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 5000,
+  "avg_stu_loan_debt_rank": 11,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "30096",
+  "email": true
 }

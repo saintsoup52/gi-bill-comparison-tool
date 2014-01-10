@@ -1,6 +1,6 @@
 {
   "facility_code": "301B2605",
-  "institution": "SOUTHERN CALIFORNIA ELEVATOR CONSTRUCTORS JATC",
+  "institution": "Southern California Elevator Constructors Jatc",
   "city": "Pasadena",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91103",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32005430",
-  "institution": "MOUNTAINSIDE HOSPITAL SCHOOL OF NURSING",
+  "institution": "Mountainside Hospital School Of Nursing",
   "city": "Montclair",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 185624,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 15250,
+  "avg_stu_loan_debt_rank": 1927,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7042",
+  "email": false
 }

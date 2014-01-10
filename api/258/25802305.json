@@ -1,6 +1,6 @@
 {
   "facility_code": "25802305",
-  "institution": "NATIONAL CAREER EDUCATION",
+  "institution": "National Career Education",
   "city": "Rancho Cordova",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 371964,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 1655,
-  "default_rate": 21.9,
-  "avg_stu_loan_debt": 9495,
-  "avg_stu_loan_debt_rank": 1652,
-  "indicator_group": 5
+  "grad_rate": 69.6,
+  "grad_rate_rank": 1202,
+  "default_rate": 23.3,
+  "avg_stu_loan_debt": 9277,
+  "avg_stu_loan_debt_rank": 1031,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95670",
+  "email": true
 }

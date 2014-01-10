@@ -1,6 +1,6 @@
 {
   "facility_code": "31000249",
-  "institution": "CARROLL UNIVERSITY",
+  "institution": "Carroll University",
   "city": "Waukesha",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 70,
   "cross": 238458,
-  "grad_rate": 57.2,
-  "grad_rate_rank": 645,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 59.3,
+  "grad_rate_rank": 583,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53186",
+  "email": true
 }

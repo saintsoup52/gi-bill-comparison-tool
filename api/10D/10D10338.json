@@ -1,6 +1,6 @@
 {
   "facility_code": "10D10338",
-  "institution": "ADULT PROBATION AND PAROLE OFFICE - DAUPHIN COUNTY",
+  "institution": "Adult Probation And Parole Office - Dauphin County",
   "city": "Steelton",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17113",
+  "email": false
 }

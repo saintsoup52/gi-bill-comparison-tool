@@ -1,6 +1,6 @@
 {
   "facility_code": "31815221",
-  "institution": "SUFFOLK UNIVERSITY LAW SCHOOL",
+  "institution": "Suffolk University Law School",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 168005,
-  "grad_rate": 54.4,
-  "grad_rate_rank": 733,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 55.9,
+  "grad_rate_rank": 705,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2114",
+  "email": true
 }

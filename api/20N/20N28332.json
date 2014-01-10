@@ -1,6 +1,6 @@
 {
   "facility_code": "20N28332",
-  "institution": "HEAT & FROST INSULATORS AND ALLIED WORKERS LU #4",
+  "institution": "Heat & Frost Insulators And Allied Workers Lu #4",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14210",
+  "email": true
 }

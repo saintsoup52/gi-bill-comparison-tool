@@ -1,6 +1,6 @@
 {
   "facility_code": "31003138",
-  "institution": "CHATHAM UNIVERSITY",
+  "institution": "Chatham University",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 37,
   "cross": 211556,
-  "grad_rate": 60.3,
-  "grad_rate_rank": 555,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 19845,
-  "avg_stu_loan_debt_rank": 1379,
-  "indicator_group": 1
+  "grad_rate": 58.5,
+  "grad_rate_rank": 613,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 20199,
+  "avg_stu_loan_debt_rank": 1216,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15232",
+  "email": true
 }

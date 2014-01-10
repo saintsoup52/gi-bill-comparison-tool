@@ -1,6 +1,6 @@
 {
   "facility_code": "31001816",
-  "institution": "BENEDICTINE COLLEGE",
+  "institution": "Benedictine College",
   "city": "Atchison",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 154712,
-  "grad_rate": 55.8,
-  "grad_rate_rank": 679,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 58.4,
+  "grad_rate_rank": 614,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 21506,
+  "avg_stu_loan_debt_rank": 1384,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66002",
+  "email": false
 }

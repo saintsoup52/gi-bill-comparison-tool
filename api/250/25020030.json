@@ -1,6 +1,6 @@
 {
   "facility_code": "25020030",
-  "institution": "DRAKE COLLEGE OF BUSINESS - NEWARK",
+  "institution": "Drake College Of Business - Newark",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 458414,
-  "grad_rate": 42.4,
-  "grad_rate_rank": 2045,
-  "default_rate": 31.5,
+  "grad_rate": 42.7,
+  "grad_rate_rank": 2064,
+  "default_rate": 29.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7102",
+  "email": true
 }

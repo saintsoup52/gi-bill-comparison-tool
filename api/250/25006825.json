@@ -1,6 +1,6 @@
 {
   "facility_code": "25006825",
-  "institution": "MISSOURI SCHOOL OF BARBERING & HAIRSTYLING",
+  "institution": "Missouri School Of Barbering & Hairstyling",
   "city": "Florissant",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 178314,
-  "grad_rate": 93.1,
-  "grad_rate_rank": 180,
+  "grad_rate": 60.7,
+  "grad_rate_rank": 1610,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63031",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28210715",
-  "institution": "LA JAMES COLLEGE OF HAIRSTYLING",
+  "institution": "La James College Of Hairstyling",
   "city": "Ft Dodge",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 153782,
-  "grad_rate": 68.4,
-  "grad_rate_rank": 1237,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "grad_rate": 68.7,
+  "grad_rate_rank": 1245,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 11675,
+  "avg_stu_loan_debt_rank": 1733,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50501",
+  "email": false
 }

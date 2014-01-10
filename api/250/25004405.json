@@ -1,6 +1,6 @@
 {
   "facility_code": "25004405",
-  "institution": "ALL-PRO TRAINING (CHAP 31 ONLY)",
+  "institution": "All-Pro Training (Chap 31 Only)",
   "city": "Manteca",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95336",
+  "email": "No (SCO)"
 }

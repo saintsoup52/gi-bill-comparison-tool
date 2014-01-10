@@ -1,6 +1,6 @@
 {
   "facility_code": "10A20411",
-  "institution": "BURKE CO EMERGENCY MGMT AGENCY",
+  "institution": "Burke Co Emergency Mgmt Agency",
   "city": "Waynesboro",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30830",
+  "email": false
 }

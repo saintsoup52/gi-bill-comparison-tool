@@ -1,6 +1,6 @@
 {
   "facility_code": "20B97443",
-  "institution": "SANDERSON PEST CONTROL",
+  "institution": "Sanderson Pest Control",
   "city": "Sanderson",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "79848",
+  "email": false
 }

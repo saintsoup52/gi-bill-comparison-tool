@@ -1,6 +1,6 @@
 {
   "facility_code": "14901130",
-  "institution": "GLOUCESTER COUNTY COLLEGE",
+  "institution": "Gloucester County College",
   "city": "Sewell",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 190,
   "cross": 184791,
-  "grad_rate": 28.1,
-  "grad_rate_rank": 596,
-  "default_rate": 18.5,
+  "grad_rate": 25.3,
+  "grad_rate_rank": 775,
+  "default_rate": 18.2,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "8080",
+  "email": true
 }

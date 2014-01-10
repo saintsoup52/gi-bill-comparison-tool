@@ -1,6 +1,6 @@
 {
   "facility_code": "31972138",
-  "institution": "DUQUESNE UNIVERSITY",
+  "institution": "Duquesne University",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 252,
   "cross": 212106,
-  "grad_rate": 73.1,
-  "grad_rate_rank": 254,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 24903,
-  "avg_stu_loan_debt_rank": 1913,
-  "indicator_group": 1
+  "grad_rate": 74.3,
+  "grad_rate_rank": 243,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15282",
+  "email": true
 }

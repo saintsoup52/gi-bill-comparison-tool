@@ -1,6 +1,6 @@
 {
   "facility_code": "32906132",
-  "institution": "ELLIS HOSPITAL SCHOOL OF NURSING",
+  "institution": "Ellis Hospital School Of Nursing",
   "city": "Schenectady",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 190956,
-  "grad_rate": 37.5,
-  "grad_rate_rank": 376,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 11735,
-  "avg_stu_loan_debt_rank": 959,
-  "indicator_group": 2
+  "grad_rate": 50.0,
+  "grad_rate_rank": 263,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 12035,
+  "avg_stu_loan_debt_rank": 860,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12308",
+  "email": false
 }

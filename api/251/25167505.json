@@ -1,6 +1,6 @@
 {
   "facility_code": "25167505",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY  (SANTA CLARA)",
+  "institution": "Marinello Schools Of Beauty  (Santa Clara)",
   "city": "Santa Clara",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 113908,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 1683,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 8125,
-  "avg_stu_loan_debt_rank": 1408,
-  "indicator_group": 5
+  "grad_rate": 54.4,
+  "grad_rate_rank": 1821,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 8784,
+  "avg_stu_loan_debt_rank": 954,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95050",
+  "email": true
 }

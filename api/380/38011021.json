@@ -1,6 +1,6 @@
 {
   "facility_code": "38011021",
-  "institution": "NORTH BENNET STREET SCHOOL",
+  "institution": "North Bennet Street School",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 167297,
-  "grad_rate": 87.0,
-  "grad_rate_rank": 356,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "grad_rate": 78.6,
+  "grad_rate_rank": 720,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 1968,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2113",
+  "email": true
 }

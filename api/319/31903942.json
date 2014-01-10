@@ -1,6 +1,6 @@
 {
   "facility_code": "31903942",
-  "institution": "WATKINS COLLEGE OF ART DESIGN & FILM",
+  "institution": "Watkins College Of Art Design & Film",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 392840,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 1321,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 24625,
-  "avg_stu_loan_debt_rank": 1897,
-  "indicator_group": 1
+  "grad_rate": 26.9,
+  "grad_rate_rank": 1596,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37228",
+  "email": false
 }

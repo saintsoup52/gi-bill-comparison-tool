@@ -1,6 +1,6 @@
 {
   "facility_code": "25014003",
-  "institution": "BRILLARE HAIRDRESSING ACADEMY (PHOENIX)",
+  "institution": "Brillare Hairdressing Academy (Phoenix)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 104294,
-  "grad_rate": 80.5,
-  "grad_rate_rank": 633,
-  "default_rate": 16.9,
-  "avg_stu_loan_debt": 14050,
-  "avg_stu_loan_debt_rank": 2445,
-  "indicator_group": 5
+  "grad_rate": 66.0,
+  "grad_rate_rank": 1382,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 11035,
+  "avg_stu_loan_debt_rank": 1615,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85044",
+  "email": false
 }

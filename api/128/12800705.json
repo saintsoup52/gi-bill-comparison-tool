@@ -1,6 +1,6 @@
 {
   "facility_code": "12800705",
-  "institution": "LA COUNTY USC MEDICAL CENTER ANESTHESIOLOGY RESIDENCY PROGRAM",
+  "institution": "La County Usc Medical Center Anesthesiology Residency Program",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90033",
+  "email": false
 }

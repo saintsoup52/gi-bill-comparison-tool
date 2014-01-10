@@ -1,6 +1,6 @@
 {
   "facility_code": "31864722",
-  "institution": "BAKER COLLEGE - JACKSON",
+  "institution": "Baker College - Jackson",
   "city": "Jackson",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 93,
   "cross": 414160,
-  "grad_rate": 17.3,
-  "grad_rate_rank": 954,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 10120,
-  "avg_stu_loan_debt_rank": 856,
-  "indicator_group": 2
+  "grad_rate": 20.7,
+  "grad_rate_rank": 920,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 11394,
+  "avg_stu_loan_debt_rank": 819,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "49202",
+  "email": false
 }

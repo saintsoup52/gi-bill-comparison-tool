@@ -1,6 +1,6 @@
 {
   "facility_code": "25026722",
-  "institution": "HOLLOWAY'S REAL ESTATE INSTITUTE INC.",
+  "institution": "Holloway'S Real Estate Institute Inc.",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48911",
+  "email": "No (SCO)"
 }

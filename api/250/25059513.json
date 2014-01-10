@@ -1,6 +1,6 @@
 {
   "facility_code": "25059513",
-  "institution": "SYMBOL TRAINING INSTITUTE",
+  "institution": "Symbol Training Institute",
   "city": "Skokie",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60076",
+  "email": true
 }

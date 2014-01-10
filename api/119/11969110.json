@@ -1,6 +1,6 @@
 {
   "facility_code": "11969110",
-  "institution": "FLORIDA STATE COLLEGE AT JACKSONVILLE",
+  "institution": "Florida State College At Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3639,
   "cross": 133702,
-  "grad_rate": 31.8,
-  "grad_rate_rank": 483,
+  "grad_rate": 33.1,
+  "grad_rate_rank": 550,
   "default_rate": 18.3,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 6334,
+  "avg_stu_loan_debt_rank": 365,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32202",
+  "email": true
 }

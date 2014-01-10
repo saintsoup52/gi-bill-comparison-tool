@@ -1,6 +1,6 @@
 {
   "facility_code": "14917404",
-  "institution": "UNIVERSITY OF ARKANSAS COMMUNITY COLLEGE AT HOPE",
+  "institution": "University Of Arkansas Community College At Hope",
   "city": "Hope",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 42,
   "cross": 107725,
-  "grad_rate": 27.7,
-  "grad_rate_rank": 361,
-  "default_rate": 21.7,
+  "grad_rate": 20.1,
+  "grad_rate_rank": 643,
+  "default_rate": 25.8,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 111,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 24,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "71802",
+  "email": false
 }

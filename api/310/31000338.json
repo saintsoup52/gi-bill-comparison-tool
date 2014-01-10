@@ -1,6 +1,6 @@
 {
   "facility_code": "31000338",
-  "institution": "ALLEGHENY COLLEGE",
+  "institution": "Allegheny College",
   "city": "Meadville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 210669,
-  "grad_rate": 80.4,
-  "grad_rate_rank": 148,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 25730,
-  "avg_stu_loan_debt_rank": 2000,
-  "indicator_group": 1
+  "grad_rate": 77.7,
+  "grad_rate_rank": 192,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 28000,
+  "avg_stu_loan_debt_rank": 1913,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16335",
+  "email": true
 }

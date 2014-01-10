@@ -1,6 +1,6 @@
 {
   "facility_code": "14909426",
-  "institution": "HELENA COLLEGE - UNIVERSITY OF MONTANA",
+  "institution": "Helena College - University Of Montana",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 155,
   "cross": 180276,
-  "grad_rate": 29.4,
-  "grad_rate_rank": 554,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 9675,
-  "avg_stu_loan_debt_rank": 838,
-  "indicator_group": 2
+  "grad_rate": 29.6,
+  "grad_rate_rank": 645,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 10934,
+  "avg_stu_loan_debt_rank": 777,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "59601",
+  "email": true
 }

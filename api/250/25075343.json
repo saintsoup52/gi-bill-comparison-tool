@@ -1,6 +1,6 @@
 {
   "facility_code": "25075343",
-  "institution": "TREND BARBER COLLEGE HOUSTON",
+  "institution": "Trend Barber College Houston",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 443298,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 1917,
-  "default_rate": 60.5,
+  "grad_rate": 63.5,
+  "grad_rate_rank": 1494,
+  "default_rate": 43.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77071",
+  "email": false
 }

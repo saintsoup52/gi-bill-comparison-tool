@@ -1,6 +1,6 @@
 {
   "facility_code": "25006933",
-  "institution": "BODY THERAPY INSTITUTE",
+  "institution": "Body Therapy Institute",
   "city": "Siler City",
   "state": "NC",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 460950,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": null,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 6861,
-  "avg_stu_loan_debt_rank": 1111,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 611,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "27344",
+  "email": true
 }

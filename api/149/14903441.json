@@ -1,6 +1,6 @@
 {
   "facility_code": "14903441",
-  "institution": "MITCHELL TECHNICAL INSTITUTE",
+  "institution": "Mitchell Technical Institute",
   "city": "Mitchell",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 96,
   "cross": 219189,
-  "grad_rate": 65.3,
-  "grad_rate_rank": 95,
-  "default_rate": 11.3,
+  "grad_rate": 63.6,
+  "grad_rate_rank": 141,
+  "default_rate": 13.3,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 967,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 846,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "57301",
+  "email": true
 }

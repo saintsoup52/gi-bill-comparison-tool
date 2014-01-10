@@ -1,6 +1,6 @@
 {
   "facility_code": "21025440",
-  "institution": "SOUTH UNIVERSITY",
+  "institution": "South University",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 365,
   "cross": 251312,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 9098,
-  "avg_stu_loan_debt_rank": 192,
-  "indicator_group": 1
+  "grad_rate": 10.5,
+  "grad_rate_rank": 1824,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 6463,
+  "avg_stu_loan_debt_rank": 58,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29203",
+  "email": true
 }

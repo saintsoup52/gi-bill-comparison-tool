@@ -1,6 +1,6 @@
 {
   "facility_code": "12070443",
-  "institution": "UNIV OF TX HLTH SCI CNTR SAN ANTONIO ORTHOPAEDIC SPORTS MEDICINE FELLOWSHIP",
+  "institution": "Univ Of Tx Hlth Sci Cntr San Antonio Orthopaedic Sports Medicine Fellowship",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78229",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10371346",
-  "institution": "US DEPT OF ARMY FACILITIES ENGINEER APPRENT PROGRAM",
+  "institution": "Us Dept Of Army Facilities Engineer Apprent Program",
   "city": "Ft Belvoir",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20062",
+  "email": "No (SCO)"
 }

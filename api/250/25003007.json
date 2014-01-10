@@ -1,6 +1,6 @@
 {
   "facility_code": "25003007",
-  "institution": "RIDLEY-LOWELL DANBURY CAMPUS",
+  "institution": "Ridley-Lowell Danbury Campus",
   "city": "Danbury",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 460695,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 9463,
+  "avg_stu_loan_debt_rank": 1056,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6810",
+  "email": true
 }

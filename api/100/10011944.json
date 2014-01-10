@@ -1,6 +1,6 @@
 {
   "facility_code": "10011944",
-  "institution": "FAA - SALT LAKE CITY ATCT",
+  "institution": "Faa - Salt Lake City Atct",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84116",
+  "email": true
 }

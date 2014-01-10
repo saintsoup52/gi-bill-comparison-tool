@@ -1,6 +1,6 @@
 {
   "facility_code": "14918447",
-  "institution": "YAKIMA VALLEY COMMUNITY COLLEGE",
+  "institution": "Yakima Valley Community College",
   "city": "Yakima",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 195,
   "cross": 237109,
-  "grad_rate": 22.7,
-  "grad_rate_rank": 774,
-  "default_rate": 20.3,
-  "avg_stu_loan_debt": 8496,
-  "avg_stu_loan_debt_rank": 682,
-  "indicator_group": 2
+  "grad_rate": 21.6,
+  "grad_rate_rank": 892,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 7441,
+  "avg_stu_loan_debt_rank": 494,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98907",
+  "email": true
 }

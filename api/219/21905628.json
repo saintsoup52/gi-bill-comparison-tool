@@ -1,6 +1,6 @@
 {
   "facility_code": "21905628",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN & TECHNOLOGY",
+  "institution": "International Academy Of Design & Technology",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 446792,
-  "grad_rate": 11.9,
-  "grad_rate_rank": 1766,
-  "default_rate": 26.9,
-  "avg_stu_loan_debt": 14826,
-  "avg_stu_loan_debt_rank": 706,
-  "indicator_group": 1
+  "grad_rate": 36.4,
+  "grad_rate_rank": 1355,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89074",
+  "email": false
 }

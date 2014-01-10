@@ -1,6 +1,6 @@
 {
   "facility_code": "11008643",
-  "institution": "UNIVERSITY OF TEXAS PAN AMERICAN",
+  "institution": "University Of Texas Pan American",
   "city": "Edinburg",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 485,
   "cross": 227368,
-  "grad_rate": 41.9,
-  "grad_rate_rank": 1158,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 10864,
-  "avg_stu_loan_debt_rank": 293,
-  "indicator_group": 1
+  "grad_rate": 39.4,
+  "grad_rate_rank": 1269,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 9722,
+  "avg_stu_loan_debt_rank": 154,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78539",
+  "email": false
 }

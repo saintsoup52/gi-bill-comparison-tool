@@ -1,6 +1,6 @@
 {
   "facility_code": "21833010",
-  "institution": "FLORIDA CAREER COLLEGE - MIAMI",
+  "institution": "Florida Career College - Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 29,
   "cross": 133997,
   "grad_rate": 54.3,
-  "grad_rate_rank": 179,
-  "default_rate": 16.8,
+  "grad_rate_rank": 357,
+  "default_rate": 20.1,
   "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 684,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 569,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33174",
+  "email": true
 }

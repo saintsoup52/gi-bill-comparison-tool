@@ -1,6 +1,6 @@
 {
   "facility_code": "15532935",
-  "institution": "WAYNE COUNTY SCHOOLS CAREER CENTER",
+  "institution": "Wayne County Schools Career Center",
   "city": "Smithville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 433138,
-  "grad_rate": 81.1,
-  "grad_rate_rank": 593,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 6627,
-  "avg_stu_loan_debt_rank": 1086,
-  "indicator_group": 5
+  "grad_rate": 85.6,
+  "grad_rate_rank": 427,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 5000,
+  "avg_stu_loan_debt_rank": 238,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44677",
+  "email": true
 }

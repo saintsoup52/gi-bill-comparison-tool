@@ -1,6 +1,6 @@
 {
   "facility_code": "11901101",
-  "institution": "ALABAMA A&M UNIVERSITY",
+  "institution": "Alabama A&M University",
   "city": "Normal",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 254,
   "cross": 100654,
-  "grad_rate": 31.7,
-  "grad_rate_rank": 1454,
-  "default_rate": 14.3,
-  "avg_stu_loan_debt": 20500,
-  "avg_stu_loan_debt_rank": 1475,
-  "indicator_group": 1
+  "grad_rate": 32.2,
+  "grad_rate_rank": 1470,
+  "default_rate": 16.5,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35762",
+  "email": true
 }

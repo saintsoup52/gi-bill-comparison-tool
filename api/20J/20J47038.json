@@ -1,6 +1,6 @@
 {
   "facility_code": "20J47038",
-  "institution": "R R DONNELLEY & SONS CO (HARRRISBURG PK)",
+  "institution": "R R Donnelley & Sons Co (Harrrisburg Pk)",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17601",
+  "email": false
 }

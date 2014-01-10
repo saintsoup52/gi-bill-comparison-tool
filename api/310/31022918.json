@@ -1,6 +1,6 @@
 {
   "facility_code": "31022918",
-  "institution": "UNITED THEOLOGICAL SEMINARY - MONROE(CH 31)",
+  "institution": "United Theological Seminary - Monroe(Ch 31)",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 206288,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "71201",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11100520",
-  "institution": "ST MARY'S COLLEGE OF MARYLAND",
+  "institution": "St Mary'S College Of Maryland",
   "city": "St Mary'S City",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 163912,
-  "grad_rate": 78.9,
-  "grad_rate_rank": 172,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 23008,
-  "avg_stu_loan_debt_rank": 1793,
-  "indicator_group": 1
+  "grad_rate": 80.6,
+  "grad_rate_rank": 150,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 25644,
+  "avg_stu_loan_debt_rank": 1818,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20686",
+  "email": true
 }

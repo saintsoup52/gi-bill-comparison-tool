@@ -1,6 +1,6 @@
 {
   "facility_code": "31909132",
-  "institution": "MARIST COLLEGE",
+  "institution": "Marist College",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 104,
   "cross": 192819,
   "grad_rate": 80.3,
-  "grad_rate_rank": 151,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 24653,
-  "avg_stu_loan_debt_rank": 1899,
-  "indicator_group": 1
+  "grad_rate_rank": 155,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 25250,
+  "avg_stu_loan_debt_rank": 1793,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12601",
+  "email": true
 }

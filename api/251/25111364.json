@@ -1,6 +1,6 @@
 {
   "facility_code": "25111364",
-  "institution": "HAWAII MEDICAL INSTITUTE D/B/A HAWAII MEDICAL COLLEGE",
+  "institution": "Hawaii Medical Institute D/B/A Hawaii Medical College",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 460756,
-  "grad_rate": 70.7,
-  "grad_rate_rank": 1148,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 6999,
+  "avg_stu_loan_debt_rank": 629,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "96814",
+  "email": false
 }

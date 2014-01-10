@@ -1,6 +1,6 @@
 {
   "facility_code": "25004244",
-  "institution": "PAUL MITCHELL -THE SCHOOL - SALT LAKE CITY",
+  "institution": "Paul Mitchell -The School - Salt Lake City",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 230214,
-  "grad_rate": 69.3,
-  "grad_rate_rank": 1201,
-  "default_rate": 12.6,
+  "grad_rate": 71.6,
+  "grad_rate_rank": 1094,
+  "default_rate": 16.6,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84117",
+  "email": true
 }

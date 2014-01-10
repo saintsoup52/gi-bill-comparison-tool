@@ -1,6 +1,6 @@
 {
   "facility_code": "10526930",
-  "institution": "RED BANK POLICE DEPARTMENT",
+  "institution": "Red Bank Police Department",
   "city": "Red Ba Nk",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7701",
+  "email": true
 }

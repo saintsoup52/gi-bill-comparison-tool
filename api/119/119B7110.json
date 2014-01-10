@@ -1,6 +1,6 @@
 {
   "facility_code": "119B7110",
-  "institution": "SANTA FE COLLEGE",
+  "institution": "Santa Fe College",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 898,
   "cross": 137096,
-  "grad_rate": 42.8,
-  "grad_rate_rank": 294,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 8405,
-  "avg_stu_loan_debt_rank": 676,
-  "indicator_group": 2
+  "grad_rate": 46.5,
+  "grad_rate_rank": 315,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 567,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32606",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20543723",
-  "institution": "BURLINGTON NORTHERN & SANTA FE - NORTH TOWN",
+  "institution": "Burlington Northern & Santa Fe - North Town",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55421",
+  "email": false
 }

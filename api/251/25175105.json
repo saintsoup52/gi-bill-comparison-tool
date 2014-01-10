@@ -1,6 +1,6 @@
 {
   "facility_code": "25175105",
-  "institution": "SUCCESS IN READING AND MATH (CH31 ONLY)",
+  "institution": "Success In Reading And Math (Ch31 Only)",
   "city": "Visalia",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93277",
+  "email": false
 }

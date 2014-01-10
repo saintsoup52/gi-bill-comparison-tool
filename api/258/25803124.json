@@ -1,6 +1,6 @@
 {
   "facility_code": "25803124",
-  "institution": "THE ACADEMY OF HAIR DESIGN #4 - PEARL",
+  "institution": "The Academy Of Hair Design #4 - Pearl",
   "city": "Pearl",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 382461,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 301,
+  "grad_rate": 63.0,
+  "grad_rate_rank": 1514,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 2400,
+  "avg_stu_loan_debt_rank": 21,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "39208",
+  "email": false
 }

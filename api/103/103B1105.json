@@ -1,6 +1,6 @@
 {
   "facility_code": "103B1105",
-  "institution": "CARSLBAD POLICE DEPARTMENT",
+  "institution": "Carslbad Police Department",
   "city": "Carlsbad",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92010",
+  "email": false
 }

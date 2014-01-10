@@ -1,6 +1,6 @@
 {
   "facility_code": "10B70122",
-  "institution": "VA MEDICAL CENTER VETERANS READJUSTMENT COUNSELING CTR",
+  "institution": "Va Medical Center Veterans Readjustment Counseling Ctr",
   "city": "Oak Park",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48237",
+  "email": "No (SCO)"
 }

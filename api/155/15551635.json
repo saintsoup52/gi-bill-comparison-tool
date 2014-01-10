@@ -1,6 +1,6 @@
 {
   "facility_code": "15551635",
-  "institution": "TRI-RIVERS CAREER CENTER",
+  "institution": "Tri-Rivers Career Center",
   "city": "Marion",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 206181,
-  "grad_rate": 78.0,
-  "grad_rate_rank": 753,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 9136,
+  "avg_stu_loan_debt_rank": 1018,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43302",
+  "email": true
 }

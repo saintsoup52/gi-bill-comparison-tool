@@ -1,6 +1,6 @@
 {
   "facility_code": "28014450",
-  "institution": "WYOMING COMPUTER LEARNING CTR",
+  "institution": "Wyoming Computer Learning Ctr",
   "city": "Casper",
   "state": "WY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "82604",
+  "email": false
 }

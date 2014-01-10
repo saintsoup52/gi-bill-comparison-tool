@@ -1,6 +1,6 @@
 {
   "facility_code": "30986310",
-  "institution": "SOUTH FLORIDA LABORERS JATC",
+  "institution": "South Florida Laborers Jatc",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33150",
+  "email": false
 }

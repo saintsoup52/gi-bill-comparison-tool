@@ -1,6 +1,6 @@
 {
   "facility_code": "21008542",
-  "institution": "ITT TECHNICAL INSTITUTE - CORDOVA",
+  "institution": "Itt Technical Institute - Cordova",
   "city": "Cordova",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 216,
   "cross": 413884,
-  "grad_rate": 20.9,
-  "grad_rate_rank": 832,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 27.9,
+  "grad_rate_rank": 694,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "38016",
+  "email": false
 }

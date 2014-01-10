@@ -1,6 +1,6 @@
 {
   "facility_code": "20512314",
-  "institution": "PLASTERERS AND CEMENT MASONS LOCAL 692",
+  "institution": "Plasterers And Cement Masons Local 692",
   "city": "Dunkirk",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47336",
+  "email": false
 }

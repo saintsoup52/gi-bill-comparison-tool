@@ -1,6 +1,6 @@
 {
   "facility_code": "149B4432",
-  "institution": "NORTH COUNTRY COMMUNITY COLLEGE",
+  "institution": "North Country Community College",
   "city": "Saranac Lake",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 56,
   "cross": 194028,
-  "grad_rate": 23.4,
-  "grad_rate_rank": 742,
-  "default_rate": 21.9,
-  "avg_stu_loan_debt": 8946,
-  "avg_stu_loan_debt_rank": 718,
-  "indicator_group": 2
+  "grad_rate": 21.4,
+  "grad_rate_rank": 900,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 8553,
+  "avg_stu_loan_debt_rank": 585,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12983",
+  "email": true
 }

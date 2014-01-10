@@ -1,6 +1,6 @@
 {
   "facility_code": "319F7243",
-  "institution": "CRISWELL COLLEGE",
+  "institution": "Criswell College",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 475608,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 15.4,
+  "grad_rate_rank": 1773,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75246",
+  "email": true
 }

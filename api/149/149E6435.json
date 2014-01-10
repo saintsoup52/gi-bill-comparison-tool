@@ -1,6 +1,6 @@
 {
   "facility_code": "149E6435",
-  "institution": "OWENS COMMUNITY COLLEGE",
+  "institution": "Owens Community College",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 418,
   "cross": 204945,
-  "grad_rate": 7.0,
-  "grad_rate_rank": 1270,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 8743,
-  "avg_stu_loan_debt_rank": 700,
-  "indicator_group": 2
+  "grad_rate": 5.5,
+  "grad_rate_rank": 1366,
+  "default_rate": 28.4,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 621,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43699",
+  "email": true
 }

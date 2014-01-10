@@ -1,6 +1,6 @@
 {
   "facility_code": "11804042",
-  "institution": "EAST TENNESSEE STATE UNIVERSITY",
+  "institution": "East Tennessee State University",
   "city": "Johnson City",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 614,
   "cross": 220075,
-  "grad_rate": 44.4,
-  "grad_rate_rank": 1081,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 14462,
-  "avg_stu_loan_debt_rank": 672,
-  "indicator_group": 1
+  "grad_rate": 40.7,
+  "grad_rate_rank": 1222,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 484,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37614",
+  "email": true
 }

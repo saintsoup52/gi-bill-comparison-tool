@@ -1,6 +1,6 @@
 {
   "facility_code": "11805047",
-  "institution": "UNIVERSITY OF WASHINGTON",
+  "institution": "University Of Washington",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1053,
   "cross": 236948,
-  "grad_rate": 79.6,
-  "grad_rate_rank": 164,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 15458,
-  "avg_stu_loan_debt_rank": 773,
-  "indicator_group": 1
+  "grad_rate": 80.8,
+  "grad_rate_rank": 146,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 15950,
+  "avg_stu_loan_debt_rank": 619,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98195",
+  "email": true
 }

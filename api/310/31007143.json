@@ -1,6 +1,6 @@
 {
   "facility_code": "31007143",
-  "institution": "UNIVERSITY OF MARY HARDIN BAYLOR",
+  "institution": "University Of Mary Hardin Baylor",
   "city": "Belton",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 419,
   "cross": 226471,
-  "grad_rate": 45.9,
+  "grad_rate": 46.3,
   "grad_rate_rank": 1026,
-  "default_rate": 8.8,
+  "default_rate": 10.2,
   "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76513",
+  "email": true
 }

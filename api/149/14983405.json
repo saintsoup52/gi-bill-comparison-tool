@@ -1,6 +1,6 @@
 {
   "facility_code": "14983405",
-  "institution": "IMPERIAL VALLEY COLLEGE",
+  "institution": "Imperial Valley College",
   "city": "Imperial",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 140,
   "cross": 115861,
-  "grad_rate": 28.1,
-  "grad_rate_rank": 596,
+  "grad_rate": 18.3,
+  "grad_rate_rank": 991,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92251",
+  "email": false
 }

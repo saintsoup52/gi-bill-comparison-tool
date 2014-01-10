@@ -1,6 +1,6 @@
 {
   "facility_code": "31000622",
-  "institution": "ADRIAN COLLEGE",
+  "institution": "Adrian College",
   "city": "Adrian",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 168528,
-  "grad_rate": 49.4,
-  "grad_rate_rank": 913,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 59.1,
+  "grad_rate_rank": 589,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49221",
+  "email": true
 }

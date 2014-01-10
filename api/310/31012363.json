@@ -1,18 +1,21 @@
 {
   "facility_code": "31012363",
-  "institution": "CARIBBEAN UNIVERSITY",
+  "institution": "Caribbean University",
   "city": "Bayamon",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": true,
   "yr": null,
   "gibill": 178,
   "cross": 241377,
-  "grad_rate": 22.1,
-  "grad_rate_rank": 1639,
+  "grad_rate": 26.8,
+  "grad_rate_rank": 1601,
   "default_rate": 29.9,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 115,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 29,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "960",
+  "email": true
 }

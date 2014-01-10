@@ -1,6 +1,6 @@
 {
   "facility_code": "21817310",
-  "institution": "EVEREST UNIVERSITY - ORANGE PARK",
+  "institution": "Everest University - Orange Park",
   "city": "Orange Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 223,
   "cross": 445434,
-  "grad_rate": 38.3,
-  "grad_rate_rank": 267,
-  "default_rate": 28.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 38.8,
+  "grad_rate_rank": 464,
+  "default_rate": 23.2,
+  "avg_stu_loan_debt": 11570,
+  "avg_stu_loan_debt_rank": 577,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "32073",
+  "email": true
 }

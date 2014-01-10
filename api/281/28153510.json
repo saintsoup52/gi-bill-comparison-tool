@@ -1,6 +1,6 @@
 {
   "facility_code": "28153510",
-  "institution": "INTERNATIONAL ACADEMY OF HAIR DESIGN",
+  "institution": "International Academy Of Hair Design",
   "city": "South Daytona",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 134714,
-  "grad_rate": 64.0,
-  "grad_rate_rank": 1434,
-  "default_rate": 22.5,
-  "avg_stu_loan_debt": 7667,
-  "avg_stu_loan_debt_rank": 1283,
-  "indicator_group": 5
+  "grad_rate": 67.5,
+  "grad_rate_rank": 1307,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 8242,
+  "avg_stu_loan_debt_rank": 861,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32119",
+  "email": true
 }

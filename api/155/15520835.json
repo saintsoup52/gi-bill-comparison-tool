@@ -1,6 +1,6 @@
 {
   "facility_code": "15520835",
-  "institution": "CUYAHOGA VALLEY CAREER CENTER",
+  "institution": "Cuyahoga Valley Career Center",
   "city": "Brecksville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 204981,
-  "grad_rate": 72.2,
-  "grad_rate_rank": 1064,
-  "default_rate": 9.2,
-  "avg_stu_loan_debt": 5942,
-  "avg_stu_loan_debt_rank": 952,
-  "indicator_group": 5
+  "grad_rate": 55.2,
+  "grad_rate_rank": 1796,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 9041,
+  "avg_stu_loan_debt_rank": 1001,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44141",
+  "email": true
 }

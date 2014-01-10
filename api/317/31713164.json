@@ -1,6 +1,6 @@
 {
   "facility_code": "31713164",
-  "institution": "WAYLAND BAPTIST UNIVERSITY AIEA",
+  "institution": "Wayland Baptist University Aiea",
   "city": "Mililania",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 254,
   "cross": 229780,
-  "grad_rate": 37.4,
-  "grad_rate_rank": 1314,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 13891,
-  "avg_stu_loan_debt_rank": 623,
-  "indicator_group": 1
+  "grad_rate": 36.0,
+  "grad_rate_rank": 1367,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "96789",
+  "email": true
 }

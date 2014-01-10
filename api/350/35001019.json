@@ -1,6 +1,6 @@
 {
   "facility_code": "35001019",
-  "institution": "INTERCOAST CAREER INSTITUTE",
+  "institution": "Intercoast Career Institute",
   "city": "South Portland",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 450678,
-  "grad_rate": 72.5,
-  "grad_rate_rank": 1045,
-  "default_rate": 32.1,
-  "avg_stu_loan_debt": 12124,
-  "avg_stu_loan_debt_rank": 2352,
-  "indicator_group": 5
+  "grad_rate": 89.2,
+  "grad_rate_rank": 300,
+  "default_rate": 18.8,
+  "avg_stu_loan_debt": 12125,
+  "avg_stu_loan_debt_rank": 1786,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "4106",
+  "email": true
 }

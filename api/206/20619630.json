@@ -1,6 +1,6 @@
 {
   "facility_code": "20619630",
-  "institution": "PRINCETON UNIVERSITY DEPARTMENT OF PUBLIC SAFETY",
+  "institution": "Princeton University Department Of Public Safety",
   "city": "Princeton",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8544",
+  "email": true
 }

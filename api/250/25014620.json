@@ -1,6 +1,6 @@
 {
   "facility_code": "25014620",
-  "institution": "FORTIS INSTITUTE-TOWSON",
+  "institution": "Fortis Institute-Towson",
   "city": "Towson",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 163347,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 1655,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 8455,
-  "avg_stu_loan_debt_rank": 1463,
-  "indicator_group": 5
+  "grad_rate": 59.0,
+  "grad_rate_rank": 1669,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 9359,
+  "avg_stu_loan_debt_rank": 1043,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21204",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31005343",
-  "institution": "HUSTON TILLOTSON UNIVERSITY",
+  "institution": "Huston Tillotson University",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 225575,
-  "grad_rate": 19.6,
-  "grad_rate_rank": 1675,
-  "default_rate": 30.3,
-  "avg_stu_loan_debt": 14331,
-  "avg_stu_loan_debt_rank": 664,
-  "indicator_group": 1
+  "grad_rate": 24.7,
+  "grad_rate_rank": 1645,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 15765,
+  "avg_stu_loan_debt_rank": 607,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78702",
+  "email": false
 }

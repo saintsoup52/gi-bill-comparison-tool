@@ -1,6 +1,6 @@
 {
   "facility_code": "15010304",
-  "institution": "NORTHWEST TECHNICAL INSTITUTE",
+  "institution": "Northwest Technical Institute",
   "city": "Springdale",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 107488,
-  "grad_rate": 64.9,
-  "grad_rate_rank": 1395,
+  "grad_rate": 47.5,
+  "grad_rate_rank": 1987,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72764",
+  "email": false
 }

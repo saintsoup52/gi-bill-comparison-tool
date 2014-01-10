@@ -1,6 +1,6 @@
 {
   "facility_code": "10202316",
-  "institution": "KANSAS HIGHWAY PATROL TROOP E",
+  "institution": "Kansas Highway Patrol Troop E",
   "city": "Garden City",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67846",
+  "email": true
 }

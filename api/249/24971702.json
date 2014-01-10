@@ -1,6 +1,6 @@
 {
   "facility_code": "24971702",
-  "institution": "ALASKA CAREER COLLEGE",
+  "institution": "Alaska Career College",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 103501,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 6775,
-  "avg_stu_loan_debt_rank": 275,
-  "indicator_group": 3
+  "grad_rate": 73.0,
+  "grad_rate_rank": 139,
+  "default_rate": 20.7,
+  "avg_stu_loan_debt": 9104,
+  "avg_stu_loan_debt_rank": 311,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "99507",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000207",
-  "institution": "CONNECTICUT COLLEGE",
+  "institution": "Connecticut College",
   "city": "New London",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 128902,
-  "grad_rate": 83.5,
-  "grad_rate_rank": 111,
-  "default_rate": 2.4,
-  "avg_stu_loan_debt": 22219,
-  "avg_stu_loan_debt_rank": 1675,
-  "indicator_group": 1
+  "grad_rate": 85.1,
+  "grad_rate_rank": 99,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 22110,
+  "avg_stu_loan_debt_rank": 1433,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "6320",
+  "email": true
 }

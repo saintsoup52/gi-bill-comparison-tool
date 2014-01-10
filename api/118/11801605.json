@@ -1,6 +1,6 @@
 {
   "facility_code": "11801605",
-  "institution": "UNIVERSITY OF CALIFORNIA - BERKELEY",
+  "institution": "University Of California - Berkeley",
   "city": "Berkeley",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 343,
   "cross": 110635,
-  "grad_rate": 90.5,
-  "grad_rate_rank": 58,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 17249,
-  "avg_stu_loan_debt_rank": 976,
-  "indicator_group": 1
+  "grad_rate": 90.7,
+  "grad_rate_rank": 51,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 16028,
+  "avg_stu_loan_debt_rank": 634,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94720",
+  "email": false
 }

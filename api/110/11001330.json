@@ -1,6 +1,6 @@
 {
   "facility_code": "11001330",
-  "institution": "WILLIAM PATERSON UNIVERSITY",
+  "institution": "William Paterson University",
   "city": "Wayne",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 155,
   "cross": 187444,
-  "grad_rate": 46.2,
-  "grad_rate_rank": 1018,
+  "grad_rate": 47.5,
+  "grad_rate_rank": 985,
   "default_rate": 9.6,
-  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt": 18750,
   "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7470",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21901134",
-  "institution": "RASMUSSEN COLLEGE - FARGO",
+  "institution": "Rasmussen College - Fargo",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 200013,
-  "grad_rate": 41.7,
-  "grad_rate_rank": 306,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 33.9,
+  "grad_rate_rank": 528,
+  "default_rate": 18.6,
+  "avg_stu_loan_debt": 12609,
+  "avg_stu_loan_debt_rank": 896,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "58103",
+  "email": true
 }

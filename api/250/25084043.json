@@ -1,6 +1,6 @@
 {
   "facility_code": "25084043",
-  "institution": "DIGITAL WORKFORCE ACADEMY",
+  "institution": "Digital Workforce Academy",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78702",
+  "email": false
 }

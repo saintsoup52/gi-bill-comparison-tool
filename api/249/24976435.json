@@ -1,6 +1,6 @@
 {
   "facility_code": "24976435",
-  "institution": "BRADFORD SCHOOL",
+  "institution": "Bradford School",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 27,
   "cross": 202161,
-  "grad_rate": 74.4,
-  "grad_rate_rank": 55,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "grad_rate": 70.2,
+  "grad_rate_rank": 91,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 20630,
+  "avg_stu_loan_debt_rank": 1229,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43219",
+  "email": true
 }

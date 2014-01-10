@@ -1,6 +1,6 @@
 {
   "facility_code": "28003448",
-  "institution": "INTERNATIONAL BEAUTY SCHOOL",
+  "institution": "International Beauty School",
   "city": "Martinsburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 238005,
-  "grad_rate": 72.4,
-  "grad_rate_rank": 1052,
-  "default_rate": 13.6,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 5
+  "grad_rate": 74.0,
+  "grad_rate_rank": 977,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "158A0032",
-  "institution": "CUNY ON THE CONCOURSE",
+  "institution": "Cuny On The Concourse",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10468",
+  "email": false
 }

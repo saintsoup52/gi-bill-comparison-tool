@@ -1,6 +1,6 @@
 {
   "facility_code": "18006936",
-  "institution": "AUTRY TECHNOLOGY CTR",
+  "institution": "Autry Technology Ctr",
   "city": "Enid",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 365213,
-  "grad_rate": 45.8,
-  "grad_rate_rank": 1995,
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73703",
+  "email": true
 }

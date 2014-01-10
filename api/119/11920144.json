@@ -1,6 +1,6 @@
 {
   "facility_code": "11920144",
-  "institution": "UNIVERSITY OF UTAH",
+  "institution": "University Of Utah",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 877,
   "cross": 230764,
-  "grad_rate": 55.3,
-  "grad_rate_rank": 699,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 12075,
-  "avg_stu_loan_debt_rank": 466,
-  "indicator_group": 1
+  "grad_rate": 58.7,
+  "grad_rate_rank": 605,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84112",
+  "email": true
 }

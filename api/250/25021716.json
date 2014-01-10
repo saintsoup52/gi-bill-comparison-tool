@@ -1,6 +1,6 @@
 {
   "facility_code": "25021716",
-  "institution": "PAUL MITCHELL THE SCHOOL-WICHITA",
+  "institution": "Paul Mitchell The School-Wichita",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 408066,
-  "grad_rate": 62.9,
-  "grad_rate_rank": 1478,
-  "default_rate": 35.7,
-  "avg_stu_loan_debt": 7759,
-  "avg_stu_loan_debt_rank": 1301,
-  "indicator_group": 5
+  "grad_rate": 67.9,
+  "grad_rate_rank": 1279,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "67226",
+  "email": true
 }

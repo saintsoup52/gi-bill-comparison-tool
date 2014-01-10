@@ -1,6 +1,6 @@
 {
   "facility_code": "32000208",
-  "institution": "BEEBE SCHOOL OF NURSING",
+  "institution": "Beebe School Of Nursing",
   "city": "Lewes",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 130837,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19958",
+  "email": false
 }

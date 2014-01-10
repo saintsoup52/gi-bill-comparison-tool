@@ -1,6 +1,6 @@
 {
   "facility_code": "31000150",
-  "institution": "WYOMING CATHOLIC COLLEGE",
+  "institution": "Wyoming Catholic College",
   "city": "Lander",
   "state": "WY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "82520",
+  "email": true
 }

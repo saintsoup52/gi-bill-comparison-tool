@@ -1,6 +1,6 @@
 {
   "facility_code": "10109226",
-  "institution": "DEPT OF PUBLIC HEALTH/HUMAN SVCS-CHILD WELFARE",
+  "institution": "Dept Of Public Health/Human Svcs-Child Welfare",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59405",
+  "email": "No (SCO)"
 }

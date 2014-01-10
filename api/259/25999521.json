@@ -1,6 +1,6 @@
 {
   "facility_code": "25999521",
-  "institution": "SALTER SCHOOLS FALL RIVER & NEW BEDFORD",
+  "institution": "Salter Schools Fall River & New Bedford",
   "city": "Fall River",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447494,
-  "grad_rate": 61.8,
-  "grad_rate_rank": 1524,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 8104,
-  "avg_stu_loan_debt_rank": 1402,
-  "indicator_group": 5
+  "grad_rate": 58.0,
+  "grad_rate_rank": 1708,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 7184,
+  "avg_stu_loan_debt_rank": 656,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2721",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002138",
-  "institution": "FRANKLIN AND MARSHALL COLLEGE",
+  "institution": "Franklin And Marshall College",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 212577,
-  "grad_rate": 84.5,
-  "grad_rate_rank": 104,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 83.4,
+  "grad_rate_rank": 114,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 26533,
+  "avg_stu_loan_debt_rank": 1858,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17604",
+  "email": true
 }

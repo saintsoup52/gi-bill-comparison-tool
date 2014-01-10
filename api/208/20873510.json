@@ -1,6 +1,6 @@
 {
   "facility_code": "20873510",
-  "institution": "MOSS ENTERPRISES",
+  "institution": "Moss Enterprises",
   "city": "Estero",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33928",
+  "email": "No (SCO)"
 }

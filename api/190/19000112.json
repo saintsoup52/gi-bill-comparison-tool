@@ -1,6 +1,6 @@
 {
   "facility_code": "19000112",
-  "institution": "IDAHO SMALL BUSINESS DEVELOPMENT CTR (CH 31)",
+  "institution": "Idaho Small Business Development Ctr (Ch 31)",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83725",
+  "email": false
 }

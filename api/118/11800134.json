@@ -1,6 +1,6 @@
 {
   "facility_code": "11800134",
-  "institution": "DAKOTA COLLEGE AT BOTTINEAU",
+  "institution": "Dakota College At Bottineau",
   "city": "Bottineau",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 200314,
-  "grad_rate": 37.3,
-  "grad_rate_rank": 381,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 7711,
-  "avg_stu_loan_debt_rank": 625,
-  "indicator_group": 2
+  "grad_rate": 36.4,
+  "grad_rate_rank": 474,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 8070,
+  "avg_stu_loan_debt_rank": 555,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "58318",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28557732",
-  "institution": "THE AILEY SCHOOL",
+  "institution": "The Ailey School",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 188669,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 1815,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 2442,
-  "indicator_group": 5
+  "grad_rate": 55.6,
+  "grad_rate_rank": 1786,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 19403,
+  "avg_stu_loan_debt_rank": 1987,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10019",
+  "email": false
 }

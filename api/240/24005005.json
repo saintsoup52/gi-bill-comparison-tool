@@ -1,6 +1,6 @@
 {
   "facility_code": "24005005",
-  "institution": "CARRINGTON COLLEGE CALIFORNIA (POMONA)",
+  "institution": "Carrington College California (Pomona)",
   "city": "Pomona",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 467368,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 27.2,
+  "avg_stu_loan_debt": 12125,
+  "avg_stu_loan_debt_rank": 584,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "91768",
+  "email": true
 }

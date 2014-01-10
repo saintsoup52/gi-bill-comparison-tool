@@ -1,6 +1,6 @@
 {
   "facility_code": "31917121",
-  "institution": "MONTSERRAT COLLEGE OF ART",
+  "institution": "Montserrat College Of Art",
   "city": "Beverly",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 166911,
-  "grad_rate": 49.4,
-  "grad_rate_rank": 913,
-  "default_rate": 9.1,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 53.8,
+  "grad_rate_rank": 779,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1915",
+  "email": false
 }

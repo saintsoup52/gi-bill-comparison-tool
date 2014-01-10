@@ -1,6 +1,6 @@
 {
   "facility_code": "10618640",
-  "institution": "CLEMSON UNIVERSITY POLICE DEPARTMENT",
+  "institution": "Clemson University Police Department",
   "city": "Clemson",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29634",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25045043",
-  "institution": "ARLINGTON CAREER INSTITUTE",
+  "institution": "Arlington Career Institute",
   "city": "Grand Prairie",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 222886,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 526,
-  "default_rate": 20.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 78.2,
+  "grad_rate_rank": 752,
+  "default_rate": 27.0,
+  "avg_stu_loan_debt": 8906,
+  "avg_stu_loan_debt_rank": 984,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75050",
+  "email": false
 }

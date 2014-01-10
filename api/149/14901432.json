@@ -1,6 +1,6 @@
 {
   "facility_code": "14901432",
-  "institution": "HUDSON VALLEY COMMUNITY COLLEGE",
+  "institution": "Hudson Valley Community College",
   "city": "Troy",
   "state": "NY",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 459,
   "cross": 191719,
   "grad_rate": 25.1,
-  "grad_rate_rank": 681,
-  "default_rate": 12.0,
+  "grad_rate_rank": 780,
+  "default_rate": 17.5,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12180",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28000449",
-  "institution": "ADVANCED INST OF HAIR DESIGN D/B/A VICI BEAUTY SCHOOL",
+  "institution": "Advanced Inst Of Hair Design D/B/A Vici Beauty School",
   "city": "Greenfield",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 238175,
-  "grad_rate": 75.3,
-  "grad_rate_rank": 899,
-  "default_rate": 8.5,
+  "grad_rate": 89.1,
+  "grad_rate_rank": 302,
+  "default_rate": 9.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "54228",
+  "email": false
 }

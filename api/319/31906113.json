@@ -1,6 +1,6 @@
 {
   "facility_code": "31906113",
-  "institution": "LEWIS UNIVERSITY",
+  "institution": "Lewis University",
   "city": "Romeoville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 158,
   "cross": 146612,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 500,
+  "grad_rate": 59.0,
+  "grad_rate_rank": 594,
   "default_rate": 7.3,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60446",
+  "email": true
 }

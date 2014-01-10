@@ -1,6 +1,6 @@
 {
   "facility_code": "14920431",
-  "institution": "MESALANDS COMMUNITY COLLEGE",
+  "institution": "Mesalands Community College",
   "city": "Tucumcari",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 188261,
-  "grad_rate": 32.2,
-  "grad_rate_rank": 321,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 36.7,
+  "grad_rate_rank": 480,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "88401",
+  "email": true
 }

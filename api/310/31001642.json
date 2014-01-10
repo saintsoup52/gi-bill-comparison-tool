@@ -1,6 +1,6 @@
 {
   "facility_code": "31001642",
-  "institution": "TUSCULUM COLLEGE - GREENEVILLE",
+  "institution": "Tusculum College - Greeneville",
   "city": "Greeneville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 126,
   "cross": 221953,
-  "grad_rate": 38.4,
-  "grad_rate_rank": 1292,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 20074,
-  "avg_stu_loan_debt_rank": 1439,
-  "indicator_group": 1
+  "grad_rate": 28.4,
+  "grad_rate_rank": 1573,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 21672,
+  "avg_stu_loan_debt_rank": 1395,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37743",
+  "email": true
 }

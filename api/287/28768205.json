@@ -1,6 +1,6 @@
 {
   "facility_code": "28768205",
-  "institution": "CALIFORNIA SCHOOL OF SHIATSU THERAPY",
+  "institution": "California School Of Shiatsu Therapy",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93726",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25461810",
-  "institution": "NORTH FLORIDA COSMETOLOGY INSTITUTE INC",
+  "institution": "North Florida Cosmetology Institute Inc",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 447892,
-  "grad_rate": 30.0,
-  "grad_rate_rank": 2136,
-  "default_rate": 23.5,
-  "avg_stu_loan_debt": 10492,
-  "avg_stu_loan_debt_rank": 2184,
-  "indicator_group": 5
+  "grad_rate": 67.1,
+  "grad_rate_rank": 1316,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32312",
+  "email": true
 }

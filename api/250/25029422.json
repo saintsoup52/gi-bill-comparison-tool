@@ -1,6 +1,6 @@
 {
   "facility_code": "25029422",
-  "institution": "DOUGLAS J. INSTITUTE INC.",
+  "institution": "Douglas J. Institute Inc.",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48823",
+  "email": false
 }

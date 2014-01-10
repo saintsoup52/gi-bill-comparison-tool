@@ -1,6 +1,6 @@
 {
   "facility_code": "15046636",
-  "institution": "KIAMICHI TECHNOLOGY CTR - STIGLER",
+  "institution": "Kiamichi Technology Ctr - Stigler",
   "city": "Stigler",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 405748,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 2176,
+  "grad_rate": 15.8,
+  "grad_rate_rank": 2255,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74462",
+  "email": true
 }

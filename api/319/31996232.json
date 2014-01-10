@@ -1,6 +1,6 @@
 {
   "facility_code": "31996232",
-  "institution": "NEW YORK STUDIO SCHOOL OF DRAWINGPAINTING & SCULPTURE",
+  "institution": "New York Studio School Of Drawingpainting & Sculpture",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10011",
+  "email": true
 }

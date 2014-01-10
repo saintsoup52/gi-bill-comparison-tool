@@ -1,6 +1,6 @@
 {
   "facility_code": "31002201",
-  "institution": "HERITAGE CHRISTIAN UNIVERSTIY",
+  "institution": "Heritage Christian Universtiy",
   "city": "Florence",
   "state": "AL",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 4,
   "cross": 101453,
   "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 26.0,
-  "avg_stu_loan_debt": 9375,
-  "avg_stu_loan_debt_rank": 224,
-  "indicator_group": 1
+  "grad_rate_rank": 1873,
+  "default_rate": 28.5,
+  "avg_stu_loan_debt": 8750,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35630",
+  "email": true
 }

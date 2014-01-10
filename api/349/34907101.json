@@ -1,6 +1,6 @@
 {
   "facility_code": "34907101",
-  "institution": "CONCORDIA COLLEGE ALABAMA",
+  "institution": "Concordia College Alabama",
   "city": "Selma",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 101073,
-  "grad_rate": 3.4,
-  "grad_rate_rank": 1830,
-  "default_rate": 41.6,
+  "grad_rate": 9.1,
+  "grad_rate_rank": 1316,
+  "default_rate": 33.0,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 115,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "36701",
+  "email": true
 }

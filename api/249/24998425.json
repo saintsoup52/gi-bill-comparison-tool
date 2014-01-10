@@ -1,6 +1,6 @@
 {
   "facility_code": "24998425",
-  "institution": "CONCORDE CAREER COLLEGE",
+  "institution": "Concorde Career College",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 155283,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 9493,
-  "avg_stu_loan_debt_rank": 455,
-  "indicator_group": 3
+  "grad_rate": 73.2,
+  "grad_rate_rank": 137,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "64111",
+  "email": false
 }

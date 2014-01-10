@@ -1,6 +1,6 @@
 {
   "facility_code": "25046121",
-  "institution": "JOLIE HAIR AND BEAUTY ACADEMY",
+  "institution": "Jolie Hair And Beauty Academy",
   "city": "Ludlow",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 431099,
-  "grad_rate": 54.3,
-  "grad_rate_rank": 1800,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 59.7,
+  "grad_rate_rank": 1647,
+  "default_rate": 19.4,
+  "avg_stu_loan_debt": 6861,
+  "avg_stu_loan_debt_rank": 611,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1056",
+  "email": true
 }

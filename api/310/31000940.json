@@ -1,6 +1,6 @@
 {
   "facility_code": "31000940",
-  "institution": "LIMESTONE COLLEGE",
+  "institution": "Limestone College",
   "city": "Gaffney",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 355,
   "cross": 218238,
-  "grad_rate": 38.8,
-  "grad_rate_rank": 1274,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 24250,
-  "avg_stu_loan_debt_rank": 1879,
-  "indicator_group": 1
+  "grad_rate": 42.2,
+  "grad_rate_rank": 1169,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 23750,
+  "avg_stu_loan_debt_rank": 1597,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29340",
+  "email": true
 }

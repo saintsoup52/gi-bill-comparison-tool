@@ -1,6 +1,6 @@
 {
   "facility_code": "11105205",
-  "institution": "UNIVERSITY OF OKLAHOMA COLLEGE OF LIBERAL STUDIES (SAN DIEGO)",
+  "institution": "University Of Oklahoma College Of Liberal Studies (San Diego)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 207500,
-  "grad_rate": 66.9,
-  "grad_rate_rank": 381,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 65.7,
+  "grad_rate_rank": 417,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 17281,
+  "avg_stu_loan_debt_rank": 830,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92123",
+  "email": false
 }

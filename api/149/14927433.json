@@ -1,6 +1,6 @@
 {
   "facility_code": "14927433",
-  "institution": "PAMLICO COMMUNITY COLLEGE",
+  "institution": "Pamlico Community College",
   "city": "Grantsboro",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 199263,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 53,
+  "grad_rate": 75.4,
+  "grad_rate_rank": 113,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28529",
+  "email": true
 }

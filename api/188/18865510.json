@@ -1,6 +1,6 @@
 {
   "facility_code": "18865510",
-  "institution": "FIRST COAST TECHNICAL COLLEGE",
+  "institution": "First Coast Technical College",
   "city": "St Augustine",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 50,
   "cross": 137023,
-  "grad_rate": 68.5,
-  "grad_rate_rank": 1230,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 84.0,
+  "grad_rate_rank": 473,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32084",
+  "email": true
 }

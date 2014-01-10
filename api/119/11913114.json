@@ -1,6 +1,6 @@
 {
   "facility_code": "11913114",
-  "institution": "PURDUE UNIVERSITY CALUMET CAMPUS",
+  "institution": "Purdue University Calumet Campus",
   "city": "Hammond",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 170,
   "cross": 152248,
-  "grad_rate": 27.7,
-  "grad_rate_rank": 1540,
-  "default_rate": 9.9,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "grad_rate": 27.3,
+  "grad_rate_rank": 1588,
+  "default_rate": 12.4,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46323",
+  "email": false
 }

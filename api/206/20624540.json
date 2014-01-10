@@ -1,6 +1,6 @@
 {
   "facility_code": "20624540",
-  "institution": "MUSC MEDICAL CENTER HOSPITAL AUTHORITY  (ACTIVE FOR CH 31 ONLY)",
+  "institution": "Musc Medical Center Hospital Authority  (Active For Ch 31 Only)",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29425",
+  "email": false
 }

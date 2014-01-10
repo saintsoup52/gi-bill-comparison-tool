@@ -1,6 +1,6 @@
 {
   "facility_code": "14958432",
-  "institution": "GENESEE COMMUNITY COLLEGE",
+  "institution": "Genesee Community College",
   "city": "Batavia",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 182,
   "cross": 191339,
-  "grad_rate": 26.3,
-  "grad_rate_rank": 645,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 486,
-  "indicator_group": 2
+  "grad_rate": 24.4,
+  "grad_rate_rank": 806,
+  "default_rate": 20.9,
+  "avg_stu_loan_debt": 6356,
+  "avg_stu_loan_debt_rank": 368,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14020",
+  "email": true
 }

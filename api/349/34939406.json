@@ -1,6 +1,6 @@
 {
   "facility_code": "34939406",
-  "institution": "BOULDER COLLEGE OF MASSAGE THERAPY",
+  "institution": "Boulder College Of Massage Therapy",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 126410,
-  "grad_rate": 79.3,
-  "grad_rate_rank": 36,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 779,
-  "indicator_group": 3
+  "grad_rate": 84.6,
+  "grad_rate_rank": 40,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 14544,
+  "avg_stu_loan_debt_rank": 650,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80301",
+  "email": true
 }

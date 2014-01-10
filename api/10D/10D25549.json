@@ -1,6 +1,6 @@
 {
   "facility_code": "10D25549",
-  "institution": "DEPARTMENT OF VETERANS AFFAIRS VA REGIONAL OFFICE (FEDERAL APPROVAL)",
+  "institution": "Department Of Veterans Affairs Va Regional Office (Federal Approval)",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53214",
+  "email": true
 }

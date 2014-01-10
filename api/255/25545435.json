@@ -1,6 +1,6 @@
 {
   "facility_code": "25545435",
-  "institution": "LARRY MARSHALL INDEPENDENT INSTRUCTOR  (31)",
+  "institution": "Larry Marshall Independent Instructor  (31)",
   "city": "Zanesville",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43701",
+  "email": "No (SCO)"
 }

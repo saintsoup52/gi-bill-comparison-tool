@@ -1,6 +1,6 @@
 {
   "facility_code": "10996010",
-  "institution": "SANTA ROSA COUNTY CORRECTIONAL FACILITY-CH 31 ONLY",
+  "institution": "Santa Rosa County Correctional Facility-Ch 31 Only",
   "city": "Milton",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32583",
+  "email": false
 }

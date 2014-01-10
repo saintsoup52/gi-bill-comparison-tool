@@ -1,6 +1,6 @@
 {
   "facility_code": "31506505",
-  "institution": "WESTMONT COLLEGE",
+  "institution": "Westmont College",
   "city": "Santa Barbara",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 125727,
-  "grad_rate": 77.1,
-  "grad_rate_rank": 192,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 79.1,
+  "grad_rate_rank": 172,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 22700,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93108",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28017744",
-  "institution": "PC TRAINING WEST (CH 31)",
+  "institution": "Pc Training West (Ch 31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84106",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10022111",
-  "institution": "DEPARTMENT OF JUVENILE JUSTICE-BLAKELY PROBATION OFFICE",
+  "institution": "Department Of Juvenile Justice-Blakely Probation Office",
   "city": "Blakely",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39823",
+  "email": false
 }

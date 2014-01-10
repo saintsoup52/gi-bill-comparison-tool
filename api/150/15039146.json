@@ -1,6 +1,6 @@
 {
   "facility_code": "15039146",
-  "institution": "FEDERAL EXECUTIVE INSTITUTE (OPM/FEI)",
+  "institution": "Federal Executive Institute (Opm/Fei)",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "22903",
+  "email": true
 }

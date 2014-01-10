@@ -1,6 +1,6 @@
 {
   "facility_code": "18002916",
-  "institution": "US DEPT OF LABOR- VA DOMICILIARY CH 31 ONLY",
+  "institution": "Us Dept Of Labor- Va Domiciliary Ch 31 Only",
   "city": "Leavenworth",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66048",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25805218",
-  "institution": "UNITECH TRAINING ACADEMY - WEST MONROE",
+  "institution": "Unitech Training Academy - West Monroe",
   "city": "West Monroe",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 447467,
-  "grad_rate": 59.1,
-  "grad_rate_rank": 1620,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 3804,
-  "avg_stu_loan_debt_rank": 663,
-  "indicator_group": 5
+  "grad_rate": 46.2,
+  "grad_rate_rank": 2013,
+  "default_rate": 31.1,
+  "avg_stu_loan_debt": 3525,
+  "avg_stu_loan_debt_rank": 119,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71291",
+  "email": true
 }

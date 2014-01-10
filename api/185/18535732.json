@@ -1,6 +1,6 @@
 {
   "facility_code": "18535732",
-  "institution": "BOCES ONONDAGA-CORTLAND-MADISON",
+  "institution": "Boces Onondaga-Cortland-Madison",
   "city": "Cortland",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13045",
+  "email": true
 }

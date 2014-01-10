@@ -1,6 +1,6 @@
 {
   "facility_code": "11029243",
-  "institution": "TEXAS SOUTHERN UNIVERSITY",
+  "institution": "Texas Southern University",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 325,
   "cross": 229063,
-  "grad_rate": 11.8,
-  "grad_rate_rank": 1767,
-  "default_rate": 23.9,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 12.0,
+  "grad_rate_rank": 1815,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 22750,
+  "avg_stu_loan_debt_rank": 1492,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77004",
+  "email": false
 }

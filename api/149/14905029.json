@@ -1,6 +1,6 @@
 {
   "facility_code": "14905029",
-  "institution": "MANCHESTER COMMUNITY COLLEGE",
+  "institution": "Manchester Community College",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 155,
   "cross": 183132,
-  "grad_rate": 20.4,
-  "grad_rate_rank": 845,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 9429,
-  "avg_stu_loan_debt_rank": 750,
-  "indicator_group": 2
+  "grad_rate": 20.1,
+  "grad_rate_rank": 933,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "3102",
+  "email": true
 }

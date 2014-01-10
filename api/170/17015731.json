@@ -1,6 +1,6 @@
 {
   "facility_code": "17015731",
-  "institution": "LAS CRUCES HIGH SCHOOL",
+  "institution": "Las Cruces High School",
   "city": "Las Cruces,",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "88005",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11816010",
-  "institution": "FLORIDA STATE UNIVERSITY",
+  "institution": "Florida State University",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 843,
   "cross": 134097,
-  "grad_rate": 73.8,
-  "grad_rate_rank": 243,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 75.1,
+  "grad_rate_rank": 231,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 18122,
+  "avg_stu_loan_debt_rank": 932,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32306",
+  "email": true
 }

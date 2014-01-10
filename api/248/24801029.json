@@ -1,6 +1,6 @@
 {
   "facility_code": "24801029",
-  "institution": "MOUNT WASHINGTON COLLEGE - MANCHESTER",
+  "institution": "Mount Washington College - Manchester",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 96,
   "cross": 182865,
-  "grad_rate": 4.0,
-  "grad_rate_rank": 1302,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 10370,
-  "avg_stu_loan_debt_rank": 875,
-  "indicator_group": 2
+  "grad_rate": 31.1,
+  "grad_rate_rank": 603,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 11015,
+  "avg_stu_loan_debt_rank": 782,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "3103",
+  "email": true
 }

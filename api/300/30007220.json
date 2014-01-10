@@ -1,6 +1,6 @@
 {
   "facility_code": "30007220",
-  "institution": "ASSOCIATED BUILDERS & CONTRACTORS CUMBERLAND VALLEY CHAPTER",
+  "institution": "Associated Builders & Contractors Cumberland Valley Chapter",
   "city": "Hagerstown",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21740",
+  "email": true
 }

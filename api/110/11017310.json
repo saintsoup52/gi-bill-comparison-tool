@@ -1,6 +1,6 @@
 {
   "facility_code": "11017310",
-  "institution": "FLORIDA INTERNATIONAL UNIVERSITY",
+  "institution": "Florida International University",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 992,
   "cross": 133951,
-  "grad_rate": 43.4,
-  "grad_rate_rank": 1113,
-  "default_rate": 9.1,
-  "avg_stu_loan_debt": 12604,
-  "avg_stu_loan_debt_rank": 520,
-  "indicator_group": 1
+  "grad_rate": 48.8,
+  "grad_rate_rank": 936,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 13750,
+  "avg_stu_loan_debt_rank": 417,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33173",
+  "email": true
 }

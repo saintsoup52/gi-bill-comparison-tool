@@ -1,6 +1,6 @@
 {
   "facility_code": "11801440",
-  "institution": "UNIVERSITY OF SOUTH CAROLINA - BEAUFORT",
+  "institution": "University Of South Carolina - Beaufort",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 169,
   "cross": 218654,
-  "grad_rate": 20.7,
-  "grad_rate_rank": 1661,
-  "default_rate": 9.2,
-  "avg_stu_loan_debt": 12277,
-  "avg_stu_loan_debt_rank": 479,
-  "indicator_group": 1
+  "grad_rate": 22.7,
+  "grad_rate_rank": 1674,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 12250,
+  "avg_stu_loan_debt_rank": 293,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29902",
+  "email": true
 }

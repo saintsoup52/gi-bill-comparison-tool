@@ -1,6 +1,6 @@
 {
   "facility_code": "25200022",
-  "institution": "ROSS MEDICAL EDUCATION CENTER-SAGINAW",
+  "institution": "Ross Medical Education Center-Saginaw",
   "city": "Saginaw",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 247409,
-  "grad_rate": 77.5,
-  "grad_rate_rank": 793,
-  "default_rate": 32.8,
-  "avg_stu_loan_debt": 8847,
-  "avg_stu_loan_debt_rank": 1537,
-  "indicator_group": 5
+  "grad_rate": 70.1,
+  "grad_rate_rank": 1173,
+  "default_rate": 25.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48603",
+  "email": true
 }

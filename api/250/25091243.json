@@ -1,6 +1,6 @@
 {
   "facility_code": "25091243",
-  "institution": "CANNON INSTITUTE OF HIGHER LEARNING",
+  "institution": "Cannon Institute Of Higher Learning",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 458025,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": null,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 5510,
-  "avg_stu_loan_debt_rank": 901,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 360,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75247",
+  "email": false
 }

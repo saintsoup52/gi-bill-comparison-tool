@@ -1,6 +1,6 @@
 {
   "facility_code": "31002233",
-  "institution": "SAINT AUGUSTINES COLLEGE",
+  "institution": "Saint Augustines College",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 61,
   "cross": 199582,
-  "grad_rate": 23.4,
-  "grad_rate_rank": 1617,
-  "default_rate": 29.4,
-  "avg_stu_loan_debt": 22461,
-  "avg_stu_loan_debt_rank": 1701,
-  "indicator_group": 1
+  "grad_rate": 35.3,
+  "grad_rate_rank": 1380,
+  "default_rate": 30.6,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27610",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24125525",
-  "institution": "L'ECOLE CULINAIRE",
+  "institution": "L'Ecole Culinaire",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 445726,
-  "grad_rate": 46.4,
-  "grad_rate_rank": 224,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 19073,
-  "avg_stu_loan_debt_rank": 826,
-  "indicator_group": 3
+  "grad_rate": 47.0,
+  "grad_rate_rank": 307,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 19533,
+  "avg_stu_loan_debt_rank": 1180,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "63124",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31950105",
-  "institution": "AZUSA PACIFIC UNIVERSITY",
+  "institution": "Azusa Pacific University",
   "city": "Azusa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 347,
   "cross": 109785,
-  "grad_rate": 63.4,
-  "grad_rate_rank": 465,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 63.2,
+  "grad_rate_rank": 481,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91702",
+  "email": true
 }

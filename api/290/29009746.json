@@ -1,6 +1,6 @@
 {
   "facility_code": "29009746",
-  "institution": "WIRT & ASSOCIATES",
+  "institution": "Wirt & Associates",
   "city": "Salem",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24153",
+  "email": false
 }

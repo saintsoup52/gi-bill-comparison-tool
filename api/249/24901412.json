@@ -1,6 +1,6 @@
 {
   "facility_code": "24901412",
-  "institution": "CARRINGTON COLLEGE-BOISE",
+  "institution": "Carrington College-Boise",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 61,
   "cross": 142054,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 11351,
-  "avg_stu_loan_debt_rank": 689,
-  "indicator_group": 3
+  "grad_rate": 67.8,
+  "grad_rate_rank": 194,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 13791,
+  "avg_stu_loan_debt_rank": 634,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "83704",
+  "email": true
 }

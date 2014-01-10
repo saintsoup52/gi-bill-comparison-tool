@@ -1,6 +1,6 @@
 {
   "facility_code": "28071338",
-  "institution": "ALTOONA BEAUTY SCHOOL INC",
+  "institution": "Altoona Beauty School Inc",
   "city": "Altoona",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 210748,
-  "grad_rate": 68.6,
-  "grad_rate_rank": 1226,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 4556,
-  "avg_stu_loan_debt_rank": 742,
-  "indicator_group": 5
+  "grad_rate": 90.0,
+  "grad_rate_rank": 267,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 4370,
+  "avg_stu_loan_debt_rank": 170,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16602",
+  "email": false
 }

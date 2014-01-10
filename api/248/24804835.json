@@ -1,6 +1,6 @@
 {
   "facility_code": "24804835",
-  "institution": "LINCOLN COLLEGE OF TECHNOLOGY - DAYTON",
+  "institution": "Lincoln College Of Technology - Dayton",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 205726,
-  "grad_rate": 21.7,
-  "grad_rate_rank": 418,
-  "default_rate": 36.2,
-  "avg_stu_loan_debt": 13278,
-  "avg_stu_loan_debt_rank": 754,
-  "indicator_group": 3
+  "grad_rate": 27.1,
+  "grad_rate_rank": 568,
+  "default_rate": 38.8,
+  "avg_stu_loan_debt": 15333,
+  "avg_stu_loan_debt_rank": 669,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "45402",
+  "email": true
 }

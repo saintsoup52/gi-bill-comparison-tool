@@ -1,6 +1,6 @@
 {
   "facility_code": "11801028",
-  "institution": "UNIVERSITY OF NEVADA RENO",
+  "institution": "University Of Nevada Reno",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 515,
   "cross": 182290,
-  "grad_rate": 51.4,
-  "grad_rate_rank": 830,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 13620,
-  "avg_stu_loan_debt_rank": 599,
-  "indicator_group": 1
+  "grad_rate": 53.6,
+  "grad_rate_rank": 790,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 12269,
+  "avg_stu_loan_debt_rank": 295,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89557",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17310",
-  "institution": "NATIONAL AIR SECURITY OPS CTR-US CUSTOMS & BORDER PROTECTION OFF OF AIR & MARINE",
+  "institution": "National Air Security Ops Ctr-Us Customs & Border Protection Off Of Air & Marine",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32221",
+  "email": true
 }

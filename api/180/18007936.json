@@ -1,6 +1,6 @@
 {
   "facility_code": "18007936",
-  "institution": "METRO TECHNOLOGY CENTER",
+  "institution": "Metro Technology Center",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 59,
   "cross": 363165,
-  "grad_rate": 65.8,
-  "grad_rate_rank": 1364,
-  "default_rate": 17.7,
+  "grad_rate": 68.0,
+  "grad_rate_rank": 1273,
+  "default_rate": 22.5,
   "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73112",
+  "email": false
 }

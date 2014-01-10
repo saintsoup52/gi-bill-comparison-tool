@@ -1,6 +1,6 @@
 {
   "facility_code": "20008411",
-  "institution": "DBA CASTROL CAR CARE CENTERS [CH 31]",
+  "institution": "Dba Castrol Car Care Centers [Ch 31]",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31416",
+  "email": "No (SCO)"
 }

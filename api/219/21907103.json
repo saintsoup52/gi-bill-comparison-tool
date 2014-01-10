@@ -1,6 +1,6 @@
 {
   "facility_code": "21907103",
-  "institution": "UNIVERSITY OF PHOENIX (ONLINE)",
+  "institution": "University Of Phoenix (Online)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28261,
   "cross": 372213,
-  "grad_rate": 17.0,
-  "grad_rate_rank": 963,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 960,
-  "indicator_group": 2
+  "grad_rate": 19.0,
+  "grad_rate_rank": 971,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 1065,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85034",
+  "email": true
 }

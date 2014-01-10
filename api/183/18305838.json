@@ -1,6 +1,6 @@
 {
   "facility_code": "18305838",
-  "institution": "JEFFERSON COUNTY DUBOIS AREA VOCATIONAL TECH SCHOOL",
+  "institution": "Jefferson County Dubois Area Vocational Tech School",
   "city": "Reynoldsville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 418445,
-  "grad_rate": 55.6,
-  "grad_rate_rank": 1758,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 9876,
+  "avg_stu_loan_debt_rank": 1516,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15851",
+  "email": true
 }

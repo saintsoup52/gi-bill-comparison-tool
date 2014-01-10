@@ -1,6 +1,6 @@
 {
   "facility_code": "24918048",
-  "institution": "WV BUSINESS COLLEGE - NUTTER FORT",
+  "institution": "Wv Business College - Nutter Fort",
   "city": "Nutter Fort",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 237978,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 16,
-  "default_rate": 38.5,
-  "avg_stu_loan_debt": 10130,
-  "avg_stu_loan_debt_rank": 866,
-  "indicator_group": 2
+  "grad_rate": 67.7,
+  "grad_rate_rank": 107,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 9478,
+  "avg_stu_loan_debt_rank": 659,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "26301",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25044821",
-  "institution": "BAY STATE SCHOOL OF TECHNOLOGY INC.",
+  "institution": "Bay State School Of Technology Inc.",
   "city": "Canton",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 164678,
-  "grad_rate": 77.2,
-  "grad_rate_rank": 808,
-  "default_rate": 25.4,
-  "avg_stu_loan_debt": 9156,
-  "avg_stu_loan_debt_rank": 1593,
-  "indicator_group": 5
+  "grad_rate": 72.9,
+  "grad_rate_rank": 1037,
+  "default_rate": 27.4,
+  "avg_stu_loan_debt": 8513,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2021",
+  "email": true
 }

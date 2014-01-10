@@ -1,6 +1,6 @@
 {
   "facility_code": "25012720",
-  "institution": "ALL STATE CAREER SCHOOL",
+  "institution": "All State Career School",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 52,
   "cross": 373784,
   "grad_rate": 67.6,
-  "grad_rate_rank": 1265,
-  "default_rate": 24.2,
-  "avg_stu_loan_debt": 7155,
-  "avg_stu_loan_debt_rank": 1166,
-  "indicator_group": 5
+  "grad_rate_rank": 1296,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 6393,
+  "avg_stu_loan_debt_rank": 520,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21224",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25169505",
-  "institution": "S.I.C.E. PAUL MITCHELL PARTNER SCHOOL",
+  "institution": "S.I.C.E. Paul Mitchell Partner School",
   "city": "Modesto",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 459170,
-  "grad_rate": 77.4,
-  "grad_rate_rank": 795,
-  "default_rate": null,
-  "avg_stu_loan_debt": 3463,
-  "avg_stu_loan_debt_rank": 589,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 8303,
+  "avg_stu_loan_debt_rank": 867,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95350",
+  "email": false
 }

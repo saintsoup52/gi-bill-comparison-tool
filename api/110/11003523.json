@@ -1,6 +1,6 @@
 {
   "facility_code": "11003523",
-  "institution": "WINONA STATE UNIVERSITY",
+  "institution": "Winona State University",
   "city": "Winona",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 205,
   "cross": 175272,
-  "grad_rate": 54.0,
-  "grad_rate_rank": 746,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 884,
-  "indicator_group": 1
+  "grad_rate": 52.8,
+  "grad_rate_rank": 807,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55987",
+  "email": false
 }

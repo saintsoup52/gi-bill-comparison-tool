@@ -1,6 +1,6 @@
 {
   "facility_code": "10N28132",
-  "institution": "SUFFOLK COUNTY POLICE DEPARTMENT - 3RD PRECINCT",
+  "institution": "Suffolk County Police Department - 3rd Precinct",
   "city": "Bayshore",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11706",
+  "email": false
 }

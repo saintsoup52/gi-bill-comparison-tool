@@ -1,6 +1,6 @@
 {
   "facility_code": "14909447",
-  "institution": "HIGHLINE COMMUNITY COLLEGE",
+  "institution": "Highline Community College",
   "city": "Des Moines",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 299,
   "cross": 235431,
-  "grad_rate": 28.4,
-  "grad_rate_rank": 584,
+  "grad_rate": 30.7,
+  "grad_rate_rank": 618,
   "default_rate": 17.0,
-  "avg_stu_loan_debt": 6508,
-  "avg_stu_loan_debt_rank": 504,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98198",
+  "email": true
 }

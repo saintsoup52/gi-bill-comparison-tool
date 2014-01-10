@@ -1,6 +1,6 @@
 {
   "facility_code": "11842435",
-  "institution": "KENT STATE UNIVERSITY-EAST LIVERPOOL CAMPUS",
+  "institution": "Kent State University-East Liverpool Campus",
   "city": "East Liverpool",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 203456,
-  "grad_rate": 10.3,
-  "grad_rate_rank": 1196,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 16625,
-  "avg_stu_loan_debt_rank": 1321,
-  "indicator_group": 2
+  "grad_rate": 16.5,
+  "grad_rate_rank": 1060,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 16842,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43920",
+  "email": false
 }

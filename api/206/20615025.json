@@ -1,6 +1,6 @@
 {
   "facility_code": "20615025",
-  "institution": "KENNY'S TILE & FLOOR COVERING INC.",
+  "institution": "Kenny'S Tile & Floor Covering Inc.",
   "city": "Grandview",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64030",
+  "email": false
 }

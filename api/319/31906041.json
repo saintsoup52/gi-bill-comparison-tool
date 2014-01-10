@@ -1,6 +1,6 @@
 {
   "facility_code": "31906041",
-  "institution": "AUGUSTANA COLLEGE",
+  "institution": "Augustana College",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 219000,
-  "grad_rate": 65.1,
-  "grad_rate_rank": 434,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 65.8,
+  "grad_rate_rank": 413,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 23500,
+  "avg_stu_loan_debt_rank": 1574,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57197",
+  "email": false
 }

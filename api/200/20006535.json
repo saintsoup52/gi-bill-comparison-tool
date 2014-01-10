@@ -1,6 +1,6 @@
 {
   "facility_code": "20006535",
-  "institution": "TRUMBULL PRESS PRODUCTS INC K",
+  "institution": "Trumbull Press Products Inc K",
   "city": "Warren",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44485",
+  "email": false
 }

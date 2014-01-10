@@ -1,6 +1,6 @@
 {
   "facility_code": "21100205",
-  "institution": "UNIVERSITY OF SAN LUIS OBISPO SCHOOL OF LAW",
+  "institution": "University Of San Luis Obispo School Of Law",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93405",
+  "email": false
 }

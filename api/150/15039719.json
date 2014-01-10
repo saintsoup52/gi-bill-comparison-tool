@@ -1,6 +1,6 @@
 {
   "facility_code": "15039719",
-  "institution": "WALDO COUNTY TECHNICAL CENTER",
+  "institution": "Waldo County Technical Center",
   "city": "Waldo",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4915",
+  "email": false
 }

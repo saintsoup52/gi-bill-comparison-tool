@@ -1,6 +1,6 @@
 {
   "facility_code": "31005746",
-  "institution": "BLUEFIELD COLLEGE",
+  "institution": "Bluefield College",
   "city": "Bluefield",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 49,
   "cross": 231554,
-  "grad_rate": 35.9,
-  "grad_rate_rank": 1349,
+  "grad_rate": 33.7,
+  "grad_rate_rank": 1418,
   "default_rate": 9.2,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 16307,
+  "avg_stu_loan_debt_rank": 727,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24604",
+  "email": true
 }

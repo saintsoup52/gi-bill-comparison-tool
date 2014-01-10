@@ -1,6 +1,6 @@
 {
   "facility_code": "35000921",
-  "institution": "LANDMARK SCHOOL",
+  "institution": "Landmark School",
   "city": "Prides Crossing",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 167783,
-  "grad_rate": 69.2,
-  "grad_rate_rank": 326,
-  "default_rate": 2.4,
+  "grad_rate": 66.5,
+  "grad_rate_rank": 392,
+  "default_rate": 2.6,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1965",
+  "email": true
 }

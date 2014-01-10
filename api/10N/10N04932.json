@@ -1,6 +1,6 @@
 {
   "facility_code": "10N04932",
-  "institution": "OCCIDENTAL CHEMICAL CORPORATION",
+  "institution": "Occidental Chemical Corporation",
   "city": "Niagara Falls",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14302",
+  "email": false
 }

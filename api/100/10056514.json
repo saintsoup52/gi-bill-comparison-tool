@@ -1,6 +1,6 @@
 {
   "facility_code": "10056514",
-  "institution": "FULTON COUNTY R.E.M.C.",
+  "institution": "Fulton County R.E.M.C.",
   "city": "Rochester",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46975",
+  "email": false
 }

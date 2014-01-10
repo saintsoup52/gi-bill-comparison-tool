@@ -1,6 +1,6 @@
 {
   "facility_code": "21005804",
-  "institution": "UNIVERSITY OF PHOENIX NORTHWEST ARKANSAS CAMPUS",
+  "institution": "University Of Phoenix Northwest Arkansas Campus",
   "city": "Rogers",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 62,
   "cross": 448530,
-  "grad_rate": 7.9,
-  "grad_rate_rank": 1803,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 20.3,
+  "grad_rate_rank": 1707,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72756",
+  "email": true
 }

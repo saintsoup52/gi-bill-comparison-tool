@@ -1,6 +1,6 @@
 {
   "facility_code": "15535535",
-  "institution": "SANDUSKY CAREER CENTER",
+  "institution": "Sandusky Career Center",
   "city": "Sandusky",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 383330,
-  "grad_rate": 75.3,
-  "grad_rate_rank": 899,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 7187,
-  "avg_stu_loan_debt_rank": 1171,
-  "indicator_group": 5
+  "grad_rate": 71.9,
+  "grad_rate_rank": 1078,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 631,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44870",
+  "email": false
 }

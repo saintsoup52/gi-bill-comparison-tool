@@ -1,6 +1,6 @@
 {
   "facility_code": "25101022",
-  "institution": "SUBURBAN TRUCK DRIVER TRAINING SCHOOL",
+  "institution": "Suburban Truck Driver Training School",
   "city": "Romulus",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48174",
+  "email": false
 }

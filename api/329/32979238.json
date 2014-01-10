@@ -1,6 +1,6 @@
 {
   "facility_code": "32979238",
-  "institution": "UPMC MERCY HOSPITAL SCHOOL OF NURSING",
+  "institution": "Upmc Mercy Hospital School Of Nursing",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 431600,
-  "grad_rate": 95.7,
-  "grad_rate_rank": 121,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 11234,
-  "avg_stu_loan_debt_rank": 2246,
-  "indicator_group": 5
+  "grad_rate": 23.1,
+  "grad_rate_rank": 2233,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 13499,
+  "avg_stu_loan_debt_rank": 1862,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15219",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25024942",
-  "institution": "TENNESSEE CAREER INSTITUTE",
+  "institution": "Tennessee Career Institute",
   "city": "Columbia",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 448150,
-  "grad_rate": 66.2,
-  "grad_rate_rank": 1353,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 4057,
-  "avg_stu_loan_debt_rank": 686,
-  "indicator_group": 5
+  "grad_rate": 65.4,
+  "grad_rate_rank": 1414,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38401",
+  "email": false
 }

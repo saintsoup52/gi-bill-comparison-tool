@@ -1,6 +1,6 @@
 {
   "facility_code": "25169805",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY (HUNTINGTON BEACH)",
+  "institution": "Marinello Schools Of Beauty (Huntington Beach)",
   "city": "Huntington Beach",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 121877,
-  "grad_rate": 56.5,
-  "grad_rate_rank": 1732,
+  "grad_rate": null,
+  "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92646",
+  "email": false
 }

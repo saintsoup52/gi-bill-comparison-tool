@@ -1,6 +1,6 @@
 {
   "facility_code": "31368532",
-  "institution": "ST. JOHN'S UNIVERSITY - SCHOOL OF LAW",
+  "institution": "St. John'S University - School Of Law",
   "city": "Jamaica",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 195809,
-  "grad_rate": 57.8,
-  "grad_rate_rank": 624,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 26202,
-  "avg_stu_loan_debt_rank": 2006,
-  "indicator_group": 1
+  "grad_rate": 58.7,
+  "grad_rate_rank": 605,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11439",
+  "email": false
 }

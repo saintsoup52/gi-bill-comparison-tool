@@ -1,6 +1,6 @@
 {
   "facility_code": "28800518",
-  "institution": "CLOYD'S BEAUTY SCHOOL #1",
+  "institution": "Cloyd'S Beauty School #1",
   "city": "West Monroe",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 158538,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 1587,
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71291",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31007838",
-  "institution": "LAFAYETTE COLLEGE",
+  "institution": "Lafayette College",
   "city": "Easton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 213385,
-  "grad_rate": 87.9,
-  "grad_rate_rank": 71,
-  "default_rate": 1.3,
-  "avg_stu_loan_debt": 21743,
-  "avg_stu_loan_debt_rank": 1613,
-  "indicator_group": 1
+  "grad_rate": 91.4,
+  "grad_rate_rank": 49,
+  "default_rate": 1.8,
+  "avg_stu_loan_debt": 24381,
+  "avg_stu_loan_debt_rank": 1679,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18042",
+  "email": true
 }

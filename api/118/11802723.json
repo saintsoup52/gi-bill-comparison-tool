@@ -1,6 +1,6 @@
 {
   "facility_code": "11802723",
-  "institution": "UNIVERSITY OF MINNESOTA- CROOKSTON",
+  "institution": "University Of Minnesota- Crookston",
   "city": "Crookston",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 174075,
-  "grad_rate": 46.4,
-  "grad_rate_rank": 1010,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 12800,
-  "avg_stu_loan_debt_rank": 540,
-  "indicator_group": 1
+  "grad_rate": 47.3,
+  "grad_rate_rank": 992,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 13287,
+  "avg_stu_loan_debt_rank": 386,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56716",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11507047",
-  "institution": "WESTERN WASHINGTON UNIVERSITY",
+  "institution": "Western Washington University",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 434,
   "cross": 237011,
-  "grad_rate": 72.9,
-  "grad_rate_rank": 257,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 18632,
-  "avg_stu_loan_debt_rank": 1168,
-  "indicator_group": 1
+  "grad_rate": 67.1,
+  "grad_rate_rank": 377,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 18991,
+  "avg_stu_loan_debt_rank": 1054,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98225",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000816",
-  "institution": "KANSAS WESLEYAN UNIVERSITY",
+  "institution": "Kansas Wesleyan University",
   "city": "Salina",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 155414,
-  "grad_rate": 42.2,
-  "grad_rate_rank": 1150,
-  "default_rate": 11.4,
-  "avg_stu_loan_debt": 14934,
-  "avg_stu_loan_debt_rank": 719,
-  "indicator_group": 1
+  "grad_rate": 39.9,
+  "grad_rate_rank": 1258,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 17000,
+  "avg_stu_loan_debt_rank": 800,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24006005",
-  "institution": "COMMUNITY BASED EDU & DEVELOPMENT D.B.A. CBD COLLEGE",
+  "institution": "Community Based Edu & Development D.B.A. Cbd College",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 439367,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 14992,
-  "avg_stu_loan_debt_rank": 786,
-  "indicator_group": 3
+  "grad_rate": 97.7,
+  "grad_rate_rank": 10,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 623,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90010",
+  "email": true
 }

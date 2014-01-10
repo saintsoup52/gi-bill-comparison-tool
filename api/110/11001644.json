@@ -1,6 +1,6 @@
 {
   "facility_code": "11001644",
-  "institution": "UTAH STATE UNIVERSITY - TOOELE EXTENSION (CH31)",
+  "institution": "Utah State University - Tooele Extension (Ch31)",
   "city": "Tooele",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 230728,
-  "grad_rate": 51.7,
-  "grad_rate_rank": 821,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 186,
-  "indicator_group": 1
+  "grad_rate": 50.3,
+  "grad_rate_rank": 887,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 8500,
+  "avg_stu_loan_debt_rank": 111,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84074",
+  "email": false
 }

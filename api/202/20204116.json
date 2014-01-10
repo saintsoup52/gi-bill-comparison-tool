@@ -1,6 +1,6 @@
 {
   "facility_code": "20204116",
-  "institution": "DAVE'S PLUMBING HEATING & AIR INC.",
+  "institution": "Dave'S Plumbing Heating & Air Inc.",
   "city": "Hutchinson",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67501",
+  "email": false
 }

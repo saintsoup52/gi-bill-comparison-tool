@@ -1,6 +1,6 @@
 {
   "facility_code": "10186343",
-  "institution": "US NAVAL AIR STATION CORPUS",
+  "institution": "Us Naval Air Station Corpus",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77061",
+  "email": false
 }

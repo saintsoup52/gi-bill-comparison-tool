@@ -1,6 +1,6 @@
 {
   "facility_code": "31000123",
-  "institution": "AUGSBURG COLLEGE         REGISTRARS OFFICE CB 71",
+  "institution": "Augsburg College         Registrars Office Cb 71",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 82,
   "cross": 173045,
-  "grad_rate": 65.2,
-  "grad_rate_rank": 428,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 60.3,
+  "grad_rate_rank": 560,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55454",
+  "email": false
 }

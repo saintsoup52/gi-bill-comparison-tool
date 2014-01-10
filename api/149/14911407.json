@@ -1,6 +1,6 @@
 {
   "facility_code": "14911407",
-  "institution": "NAUGATUCK VALLEY COMMUNITY COLLEGE",
+  "institution": "Naugatuck Valley Community College",
   "city": "Waterbury",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 241,
   "cross": 129729,
-  "grad_rate": 8.4,
-  "grad_rate_rank": 1239,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "grad_rate": 13.6,
+  "grad_rate_rank": 1176,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 77,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "6708",
+  "email": true
 }

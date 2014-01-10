@@ -1,6 +1,6 @@
 {
   "facility_code": "25011342",
-  "institution": "QUEEN CITY COLLEGE",
+  "institution": "Queen City College",
   "city": "Clarksville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 376677,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 1632,
+  "grad_rate": 56.1,
+  "grad_rate_rank": 1764,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37042",
+  "email": true
 }

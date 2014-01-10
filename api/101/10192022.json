@@ -1,6 +1,6 @@
 {
   "facility_code": "10192022",
-  "institution": "FAA AIR TRAFFIC CONTROL TOWER CHERRY CAPTIAL AIRPORT-TRAVERSE CITY",
+  "institution": "Faa Air Traffic Control Tower Cherry Captial Airport-Traverse City",
   "city": "Traverse City",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49684",
+  "email": true
 }

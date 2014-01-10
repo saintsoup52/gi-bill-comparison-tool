@@ -1,6 +1,6 @@
 {
   "facility_code": "25004933",
-  "institution": "CAROLINA SCHOOL OF BROADCASTING",
+  "institution": "Carolina School Of Broadcasting",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 198190,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 41.6,
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 25.0,
   "avg_stu_loan_debt": 8202,
-  "avg_stu_loan_debt_rank": 1420,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 858,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "28214",
+  "email": true
 }

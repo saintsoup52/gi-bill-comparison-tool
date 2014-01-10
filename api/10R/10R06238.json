@@ -1,6 +1,6 @@
 {
   "facility_code": "10R06238",
-  "institution": "DEPARTMENT OF LABOR AND INDUSTRY ~  WESTMORELAND PA CAREERLINK",
+  "institution": "Department Of Labor And Industry ~  Westmoreland Pa Careerlink",
   "city": "Youngwood",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15697",
+  "email": false
 }

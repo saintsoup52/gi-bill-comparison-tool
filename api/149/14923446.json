@@ -1,6 +1,6 @@
 {
   "facility_code": "14923446",
-  "institution": "PIEDMONT VIRGINIA COMMUNITY COLLEGE",
+  "institution": "Piedmont Virginia Community College",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 193,
   "cross": 233116,
-  "grad_rate": 18.2,
-  "grad_rate_rank": 923,
-  "default_rate": 12.4,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 264,
-  "indicator_group": 2
+  "grad_rate": 22.3,
+  "grad_rate_rank": 871,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 5328,
+  "avg_stu_loan_debt_rank": 207,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "22902",
+  "email": true
 }

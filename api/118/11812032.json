@@ -1,6 +1,6 @@
 {
   "facility_code": "11812032",
-  "institution": "SUNY COLLEGE AT NEW PALTZ",
+  "institution": "Suny College At New Paltz",
   "city": "New Paltz",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 80,
   "cross": 196176,
-  "grad_rate": 69.3,
-  "grad_rate_rank": 323,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 18363,
-  "avg_stu_loan_debt_rank": 1128,
-  "indicator_group": 1
+  "grad_rate": 72.7,
+  "grad_rate_rank": 275,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 19514,
+  "avg_stu_loan_debt_rank": 1137,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12561",
+  "email": true
 }

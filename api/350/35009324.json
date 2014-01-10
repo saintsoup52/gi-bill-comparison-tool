@@ -1,6 +1,6 @@
 {
   "facility_code": "35009324",
-  "institution": "SOUTHERN REGIONAL PUBLIC SAFETY INSTITUTE",
+  "institution": "Southern Regional Public Safety Institute",
   "city": "Camp Shelby",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39407",
+  "email": false
 }

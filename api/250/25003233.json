@@ -1,6 +1,6 @@
 {
   "facility_code": "25003233",
-  "institution": "ALLIANCE TRACTOR-TRAILER TRAINING CENTER",
+  "institution": "Alliance Tractor-Trailer Training Center",
   "city": "Fletcher",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28732",
+  "email": true
 }

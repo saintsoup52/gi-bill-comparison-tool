@@ -1,6 +1,6 @@
 {
   "facility_code": "25155305",
-  "institution": "BORNER'S BARBER COLLEGE",
+  "institution": "Borner'S Barber College",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 454759,
-  "grad_rate": 44.4,
-  "grad_rate_rank": 2019,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8800,
-  "avg_stu_loan_debt_rank": 1528,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90047",
+  "email": false
 }

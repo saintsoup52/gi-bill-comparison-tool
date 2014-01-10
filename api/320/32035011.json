@@ -1,6 +1,6 @@
 {
   "facility_code": "32035011",
-  "institution": "SOUTHWEST GEORGIA FAMILY MEDICINE - GRADUATE MEDICAL EDUCATION",
+  "institution": "Southwest Georgia Family Medicine - Graduate Medical Education",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31707",
+  "email": true
 }

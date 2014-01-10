@@ -1,6 +1,6 @@
 {
   "facility_code": "20479536",
-  "institution": "ANDERSON BURRIS FUNERAL HOME (WD EFF 031110)",
+  "institution": "Anderson Burris Funeral Home (Wd Eff 031110)",
   "city": "Enid",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73702",
+  "email": false
 }

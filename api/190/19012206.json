@@ -1,6 +1,6 @@
 {
   "facility_code": "19012206",
-  "institution": "DEPARTMENT OF HEALTH AND HUMAN SERVICES/OFFICE OF CIVIL RIGHTS",
+  "institution": "Department Of Health And Human Services/Office Of Civil Rights",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80294",
+  "email": false
 }

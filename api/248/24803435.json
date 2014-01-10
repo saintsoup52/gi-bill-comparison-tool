@@ -1,6 +1,6 @@
 {
   "facility_code": "24803435",
-  "institution": "OHIO BUSINESS COLLEGE-SANDUSKY",
+  "institution": "Ohio Business College-Sandusky",
   "city": "Sandusky",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 203739,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 180,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 10660,
-  "avg_stu_loan_debt_rank": 896,
-  "indicator_group": 2
+  "grad_rate": 45.3,
+  "grad_rate_rank": 334,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 11250,
+  "avg_stu_loan_debt_rank": 805,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44870",
+  "email": false
 }

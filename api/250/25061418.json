@@ -1,6 +1,6 @@
 {
   "facility_code": "25061418",
-  "institution": "LOUISIANA CULINARY INSTITUTE",
+  "institution": "Louisiana Culinary Institute",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 449612,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 20706,
-  "avg_stu_loan_debt_rank": 1431,
-  "indicator_group": 2
+  "grad_rate": 36.4,
+  "grad_rate_rank": 474,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 17021,
+  "avg_stu_loan_debt_rank": 1103,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "70816",
+  "email": true
 }

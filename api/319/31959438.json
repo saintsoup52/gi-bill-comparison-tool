@@ -1,6 +1,6 @@
 {
   "facility_code": "31959438",
-  "institution": "MOUNT ALOYSIUS COLLEGE",
+  "institution": "Mount Aloysius College",
   "city": "Cresson",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 81,
   "cross": 214166,
-  "grad_rate": 36.5,
-  "grad_rate_rank": 1335,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 16250,
-  "avg_stu_loan_debt_rank": 866,
-  "indicator_group": 1
+  "grad_rate": 32.5,
+  "grad_rate_rank": 1462,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 18250,
+  "avg_stu_loan_debt_rank": 944,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16630",
+  "email": true
 }

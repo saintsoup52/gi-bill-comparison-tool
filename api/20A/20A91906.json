@@ -1,6 +1,6 @@
 {
   "facility_code": "20A91906",
-  "institution": "R.W. BAYER ASSOCIATES INC.",
+  "institution": "R.W. Bayer Associates Inc.",
   "city": "Thornton",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80233",
+  "email": false
 }

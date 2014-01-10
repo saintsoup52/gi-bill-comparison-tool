@@ -1,6 +1,6 @@
 {
   "facility_code": "25067343",
-  "institution": "ROYAL BEAUTY CAREERS",
+  "institution": "Royal Beauty Careers",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 420194,
-  "grad_rate": 51.2,
-  "grad_rate_rank": 1894,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 4933,
-  "avg_stu_loan_debt_rank": 784,
-  "indicator_group": 5
+  "grad_rate": 49.2,
+  "grad_rate_rank": 1968,
+  "default_rate": 23.3,
+  "avg_stu_loan_debt": 4833,
+  "avg_stu_loan_debt_rank": 227,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77069",
+  "email": false
 }

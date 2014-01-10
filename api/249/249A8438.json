@@ -1,6 +1,6 @@
 {
   "facility_code": "249A8438",
-  "institution": "VET TECH INSTITUTE",
+  "institution": "Vet Tech Institute",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 213914,
-  "grad_rate": 59.3,
-  "grad_rate_rank": 139,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 20603,
-  "avg_stu_loan_debt_rank": 1430,
-  "indicator_group": 2
+  "grad_rate": 65.4,
+  "grad_rate_rank": 128,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 18171,
+  "avg_stu_loan_debt_rank": 1133,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15222",
+  "email": false
 }

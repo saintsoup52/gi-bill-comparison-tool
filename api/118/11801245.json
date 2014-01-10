@@ -1,6 +1,6 @@
 {
   "facility_code": "11801245",
-  "institution": "UNIVERSITY OF VERMONT (AND STATE AGRICULTURAL COLLEGE)",
+  "institution": "University Of Vermont (And State Agricultural College)",
   "city": "Burlington",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 197,
   "cross": 231174,
-  "grad_rate": 72.3,
-  "grad_rate_rank": 271,
+  "grad_rate": 75.8,
+  "grad_rate_rank": 218,
   "default_rate": 2.5,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 24057,
+  "avg_stu_loan_debt_rank": 1650,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5405",
+  "email": true
 }

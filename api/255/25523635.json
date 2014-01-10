@@ -1,6 +1,6 @@
 {
   "facility_code": "25523635",
-  "institution": "HAMRICK SCHOOL",
+  "institution": "Hamrick School",
   "city": "Medina",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 369950,
-  "grad_rate": 81.2,
-  "grad_rate_rank": 590,
-  "default_rate": 10.0,
+  "grad_rate": 84.0,
+  "grad_rate_rank": 473,
+  "default_rate": 31.2,
   "avg_stu_loan_debt": 5481,
-  "avg_stu_loan_debt_rank": 842,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 307,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44256",
+  "email": true
 }

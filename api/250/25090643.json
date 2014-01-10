@@ -1,6 +1,6 @@
 {
   "facility_code": "25090643",
-  "institution": "MILAN INSTITUTE AMARILLO",
+  "institution": "Milan Institute Amarillo",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 440855,
-  "grad_rate": 72.4,
-  "grad_rate_rank": 1052,
-  "default_rate": 28.1,
+  "grad_rate": 71.0,
+  "grad_rate_rank": 1128,
+  "default_rate": 22.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79106",
+  "email": false
 }

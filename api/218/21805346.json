@@ -1,6 +1,6 @@
 {
   "facility_code": "21805346",
-  "institution": "UNIVERSITY OF PHOENIX-RICHMOND",
+  "institution": "University Of Phoenix-Richmond",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 90,
   "cross": 446756,
-  "grad_rate": 3.4,
-  "grad_rate_rank": 1830,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 3.9,
+  "grad_rate_rank": 1864,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23230",
+  "email": true
 }

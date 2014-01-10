@@ -1,6 +1,6 @@
 {
   "facility_code": "21036943",
-  "institution": "UNIVERSITY OF PHOENIX-AUSTIN",
+  "institution": "University Of Phoenix-Austin",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 480,
   "cross": 446747,
-  "grad_rate": 12.2,
-  "grad_rate_rank": 1763,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 12.5,
+  "grad_rate_rank": 1809,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78759",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10193122",
-  "institution": "U.S. CUSTOMS & BORDER PROTECTION GREAT LAKES AIR & MARINE BRANCH-TRENTON",
+  "institution": "U.S. Customs & Border Protection Great Lakes Air & Marine Branch-Trenton",
   "city": "Brownstown Township",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48183",
+  "email": false
 }

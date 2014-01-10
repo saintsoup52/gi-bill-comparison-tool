@@ -1,6 +1,6 @@
 {
   "facility_code": "11928122",
-  "institution": "MICHIGAN STATE UNIVERSITY",
+  "institution": "Michigan State University",
   "city": "East Lansing",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 520,
   "cross": 171100,
-  "grad_rate": 77.3,
-  "grad_rate_rank": 187,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 25500,
-  "avg_stu_loan_debt_rank": 1992,
-  "indicator_group": 1
+  "grad_rate": 79.4,
+  "grad_rate_rank": 168,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48824",
+  "email": true
 }

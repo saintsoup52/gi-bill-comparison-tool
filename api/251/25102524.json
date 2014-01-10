@@ -1,6 +1,6 @@
 {
   "facility_code": "25102524",
-  "institution": "NEW HORIZONS CLC (CH 31)",
+  "institution": "New Horizons Clc (Ch 31)",
   "city": "Biloxi",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39532",
+  "email": false
 }

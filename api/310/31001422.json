@@ -1,6 +1,6 @@
 {
   "facility_code": "31001422",
-  "institution": "HOPE COLLEGE",
+  "institution": "Hope College",
   "city": "Holland",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 170301,
-  "grad_rate": 79.1,
-  "grad_rate_rank": 168,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 23195,
-  "avg_stu_loan_debt_rank": 1804,
-  "indicator_group": 1
+  "grad_rate": 77.4,
+  "grad_rate_rank": 199,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 24840,
+  "avg_stu_loan_debt_rank": 1707,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49422",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15010242",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - NEWBERN",
+  "institution": "Tennessee College Of Applied Technology - Newbern",
   "city": "Newbern",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 221236,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 1489,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 100.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38059",
+  "email": true
 }

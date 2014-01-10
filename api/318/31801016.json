@@ -1,6 +1,6 @@
 {
   "facility_code": "31801016",
-  "institution": "BAKER UNIVERSITY",
+  "institution": "Baker University",
   "city": "Baldwin City",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 154688,
-  "grad_rate": 54.8,
-  "grad_rate_rank": 717,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 55.1,
+  "grad_rate_rank": 734,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 21467,
+  "avg_stu_loan_debt_rank": 1356,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66006",
+  "email": true
 }

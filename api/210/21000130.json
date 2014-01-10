@@ -1,6 +1,6 @@
 {
   "facility_code": "21000130",
-  "institution": "UNIVERSITY OF PHOENIX - JERSEY CITY",
+  "institution": "University Of Phoenix - Jersey City",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 120,
   "cross": 445300,
-  "grad_rate": 16.7,
-  "grad_rate_rank": 1710,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 11.8,
+  "grad_rate_rank": 1818,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7310",
+  "email": true
 }

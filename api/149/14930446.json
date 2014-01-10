@@ -1,6 +1,6 @@
 {
   "facility_code": "14930446",
-  "institution": "NORTHERN VIRGINIA COMMUNITY COLLEGE - ALEXANDRIA",
+  "institution": "Northern Virginia Community College - Alexandria",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 861,
   "cross": 232946,
-  "grad_rate": 17.7,
-  "grad_rate_rank": 942,
-  "default_rate": 12.3,
-  "avg_stu_loan_debt": 7667,
-  "avg_stu_loan_debt_rank": 624,
-  "indicator_group": 2
+  "grad_rate": 21.8,
+  "grad_rate_rank": 885,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 7851,
+  "avg_stu_loan_debt_rank": 540,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "22311",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21504405",
-  "institution": "SAN DIEGO CHRISTIAN COLLEGE",
+  "institution": "San Diego Christian College",
   "city": "El Cajon",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 112084,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 1475,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 13850,
-  "avg_stu_loan_debt_rank": 618,
-  "indicator_group": 1
+  "grad_rate": 42.9,
+  "grad_rate_rank": 1141,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92021",
+  "email": false
 }

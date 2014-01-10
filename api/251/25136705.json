@@ -1,6 +1,6 @@
 {
   "facility_code": "25136705",
-  "institution": "SAN FRANCISCO INSTITUTE OF ESTHETICS & COSMETOLOGY",
+  "institution": "San Francisco Institute Of Esthetics & Cosmetology",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 454777,
-  "grad_rate": 82.2,
-  "grad_rate_rank": 539,
-  "default_rate": 0.0,
+  "grad_rate": 74.2,
+  "grad_rate_rank": 967,
+  "default_rate": 2.0,
   "avg_stu_loan_debt": 10556,
-  "avg_stu_loan_debt_rank": 2196,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1562,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94103",
+  "email": false
 }

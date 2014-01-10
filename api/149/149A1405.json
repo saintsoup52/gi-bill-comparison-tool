@@ -1,6 +1,6 @@
 {
   "facility_code": "149A1405",
-  "institution": "LOS ANGELES CITY COLLEGE",
+  "institution": "Los Angeles City College",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 414,
   "cross": 117788,
-  "grad_rate": 15.0,
-  "grad_rate_rank": 1027,
-  "default_rate": 19.5,
-  "avg_stu_loan_debt": 5542,
-  "avg_stu_loan_debt_rank": 389,
-  "indicator_group": 2
+  "grad_rate": 12.0,
+  "grad_rate_rank": 1229,
+  "default_rate": 24.7,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90029",
+  "email": true
 }

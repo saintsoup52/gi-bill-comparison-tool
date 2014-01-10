@@ -1,6 +1,6 @@
 {
   "facility_code": "14905149",
-  "institution": "NORTHCENTRAL TECHNICAL  COLLEGE",
+  "institution": "Northcentral Technical  College",
   "city": "Wausau",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 204,
   "cross": 239460,
-  "grad_rate": 42.3,
-  "grad_rate_rank": 244,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 7028,
-  "avg_stu_loan_debt_rank": 294,
-  "indicator_group": 3
+  "grad_rate": 36.2,
+  "grad_rate_rank": 487,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 212,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "54401",
+  "email": true
 }

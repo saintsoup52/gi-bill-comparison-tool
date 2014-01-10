@@ -1,6 +1,6 @@
 {
   "facility_code": "35140905",
-  "institution": "DELL'ARTE SCHOOL OF PHYSICAL THEATRE",
+  "institution": "Dell'Arte School Of Physical Theatre",
   "city": "Blue Lake",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 113537,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 10.0,
+  "default_rate": 5.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "95525",
+  "email": false
 }

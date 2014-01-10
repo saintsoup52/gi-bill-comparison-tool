@@ -1,6 +1,6 @@
 {
   "facility_code": "10638640",
-  "institution": "DORCHESTER COUNTY DETENTION CENTER # 2",
+  "institution": "Dorchester County Detention Center # 2",
   "city": "Summerville",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29483",
+  "email": false
 }

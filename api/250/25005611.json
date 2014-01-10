@@ -1,6 +1,6 @@
 {
   "facility_code": "25005611",
-  "institution": "FLOORING CONSULTANTS & INSPECTION TRNG. SERVICES INC (CH 31 ONLY)",
+  "institution": "Flooring Consultants & Inspection Trng. Services Inc (Ch 31 Only)",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30721",
+  "email": "No (SCO)"
 }

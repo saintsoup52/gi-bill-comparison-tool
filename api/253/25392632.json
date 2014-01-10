@@ -1,6 +1,6 @@
 {
   "facility_code": "25392632",
-  "institution": "FINGER LAKES SCHOOL OF MASSAGE - MT KISCO",
+  "institution": "Finger Lakes School Of Massage - Mt Kisco",
   "city": "Mt Kisco",
   "state": "NY",
   "country": "USA",
@@ -13,6 +13,9 @@
   "grad_rate_rank": 1,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10549",
+  "email": true
 }

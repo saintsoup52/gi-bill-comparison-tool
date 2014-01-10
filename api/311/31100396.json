@@ -1,10 +1,10 @@
 {
   "facility_code": "31100396",
-  "institution": "TURKS AND CAICOS ISLANDS COMMUNITY COLLEGE",
+  "institution": "Turks And Caicos Islands Community College",
   "city": "Turks And Caicos Islands",
   "state": "Cayman Islands",
   "country": "Cayman Islands",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

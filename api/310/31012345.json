@@ -1,6 +1,6 @@
 {
   "facility_code": "31012345",
-  "institution": "BURLINGTON COLLEGE",
+  "institution": "Burlington College",
   "city": "Burlington",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 230825,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 1403,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 16790,
-  "avg_stu_loan_debt_rank": 921,
-  "indicator_group": 1
+  "grad_rate": 23.1,
+  "grad_rate_rank": 1668,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 21998,
+  "avg_stu_loan_debt_rank": 1415,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5401",
+  "email": true
 }

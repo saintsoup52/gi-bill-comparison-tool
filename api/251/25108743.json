@@ -1,6 +1,6 @@
 {
   "facility_code": "25108743",
-  "institution": "SEBRING CAREER SCHOOLS",
+  "institution": "Sebring Career Schools",
   "city": "Huntsville",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 246406,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 46.0,
+  "grad_rate_rank": 2019,
+  "default_rate": 54.1,
+  "avg_stu_loan_debt": 2862,
+  "avg_stu_loan_debt_rank": 35,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77340",
+  "email": false
 }

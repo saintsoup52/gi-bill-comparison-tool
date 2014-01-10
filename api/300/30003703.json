@@ -1,6 +1,6 @@
 {
   "facility_code": "30003703",
-  "institution": "ARIZONA OPERATING ENGINEERS JA&TS",
+  "institution": "Arizona Operating Engineers Ja&Ts",
   "city": "Casa Grande",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85194",
+  "email": false
 }

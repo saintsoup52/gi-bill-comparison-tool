@@ -1,6 +1,6 @@
 {
   "facility_code": "25804135",
-  "institution": "RAPHAEL'S SCHOOL OF BEAUTY CULTURE INC. BOARDMAN",
+  "institution": "Raphael'S School Of Beauty Culture Inc. Boardman",
   "city": "Boardman",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 407568,
-  "grad_rate": 64.3,
-  "grad_rate_rank": 1425,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 5287,
-  "avg_stu_loan_debt_rank": 820,
-  "indicator_group": 5
+  "grad_rate": 48.3,
+  "grad_rate_rank": 1980,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 4611,
+  "avg_stu_loan_debt_rank": 188,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44512",
+  "email": false
 }

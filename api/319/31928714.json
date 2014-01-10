@@ -1,6 +1,6 @@
 {
   "facility_code": "31928714",
-  "institution": "INDIANA WESLEYAN UNIVERSITY EDUCATION CENTER - FORT WAYNE",
+  "institution": "Indiana Wesleyan University Education Center - Fort Wayne",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 151801,
-  "grad_rate": 69.5,
-  "grad_rate_rank": 318,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 19594,
-  "avg_stu_loan_debt_rank": 1328,
-  "indicator_group": 1
+  "grad_rate": 70.5,
+  "grad_rate_rank": 307,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 19836,
+  "avg_stu_loan_debt_rank": 1171,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46804",
+  "email": false
 }

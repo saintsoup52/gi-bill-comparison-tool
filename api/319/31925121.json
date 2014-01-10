@@ -1,6 +1,6 @@
 {
   "facility_code": "31925121",
-  "institution": "BOSTON BAPTIST COLLEGE",
+  "institution": "Boston Baptist College",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 164614,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 6.5,
-  "avg_stu_loan_debt": 13125,
-  "avg_stu_loan_debt_rank": 566,
-  "indicator_group": 1
+  "grad_rate": 25.0,
+  "grad_rate_rank": 1629,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 20875,
+  "avg_stu_loan_debt_rank": 1299,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2136",
+  "email": true
 }

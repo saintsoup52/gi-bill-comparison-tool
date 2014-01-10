@@ -1,6 +1,6 @@
 {
   "facility_code": "10486048",
-  "institution": "VETERANS HEALTH ADMINISTRATION-LOUIS A JOHNSON VAMC-CLARKSBURG WV",
+  "institution": "Veterans Health Administration-Louis A Johnson Vamc-Clarksburg Wv",
   "city": "Clarksburg",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "26301",
+  "email": true
 }

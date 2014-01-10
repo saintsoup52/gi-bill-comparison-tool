@@ -1,6 +1,6 @@
 {
   "facility_code": "14912130",
-  "institution": "RARITAN VALLEY COMMUNITY COLLEGE",
+  "institution": "Raritan Valley Community College",
   "city": "Somerville",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 163,
   "cross": 186645,
-  "grad_rate": 21.1,
-  "grad_rate_rank": 825,
-  "default_rate": 13.5,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 264,
-  "indicator_group": 2
+  "grad_rate": 20.0,
+  "grad_rate_rank": 939,
+  "default_rate": 16.4,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "8876",
+  "email": true
 }

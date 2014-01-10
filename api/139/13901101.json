@@ -1,6 +1,6 @@
 {
   "facility_code": "13901101",
-  "institution": "ALABAMA STATE UNIVERSITY",
+  "institution": "Alabama State University",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 312,
   "cross": 100724,
-  "grad_rate": 26.2,
-  "grad_rate_rank": 1567,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 18628,
-  "avg_stu_loan_debt_rank": 1167,
-  "indicator_group": 1
+  "grad_rate": 26.3,
+  "grad_rate_rank": 1613,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1157,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36101",
+  "email": true
 }

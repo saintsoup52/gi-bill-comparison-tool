@@ -1,6 +1,6 @@
 {
   "facility_code": "25308847",
-  "institution": "PUGET SOUND DIVE ENTERPRISES (CH31)",
+  "institution": "Puget Sound Dive Enterprises (Ch31)",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98310",
+  "email": false
 }

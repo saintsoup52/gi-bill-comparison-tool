@@ -1,6 +1,6 @@
 {
   "facility_code": "25019320",
-  "institution": "AMERICAN COMPUTER UTOPIA - CHAPTER 31",
+  "institution": "American Computer Utopia - Chapter 31",
   "city": "Hyattsville",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20782",
+  "email": false
 }

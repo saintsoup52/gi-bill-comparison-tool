@@ -1,6 +1,6 @@
 {
   "facility_code": "21904320",
-  "institution": "STRAYER UNIVERSITY AT MONTGOMERY (ROCKVILLE)",
+  "institution": "Strayer University At Montgomery (Rockville)",
   "city": "Rockville",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 88,
   "cross": 430184,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 1590,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 46.2,
+  "grad_rate_rank": 1029,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20850",
+  "email": true
 }

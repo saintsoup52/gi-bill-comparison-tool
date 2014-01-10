@@ -1,6 +1,6 @@
 {
   "facility_code": "20658330",
-  "institution": "PSE&G POWER LLC- FOSSIL",
+  "institution": "Pse&G Power Llc- Fossil",
   "city": "Burlington",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8016",
+  "email": true
 }

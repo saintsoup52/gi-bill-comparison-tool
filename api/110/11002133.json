@@ -1,6 +1,6 @@
 {
   "facility_code": "11002133",
-  "institution": "NORTH CAROLINA CENTRAL UNIVERSITY",
+  "institution": "North Carolina Central University",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 353,
   "cross": 199157,
-  "grad_rate": 38.4,
-  "grad_rate_rank": 1292,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 23384,
-  "avg_stu_loan_debt_rank": 1811,
-  "indicator_group": 1
+  "grad_rate": 42.6,
+  "grad_rate_rank": 1157,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 21704,
+  "avg_stu_loan_debt_rank": 1397,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27707",
+  "email": true
 }

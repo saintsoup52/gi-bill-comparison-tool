@@ -1,6 +1,6 @@
 {
   "facility_code": "31001042",
-  "institution": "MILLIGAN COLLEGE",
+  "institution": "Milligan College",
   "city": "Milligan College",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 221014,
-  "grad_rate": 65.3,
-  "grad_rate_rank": 425,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 16250,
-  "avg_stu_loan_debt_rank": 866,
-  "indicator_group": 1
+  "grad_rate": 59.6,
+  "grad_rate_rank": 575,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 18934,
+  "avg_stu_loan_debt_rank": 1050,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37682",
+  "email": false
 }

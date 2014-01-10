@@ -1,6 +1,6 @@
 {
   "facility_code": "21804505",
-  "institution": "DEVRY UNIVERSITY (SHERMAN OAKS)",
+  "institution": "Devry University (Sherman Oaks)",
   "city": "Sherman Oaks",
   "state": "CA",
   "country": "USA",
@@ -8,11 +8,14 @@
   "poe": true,
   "yr": true,
   "gibill": 248,
-  "cross": 0,
+  "cross": 482431,
   "grad_rate": null,
   "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91403",
+  "email": true
 }

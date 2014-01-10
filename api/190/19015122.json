@@ -1,6 +1,6 @@
 {
   "facility_code": "19015122",
-  "institution": "STATE OF MICHIGAN DEPARTMENT OF CORRECTIONS",
+  "institution": "State Of Michigan Department Of Corrections",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48909",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30051420",
-  "institution": "SOUTHERN MARYLAND ELECTRIC COOPERATIVE INC. - JOINT APPRENTICESHIP COMMITTEE",
+  "institution": "Southern Maryland Electric Cooperative Inc. - Joint Apprenticeship Committee",
   "city": "Hughesville",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20637",
+  "email": true
 }

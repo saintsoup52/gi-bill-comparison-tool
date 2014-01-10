@@ -1,6 +1,6 @@
 {
   "facility_code": "10537031",
-  "institution": "NEW MEXICO ENVIRONMENT DEPT DISTRICT III (CH31)",
+  "institution": "New Mexico Environment Dept District Iii (Ch31)",
   "city": "Las Cruces,",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "88004",
+  "email": false
 }

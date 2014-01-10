@@ -1,6 +1,6 @@
 {
   "facility_code": "30580413",
-  "institution": "INTERNATIONAL UNION OF BRICKLAYERS & ALLIED CRAFTWORKERS",
+  "institution": "International Union Of Bricklayers & Allied Craftworkers",
   "city": "Addison",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60101",
+  "email": true
 }

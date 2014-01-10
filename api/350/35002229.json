@@ -1,6 +1,6 @@
 {
   "facility_code": "35002229",
-  "institution": "UPPER VALLEY EDUCATORS INSTITUTE",
+  "institution": "Upper Valley Educators Institute",
   "city": "Lebanon",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 440004,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 1814,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3766",
+  "email": true
 }

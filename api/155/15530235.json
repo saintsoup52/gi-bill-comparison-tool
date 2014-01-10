@@ -1,6 +1,6 @@
 {
   "facility_code": "15530235",
-  "institution": "MID EAST CAREER AND TECHNOLOGY CENTERS-ADULT EDUCATION",
+  "institution": "Mid East Career And Technology Centers-Adult Education",
   "city": "Zanesville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 389860,
-  "grad_rate": 84.8,
-  "grad_rate_rank": 439,
-  "default_rate": 24.2,
-  "avg_stu_loan_debt": 6334,
-  "avg_stu_loan_debt_rank": 1046,
-  "indicator_group": 5
+  "grad_rate": 77.1,
+  "grad_rate_rank": 803,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 6000,
+  "avg_stu_loan_debt_rank": 410,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43701",
+  "email": false
 }

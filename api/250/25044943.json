@@ -1,6 +1,6 @@
 {
   "facility_code": "25044943",
-  "institution": "EXPOSITOS SCHOOL OF HAIR DESIGN",
+  "institution": "Expositos School Of Hair Design",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 224758,
-  "grad_rate": 44.4,
-  "grad_rate_rank": 2019,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 38.1,
+  "grad_rate_rank": 2125,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 4436,
+  "avg_stu_loan_debt_rank": 175,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79109",
+  "email": false
 }

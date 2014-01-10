@@ -1,6 +1,6 @@
 {
   "facility_code": "31001315",
-  "institution": "LUTHER COLLEGE",
+  "institution": "Luther College",
   "city": "Decorah",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 153834,
-  "grad_rate": 69.3,
-  "grad_rate_rank": 323,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 77.2,
+  "grad_rate_rank": 201,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 25052,
+  "avg_stu_loan_debt_rank": 1786,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52101",
+  "email": false
 }

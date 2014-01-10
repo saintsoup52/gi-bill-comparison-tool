@@ -1,6 +1,6 @@
 {
   "facility_code": "24851446",
-  "institution": "EVEREST COLLEGE-NEWPORT NEWS",
+  "institution": "Everest College-Newport News",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 117,
   "cross": 232502,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 174,
-  "default_rate": 33.1,
+  "grad_rate": 63.5,
+  "grad_rate_rank": 256,
+  "default_rate": 16.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23606",
+  "email": true
 }

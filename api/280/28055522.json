@@ -1,6 +1,6 @@
 {
   "facility_code": "28055522",
-  "institution": "MR. BELA'S SCHOOL OF COSMETOLOGY INC--MADISON CENTER",
+  "institution": "Mr. Bela'S School Of Cosmetology Inc--Madison Center",
   "city": "Warren",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 171261,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 7075,
-  "avg_stu_loan_debt_rank": 1159,
-  "indicator_group": 5
+  "grad_rate": 64.8,
+  "grad_rate_rank": 1437,
+  "default_rate": 22.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48092",
+  "email": true
 }

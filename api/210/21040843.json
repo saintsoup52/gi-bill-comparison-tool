@@ -1,6 +1,6 @@
 {
   "facility_code": "21040843",
-  "institution": "THE ART INSTITUTE OF SAN ANTONIO",
+  "institution": "The Art Institute Of San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 291,
   "cross": 458982,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 25.2,
+  "avg_stu_loan_debt": 16198,
+  "avg_stu_loan_debt_rank": 1069,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "78230",
+  "email": false
 }

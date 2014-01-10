@@ -1,6 +1,6 @@
 {
   "facility_code": "20973011",
-  "institution": "BLUE FLAME GAS CO INC",
+  "institution": "Blue Flame Gas Co Inc",
   "city": "Sharpsburg",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30277",
+  "email": false
 }

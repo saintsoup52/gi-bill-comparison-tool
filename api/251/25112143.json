@@ -1,6 +1,6 @@
 {
   "facility_code": "25112143",
-  "institution": "UNIVERSITY OF COSMETOLOGY ARTS AND SCIENCES NACO",
+  "institution": "University Of Cosmetology Arts And Sciences Naco",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 246415,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 2202,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 6250,
-  "avg_stu_loan_debt_rank": 988,
-  "indicator_group": 5
+  "grad_rate": 78.6,
+  "grad_rate_rank": 720,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 5916,
+  "avg_stu_loan_debt_rank": 405,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78217",
+  "email": false
 }

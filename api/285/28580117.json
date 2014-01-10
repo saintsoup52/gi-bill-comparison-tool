@@ -1,6 +1,6 @@
 {
   "facility_code": "28580117",
-  "institution": "TREND SETTERS ACADEMY OF BEAUTY CULTURE INC.",
+  "institution": "Trend Setters Academy Of Beauty Culture Inc.",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 468705,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 28.7,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "default_rate": 27.4,
+  "avg_stu_loan_debt": 4585,
+  "avg_stu_loan_debt_rank": 183,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40258",
+  "email": false
 }

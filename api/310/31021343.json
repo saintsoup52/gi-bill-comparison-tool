@@ -1,6 +1,6 @@
 {
   "facility_code": "31021343",
-  "institution": "TEXAS CHIROPRACTIC COLLEGE",
+  "institution": "Texas Chiropractic College",
   "city": "Pasadena",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 228866,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 8563,
-  "avg_stu_loan_debt_rank": 273,
-  "indicator_group": 4
+  "default_rate": 11.2,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 65,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "77505",
+  "email": false
 }

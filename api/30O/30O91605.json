@@ -1,6 +1,6 @@
 {
   "facility_code": "30O91605",
-  "institution": "N CALIFORNIA AND N NEVADA STATIONARY ENGINEERS JAC",
+  "institution": "N California And N Nevada Stationary Engineers Jac",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94124",
+  "email": false
 }

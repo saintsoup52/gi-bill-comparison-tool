@@ -1,6 +1,6 @@
 {
   "facility_code": "25020949",
-  "institution": "PC PRO SCHOOLS",
+  "institution": "Pc Pro Schools",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 455424,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
+  "grad_rate": 77.9,
+  "grad_rate_rank": 760,
+  "default_rate": 31.5,
   "avg_stu_loan_debt": 3167,
-  "avg_stu_loan_debt_rank": 567,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 59,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "53718",
+  "email": false
 }

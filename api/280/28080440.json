@@ -1,6 +1,6 @@
 {
   "facility_code": "28080440",
-  "institution": "PAUL MITCHELL THE SCHOOL - NORTH CHARLESTON",
+  "institution": "Paul Mitchell The School - North Charleston",
   "city": "North Charleston",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 467872,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8062,
-  "avg_stu_loan_debt_rank": 1390,
-  "indicator_group": 5
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 26.9,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 631,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29418",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10051911",
-  "institution": "COBB COUNTY E-911 CENTER",
+  "institution": "Cobb County E-911 Center",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30060",
+  "email": false
 }

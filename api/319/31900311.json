@@ -1,6 +1,6 @@
 {
   "facility_code": "31900311",
-  "institution": "CARVER BIBLE COLLEGE",
+  "institution": "Carver Bible College",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 139287,
-  "grad_rate": 4.2,
-  "grad_rate_rank": 1826,
-  "default_rate": null,
-  "avg_stu_loan_debt": 7125,
-  "avg_stu_loan_debt_rank": 147,
-  "indicator_group": 1
+  "grad_rate": 57.9,
+  "grad_rate_rank": 630,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 10375,
+  "avg_stu_loan_debt_rank": 174,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30331",
+  "email": true
 }

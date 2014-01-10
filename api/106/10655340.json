@@ -1,6 +1,6 @@
 {
   "facility_code": "10655340",
-  "institution": "SOUTH CAROLINA DEPARTMENT OF PROBATION PARDON AND PAROLE SERVICES - CALHOUN",
+  "institution": "South Carolina Department Of Probation Pardon And Parole Services - Calhoun",
   "city": "St Matthews",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29135",
+  "email": false
 }

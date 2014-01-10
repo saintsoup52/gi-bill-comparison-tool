@@ -1,6 +1,6 @@
 {
   "facility_code": "25011433",
-  "institution": "SOUTHEASTERN INSTITUTE (FORMERLY SOUTHEASTERN SCHOOL OF NEUROMUSCULAR MASSAGE)",
+  "institution": "Southeastern Institute (Formerly Southeastern School Of Neuromuscular Massage)",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 451352,
-  "grad_rate": 93.9,
-  "grad_rate_rank": 163,
-  "default_rate": 16.1,
+  "grad_rate": 94.8,
+  "grad_rate_rank": 153,
+  "default_rate": 13.4,
   "avg_stu_loan_debt": 6598,
-  "avg_stu_loan_debt_rank": 1082,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 570,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "28217",
+  "email": true
 }

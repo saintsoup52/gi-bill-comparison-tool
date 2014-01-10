@@ -1,6 +1,6 @@
 {
   "facility_code": "11901148",
-  "institution": "BLUEFIELD STATE COLLEGE",
+  "institution": "Bluefield State College",
   "city": "Bluefield",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 112,
   "cross": 237215,
-  "grad_rate": 22.3,
-  "grad_rate_rank": 1634,
-  "default_rate": 17.7,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 25.2,
+  "grad_rate_rank": 1625,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 13600,
+  "avg_stu_loan_debt_rank": 407,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24701",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14913421",
-  "institution": "NORTH SHORE COMMUNITY COLLEGE",
+  "institution": "North Shore Community College",
   "city": "Danvers",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 390,
   "cross": 167312,
-  "grad_rate": 19.3,
-  "grad_rate_rank": 882,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 245,
-  "indicator_group": 2
+  "grad_rate": 14.2,
+  "grad_rate_rank": 1145,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "1923",
+  "email": true
 }

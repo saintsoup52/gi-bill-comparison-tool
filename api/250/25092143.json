@@ -1,6 +1,6 @@
 {
   "facility_code": "25092143",
-  "institution": "PROFESSIONAL CAREERS INST HOUSTON",
+  "institution": "Professional Careers Inst Houston",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 449791,
-  "grad_rate": 56.3,
-  "grad_rate_rank": 1734,
-  "default_rate": 39.8,
-  "avg_stu_loan_debt": 6331,
-  "avg_stu_loan_debt_rank": 1004,
-  "indicator_group": 5
+  "grad_rate": 75.3,
+  "grad_rate_rank": 896,
+  "default_rate": 20.7,
+  "avg_stu_loan_debt": 6327,
+  "avg_stu_loan_debt_rank": 449,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77036",
+  "email": false
 }

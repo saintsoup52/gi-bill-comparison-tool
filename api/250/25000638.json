@@ -1,6 +1,6 @@
 {
   "facility_code": "25000638",
-  "institution": "AUTOMOTIVE TRAINING CENTER",
+  "institution": "Automotive Training Center",
   "city": "Exton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 211006,
-  "grad_rate": 69.5,
-  "grad_rate_rank": 1197,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 14600,
-  "avg_stu_loan_debt_rank": 2457,
-  "indicator_group": 5
+  "grad_rate": 63.2,
+  "grad_rate_rank": 1509,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 14680,
+  "avg_stu_loan_debt_rank": 1913,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19341",
+  "email": true
 }

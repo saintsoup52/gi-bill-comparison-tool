@@ -1,6 +1,6 @@
 {
   "facility_code": "25573725",
-  "institution": "APPLIED TECHNOLOGY SERVICES",
+  "institution": "Applied Technology Services",
   "city": "Sunset Hills",
   "state": "MO",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 2,
   "cross": 417716,
   "grad_rate": 87.5,
-  "grad_rate_rank": 340,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate_rank": 344,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 1738,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63127",
+  "email": true
 }

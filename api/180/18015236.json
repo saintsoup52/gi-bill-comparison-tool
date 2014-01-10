@@ -1,6 +1,6 @@
 {
   "facility_code": "18015236",
-  "institution": "KIAMICHI TECHNOLOGY CTR - HUGO",
+  "institution": "Kiamichi Technology Ctr - Hugo",
   "city": "Hugo",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 375717,
-  "grad_rate": 93.3,
-  "grad_rate_rank": 174,
+  "grad_rate": 91.5,
+  "grad_rate_rank": 234,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74743",
+  "email": false
 }

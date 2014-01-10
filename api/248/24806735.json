@@ -1,6 +1,6 @@
 {
   "facility_code": "24806735",
-  "institution": "NATIONAL COLLEGE-YOUNGSTOWN",
+  "institution": "National College-Youngstown",
   "city": "Youngstown",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 20,
   "cross": 453464,
-  "grad_rate": 31.7,
-  "grad_rate_rank": 488,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 17016,
-  "avg_stu_loan_debt_rank": 1338,
-  "indicator_group": 2
+  "grad_rate": 42.9,
+  "grad_rate_rank": 369,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 19001,
+  "avg_stu_loan_debt_rank": 1159,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44505",
+  "email": true
 }

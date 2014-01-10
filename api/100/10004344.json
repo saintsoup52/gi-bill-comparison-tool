@@ -1,6 +1,6 @@
 {
   "facility_code": "10004344",
-  "institution": "TOOELE CITY POLICE DEPARTMENT",
+  "institution": "Tooele City Police Department",
   "city": "Tooele",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84074",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28579717",
-  "institution": "EMPIRE BEAUTY SCHOOL-LOUISVILLE DIXIE HWY",
+  "institution": "Empire Beauty School-Louisville Dixie Hwy",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 157669,
-  "grad_rate": 40.3,
-  "grad_rate_rank": 2068,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 9757,
-  "avg_stu_loan_debt_rank": 2118,
-  "indicator_group": 5
+  "grad_rate": 37.8,
+  "grad_rate_rank": 2127,
+  "default_rate": 24.2,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40216",
+  "email": false
 }

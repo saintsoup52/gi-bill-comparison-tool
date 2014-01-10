@@ -1,6 +1,6 @@
 {
   "facility_code": "10567513",
-  "institution": "ILLINOIS YOUTH CENTER-ST. CHARLES",
+  "institution": "Illinois Youth Center-St. Charles",
   "city": "St. Charles",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60175",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14915421",
-  "institution": "MOUNT WACHUSETT COMMUNITY COLLEGE",
+  "institution": "Mount Wachusett Community College",
   "city": "Gardner",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 257,
   "cross": 166957,
-  "grad_rate": 16.2,
-  "grad_rate_rank": 988,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 14.3,
+  "grad_rate_rank": 1139,
+  "default_rate": 15.1,
+  "avg_stu_loan_debt": 5198,
+  "avg_stu_loan_debt_rank": 178,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "1440",
+  "email": true
 }

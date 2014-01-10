@@ -1,6 +1,6 @@
 {
   "facility_code": "25488810",
-  "institution": "FORTIS INSTITUTE - JACKSONVILLE",
+  "institution": "Fortis Institute - Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 444079,
-  "grad_rate": 45.2,
-  "grad_rate_rank": 2005,
-  "default_rate": 20.6,
-  "avg_stu_loan_debt": 8875,
-  "avg_stu_loan_debt_rank": 1558,
-  "indicator_group": 5
+  "grad_rate": 63.9,
+  "grad_rate_rank": 1474,
+  "default_rate": 22.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32216",
+  "email": true
 }

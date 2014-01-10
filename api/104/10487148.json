@@ -1,6 +1,6 @@
 {
   "facility_code": "10487148",
-  "institution": "WEST VIRGINIA DIVISION OF HIGHWAYS DISTRICT 9",
+  "institution": "West Virginia Division Of Highways District 9",
   "city": "Lewisburg",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24901",
+  "email": true
 }

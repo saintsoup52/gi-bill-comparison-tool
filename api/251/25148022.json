@@ -1,6 +1,6 @@
 {
   "facility_code": "25148022",
-  "institution": "TRAVERSE CITY BEAUTY COLLEGE",
+  "institution": "Traverse City Beauty College",
   "city": "Traverse City",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 172495,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 1489,
-  "default_rate": 11.2,
-  "avg_stu_loan_debt": 6484,
-  "avg_stu_loan_debt_rank": 1063,
-  "indicator_group": 5
+  "grad_rate": 80.5,
+  "grad_rate_rank": 617,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 9100,
+  "avg_stu_loan_debt_rank": 1010,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49686",
+  "email": true
 }

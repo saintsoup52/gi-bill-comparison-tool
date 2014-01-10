@@ -1,6 +1,6 @@
 {
   "facility_code": "25818113",
-  "institution": "MIDWEST HAIR ACADEMY",
+  "institution": "Midwest Hair Academy",
   "city": "Loves Park",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61111",
+  "email": false
 }

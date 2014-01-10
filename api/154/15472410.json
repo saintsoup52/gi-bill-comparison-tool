@@ -1,6 +1,6 @@
 {
   "facility_code": "15472410",
-  "institution": "MARION COUNTY COMMUNITY TECHNICAL AND ADULT EDUCATION",
+  "institution": "Marion County Community Technical And Adult Education",
   "city": "Ocala",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 419226,
-  "grad_rate": 74.2,
-  "grad_rate_rank": 965,
+  "grad_rate": 87.2,
+  "grad_rate_rank": 362,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "34471",
+  "email": true
 }

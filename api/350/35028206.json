@@ -1,6 +1,6 @@
 {
   "facility_code": "35028206",
-  "institution": "TECHNICAL EDUCATION COLLEGE",
+  "institution": "Technical Education College",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80915",
+  "email": false
 }

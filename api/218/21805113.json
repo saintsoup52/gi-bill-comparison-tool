@@ -1,6 +1,6 @@
 {
   "facility_code": "21805113",
-  "institution": "DEVRY UNIVERSITY ONLINE",
+  "institution": "Devry University Online",
   "city": "Naperville",
   "state": "IL",
   "country": "USA",
@@ -8,11 +8,14 @@
   "poe": true,
   "yr": true,
   "gibill": 3922,
-  "cross": 0,
+  "cross": 482477,
   "grad_rate": null,
   "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60563",
+  "email": true
 }

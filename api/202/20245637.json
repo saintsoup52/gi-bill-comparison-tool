@@ -1,6 +1,6 @@
 {
   "facility_code": "20245637",
-  "institution": "AREA IV INSIDE ELECTRICAL JATC",
+  "institution": "Area Iv Inside Electrical Jatc",
   "city": "Roseburg",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97470",
+  "email": true
 }

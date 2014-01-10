@@ -1,6 +1,6 @@
 {
   "facility_code": "15015946",
-  "institution": "VIRGINIA BEACH CITY SCH BOARD ADULT LEARNING CTR",
+  "institution": "Virginia Beach City Sch Board Adult Learning Ctr",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23452",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10607713",
-  "institution": "MINOOKA POLICE DEPARTMENT",
+  "institution": "Minooka Police Department",
   "city": "Minooka",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60447",
+  "email": false
 }

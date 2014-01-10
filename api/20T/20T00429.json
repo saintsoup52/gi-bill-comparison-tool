@@ -1,6 +1,6 @@
 {
   "facility_code": "20T00429",
-  "institution": "PLANESENSE INC/ATLAS AIRCRAFT CENTER INC.",
+  "institution": "Planesense Inc/Atlas Aircraft Center Inc.",
   "city": "Portsmouth",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3801",
+  "email": true
 }

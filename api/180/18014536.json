@@ -1,6 +1,6 @@
 {
   "facility_code": "18014536",
-  "institution": "SOUTHERN OKLAHOMA TECHNOLOGY CENTER",
+  "institution": "Southern Oklahoma Technology Center",
   "city": "Ardmore",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 365198,
-  "grad_rate": 42.3,
-  "grad_rate_rank": 2047,
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73401",
+  "email": true
 }

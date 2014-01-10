@@ -1,6 +1,6 @@
 {
   "facility_code": "31440947",
-  "institution": "UNIVERSITY OF NORTH DAKOTA AEROSPACE FOUNDATION-CH 31 ONLY",
+  "institution": "University Of North Dakota Aerospace Foundation-Ch 31 Only",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 200280,
-  "grad_rate": 54.3,
-  "grad_rate_rank": 737,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 17120,
-  "avg_stu_loan_debt_rank": 964,
-  "indicator_group": 1
+  "grad_rate": 52.4,
+  "grad_rate_rank": 820,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 16028,
+  "avg_stu_loan_debt_rank": 634,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99219",
+  "email": false
 }

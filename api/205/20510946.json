@@ -1,6 +1,6 @@
 {
   "facility_code": "20510946",
-  "institution": "ALL ABOUT YOU SALON & DAY SPA",
+  "institution": "All About You Salon & Day Spa",
   "city": "Marion",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24354",
+  "email": true
 }

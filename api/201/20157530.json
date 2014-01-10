@@ -1,6 +1,6 @@
 {
   "facility_code": "20157530",
-  "institution": "JAC STEAM AND PIPEFITTER LOCAL 322",
+  "institution": "Jac Steam And Pipefitter Local 322",
   "city": "Winslow",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8095",
+  "email": false
 }

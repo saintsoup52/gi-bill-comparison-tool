@@ -1,6 +1,6 @@
 {
   "facility_code": "14917415",
-  "institution": "DES MOINES AREA COMMUNITY COLLEGE",
+  "institution": "Des Moines Area Community College",
   "city": "Ankeny",
   "state": "IA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 867,
   "cross": 153214,
   "grad_rate": 41.7,
-  "grad_rate_rank": 306,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 602,
-  "indicator_group": 2
+  "grad_rate_rank": 386,
+  "default_rate": 23.1,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "50023",
+  "email": false
 }

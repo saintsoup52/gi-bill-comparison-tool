@@ -1,6 +1,6 @@
 {
   "facility_code": "11881010",
-  "institution": "FLORIDA A&M UNIVERSITY",
+  "institution": "Florida A&M University",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 355,
   "cross": 133650,
-  "grad_rate": 40.0,
-  "grad_rate_rank": 1229,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 39.7,
+  "grad_rate_rank": 1264,
+  "default_rate": 18.9,
+  "avg_stu_loan_debt": 19650,
+  "avg_stu_loan_debt_rank": 1145,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32307",
+  "email": true
 }

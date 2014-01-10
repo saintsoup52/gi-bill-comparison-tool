@@ -1,6 +1,6 @@
 {
   "facility_code": "31330132",
-  "institution": "CLARKSON UNIVERSITY",
+  "institution": "Clarkson University",
   "city": "Potsdam",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 190044,
-  "grad_rate": 72.1,
-  "grad_rate_rank": 274,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 24200,
-  "avg_stu_loan_debt_rank": 1878,
-  "indicator_group": 1
+  "grad_rate": 69.8,
+  "grad_rate_rank": 316,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13699",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14904422",
-  "institution": "DELTA COLLEGE",
+  "institution": "Delta College",
   "city": "University Center",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 407,
   "cross": 169521,
-  "grad_rate": 15.3,
-  "grad_rate_rank": 478,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 200,
-  "indicator_group": 3
+  "grad_rate": 14.4,
+  "grad_rate_rank": 1134,
+  "default_rate": 16.5,
+  "avg_stu_loan_debt": 5368,
+  "avg_stu_loan_debt_rank": 211,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48710",
+  "email": true
 }

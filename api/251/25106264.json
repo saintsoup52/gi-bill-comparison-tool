@@ -1,6 +1,6 @@
 {
   "facility_code": "25106264",
-  "institution": "HONOLULU SCHOOL OF MASSAGE INC. (APP W/D SEE REMARKS)",
+  "institution": "Honolulu School Of Massage Inc. (App W/D See Remarks)",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96816",
+  "email": "No (SCO)"
 }

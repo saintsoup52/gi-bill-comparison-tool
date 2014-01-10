@@ -1,6 +1,6 @@
 {
   "facility_code": "149A1432",
-  "institution": "BOROUGH OF MANHATTAN COMMUNITY COLLEGE",
+  "institution": "Borough Of Manhattan Community College",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 389,
   "cross": 190521,
-  "grad_rate": 11.9,
-  "grad_rate_rank": 1143,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 440,
-  "indicator_group": 2
+  "grad_rate": 15.0,
+  "grad_rate_rank": 1109,
+  "default_rate": 16.3,
+  "avg_stu_loan_debt": 6003,
+  "avg_stu_loan_debt_rank": 332,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10007",
+  "email": true
 }

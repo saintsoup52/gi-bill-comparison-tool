@@ -1,6 +1,6 @@
 {
   "facility_code": "31013845",
-  "institution": "ALBANY COLLEGE OF PHARMACY & HEALTH SCIENCES",
+  "institution": "Albany College Of Pharmacy & Health Sciences",
   "city": "Colchester",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 188526,
-  "grad_rate": 67.7,
-  "grad_rate_rank": 363,
-  "default_rate": 0.8,
-  "avg_stu_loan_debt": 19125,
-  "avg_stu_loan_debt_rank": 1265,
-  "indicator_group": 1
+  "grad_rate": 69.8,
+  "grad_rate_rank": 316,
+  "default_rate": 0.3,
+  "avg_stu_loan_debt": 22125,
+  "avg_stu_loan_debt_rank": 1435,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5446",
+  "email": false
 }

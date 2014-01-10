@@ -1,6 +1,6 @@
 {
   "facility_code": "31942810",
-  "institution": "LUTHER RICE SEMINARY EXTENSION CENTER",
+  "institution": "Luther Rice Seminary Extension Center",
   "city": "Orange Park",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32222",
+  "email": "No (SCO)"
 }

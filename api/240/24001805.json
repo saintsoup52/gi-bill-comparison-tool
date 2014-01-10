@@ -1,6 +1,6 @@
 {
   "facility_code": "24001805",
-  "institution": "KAPLAN COLLEGE (PALM SPRINGS)",
+  "institution": "Kaplan College (Palm Springs)",
   "city": "Palm Springs",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 447634,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 22.7,
-  "avg_stu_loan_debt": 9452,
-  "avg_stu_loan_debt_rank": 443,
-  "indicator_group": 3
+  "grad_rate": 80.3,
+  "grad_rate_rank": 65,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 9370,
+  "avg_stu_loan_debt_rank": 335,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92262",
+  "email": true
 }

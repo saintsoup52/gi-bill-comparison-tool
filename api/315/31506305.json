@@ -1,6 +1,6 @@
 {
   "facility_code": "31506305",
-  "institution": "LOYOLA LAW SCHOOL",
+  "institution": "Loyola Law School",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 117946,
-  "grad_rate": 77.0,
-  "grad_rate_rank": 196,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 24750,
-  "avg_stu_loan_debt_rank": 1903,
-  "indicator_group": 1
+  "grad_rate": 75.2,
+  "grad_rate_rank": 229,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90015",
+  "email": false
 }

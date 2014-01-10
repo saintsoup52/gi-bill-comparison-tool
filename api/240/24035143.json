@@ -1,6 +1,6 @@
 {
   "facility_code": "24035143",
-  "institution": "EVEREST COLLEGE FT WORTH",
+  "institution": "Everest College Ft Worth",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 73,
   "cross": 445197,
-  "grad_rate": 59.0,
-  "grad_rate_rank": 144,
-  "default_rate": 30.0,
+  "grad_rate": 64.5,
+  "grad_rate_rank": 242,
+  "default_rate": 17.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "76137",
+  "email": false
 }

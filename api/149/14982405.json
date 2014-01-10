@@ -1,6 +1,6 @@
 {
   "facility_code": "14982405",
-  "institution": "FULLERTON COLLEGE",
+  "institution": "Fullerton College",
   "city": "Fullerton",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 558,
   "cross": 114859,
-  "grad_rate": 23.4,
-  "grad_rate_rank": 742,
-  "default_rate": 22.2,
-  "avg_stu_loan_debt": 5045,
-  "avg_stu_loan_debt_rank": 277,
-  "indicator_group": 2
+  "grad_rate": 26.2,
+  "grad_rate_rank": 748,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92832",
+  "email": false
 }

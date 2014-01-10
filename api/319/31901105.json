@@ -1,6 +1,6 @@
 {
   "facility_code": "31901105",
-  "institution": "COLEMAN UNIVERSITY",
+  "institution": "Coleman University",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 325,
   "cross": 112446,
-  "grad_rate": 65.7,
-  "grad_rate_rank": 96,
-  "default_rate": 17.2,
-  "avg_stu_loan_debt": 17718,
-  "avg_stu_loan_debt_rank": 807,
-  "indicator_group": 3
+  "grad_rate": 59.0,
+  "grad_rate_rank": 307,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 17626,
+  "avg_stu_loan_debt_rank": 694,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92123",
+  "email": true
 }

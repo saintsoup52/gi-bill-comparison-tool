@@ -1,6 +1,6 @@
 {
   "facility_code": "31012405",
-  "institution": "UNIVERSITY OF REDLANDS (SANTA ANA)",
+  "institution": "University Of Redlands (Santa Ana)",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 121691,
-  "grad_rate": 70.0,
-  "grad_rate_rank": 305,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 71.8,
+  "grad_rate_rank": 288,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92707",
+  "email": false
 }

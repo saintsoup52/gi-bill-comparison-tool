@@ -1,6 +1,6 @@
 {
   "facility_code": "24922417",
-  "institution": "SPENCERIAN COLLEGE - LEXINGTON",
+  "institution": "Spencerian College - Lexington",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 49,
   "cross": 433563,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 53,
-  "default_rate": 27.2,
-  "avg_stu_loan_debt": 11917,
-  "avg_stu_loan_debt_rank": 708,
-  "indicator_group": 3
+  "grad_rate": 50.6,
+  "grad_rate_rank": 258,
+  "default_rate": 26.7,
+  "avg_stu_loan_debt": 12757,
+  "avg_stu_loan_debt_rank": 906,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "40505",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14002936",
-  "institution": "SOUTHWESTERN OKLAHOMA STATE UNIV AT SAYRE",
+  "institution": "Southwestern Oklahoma State Univ At Sayre",
   "city": "Sayre",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 207865,
-  "grad_rate": 32.9,
-  "grad_rate_rank": 1425,
-  "default_rate": 17.0,
-  "avg_stu_loan_debt": 10824,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 1
+  "grad_rate": 34.5,
+  "grad_rate_rank": 1404,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 10942,
+  "avg_stu_loan_debt_rank": 218,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73662",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31904120",
-  "institution": "MARYLAND INSTITUTE COLLEGE OF ART",
+  "institution": "Maryland Institute College Of Art",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 29,
   "cross": 163295,
-  "grad_rate": 71.1,
-  "grad_rate_rank": 286,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 70.8,
+  "grad_rate_rank": 303,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21217",
+  "email": true
 }

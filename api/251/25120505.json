@@ -1,6 +1,6 @@
 {
   "facility_code": "25120505",
-  "institution": "NORTH ADRIAN'S BEAUTY COLLEGE",
+  "institution": "North Adrian'S Beauty College",
   "city": "Modesto",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 119951,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 1461,
-  "default_rate": 27.8,
+  "grad_rate": 54.4,
+  "grad_rate_rank": 1821,
+  "default_rate": 32.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95350",
+  "email": true
 }

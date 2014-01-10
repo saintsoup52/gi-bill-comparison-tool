@@ -1,6 +1,6 @@
 {
   "facility_code": "11001733",
-  "institution": "UNIVERSITY OF NORTH CAROLINA @ GREENSBORO",
+  "institution": "University Of North Carolina @ Greensboro",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 580,
   "cross": 199148,
-  "grad_rate": 53.5,
-  "grad_rate_rank": 761,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 16992,
-  "avg_stu_loan_debt_rank": 949,
-  "indicator_group": 1
+  "grad_rate": 54.3,
+  "grad_rate_rank": 765,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 18114,
+  "avg_stu_loan_debt_rank": 931,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27402",
+  "email": true
 }

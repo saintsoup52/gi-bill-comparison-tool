@@ -1,6 +1,6 @@
 {
   "facility_code": "31940105",
-  "institution": "OTIS COLLEGE OF ART AND DESIGN",
+  "institution": "Otis College Of Art And Design",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 120403,
-  "grad_rate": 52.0,
-  "grad_rate_rank": 810,
-  "default_rate": 12.6,
-  "avg_stu_loan_debt": 31500,
-  "avg_stu_loan_debt_rank": 2045,
-  "indicator_group": 1
+  "grad_rate": 53.1,
+  "grad_rate_rank": 803,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 32000,
+  "avg_stu_loan_debt_rank": 1973,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90045",
+  "email": false
 }

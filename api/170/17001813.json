@@ -1,6 +1,6 @@
 {
   "facility_code": "17001813",
-  "institution": "THE GARRISON ALTERNATIVE SCHOOL (PITTSFIELD HIGH SCHOOL)",
+  "institution": "The Garrison Alternative School (Pittsfield High School)",
   "city": "Jacksonville",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62363",
+  "email": false
 }

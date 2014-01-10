@@ -1,6 +1,6 @@
 {
   "facility_code": "20063542",
-  "institution": "TRW AUTOMOTIVE",
+  "institution": "Trw Automotive",
   "city": "Lebanon",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37087",
+  "email": false
 }

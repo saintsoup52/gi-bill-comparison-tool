@@ -1,6 +1,6 @@
 {
   "facility_code": "25092521",
-  "institution": "MEDICAL PROFESSIONAL INSTITUTE",
+  "institution": "Medical Professional Institute",
   "city": "Malden",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 444769,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 4354,
-  "avg_stu_loan_debt_rank": 725,
-  "indicator_group": 5
+  "grad_rate": 86.4,
+  "grad_rate_rank": 393,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 6123,
+  "avg_stu_loan_debt_rank": 427,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2148",
+  "email": true
 }

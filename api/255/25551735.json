@@ -1,6 +1,6 @@
 {
   "facility_code": "25551735",
-  "institution": "OHIO STATE COLLEGE OF BARBER STYLING",
+  "institution": "Ohio State College Of Barber Styling",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 204723,
-  "grad_rate": 70.6,
-  "grad_rate_rank": 1150,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 5397,
-  "avg_stu_loan_debt_rank": 831,
-  "indicator_group": 5
+  "grad_rate": 84.2,
+  "grad_rate_rank": 462,
+  "default_rate": 40.0,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43213",
+  "email": false
 }

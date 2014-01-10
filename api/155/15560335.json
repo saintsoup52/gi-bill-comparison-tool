@@ -1,6 +1,6 @@
 {
   "facility_code": "15560335",
-  "institution": "UNIVERSITY OF AKRON TRNG CTR FIRE & HAZARDOUS MATERIALS",
+  "institution": "University Of Akron Trng Ctr Fire & Hazardous Materials",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44325",
+  "email": false
 }

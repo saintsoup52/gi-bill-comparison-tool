@@ -1,6 +1,6 @@
 {
   "facility_code": "10W43538",
-  "institution": "FOUNTAIN HILL POLICE DEPARTMENT",
+  "institution": "Fountain Hill Police Department",
   "city": "Fountain Hill",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18015",
+  "email": false
 }

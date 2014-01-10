@@ -1,6 +1,6 @@
 {
   "facility_code": "249C1410",
-  "institution": "SANFORD BROWN INSTITUTE-TAMPA",
+  "institution": "Sanford Brown Institute-Tampa",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 379029,
-  "grad_rate": 57.5,
-  "grad_rate_rank": 156,
-  "default_rate": 27.5,
-  "avg_stu_loan_debt": 11125,
-  "avg_stu_loan_debt_rank": 678,
-  "indicator_group": 3
+  "grad_rate": 55.7,
+  "grad_rate_rank": 343,
+  "default_rate": 24.2,
+  "avg_stu_loan_debt": 10716,
+  "avg_stu_loan_debt_rank": 556,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33610",
+  "email": true
 }

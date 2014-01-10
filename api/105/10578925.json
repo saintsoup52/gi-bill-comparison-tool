@@ -1,6 +1,6 @@
 {
   "facility_code": "10578925",
-  "institution": "FULTON RECEPTION & DIAGNOSTIC CENTER",
+  "institution": "Fulton Reception & Diagnostic Center",
   "city": "Fulton",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65251",
+  "email": false
 }

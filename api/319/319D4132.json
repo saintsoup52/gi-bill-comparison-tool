@@ -1,6 +1,6 @@
 {
   "facility_code": "319D4132",
-  "institution": "KEUKA COLLEGE",
+  "institution": "Keuka College",
   "city": "Keuka Park",
   "state": "NY",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 82,
   "cross": 192192,
   "grad_rate": 50.4,
-  "grad_rate_rank": 866,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 19845,
-  "avg_stu_loan_debt_rank": 1379,
-  "indicator_group": 1
+  "grad_rate_rank": 880,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 22250,
+  "avg_stu_loan_debt_rank": 1446,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14478",
+  "email": true
 }

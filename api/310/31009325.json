@@ -1,6 +1,6 @@
 {
   "facility_code": "31009325",
-  "institution": "CENTRAL BIBLE COLLEGE",
+  "institution": "Central Bible College",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 176938,
-  "grad_rate": 52.8,
-  "grad_rate_rank": 779,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 16320,
-  "avg_stu_loan_debt_rank": 874,
-  "indicator_group": 1
+  "grad_rate": 77.6,
+  "grad_rate_rank": 194,
+  "default_rate": 10.3,
+  "avg_stu_loan_debt": 17800,
+  "avg_stu_loan_debt_rank": 895,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65802",
+  "email": true
 }

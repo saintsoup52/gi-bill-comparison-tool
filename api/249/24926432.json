@@ -1,6 +1,6 @@
 {
   "facility_code": "24926432",
-  "institution": "AMERICAN ACADEMY OF DRAMATIC ARTS",
+  "institution": "American Academy Of Dramatic Arts",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 188678,
-  "grad_rate": 80.8,
-  "grad_rate_rank": 33,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1451,
-  "indicator_group": 2
+  "grad_rate": 83.1,
+  "grad_rate_rank": 27,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1245,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10016",
+  "email": true
 }

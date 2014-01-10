@@ -1,6 +1,6 @@
 {
   "facility_code": "31942113",
-  "institution": "ELMHURST COLLEGE",
+  "institution": "Elmhurst College",
   "city": "Elmhurst",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 144962,
-  "grad_rate": 69.7,
-  "grad_rate_rank": 310,
-  "default_rate": 2.0,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 73.6,
+  "grad_rate_rank": 259,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 20362,
+  "avg_stu_loan_debt_rank": 1234,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60126",
+  "email": false
 }

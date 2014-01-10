@@ -1,6 +1,6 @@
 {
   "facility_code": "28011929",
-  "institution": "CONTINENTAL ACADEMIE OF HAIR DESIGN",
+  "institution": "Continental Academie Of Hair Design",
   "city": "Hudson",
   "state": "NH",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 182652,
   "grad_rate": 90.7,
-  "grad_rate_rank": 245,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate_rank": 250,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 9075,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3051",
+  "email": false
 }

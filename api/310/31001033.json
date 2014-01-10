@@ -1,6 +1,6 @@
 {
   "facility_code": "31001033",
-  "institution": "LENOIR-RHYNE UNIVERSITY (FORMERLY COLLEGE)",
+  "institution": "Lenoir-Rhyne University (Formerly College)",
   "city": "Hickory",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 198835,
-  "grad_rate": 46.9,
-  "grad_rate_rank": 988,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 20325,
-  "avg_stu_loan_debt_rank": 1464,
-  "indicator_group": 1
+  "grad_rate": 49.0,
+  "grad_rate_rank": 930,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 19812,
+  "avg_stu_loan_debt_rank": 1170,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28603",
+  "email": true
 }

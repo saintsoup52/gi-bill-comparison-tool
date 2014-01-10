@@ -1,6 +1,6 @@
 {
   "facility_code": "25001307",
-  "institution": "PORTER AND CHESTER INSTITUTE - WATERTOWN",
+  "institution": "Porter And Chester Institute - Watertown",
   "city": "Watertown Oakville",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 130174,
-  "grad_rate": 81.2,
-  "grad_rate_rank": 590,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 12750,
-  "avg_stu_loan_debt_rank": 2397,
-  "indicator_group": 5
+  "grad_rate": 70.0,
+  "grad_rate_rank": 1175,
+  "default_rate": 24.0,
+  "avg_stu_loan_debt": 12422,
+  "avg_stu_loan_debt_rank": 1812,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6779",
+  "email": true
 }

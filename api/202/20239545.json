@@ -1,6 +1,6 @@
 {
   "facility_code": "20239545",
-  "institution": "PRATT & SMITH ELECTRIC",
+  "institution": "Pratt & Smith Electric",
   "city": "Milton",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5468",
+  "email": false
 }

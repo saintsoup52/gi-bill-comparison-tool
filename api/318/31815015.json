@@ -1,6 +1,6 @@
 {
   "facility_code": "31815015",
-  "institution": "WARTBURG COLLEGE",
+  "institution": "Wartburg College",
   "city": "Waverly",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 154527,
-  "grad_rate": 63.1,
-  "grad_rate_rank": 484,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 65.3,
+  "grad_rate_rank": 425,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 24714,
+  "avg_stu_loan_debt_rank": 1702,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "50677",
+  "email": false
 }

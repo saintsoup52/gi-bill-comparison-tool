@@ -1,6 +1,6 @@
 {
   "facility_code": "21802740",
-  "institution": "VIRGINIA COLLEGE SPARTANBURG",
+  "institution": "Virginia College Spartanburg",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 460853,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 12207,
+  "avg_stu_loan_debt_rank": 593,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "29301",
+  "email": true
 }

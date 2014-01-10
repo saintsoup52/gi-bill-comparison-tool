@@ -1,6 +1,6 @@
 {
   "facility_code": "14917405",
-  "institution": "NAPA VALLEY COLLEGE",
+  "institution": "Napa Valley College",
   "city": "Napa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 170,
   "cross": 119331,
-  "grad_rate": 30.6,
-  "grad_rate_rank": 511,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 9327,
-  "avg_stu_loan_debt_rank": 744,
-  "indicator_group": 2
+  "grad_rate": 34.1,
+  "grad_rate_rank": 523,
+  "default_rate": 13.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "94558",
+  "email": false
 }

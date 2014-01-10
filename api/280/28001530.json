@@ -1,6 +1,6 @@
 {
   "facility_code": "28001530",
-  "institution": "LINCOLN TECHNICAL INSTITUTE - SOUTH PLAINFIELD",
+  "institution": "Lincoln Technical Institute - South Plainfield",
   "city": "South Plainfield",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 184427,
-  "grad_rate": 65.8,
-  "grad_rate_rank": 1364,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 2494,
-  "indicator_group": 5
+  "grad_rate": 65.6,
+  "grad_rate_rank": 1397,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 17355,
+  "avg_stu_loan_debt_rank": 1965,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7080",
+  "email": true
 }

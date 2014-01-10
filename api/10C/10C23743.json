@@ -1,6 +1,6 @@
 {
   "facility_code": "10C23743",
-  "institution": "CITY OF CORPUS CHRISTI WATER DEPT",
+  "institution": "City Of Corpus Christi Water Dept",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78401",
+  "email": true
 }

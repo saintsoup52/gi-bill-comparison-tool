@@ -1,6 +1,6 @@
 {
   "facility_code": "34800218",
-  "institution": "REMINGTON COLLEGE - SHREVEPORT",
+  "institution": "Remington College - Shreveport",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 451866,
-  "grad_rate": 62.2,
-  "grad_rate_rank": 118,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 9487,
-  "avg_stu_loan_debt_rank": 445,
-  "indicator_group": 3
+  "grad_rate": 79.5,
+  "grad_rate_rank": 74,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4407,
+  "avg_stu_loan_debt_rank": 55,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "71118",
+  "email": true
 }

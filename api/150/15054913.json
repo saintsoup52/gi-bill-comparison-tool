@@ -1,6 +1,6 @@
 {
   "facility_code": "15054913",
-  "institution": "CAPITAL AREA SCHOOL OF PRACTICAL NURSING",
+  "institution": "Capital Area School Of Practical Nursing",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 367972,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 526,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 8840,
-  "avg_stu_loan_debt_rank": 1536,
-  "indicator_group": 5
+  "grad_rate": 98.5,
+  "grad_rate_rank": 92,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62707",
+  "email": true
 }

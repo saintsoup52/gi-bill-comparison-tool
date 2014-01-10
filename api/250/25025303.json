@@ -1,6 +1,6 @@
 {
   "facility_code": "25025303",
-  "institution": "GPS LLC    (CH 31 ONLY)",
+  "institution": "Gps Llc    (Ch 31 Only)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85267",
+  "email": false
 }

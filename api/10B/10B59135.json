@@ -1,6 +1,6 @@
 {
   "facility_code": "10B59135",
-  "institution": "OHIO BUREAU OF EMPLOYMENT SERVICES",
+  "institution": "Ohio Bureau Of Employment Services",
   "city": "Canton",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44702",
+  "email": "No (SCO)"
 }

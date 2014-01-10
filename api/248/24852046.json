@@ -1,6 +1,6 @@
 {
   "facility_code": "24852046",
-  "institution": "COLUMBIA COLLEGE",
+  "institution": "Columbia College",
   "city": "Fairfax",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 455983,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 66.8,
+  "grad_rate_rank": 212,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5261,
-  "avg_stu_loan_debt_rank": 193,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 5700,
+  "avg_stu_loan_debt_rank": 140,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "22031",
+  "email": true
 }

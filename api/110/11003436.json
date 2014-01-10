@@ -1,6 +1,6 @@
 {
   "facility_code": "11003436",
-  "institution": "OKLAHOMA STATE UNIVERSITY CENTER FOR HEALTH SCIENCES",
+  "institution": "Oklahoma State University Center For Health Sciences",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 207315,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.3,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "74107",
+  "email": true
 }

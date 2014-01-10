@@ -1,10 +1,10 @@
 {
   "facility_code": "25026463",
-  "institution": "**CH 31 ONLY) AVIATION & INDUSTRY ACADEMY",
+  "institution": "**Ch 31 Only) Aviation & Industry Academy",
   "city": "Carolina",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": 2,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "984",
+  "email": false
 }

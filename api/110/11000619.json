@@ -1,6 +1,6 @@
 {
   "facility_code": "11000619",
-  "institution": "UNIVERSITY OF MAINE AT ORONO",
+  "institution": "University Of Maine At Orono",
   "city": "Orono",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 403,
   "cross": 161253,
-  "grad_rate": 60.4,
-  "grad_rate_rank": 553,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 18965,
-  "avg_stu_loan_debt_rank": 1220,
-  "indicator_group": 1
+  "grad_rate": 59.3,
+  "grad_rate_rank": 583,
+  "default_rate": 6.5,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4469",
+  "email": true
 }

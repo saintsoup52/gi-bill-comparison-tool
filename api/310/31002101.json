@@ -1,6 +1,6 @@
 {
   "facility_code": "31002101",
-  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV FT RUCKER",
+  "institution": "Embry-Riddle Aeronautical Univ Ft Rucker",
   "city": "Ft Rucker",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36362",
+  "email": true
 }

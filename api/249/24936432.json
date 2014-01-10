@@ -1,6 +1,6 @@
 {
   "facility_code": "24936432",
-  "institution": "EVEREST INSTITUTE",
+  "institution": "Everest Institute",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 194967,
-  "grad_rate": 25.8,
-  "grad_rate_rank": 660,
-  "default_rate": 32.9,
+  "grad_rate": 24.9,
+  "grad_rate_rank": 791,
+  "default_rate": 16.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14621",
+  "email": true
 }

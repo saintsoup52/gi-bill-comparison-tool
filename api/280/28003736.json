@@ -1,6 +1,6 @@
 {
   "facility_code": "28003736",
-  "institution": "CENTRAL STATE BEAUTY ACADEMY",
+  "institution": "Central State Beauty Academy",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 206932,
-  "grad_rate": 51.1,
-  "grad_rate_rank": 1897,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 6947,
-  "avg_stu_loan_debt_rank": 1131,
-  "indicator_group": 5
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 5333,
+  "avg_stu_loan_debt_rank": 290,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73162",
+  "email": true
 }

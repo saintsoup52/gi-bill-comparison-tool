@@ -1,6 +1,6 @@
 {
   "facility_code": "20599940",
-  "institution": "EVANS CORRECTIONAL INSTITUTION",
+  "institution": "Evans Correctional Institution",
   "city": "Bennettsville",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29512",
+  "email": false
 }

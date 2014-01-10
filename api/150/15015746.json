@@ -1,6 +1,6 @@
 {
   "facility_code": "15015746",
-  "institution": "VALLEY VOCATIONAL TECHNICAL CENTER- FISHERSVILLE",
+  "institution": "Valley Vocational Technical Center- Fishersville",
   "city": "Fishersville",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "22939",
+  "email": false
 }

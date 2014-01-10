@@ -1,6 +1,6 @@
 {
   "facility_code": "15081213",
-  "institution": "EAST PEORIA HIGH SCHOOL",
+  "institution": "East Peoria High School",
   "city": "East Peoria",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61611",
+  "email": true
 }

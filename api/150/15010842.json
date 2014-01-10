@@ -1,6 +1,6 @@
 {
   "facility_code": "15010842",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - WHITEVILLE",
+  "institution": "Tennessee College Of Applied Technology - Whiteville",
   "city": "Whiteville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 221634,
-  "grad_rate": 40.4,
-  "grad_rate_rank": 2066,
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38075",
+  "email": false
 }

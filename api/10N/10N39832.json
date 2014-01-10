@@ -1,6 +1,6 @@
 {
   "facility_code": "10N39832",
-  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - CORTLAND",
+  "institution": "New York State Department Of Transportation - Cortland",
   "city": "Cortland",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13045",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28018244",
-  "institution": "EVANS HAIRSTYLING COLLEGE - CEDAR CITY",
+  "institution": "Evans Hairstyling College - Cedar City",
   "city": "Cedar City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 230199,
-  "grad_rate": 74.4,
-  "grad_rate_rank": 954,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 4418,
-  "avg_stu_loan_debt_rank": 730,
-  "indicator_group": 5
+  "grad_rate": 88.6,
+  "grad_rate_rank": 314,
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 147,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84720",
+  "email": false
 }

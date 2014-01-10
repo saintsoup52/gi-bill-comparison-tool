@@ -1,6 +1,6 @@
 {
   "facility_code": "31005246",
-  "institution": "FERRUM COLLEGE REGISTRAR'S OFFICE",
+  "institution": "Ferrum College Registrar'S Office",
   "city": "Ferrum",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 51,
   "cross": 232089,
-  "grad_rate": 31.2,
-  "grad_rate_rank": 1466,
-  "default_rate": 21.6,
-  "avg_stu_loan_debt": 17588,
-  "avg_stu_loan_debt_rank": 1039,
-  "indicator_group": 1
+  "grad_rate": 32.9,
+  "grad_rate_rank": 1452,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 16490,
+  "avg_stu_loan_debt_rank": 736,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24088",
+  "email": true
 }

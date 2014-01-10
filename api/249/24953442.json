@@ -1,6 +1,6 @@
 {
   "facility_code": "24953442",
-  "institution": "NATIONAL COLLEGE OF BUSINESS & TECHNOLOGY - NASHVILLE",
+  "institution": "National College Of Business & Technology - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 388043,
-  "grad_rate": 28.6,
-  "grad_rate_rank": 577,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 16667,
-  "avg_stu_loan_debt_rank": 1329,
-  "indicator_group": 2
+  "grad_rate": 29.4,
+  "grad_rate_rank": 649,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 19667,
+  "avg_stu_loan_debt_rank": 1186,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37211",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001716",
-  "institution": "STERLING COLLEGE",
+  "institution": "Sterling College",
   "city": "Sterling",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 155937,
-  "grad_rate": 47.6,
-  "grad_rate_rank": 974,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 34.0,
+  "grad_rate_rank": 1416,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 16980,
+  "avg_stu_loan_debt_rank": 799,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67579",
+  "email": false
 }

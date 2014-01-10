@@ -1,6 +1,6 @@
 {
   "facility_code": "158A0832",
-  "institution": "BOCES GREATER SOUTHERN TIER (GST)",
+  "institution": "Boces Greater Southern Tier (Gst)",
   "city": "Elmira",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 406325,
-  "grad_rate": 73.4,
-  "grad_rate_rank": 997,
-  "default_rate": 22.9,
+  "grad_rate": 91.3,
+  "grad_rate_rank": 239,
+  "default_rate": 17.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14903",
+  "email": true
 }

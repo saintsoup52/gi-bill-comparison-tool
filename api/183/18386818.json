@@ -1,6 +1,6 @@
 {
   "facility_code": "18386818",
-  "institution": "SOUTH LOUISIANA COMM COLLEGE - CHARLES",
+  "institution": "South Louisiana Comm College - Charles",
   "city": "Ville Platte",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70586",
+  "email": true
 }

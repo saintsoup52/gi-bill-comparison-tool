@@ -1,6 +1,6 @@
 {
   "facility_code": "25518917",
-  "institution": "CENTER FOR COMPREHENSIVE SERVICES",
+  "institution": "Center For Comprehensive Services",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40243",
+  "email": false
 }

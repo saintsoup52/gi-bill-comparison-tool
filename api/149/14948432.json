@@ -1,6 +1,6 @@
 {
   "facility_code": "14948432",
-  "institution": "MONROE COMMUNITY COLLEGE",
+  "institution": "Monroe Community College",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 694,
   "cross": 193326,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 682,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 8483,
-  "avg_stu_loan_debt_rank": 681,
-  "indicator_group": 2
+  "grad_rate": 22.9,
+  "grad_rate_rank": 847,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 8668,
+  "avg_stu_loan_debt_rank": 597,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14623",
+  "email": true
 }

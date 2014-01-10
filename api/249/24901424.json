@@ -1,6 +1,6 @@
 {
   "facility_code": "24901424",
-  "institution": "BLUE CLIFF COLLEGE GULFPORT",
+  "institution": "Blue Cliff College Gulfport",
   "city": "Gulfport",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 441502,
-  "grad_rate": 3.5,
-  "grad_rate_rank": 536,
-  "default_rate": 22.4,
-  "avg_stu_loan_debt": 8515,
-  "avg_stu_loan_debt_rank": 379,
-  "indicator_group": 3
+  "grad_rate": 89.0,
+  "grad_rate_rank": 22,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "39503",
+  "email": true
 }

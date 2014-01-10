@@ -1,6 +1,6 @@
 {
   "facility_code": "25023720",
-  "institution": "WASHINGTON INTERNATIONAL FLIGHT ACADEMY LLC",
+  "institution": "Washington International Flight Academy Llc",
   "city": "Gaithersburg",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20879",
+  "email": true
 }

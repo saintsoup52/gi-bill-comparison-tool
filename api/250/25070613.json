@@ -1,6 +1,6 @@
 {
   "facility_code": "25070613",
-  "institution": "INTERNATIONAL CAREER INSTITUTE",
+  "institution": "International Career Institute",
   "city": "Lincolnwood",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60712",
+  "email": true
 }

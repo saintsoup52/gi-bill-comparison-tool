@@ -1,6 +1,6 @@
 {
   "facility_code": "11929105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-CHANNEL ISLANDS",
+  "institution": "California State University-Channel Islands",
   "city": "Camarillo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 106,
   "cross": 441937,
-  "grad_rate": 53.9,
-  "grad_rate_rank": 749,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 14709,
-  "avg_stu_loan_debt_rank": 693,
-  "indicator_group": 1
+  "grad_rate": 51.1,
+  "grad_rate_rank": 863,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93012",
+  "email": true
 }

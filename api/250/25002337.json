@@ -1,6 +1,6 @@
 {
   "facility_code": "25002337",
-  "institution": "MOBILE TRAINING SERVICES",
+  "institution": "Mobile Training Services",
   "city": "Oakridge",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97463",
+  "email": "No (SCO)"
 }

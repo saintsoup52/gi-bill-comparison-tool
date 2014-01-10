@@ -1,6 +1,6 @@
 {
   "facility_code": "14807110",
-  "institution": "PALM BEACH STATE COLLEGE - BELLE GLADE CAMPUS",
+  "institution": "Palm Beach State College - Belle Glade Campus",
   "city": "Belle Glade",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 136358,
-  "grad_rate": 30.9,
-  "grad_rate_rank": 506,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "grad_rate": 34.5,
+  "grad_rate_rank": 514,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 5011,
+  "avg_stu_loan_debt_rank": 169,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33430",
+  "email": true
 }

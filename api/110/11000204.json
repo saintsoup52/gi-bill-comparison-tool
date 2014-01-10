@@ -1,6 +1,6 @@
 {
   "facility_code": "11000204",
-  "institution": "HENDERSON STATE UNIVERSITY",
+  "institution": "Henderson State University",
   "city": "Arkadelphia",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 170,
   "cross": 107071,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 1475,
-  "default_rate": 17.7,
-  "avg_stu_loan_debt": 10500,
-  "avg_stu_loan_debt_rank": 271,
-  "indicator_group": 1
+  "grad_rate": 35.7,
+  "grad_rate_rank": 1374,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 10988,
+  "avg_stu_loan_debt_rank": 219,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71999",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15003115",
-  "institution": "HEMPSTEAD HIGH SCHOOL",
+  "institution": "Hempstead High School",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52002",
+  "email": false
 }

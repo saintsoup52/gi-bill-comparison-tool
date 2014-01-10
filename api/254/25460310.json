@@ -1,6 +1,6 @@
 {
   "facility_code": "25460310",
-  "institution": "FLORIDA INSTITUTE OF ULTRASOUND INC",
+  "institution": "Florida Institute Of Ultrasound Inc",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 133942,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 10.4,
+  "default_rate": 2.0,
   "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 2494,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1944,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32514",
+  "email": true
 }

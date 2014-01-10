@@ -1,6 +1,6 @@
 {
   "facility_code": "10442147",
-  "institution": "C-TRAN/MACHINIST LOCAL #1374-CH 31 ONLY",
+  "institution": "C-Tran/Machinist Local #1374-Ch 31 Only",
   "city": "Vancouver",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98668",
+  "email": false
 }

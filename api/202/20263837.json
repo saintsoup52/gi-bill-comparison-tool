@@ -1,6 +1,6 @@
 {
   "facility_code": "20263837",
-  "institution": "OREGON SW-WA SPRINKLER FITTERS JATC",
+  "institution": "Oregon Sw-Wa Sprinkler Fitters Jatc",
   "city": "Tigard",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97223",
+  "email": true
 }

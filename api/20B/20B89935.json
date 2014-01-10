@@ -1,6 +1,6 @@
 {
   "facility_code": "20B89935",
-  "institution": "ED MAP (31)",
+  "institution": "Ed Map (31)",
   "city": "Nelsonville",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45764",
+  "email": "No (SCO)"
 }

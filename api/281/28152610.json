@@ -1,6 +1,6 @@
 {
   "facility_code": "28152610",
-  "institution": "SUNSTATE ACADEMY OF HAIR DESIGN-CLEARWATER",
+  "institution": "Sunstate Academy Of Hair Design-Clearwater",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 372718,
-  "grad_rate": 57.1,
-  "grad_rate_rank": 1700,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 60.7,
+  "grad_rate_rank": 1610,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 6950,
+  "avg_stu_loan_debt_rank": 626,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33765",
+  "email": true
 }

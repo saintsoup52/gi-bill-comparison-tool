@@ -1,6 +1,6 @@
 {
   "facility_code": "218A0132",
-  "institution": "BRIARCLIFFE COLLEGE - BETHPAGE",
+  "institution": "Briarcliffe College - Bethpage",
   "city": "Bethpage",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 73,
   "cross": 189459,
-  "grad_rate": 41.6,
-  "grad_rate_rank": 308,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 20402,
-  "avg_stu_loan_debt_rank": 1429,
-  "indicator_group": 2
+  "grad_rate": 36.6,
+  "grad_rate_rank": 470,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "11714",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31005304",
-  "institution": "WILLIAMS BAPTIST COLLEGE",
+  "institution": "Williams Baptist College",
   "city": "Walnut Ridge",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 107877,
-  "grad_rate": 35.2,
-  "grad_rate_rank": 1360,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 12751,
-  "avg_stu_loan_debt_rank": 535,
-  "indicator_group": 1
+  "grad_rate": 43.0,
+  "grad_rate_rank": 1135,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 160,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72476",
+  "email": false
 }

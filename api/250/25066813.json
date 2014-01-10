@@ -1,6 +1,6 @@
 {
   "facility_code": "25066813",
-  "institution": "TRICOCI UNIVERSITY OF BEAUTY CULTURE-PEORIA",
+  "institution": "Tricoci University Of Beauty Culture-Peoria",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 454999,
-  "grad_rate": 80.5,
-  "grad_rate_rank": 633,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 7923,
-  "avg_stu_loan_debt_rank": 1352,
-  "indicator_group": 5
+  "grad_rate": 65.6,
+  "grad_rate_rank": 1397,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 8825,
+  "avg_stu_loan_debt_rank": 964,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "61614",
+  "email": true
 }

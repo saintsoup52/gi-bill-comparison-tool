@@ -1,6 +1,6 @@
 {
   "facility_code": "25572935",
-  "institution": "CINCINNATI ACADEMY PAUL MITCHELL PARTNER SCHOOL",
+  "institution": "Cincinnati Academy Paul Mitchell Partner School",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 455284,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
+  "grad_rate": 69.9,
+  "grad_rate_rank": 1187,
+  "default_rate": 28.2,
   "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45241",
+  "email": true
 }

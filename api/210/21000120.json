@@ -1,6 +1,6 @@
 {
   "facility_code": "21000120",
-  "institution": "STRATFORD UNIVERSITY - BALTIMORE",
+  "institution": "Stratford University - Baltimore",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 438498,
-  "grad_rate": 51.4,
-  "grad_rate_rank": 207,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 15833,
-  "avg_stu_loan_debt_rank": 1157,
-  "indicator_group": 2
+  "grad_rate": 20.0,
+  "grad_rate_rank": 939,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 17583,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "21202",
+  "email": true
 }

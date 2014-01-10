@@ -1,6 +1,6 @@
 {
   "facility_code": "28078340",
-  "institution": "CHARLESTON COSMETOLOGY INSTITUTE",
+  "institution": "Charleston Cosmetology Institute",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 217794,
-  "grad_rate": 81.8,
-  "grad_rate_rank": 554,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 5583,
-  "avg_stu_loan_debt_rank": 907,
-  "indicator_group": 5
+  "grad_rate": 70.2,
+  "grad_rate_rank": 1171,
+  "default_rate": 16.9,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29420",
+  "email": false
 }

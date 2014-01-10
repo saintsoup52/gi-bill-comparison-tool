@@ -1,6 +1,6 @@
 {
   "facility_code": "25005230",
-  "institution": "H0-HO-KUS HACKENSACK SCHOOL OF BUSINESS AND MEDICAL SCIENCES",
+  "institution": "H0-Ho-Kus Hackensack School Of Business And Medical Sciences",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 183488,
-  "grad_rate": 59.7,
-  "grad_rate_rank": 1604,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 69.6,
+  "grad_rate_rank": 1202,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 8766,
+  "avg_stu_loan_debt_rank": 948,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7601",
+  "email": false
 }

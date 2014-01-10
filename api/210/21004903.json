@@ -1,6 +1,6 @@
 {
   "facility_code": "21004903",
-  "institution": "ART INSTITUTE OF PHOENIX THE",
+  "institution": "Art Institute Of Phoenix The",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 223,
   "cross": 428444,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 844,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 524,
-  "indicator_group": 1
+  "grad_rate": 40.5,
+  "grad_rate_rank": 1232,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85021",
+  "email": true
 }

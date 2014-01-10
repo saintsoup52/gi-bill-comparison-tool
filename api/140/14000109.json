@@ -1,6 +1,6 @@
 {
   "facility_code": "14000109",
-  "institution": "CENTRAL TEXAS COLLEGE WASHINGTON DC",
+  "institution": "Central Texas College Washington Dc",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 37,
   "cross": 223816,
-  "grad_rate": 14.7,
-  "grad_rate_rank": 1039,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "grad_rate": 10.7,
+  "grad_rate_rank": 1266,
+  "default_rate": 21.5,
+  "avg_stu_loan_debt": 3716,
+  "avg_stu_loan_debt_rank": 67,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "20032",
+  "email": false
 }

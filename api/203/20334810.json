@@ -1,6 +1,6 @@
 {
   "facility_code": "20334810",
-  "institution": "R L ANDERSON INC",
+  "institution": "R L Anderson Inc",
   "city": "Venice",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34292",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24005905",
-  "institution": "LOS ANGELES MUSIC ACADEMY",
+  "institution": "Los Angeles Music Academy",
   "city": "Pasadena",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 446385,
-  "grad_rate": 28.6,
-  "grad_rate_rank": 577,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 10892,
-  "avg_stu_loan_debt_rank": 902,
-  "indicator_group": 2
+  "grad_rate": 55.0,
+  "grad_rate_rank": 221,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91105",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21000944",
-  "institution": "NEUMONT UNIVERSITY",
+  "institution": "Neumont University",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 445692,
-  "grad_rate": 82.7,
-  "grad_rate_rank": 117,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 34757,
-  "avg_stu_loan_debt_rank": 2055,
-  "indicator_group": 1
+  "grad_rate": 47.9,
+  "grad_rate_rank": 969,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 36757,
+  "avg_stu_loan_debt_rank": 1990,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84111",
+  "email": true
 }

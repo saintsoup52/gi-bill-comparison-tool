@@ -1,6 +1,6 @@
 {
   "facility_code": "28002337",
-  "institution": "PHAGANS' SCHOOL OF BEAUTY",
+  "institution": "Phagans' School Of Beauty",
   "city": "Salem",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 209694,
-  "grad_rate": 77.8,
-  "grad_rate_rank": 762,
-  "default_rate": 17.5,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 2442,
-  "indicator_group": 5
+  "grad_rate": 71.9,
+  "grad_rate_rank": 1078,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 10765,
+  "avg_stu_loan_debt_rank": 1594,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97301",
+  "email": true
 }

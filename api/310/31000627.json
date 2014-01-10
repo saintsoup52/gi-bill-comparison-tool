@@ -1,6 +1,6 @@
 {
   "facility_code": "31000627",
-  "institution": "MIDLAND UNIVERSITY",
+  "institution": "Midland University",
   "city": "Fremont",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 181330,
-  "grad_rate": 44.2,
-  "grad_rate_rank": 1087,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 13509,
-  "avg_stu_loan_debt_rank": 596,
-  "indicator_group": 1
+  "grad_rate": 46.7,
+  "grad_rate_rank": 1012,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 15812,
+  "avg_stu_loan_debt_rank": 609,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68025",
+  "email": true
 }

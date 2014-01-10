@@ -1,6 +1,6 @@
 {
   "facility_code": "15003711",
-  "institution": "CLAYTON COUNTY AGING PROGRAM   (CH 31 ONLY)",
+  "institution": "Clayton County Aging Program   (Ch 31 Only)",
   "city": "Jonesboro",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30236",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28008030",
-  "institution": "CAPRI INSTITUTE OF HAIR DESIGN-CLIFTON",
+  "institution": "Capri Institute Of Hair Design-Clifton",
   "city": "Clifton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 363077,
-  "grad_rate": 64.4,
-  "grad_rate_rank": 1420,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 76.2,
+  "grad_rate_rank": 853,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 8494,
+  "avg_stu_loan_debt_rank": 893,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7011",
+  "email": true
 }

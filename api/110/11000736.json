@@ -1,6 +1,6 @@
 {
   "facility_code": "11000736",
-  "institution": "OKLAHOMA PANHANDLE STATE UNIVERSITY",
+  "institution": "Oklahoma Panhandle State University",
   "city": "Goodwell",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 207351,
-  "grad_rate": 29.7,
-  "grad_rate_rank": 1505,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 9312,
-  "avg_stu_loan_debt_rank": 222,
-  "indicator_group": 1
+  "grad_rate": 27.9,
+  "grad_rate_rank": 1577,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 88,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73939",
+  "email": false
 }

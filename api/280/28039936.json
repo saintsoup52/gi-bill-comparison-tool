@@ -1,6 +1,6 @@
 {
   "facility_code": "28039936",
-  "institution": "HOLLYWOOD COSMETOLOGY CENTER",
+  "institution": "Hollywood Cosmetology Center",
   "city": "Norman",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 207166,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
+  "grad_rate": 53.3,
+  "grad_rate_rank": 1856,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73069",
+  "email": false
 }

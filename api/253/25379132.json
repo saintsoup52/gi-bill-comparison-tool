@@ -1,6 +1,6 @@
 {
   "facility_code": "25379132",
-  "institution": "RIDLEY-LOWELL BUSINESS & TECHICAL INSTITUTE - POUGHKEEPSIE",
+  "institution": "Ridley-Lowell Business & Techical Institute - Poughkeepsie",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 438267,
-  "grad_rate": 56.0,
-  "grad_rate_rank": 1746,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 75.3,
+  "grad_rate_rank": 896,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 9463,
+  "avg_stu_loan_debt_rank": 1056,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12601",
+  "email": true
 }

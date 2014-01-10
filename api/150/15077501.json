@@ -1,6 +1,6 @@
 {
   "facility_code": "15077501",
-  "institution": "AUBURN UNIVERSITY FLIGHT EDUCATION",
+  "institution": "Auburn University Flight Education",
   "city": "Auburn",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36830",
+  "email": true
 }

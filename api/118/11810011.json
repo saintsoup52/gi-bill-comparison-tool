@@ -1,6 +1,6 @@
 {
   "facility_code": "11810011",
-  "institution": "FORT VALLEY STATE UNIVERSITY",
+  "institution": "Fort Valley State University",
   "city": "Ft. Valley",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 175,
   "cross": 139719,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 1403,
-  "default_rate": 22.7,
-  "avg_stu_loan_debt": 16195,
-  "avg_stu_loan_debt_rank": 860,
-  "indicator_group": 1
+  "grad_rate": 29.4,
+  "grad_rate_rank": 1546,
+  "default_rate": 24.3,
+  "avg_stu_loan_debt": 17580,
+  "avg_stu_loan_debt_rank": 871,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31030",
+  "email": true
 }

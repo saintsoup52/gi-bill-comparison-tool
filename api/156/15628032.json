@@ -1,6 +1,6 @@
 {
   "facility_code": "15628032",
-  "institution": "CENTRAL NEW YORK REGIONAL CORRECTIONAL LAW ENFORCEMENT ACADEMY",
+  "institution": "Central New York Regional Correctional Law Enforcement Academy",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13202",
+  "email": false
 }

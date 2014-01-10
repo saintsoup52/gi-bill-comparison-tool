@@ -1,6 +1,6 @@
 {
   "facility_code": "25012013",
-  "institution": "MR JOHN'S SCHOOL OF COSMETOLOGY",
+  "institution": "Mr John'S School Of Cosmetology",
   "city": "Decatur",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 147439,
-  "grad_rate": 59.3,
-  "grad_rate_rank": 1614,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 13307,
-  "avg_stu_loan_debt_rank": 2417,
-  "indicator_group": 5
+  "grad_rate": 52.7,
+  "grad_rate_rank": 1877,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62521",
+  "email": true
 }

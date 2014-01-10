@@ -1,6 +1,6 @@
 {
   "facility_code": "12803342",
-  "institution": "UNIVERSITY OF TENNESSEE MEDICAL CENTER AT KNOXVILLE - CHAPTER 31 ONLY",
+  "institution": "University Of Tennessee Medical Center At Knoxville - Chapter 31 Only",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 221759,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 479,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 1
+  "grad_rate": 66.1,
+  "grad_rate_rank": 406,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 16375,
+  "avg_stu_loan_debt_rank": 731,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37920",
+  "email": "No (SCO)"
 }

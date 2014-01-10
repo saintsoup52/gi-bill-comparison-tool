@@ -1,6 +1,6 @@
 {
   "facility_code": "25180505",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY (PALMDALE)",
+  "institution": "Marinello Schools Of Beauty (Palmdale)",
   "city": "Palmdale",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 114071,
-  "grad_rate": 76.1,
-  "grad_rate_rank": 862,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 7048,
-  "avg_stu_loan_debt_rank": 1152,
-  "indicator_group": 5
+  "grad_rate": 62.1,
+  "grad_rate_rank": 1548,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 8850,
+  "avg_stu_loan_debt_rank": 967,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93551",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30020343",
-  "institution": "HOUSTON AREA JATC OF PIPEFITTERS LOCAL UNION 211",
+  "institution": "Houston Area Jatc Of Pipefitters Local Union 211",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77262",
+  "email": false
 }

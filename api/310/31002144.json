@@ -1,6 +1,6 @@
 {
   "facility_code": "31002144",
-  "institution": "WESTERN GOVERNORS UNIVERSITY",
+  "institution": "Western Governors University",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1977,
   "cross": 433387,
-  "grad_rate": 18.4,
-  "grad_rate_rank": 1691,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 12208,
-  "avg_stu_loan_debt_rank": 474,
-  "indicator_group": 1
+  "grad_rate": 26.9,
+  "grad_rate_rank": 1596,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 13074,
+  "avg_stu_loan_debt_rank": 375,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84107",
+  "email": true
 }

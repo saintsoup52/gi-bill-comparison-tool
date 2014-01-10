@@ -1,6 +1,6 @@
 {
   "facility_code": "20B13023",
-  "institution": "XCEL ENERGY MONTICELLO TC",
+  "institution": "Xcel Energy Monticello Tc",
   "city": "Monticello",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55362",
+  "email": false
 }

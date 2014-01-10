@@ -1,6 +1,6 @@
 {
   "facility_code": "11000338",
-  "institution": "LINCOLN UNIVERSITY",
+  "institution": "Lincoln University",
   "city": "Lincoln",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 29,
   "cross": 213598,
-  "grad_rate": 40.0,
-  "grad_rate_rank": 1229,
-  "default_rate": 21.8,
-  "avg_stu_loan_debt": 29189,
-  "avg_stu_loan_debt_rank": 2035,
-  "indicator_group": 1
+  "grad_rate": 37.0,
+  "grad_rate_rank": 1335,
+  "default_rate": 24.9,
+  "avg_stu_loan_debt": 29500,
+  "avg_stu_loan_debt_rank": 1958,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19352",
+  "email": true
 }

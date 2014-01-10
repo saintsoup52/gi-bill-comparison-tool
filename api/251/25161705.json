@@ -1,6 +1,6 @@
 {
   "facility_code": "25161705",
-  "institution": "PREFERRED COLLEGE OF NURSING LOS ANGELES",
+  "institution": "Preferred College Of Nursing Los Angeles",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 459152,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 578,
-  "default_rate": null,
-  "avg_stu_loan_debt": 15036,
-  "avg_stu_loan_debt_rank": 2476,
-  "indicator_group": 5
+  "grad_rate": 72.2,
+  "grad_rate_rank": 1062,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 15500,
+  "avg_stu_loan_debt_rank": 1931,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90010",
+  "email": false
 }

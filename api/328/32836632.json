@@ -1,6 +1,6 @@
 {
   "facility_code": "32836632",
-  "institution": "ARNOT-OGDEN MEDICAL CENTER-SCHOOL OF NURSING",
+  "institution": "Arnot-Ogden Medical Center-School Of Nursing",
   "city": "Elmira",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 188915,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 2154,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "grad_rate": 55.6,
+  "grad_rate_rank": 1786,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1951,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14905",
+  "email": true
 }

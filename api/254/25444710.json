@@ -1,6 +1,6 @@
 {
   "facility_code": "25444710",
-  "institution": "CDA TECHNICAL INSTITUTE",
+  "institution": "Cda Technical Institute",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 146,
   "cross": 447874,
-  "grad_rate": 98.8,
-  "grad_rate_rank": 86,
-  "default_rate": 31.9,
+  "grad_rate": 85.9,
+  "grad_rate_rank": 411,
+  "default_rate": 11.3,
   "avg_stu_loan_debt": 7307,
-  "avg_stu_loan_debt_rank": 1188,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 672,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32208",
+  "email": true
 }

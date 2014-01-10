@@ -1,6 +1,6 @@
 {
   "facility_code": "25301808",
-  "institution": "NATIONAL MASSAGE THERAPY INSTITUTE",
+  "institution": "National Massage Therapy Institute",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 448114,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 334,
-  "indicator_group": 3
+  "grad_rate": 68.1,
+  "grad_rate_rank": 190,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 7850,
+  "avg_stu_loan_debt_rank": 233,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "19803",
+  "email": true
 }

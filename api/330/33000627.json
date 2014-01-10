@@ -1,6 +1,6 @@
 {
   "facility_code": "33000627",
-  "institution": "CONCORDIA UNIVERSITY",
+  "institution": "Concordia University",
   "city": "Seward",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 180984,
-  "grad_rate": 52.6,
-  "grad_rate_rank": 787,
+  "grad_rate": 62.6,
+  "grad_rate_rank": 499,
   "default_rate": 3.9,
-  "avg_stu_loan_debt": 21824,
-  "avg_stu_loan_debt_rank": 1622,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 23125,
+  "avg_stu_loan_debt_rank": 1544,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68434",
+  "email": true
 }

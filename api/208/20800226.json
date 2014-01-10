@@ -1,6 +1,6 @@
 {
   "facility_code": "20800226",
-  "institution": "SILVER BOW JATC PLUMBERS AND PIPEFITTERS  LOCAL UNION #41",
+  "institution": "Silver Bow Jatc Plumbers And Pipefitters  Local Union #41",
   "city": "Butte",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59702",
+  "email": false
 }

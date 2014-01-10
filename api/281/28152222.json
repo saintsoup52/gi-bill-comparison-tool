@@ -1,6 +1,6 @@
 {
   "facility_code": "28152222",
-  "institution": "DAVID PRESSLEY PROFESSIONAL SCHOOL OF COSMETOLOGY",
+  "institution": "David Pressley Professional School Of Cosmetology",
   "city": "Royal Oak",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 169503,
-  "grad_rate": 63.8,
-  "grad_rate_rank": 1441,
-  "default_rate": 27.1,
-  "avg_stu_loan_debt": 9183,
-  "avg_stu_loan_debt_rank": 1595,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 8120,
+  "avg_stu_loan_debt_rank": 847,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48067",
+  "email": true
 }

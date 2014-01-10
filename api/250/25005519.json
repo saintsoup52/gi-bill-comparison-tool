@@ -1,6 +1,6 @@
 {
   "facility_code": "25005519",
-  "institution": "NORTHEAST TECHNICAL INSTITUTE - SCARBOROUGH",
+  "institution": "Northeast Technical Institute - Scarborough",
   "city": "Scarborough",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 59,
   "cross": 461962,
-  "grad_rate": 90.2,
-  "grad_rate_rank": 260,
-  "default_rate": null,
+  "grad_rate": 88.0,
+  "grad_rate_rank": 335,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 5700,
-  "avg_stu_loan_debt_rank": 926,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 379,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "4074",
+  "email": true
 }

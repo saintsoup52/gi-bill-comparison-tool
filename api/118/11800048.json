@@ -1,6 +1,6 @@
 {
   "facility_code": "11800048",
-  "institution": "WEST VIRGINIA UNIVERSITY",
+  "institution": "West Virginia University",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 987,
   "cross": 238032,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 648,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 19048,
-  "avg_stu_loan_debt_rank": 1260,
-  "indicator_group": 1
+  "grad_rate": 56.2,
+  "grad_rate_rank": 696,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 18473,
+  "avg_stu_loan_debt_rank": 962,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26506",
+  "email": true
 }

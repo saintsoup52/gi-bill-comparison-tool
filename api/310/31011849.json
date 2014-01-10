@@ -1,6 +1,6 @@
 {
   "facility_code": "31011849",
-  "institution": "WHEATON COLLEGE-HONEY ROCK NORTHWOOD CAMPUS",
+  "institution": "Wheaton College-Honey Rock Northwood Campus",
   "city": "Three Lakes",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 149781,
-  "grad_rate": 86.7,
-  "grad_rate_rank": 84,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 90.4,
+  "grad_rate_rank": 57,
+  "default_rate": 1.8,
+  "avg_stu_loan_debt": 21561,
+  "avg_stu_loan_debt_rank": 1387,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "54562",
+  "email": false
 }

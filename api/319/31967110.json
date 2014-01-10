@@ -1,6 +1,6 @@
 {
   "facility_code": "31967110",
-  "institution": "UNIVERSITY OF MIAMI",
+  "institution": "University Of Miami",
   "city": "Coral Gables",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 200,
   "cross": 135726,
-  "grad_rate": 77.9,
-  "grad_rate_rank": 182,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 24137,
-  "avg_stu_loan_debt_rank": 1874,
-  "indicator_group": 1
+  "grad_rate": 80.5,
+  "grad_rate_rank": 151,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 25340,
+  "avg_stu_loan_debt_rank": 1803,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33124",
+  "email": true
 }

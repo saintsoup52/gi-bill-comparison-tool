@@ -1,6 +1,6 @@
 {
   "facility_code": "25008013",
-  "institution": "OEHRLEIN SCHOOL OF COSMETOLOGY",
+  "institution": "Oehrlein School Of Cosmetology",
   "city": "East Peoria",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 147819,
-  "grad_rate": 62.2,
-  "grad_rate_rank": 1509,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 5
+  "grad_rate": 70.7,
+  "grad_rate_rank": 1142,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 539,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "61611",
+  "email": false
 }

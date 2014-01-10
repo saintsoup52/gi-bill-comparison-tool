@@ -1,6 +1,6 @@
 {
   "facility_code": "15009842",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - MCKENZIE",
+  "institution": "Tennessee College Of Applied Technology - Mckenzie",
   "city": "Mckenzie",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 220756,
-  "grad_rate": 74.7,
-  "grad_rate_rank": 945,
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38201",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11800318",
-  "institution": "LOUISIANA STATE UNIVERSITY - ALEXANDRIA",
+  "institution": "Louisiana State University - Alexandria",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 138,
   "cross": 159382,
-  "grad_rate": 12.1,
-  "grad_rate_rank": 1764,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 10000,
-  "avg_stu_loan_debt_rank": 253,
-  "indicator_group": 1
+  "grad_rate": 13.5,
+  "grad_rate_rank": 1799,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 10200,
+  "avg_stu_loan_debt_rank": 168,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71302",
+  "email": true
 }

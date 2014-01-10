@@ -1,6 +1,6 @@
 {
   "facility_code": "25007226",
-  "institution": "INTERNATIONAL HELICOPTER TRAINING ACADEMY",
+  "institution": "International Helicopter Training Academy",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59404",
+  "email": true
 }

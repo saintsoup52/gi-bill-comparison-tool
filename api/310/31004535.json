@@ -1,6 +1,6 @@
 {
   "facility_code": "31004535",
-  "institution": "WILBERFORCE UNIVERSITY",
+  "institution": "Wilberforce University",
   "city": "Wilberforce",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 206491,
-  "grad_rate": 29.7,
-  "grad_rate_rank": 1505,
-  "default_rate": 17.8,
-  "avg_stu_loan_debt": 14246,
-  "avg_stu_loan_debt_rank": 654,
-  "indicator_group": 1
+  "grad_rate": 32.7,
+  "grad_rate_rank": 1458,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 17640,
+  "avg_stu_loan_debt_rank": 879,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45384",
+  "email": false
 }

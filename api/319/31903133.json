@@ -1,6 +1,6 @@
 {
   "facility_code": "31903133",
-  "institution": "GUILFORD COLLEGE",
+  "institution": "Guilford College",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 94,
   "cross": 198613,
-  "grad_rate": 59.8,
-  "grad_rate_rank": 572,
-  "default_rate": 11.0,
-  "avg_stu_loan_debt": 16406,
-  "avg_stu_loan_debt_rank": 880,
-  "indicator_group": 1
+  "grad_rate": 56.7,
+  "grad_rate_rank": 678,
+  "default_rate": 10.1,
+  "avg_stu_loan_debt": 18615,
+  "avg_stu_loan_debt_rank": 999,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27410",
+  "email": true
 }

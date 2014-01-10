@@ -1,6 +1,6 @@
 {
   "facility_code": "20216519",
-  "institution": "R.L. TODD & SON INC",
+  "institution": "R.L. Todd & Son Inc",
   "city": "Caribou",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4736",
+  "email": false
 }

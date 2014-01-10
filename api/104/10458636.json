@@ -1,6 +1,6 @@
 {
   "facility_code": "10458636",
-  "institution": "VA OUTPATIENT CLINIC (CH31)",
+  "institution": "Va Outpatient Clinic (Ch31)",
   "city": "Ft Sill",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73503",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11801040",
-  "institution": "UNIVERSITY OF SOUTH CAROLINA UPSTATE",
+  "institution": "University Of South Carolina Upstate",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 251,
   "cross": 218742,
-  "grad_rate": 38.7,
-  "grad_rate_rank": 1278,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 17734,
-  "avg_stu_loan_debt_rank": 1048,
-  "indicator_group": 1
+  "grad_rate": 37.5,
+  "grad_rate_rank": 1319,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 17750,
+  "avg_stu_loan_debt_rank": 886,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29303",
+  "email": true
 }

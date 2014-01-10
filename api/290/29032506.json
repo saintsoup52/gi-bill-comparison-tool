@@ -1,6 +1,6 @@
 {
   "facility_code": "29032506",
-  "institution": "KOOS COUNSELING & PSYCH SERVICES PC (DBA STONES FOREST RETREAT)",
+  "institution": "Koos Counseling & Psych Services Pc (Dba Stones Forest Retreat)",
   "city": "Cedaredge",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "81413",
+  "email": "No (SCO)"
 }

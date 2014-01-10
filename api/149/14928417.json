@@ -1,6 +1,6 @@
 {
   "facility_code": "14928417",
-  "institution": "WEST KENTUCKY COMMUNITY & TECHNICAL COLLEGE",
+  "institution": "West Kentucky Community & Technical College",
   "city": "Paducah",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 247,
   "cross": 157483,
-  "grad_rate": 39.2,
-  "grad_rate_rank": 256,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 6250,
-  "avg_stu_loan_debt_rank": 241,
-  "indicator_group": 3
+  "grad_rate": 34.9,
+  "grad_rate_rank": 500,
+  "default_rate": 18.8,
+  "avg_stu_loan_debt": 6823,
+  "avg_stu_loan_debt_rank": 189,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "42001",
+  "email": true
 }

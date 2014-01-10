@@ -1,6 +1,6 @@
 {
   "facility_code": "24804935",
-  "institution": "LINCOLN COLLEGE OF TECHNOLOGY - NORTHLAND BOULEVARD",
+  "institution": "Lincoln College Of Technology - Northland Boulevard",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 205708,
-  "grad_rate": 32.6,
-  "grad_rate_rank": 316,
-  "default_rate": 36.2,
-  "avg_stu_loan_debt": 13278,
-  "avg_stu_loan_debt_rank": 754,
-  "indicator_group": 3
+  "grad_rate": 23.2,
+  "grad_rate_rank": 605,
+  "default_rate": 38.8,
+  "avg_stu_loan_debt": 15333,
+  "avg_stu_loan_debt_rank": 669,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "45246",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15028519",
-  "institution": "MORSE HIGH SCHOOL",
+  "institution": "Morse High School",
   "city": "Bath",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4530",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11506848",
-  "institution": "WV SCHOOL OF OSTEOPATHIC MEDICINE",
+  "institution": "Wv School Of Osteopathic Medicine",
   "city": "Lewisburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 237880,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.8,
-  "avg_stu_loan_debt": 1400,
-  "avg_stu_loan_debt_rank": 228,
-  "indicator_group": 4
+  "default_rate": 0.6,
+  "avg_stu_loan_debt": 2400,
+  "avg_stu_loan_debt_rank": 4,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "24901",
+  "email": true
 }

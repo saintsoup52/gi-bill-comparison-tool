@@ -1,6 +1,6 @@
 {
   "facility_code": "31005440",
-  "institution": "SOUTHERN WESLEYAN UNIVERSITY",
+  "institution": "Southern Wesleyan University",
   "city": "Central",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 158,
   "cross": 217776,
-  "grad_rate": 41.7,
-  "grad_rate_rank": 1167,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 23500,
-  "avg_stu_loan_debt_rank": 1829,
-  "indicator_group": 1
+  "grad_rate": 55.9,
+  "grad_rate_rank": 705,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29630",
+  "email": true
 }

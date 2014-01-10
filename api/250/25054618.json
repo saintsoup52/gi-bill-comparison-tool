@@ -1,6 +1,6 @@
 {
   "facility_code": "25054618",
-  "institution": "GUYS ACADEMY  HAIR SKIN & NAILS",
+  "institution": "Guys Academy  Hair Skin & Nails",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 159027,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
-  "default_rate": 8.8,
+  "grad_rate": 65.3,
+  "grad_rate_rank": 1416,
+  "default_rate": 11.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71105",
+  "email": false
 }

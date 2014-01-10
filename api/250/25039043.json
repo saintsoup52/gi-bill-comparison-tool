@@ -1,6 +1,6 @@
 {
   "facility_code": "25039043",
-  "institution": "AMERICAN COMMERCIAL COLLEGE ODESSA",
+  "institution": "American Commercial College Odessa",
   "city": "Odessa",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 222707,
-  "grad_rate": 14.1,
-  "grad_rate_rank": 2190,
-  "default_rate": 35.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 43.5,
+  "grad_rate_rank": 2054,
+  "default_rate": 39.6,
+  "avg_stu_loan_debt": 8997,
+  "avg_stu_loan_debt_rank": 991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79762",
+  "email": false
 }

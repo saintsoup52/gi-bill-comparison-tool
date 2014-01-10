@@ -1,6 +1,6 @@
 {
   "facility_code": "11801118",
-  "institution": "SOUTHERN UNIVERSITY - BATON ROUGE",
+  "institution": "Southern University - Baton Rouge",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 234,
   "cross": 160621,
-  "grad_rate": 19.2,
-  "grad_rate_rank": 1680,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 23125,
-  "avg_stu_loan_debt_rank": 1801,
-  "indicator_group": 1
+  "grad_rate": 27.6,
+  "grad_rate_rank": 1582,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 22750,
+  "avg_stu_loan_debt_rank": 1492,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70813",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103B0605",
-  "institution": "CALIFORNIA SUBSTANCE ABUSE TREATMENT FACILITY AND STATE PRISON AT CORCORAN",
+  "institution": "California Substance Abuse Treatment Facility And State Prison At Corcoran",
   "city": "Corcoran",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93212",
+  "email": false
 }

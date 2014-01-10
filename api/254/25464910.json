@@ -1,6 +1,6 @@
 {
   "facility_code": "25464910",
-  "institution": "CORTIVA INSTITUTE - FLORIDA",
+  "institution": "Cortiva Institute - Florida",
   "city": "Pinellas Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 134574,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
-  "default_rate": 17.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 65.3,
+  "grad_rate_rank": 1416,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 7917,
+  "avg_stu_loan_debt_rank": 797,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33781",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28063430",
-  "institution": "THE HAIR DESIGN SCHOOL",
+  "institution": "The Hair Design School",
   "city": "Ocean Township",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 184144,
-  "grad_rate": 78.1,
-  "grad_rate_rank": 750,
-  "default_rate": 22.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 57.4,
+  "grad_rate_rank": 1725,
+  "default_rate": 22.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7712",
+  "email": true
 }

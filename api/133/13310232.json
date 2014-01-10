@@ -1,6 +1,6 @@
 {
   "facility_code": "13310232",
-  "institution": "SUNY COLLEGE AT POTSDAM",
+  "institution": "Suny College At Potsdam",
   "city": "Potsdam",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 139,
   "cross": 196200,
-  "grad_rate": 51.1,
-  "grad_rate_rank": 838,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 19125,
-  "avg_stu_loan_debt_rank": 1265,
-  "indicator_group": 1
+  "grad_rate": 51.4,
+  "grad_rate_rank": 850,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 20033,
+  "avg_stu_loan_debt_rank": 1205,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13676",
+  "email": true
 }

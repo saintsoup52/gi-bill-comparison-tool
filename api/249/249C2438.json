@@ -1,6 +1,6 @@
 {
   "facility_code": "249C2438",
-  "institution": "CAREER TRAINING ACADEMY  (MONROEVILLE)",
+  "institution": "Career Training Academy  (Monroeville)",
   "city": "Monroeville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 408312,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 6411,
-  "avg_stu_loan_debt_rank": 251,
-  "indicator_group": 3
+  "grad_rate": 83.0,
+  "grad_rate_rank": 45,
+  "default_rate": 16.1,
+  "avg_stu_loan_debt": 6418,
+  "avg_stu_loan_debt_rank": 166,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "15146",
+  "email": true
 }

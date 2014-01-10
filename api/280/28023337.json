@@ -1,6 +1,6 @@
 {
   "facility_code": "28023337",
-  "institution": "NORTHWEST NANNIES INSTITUTE",
+  "institution": "Northwest Nannies Institute",
   "city": "Lake Oswego",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 209348,
-  "grad_rate": 70.6,
-  "grad_rate_rank": 1150,
-  "default_rate": 21.0,
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 21.8,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97035",
+  "email": true
 }

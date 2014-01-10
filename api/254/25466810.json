@@ -1,6 +1,6 @@
 {
   "facility_code": "25466810",
-  "institution": "NEW HORIZONS CLC W PALM BEACH",
+  "institution": "New Horizons Clc W Palm Beach",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33405",
+  "email": "No (SCO)"
 }

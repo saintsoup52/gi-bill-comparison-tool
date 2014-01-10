@@ -1,6 +1,6 @@
 {
   "facility_code": "329A6138",
-  "institution": "CROZER-KEYSTONE HEALTH SYS FAM PRAC RES",
+  "institution": "Crozer-Keystone Health Sys Fam Prac Res",
   "city": "Springfield",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19064",
+  "email": true
 }

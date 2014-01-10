@@ -1,6 +1,6 @@
 {
   "facility_code": "11902105",
-  "institution": "UNIVERSITY OF CALIFORNIA- SANTA CRUZ",
+  "institution": "University Of California- Santa Cruz",
   "city": "Santa Cruz",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 141,
   "cross": 110714,
-  "grad_rate": 73.4,
-  "grad_rate_rank": 249,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 74.5,
+  "grad_rate_rank": 239,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 19728,
+  "avg_stu_loan_debt_rank": 1156,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95064",
+  "email": false
 }

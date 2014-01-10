@@ -1,6 +1,6 @@
 {
   "facility_code": "14964433",
-  "institution": "BRUNSWICK COMMUNITY COLLEGE",
+  "institution": "Brunswick Community College",
   "city": "Supply",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 198084,
-  "grad_rate": 12.7,
-  "grad_rate_rank": 497,
+  "grad_rate": 29.6,
+  "grad_rate_rank": 645,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28462",
+  "email": true
 }

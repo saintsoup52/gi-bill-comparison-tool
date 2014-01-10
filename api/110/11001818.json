@@ -1,6 +1,6 @@
 {
   "facility_code": "11001818",
-  "institution": "NORTHWESTERN STATE UNIVERSITY - NATCH",
+  "institution": "Northwestern State University - Natch",
   "city": "Natchitoches",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 521,
   "cross": 160038,
-  "grad_rate": 36.5,
-  "grad_rate_rank": 1335,
-  "default_rate": 14.0,
-  "avg_stu_loan_debt": 14829,
-  "avg_stu_loan_debt_rank": 711,
-  "indicator_group": 1
+  "grad_rate": 36.3,
+  "grad_rate_rank": 1361,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 14090,
+  "avg_stu_loan_debt_rank": 437,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71457",
+  "email": true
 }

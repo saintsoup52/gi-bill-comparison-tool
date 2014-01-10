@@ -1,6 +1,6 @@
 {
   "facility_code": "31012623",
-  "institution": "COLLEGE OF VISUAL ARTS",
+  "institution": "College Of Visual Arts",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 174932,
-  "grad_rate": 44.7,
-  "grad_rate_rank": 1065,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 22375,
-  "avg_stu_loan_debt_rank": 1687,
-  "indicator_group": 1
+  "grad_rate": 42.5,
+  "grad_rate_rank": 1161,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 22750,
+  "avg_stu_loan_debt_rank": 1492,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55102",
+  "email": false
 }

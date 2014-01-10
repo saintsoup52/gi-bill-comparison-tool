@@ -1,6 +1,6 @@
 {
   "facility_code": "31001922",
-  "institution": "SPRING ARBOR UNIVERSITY",
+  "institution": "Spring Arbor University",
   "city": "Spring Arbor",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 103,
   "cross": 172334,
-  "grad_rate": 55.6,
-  "grad_rate_rank": 685,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 18250,
-  "avg_stu_loan_debt_rank": 1113,
-  "indicator_group": 1
+  "grad_rate": 52.1,
+  "grad_rate_rank": 825,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 18875,
+  "avg_stu_loan_debt_rank": 1044,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49283",
+  "email": true
 }

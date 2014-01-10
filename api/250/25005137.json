@@ -1,6 +1,6 @@
 {
   "facility_code": "25005137",
-  "institution": "EVEREST INSTITUTE (TIGARD)",
+  "institution": "Everest Institute (Tigard)",
   "city": "Tigard",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 442620,
-  "grad_rate": 71.3,
-  "grad_rate_rank": 1114,
-  "default_rate": 21.7,
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 15.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97223",
+  "email": true
 }

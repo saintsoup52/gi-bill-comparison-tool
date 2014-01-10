@@ -1,6 +1,6 @@
 {
   "facility_code": "10B78243",
-  "institution": "US DEPT OF THE ARMY HQ III CORPS CH31",
+  "institution": "Us Dept Of The Army Hq Iii Corps Ch31",
   "city": "Fort Hood",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76544",
+  "email": "No (SCO)"
 }

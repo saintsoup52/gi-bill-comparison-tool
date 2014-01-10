@@ -1,6 +1,6 @@
 {
   "facility_code": "14990405",
-  "institution": "MISSION COLLEGE",
+  "institution": "Mission College",
   "city": "Santa Clara",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 141,
   "cross": 118930,
-  "grad_rate": 22.4,
-  "grad_rate_rank": 783,
-  "default_rate": 19.7,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 25.2,
+  "grad_rate_rank": 778,
+  "default_rate": 16.5,
+  "avg_stu_loan_debt": 5562,
+  "avg_stu_loan_debt_rank": 293,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "95054",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15800234",
-  "institution": "NORTH DAKOTA STATE UNIVERSITY - VETERANS UPWARD BOUND PROGRAM",
+  "institution": "North Dakota State University - Veterans Upward Bound Program",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "58108",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20968601",
-  "institution": "WINGARDS ON MAIN (CH31)",
+  "institution": "Wingards On Main (Ch31)",
   "city": "Atmore",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36502",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20438849",
-  "institution": "MILWAUKEE AREA BRICKLAYING JAC",
+  "institution": "Milwaukee Area Bricklaying Jac",
   "city": "New Berlin",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53151",
+  "email": false
 }

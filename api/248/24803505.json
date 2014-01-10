@@ -1,6 +1,6 @@
 {
   "facility_code": "24803505",
-  "institution": "ARGOSY UNIVERSITY (LOS ANGELES)",
+  "institution": "Argosy University (Los Angeles)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 75,
   "cross": 447272,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90045",
+  "email": false
 }

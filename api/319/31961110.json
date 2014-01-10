@@ -1,6 +1,6 @@
 {
   "facility_code": "31961110",
-  "institution": "THE BAPTIST COLLEGE OF FLORIDA",
+  "institution": "The Baptist College Of Florida",
   "city": "Graceville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 37,
   "cross": 132408,
-  "grad_rate": 31.4,
-  "grad_rate_rank": 1461,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 58.3,
+  "grad_rate_rank": 619,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 13369,
+  "avg_stu_loan_debt_rank": 389,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32440",
+  "email": true
 }

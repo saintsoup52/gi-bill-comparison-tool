@@ -1,6 +1,6 @@
 {
   "facility_code": "20449715",
-  "institution": "DUBUQUE PLUMBERS & STEAMFITTERS JAC",
+  "institution": "Dubuque Plumbers & Steamfitters Jac",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52001",
+  "email": false
 }

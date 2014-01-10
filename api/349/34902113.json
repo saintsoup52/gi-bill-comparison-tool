@@ -1,6 +1,6 @@
 {
   "facility_code": "34902113",
-  "institution": "ROCKFORD CAREER COLLEGE",
+  "institution": "Rockford Career College",
   "city": "Rockford",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 148399,
-  "grad_rate": 61.1,
-  "grad_rate_rank": 121,
-  "default_rate": 36.8,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "grad_rate": 31.6,
+  "grad_rate_rank": 585,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "61108",
+  "email": true
 }

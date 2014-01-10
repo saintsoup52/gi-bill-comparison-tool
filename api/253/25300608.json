@@ -1,6 +1,6 @@
 {
   "facility_code": "25300608",
-  "institution": "HARRIS SCHOOL OF BUSINESS",
+  "institution": "Harris School Of Business",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 441362,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 1683,
-  "default_rate": 17.8,
+  "grad_rate": 51.3,
+  "grad_rate_rank": 1918,
+  "default_rate": 25.6,
   "avg_stu_loan_debt": 6583,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 568,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19803",
+  "email": true
 }

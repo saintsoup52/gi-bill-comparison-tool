@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00401",
-  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY ALEX CITY FIELD OFFICE",
+  "institution": "Alabama Department Of Public Safety Alex City Field Office",
   "city": "Alexander City",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35010",
+  "email": false
 }

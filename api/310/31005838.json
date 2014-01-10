@@ -1,6 +1,6 @@
 {
   "facility_code": "31005838",
-  "institution": "LANCASTER THEOLOGICAL SEMINARY",
+  "institution": "Lancaster Theological Seminary",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 213446,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "17603",
+  "email": true
 }

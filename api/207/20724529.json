@@ -1,6 +1,6 @@
 {
   "facility_code": "20724529",
-  "institution": "BARRETT ELECTRIC COMPANY",
+  "institution": "Barrett Electric Company",
   "city": "Chichester",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3234",
+  "email": false
 }

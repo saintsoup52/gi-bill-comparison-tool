@@ -1,6 +1,6 @@
 {
   "facility_code": "30000216",
-  "institution": "IRWIN ARMY COMMUNITY HOSPITAL",
+  "institution": "Irwin Army Community Hospital",
   "city": "Fort Riley",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66442",
+  "email": false
 }

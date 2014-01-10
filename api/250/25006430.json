@@ -1,6 +1,6 @@
 {
   "facility_code": "25006430",
-  "institution": "PC AGE CAREER INSTITUTE EDISON",
+  "institution": "Pc Age Career Institute Edison",
   "city": "Edison",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 443225,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 1587,
-  "default_rate": 11.2,
-  "avg_stu_loan_debt": 11813,
-  "avg_stu_loan_debt_rank": 2308,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 12258,
+  "avg_stu_loan_debt_rank": 1805,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8817",
+  "email": true
 }

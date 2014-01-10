@@ -1,6 +1,6 @@
 {
   "facility_code": "25010603",
-  "institution": "CORTIVA INSTITUTE - SCOTTSDALE",
+  "institution": "Cortiva Institute - Scottsdale",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 105482,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 1489,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 9196,
-  "avg_stu_loan_debt_rank": 1597,
-  "indicator_group": 5
+  "grad_rate": 59.6,
+  "grad_rate_rank": 1649,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 9104,
+  "avg_stu_loan_debt_rank": 1011,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85257",
+  "email": false
 }

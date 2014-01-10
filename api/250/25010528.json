@@ -1,6 +1,6 @@
 {
   "facility_code": "25010528",
-  "institution": "AVEDA INSTITUTE LAS VEGAS",
+  "institution": "Aveda Institute Las Vegas",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 455211,
-  "grad_rate": 73.4,
-  "grad_rate_rank": 997,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 10024,
-  "avg_stu_loan_debt_rank": 2159,
-  "indicator_group": 5
+  "grad_rate": 81.1,
+  "grad_rate_rank": 593,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 10248,
+  "avg_stu_loan_debt_rank": 1541,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "89119",
+  "email": true
 }

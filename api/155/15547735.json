@@ -1,6 +1,6 @@
 {
   "facility_code": "15547735",
-  "institution": "ASHLAND COUNTY-WEST HOLMES CAREER CENTER",
+  "institution": "Ashland County-West Holmes Career Center",
   "city": "Ashland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 201098,
-  "grad_rate": 98.9,
-  "grad_rate_rank": 84,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 3433,
-  "avg_stu_loan_debt_rank": 584,
-  "indicator_group": 5
+  "grad_rate": 98.4,
+  "grad_rate_rank": 95,
+  "default_rate": 36.3,
+  "avg_stu_loan_debt": 4082,
+  "avg_stu_loan_debt_rank": 154,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44805",
+  "email": true
 }

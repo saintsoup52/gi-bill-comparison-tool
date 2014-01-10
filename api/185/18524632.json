@@ -1,6 +1,6 @@
 {
   "facility_code": "18524632",
-  "institution": "BOCES HAMILTON FULTON & MONTGOMERY COUNTIES",
+  "institution": "Boces Hamilton Fulton & Montgomery Counties",
   "city": "Johnstown",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 431202,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 19.0,
-  "avg_stu_loan_debt": 6026,
-  "avg_stu_loan_debt_rank": 966,
-  "indicator_group": 5
+  "default_rate": 23.8,
+  "avg_stu_loan_debt": 7651,
+  "avg_stu_loan_debt_rank": 749,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12095",
+  "email": false
 }

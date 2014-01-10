@@ -1,6 +1,6 @@
 {
   "facility_code": "24900513",
-  "institution": "GEM CITY COLLEGE",
+  "institution": "Gem City College",
   "city": "Quincy",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 145309,
-  "grad_rate": 55.2,
-  "grad_rate_rank": 1776,
-  "default_rate": 14.8,
-  "avg_stu_loan_debt": 8900,
-  "avg_stu_loan_debt_rank": 1563,
-  "indicator_group": 5
+  "grad_rate": 56.5,
+  "grad_rate_rank": 1750,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 11244,
+  "avg_stu_loan_debt_rank": 1623,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62301",
+  "email": false
 }

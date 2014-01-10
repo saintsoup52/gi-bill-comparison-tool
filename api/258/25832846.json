@@ -1,6 +1,6 @@
 {
   "facility_code": "25832846",
-  "institution": "WARDS CORNER BEAUTY ACADEMY",
+  "institution": "Wards Corner Beauty Academy",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 28,
   "cross": 234191,
-  "grad_rate": 15.5,
-  "grad_rate_rank": 2185,
-  "default_rate": 18.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 19.8,
+  "grad_rate_rank": 2243,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 11720,
+  "avg_stu_loan_debt_rank": 1735,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23505",
+  "email": true
 }

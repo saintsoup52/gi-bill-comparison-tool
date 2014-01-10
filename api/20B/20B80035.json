@@ -1,6 +1,6 @@
 {
   "facility_code": "20B80035",
-  "institution": "GEISEL  (31)",
+  "institution": "Geisel  (31)",
   "city": "Elyria",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44035",
+  "email": "No (SCO)"
 }

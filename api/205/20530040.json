@@ -1,6 +1,6 @@
 {
   "facility_code": "20530040",
-  "institution": "STEVENS ELECTRIC COMPANY",
+  "institution": "Stevens Electric Company",
   "city": "Conway",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29526",
+  "email": false
 }

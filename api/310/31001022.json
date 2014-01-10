@@ -1,6 +1,6 @@
 {
   "facility_code": "31001022",
-  "institution": "CRANBROOK ACADEMY OF ARTS",
+  "institution": "Cranbrook Academy Of Arts",
   "city": "Bloomfield Hills",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 169424,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "48303",
+  "email": false
 }

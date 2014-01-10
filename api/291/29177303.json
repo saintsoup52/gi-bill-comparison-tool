@@ -1,6 +1,6 @@
 {
   "facility_code": "29177303",
-  "institution": "PROFESSIONAL INSTITUTE OF REAL ESTATE (CH31)",
+  "institution": "Professional Institute Of Real Estate (Ch31)",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85253",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31810038",
-  "institution": "UNIVERSITY OF PENNSYLVANIA",
+  "institution": "University Of Pennsylvania",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 177,
   "cross": 215062,
-  "grad_rate": 95.8,
-  "grad_rate_rank": 18,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 19125,
-  "avg_stu_loan_debt_rank": 1265,
-  "indicator_group": 1
+  "grad_rate": 96.0,
+  "grad_rate_rank": 12,
+  "default_rate": 1.6,
+  "avg_stu_loan_debt": 20407,
+  "avg_stu_loan_debt_rank": 1239,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19104",
+  "email": true
 }

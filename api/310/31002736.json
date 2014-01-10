@@ -1,6 +1,6 @@
 {
   "facility_code": "31002736",
-  "institution": "OKLAHOMA CHRISTIAN UNIVERSITY",
+  "institution": "Oklahoma Christian University",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 82,
   "cross": 207324,
-  "grad_rate": 44.7,
-  "grad_rate_rank": 1065,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 20423,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 1
+  "grad_rate": 50.4,
+  "grad_rate_rank": 880,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 20658,
+  "avg_stu_loan_debt_rank": 1276,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73136",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10080318",
-  "institution": "PINEVILLE POLICE DEPARTMENT",
+  "institution": "Pineville Police Department",
   "city": "Pineville",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71360",
+  "email": false
 }

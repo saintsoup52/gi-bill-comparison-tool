@@ -1,6 +1,6 @@
 {
   "facility_code": "14934116",
-  "institution": "CLOUD COUNTY COMMUNITY COLLEGE-JUNCTION CITY",
+  "institution": "Cloud County Community College-Junction City",
   "city": "Juntion City",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66441",
+  "email": true
 }

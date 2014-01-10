@@ -1,6 +1,6 @@
 {
   "facility_code": "31001313",
-  "institution": "ILLINOIS COLLEGE",
+  "institution": "Illinois College",
   "city": "Jacksonville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 145691,
-  "grad_rate": 56.6,
-  "grad_rate_rank": 660,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 61.8,
+  "grad_rate_rank": 519,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 21286,
+  "avg_stu_loan_debt_rank": 1345,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62650",
+  "email": false
 }

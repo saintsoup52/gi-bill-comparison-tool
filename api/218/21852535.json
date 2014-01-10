@@ -1,6 +1,6 @@
 {
   "facility_code": "21852535",
-  "institution": "UNIVERSITY OF PHOENIX - COLUMBUS",
+  "institution": "University Of Phoenix - Columbus",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 47,
   "cross": 443906,
-  "grad_rate": 15.0,
-  "grad_rate_rank": 1730,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 9.5,
+  "grad_rate_rank": 1832,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43240",
+  "email": false
 }

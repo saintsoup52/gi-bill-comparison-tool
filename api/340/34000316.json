@@ -1,6 +1,6 @@
 {
   "facility_code": "34000316",
-  "institution": "DONNELLY COLLEGE",
+  "institution": "Donnelly College",
   "city": "Kansas City",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 155007,
-  "grad_rate": 25.4,
-  "grad_rate_rank": 675,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 6891,
-  "avg_stu_loan_debt_rank": 542,
-  "indicator_group": 2
+  "grad_rate": 17.6,
+  "grad_rate_rank": 1022,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 3750,
+  "avg_stu_loan_debt_rank": 69,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "66102",
+  "email": false
 }

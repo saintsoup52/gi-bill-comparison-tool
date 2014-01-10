@@ -1,6 +1,6 @@
 {
   "facility_code": "31011005",
-  "institution": "PACIFIC COAST UNIVERSITY-SCHOOL OF LAW",
+  "institution": "Pacific Coast University-School Of Law",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 422695,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 794,
-  "indicator_group": 3
+  "grad_rate": 71.3,
+  "grad_rate_rank": 156,
+  "default_rate": 6.5,
+  "avg_stu_loan_debt": 16422,
+  "avg_stu_loan_debt_rank": 681,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90804",
+  "email": false
 }

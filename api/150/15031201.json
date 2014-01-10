@@ -1,6 +1,6 @@
 {
   "facility_code": "15031201",
-  "institution": "JEFFERSON COUNTY SHERIFFS ACADEMY",
+  "institution": "Jefferson County Sheriffs Academy",
   "city": "Fultondale",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35068",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B75835",
-  "institution": "KEY APPRAISAL SERVICE (31)",
+  "institution": "Key Appraisal Service (31)",
   "city": "Westerville",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43081",
+  "email": "No (SCO)"
 }

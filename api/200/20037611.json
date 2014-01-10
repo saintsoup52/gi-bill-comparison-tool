@@ -1,6 +1,6 @@
 {
   "facility_code": "20037611",
-  "institution": "DORA'S CUSTOM RE-UPHOLSTERY & INTERIORS INC (CH 31 ONLY)",
+  "institution": "Dora'S Custom Re-Upholstery & Interiors Inc (Ch 31 Only)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30331",
+  "email": false
 }

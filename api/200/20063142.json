@@ -1,6 +1,6 @@
 {
   "facility_code": "20063142",
-  "institution": "HEAT AND FROST INSULATORS AND ALLIED WORKERS LOCAL 46 JATC",
+  "institution": "Heat And Frost Insulators And Allied Workers Local 46 Jatc",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37917",
+  "email": false
 }

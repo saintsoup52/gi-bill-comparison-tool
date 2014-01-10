@@ -1,6 +1,6 @@
 {
   "facility_code": "14901403",
-  "institution": "GATEWAY COMMUNITY COLLEGE",
+  "institution": "Gateway Community College",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 206,
   "cross": 105145,
-  "grad_rate": 20.3,
-  "grad_rate_rank": 434,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 8605,
-  "avg_stu_loan_debt_rank": 383,
-  "indicator_group": 3
+  "grad_rate": 18.0,
+  "grad_rate_rank": 658,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 7792,
+  "avg_stu_loan_debt_rank": 227,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85034",
+  "email": true
 }

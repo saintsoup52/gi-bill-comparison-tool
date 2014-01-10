@@ -1,6 +1,6 @@
 {
   "facility_code": "14916440",
-  "institution": "ORANGEBURG-CALHOUN TECHNICAL COLLEGE",
+  "institution": "Orangeburg-Calhoun Technical College",
   "city": "Orangeburg",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 133,
   "cross": 218487,
-  "grad_rate": 10.4,
-  "grad_rate_rank": 515,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 183,
-  "indicator_group": 3
+  "grad_rate": 12.8,
+  "grad_rate_rank": 1207,
+  "default_rate": 22.4,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "29118",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31902201",
-  "institution": "OAKWOOD UNIVERSITY",
+  "institution": "Oakwood University",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 66,
   "cross": 101912,
-  "grad_rate": 35.0,
-  "grad_rate_rank": 1367,
-  "default_rate": 19.7,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 37.7,
+  "grad_rate_rank": 1316,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35896",
+  "email": true
 }

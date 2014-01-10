@@ -1,6 +1,6 @@
 {
   "facility_code": "25486310",
-  "institution": "AVEDA INSTITUTE - ORLANDO",
+  "institution": "Aveda Institute - Orlando",
   "city": "Winter Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451149,
-  "grad_rate": 69.8,
-  "grad_rate_rank": 1183,
-  "default_rate": 13.6,
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 16.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32792",
+  "email": true
 }

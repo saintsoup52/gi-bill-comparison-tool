@@ -1,6 +1,6 @@
 {
   "facility_code": "25385432",
-  "institution": "INSTITUTE OF AUDIO RESEARCH LLC",
+  "institution": "Institute Of Audio Research Llc",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 64,
   "cross": 191834,
-  "grad_rate": 57.3,
-  "grad_rate_rank": 1698,
-  "default_rate": 17.0,
+  "grad_rate": 52.2,
+  "grad_rate_rank": 1890,
+  "default_rate": 29.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10003",
+  "email": true
 }

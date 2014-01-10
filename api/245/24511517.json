@@ -1,6 +1,6 @@
 {
   "facility_code": "24511517",
-  "institution": "DAYMAR COLLEGE - MADISONVILLE",
+  "institution": "Daymar College - Madisonville",
   "city": "Madisonville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 449302,
-  "grad_rate": 3.3,
-  "grad_rate_rank": 1308,
-  "default_rate": 29.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 37.8,
+  "grad_rate_rank": 451,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 12315,
+  "avg_stu_loan_debt_rank": 873,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "42431",
+  "email": true
 }

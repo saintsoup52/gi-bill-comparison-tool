@@ -1,6 +1,6 @@
 {
   "facility_code": "25019906",
-  "institution": "COLORADO OUTDOOR ADVENTURE GUIDE SCHOOL",
+  "institution": "Colorado Outdoor Adventure Guide School",
   "city": "Mesa",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "81643",
+  "email": true
 }

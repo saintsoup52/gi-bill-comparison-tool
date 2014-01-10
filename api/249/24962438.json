@@ -1,6 +1,6 @@
 {
   "facility_code": "24962438",
-  "institution": "LAUREL TECHNICAL INSTITUTE (SHARON CAMPUS)",
+  "institution": "Laurel Technical Institute (Sharon Campus)",
   "city": "Sharon",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 215992,
-  "grad_rate": 48.0,
-  "grad_rate_rank": 241,
-  "default_rate": 27.8,
-  "avg_stu_loan_debt": 8680,
-  "avg_stu_loan_debt_rank": 696,
-  "indicator_group": 2
+  "grad_rate": 44.8,
+  "grad_rate_rank": 340,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 10020,
+  "avg_stu_loan_debt_rank": 742,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16146",
+  "email": true
 }

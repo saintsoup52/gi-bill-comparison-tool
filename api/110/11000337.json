@@ -1,6 +1,6 @@
 {
   "facility_code": "11000337",
-  "institution": "EASTERN OREGON UNIVERSITY",
+  "institution": "Eastern Oregon University",
   "city": "La Grande",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 221,
   "cross": 208646,
-  "grad_rate": 31.7,
-  "grad_rate_rank": 1454,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 15559,
-  "avg_stu_loan_debt_rank": 794,
-  "indicator_group": 1
+  "grad_rate": 31.9,
+  "grad_rate_rank": 1481,
+  "default_rate": 11.2,
+  "avg_stu_loan_debt": 16400,
+  "avg_stu_loan_debt_rank": 732,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97850",
+  "email": true
 }

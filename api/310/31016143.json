@@ -1,6 +1,6 @@
 {
   "facility_code": "31016143",
-  "institution": "WILEY COLLEGE",
+  "institution": "Wiley College",
   "city": "Marshall",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 229887,
-  "grad_rate": 17.8,
-  "grad_rate_rank": 1699,
-  "default_rate": 24.3,
-  "avg_stu_loan_debt": 13978,
-  "avg_stu_loan_debt_rank": 627,
-  "indicator_group": 1
+  "grad_rate": 14.8,
+  "grad_rate_rank": 1779,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 15242,
+  "avg_stu_loan_debt_rank": 564,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75670",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34002116",
-  "institution": "CENTRAL CHRISTIAN COLLEGE",
+  "institution": "Central Christian College",
   "city": "Mc Pherson",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 154855,
-  "grad_rate": 41.3,
-  "grad_rate_rank": 1189,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 13500,
-  "avg_stu_loan_debt_rank": 588,
-  "indicator_group": 1
+  "grad_rate": 34.7,
+  "grad_rate_rank": 1398,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 9399,
+  "avg_stu_loan_debt_rank": 129,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67460",
+  "email": true
 }

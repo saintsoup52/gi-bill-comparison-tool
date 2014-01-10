@@ -1,6 +1,6 @@
 {
   "facility_code": "24984425",
-  "institution": "VATTEROTT COLLEGE (NORTH)",
+  "institution": "Vatterott College (North)",
   "city": "Berkeley",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 245342,
-  "grad_rate": 40.4,
-  "grad_rate_rank": 248,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 815,
-  "indicator_group": 3
+  "grad_rate": 51.4,
+  "grad_rate_rank": 384,
+  "default_rate": 23.8,
+  "avg_stu_loan_debt": 19222,
+  "avg_stu_loan_debt_rank": 706,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "63134",
+  "email": true
 }

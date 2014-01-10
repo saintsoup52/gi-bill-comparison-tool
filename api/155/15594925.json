@@ -1,6 +1,6 @@
 {
   "facility_code": "15594925",
-  "institution": "VERNON COUNTY AMBULANCE DISTRICT",
+  "institution": "Vernon County Ambulance District",
   "city": "Nevada",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64772",
+  "email": false
 }

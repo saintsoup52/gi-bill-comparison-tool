@@ -1,6 +1,6 @@
 {
   "facility_code": "25101743",
-  "institution": "TINT SCHOOL OF MAKEUP AND COSMETOLOGY",
+  "institution": "Tint School Of Makeup And Cosmetology",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 227058,
-  "grad_rate": 76.9,
-  "grad_rate_rank": 817,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 3021,
-  "avg_stu_loan_debt_rank": 561,
-  "indicator_group": 5
+  "grad_rate": 63.0,
+  "grad_rate_rank": 1514,
+  "default_rate": 42.1,
+  "avg_stu_loan_debt": 2987,
+  "avg_stu_loan_debt_rank": 38,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75061",
+  "email": false
 }

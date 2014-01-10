@@ -1,6 +1,6 @@
 {
   "facility_code": "28007638",
-  "institution": "STROUDSBURG SCHOOL OF COSMETOLOGY",
+  "institution": "Stroudsburg School Of Cosmetology",
   "city": "Stroudsburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 216223,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 7701,
-  "avg_stu_loan_debt_rank": 1296,
-  "indicator_group": 5
+  "grad_rate": 82.1,
+  "grad_rate_rank": 550,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "18360",
+  "email": true
 }

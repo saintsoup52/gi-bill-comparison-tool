@@ -1,6 +1,6 @@
 {
   "facility_code": "10986401",
-  "institution": "PLUMBERS AND PIPEFITTERS JATC",
+  "institution": "Plumbers And Pipefitters Jatc",
   "city": "Tuscaloosa",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35405",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25003804",
-  "institution": "TOUCHING AMERICA/HOT SPRINGS SCHOOL OF MASSAGE",
+  "institution": "Touching America/Hot Springs School Of Massage",
   "city": "Maumelle",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72113",
+  "email": false
 }

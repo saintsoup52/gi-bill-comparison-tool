@@ -1,6 +1,6 @@
 {
   "facility_code": "31000221",
-  "institution": "AMHERST COLLEGE",
+  "institution": "Amherst College",
   "city": "Amherst",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 164465,
-  "grad_rate": 96.3,
-  "grad_rate_rank": 13,
-  "default_rate": 1.3,
-  "avg_stu_loan_debt": 10569,
-  "avg_stu_loan_debt_rank": 283,
-  "indicator_group": 1
+  "grad_rate": 94.7,
+  "grad_rate_rank": 21,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 14451,
+  "avg_stu_loan_debt_rank": 482,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1002",
+  "email": true
 }

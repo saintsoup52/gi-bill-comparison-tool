@@ -1,6 +1,6 @@
 {
   "facility_code": "25141010",
-  "institution": "ACADEMY OF COSMETOLOGY - PALM BAY",
+  "institution": "Academy Of Cosmetology - Palm Bay",
   "city": "Melbourne",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32904",
+  "email": false
 }

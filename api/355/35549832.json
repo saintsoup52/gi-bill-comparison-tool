@@ -1,6 +1,6 @@
 {
   "facility_code": "35549832",
-  "institution": "ARCHBISHOP WALSH HIGH SCHOOL",
+  "institution": "Archbishop Walsh High School",
   "city": "Olean",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14760",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25837107",
-  "institution": "EUROPEAN ACADEMY OF COSMETOLOGY & HAIRDRESSING LLC",
+  "institution": "European Academy Of Cosmetology & Hairdressing Llc",
   "city": "Guilford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 457332,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8657,
-  "avg_stu_loan_debt_rank": 1512,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 11717,
+  "avg_stu_loan_debt_rank": 1734,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6437",
+  "email": false
 }

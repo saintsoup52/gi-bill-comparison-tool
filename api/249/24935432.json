@@ -1,6 +1,6 @@
 {
   "facility_code": "24935432",
-  "institution": "THE COLLEGE OF WESTCHESTER",
+  "institution": "The College Of Westchester",
   "city": "White Plains",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 32,
   "cross": 197285,
-  "grad_rate": 44.9,
-  "grad_rate_rank": 275,
-  "default_rate": 14.5,
-  "avg_stu_loan_debt": 19250,
-  "avg_stu_loan_debt_rank": 1397,
-  "indicator_group": 2
+  "grad_rate": 37.9,
+  "grad_rate_rank": 448,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10602",
+  "email": true
 }

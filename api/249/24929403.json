@@ -1,6 +1,6 @@
 {
   "facility_code": "24929403",
-  "institution": "GOLF ACADEMY OF AMERICA",
+  "institution": "Golf Academy Of America",
   "city": "Chandler",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 430166,
-  "grad_rate": 68.9,
-  "grad_rate_rank": 77,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 1056,
-  "indicator_group": 2
+  "grad_rate": 82.7,
+  "grad_rate_rank": 30,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 12207,
+  "avg_stu_loan_debt_rank": 863,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85225",
+  "email": true
 }

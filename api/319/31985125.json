@@ -1,6 +1,6 @@
 {
   "facility_code": "31985125",
-  "institution": "BAPTIST BIBLE COLLEGE",
+  "institution": "Baptist Bible College",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 176664,
-  "grad_rate": 26.1,
-  "grad_rate_rank": 1570,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 13020,
-  "avg_stu_loan_debt_rank": 561,
-  "indicator_group": 1
+  "grad_rate": 28.6,
+  "grad_rate_rank": 1563,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 14100,
+  "avg_stu_loan_debt_rank": 439,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65803",
+  "email": true
 }

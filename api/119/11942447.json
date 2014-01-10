@@ -1,6 +1,6 @@
 {
   "facility_code": "11942447",
-  "institution": "LAKE WASHINGTON INSTITUTE OF TECHNOLOGY",
+  "institution": "Lake Washington Institute Of Technology",
   "city": "Kirkland",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 168,
   "cross": 235699,
-  "grad_rate": 21.0,
-  "grad_rate_rank": 426,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 9949,
-  "avg_stu_loan_debt_rank": 653,
-  "indicator_group": 3
+  "grad_rate": 21.6,
+  "grad_rate_rank": 892,
+  "default_rate": 16.5,
+  "avg_stu_loan_debt": 10498,
+  "avg_stu_loan_debt_rank": 756,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98034",
+  "email": true
 }

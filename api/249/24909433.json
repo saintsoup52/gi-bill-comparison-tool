@@ -1,6 +1,6 @@
 {
   "facility_code": "24909433",
-  "institution": "THE ART INSTITUTE OF CHARLOTTE",
+  "institution": "The Art Institute Of Charlotte",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 147,
   "cross": 197832,
-  "grad_rate": 25.3,
-  "grad_rate_rank": 678,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "grad_rate": 37.0,
+  "grad_rate_rank": 463,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 6463,
+  "avg_stu_loan_debt_rank": 376,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28217",
+  "email": true
 }

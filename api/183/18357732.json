@@ -1,6 +1,6 @@
 {
   "facility_code": "18357732",
-  "institution": "BOCES JEFFERSON-LEWIS-HAMILTON-HERKIMER-ONEIDA",
+  "institution": "Boces Jefferson-Lewis-Hamilton-Herkimer-Oneida",
   "city": "Watertown",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 42,
   "cross": 417886,
-  "grad_rate": 57.1,
-  "grad_rate_rank": 1700,
-  "default_rate": 10.3,
-  "avg_stu_loan_debt": 5875,
-  "avg_stu_loan_debt_rank": 943,
-  "indicator_group": 5
+  "grad_rate": 63.6,
+  "grad_rate_rank": 1484,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 539,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "13601",
+  "email": true
 }

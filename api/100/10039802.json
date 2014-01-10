@@ -1,6 +1,6 @@
 {
   "facility_code": "10039802",
-  "institution": "OFC OF CIVILIAN PERSONNEL FT RICHARDSON",
+  "institution": "Ofc Of Civilian Personnel Ft Richardson",
   "city": "Ft Richardson",
   "state": "AK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99505",
+  "email": false
 }

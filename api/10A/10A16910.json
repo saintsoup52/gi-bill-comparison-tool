@@ -1,6 +1,6 @@
 {
   "facility_code": "10A16910",
-  "institution": "STATE OF FLORIDA DEPT OF EDUCATION DIV OF VOCATIONAL REHABILITATION - ORLANDO",
+  "institution": "State Of Florida Dept Of Education Div Of Vocational Rehabilitation - Orlando",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32803",
+  "email": false
 }

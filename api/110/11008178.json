@@ -1,10 +1,10 @@
 {
   "facility_code": "11008178",
-  "institution": "UNIVERSITY OF COPENHAGEN",
+  "institution": "University Of Copenhagen",
   "city": "1870 Frederiksberg",
   "state": "Denmark",
   "country": "Denmark",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 1,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

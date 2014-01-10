@@ -1,6 +1,6 @@
 {
   "facility_code": "14932116",
-  "institution": "BUTLER COUNTY COMMUNITY COLLEGE",
+  "institution": "Butler County Community College",
   "city": "El Dorado",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 449,
   "cross": 154800,
-  "grad_rate": 23.8,
-  "grad_rate_rank": 731,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 5718,
-  "avg_stu_loan_debt_rank": 410,
-  "indicator_group": 2
+  "grad_rate": 21.0,
+  "grad_rate_rank": 909,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 6025,
+  "avg_stu_loan_debt_rank": 334,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "67042",
+  "email": false
 }

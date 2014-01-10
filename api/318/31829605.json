@@ -1,6 +1,6 @@
 {
   "facility_code": "31829605",
-  "institution": "ANTIOCH UNIVERSITY (LOS ANGELES)",
+  "institution": "Antioch University (Los Angeles)",
   "city": "Culver City",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 245838,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 23523,
+  "avg_stu_loan_debt_rank": 1581,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90230",
+  "email": false
 }

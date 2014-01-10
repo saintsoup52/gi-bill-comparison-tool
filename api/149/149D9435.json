@@ -1,6 +1,6 @@
 {
   "facility_code": "149D9435",
-  "institution": "WASHINGTON STATE COMMUNITY COLLEGE",
+  "institution": "Washington State Community College",
   "city": "Marietta",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 89,
   "cross": 206446,
-  "grad_rate": 17.3,
-  "grad_rate_rank": 954,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 7112,
-  "avg_stu_loan_debt_rank": 570,
-  "indicator_group": 2
+  "grad_rate": 27.7,
+  "grad_rate_rank": 700,
+  "default_rate": 23.8,
+  "avg_stu_loan_debt": 9003,
+  "avg_stu_loan_debt_rank": 630,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45750",
+  "email": true
 }

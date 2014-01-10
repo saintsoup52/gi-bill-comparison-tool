@@ -1,6 +1,6 @@
 {
   "facility_code": "24800732",
-  "institution": "BRYANT & STRATTON COLLEGE - ONLINE",
+  "institution": "Bryant & Stratton College - Online",
   "city": "Orchard Park",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 98,
   "cross": 374972,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 448,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 916,
-  "indicator_group": 2
+  "grad_rate": 45.7,
+  "grad_rate_rank": 328,
+  "default_rate": 30.3,
+  "avg_stu_loan_debt": 11027,
+  "avg_stu_loan_debt_rank": 783,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14127",
+  "email": true
 }

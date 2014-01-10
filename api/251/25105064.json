@@ -1,6 +1,6 @@
 {
   "facility_code": "25105064",
-  "institution": "MED-ASSIST SCHOOL OF HAWAII",
+  "institution": "Med-Assist School Of Hawaii",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 141848,
-  "grad_rate": 66.2,
-  "grad_rate_rank": 1353,
-  "default_rate": 16.9,
-  "avg_stu_loan_debt": 8309,
-  "avg_stu_loan_debt_rank": 1445,
-  "indicator_group": 5
+  "grad_rate": 54.3,
+  "grad_rate_rank": 1828,
+  "default_rate": 29.3,
+  "avg_stu_loan_debt": 7507,
+  "avg_stu_loan_debt_rank": 728,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "96813",
+  "email": false
 }

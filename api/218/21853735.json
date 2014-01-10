@@ -1,6 +1,6 @@
 {
   "facility_code": "21853735",
-  "institution": "BROWN MACKIE COLLEGE-CINCINNATI",
+  "institution": "Brown Mackie College-Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 124,
   "cross": 205610,
-  "grad_rate": 20.4,
-  "grad_rate_rank": 845,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 1019,
-  "indicator_group": 2
+  "grad_rate": 31.5,
+  "grad_rate_rank": 593,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45215",
+  "email": true
 }

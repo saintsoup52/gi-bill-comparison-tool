@@ -1,6 +1,6 @@
 {
   "facility_code": "11802336",
-  "institution": "OKLAHOMA STATE UNIVERSITY CORRESPONDENCE STUDY DEPT/IND STUDY",
+  "institution": "Oklahoma State University Correspondence Study Dept/Ind Study",
   "city": "Stillwater",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 207388,
-  "grad_rate": 61.8,
-  "grad_rate_rank": 515,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 17330,
-  "avg_stu_loan_debt_rank": 992,
-  "indicator_group": 1
+  "grad_rate": 62.2,
+  "grad_rate_rank": 509,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74074",
+  "email": true
 }

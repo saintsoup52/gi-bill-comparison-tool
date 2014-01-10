@@ -1,6 +1,6 @@
 {
   "facility_code": "10458015",
-  "institution": "VA CENTRAL IOWA HEALTH CARE SYSTEM",
+  "institution": "Va Central Iowa Health Care System",
   "city": "Knoxville",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50138",
+  "email": false
 }

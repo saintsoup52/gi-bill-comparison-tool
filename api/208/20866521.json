@@ -1,6 +1,6 @@
 {
   "facility_code": "20866521",
-  "institution": "ABEL WOMACK INC",
+  "institution": "Abel Womack Inc",
   "city": "Lawrence",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1843",
+  "email": true
 }

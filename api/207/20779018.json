@@ -1,6 +1,6 @@
 {
   "facility_code": "20779018",
-  "institution": "PERFORMANCE GLASS AND TINT INC.",
+  "institution": "Performance Glass And Tint Inc.",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70814",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10W42638",
-  "institution": "DEPARTMENT OF CORRECTIONS CCC (PITTSBURGH - N NEGLEY AVE)",
+  "institution": "Department Of Corrections Ccc (Pittsburgh - N Negley Ave)",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15206",
+  "email": false
 }

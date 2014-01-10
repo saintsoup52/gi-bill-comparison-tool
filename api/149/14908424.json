@@ -1,6 +1,6 @@
 {
   "facility_code": "14908424",
-  "institution": "HOLMES COMMUNITY COLLEGE",
+  "institution": "Holmes Community College",
   "city": "Goodman",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 200,
   "cross": 175810,
-  "grad_rate": 27.2,
-  "grad_rate_rank": 619,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 4000,
-  "avg_stu_loan_debt_rank": 182,
-  "indicator_group": 2
+  "grad_rate": 26.8,
+  "grad_rate_rank": 731,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39079",
+  "email": false
 }

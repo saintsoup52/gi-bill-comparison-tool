@@ -1,6 +1,6 @@
 {
   "facility_code": "24914414",
-  "institution": "INTERNATIONAL BUSINESS COLLEGE - INDIANAPOLIS",
+  "institution": "International Business College - Indianapolis",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 151467,
-  "grad_rate": 69.4,
-  "grad_rate_rank": 73,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 16316,
-  "avg_stu_loan_debt_rank": 1189,
-  "indicator_group": 2
+  "grad_rate": 75.8,
+  "grad_rate_rank": 58,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 16806,
+  "avg_stu_loan_debt_rank": 1087,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "46256",
+  "email": true
 }

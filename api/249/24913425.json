@@ -1,6 +1,6 @@
 {
   "facility_code": "24913425",
-  "institution": "HICKEY COLLEGE",
+  "institution": "Hickey College",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 177579,
-  "grad_rate": 83.9,
-  "grad_rate_rank": 23,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 18747,
-  "avg_stu_loan_debt_rank": 1376,
-  "indicator_group": 2
+  "grad_rate": 81.4,
+  "grad_rate_rank": 35,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 18010,
+  "avg_stu_loan_debt_rank": 1129,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "63146",
+  "email": false
 }

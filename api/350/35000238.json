@@ -1,6 +1,6 @@
 {
   "facility_code": "35000238",
-  "institution": "CHESTER COUNTY OIC - WEST CHESTER",
+  "institution": "Chester County Oic - West Chester",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19382",
+  "email": false
 }

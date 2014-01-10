@@ -1,6 +1,6 @@
 {
   "facility_code": "20119231",
-  "institution": "84 LUMBER CO.  #3602",
+  "institution": "84 Lumber Co.  #3602",
   "city": "Carlsbad",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "88220",
+  "email": "No (SCO)"
 }

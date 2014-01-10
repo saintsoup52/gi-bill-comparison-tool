@@ -1,6 +1,6 @@
 {
   "facility_code": "20829121",
-  "institution": "LENSCRAFTERS INC. #488",
+  "institution": "Lenscrafters Inc. #488",
   "city": "North Dartmouth",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2747",
+  "email": false
 }

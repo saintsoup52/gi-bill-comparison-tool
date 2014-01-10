@@ -1,6 +1,6 @@
 {
   "facility_code": "24928148",
-  "institution": "VALLEY COLLEGE",
+  "institution": "Valley College",
   "city": "Princeton",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 377670,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 201,
-  "default_rate": 37.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 56.0,
+  "grad_rate_rank": 1768,
+  "default_rate": 56.5,
+  "avg_stu_loan_debt": 8705,
+  "avg_stu_loan_debt_rank": 940,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "24740",
+  "email": true
 }

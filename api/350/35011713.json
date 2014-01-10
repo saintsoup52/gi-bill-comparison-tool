@@ -1,6 +1,6 @@
 {
   "facility_code": "35011713",
-  "institution": "MARIAN CENTRAL CATHOLIC HIGH SCHOOL",
+  "institution": "Marian Central Catholic High School",
   "city": "Woodstock",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60098",
+  "email": false
 }

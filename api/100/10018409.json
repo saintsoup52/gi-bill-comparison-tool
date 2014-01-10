@@ -1,6 +1,6 @@
 {
   "facility_code": "10018409",
-  "institution": "US SOLDIER'S & AIRMEN'S HOME",
+  "institution": "Us Soldier'S & Airmen'S Home",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20317",
+  "email": "No (SCO)"
 }

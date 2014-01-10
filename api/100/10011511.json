@@ -1,6 +1,6 @@
 {
   "facility_code": "10011511",
-  "institution": "BREMEN POLICE DEPARTMENT",
+  "institution": "Bremen Police Department",
   "city": "Bremen",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30110",
+  "email": false
 }

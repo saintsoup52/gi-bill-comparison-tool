@@ -1,6 +1,6 @@
 {
   "facility_code": "15013306",
-  "institution": "PICKENS TECHNICAL COLLEGE",
+  "institution": "Pickens Technical College",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 128151,
-  "grad_rate": 71.1,
-  "grad_rate_rank": 1125,
+  "grad_rate": 84.2,
+  "grad_rate_rank": 462,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80011",
+  "email": true
 }

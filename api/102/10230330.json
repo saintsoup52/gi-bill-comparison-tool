@@ -1,6 +1,6 @@
 {
   "facility_code": "10230330",
-  "institution": "HAMILTON TOWNSHIP FIRE DEPARTMENT - DISTRICT 2",
+  "institution": "Hamilton Township Fire Department - District 2",
   "city": "Hamilton",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8619",
+  "email": false
 }

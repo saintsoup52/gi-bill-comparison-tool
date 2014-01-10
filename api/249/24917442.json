@@ -1,6 +1,6 @@
 {
   "facility_code": "24917442",
-  "institution": "CHATTANOOGA COLLEGE",
+  "institution": "Chattanooga College",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 220118,
-  "grad_rate": 70.7,
-  "grad_rate_rank": 67,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 13878,
-  "avg_stu_loan_debt_rank": 769,
-  "indicator_group": 3
+  "grad_rate": 69.8,
+  "grad_rate_rank": 175,
+  "default_rate": 21.1,
+  "avg_stu_loan_debt": 13098,
+  "avg_stu_loan_debt_rank": 627,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "37411",
+  "email": false
 }

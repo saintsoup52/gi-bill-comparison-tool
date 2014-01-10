@@ -1,6 +1,6 @@
 {
   "facility_code": "18083138",
-  "institution": "YORK COUNTY SCHOOL OF TECHNOLOGY",
+  "institution": "York County School Of Technology",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 418409,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 624,
-  "default_rate": 13.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 86.2,
+  "grad_rate_rank": 398,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 7346,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17402",
+  "email": true
 }

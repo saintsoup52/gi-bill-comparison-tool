@@ -1,6 +1,6 @@
 {
   "facility_code": "20050135",
-  "institution": "TRU CUT DIE CORP K",
+  "institution": "Tru Cut Die Corp K",
   "city": "Sebring",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44672",
+  "email": "No (SCO)"
 }

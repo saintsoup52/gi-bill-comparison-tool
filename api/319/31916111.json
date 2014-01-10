@@ -1,6 +1,6 @@
 {
   "facility_code": "31916111",
-  "institution": "BEULAH HEIGHTS UNIVERSITY",
+  "institution": "Beulah Heights University",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 139153,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 28665,
-  "avg_stu_loan_debt_rank": 2031,
-  "indicator_group": 1
+  "grad_rate": 18.9,
+  "grad_rate_rank": 1729,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 23750,
+  "avg_stu_loan_debt_rank": 1597,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30316",
+  "email": true
 }

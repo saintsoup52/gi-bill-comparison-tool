@@ -1,6 +1,6 @@
 {
   "facility_code": "18029936",
-  "institution": "NORTHEAST TECHNOLOGY CENTER - AFTON",
+  "institution": "Northeast Technology Center - Afton",
   "city": "Afton",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 420459,
-  "grad_rate": 57.3,
-  "grad_rate_rank": 1698,
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74331",
+  "email": false
 }

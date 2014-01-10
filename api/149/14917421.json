@@ -1,6 +1,6 @@
 {
   "facility_code": "14917421",
-  "institution": "BRISTOL COMMUNITY COLLEGE",
+  "institution": "Bristol Community College",
   "city": "Fall River",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 325,
   "cross": 165033,
-  "grad_rate": 18.2,
-  "grad_rate_rank": 923,
-  "default_rate": 16.9,
-  "avg_stu_loan_debt": 3775,
-  "avg_stu_loan_debt_rank": 173,
-  "indicator_group": 2
+  "grad_rate": 15.9,
+  "grad_rate_rank": 1080,
+  "default_rate": 16.1,
+  "avg_stu_loan_debt": 3800,
+  "avg_stu_loan_debt_rank": 72,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "2720",
+  "email": true
 }

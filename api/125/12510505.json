@@ -1,6 +1,6 @@
 {
   "facility_code": "12510505",
-  "institution": "LOS ANGELES COUNTY HARBOR UCLA MEDICAL CENTER",
+  "institution": "Los Angeles County Harbor Ucla Medical Center",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90509",
+  "email": true
 }

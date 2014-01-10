@@ -1,6 +1,6 @@
 {
   "facility_code": "11802101",
-  "institution": "AUBURN UNIVERSITY AT MONTGOMERY",
+  "institution": "Auburn University At Montgomery",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 520,
   "cross": 100830,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 1403,
-  "default_rate": 12.4,
-  "avg_stu_loan_debt": 9773,
-  "avg_stu_loan_debt_rank": 250,
-  "indicator_group": 1
+  "grad_rate": 5.5,
+  "grad_rate_rank": 1856,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36124",
+  "email": true
 }

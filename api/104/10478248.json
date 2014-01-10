@@ -1,6 +1,6 @@
 {
   "facility_code": "10478248",
-  "institution": "VETERANS OUTREACH CENTER",
+  "institution": "Veterans Outreach Center",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25301",
+  "email": false
 }

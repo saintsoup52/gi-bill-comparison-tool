@@ -1,6 +1,6 @@
 {
   "facility_code": "20292504",
-  "institution": "REDUS APPRAISAL SERVICES",
+  "institution": "Redus Appraisal Services",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72204",
+  "email": false
 }

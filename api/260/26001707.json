@@ -1,6 +1,6 @@
 {
   "facility_code": "26001707",
-  "institution": "RIDLEY-LOWELL NEW LONDON CAMPUS",
+  "institution": "Ridley-Lowell New London Campus",
   "city": "New London",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 129969,
-  "grad_rate": 49.0,
-  "grad_rate_rank": 1951,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 9463,
+  "avg_stu_loan_debt_rank": 1056,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6320",
+  "email": true
 }

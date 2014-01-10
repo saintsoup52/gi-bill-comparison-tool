@@ -1,6 +1,6 @@
 {
   "facility_code": "31000908",
-  "institution": "SPRINGFIELD COLLEGE",
+  "institution": "Springfield College",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 167899,
-  "grad_rate": 67.1,
-  "grad_rate_rank": 373,
-  "default_rate": 10.9,
-  "avg_stu_loan_debt": 20044,
-  "avg_stu_loan_debt_rank": 1437,
-  "indicator_group": 1
+  "grad_rate": 66.3,
+  "grad_rate_rank": 400,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 20832,
+  "avg_stu_loan_debt_rank": 1292,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19801",
+  "email": true
 }

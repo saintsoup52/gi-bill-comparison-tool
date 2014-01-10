@@ -1,6 +1,6 @@
 {
   "facility_code": "10034711",
-  "institution": "MARTA-UTILITY FLEET MAINTENANCE DIVISION",
+  "institution": "Marta-Utility Fleet Maintenance Division",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30318",
+  "email": false
 }

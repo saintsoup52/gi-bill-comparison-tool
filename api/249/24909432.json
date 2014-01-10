@@ -1,6 +1,6 @@
 {
   "facility_code": "24909432",
-  "institution": "JAMESTOWN BUSINESS COLLEGE",
+  "institution": "Jamestown Business College",
   "city": "Jamestown",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 26,
   "cross": 192004,
-  "grad_rate": 56.0,
-  "grad_rate_rank": 166,
-  "default_rate": 17.6,
-  "avg_stu_loan_debt": 8882,
-  "avg_stu_loan_debt_rank": 715,
-  "indicator_group": 2
+  "grad_rate": 46.0,
+  "grad_rate_rank": 323,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 621,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14701",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14901420",
-  "institution": "PRINCE GEORGES COMMUNITY COLLEGE",
+  "institution": "Prince Georges Community College",
   "city": "Largo",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 660,
   "cross": 163657,
-  "grad_rate": 8.7,
-  "grad_rate_rank": 1235,
-  "default_rate": 15.5,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 7.2,
+  "grad_rate_rank": 1353,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 4101,
+  "avg_stu_loan_debt_rank": 85,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "20774",
+  "email": true
 }

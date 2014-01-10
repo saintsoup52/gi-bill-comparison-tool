@@ -1,6 +1,6 @@
 {
   "facility_code": "14913443",
-  "institution": "LEE COLLEGE",
+  "institution": "Lee College",
   "city": "Baytown",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 217,
   "cross": 226204,
-  "grad_rate": 21.4,
-  "grad_rate_rank": 420,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 183,
-  "indicator_group": 3
+  "grad_rate": 21.5,
+  "grad_rate_rank": 626,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 5750,
+  "avg_stu_loan_debt_rank": 142,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "77520",
+  "email": true
 }

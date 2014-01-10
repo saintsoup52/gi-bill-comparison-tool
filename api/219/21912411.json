@@ -1,6 +1,6 @@
 {
   "facility_code": "21912411",
-  "institution": "GWINNETT COLLEGE (LILBURN)",
+  "institution": "Gwinnett College (Lilburn)",
   "city": "Lilburn",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 27,
   "cross": 140003,
-  "grad_rate": 56.4,
-  "grad_rate_rank": 164,
-  "default_rate": 12.9,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "grad_rate": 51.3,
+  "grad_rate_rank": 248,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 15033,
+  "avg_stu_loan_debt_rank": 1018,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "30047",
+  "email": true
 }

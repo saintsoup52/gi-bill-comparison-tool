@@ -1,6 +1,6 @@
 {
   "facility_code": "25000244",
-  "institution": "AMERITECH COLLEGE - PROVO",
+  "institution": "Ameritech College - Provo",
   "city": "Provo",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 229957,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 2490,
-  "indicator_group": 5
+  "grad_rate": 79.5,
+  "grad_rate_rank": 678,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84604",
+  "email": true
 }

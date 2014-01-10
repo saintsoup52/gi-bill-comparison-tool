@@ -1,6 +1,6 @@
 {
   "facility_code": "25012228",
-  "institution": "EUPHORIA INSTITUTE OF BEAUTY ARTS & SCIENCES-GREEN VALLEY",
+  "institution": "Euphoria Institute Of Beauty Arts & Sciences-Green Valley",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 450739,
-  "grad_rate": 74.6,
-  "grad_rate_rank": 948,
-  "default_rate": 30.3,
-  "avg_stu_loan_debt": 9546,
-  "avg_stu_loan_debt_rank": 2087,
-  "indicator_group": 5
+  "grad_rate": 75.4,
+  "grad_rate_rank": 894,
+  "default_rate": 32.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "89052",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25035501",
-  "institution": "FORTIS COLLEGE - DOTHAN",
+  "institution": "Fortis College - Dothan",
   "city": "Dothan",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 455460,
-  "grad_rate": 50.6,
-  "grad_rate_rank": 1908,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 5398,
-  "avg_stu_loan_debt_rank": 832,
-  "indicator_group": 5
+  "grad_rate": 56.0,
+  "grad_rate_rank": 1768,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 7830,
+  "avg_stu_loan_debt_rank": 786,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "36303",
+  "email": true
 }

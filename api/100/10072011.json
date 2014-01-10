@@ -1,6 +1,6 @@
 {
   "facility_code": "10072011",
-  "institution": "VA HEALTH ELIGIBILITY CENTER",
+  "institution": "Va Health Eligibility Center",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30329",
+  "email": false
 }

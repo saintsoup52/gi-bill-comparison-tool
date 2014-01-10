@@ -1,6 +1,6 @@
 {
   "facility_code": "28023629",
-  "institution": "EMPIRE BEAUTY SCHOOL - HOOKSETT NH",
+  "institution": "Empire Beauty School - Hooksett Nh",
   "city": "Hooksett",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 450641,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 652,
-  "default_rate": 19.8,
-  "avg_stu_loan_debt": 9205,
-  "avg_stu_loan_debt_rank": 1599,
-  "indicator_group": 5
+  "grad_rate": 63.6,
+  "grad_rate_rank": 1484,
+  "default_rate": 27.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3106",
+  "email": true
 }

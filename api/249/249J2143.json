@@ -1,6 +1,6 @@
 {
   "facility_code": "249J2143",
-  "institution": "KAPLAN COLLEGE DALLAS",
+  "institution": "Kaplan College Dallas",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 29,
   "cross": 382896,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 28.7,
-  "avg_stu_loan_debt": 8859,
-  "avg_stu_loan_debt_rank": 394,
-  "indicator_group": 3
+  "grad_rate": 67.6,
+  "grad_rate_rank": 201,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 8854,
+  "avg_stu_loan_debt_rank": 282,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "75234",
+  "email": false
 }

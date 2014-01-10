@@ -1,6 +1,6 @@
 {
   "facility_code": "18083238",
-  "institution": "SCHUYLKILL TRAINING AND TECHNOLOGY CENTER",
+  "institution": "Schuylkill Training And Technology Center",
   "city": "Frackville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 215886,
-  "grad_rate": 88.2,
-  "grad_rate_rank": 324,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 10158,
-  "avg_stu_loan_debt_rank": 2162,
-  "indicator_group": 5
+  "grad_rate": 94.1,
+  "grad_rate_rank": 168,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17931",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20077110",
-  "institution": "THATCHER GLASS MFG CO AAC",
+  "institution": "Thatcher Glass Mfg Co Aac",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33612",
+  "email": "No (SCO)"
 }

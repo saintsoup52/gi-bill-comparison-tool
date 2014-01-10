@@ -1,6 +1,6 @@
 {
   "facility_code": "32905132",
-  "institution": "HELENE FULD COLLEGE OF NURSING",
+  "institution": "Helene Fuld College Of Nursing",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 191597,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 12584,
-  "avg_stu_loan_debt_rank": 1010,
-  "indicator_group": 2
+  "grad_rate": 64.7,
+  "grad_rate_rank": 132,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 12667,
+  "avg_stu_loan_debt_rank": 904,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10035",
+  "email": true
 }

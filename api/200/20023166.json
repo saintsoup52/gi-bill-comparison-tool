@@ -1,10 +1,10 @@
 {
   "facility_code": "20023166",
-  "institution": "JAC - OPERATING",
+  "institution": "Jac - Operating",
   "city": "Agana",
   "state": "GU",
   "country": "USA",
-  "bah": 1368,
+  "bah": 2450,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96910",
+  "email": "No (SCO)"
 }

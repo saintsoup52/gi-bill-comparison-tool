@@ -1,6 +1,6 @@
 {
   "facility_code": "25013811",
-  "institution": "INTERNATIONAL SCHOOL OF SKIN & NAIL CARE",
+  "institution": "International School Of Skin & Nail Care",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 365091,
-  "grad_rate": 20.9,
-  "grad_rate_rank": 2174,
-  "default_rate": 18.9,
-  "avg_stu_loan_debt": 3821,
-  "avg_stu_loan_debt_rank": 668,
-  "indicator_group": 5
+  "grad_rate": 58.5,
+  "grad_rate_rank": 1688,
+  "default_rate": 17.1,
+  "avg_stu_loan_debt": 4221,
+  "avg_stu_loan_debt_rank": 162,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30342",
+  "email": true
 }

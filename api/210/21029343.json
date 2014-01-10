@@ -1,6 +1,6 @@
 {
   "facility_code": "21029343",
-  "institution": "DEVRY UNIVERSITY IRVING",
+  "institution": "Devry University Irving",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 591,
   "cross": 224402,
-  "grad_rate": 18.8,
-  "grad_rate_rank": 1685,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 20.4,
+  "grad_rate_rank": 1705,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75063",
+  "email": false
 }

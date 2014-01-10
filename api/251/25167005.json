@@ -1,6 +1,6 @@
 {
   "facility_code": "25167005",
-  "institution": "SIERRA COLLEGE OF BEAUTY",
+  "institution": "Sierra College Of Beauty",
   "city": "Merced",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 123350,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 2092,
+  "grad_rate": 75.6,
+  "grad_rate_rank": 884,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95340",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B95935",
-  "institution": "DEFENSE SUPPLY CENTER COLUMBUS",
+  "institution": "Defense Supply Center Columbus",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43218",
+  "email": true
 }

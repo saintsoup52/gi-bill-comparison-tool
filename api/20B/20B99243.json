@@ -1,6 +1,6 @@
 {
   "facility_code": "20B99243",
-  "institution": "AMERICAN MOTORCYCLE",
+  "institution": "American Motorcycle",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76011",
+  "email": false
 }

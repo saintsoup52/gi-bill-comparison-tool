@@ -1,6 +1,6 @@
 {
   "facility_code": "28008838",
-  "institution": "VENUS BEAUTY ACADEMY",
+  "institution": "Venus Beauty Academy",
   "city": "Sharon Hill",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 216579,
-  "grad_rate": 81.7,
-  "grad_rate_rank": 565,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 77.3,
+  "grad_rate_rank": 795,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 8027,
+  "avg_stu_loan_debt_rank": 829,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19079",
+  "email": true
 }

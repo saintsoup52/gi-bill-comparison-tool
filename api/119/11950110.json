@@ -1,6 +1,6 @@
 {
   "facility_code": "11950110",
-  "institution": "FLORIDA ATLANTIC UNIVERSITY",
+  "institution": "Florida Atlantic University",
   "city": "Boca Raton",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 666,
   "cross": 133669,
-  "grad_rate": 42.5,
-  "grad_rate_rank": 1142,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 13139,
-  "avg_stu_loan_debt_rank": 568,
-  "indicator_group": 1
+  "grad_rate": 41.1,
+  "grad_rate_rank": 1209,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33431",
+  "email": true
 }

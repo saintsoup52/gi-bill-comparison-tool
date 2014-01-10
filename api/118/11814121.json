@@ -1,6 +1,6 @@
 {
   "facility_code": "11814121",
-  "institution": "FITCHBURG STATE UNIVERSITY",
+  "institution": "Fitchburg State University",
   "city": "Fitchburg",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 113,
   "cross": 165820,
-  "grad_rate": 47.2,
-  "grad_rate_rank": 984,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 13312,
-  "avg_stu_loan_debt_rank": 577,
-  "indicator_group": 1
+  "grad_rate": 50.8,
+  "grad_rate_rank": 870,
+  "default_rate": 9.7,
+  "avg_stu_loan_debt": 15729,
+  "avg_stu_loan_debt_rank": 595,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1420",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14903423",
-  "institution": "VERMILION COMMUNITY COLLEGE",
+  "institution": "Vermilion Community College",
   "city": "Ely",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 175157,
-  "grad_rate": 30.1,
-  "grad_rate_rank": 530,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 8250,
-  "avg_stu_loan_debt_rank": 664,
-  "indicator_group": 2
+  "grad_rate": 29.7,
+  "grad_rate_rank": 641,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 8571,
+  "avg_stu_loan_debt_rank": 590,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55731",
+  "email": false
 }

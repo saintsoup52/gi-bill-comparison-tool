@@ -1,6 +1,6 @@
 {
   "facility_code": "10008033",
-  "institution": "HOPE MILLS POLICE DEPARTMENT",
+  "institution": "Hope Mills Police Department",
   "city": "Hope Mills",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28348",
+  "email": false
 }

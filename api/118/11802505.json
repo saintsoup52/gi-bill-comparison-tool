@@ -1,6 +1,6 @@
 {
   "facility_code": "11802505",
-  "institution": "UNIVERSITY OF CALIFORNIA DAVIS EXTENSION",
+  "institution": "University Of California Davis Extension",
   "city": "Davis",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 110644,
-  "grad_rate": 81.7,
-  "grad_rate_rank": 129,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 14500,
-  "avg_stu_loan_debt_rank": 678,
-  "indicator_group": 1
+  "grad_rate": 81.3,
+  "grad_rate_rank": 138,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 15333,
+  "avg_stu_loan_debt_rank": 569,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95616",
+  "email": false
 }

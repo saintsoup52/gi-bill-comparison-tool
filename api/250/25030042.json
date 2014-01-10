@@ -1,6 +1,6 @@
 {
   "facility_code": "25030042",
-  "institution": "ELITE COLLEGE OF COSMETOLOGY",
+  "institution": "Elite College Of Cosmetology",
   "city": "Lexington",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451529,
-  "grad_rate": 72.5,
-  "grad_rate_rank": 1045,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 42.9,
+  "grad_rate_rank": 2061,
+  "default_rate": 34.0,
+  "avg_stu_loan_debt": 4333,
+  "avg_stu_loan_debt_rank": 169,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38351",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15022520",
-  "institution": "UNIVERSITY OF MARYLAND POLICE ACADEMY",
+  "institution": "University Of Maryland Police Academy",
   "city": "College Park",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20742",
+  "email": true
 }

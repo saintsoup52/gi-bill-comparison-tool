@@ -1,6 +1,6 @@
 {
   "facility_code": "18020848",
-  "institution": "WOOD COUNTY SCHOOL OF PRACTICAL NURSING",
+  "institution": "Wood County School Of Practical Nursing",
   "city": "Parkersburg",
   "state": "WV",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 1,
   "cross": 238096,
   "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 23.8,
-  "avg_stu_loan_debt": 4426,
-  "avg_stu_loan_debt_rank": 731,
-  "indicator_group": 5
+  "grad_rate_rank": 1331,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26104",
+  "email": true
 }

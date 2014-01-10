@@ -1,6 +1,6 @@
 {
   "facility_code": "20460347",
-  "institution": "EDWARD JONES - SPOKANE",
+  "institution": "Edward Jones - Spokane",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99208",
+  "email": true
 }

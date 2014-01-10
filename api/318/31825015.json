@@ -1,6 +1,6 @@
 {
   "facility_code": "31825015",
-  "institution": "WILLIAM PENN COLLEGE",
+  "institution": "William Penn College",
   "city": "Oskaloosa",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 154590,
-  "grad_rate": 29.9,
-  "grad_rate_rank": 1501,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 16781,
-  "avg_stu_loan_debt_rank": 919,
-  "indicator_group": 1
+  "grad_rate": 31.1,
+  "grad_rate_rank": 1505,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52577",
+  "email": false
 }

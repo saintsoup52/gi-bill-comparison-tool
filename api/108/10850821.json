@@ -1,6 +1,6 @@
 {
   "facility_code": "10850821",
-  "institution": "FAA CAPE TRACON (MASSACHUSETTS)",
+  "institution": "Faa Cape Tracon (Massachusetts)",
   "city": "Falmouth",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2542",
+  "email": true
 }

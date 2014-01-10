@@ -1,6 +1,6 @@
 {
   "facility_code": "14917439",
-  "institution": "COMMUNITY COLLEGE OF RHODE ISLAND",
+  "institution": "Community College Of Rhode Island",
   "city": "Warwick",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 752,
   "cross": 217475,
-  "grad_rate": 10.6,
-  "grad_rate_rank": 1189,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 4200,
-  "avg_stu_loan_debt_rank": 194,
-  "indicator_group": 2
+  "grad_rate": 11.8,
+  "grad_rate_rank": 1238,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 4889,
+  "avg_stu_loan_debt_rank": 157,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "2886",
+  "email": true
 }

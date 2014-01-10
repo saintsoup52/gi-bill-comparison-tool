@@ -1,6 +1,6 @@
 {
   "facility_code": "31008233",
-  "institution": "PIEDMONT INTERNATIONAL UNIVERSITY (PRIOR PIEDMONT BAPTIST COLLEGE/GRAD SCHOOL)",
+  "institution": "Piedmont International University (Prior Piedmont Baptist College/Grad School)",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 199315,
-  "grad_rate": 46.7,
-  "grad_rate_rank": 996,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 32.0,
+  "grad_rate_rank": 1478,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27101",
+  "email": true
 }

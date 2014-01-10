@@ -1,6 +1,6 @@
 {
   "facility_code": "14903321",
-  "institution": "MIDDLESEX COMMUNITY COLLEGE-LOWELL",
+  "institution": "Middlesex Community College-Lowell",
   "city": "Lowell",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 214,
   "cross": 166887,
-  "grad_rate": 13.2,
-  "grad_rate_rank": 1091,
-  "default_rate": 12.9,
-  "avg_stu_loan_debt": 3897,
-  "avg_stu_loan_debt_rank": 177,
-  "indicator_group": 2
+  "grad_rate": 13.1,
+  "grad_rate_rank": 1195,
+  "default_rate": 15.7,
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 77,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "1852",
+  "email": true
 }

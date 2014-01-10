@@ -1,6 +1,6 @@
 {
   "facility_code": "25014420",
-  "institution": "FORTIS INSTITUTE (FORMERLY KNOW AS MEDIX SCHOOL-WEST)",
+  "institution": "Fortis Institute (Formerly Know As Medix School-West)",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 450076,
-  "grad_rate": 55.3,
-  "grad_rate_rank": 1771,
-  "default_rate": 24.2,
-  "avg_stu_loan_debt": 7155,
-  "avg_stu_loan_debt_rank": 1166,
-  "indicator_group": 5
+  "grad_rate": 54.4,
+  "grad_rate_rank": 1821,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 6393,
+  "avg_stu_loan_debt_rank": 520,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21244",
+  "email": true
 }

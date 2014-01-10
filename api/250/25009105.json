@@ -1,6 +1,6 @@
 {
   "facility_code": "25009105",
-  "institution": "CYBERSTATE UNIVERSITY INC (CHAPTER 31 ONLY)",
+  "institution": "Cyberstate University Inc (Chapter 31 Only)",
   "city": "Orinda",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94563",
+  "email": "No (SCO)"
 }

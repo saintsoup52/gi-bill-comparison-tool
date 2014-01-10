@@ -1,6 +1,6 @@
 {
   "facility_code": "18027736",
-  "institution": "MID-AMERICA TECHNOLOGY CENTER",
+  "institution": "Mid-America Technology Center",
   "city": "Wayne",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 418320,
-  "grad_rate": 38.0,
-  "grad_rate_rank": 2086,
+  "grad_rate": 44.1,
+  "grad_rate_rank": 2045,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73095",
+  "email": true
 }

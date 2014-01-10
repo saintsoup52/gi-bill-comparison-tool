@@ -1,6 +1,6 @@
 {
   "facility_code": "31051510",
-  "institution": "FLORIDA CHRISTIAN COLLEGE",
+  "institution": "Florida Christian College",
   "city": "Kissimmee",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 20,
   "cross": 132879,
-  "grad_rate": 23.7,
-  "grad_rate_rank": 1615,
-  "default_rate": 9.2,
-  "avg_stu_loan_debt": 16003,
-  "avg_stu_loan_debt_rank": 846,
-  "indicator_group": 1
+  "grad_rate": 41.9,
+  "grad_rate_rank": 1177,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 10552,
+  "avg_stu_loan_debt_rank": 188,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "34744",
+  "email": true
 }

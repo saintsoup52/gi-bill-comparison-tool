@@ -1,6 +1,6 @@
 {
   "facility_code": "14501101",
-  "institution": "BISHOP STATE C.C.",
+  "institution": "Bishop State C.C.",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 306,
   "cross": 102030,
-  "grad_rate": 13.9,
-  "grad_rate_rank": 1064,
+  "grad_rate": 14.1,
+  "grad_rate_rank": 1154,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 1308,
-  "avg_stu_loan_debt_rank": 102,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 1022,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "36603",
+  "email": true
 }

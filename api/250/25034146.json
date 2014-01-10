@@ -1,6 +1,6 @@
 {
   "facility_code": "25034146",
-  "institution": "BRISTOL SCHOOL OF HAIR DESIGN",
+  "institution": "Bristol School Of Hair Design",
   "city": "Bristol",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24203",
+  "email": false
 }

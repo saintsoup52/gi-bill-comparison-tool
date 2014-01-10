@@ -1,6 +1,6 @@
 {
   "facility_code": "31060029",
-  "institution": "THE THOMAS MORE COLLEGE OF LIBERAL ARTS",
+  "institution": "The Thomas More College Of Liberal Arts",
   "city": "Merrimack",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 183275,
-  "grad_rate": 68.4,
-  "grad_rate_rank": 337,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 31.6,
+  "grad_rate_rank": 1491,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 19100,
+  "avg_stu_loan_debt_rank": 1087,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3054",
+  "email": true
 }

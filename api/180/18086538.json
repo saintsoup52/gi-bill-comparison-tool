@@ -1,6 +1,6 @@
 {
   "facility_code": "18086538",
-  "institution": "HUNTINGDON COUNTY CAREER AND TECHNOLOGY CENTER",
+  "institution": "Huntingdon County Career And Technology Center",
   "city": "Mill Creek",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 440217,
-  "grad_rate": 94.7,
-  "grad_rate_rank": 137,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 8859,
-  "avg_stu_loan_debt_rank": 1556,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 12070,
+  "avg_stu_loan_debt_rank": 1782,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17060",
+  "email": false
 }

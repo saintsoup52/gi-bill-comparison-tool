@@ -1,6 +1,6 @@
 {
   "facility_code": "20512424",
-  "institution": "SHEARWATER POTTERY LTD",
+  "institution": "Shearwater Pottery Ltd",
   "city": "Ocean Springs",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39564",
+  "email": false
 }

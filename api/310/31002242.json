@@ -1,6 +1,6 @@
 {
   "facility_code": "31002242",
-  "institution": "BRYAN COLLEGE - DAYTON",
+  "institution": "Bryan College - Dayton",
   "city": "Dayton",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 219790,
-  "grad_rate": 56.3,
-  "grad_rate_rank": 667,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 10551,
-  "avg_stu_loan_debt_rank": 282,
-  "indicator_group": 1
+  "grad_rate": 49.0,
+  "grad_rate_rank": 930,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 10875,
+  "avg_stu_loan_debt_rank": 216,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37321",
+  "email": true
 }

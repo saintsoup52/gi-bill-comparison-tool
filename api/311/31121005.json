@@ -1,6 +1,6 @@
 {
   "facility_code": "31121005",
-  "institution": "STANFORD UNIVERSITY",
+  "institution": "Stanford University",
   "city": "Stanford",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 104,
   "cross": 243744,
-  "grad_rate": 96.1,
-  "grad_rate_rank": 15,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 13030,
-  "avg_stu_loan_debt_rank": 563,
-  "indicator_group": 1
+  "grad_rate": 95.2,
+  "grad_rate_rank": 18,
+  "default_rate": 0.7,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94305",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25019130",
-  "institution": "STAR CAREER ACADEMY - NEWARK",
+  "institution": "Star Career Academy - Newark",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 440907,
-  "grad_rate": 40.6,
-  "grad_rate_rank": 2063,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 9405,
-  "avg_stu_loan_debt_rank": 1638,
-  "indicator_group": 5
+  "grad_rate": 59.1,
+  "grad_rate_rank": 1662,
+  "default_rate": 27.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7102",
+  "email": true
 }

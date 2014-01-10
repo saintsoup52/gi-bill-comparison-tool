@@ -1,6 +1,6 @@
 {
   "facility_code": "10039211",
-  "institution": "COLUMBUS CONSOLIDATED GOVERNMENT - DEPARTMENT OF PUBLIC SERVICES",
+  "institution": "Columbus Consolidated Government - Department Of Public Services",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31901",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002821",
-  "institution": "WHEATON COLLEGE",
+  "institution": "Wheaton College",
   "city": "Norton",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 168281,
-  "grad_rate": 77.1,
-  "grad_rate_rank": 192,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 21750,
-  "avg_stu_loan_debt_rank": 1614,
-  "indicator_group": 1
+  "grad_rate": 82.0,
+  "grad_rate_rank": 129,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 23375,
+  "avg_stu_loan_debt_rank": 1564,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2766",
+  "email": false
 }

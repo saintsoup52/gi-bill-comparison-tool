@@ -1,6 +1,6 @@
 {
   "facility_code": "20521414",
-  "institution": "BEACH MOLD & TOOL INC.",
+  "institution": "Beach Mold & Tool Inc.",
   "city": "New Albany",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47150",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18034036",
-  "institution": "MERIDIAN TECHNOLOGY CENTER",
+  "institution": "Meridian Technology Center",
   "city": "Stillwater",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 365480,
-  "grad_rate": 74.4,
-  "grad_rate_rank": 954,
+  "grad_rate": 62.0,
+  "grad_rate_rank": 1553,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74074",
+  "email": false
 }

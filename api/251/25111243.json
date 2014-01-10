@@ -1,6 +1,6 @@
 {
   "facility_code": "25111243",
-  "institution": "TEXAS BARBER COLLEGES AND HAIRSTYLING SCHOOLS NUMBER 7",
+  "institution": "Texas Barber Colleges And Hairstyling Schools Number 7",
   "city": "Conroe",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 440989,
-  "grad_rate": 44.3,
-  "grad_rate_rank": 2025,
-  "default_rate": 27.5,
+  "grad_rate": 41.3,
+  "grad_rate_rank": 2086,
+  "default_rate": 26.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77301",
+  "email": false
 }

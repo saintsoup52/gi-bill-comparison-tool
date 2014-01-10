@@ -1,10 +1,10 @@
 {
   "facility_code": "31019574",
-  "institution": "CANTERBURY CHRIST CHURCH UNIVERSITY",
+  "institution": "Canterbury Christ Church University",
   "city": "Canterbury",
   "state": "United Kingdom",
   "country": "United Kingdom",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

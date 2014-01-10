@@ -1,6 +1,6 @@
 {
   "facility_code": "10403846",
-  "institution": "RICHMOND DEPT OF FIRE & EMERGENCY SERVICES",
+  "institution": "Richmond Dept Of Fire & Emergency Services",
   "city": "Sandston",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23150",
+  "email": true
 }

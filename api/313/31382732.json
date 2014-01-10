@@ -1,6 +1,6 @@
 {
   "facility_code": "31382732",
-  "institution": "HOUGHTON COLLEGE",
+  "institution": "Houghton College",
   "city": "Houghton",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 191676,
-  "grad_rate": 68.2,
-  "grad_rate_rank": 344,
+  "grad_rate": 67.0,
+  "grad_rate_rank": 378,
   "default_rate": 4.7,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14744",
+  "email": true
 }

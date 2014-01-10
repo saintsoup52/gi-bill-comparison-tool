@@ -1,6 +1,6 @@
 {
   "facility_code": "31501005",
-  "institution": "VANGUARD UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "institution": "Vanguard University Of Southern California",
   "city": "Costa Mesa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 82,
   "cross": 123651,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 692,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 20875,
+  "avg_stu_loan_debt_rank": 1299,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92626",
+  "email": false
 }

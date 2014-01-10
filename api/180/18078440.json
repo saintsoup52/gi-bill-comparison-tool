@@ -1,6 +1,6 @@
 {
   "facility_code": "18078440",
-  "institution": "SC MIDLANDS EMS MANAGEMENT ASSOCIATION",
+  "institution": "Sc Midlands Ems Management Association",
   "city": "West Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29169",
+  "email": false
 }

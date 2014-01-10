@@ -1,6 +1,6 @@
 {
   "facility_code": "11842635",
-  "institution": "KENT STATE UNIVERSITY-GEAUGA CAMPUS",
+  "institution": "Kent State University-Geauga Campus",
   "city": "Burton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 203526,
-  "grad_rate": 29.2,
-  "grad_rate_rank": 562,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 16625,
-  "avg_stu_loan_debt_rank": 1321,
-  "indicator_group": 2
+  "grad_rate": 19.1,
+  "grad_rate_rank": 966,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 16842,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44021",
+  "email": false
 }

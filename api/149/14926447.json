@@ -1,6 +1,6 @@
 {
   "facility_code": "14926447",
-  "institution": "SPOKANE FALLS COMMUNITY COLLEGE",
+  "institution": "Spokane Falls Community College",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 480,
   "cross": 236708,
-  "grad_rate": 22.1,
-  "grad_rate_rank": 794,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 7334,
-  "avg_stu_loan_debt_rank": 594,
-  "indicator_group": 2
+  "grad_rate": 22.6,
+  "grad_rate_rank": 862,
+  "default_rate": 20.7,
+  "avg_stu_loan_debt": 7707,
+  "avg_stu_loan_debt_rank": 530,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "99224",
+  "email": true
 }

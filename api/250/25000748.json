@@ -1,6 +1,6 @@
 {
   "facility_code": "25000748",
-  "institution": "SPRUCE SCHOOL OF REAL ESTATE INC",
+  "institution": "Spruce School Of Real Estate Inc",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25302",
+  "email": "No (SCO)"
 }

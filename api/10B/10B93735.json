@@ -1,6 +1,6 @@
 {
   "facility_code": "10B93735",
-  "institution": "DAYTON COX INTERNATIONAL AIRPORT",
+  "institution": "Dayton Cox International Airport",
   "city": "Vandalia",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45377",
+  "email": false
 }

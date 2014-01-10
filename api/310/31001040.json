@@ -1,6 +1,6 @@
 {
   "facility_code": "31001040",
-  "institution": "NEWBERRY COLLEGE",
+  "institution": "Newberry College",
   "city": "Newberry",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 218414,
-  "grad_rate": 35.3,
-  "grad_rate_rank": 1357,
-  "default_rate": 8.9,
-  "avg_stu_loan_debt": 18500,
-  "avg_stu_loan_debt_rank": 1137,
-  "indicator_group": 1
+  "grad_rate": 40.2,
+  "grad_rate_rank": 1243,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29108",
+  "email": true
 }

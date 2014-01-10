@@ -1,6 +1,6 @@
 {
   "facility_code": "10074411",
-  "institution": "FEDERAL AVIATION ADMINISTRATION - FLIGHT INSPECTION OPERATIONS GROUP",
+  "institution": "Federal Aviation Administration - Flight Inspection Operations Group",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30036",
+  "email": true
 }

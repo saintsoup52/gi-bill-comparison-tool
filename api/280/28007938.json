@@ -1,6 +1,6 @@
 {
   "facility_code": "28007938",
-  "institution": "LEVITTOWN BEAUTY ACADEMY LLC",
+  "institution": "Levittown Beauty Academy Llc",
   "city": "Levittown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 213552,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 301,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 7100,
-  "avg_stu_loan_debt_rank": 1161,
-  "indicator_group": 5
+  "grad_rate": 90.4,
+  "grad_rate_rank": 258,
+  "default_rate": 27.0,
+  "avg_stu_loan_debt": 8028,
+  "avg_stu_loan_debt_rank": 831,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19054",
+  "email": false
 }

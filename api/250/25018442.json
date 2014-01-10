@@ -1,6 +1,6 @@
 {
   "facility_code": "25018442",
-  "institution": "TENNESSEE ACADEMY OF COSMETOLOGY",
+  "institution": "Tennessee Academy Of Cosmetology",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 416670,
-  "grad_rate": 68.4,
-  "grad_rate_rank": 1237,
-  "default_rate": 24.3,
-  "avg_stu_loan_debt": 6717,
-  "avg_stu_loan_debt_rank": 1100,
-  "indicator_group": 5
+  "grad_rate": 63.2,
+  "grad_rate_rank": 1509,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38133",
+  "email": false
 }

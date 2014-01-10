@@ -1,6 +1,6 @@
 {
   "facility_code": "21932113",
-  "institution": "AMERICAN ACADEMY OF ART",
+  "institution": "American Academy Of Art",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 142887,
-  "grad_rate": 44.3,
-  "grad_rate_rank": 1085,
-  "default_rate": 14.8,
-  "avg_stu_loan_debt": 22441,
-  "avg_stu_loan_debt_rank": 1699,
-  "indicator_group": 1
+  "grad_rate": 46.9,
+  "grad_rate_rank": 1007,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 23149,
+  "avg_stu_loan_debt_rank": 1547,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60604",
+  "email": false
 }

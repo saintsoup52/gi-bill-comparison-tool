@@ -1,6 +1,6 @@
 {
   "facility_code": "31804110",
-  "institution": "STETSON UNIVERSITY - DELAND",
+  "institution": "Stetson University - Deland",
   "city": "Deland",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 105,
   "cross": 137546,
-  "grad_rate": 64.0,
-  "grad_rate_rank": 453,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 64.4,
+  "grad_rate_rank": 451,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32723",
+  "email": true
 }

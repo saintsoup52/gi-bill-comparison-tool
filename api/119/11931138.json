@@ -1,6 +1,6 @@
 {
   "facility_code": "11931138",
-  "institution": "PENN STATE UNIVERSITY - WILKES-BARRE",
+  "institution": "Penn State University - Wilkes-Barre",
   "city": "Lehman",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 214643,
-  "grad_rate": 47.0,
-  "grad_rate_rank": 987,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 23426,
-  "avg_stu_loan_debt_rank": 1813,
-  "indicator_group": 1
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18627",
+  "email": true
 }

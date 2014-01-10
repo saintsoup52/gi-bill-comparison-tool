@@ -1,6 +1,6 @@
 {
   "facility_code": "15543125",
-  "institution": "CASS CAREER CENTER",
+  "institution": "Cass Career Center",
   "city": "Harrisonville",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 417682,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64701",
+  "email": true
 }

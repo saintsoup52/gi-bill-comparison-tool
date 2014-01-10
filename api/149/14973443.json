@@ -1,6 +1,6 @@
 {
   "facility_code": "14973443",
-  "institution": "SAN ANTONIO COLLEGE",
+  "institution": "San Antonio College",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2525,
   "cross": 227924,
-  "grad_rate": 4.8,
-  "grad_rate_rank": 1293,
-  "default_rate": 18.9,
-  "avg_stu_loan_debt": 6750,
-  "avg_stu_loan_debt_rank": 522,
-  "indicator_group": 2
+  "grad_rate": 5.2,
+  "grad_rate_rank": 1371,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 7750,
+  "avg_stu_loan_debt_rank": 534,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "78212",
+  "email": false
 }

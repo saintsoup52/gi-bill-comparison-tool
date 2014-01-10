@@ -1,6 +1,6 @@
 {
   "facility_code": "31900130",
-  "institution": "RIDER UNIVERSITY",
+  "institution": "Rider University",
   "city": "Lawrenceville",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 186283,
-  "grad_rate": 63.4,
-  "grad_rate_rank": 465,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 23100,
-  "avg_stu_loan_debt_rank": 1799,
-  "indicator_group": 1
+  "grad_rate": 67.3,
+  "grad_rate_rank": 372,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 24200,
+  "avg_stu_loan_debt_rank": 1657,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "8648",
+  "email": true
 }

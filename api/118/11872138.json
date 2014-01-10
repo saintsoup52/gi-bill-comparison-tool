@@ -1,6 +1,6 @@
 {
   "facility_code": "11872138",
-  "institution": "UNIVERSITY OF PITTSBURGH AT TITUSVILLE",
+  "institution": "University Of Pittsburgh At Titusville",
   "city": "Titusville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 215309,
-  "grad_rate": 16.1,
-  "grad_rate_rank": 991,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1441,
-  "indicator_group": 2
+  "grad_rate": 12.9,
+  "grad_rate_rank": 1203,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 23878,
+  "avg_stu_loan_debt_rank": 1382,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16354",
+  "email": false
 }

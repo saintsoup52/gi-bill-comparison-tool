@@ -1,6 +1,6 @@
 {
   "facility_code": "25125743",
-  "institution": "PIPO ACADEMY OF HAIR DESIGN",
+  "institution": "Pipo Academy Of Hair Design",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 418913,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 2202,
+  "grad_rate": 90.0,
+  "grad_rate_rank": 267,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79903",
+  "email": false
 }

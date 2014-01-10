@@ -1,6 +1,6 @@
 {
   "facility_code": "25058318",
-  "institution": "MEDICAL TRAINING COLLEGE",
+  "institution": "Medical Training College",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 436650,
-  "grad_rate": 64.8,
-  "grad_rate_rank": 1402,
-  "default_rate": 11.1,
+  "grad_rate": 60.9,
+  "grad_rate_rank": 1602,
+  "default_rate": 12.7,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70816",
+  "email": true
 }

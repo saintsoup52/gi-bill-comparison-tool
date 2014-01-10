@@ -1,6 +1,6 @@
 {
   "facility_code": "31508017",
-  "institution": "UNIVERSITY OF PIKEVILLE",
+  "institution": "University Of Pikeville",
   "city": "Pikeville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 157535,
-  "grad_rate": 25.8,
-  "grad_rate_rank": 1576,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 134,
-  "indicator_group": 1
+  "grad_rate": 27.5,
+  "grad_rate_rank": 1585,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 88,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "41501",
+  "email": false
 }

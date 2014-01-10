@@ -1,6 +1,6 @@
 {
   "facility_code": "25112705",
-  "institution": "PARIS BEAUTY COLLEGE",
+  "institution": "Paris Beauty College",
   "city": "Concord",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 121017,
-  "grad_rate": 67.5,
-  "grad_rate_rank": 1271,
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94520",
+  "email": false
 }

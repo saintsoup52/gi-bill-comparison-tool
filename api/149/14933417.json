@@ -1,6 +1,6 @@
 {
   "facility_code": "14933417",
-  "institution": "SOUTHCENTRAL KENTUCKY COMMUNITY & TECHNICAL COLLEGE - BOWLING GREEN",
+  "institution": "Southcentral Kentucky Community & Technical College - Bowling Green",
   "city": "Bowling Green",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 140,
   "cross": 156338,
-  "grad_rate": 28.3,
-  "grad_rate_rank": 357,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 285,
-  "indicator_group": 3
+  "grad_rate": 29.3,
+  "grad_rate_rank": 547,
+  "default_rate": 25.2,
+  "avg_stu_loan_debt": 8006,
+  "avg_stu_loan_debt_rank": 241,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "42101",
+  "email": true
 }

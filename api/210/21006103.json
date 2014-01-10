@@ -1,6 +1,6 @@
 {
   "facility_code": "21006103",
-  "institution": "GRAND CANYON UNIVERSITY",
+  "institution": "Grand Canyon University",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3192,
   "cross": 104717,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 1475,
-  "default_rate": 15.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 31.3,
+  "grad_rate_rank": 1498,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 10153,
+  "avg_stu_loan_debt_rank": 166,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85017",
+  "email": true
 }

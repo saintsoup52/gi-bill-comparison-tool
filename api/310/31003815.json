@@ -1,6 +1,6 @@
 {
   "facility_code": "31003815",
-  "institution": "NORTHWESTERN COLLEGE",
+  "institution": "Northwestern College",
   "city": "Orange City",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 154101,
-  "grad_rate": 65.5,
-  "grad_rate_rank": 419,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 20187,
-  "avg_stu_loan_debt_rank": 1454,
-  "indicator_group": 1
+  "grad_rate": 62.5,
+  "grad_rate_rank": 501,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "51041",
+  "email": true
 }

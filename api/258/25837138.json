@@ -1,6 +1,6 @@
 {
   "facility_code": "25837138",
-  "institution": "BARNES & NOBLE COLLEGE BOOKSELLERS 405",
+  "institution": "Barnes & Noble College Booksellers 405",
   "city": "Blue Bell",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19422",
+  "email": false
 }

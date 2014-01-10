@@ -1,6 +1,6 @@
 {
   "facility_code": "249D1410",
-  "institution": "ULTIMATE MEDICAL ACADEMY-CLW",
+  "institution": "Ultimate Medical Academy-Clw",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 441371,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 27.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 61.5,
+  "grad_rate_rank": 278,
+  "default_rate": 18.2,
+  "avg_stu_loan_debt": 8515,
+  "avg_stu_loan_debt_rank": 265,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33756",
+  "email": true
 }

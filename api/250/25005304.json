@@ -1,6 +1,6 @@
 {
   "facility_code": "25005304",
-  "institution": "ARKANSAS BEAUTY SCHOOL-CONWAY",
+  "institution": "Arkansas Beauty School-Conway",
   "city": "Conway",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 371140,
-  "grad_rate": 45.2,
-  "grad_rate_rank": 2005,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 7943,
-  "avg_stu_loan_debt_rank": 1362,
-  "indicator_group": 5
+  "grad_rate": 65.6,
+  "grad_rate_rank": 1397,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 9306,
+  "avg_stu_loan_debt_rank": 1036,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72032",
+  "email": false
 }

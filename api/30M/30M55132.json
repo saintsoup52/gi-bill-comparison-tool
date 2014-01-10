@@ -1,6 +1,6 @@
 {
   "facility_code": "30M55132",
-  "institution": "HEAT & FROST INSULATORS AND ASBETOS WORKERS LU #30",
+  "institution": "Heat & Frost Insulators And Asbetos Workers Lu #30",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14622",
+  "email": false
 }

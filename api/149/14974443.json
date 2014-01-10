@@ -1,6 +1,6 @@
 {
   "facility_code": "14974443",
-  "institution": "LONE STAR COLLEGE SYSTEM",
+  "institution": "Lone Star College System",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2402,
   "cross": 227182,
-  "grad_rate": 10.2,
-  "grad_rate_rank": 1201,
-  "default_rate": 17.7,
-  "avg_stu_loan_debt": 7117,
-  "avg_stu_loan_debt_rank": 572,
-  "indicator_group": 2
+  "grad_rate": 12.4,
+  "grad_rate_rank": 1217,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": 6250,
+  "avg_stu_loan_debt_rank": 358,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "77070",
+  "email": false
 }

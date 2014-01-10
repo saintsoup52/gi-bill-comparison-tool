@@ -1,6 +1,6 @@
 {
   "facility_code": "21113705",
-  "institution": "THE FASHION INSTITUTE OF DESIGN & MERCHANDISING-L.A.",
+  "institution": "The Fashion Institute Of Design & Merchandising-L.A.",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 99,
   "cross": 114354,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 186,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 24675,
-  "avg_stu_loan_debt_rank": 1455,
-  "indicator_group": 2
+  "grad_rate": 57.8,
+  "grad_rate_rank": 187,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 26469,
+  "avg_stu_loan_debt_rank": 1404,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90015",
+  "email": false
 }

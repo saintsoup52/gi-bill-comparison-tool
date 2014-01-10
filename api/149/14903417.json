@@ -1,6 +1,6 @@
 {
   "facility_code": "14903417",
-  "institution": "HAZARD COMMUNITY & TECHNICAL COLLEGE - HAZARD CAMPUS",
+  "institution": "Hazard Community & Technical College - Hazard Campus",
   "city": "Hazard",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 76,
   "cross": 156790,
-  "grad_rate": 28.3,
-  "grad_rate_rank": 357,
-  "default_rate": 23.7,
-  "avg_stu_loan_debt": 6316,
-  "avg_stu_loan_debt_rank": 246,
-  "indicator_group": 3
+  "grad_rate": 35.3,
+  "grad_rate_rank": 492,
+  "default_rate": 34.4,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 212,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "41701",
+  "email": false
 }

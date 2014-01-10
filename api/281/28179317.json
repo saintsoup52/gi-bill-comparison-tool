@@ -1,6 +1,6 @@
 {
   "facility_code": "28179317",
-  "institution": "EMPIRE BEAUTY SCHOOL-LOUISVILLE 1049 BARDSTOWN RD",
+  "institution": "Empire Beauty School-Louisville 1049 Bardstown Rd",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 262660,
-  "grad_rate": 36.8,
-  "grad_rate_rank": 2093,
-  "default_rate": 21.4,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "grad_rate": 59.3,
+  "grad_rate_rank": 1655,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40204",
+  "email": true
 }

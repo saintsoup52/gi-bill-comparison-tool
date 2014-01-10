@@ -1,6 +1,6 @@
 {
   "facility_code": "31902121",
-  "institution": "CLARK UNIVERSITY",
+  "institution": "Clark University",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 165334,
-  "grad_rate": 79.5,
-  "grad_rate_rank": 166,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 79.8,
+  "grad_rate_rank": 161,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1610",
+  "email": true
 }

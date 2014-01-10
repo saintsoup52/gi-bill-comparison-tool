@@ -1,6 +1,6 @@
 {
   "facility_code": "25005211",
-  "institution": "ANSWERS PRIVATE DETECTIVE AGENCY INC  (CH 31 ONLY)",
+  "institution": "Answers Private Detective Agency Inc  (Ch 31 Only)",
   "city": "Mableton",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31026",
+  "email": "No (SCO)"
 }

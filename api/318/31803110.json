@@ -1,6 +1,6 @@
 {
   "facility_code": "31803110",
-  "institution": "FLORIDA SOUTHERN COLLEGE",
+  "institution": "Florida Southern College",
   "city": "Lakeland",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 77,
   "cross": 134079,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 726,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 15726,
-  "avg_stu_loan_debt_rank": 805,
-  "indicator_group": 1
+  "grad_rate": 55.0,
+  "grad_rate_rank": 741,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 20402,
+  "avg_stu_loan_debt_rank": 1237,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33801",
+  "email": false
 }

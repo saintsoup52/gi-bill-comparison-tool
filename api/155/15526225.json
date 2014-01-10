@@ -1,6 +1,6 @@
 {
   "facility_code": "15526225",
-  "institution": "LEBANON TECHNOLOGY AND CAREER CENTER",
+  "institution": "Lebanon Technology And Career Center",
   "city": "Lebanon",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 374112,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 12050,
+  "avg_stu_loan_debt_rank": 1781,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65536",
+  "email": true
 }

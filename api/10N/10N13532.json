@@ -1,6 +1,6 @@
 {
   "facility_code": "10N13532",
-  "institution": "COLLEGE OF STATEN ISLAND/CUNY PUBLIC SAFETY DEPARTMENT",
+  "institution": "College Of Staten Island/Cuny Public Safety Department",
   "city": "Staten Island",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10314",
+  "email": false
 }

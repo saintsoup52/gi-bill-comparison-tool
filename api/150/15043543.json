@@ -1,6 +1,6 @@
 {
   "facility_code": "15043543",
-  "institution": "HUNTSVILLE MEM HOSPITAL JOE G DAVIS SCH OF VOC NURSING",
+  "institution": "Huntsville Mem Hospital Joe G Davis Sch Of Voc Nursing",
   "city": "Huntsville",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77340",
+  "email": false
 }

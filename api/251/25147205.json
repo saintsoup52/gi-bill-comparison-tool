@@ -1,6 +1,6 @@
 {
   "facility_code": "25147205",
-  "institution": "CAREER COLLEGE CONSULTANTS",
+  "institution": "Career College Consultants",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 451006,
-  "grad_rate": 70.8,
-  "grad_rate_rank": 1140,
-  "default_rate": 46.1,
+  "grad_rate": 71.1,
+  "grad_rate_rank": 1123,
+  "default_rate": 25.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90041",
+  "email": false
 }

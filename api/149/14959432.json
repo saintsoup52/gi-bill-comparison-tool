@@ -1,6 +1,6 @@
 {
   "facility_code": "14959432",
-  "institution": "KINGSBOROUGH COMMUNITY COLLEGE",
+  "institution": "Kingsborough Community College",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 292,
   "cross": 190619,
-  "grad_rate": 21.9,
-  "grad_rate_rank": 800,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 4922,
-  "avg_stu_loan_debt_rank": 260,
-  "indicator_group": 2
+  "grad_rate": 21.8,
+  "grad_rate_rank": 885,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 5020,
+  "avg_stu_loan_debt_rank": 170,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "11235",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "46000846",
-  "institution": "AMERICAN SOCIETY OF TRANSPORTATION & LOGISTICS",
+  "institution": "American Society Of Transportation & Logistics",
   "city": "Warrenton",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20188",
+  "email": true
 }

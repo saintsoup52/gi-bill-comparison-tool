@@ -1,6 +1,6 @@
 {
   "facility_code": "24010031",
-  "institution": "ITT TECHNICAL INSTITUTE",
+  "institution": "Itt Technical Institute",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 156,
   "cross": 369084,
-  "grad_rate": 28.1,
-  "grad_rate_rank": 596,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 37.2,
+  "grad_rate_rank": 460,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "87109",
+  "email": true
 }

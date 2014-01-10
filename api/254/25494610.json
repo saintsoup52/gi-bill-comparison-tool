@@ -1,6 +1,6 @@
 {
   "facility_code": "25494610",
-  "institution": "EMPIRE BEAUTY SCHOOL - WEST PALM BEACH",
+  "institution": "Empire Beauty School - West Palm Beach",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 459055,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 11667,
-  "avg_stu_loan_debt_rank": 2278,
-  "indicator_group": 5
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33409",
+  "email": true
 }

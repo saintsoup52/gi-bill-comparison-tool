@@ -1,6 +1,6 @@
 {
   "facility_code": "25098343",
-  "institution": "HANDS ON THERAPEUTIC MASS SCH",
+  "institution": "Hands On Therapeutic Mass Sch",
   "city": "Wichita Falls",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76302",
+  "email": false
 }

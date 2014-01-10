@@ -1,6 +1,6 @@
 {
   "facility_code": "10B07123",
-  "institution": "HENNEPIN CTY SHERIFFS OFF EMPLOYEE DEVELOPMENT UNIT",
+  "institution": "Hennepin Cty Sheriffs Off Employee Development Unit",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55415",
+  "email": false
 }

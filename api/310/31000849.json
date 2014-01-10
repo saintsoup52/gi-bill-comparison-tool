@@ -1,6 +1,6 @@
 {
   "facility_code": "31000849",
-  "institution": "MOUNT MARY UNIVERSITY",
+  "institution": "Mount Mary University",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 239390,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 1013,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 21821,
-  "avg_stu_loan_debt_rank": 1621,
-  "indicator_group": 1
+  "grad_rate": 35.1,
+  "grad_rate_rank": 1386,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 21250,
+  "avg_stu_loan_debt_rank": 1338,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53222",
+  "email": true
 }

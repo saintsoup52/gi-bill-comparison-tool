@@ -1,6 +1,6 @@
 {
   "facility_code": "31001719",
-  "institution": "SAINT JOSEPH'S COLLEGE PROFESSIONAL AND GRADUATE OFFICE",
+  "institution": "Saint Joseph'S College Professional And Graduate Office",
   "city": "Standish",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 125,
   "cross": 161518,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 726,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 20150,
-  "avg_stu_loan_debt_rank": 1449,
-  "indicator_group": 1
+  "grad_rate": 51.4,
+  "grad_rate_rank": 850,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4084",
+  "email": true
 }

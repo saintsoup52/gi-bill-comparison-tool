@@ -1,6 +1,6 @@
 {
   "facility_code": "14995432",
-  "institution": "NASSAU COMMUNITY COLLEGE",
+  "institution": "Nassau Community College",
   "city": "Garden City",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 422,
   "cross": 193478,
-  "grad_rate": 14.4,
-  "grad_rate_rank": 1049,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 18.4,
+  "grad_rate_rank": 988,
+  "default_rate": 16.5,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "11530",
+  "email": true
 }

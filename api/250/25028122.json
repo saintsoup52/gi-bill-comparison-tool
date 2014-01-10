@@ -1,6 +1,6 @@
 {
   "facility_code": "25028122",
-  "institution": "NEW HORIZONS CLC TROY",
+  "institution": "New Horizons Clc Troy",
   "city": "Troy",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48083",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25029404",
-  "institution": "FULL COUNSEL SCHOOL OF MINISTRY",
+  "institution": "Full Counsel School Of Ministry",
   "city": "No Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72215",
+  "email": "No (SCO)"
 }

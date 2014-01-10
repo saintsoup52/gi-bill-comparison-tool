@@ -1,6 +1,6 @@
 {
   "facility_code": "14997443",
-  "institution": "RANGER COLLEGE",
+  "institution": "Ranger College",
   "city": "Ranger",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 227687,
-  "grad_rate": 21.9,
-  "grad_rate_rank": 416,
-  "default_rate": 32.4,
-  "avg_stu_loan_debt": 5064,
-  "avg_stu_loan_debt_rank": 178,
-  "indicator_group": 3
+  "grad_rate": 21.4,
+  "grad_rate_rank": 631,
+  "default_rate": 24.3,
+  "avg_stu_loan_debt": 4486,
+  "avg_stu_loan_debt_rank": 63,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "76470",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10663625",
-  "institution": "375TH CHEMICAL CO. - 89TH RSC",
+  "institution": "375th Chemical Co. - 89th Rsc",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63120",
+  "email": false
 }

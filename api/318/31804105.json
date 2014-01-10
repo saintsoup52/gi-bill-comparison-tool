@@ -1,6 +1,6 @@
 {
   "facility_code": "31804105",
-  "institution": "COLUMBIA COLLEGE (SAN DIEGO)",
+  "institution": "Columbia College (San Diego)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 177065,
-  "grad_rate": 38.9,
-  "grad_rate_rank": 1266,
+  "grad_rate": 41.8,
+  "grad_rate_rank": 1180,
   "default_rate": 11.6,
-  "avg_stu_loan_debt": 14250,
-  "avg_stu_loan_debt_rank": 655,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92140",
+  "email": false
 }

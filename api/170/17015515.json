@@ -1,6 +1,6 @@
 {
   "facility_code": "17015515",
-  "institution": "EAST BUCHANAN COMMUNITY SCHOOLS",
+  "institution": "East Buchanan Community Schools",
   "city": "Winthrop",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50682",
+  "email": false
 }

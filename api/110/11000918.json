@@ -1,6 +1,6 @@
 {
   "facility_code": "11000918",
-  "institution": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
+  "institution": "University Of Louisiana At Lafayette",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 535,
   "cross": 160658,
-  "grad_rate": 41.4,
-  "grad_rate_rank": 1183,
-  "default_rate": 12.3,
-  "avg_stu_loan_debt": 12166,
-  "avg_stu_loan_debt_rank": 470,
-  "indicator_group": 1
+  "grad_rate": 43.9,
+  "grad_rate_rank": 1101,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70504",
+  "email": true
 }

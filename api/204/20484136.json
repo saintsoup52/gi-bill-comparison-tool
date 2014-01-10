@@ -1,6 +1,6 @@
 {
   "facility_code": "20484136",
-  "institution": "SIMPLEX GRINNELL - TULSA",
+  "institution": "Simplex Grinnell - Tulsa",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74131",
+  "email": false
 }

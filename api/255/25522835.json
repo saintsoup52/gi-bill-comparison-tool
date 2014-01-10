@@ -1,6 +1,6 @@
 {
   "facility_code": "25522835",
-  "institution": "PARAMOUNT BEAUTY ACADEMY",
+  "institution": "Paramount Beauty Academy",
   "city": "Portsmouth",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 204963,
-  "grad_rate": 57.9,
-  "grad_rate_rank": 1670,
-  "default_rate": 2.4,
-  "avg_stu_loan_debt": 11582,
-  "avg_stu_loan_debt_rank": 2271,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 1738,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45662",
+  "email": true
 }

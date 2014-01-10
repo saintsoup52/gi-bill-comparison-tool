@@ -1,6 +1,6 @@
 {
   "facility_code": "20B50035",
-  "institution": "SANTEE SECURITY INC (31)",
+  "institution": "Santee Security Inc (31)",
   "city": "Willoughby",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44094",
+  "email": "No (SCO)"
 }

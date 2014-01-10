@@ -1,6 +1,6 @@
 {
   "facility_code": "31022718",
-  "institution": "OUR LADY OF HOLY CROSS COLLEGE",
+  "institution": "Our Lady Of Holy Cross College",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 38,
   "cross": 160065,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 24.1,
+  "grad_rate_rank": 1656,
   "default_rate": 5.8,
-  "avg_stu_loan_debt": 17603,
-  "avg_stu_loan_debt_rank": 1040,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70131",
+  "email": true
 }

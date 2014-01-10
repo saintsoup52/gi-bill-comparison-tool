@@ -1,18 +1,21 @@
 {
   "facility_code": "25027763",
-  "institution": "**CH 31 ONLY** ROGIE'S SCHOOL OF BEAUTY CULTURE",
+  "institution": "**Ch 31 Only** Rogie'S School Of Beauty Culture",
   "city": "Santurce",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": null,
   "cross": 243416,
-  "grad_rate": 80.7,
-  "grad_rate_rank": 619,
+  "grad_rate": 89.9,
+  "grad_rate_rank": 279,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 1156,
-  "avg_stu_loan_debt_rank": 512,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "912",
+  "email": "No (SCO)"
 }

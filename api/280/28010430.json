@@ -1,6 +1,6 @@
 {
   "facility_code": "28010430",
-  "institution": "P B COSMETOLOGY EDUCATION CENTRE",
+  "institution": "P B Cosmetology Education Centre",
   "city": "Gloucester City",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 185970,
-  "grad_rate": 73.7,
-  "grad_rate_rank": 988,
-  "default_rate": 12.4,
-  "avg_stu_loan_debt": 7505,
-  "avg_stu_loan_debt_rank": 1241,
-  "indicator_group": 5
+  "grad_rate": 73.6,
+  "grad_rate_rank": 1004,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8030",
+  "email": true
 }

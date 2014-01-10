@@ -1,6 +1,6 @@
 {
   "facility_code": "11925105",
-  "institution": "CALIFORNIA POLYTECHNIC STATE UNIVERSITY",
+  "institution": "California Polytechnic State University",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 198,
   "cross": 110422,
-  "grad_rate": 74.6,
-  "grad_rate_rank": 233,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 20397,
-  "avg_stu_loan_debt_rank": 1469,
-  "indicator_group": 1
+  "grad_rate": 72.2,
+  "grad_rate_rank": 281,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93407",
+  "email": false
 }

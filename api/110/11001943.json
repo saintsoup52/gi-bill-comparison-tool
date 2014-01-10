@@ -1,6 +1,6 @@
 {
   "facility_code": "11001943",
-  "institution": "TEXAS A & M INTERNATIONAL UNIVERSITY",
+  "institution": "Texas A & M International University",
   "city": "Laredo",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 116,
   "cross": 226152,
-  "grad_rate": 41.9,
-  "grad_rate_rank": 1158,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 10084,
-  "avg_stu_loan_debt_rank": 258,
-  "indicator_group": 1
+  "grad_rate": 39.0,
+  "grad_rate_rank": 1285,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78041",
+  "email": true
 }

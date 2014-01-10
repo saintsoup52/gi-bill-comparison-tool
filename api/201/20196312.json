@@ -1,6 +1,6 @@
 {
   "facility_code": "20196312",
-  "institution": "A-1 HEATING & AIR CONDITIONING INC.",
+  "institution": "A-1 Heating & Air Conditioning Inc.",
   "city": "Meridian",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83642",
+  "email": true
 }

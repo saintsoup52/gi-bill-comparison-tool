@@ -1,6 +1,6 @@
 {
   "facility_code": "24000227",
-  "institution": "THE CREATIVE CENTER",
+  "institution": "The Creative Center",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 430485,
-  "grad_rate": 89.7,
-  "grad_rate_rank": 15,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 52035,
-  "avg_stu_loan_debt_rank": 1464,
-  "indicator_group": 2
+  "grad_rate": 77.4,
+  "grad_rate_rank": 57,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 56142,
+  "avg_stu_loan_debt_rank": 1409,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "68144",
+  "email": false
 }

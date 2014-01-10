@@ -1,6 +1,6 @@
 {
   "facility_code": "28305438",
-  "institution": "PENNSYLVANIA INSTITUTE OF TAXIDERMY",
+  "institution": "Pennsylvania Institute Of Taxidermy",
   "city": "Ebensburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 215026,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 26.3,
+  "grad_rate": 36.4,
+  "grad_rate_rank": 2146,
+  "default_rate": 14.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15931",
+  "email": false
 }

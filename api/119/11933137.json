@@ -1,6 +1,6 @@
 {
   "facility_code": "11933137",
-  "institution": "OREGON INSTITUTE OF TECHNOLOGY",
+  "institution": "Oregon Institute Of Technology",
   "city": "Klamath Falls",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 249,
   "cross": 209506,
-  "grad_rate": 41.5,
-  "grad_rate_rank": 1179,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 16267,
-  "avg_stu_loan_debt_rank": 871,
-  "indicator_group": 1
+  "grad_rate": 47.8,
+  "grad_rate_rank": 975,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 18423,
+  "avg_stu_loan_debt_rank": 961,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97601",
+  "email": true
 }

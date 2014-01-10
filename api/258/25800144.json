@@ -1,6 +1,6 @@
 {
   "facility_code": "25800144",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY - LAYTON",
+  "institution": "Marinello Schools Of Beauty - Layton",
   "city": "Layton",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 380410,
-  "grad_rate": 93.9,
-  "grad_rate_rank": 163,
+  "grad_rate": null,
+  "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84041",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25814203",
-  "institution": "ARIZONA ACADEMY OF BEAUTY-EAST",
+  "institution": "Arizona Academy Of Beauty-East",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 103954,
-  "grad_rate": 54.7,
-  "grad_rate_rank": 1788,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 5900,
-  "avg_stu_loan_debt_rank": 946,
-  "indicator_group": 5
+  "grad_rate": 62.1,
+  "grad_rate_rank": 1548,
+  "default_rate": 21.2,
+  "avg_stu_loan_debt": 5266,
+  "avg_stu_loan_debt_rank": 281,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85712",
+  "email": false
 }

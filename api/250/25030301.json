@@ -1,6 +1,6 @@
 {
   "facility_code": "25030301",
-  "institution": "FORTIS COLLEGE - FOLEY",
+  "institution": "Fortis College - Foley",
   "city": "Foley",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 436641,
-  "grad_rate": 72.1,
-  "grad_rate_rank": 1075,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 5398,
-  "avg_stu_loan_debt_rank": 832,
-  "indicator_group": 5
+  "grad_rate": 65.3,
+  "grad_rate_rank": 1416,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 7830,
+  "avg_stu_loan_debt_rank": 786,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "36535",
+  "email": true
 }

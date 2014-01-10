@@ -1,6 +1,6 @@
 {
   "facility_code": "11916137",
-  "institution": "OREGON STATE UNIVERSITY",
+  "institution": "Oregon State University",
   "city": "Corvallis",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 919,
   "cross": 209542,
-  "grad_rate": 61.0,
-  "grad_rate_rank": 534,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 19166,
-  "avg_stu_loan_debt_rank": 1274,
-  "indicator_group": 1
+  "grad_rate": 60.9,
+  "grad_rate_rank": 541,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 19242,
+  "avg_stu_loan_debt_rank": 1101,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97331",
+  "email": true
 }

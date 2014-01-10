@@ -1,6 +1,6 @@
 {
   "facility_code": "11008433",
-  "institution": "TROY UNIVERSITY - FAYETTEVILLE/FT BRAGG",
+  "institution": "Troy University - Fayetteville/Ft Bragg",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 102368,
-  "grad_rate": 34.7,
-  "grad_rate_rank": 1371,
-  "default_rate": 15.1,
-  "avg_stu_loan_debt": 15968,
-  "avg_stu_loan_debt_rank": 836,
-  "indicator_group": 1
+  "grad_rate": 34.8,
+  "grad_rate_rank": 1395,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 16726,
+  "avg_stu_loan_debt_rank": 773,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28303",
+  "email": true
 }

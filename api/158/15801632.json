@@ -1,6 +1,6 @@
 {
   "facility_code": "15801632",
-  "institution": "BOCES EASTERN SUFFOLK",
+  "institution": "Boces Eastern Suffolk",
   "city": "Patchogue",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 418065,
-  "grad_rate": 79.8,
-  "grad_rate_rank": 676,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 6525,
-  "avg_stu_loan_debt_rank": 1077,
-  "indicator_group": 5
+  "grad_rate": 66.0,
+  "grad_rate_rank": 1382,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 9307,
+  "avg_stu_loan_debt_rank": 1037,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11772",
+  "email": true
 }

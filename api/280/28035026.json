@@ -1,6 +1,6 @@
 {
   "facility_code": "28035026",
-  "institution": "MODERN BEAUTY SCHOOL",
+  "institution": "Modern Beauty School",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 180391,
-  "grad_rate": 67.6,
-  "grad_rate_rank": 1265,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 11500,
-  "avg_stu_loan_debt_rank": 2264,
-  "indicator_group": 5
+  "grad_rate": 78.3,
+  "grad_rate_rank": 741,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "59806",
+  "email": false
 }

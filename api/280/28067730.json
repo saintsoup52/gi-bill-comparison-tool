@@ -1,6 +1,6 @@
 {
   "facility_code": "28067730",
-  "institution": "STAR CAREER ACADEMY - BRICK TOWNSHIP",
+  "institution": "Star Career Academy - Brick Township",
   "city": "Brick",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 367398,
-  "grad_rate": 68.2,
-  "grad_rate_rank": 1245,
-  "default_rate": 30.6,
+  "grad_rate": 76.6,
+  "grad_rate_rank": 836,
+  "default_rate": 33.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8723",
+  "email": true
 }

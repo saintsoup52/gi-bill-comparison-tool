@@ -1,6 +1,6 @@
 {
   "facility_code": "20648025",
-  "institution": "BATES ELECTRIC COMPANY",
+  "institution": "Bates Electric Company",
   "city": "Arnold",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63010",
+  "email": false
 }

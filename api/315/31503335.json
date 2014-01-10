@@ -1,6 +1,6 @@
 {
   "facility_code": "31503335",
-  "institution": "PONTIFICAL COLLEGE JOSEPHINUM",
+  "institution": "Pontifical College Josephinum",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 205027,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
+  "grad_rate": 35.7,
+  "grad_rate_rank": 1374,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 18292,
-  "avg_stu_loan_debt_rank": 1121,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 14503,
+  "avg_stu_loan_debt_rank": 497,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43235",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24851646",
-  "institution": "EVEREST COLLEGE-CHESAPEAKE",
+  "institution": "Everest College-Chesapeake",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 259,
   "cross": 438647,
-  "grad_rate": 64.2,
-  "grad_rate_rank": 106,
-  "default_rate": 33.1,
+  "grad_rate": 66.1,
+  "grad_rate_rank": 225,
+  "default_rate": 16.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23320",
+  "email": true
 }

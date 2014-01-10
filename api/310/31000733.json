@@ -1,6 +1,6 @@
 {
   "facility_code": "31000733",
-  "institution": "GREENSBORO COLLEGE",
+  "institution": "Greensboro College",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 198598,
-  "grad_rate": 39.6,
-  "grad_rate_rank": 1247,
-  "default_rate": 14.5,
-  "avg_stu_loan_debt": 17540,
-  "avg_stu_loan_debt_rank": 1035,
-  "indicator_group": 1
+  "grad_rate": 34.6,
+  "grad_rate_rank": 1402,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 18747,
+  "avg_stu_loan_debt_rank": 1006,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27401",
+  "email": true
 }

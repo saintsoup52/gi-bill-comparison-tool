@@ -1,6 +1,6 @@
 {
   "facility_code": "25014042",
-  "institution": "GENESIS CAREER COLLEGE OF LEBANON",
+  "institution": "Genesis Career College Of Lebanon",
   "city": "Lebanon",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 382780,
-  "grad_rate": 60.2,
-  "grad_rate_rank": 1582,
-  "default_rate": 6.5,
-  "avg_stu_loan_debt": 9076,
-  "avg_stu_loan_debt_rank": 1586,
-  "indicator_group": 5
+  "grad_rate": 56.6,
+  "grad_rate_rank": 1746,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 5889,
+  "avg_stu_loan_debt_rank": 402,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37087",
+  "email": true
 }

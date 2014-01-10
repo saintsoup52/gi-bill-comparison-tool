@@ -1,6 +1,6 @@
 {
   "facility_code": "25010846",
-  "institution": "GCA TECHNOLOGY SOLUTIONS - CH 31",
+  "institution": "Gca Technology Solutions - Ch 31",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23666",
+  "email": false
 }

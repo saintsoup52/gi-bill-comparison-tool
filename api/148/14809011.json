@@ -1,6 +1,6 @@
 {
   "facility_code": "14809011",
-  "institution": "GEORGIA PERIMETER COLLEGE",
+  "institution": "Georgia Perimeter College",
   "city": "Clarkston",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 998,
   "cross": 244437,
-  "grad_rate": 7.7,
-  "grad_rate_rank": 1255,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 6563,
-  "avg_stu_loan_debt_rank": 507,
-  "indicator_group": 2
+  "grad_rate": 8.3,
+  "grad_rate_rank": 1333,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 6525,
+  "avg_stu_loan_debt_rank": 403,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "30021",
+  "email": true
 }

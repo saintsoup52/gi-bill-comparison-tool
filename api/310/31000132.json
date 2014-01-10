@@ -1,6 +1,6 @@
 {
   "facility_code": "31000132",
-  "institution": "CENTRAL YESHIVA TOMCHEI TMIMIM LUBAVITZ",
+  "institution": "Central Yeshiva Tomchei Tmimim Lubavitz",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 189857,
-  "grad_rate": 25.3,
-  "grad_rate_rank": 1585,
+  "grad_rate": 17.2,
+  "grad_rate_rank": 1743,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11230",
+  "email": true
 }

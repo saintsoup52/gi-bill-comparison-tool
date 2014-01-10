@@ -1,6 +1,6 @@
 {
   "facility_code": "18305938",
-  "institution": "STEEL CENTER AREA VOCATIONAL-TECNICAL SCHOOL",
+  "institution": "Steel Center Area Vocational-Tecnical School",
   "city": "Jefferson Hills",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15025",
+  "email": false
 }

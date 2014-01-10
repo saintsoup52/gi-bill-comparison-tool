@@ -1,6 +1,6 @@
 {
   "facility_code": "25008542",
-  "institution": "ARNOLD'S BEAUTY SCHOOL",
+  "institution": "Arnold'S Beauty School",
   "city": "Milan",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 219587,
-  "grad_rate": 62.3,
-  "grad_rate_rank": 1506,
-  "default_rate": 39.2,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 1574,
-  "indicator_group": 5
+  "grad_rate": 78.8,
+  "grad_rate_rank": 712,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 631,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38358",
+  "email": false
 }

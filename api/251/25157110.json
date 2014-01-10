@@ -1,6 +1,6 @@
 {
   "facility_code": "25157110",
-  "institution": "ACADEMY OF CAREER TRAINING",
+  "institution": "Academy Of Career Training",
   "city": "Kissimmee",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 451097,
-  "grad_rate": 80.7,
-  "grad_rate_rank": 619,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 3340,
-  "avg_stu_loan_debt_rank": 577,
-  "indicator_group": 5
+  "grad_rate": 80.3,
+  "grad_rate_rank": 626,
+  "default_rate": 30.7,
+  "avg_stu_loan_debt": 3284,
+  "avg_stu_loan_debt_rank": 66,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "34741",
+  "email": true
 }

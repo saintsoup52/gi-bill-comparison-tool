@@ -1,6 +1,6 @@
 {
   "facility_code": "13000115",
-  "institution": "UNIVERSITY OF NORTHERN IOWA",
+  "institution": "University Of Northern Iowa",
   "city": "Cedar Falls",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 330,
   "cross": 154095,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 385,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "grad_rate": 66.3,
+  "grad_rate_rank": 400,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 20446,
+  "avg_stu_loan_debt_rank": 1241,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "50614",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14918433",
-  "institution": "WILSON TECHNICAL COMMUNITY COLLEGE",
+  "institution": "Wilson Technical Community College",
   "city": "Wilson",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 76,
   "cross": 199953,
-  "grad_rate": 25.6,
-  "grad_rate_rank": 668,
+  "grad_rate": 28.2,
+  "grad_rate_rank": 685,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 2200,
-  "avg_stu_loan_debt_rank": 107,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "27893",
+  "email": true
 }

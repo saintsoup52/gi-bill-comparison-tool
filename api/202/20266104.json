@@ -1,6 +1,6 @@
 {
   "facility_code": "20266104",
-  "institution": "ROLLER-BALLARD FUNERAL HOME(CH 31 ONLY)",
+  "institution": "Roller-Ballard Funeral Home(Ch 31 Only)",
   "city": "Benton",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72018",
+  "email": "No (SCO)"
 }

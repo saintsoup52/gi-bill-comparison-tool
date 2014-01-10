@@ -1,6 +1,6 @@
 {
   "facility_code": "31916138",
-  "institution": "ELIZABETHTOWN COLLEGE",
+  "institution": "Elizabethtown College",
   "city": "Elizabethtown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 43,
   "cross": 212197,
-  "grad_rate": 79.0,
-  "grad_rate_rank": 170,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 22477,
-  "avg_stu_loan_debt_rank": 1705,
-  "indicator_group": 1
+  "grad_rate": 74.1,
+  "grad_rate_rank": 247,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17022",
+  "email": true
 }

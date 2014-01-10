@@ -1,6 +1,6 @@
 {
   "facility_code": "15567925",
-  "institution": "CAPE GIRARDEAU CAREER & TECHNOLOGY CENTER",
+  "institution": "Cape Girardeau Career & Technology Center",
   "city": "Cape Girardeau",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 176798,
-  "grad_rate": 75.5,
-  "grad_rate_rank": 890,
-  "default_rate": 10.9,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 1136,
-  "indicator_group": 5
+  "grad_rate": 93.4,
+  "grad_rate_rank": 181,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 8625,
+  "avg_stu_loan_debt_rank": 926,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63703",
+  "email": true
 }

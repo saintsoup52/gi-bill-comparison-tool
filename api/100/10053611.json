@@ -1,6 +1,6 @@
 {
   "facility_code": "10053611",
-  "institution": "LIBERTY COUNTY S.T.A.R. PROGRAM INC",
+  "institution": "Liberty County S.T.A.R. Program Inc",
   "city": "Hinesville",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31313",
+  "email": false
 }

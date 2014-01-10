@@ -1,6 +1,6 @@
 {
   "facility_code": "25010803",
-  "institution": "AMERICAN INSTITUTE OF TRUCKING",
+  "institution": "American Institute Of Trucking",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 36,
   "cross": 103811,
-  "grad_rate": 64.5,
-  "grad_rate_rank": 1414,
-  "default_rate": 24.4,
-  "avg_stu_loan_debt": 4893,
-  "avg_stu_loan_debt_rank": 783,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 5430,
+  "avg_stu_loan_debt_rank": 302,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85043",
+  "email": false
 }

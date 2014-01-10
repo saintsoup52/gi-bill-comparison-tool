@@ -1,6 +1,6 @@
 {
   "facility_code": "10B70922",
-  "institution": "DEFENSE LOGISTICS AGENCY",
+  "institution": "Defense Logistics Agency",
   "city": "Battle Creek",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49017",
+  "email": "No (SCO)"
 }

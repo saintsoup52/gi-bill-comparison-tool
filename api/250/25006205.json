@@ -1,6 +1,6 @@
 {
   "facility_code": "25006205",
-  "institution": "INSTITUTE OF NETWORK TECHNOLOGY",
+  "institution": "Institute Of Network Technology",
   "city": "Signal Hill",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90755",
+  "email": false
 }

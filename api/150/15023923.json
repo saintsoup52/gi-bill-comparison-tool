@@ -1,6 +1,6 @@
 {
   "facility_code": "15023923",
-  "institution": "IRONDALE HIGH SCHOOL",
+  "institution": "Irondale High School",
   "city": "New Brighton",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55112",
+  "email": false
 }

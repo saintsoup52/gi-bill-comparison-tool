@@ -1,6 +1,6 @@
 {
   "facility_code": "11802140",
-  "institution": "CLEMSON UNIVERSITY",
+  "institution": "Clemson University",
   "city": "Clemson",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 498,
   "cross": 217882,
-  "grad_rate": 80.4,
-  "grad_rate_rank": 148,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 21260,
-  "avg_stu_loan_debt_rank": 1570,
-  "indicator_group": 1
+  "grad_rate": 81.6,
+  "grad_rate_rank": 135,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 21706,
+  "avg_stu_loan_debt_rank": 1398,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29634",
+  "email": false
 }

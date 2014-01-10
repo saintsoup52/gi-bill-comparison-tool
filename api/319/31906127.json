@@ -1,6 +1,6 @@
 {
   "facility_code": "31906127",
-  "institution": "NEBRASKA WESLEYAN UNIVERSITY",
+  "institution": "Nebraska Wesleyan University",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 181446,
-  "grad_rate": 63.5,
-  "grad_rate_rank": 462,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 20242,
-  "avg_stu_loan_debt_rank": 1456,
-  "indicator_group": 1
+  "grad_rate": 65.4,
+  "grad_rate_rank": 421,
+  "default_rate": 4.7,
+  "avg_stu_loan_debt": 22820,
+  "avg_stu_loan_debt_rank": 1500,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68504",
+  "email": false
 }

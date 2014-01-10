@@ -1,6 +1,6 @@
 {
   "facility_code": "25483610",
-  "institution": "THE SALON PROFESSIONAL ACADEMY - GAINESVILLE",
+  "institution": "The Salon Professional Academy - Gainesville",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 457439,
-  "grad_rate": 91.7,
-  "grad_rate_rank": 210,
-  "default_rate": null,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 2407,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1837,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32607",
+  "email": true
 }

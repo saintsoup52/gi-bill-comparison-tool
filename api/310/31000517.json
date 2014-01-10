@@ -1,6 +1,6 @@
 {
   "facility_code": "31000517",
-  "institution": "KENTUCKY WESLEYAN COLLEGE",
+  "institution": "Kentucky Wesleyan College",
   "city": "Owensboro",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 157076,
-  "grad_rate": 44.5,
-  "grad_rate_rank": 1077,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "grad_rate": 36.2,
+  "grad_rate_rank": 1362,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "42301",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15587125",
-  "institution": "BOONSLICK TECHNICAL EDUCATION CENTER",
+  "institution": "Boonslick Technical Education Center",
   "city": "Boonville",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 176734,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
+  "grad_rate": 78.9,
+  "grad_rate_rank": 705,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65233",
+  "email": false
 }

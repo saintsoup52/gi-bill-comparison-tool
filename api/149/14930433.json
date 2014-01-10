@@ -1,6 +1,6 @@
 {
   "facility_code": "14930433",
-  "institution": "MONTGOMERY COMMUNITY COLLEGE",
+  "institution": "Montgomery Community College",
   "city": "Troy",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 55,
   "cross": 199023,
-  "grad_rate": 35.4,
-  "grad_rate_rank": 289,
+  "grad_rate": 38.0,
+  "grad_rate_rank": 471,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "27371",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31011643",
-  "institution": "SOUTHWESTERN ASSEMBLIES OF GOD UNIV",
+  "institution": "Southwestern Assemblies Of God Univ",
   "city": "Waxahachie",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 90,
   "cross": 228325,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 1321,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 17499,
-  "avg_stu_loan_debt_rank": 1006,
-  "indicator_group": 1
+  "grad_rate": 37.7,
+  "grad_rate_rank": 1316,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 17750,
+  "avg_stu_loan_debt_rank": 886,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75165",
+  "email": false
 }

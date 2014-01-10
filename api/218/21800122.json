@@ -1,6 +1,6 @@
 {
   "facility_code": "21800122",
-  "institution": "UNIVERSITY OF PHOENIX METRO DETROIT CAMPUS",
+  "institution": "University Of Phoenix Metro Detroit Campus",
   "city": "Southfield",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 138,
   "cross": 421018,
-  "grad_rate": 11.4,
-  "grad_rate_rank": 1770,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 10.5,
+  "grad_rate_rank": 1824,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48076",
+  "email": true
 }

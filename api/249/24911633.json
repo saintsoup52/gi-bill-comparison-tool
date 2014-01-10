@@ -1,6 +1,6 @@
 {
   "facility_code": "24911633",
-  "institution": "MILLER-MOTTE COLLEGE @ FAYETTEVILLE",
+  "institution": "Miller-Motte College @ Fayetteville",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 197,
   "cross": 458405,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 20.2,
+  "grad_rate": 28.6,
+  "grad_rate_rank": 556,
+  "default_rate": 17.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28311",
+  "email": true
 }

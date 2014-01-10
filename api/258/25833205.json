@@ -1,6 +1,6 @@
 {
   "facility_code": "25833205",
-  "institution": "CAREER COLLEGES OF AMERICA    (CHAPTER 31 ONLY)",
+  "institution": "Career Colleges Of America    (Chapter 31 Only)",
   "city": "Southgate",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 400637,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 1028,
-  "default_rate": 19.0,
+  "grad_rate": 61.1,
+  "grad_rate_rank": 1592,
+  "default_rate": 17.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90280",
+  "email": false
 }

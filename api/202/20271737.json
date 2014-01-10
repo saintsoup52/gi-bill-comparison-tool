@@ -1,6 +1,6 @@
 {
   "facility_code": "20271737",
-  "institution": "OREGON & SW-WA ROOFERS & WATERPROOFERS JATC",
+  "institution": "Oregon & Sw-Wa Roofers & Waterproofers Jatc",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97202",
+  "email": false
 }

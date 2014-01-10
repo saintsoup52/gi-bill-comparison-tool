@@ -1,6 +1,6 @@
 {
   "facility_code": "10016133",
-  "institution": "NCDOC - MORRISON CORRECTIONAL INSTITUTION",
+  "institution": "Ncdoc - Morrison Correctional Institution",
   "city": "Hoffman",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28347",
+  "email": true
 }

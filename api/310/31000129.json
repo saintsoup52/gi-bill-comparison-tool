@@ -1,6 +1,6 @@
 {
   "facility_code": "31000129",
-  "institution": "DARTMOUTH COLLEGE",
+  "institution": "Dartmouth College",
   "city": "Hanover",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 49,
   "cross": 182670,
-  "grad_rate": 95.0,
-  "grad_rate_rank": 23,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 13974,
-  "avg_stu_loan_debt_rank": 626,
-  "indicator_group": 1
+  "grad_rate": 95.8,
+  "grad_rate_rank": 14,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3755",
+  "email": true
 }

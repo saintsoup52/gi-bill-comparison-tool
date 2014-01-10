@@ -1,6 +1,6 @@
 {
   "facility_code": "11802506",
-  "institution": "UNIVERSITY OF COLORADO - DENVER",
+  "institution": "University Of Colorado - Denver",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 800,
   "cross": 126562,
-  "grad_rate": 40.3,
-  "grad_rate_rank": 1218,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 44.9,
+  "grad_rate_rank": 1069,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 17414,
+  "avg_stu_loan_debt_rank": 836,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80217",
+  "email": true
 }

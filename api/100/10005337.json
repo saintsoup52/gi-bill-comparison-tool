@@ -1,6 +1,6 @@
 {
   "facility_code": "10005337",
-  "institution": "CENTRAL POINT POLICE DEPARTMENT",
+  "institution": "Central Point Police Department",
   "city": "Central Point",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97502",
+  "email": true
 }

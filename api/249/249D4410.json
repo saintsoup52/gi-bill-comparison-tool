@@ -1,6 +1,6 @@
 {
   "facility_code": "249D4410",
-  "institution": "ALLIED HEALTH INSTITUTE",
+  "institution": "Allied Health Institute",
   "city": "North Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 454883,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 7497,
-  "avg_stu_loan_debt_rank": 308,
-  "indicator_group": 3
+  "grad_rate": 70.8,
+  "grad_rate_rank": 165,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 6334,
+  "avg_stu_loan_debt_rank": 160,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33317",
+  "email": true
 }

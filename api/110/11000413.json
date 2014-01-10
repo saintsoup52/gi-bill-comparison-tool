@@ -1,6 +1,6 @@
 {
   "facility_code": "11000413",
-  "institution": "ILLINOIS STATE UNIVERSITY",
+  "institution": "Illinois State University",
   "city": "Normal",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 515,
   "cross": 145813,
-  "grad_rate": 71.0,
-  "grad_rate_rank": 288,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 71.2,
+  "grad_rate_rank": 299,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61790",
+  "email": true
 }

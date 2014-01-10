@@ -1,6 +1,6 @@
 {
   "facility_code": "25125343",
-  "institution": "MAI TRIX BEAUTY COLLEGE",
+  "institution": "Mai Trix Beauty College",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 448202,
-  "grad_rate": 44.4,
-  "grad_rate_rank": 2019,
-  "default_rate": null,
-  "avg_stu_loan_debt": 3478,
-  "avg_stu_loan_debt_rank": 590,
-  "indicator_group": 5
+  "grad_rate": 39.3,
+  "grad_rate_rank": 2115,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 2459,
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77040",
+  "email": false
 }

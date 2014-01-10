@@ -1,6 +1,6 @@
 {
   "facility_code": "25158205",
-  "institution": "MILAN INSTITUTE (CLOVIS)",
+  "institution": "Milan Institute (Clovis)",
   "city": "Clovis",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 448895,
-  "grad_rate": 59.1,
-  "grad_rate_rank": 1620,
-  "default_rate": 32.0,
-  "avg_stu_loan_debt": 9390,
-  "avg_stu_loan_debt_rank": 1632,
-  "indicator_group": 5
+  "grad_rate": 59.3,
+  "grad_rate_rank": 1655,
+  "default_rate": 29.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93612",
+  "email": true
 }

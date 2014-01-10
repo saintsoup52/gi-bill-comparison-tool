@@ -1,6 +1,6 @@
 {
   "facility_code": "20540431",
-  "institution": "CANINE COUNTRY CLUB (CH31)",
+  "institution": "Canine Country Club (Ch31)",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87107",
+  "email": false
 }

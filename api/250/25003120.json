@@ -1,6 +1,6 @@
 {
   "facility_code": "25003120",
-  "institution": "L'ACADEMIE DE CUISINE",
+  "institution": "L'Academie De Cuisine",
   "city": "Gaithersburg",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 162982,
-  "grad_rate": 36.4,
-  "grad_rate_rank": 2098,
-  "default_rate": 14.0,
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 9.3,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "20877",
+  "email": true
 }

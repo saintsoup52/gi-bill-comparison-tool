@@ -1,6 +1,6 @@
 {
   "facility_code": "14915419",
-  "institution": "KENNEBEC VALLEY COMMUNITY COLLEGE",
+  "institution": "Kennebec Valley Community College",
   "city": "Fairfield",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 117,
   "cross": 161192,
-  "grad_rate": 40.4,
-  "grad_rate_rank": 320,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 33.8,
+  "grad_rate_rank": 532,
+  "default_rate": 22.3,
+  "avg_stu_loan_debt": 6732,
+  "avg_stu_loan_debt_rank": 413,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "4937",
+  "email": true
 }

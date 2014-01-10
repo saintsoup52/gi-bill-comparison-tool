@@ -1,6 +1,6 @@
 {
   "facility_code": "31903121",
-  "institution": "STONEHILL COLLEGE",
+  "institution": "Stonehill College",
   "city": "Easton",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 167996,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 137,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 80.5,
+  "grad_rate_rank": 151,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2357",
+  "email": true
 }

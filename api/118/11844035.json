@@ -1,6 +1,6 @@
 {
   "facility_code": "11844035",
-  "institution": "WRIGHT STATE UNIVERSITY",
+  "institution": "Wright State University",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 960,
   "cross": 206604,
-  "grad_rate": 40.3,
-  "grad_rate_rank": 1218,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 14702,
-  "avg_stu_loan_debt_rank": 692,
-  "indicator_group": 1
+  "grad_rate": 40.5,
+  "grad_rate_rank": 1232,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45435",
+  "email": true
 }

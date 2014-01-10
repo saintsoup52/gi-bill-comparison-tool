@@ -1,6 +1,6 @@
 {
   "facility_code": "25060713",
-  "institution": "THE COSMETOLOGY & SPA INSTITUTE",
+  "institution": "The Cosmetology & Spa Institute",
   "city": "Crystal Lake",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 144795,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 9496,
-  "avg_stu_loan_debt_rank": 1655,
-  "indicator_group": 5
+  "grad_rate": 78.6,
+  "grad_rate_rank": 720,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 8305,
+  "avg_stu_loan_debt_rank": 868,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60014",
+  "email": false
 }

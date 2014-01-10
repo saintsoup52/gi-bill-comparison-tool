@@ -1,6 +1,6 @@
 {
   "facility_code": "14924413",
-  "institution": "WAUBONSEE COMMUNITY COLLEGE",
+  "institution": "Waubonsee Community College",
   "city": "Sugar Grove",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 299,
   "cross": 149727,
-  "grad_rate": 23.5,
-  "grad_rate_rank": 399,
+  "grad_rate": 23.0,
+  "grad_rate_rank": 606,
   "default_rate": 17.8,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 146,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 5178,
+  "avg_stu_loan_debt_rank": 103,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "60554",
+  "email": true
 }

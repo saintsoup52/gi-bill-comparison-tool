@@ -1,6 +1,6 @@
 {
   "facility_code": "10008437",
-  "institution": "KLAMATH COUNTY SHERIFFS OFFICE",
+  "institution": "Klamath County Sheriffs Office",
   "city": "Klamath Falls",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97601",
+  "email": true
 }

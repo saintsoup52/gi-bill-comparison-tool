@@ -1,6 +1,6 @@
 {
   "facility_code": "25047043",
-  "institution": "OGLE SCHOOL HAIR SKIN NAILS",
+  "institution": "Ogle School Hair Skin Nails",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 227313,
-  "grad_rate": 60.1,
-  "grad_rate_rank": 1586,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 8837,
-  "avg_stu_loan_debt_rank": 1535,
-  "indicator_group": 5
+  "grad_rate": 71.9,
+  "grad_rate_rank": 1078,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 7713,
+  "avg_stu_loan_debt_rank": 762,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "76013",
+  "email": false
 }

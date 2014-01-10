@@ -1,6 +1,6 @@
 {
   "facility_code": "149A2435",
-  "institution": "NORTHWEST STATE COMMUNITY COLLEGE",
+  "institution": "Northwest State Community College",
   "city": "Archbold",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 100,
   "cross": 204440,
-  "grad_rate": 17.5,
-  "grad_rate_rank": 947,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 7731,
-  "avg_stu_loan_debt_rank": 626,
-  "indicator_group": 2
+  "grad_rate": 22.4,
+  "grad_rate_rank": 868,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 7334,
+  "avg_stu_loan_debt_rank": 485,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43502",
+  "email": false
 }

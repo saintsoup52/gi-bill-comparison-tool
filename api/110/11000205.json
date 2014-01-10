@@ -1,6 +1,6 @@
 {
   "facility_code": "11000205",
-  "institution": "SAN JOSE STATE UNIVERSITY (CHAP 31 ONLY)",
+  "institution": "San Jose State University (Chap 31 Only)",
   "city": "Salinas",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 122755,
-  "grad_rate": 46.4,
-  "grad_rate_rank": 1010,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 548,
-  "indicator_group": 1
+  "grad_rate": 46.9,
+  "grad_rate_rank": 1007,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 13750,
+  "avg_stu_loan_debt_rank": 417,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93901",
+  "email": "No (SCO)"
 }

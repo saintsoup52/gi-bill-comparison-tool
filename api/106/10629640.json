@@ -1,6 +1,6 @@
 {
   "facility_code": "10629640",
-  "institution": "TRENTON CORRECTIONAL INSTITUTION",
+  "institution": "Trenton Correctional Institution",
   "city": "Trenton",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29847",
+  "email": false
 }

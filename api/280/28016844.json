@@ -1,6 +1,6 @@
 {
   "facility_code": "28016844",
-  "institution": "SHERMAN KENDALL'S ACAD OF BEAUTY ARTS/SCIENCES (SLC)",
+  "institution": "Sherman Kendall'S Acad Of Beauty Arts/Sciences (Slc)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 230135,
-  "grad_rate": 94.6,
-  "grad_rate_rank": 147,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 4300,
-  "avg_stu_loan_debt_rank": 722,
-  "indicator_group": 5
+  "grad_rate": 95.9,
+  "grad_rate_rank": 135,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 3625,
+  "avg_stu_loan_debt_rank": 125,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84106",
+  "email": false
 }

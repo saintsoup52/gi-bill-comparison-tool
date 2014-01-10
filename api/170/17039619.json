@@ -1,6 +1,6 @@
 {
   "facility_code": "17039619",
-  "institution": "PORTLAND ADULT COMMUNITY EDUCATION",
+  "institution": "Portland Adult Community Education",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4103",
+  "email": "No (SCO)"
 }

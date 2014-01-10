@@ -1,6 +1,6 @@
 {
   "facility_code": "32802432",
-  "institution": "NEW YORK METHODIST HOSPITAL",
+  "institution": "New York Methodist Hospital",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 451413,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 15057,
-  "avg_stu_loan_debt_rank": 2477,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 10600,
+  "avg_stu_loan_debt_rank": 1572,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11229",
+  "email": true
 }

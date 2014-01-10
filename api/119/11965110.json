@@ -1,6 +1,6 @@
 {
   "facility_code": "11965110",
-  "institution": "FLORIDA GULF COAST UNIVERSITY",
+  "institution": "Florida Gulf Coast University",
   "city": "Fort Myers",
   "state": "FL",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 433660,
   "grad_rate": 45.2,
   "grad_rate_rank": 1054,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33965",
+  "email": true
 }

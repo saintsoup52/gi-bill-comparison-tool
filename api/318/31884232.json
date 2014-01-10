@@ -1,6 +1,6 @@
 {
   "facility_code": "31884232",
-  "institution": "NEW YORK INSTITUTE OF TECHNOLOGY - OLD WESTBURY",
+  "institution": "New York Institute Of Technology - Old Westbury",
   "city": "Old Westbury",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 194091,
-  "grad_rate": 47.7,
-  "grad_rate_rank": 971,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 46.3,
+  "grad_rate_rank": 1026,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11568",
+  "email": true
 }

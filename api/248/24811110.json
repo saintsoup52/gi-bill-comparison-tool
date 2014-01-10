@@ -1,6 +1,6 @@
 {
   "facility_code": "24811110",
-  "institution": "FLORIDA TECHNICAL COLLEGE - LAKELAND",
+  "institution": "Florida Technical College - Lakeland",
   "city": "Lakeland",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 134112,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 26.6,
-  "avg_stu_loan_debt": 9515,
-  "avg_stu_loan_debt_rank": 642,
-  "indicator_group": 3
+  "grad_rate": 50.1,
+  "grad_rate_rank": 395,
+  "default_rate": 16.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33813",
+  "email": true
 }

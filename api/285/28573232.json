@@ -1,6 +1,6 @@
 {
   "facility_code": "28573232",
-  "institution": "ADIRONDACK BEAUTY SCHOOL",
+  "institution": "Adirondack Beauty School",
   "city": "Glens Falls",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 419314,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 652,
-  "default_rate": 26.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 65.4,
+  "grad_rate_rank": 1414,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 8500,
+  "avg_stu_loan_debt_rank": 898,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12801",
+  "email": true
 }

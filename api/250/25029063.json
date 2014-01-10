@@ -1,18 +1,21 @@
 {
   "facility_code": "25029063",
-  "institution": "EMMA'S BEAUTY ACADEMY",
+  "institution": "Emma'S Beauty Academy",
   "city": "Juana Diaz",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": true,
   "yr": null,
   "gibill": 4,
   "cross": 404684,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 1028,
+  "grad_rate": 68.2,
+  "grad_rate_rank": 1267,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "795",
+  "email": true
 }

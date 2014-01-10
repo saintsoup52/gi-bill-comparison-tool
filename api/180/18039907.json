@@ -1,6 +1,6 @@
 {
   "facility_code": "18039907",
-  "institution": "PLATT TECHNICAL HIGH SCHOOL",
+  "institution": "Platt Technical High School",
   "city": "Milford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 417275,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 89.5,
+  "grad_rate_rank": 290,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6461",
+  "email": true
 }

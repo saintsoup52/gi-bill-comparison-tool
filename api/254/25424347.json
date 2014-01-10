@@ -1,6 +1,6 @@
 {
   "facility_code": "25424347",
-  "institution": "PARKS HEALTH CLINIC (CH 31 ONLY)",
+  "institution": "Parks Health Clinic (Ch 31 Only)",
   "city": "Federal Way",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98003",
+  "email": false
 }

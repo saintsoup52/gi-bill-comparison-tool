@@ -1,6 +1,6 @@
 {
   "facility_code": "25022803",
-  "institution": "EMPIRE BEAUTY SCHOOL- TUCSON",
+  "institution": "Empire Beauty School- Tucson",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 103741,
-  "grad_rate": 52.1,
-  "grad_rate_rank": 1864,
-  "default_rate": 14.8,
-  "avg_stu_loan_debt": 10556,
-  "avg_stu_loan_debt_rank": 2196,
-  "indicator_group": 5
+  "grad_rate": 54.6,
+  "grad_rate_rank": 1817,
+  "default_rate": 21.2,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85716",
+  "email": true
 }

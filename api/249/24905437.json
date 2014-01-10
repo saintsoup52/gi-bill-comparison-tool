@@ -1,6 +1,6 @@
 {
   "facility_code": "24905437",
-  "institution": "CARRINGTON COLLEGE - PORTLAND",
+  "institution": "Carrington College - Portland",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 32,
   "cross": 246035,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 61.5,
+  "grad_rate_rank": 278,
+  "default_rate": 16.4,
+  "avg_stu_loan_debt": 9498,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "97232",
+  "email": true
 }

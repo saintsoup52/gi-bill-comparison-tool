@@ -1,6 +1,6 @@
 {
   "facility_code": "15020223",
-  "institution": "DILWORTH-GLYNDON-FELTON HIGH SCHOOL",
+  "institution": "Dilworth-Glyndon-Felton High School",
   "city": "Glyndon",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "56547",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31805716",
-  "institution": "SOUTHWESTERN COLLEGE WICHITA",
+  "institution": "Southwestern College Wichita",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 355,
   "cross": 155900,
-  "grad_rate": 57.4,
-  "grad_rate_rank": 638,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 19300,
-  "avg_stu_loan_debt_rank": 1288,
-  "indicator_group": 1
+  "grad_rate": 51.4,
+  "grad_rate_rank": 850,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 20218,
+  "avg_stu_loan_debt_rank": 1220,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67207",
+  "email": true
 }

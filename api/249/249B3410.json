@@ -1,6 +1,6 @@
 {
   "facility_code": "249B3410",
-  "institution": "CONCORDE CAREER INSTITUTE - JACKSONVILLE",
+  "institution": "Concorde Career Institute - Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 108,
   "cross": 133845,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 25.4,
-  "avg_stu_loan_debt": 8743,
-  "avg_stu_loan_debt_rank": 388,
-  "indicator_group": 3
+  "grad_rate": 74.5,
+  "grad_rate_rank": 125,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": 9228,
+  "avg_stu_loan_debt_rank": 325,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "32256",
+  "email": true
 }

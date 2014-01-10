@@ -1,6 +1,6 @@
 {
   "facility_code": "25832838",
-  "institution": "NORTHWEST REGIONAL TECHNOLOGY INSTITUTE INC",
+  "institution": "Northwest Regional Technology Institute Inc",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 448105,
-  "grad_rate": 80.3,
-  "grad_rate_rank": 644,
-  "default_rate": 17.2,
-  "avg_stu_loan_debt": 3922,
-  "avg_stu_loan_debt_rank": 671,
-  "indicator_group": 5
+  "grad_rate": 75.6,
+  "grad_rate_rank": 884,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 5146,
+  "avg_stu_loan_debt_rank": 252,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16508",
+  "email": true
 }

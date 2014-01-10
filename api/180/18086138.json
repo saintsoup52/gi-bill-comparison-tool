@@ -1,6 +1,6 @@
 {
   "facility_code": "18086138",
-  "institution": "LENAPE TECHNICAL SCHOOL",
+  "institution": "Lenape Technical School",
   "city": "Kittanning",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 418515,
-  "grad_rate": 77.8,
-  "grad_rate_rank": 762,
-  "default_rate": 14.0,
-  "avg_stu_loan_debt": 8803,
-  "avg_stu_loan_debt_rank": 1530,
-  "indicator_group": 5
+  "grad_rate": 84.5,
+  "grad_rate_rank": 455,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 9660,
+  "avg_stu_loan_debt_rank": 1472,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16201",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "249D6438",
-  "institution": "DUBOIS BUSINESS COLLEGE-OIL CITY",
+  "institution": "Dubois Business College-Oil City",
   "city": "Oil City",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 439312,
-  "grad_rate": 42.9,
-  "grad_rate_rank": 290,
-  "default_rate": 13.6,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 1176,
-  "indicator_group": 2
+  "grad_rate": 87.5,
+  "grad_rate_rank": 15,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 14326,
+  "avg_stu_loan_debt_rank": 963,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16301",
+  "email": true
 }

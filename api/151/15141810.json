@@ -1,6 +1,6 @@
 {
   "facility_code": "15141810",
-  "institution": "TAYLOR TECHNICAL INSTITUTE",
+  "institution": "Taylor Technical Institute",
   "city": "Perry",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 137856,
-  "grad_rate": 36.8,
-  "grad_rate_rank": 2093,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 42.4,
+  "grad_rate_rank": 2067,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32348",
+  "email": true
 }

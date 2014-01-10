@@ -1,6 +1,6 @@
 {
   "facility_code": "24902130",
-  "institution": "BERKELEY COLLEGE - WOODBRIDGE",
+  "institution": "Berkeley College - Woodbridge",
   "city": "Woodbridge",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 183789,
-  "grad_rate": 38.9,
-  "grad_rate_rank": 1266,
-  "default_rate": 20.1,
-  "avg_stu_loan_debt": 14862,
-  "avg_stu_loan_debt_rank": 713,
-  "indicator_group": 1
+  "grad_rate": 31.1,
+  "grad_rate_rank": 1505,
+  "default_rate": 24.5,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7095",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35062013",
-  "institution": "LT. JOSEPH P. KENNEDY JR SCHOOL/ ST. COLETTA'S OF ILLINOIS",
+  "institution": "Lt. Joseph P. Kennedy Jr School/ St. Coletta'S Of Illinois",
   "city": "Tinley Park",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60478",
+  "email": true
 }

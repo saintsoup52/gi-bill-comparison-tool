@@ -1,6 +1,6 @@
 {
   "facility_code": "11904105",
-  "institution": "SAN FRANCISCO STATE UNIVERSITY / VETERANS SERVICES CENTER",
+  "institution": "San Francisco State University / Veterans Services Center",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 571,
   "cross": 122597,
-  "grad_rate": 46.5,
-  "grad_rate_rank": 1003,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 47.3,
+  "grad_rate_rank": 992,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 17250,
+  "avg_stu_loan_debt_rank": 823,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94132",
+  "email": false
 }

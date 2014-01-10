@@ -1,6 +1,6 @@
 {
   "facility_code": "25018342",
-  "institution": "SAE INSTITUTE OF TECHNOLOGY",
+  "institution": "Sae Institute Of Technology",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 446525,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 624,
-  "default_rate": 31.1,
+  "grad_rate": 70.5,
+  "grad_rate_rank": 1153,
+  "default_rate": 12.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37203",
+  "email": false
 }

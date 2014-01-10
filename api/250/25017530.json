@@ -1,6 +1,6 @@
 {
   "facility_code": "25017530",
-  "institution": "GENTLE HEALING SCHOOL OF MASSAGE",
+  "institution": "Gentle Healing School Of Massage",
   "city": "Cranbury",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 451361,
-  "grad_rate": 93.8,
-  "grad_rate_rank": 166,
-  "default_rate": 0.0,
+  "grad_rate": 95.5,
+  "grad_rate_rank": 140,
+  "default_rate": 11.7,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8512",
+  "email": false
 }

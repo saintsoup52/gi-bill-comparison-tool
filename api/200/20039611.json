@@ -1,6 +1,6 @@
 {
   "facility_code": "20039611",
-  "institution": "WAL-MART DC 6061",
+  "institution": "Wal-Mart Dc 6061",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30458",
+  "email": false
 }

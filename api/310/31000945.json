@@ -1,6 +1,6 @@
 {
   "facility_code": "31000945",
-  "institution": "MARLBORO COLLEGE",
+  "institution": "Marlboro College",
   "city": "Marlboro",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 230940,
-  "grad_rate": 66.2,
-  "grad_rate_rank": 407,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 19311,
-  "avg_stu_loan_debt_rank": 1289,
-  "indicator_group": 1
+  "grad_rate": 67.0,
+  "grad_rate_rank": 378,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 18847,
+  "avg_stu_loan_debt_rank": 1042,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5344",
+  "email": true
 }

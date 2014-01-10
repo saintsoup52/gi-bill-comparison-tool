@@ -1,6 +1,6 @@
 {
   "facility_code": "30033234",
-  "institution": "QUAM PETROLEUM SERVICE INC",
+  "institution": "Quam Petroleum Service Inc",
   "city": "Mandan",
   "state": "ND",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "58554",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25483510",
-  "institution": "FLORIDA MEDICAL TRAINING INSTITUTE-JACKSONVILLE",
+  "institution": "Florida Medical Training Institute-Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 136066,
-  "grad_rate": 63.4,
-  "grad_rate_rank": 110,
-  "default_rate": 32.0,
-  "avg_stu_loan_debt": 11030,
-  "avg_stu_loan_debt_rank": 676,
-  "indicator_group": 3
+  "grad_rate": 58.7,
+  "grad_rate_rank": 313,
+  "default_rate": 31.3,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 682,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "32244",
+  "email": true
 }

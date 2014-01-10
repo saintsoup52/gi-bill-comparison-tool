@@ -1,6 +1,6 @@
 {
   "facility_code": "21000749",
-  "institution": "HERZING UNIVERSITY",
+  "institution": "Herzing University",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 232,
   "cross": 240392,
-  "grad_rate": 59.0,
-  "grad_rate_rank": 144,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 11399,
-  "avg_stu_loan_debt_rank": 937,
-  "indicator_group": 2
+  "grad_rate": 36.3,
+  "grad_rate_rank": 481,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 15162,
+  "avg_stu_loan_debt_rank": 1019,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "53718",
+  "email": true
 }

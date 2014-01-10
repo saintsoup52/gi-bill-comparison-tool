@@ -1,6 +1,6 @@
 {
   "facility_code": "21400847",
-  "institution": "UNIVERSITY OF PHOENIX - WESTERN WASHINGTON CAMPUS",
+  "institution": "University Of Phoenix - Western Washington Campus",
   "city": "Tukwila",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 284,
   "cross": 432223,
-  "grad_rate": 14.5,
-  "grad_rate_rank": 1738,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 14.7,
+  "grad_rate_rank": 1781,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98188",
+  "email": true
 }

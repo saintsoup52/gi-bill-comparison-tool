@@ -1,6 +1,6 @@
 {
   "facility_code": "20W57638",
-  "institution": "EME HOMER CITY GENERATION L.P.",
+  "institution": "Eme Homer City Generation L.P.",
   "city": "Homer City",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15748",
+  "email": true
 }

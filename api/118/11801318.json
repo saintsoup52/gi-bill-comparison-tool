@@ -1,6 +1,6 @@
 {
   "facility_code": "11801318",
-  "institution": "SOUTHERN UNIVERSITY - SHREVEPORT",
+  "institution": "Southern University - Shreveport",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 152,
   "cross": 160649,
-  "grad_rate": 12.9,
-  "grad_rate_rank": 1099,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 6806,
-  "avg_stu_loan_debt_rank": 530,
-  "indicator_group": 2
+  "grad_rate": 11.9,
+  "grad_rate_rank": 1233,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 498,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "71107",
+  "email": false
 }

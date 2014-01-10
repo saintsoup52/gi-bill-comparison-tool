@@ -1,6 +1,6 @@
 {
   "facility_code": "15460647",
-  "institution": "WASHINGTON STATE CRIMINAL JUSTICE TRAINING COMMISSION (WSCJTC)",
+  "institution": "Washington State Criminal Justice Training Commission (Wscjtc)",
   "city": "Burien",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98148",
+  "email": true
 }

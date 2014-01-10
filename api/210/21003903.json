@@ -1,6 +1,6 @@
 {
   "facility_code": "21003903",
-  "institution": "CHAMBERLAIN COLLEGE OF NURSING",
+  "institution": "Chamberlain College Of Nursing",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 454245,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.9,
+  "default_rate": 6.7,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85021",
+  "email": false
 }

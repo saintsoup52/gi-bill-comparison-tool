@@ -1,6 +1,6 @@
 {
   "facility_code": "31905142",
-  "institution": "VICTORY UNIVERSITY (FORMERLY CRICHTON COLLEGE)",
+  "institution": "Victory University (Formerly Crichton College)",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 77,
   "cross": 220941,
-  "grad_rate": 10.3,
-  "grad_rate_rank": 1777,
-  "default_rate": 19.9,
-  "avg_stu_loan_debt": 27944,
-  "avg_stu_loan_debt_rank": 2025,
-  "indicator_group": 1
+  "grad_rate": 13.2,
+  "grad_rate_rank": 1803,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38111",
+  "email": false
 }

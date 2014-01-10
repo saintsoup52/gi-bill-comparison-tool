@@ -1,6 +1,6 @@
 {
   "facility_code": "25047343",
-  "institution": "COSMETOLOGY CAREER INSTITUTE",
+  "institution": "Cosmetology Career Institute",
   "city": "Greenville",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 434502,
-  "grad_rate": 75.6,
-  "grad_rate_rank": 887,
-  "default_rate": 34.9,
-  "avg_stu_loan_debt": 14525,
-  "avg_stu_loan_debt_rank": 2456,
-  "indicator_group": 5
+  "grad_rate": 40.9,
+  "grad_rate_rank": 2091,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 13682,
+  "avg_stu_loan_debt_rank": 1875,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75402",
+  "email": false
 }

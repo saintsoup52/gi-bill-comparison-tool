@@ -1,6 +1,6 @@
 {
   "facility_code": "11105505",
-  "institution": "CSU MONTEREY BAY EXTENSION (CH31 ONLY)",
+  "institution": "Csu Monterey Bay Extension (Ch31 Only)",
   "city": "Seaside",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 409698,
-  "grad_rate": 37.8,
-  "grad_rate_rank": 1305,
-  "default_rate": 9.9,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 36.8,
+  "grad_rate_rank": 1342,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93955",
+  "email": "No (SCO)"
 }

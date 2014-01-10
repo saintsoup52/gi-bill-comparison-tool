@@ -1,6 +1,6 @@
 {
   "facility_code": "25804516",
-  "institution": "SIDNEY'S HAIRDRESSING COLLEGE (CH31)",
+  "institution": "Sidney'S Hairdressing College (Ch31)",
   "city": "Hutchinson",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 155867,
-  "grad_rate": 65.8,
-  "grad_rate_rank": 1364,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 64.1,
+  "grad_rate_rank": 1465,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 11216,
+  "avg_stu_loan_debt_rank": 1621,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "67501",
+  "email": false
 }

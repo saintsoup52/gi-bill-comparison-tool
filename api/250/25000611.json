@@ -1,6 +1,6 @@
 {
   "facility_code": "25000611",
-  "institution": "PRO WAY HAIR SCHOOL",
+  "institution": "Pro Way Hair School",
   "city": "Stone Mountain",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 139506,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 1804,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 10868,
-  "avg_stu_loan_debt_rank": 2226,
-  "indicator_group": 5
+  "grad_rate": 57.4,
+  "grad_rate_rank": 1725,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 11500,
+  "avg_stu_loan_debt_rank": 1639,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30083",
+  "email": true
 }

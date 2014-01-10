@@ -1,6 +1,6 @@
 {
   "facility_code": "30068110",
-  "institution": "BROWARD CO PLUMBERS & PIPEFITTERS JATC",
+  "institution": "Broward Co Plumbers & Pipefitters Jatc",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33316",
+  "email": false
 }

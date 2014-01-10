@@ -1,6 +1,6 @@
 {
   "facility_code": "25145205",
-  "institution": "WESTERN BEAUTY INSTITUTE (LANCASTER)",
+  "institution": "Western Beauty Institute (Lancaster)",
   "city": "Lancaster",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 460686,
-  "grad_rate": 45.7,
-  "grad_rate_rank": 1997,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 5283,
-  "avg_stu_loan_debt_rank": 817,
-  "indicator_group": 5
+  "grad_rate": 43.4,
+  "grad_rate_rank": 2055,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 3800,
+  "avg_stu_loan_debt_rank": 139,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93536",
+  "email": false
 }

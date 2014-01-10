@@ -1,6 +1,6 @@
 {
   "facility_code": "35075643",
-  "institution": "VALLEY GRANDE INST FOR ACADEMIC STUDIES",
+  "institution": "Valley Grande Inst For Academic Studies",
   "city": "Weslaco",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 443322,
-  "grad_rate": 74.6,
-  "grad_rate_rank": 948,
-  "default_rate": 24.0,
-  "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 5
+  "grad_rate": 76.6,
+  "grad_rate_rank": 836,
+  "default_rate": 28.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78596",
+  "email": false
 }

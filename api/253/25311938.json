@@ -1,6 +1,6 @@
 {
   "facility_code": "25311938",
-  "institution": "EMPIRE BEAUTY SCHOOL (PHILADELPHIA)",
+  "institution": "Empire Beauty School (Philadelphia)",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 375984,
-  "grad_rate": 46.7,
-  "grad_rate_rank": 1975,
-  "default_rate": 23.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 39.8,
+  "grad_rate_rank": 2107,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19102",
+  "email": true
 }

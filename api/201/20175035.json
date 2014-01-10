@@ -1,6 +1,6 @@
 {
   "facility_code": "20175035",
-  "institution": "MARTZ MOLD & MACHINE INC.  K",
+  "institution": "Martz Mold & Machine Inc.  K",
   "city": "Cuyahoga Falls",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44222",
+  "email": false
 }

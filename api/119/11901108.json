@@ -1,6 +1,6 @@
 {
   "facility_code": "11901108",
-  "institution": "UNIVERSITY OF DELAWARE",
+  "institution": "University Of Delaware",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 239,
   "cross": 130943,
-  "grad_rate": 78.4,
-  "grad_rate_rank": 178,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 79.9,
+  "grad_rate_rank": 160,
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 22181,
+  "avg_stu_loan_debt_rank": 1441,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19716",
+  "email": true
 }

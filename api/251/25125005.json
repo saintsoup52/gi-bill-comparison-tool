@@ -1,6 +1,6 @@
 {
   "facility_code": "25125005",
-  "institution": "UEI COLLEGE - SANTA CRUZ CAMPUS",
+  "institution": "Uei College - Santa Cruz Campus",
   "city": "Santa Cruz",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 138594,
-  "grad_rate": 65.2,
-  "grad_rate_rank": 1381,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9433,
-  "avg_stu_loan_debt_rank": 1643,
-  "indicator_group": 5
+  "grad_rate": 64.3,
+  "grad_rate_rank": 1455,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 9409,
+  "avg_stu_loan_debt_rank": 1048,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95065",
+  "email": true
 }

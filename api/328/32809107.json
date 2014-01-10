@@ -1,6 +1,6 @@
 {
   "facility_code": "32809107",
-  "institution": "ST VINCENTS MEDICAL CENTER RESIDENCY PROGRAMS",
+  "institution": "St Vincents Medical Center Residency Programs",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6606",
+  "email": true
 }

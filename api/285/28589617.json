@@ -1,6 +1,6 @@
 {
   "facility_code": "28589617",
-  "institution": "JENNY LEA ACADEMY OF COSMETOLOGY",
+  "institution": "Jenny Lea Academy Of Cosmetology",
   "city": "Harlan",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 156949,
-  "grad_rate": 77.8,
-  "grad_rate_rank": 762,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 631,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40831",
+  "email": false
 }

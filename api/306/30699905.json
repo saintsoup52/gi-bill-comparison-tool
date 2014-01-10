@@ -1,6 +1,6 @@
 {
   "facility_code": "30699905",
-  "institution": "SOUTHERN CALIFORNIA SHEET METAL JATC",
+  "institution": "Southern California Sheet Metal Jatc",
   "city": "City Of Industry",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91746",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25023103",
-  "institution": "EMPIRE BEAUTY SCHOOL- AVONDALE",
+  "institution": "Empire Beauty School- Avondale",
   "city": "Avondale",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 447148,
-  "grad_rate": 57.4,
-  "grad_rate_rank": 1694,
-  "default_rate": 20.6,
+  "grad_rate": 55.6,
+  "grad_rate_rank": 1786,
+  "default_rate": 15.9,
   "avg_stu_loan_debt": 10556,
-  "avg_stu_loan_debt_rank": 2196,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1562,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85323",
+  "email": false
 }

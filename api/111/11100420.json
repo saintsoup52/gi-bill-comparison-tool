@@ -1,6 +1,6 @@
 {
   "facility_code": "11100420",
-  "institution": "COPPIN STATE UNIVERSITY",
+  "institution": "Coppin State University",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 130,
   "cross": 162283,
-  "grad_rate": 14.7,
-  "grad_rate_rank": 1735,
-  "default_rate": 13.2,
-  "avg_stu_loan_debt": 11969,
-  "avg_stu_loan_debt_rank": 427,
-  "indicator_group": 1
+  "grad_rate": 17.0,
+  "grad_rate_rank": 1746,
+  "default_rate": 22.1,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21216",
+  "email": true
 }

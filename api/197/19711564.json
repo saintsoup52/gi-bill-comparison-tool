@@ -1,6 +1,6 @@
 {
   "facility_code": "19711564",
-  "institution": "UNITED STATES ARMY PACIFIC (USARPAC) CH31 ONLY",
+  "institution": "United States Army Pacific (Usarpac) Ch31 Only",
   "city": "Ft Shafter",
   "state": "HI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96858",
+  "email": false
 }

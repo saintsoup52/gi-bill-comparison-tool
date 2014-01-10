@@ -1,6 +1,6 @@
 {
   "facility_code": "10522030",
-  "institution": "NORTH BERGEN POLICE DEPARTMENT",
+  "institution": "North Bergen Police Department",
   "city": "North Bergen",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7047",
+  "email": false
 }

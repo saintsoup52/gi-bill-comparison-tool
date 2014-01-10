@@ -1,6 +1,6 @@
 {
   "facility_code": "24967432",
-  "institution": "ELMIRA BUSINESS INSTITUTE",
+  "institution": "Elmira Business Institute",
   "city": "Elmira",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 190974,
-  "grad_rate": 21.4,
-  "grad_rate_rank": 819,
-  "default_rate": 28.6,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 967,
-  "indicator_group": 2
+  "grad_rate": 42.2,
+  "grad_rate_rank": 379,
+  "default_rate": 28.7,
+  "avg_stu_loan_debt": 11498,
+  "avg_stu_loan_debt_rank": 832,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14901",
+  "email": true
 }

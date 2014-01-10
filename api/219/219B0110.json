@@ -1,6 +1,6 @@
 {
   "facility_code": "219B0110",
-  "institution": "STRAYER UNIVERSITY - PALM BEACH GARDENS",
+  "institution": "Strayer University - Palm Beach Gardens",
   "city": "Palm Beach Gardens",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 449038,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33410",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24992438",
-  "institution": "TRIANGLE TECH INC (SUNBURY)",
+  "institution": "Triangle Tech Inc (Sunbury)",
   "city": "Sunbury",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 443377,
-  "grad_rate": 68.8,
-  "grad_rate_rank": 78,
-  "default_rate": 9.9,
-  "avg_stu_loan_debt": 18550,
-  "avg_stu_loan_debt_rank": 1374,
-  "indicator_group": 2
+  "grad_rate": 80.0,
+  "grad_rate_rank": 44,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "17801",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24836205",
-  "institution": "FASHION INSTITUTE OF DESIGN & MERCHANDISING",
+  "institution": "Fashion Institute Of Design & Merchandising",
   "city": "Irvine",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 114415,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 57.8,
+  "grad_rate_rank": 187,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 26469,
+  "avg_stu_loan_debt_rank": 1404,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92614",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20896710",
-  "institution": "FLORIDA POWER AND LIGHT TURKEY POINT NUCLEAR STATION",
+  "institution": "Florida Power And Light Turkey Point Nuclear Station",
   "city": "Florida City",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33035",
+  "email": true
 }

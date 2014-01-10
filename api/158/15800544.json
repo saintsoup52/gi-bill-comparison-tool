@@ -1,6 +1,6 @@
 {
   "facility_code": "15800544",
-  "institution": "UINTAH BASIN APPLIED TECHNOLOGY COLLEGE",
+  "institution": "Uintah Basin Applied Technology College",
   "city": "Roosevelt",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 230676,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 56.1,
+  "grad_rate_rank": 1764,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84066",
+  "email": false
 }

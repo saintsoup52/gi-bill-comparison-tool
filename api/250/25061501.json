@@ -1,6 +1,6 @@
 {
   "facility_code": "25061501",
-  "institution": "PAUL MITCHELL: THE SCHOOL BIRMINGHAM",
+  "institution": "Paul Mitchell: The School Birmingham",
   "city": "Hoover",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 454652,
-  "grad_rate": 60.3,
-  "grad_rate_rank": 1576,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 52.7,
+  "grad_rate_rank": 1877,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 13150,
+  "avg_stu_loan_debt_rank": 1848,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "35216",
+  "email": true
 }

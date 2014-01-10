@@ -1,6 +1,6 @@
 {
   "facility_code": "21062110",
-  "institution": "DRAGON RISES COLLEGE OF ORIENTAL MEDICINE",
+  "institution": "Dragon Rises College Of Oriental Medicine",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 449481,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 8625,
-  "avg_stu_loan_debt_rank": 274,
-  "indicator_group": 4
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "32601",
+  "email": false
 }

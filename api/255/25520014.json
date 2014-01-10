@@ -1,6 +1,6 @@
 {
   "facility_code": "25520014",
-  "institution": "EVEREST COLLEGE",
+  "institution": "Everest College",
   "city": "Merrillville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 430175,
-  "grad_rate": 66.4,
-  "grad_rate_rank": 1346,
-  "default_rate": 26.3,
+  "grad_rate": 63.5,
+  "grad_rate_rank": 1494,
+  "default_rate": 16.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46410",
+  "email": true
 }

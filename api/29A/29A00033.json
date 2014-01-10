@@ -1,6 +1,6 @@
 {
   "facility_code": "29A00033",
-  "institution": "UNIQUE LEARNING CONCEPTS~CH 31 ONLY",
+  "institution": "Unique Learning Concepts~Ch 31 Only",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28216",
+  "email": false
 }

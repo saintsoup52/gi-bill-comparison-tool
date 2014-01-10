@@ -1,6 +1,6 @@
 {
   "facility_code": "25520317",
-  "institution": "THE COMPUTER SCHOOL INC",
+  "institution": "The Computer School Inc",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40504",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11900238",
-  "institution": "TEMPLE UNIVERSITY",
+  "institution": "Temple University",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 666,
   "cross": 216339,
-  "grad_rate": 67.6,
-  "grad_rate_rank": 364,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 20500,
-  "avg_stu_loan_debt_rank": 1475,
-  "indicator_group": 1
+  "grad_rate": 65.9,
+  "grad_rate_rank": 411,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19122",
+  "email": true
 }

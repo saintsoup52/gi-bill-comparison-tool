@@ -1,6 +1,6 @@
 {
   "facility_code": "20725529",
-  "institution": "K W MANAGEMENT INC",
+  "institution": "K W Management Inc",
   "city": "Nashua",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3060",
+  "email": "No (SCO)"
 }

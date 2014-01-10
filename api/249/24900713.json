@@ -1,12 +1,12 @@
 {
   "facility_code": "24900713",
-  "institution": "ITT TECHNICAL INSTITUTE-SPRINGFIELD",
+  "institution": "Itt Technical Institute-Springfield",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
   "bah": 1032,
   "poe": true,
-  "yr": null,
+  "yr": true,
   "gibill": 8,
   "cross": 479655,
   "grad_rate": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62704",
+  "email": false
 }

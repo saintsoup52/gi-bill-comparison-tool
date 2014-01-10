@@ -1,6 +1,6 @@
 {
   "facility_code": "319M1143",
-  "institution": "ST EDWARDS UNIVERSITY",
+  "institution": "St Edwards University",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 216,
   "cross": 227845,
-  "grad_rate": 68.3,
-  "grad_rate_rank": 340,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 68.9,
+  "grad_rate_rank": 327,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 21905,
+  "avg_stu_loan_debt_rank": 1409,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78704",
+  "email": false
 }

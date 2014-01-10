@@ -1,6 +1,6 @@
 {
   "facility_code": "17631532",
-  "institution": "NOTRE DAME BISHOP GIBBONS SCHOOL",
+  "institution": "Notre Dame Bishop Gibbons School",
   "city": "Schenectady",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12304",
+  "email": false
 }

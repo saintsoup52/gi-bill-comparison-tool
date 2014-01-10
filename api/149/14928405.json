@@ -1,6 +1,6 @@
 {
   "facility_code": "14928405",
-  "institution": "ORANGE COAST COLLEGE",
+  "institution": "Orange Coast College",
   "city": "Costa Mesa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 627,
   "cross": 120342,
-  "grad_rate": 36.3,
-  "grad_rate_rank": 407,
-  "default_rate": 14.0,
-  "avg_stu_loan_debt": 4768,
-  "avg_stu_loan_debt_rank": 254,
-  "indicator_group": 2
+  "grad_rate": 38.0,
+  "grad_rate_rank": 443,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92626",
+  "email": true
 }

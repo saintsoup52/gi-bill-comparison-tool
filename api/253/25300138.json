@@ -1,6 +1,6 @@
 {
   "facility_code": "25300138",
-  "institution": "PULSE BEAUTY ACADEMY",
+  "institution": "Pulse Beauty Academy",
   "city": "Downingtown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 455947,
-  "grad_rate": 83.6,
-  "grad_rate_rank": 471,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9800,
-  "avg_stu_loan_debt_rank": 2125,
-  "indicator_group": 5
+  "grad_rate": 86.6,
+  "grad_rate_rank": 387,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19335",
+  "email": false
 }

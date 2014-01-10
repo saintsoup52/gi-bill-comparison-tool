@@ -1,6 +1,6 @@
 {
   "facility_code": "25021011",
-  "institution": "AMERICAN PROFESSIONAL INSTITUTE - SOUTH",
+  "institution": "American Professional Institute - South",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 443845,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 1714,
-  "default_rate": 20.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 53.1,
+  "grad_rate_rank": 1862,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 8313,
+  "avg_stu_loan_debt_rank": 870,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "31206",
+  "email": true
 }

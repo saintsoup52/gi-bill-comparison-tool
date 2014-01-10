@@ -1,6 +1,6 @@
 {
   "facility_code": "25025546",
-  "institution": "ELECTRONIC SYS NORVELL AUTHORIZED EDU CTR",
+  "institution": "Electronic Sys Norvell Authorized Edu Ctr",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23452",
+  "email": false
 }

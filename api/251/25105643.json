@@ -1,6 +1,6 @@
 {
   "facility_code": "25105643",
-  "institution": "DIAMONDS COSMETOLOGY COLLEGE",
+  "institution": "Diamonds Cosmetology College",
   "city": "Sherman",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461388,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 1986,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3139,
-  "avg_stu_loan_debt_rank": 565,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 5623,
+  "avg_stu_loan_debt_rank": 370,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75090",
+  "email": false
 }

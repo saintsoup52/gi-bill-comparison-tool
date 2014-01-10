@@ -1,6 +1,6 @@
 {
   "facility_code": "10D21338",
-  "institution": "HARRISBURG BUREAU OF POLICE",
+  "institution": "Harrisburg Bureau Of Police",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17101",
+  "email": true
 }

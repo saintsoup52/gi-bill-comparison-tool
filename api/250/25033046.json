@@ -1,6 +1,6 @@
 {
   "facility_code": "25033046",
-  "institution": "CHESAPEAKE MARINE TRAINING INSTITUTE INC",
+  "institution": "Chesapeake Marine Training Institute Inc",
   "city": "Hayes",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23072",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20649340",
-  "institution": "PROGRESS ENERGY - ROBINSON NUCLEAR PLANT",
+  "institution": "Progress Energy - Robinson Nuclear Plant",
   "city": "Hartsville",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29550",
+  "email": false
 }

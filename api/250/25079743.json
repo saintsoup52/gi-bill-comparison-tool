@@ -1,6 +1,6 @@
 {
   "facility_code": "25079743",
-  "institution": "EVEREST INSTITUTE GREENSPOINT CAMPUS",
+  "institution": "Everest Institute Greenspoint Campus",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 438656,
-  "grad_rate": 60.7,
-  "grad_rate_rank": 1559,
-  "default_rate": 36.8,
+  "grad_rate": 62.8,
+  "grad_rate_rank": 1525,
+  "default_rate": 23.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77060",
+  "email": false
 }

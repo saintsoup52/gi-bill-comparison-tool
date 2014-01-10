@@ -1,6 +1,6 @@
 {
   "facility_code": "24339232",
-  "institution": "SIMMONS INSTITUTE OF FUNERAL SERVICE INC.",
+  "institution": "Simmons Institute Of Funeral Service Inc.",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 195492,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 448,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 8750,
-  "avg_stu_loan_debt_rank": 701,
-  "indicator_group": 2
+  "grad_rate": 66.7,
+  "grad_rate_rank": 116,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 19175,
+  "avg_stu_loan_debt_rank": 1169,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13207",
+  "email": true
 }

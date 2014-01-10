@@ -1,6 +1,6 @@
 {
   "facility_code": "25173105",
-  "institution": "UNIVERSAL SCHOOLS & COLLEGES OF HEALTH AND HUMAN SERVICES",
+  "institution": "Universal Schools & Colleges Of Health And Human Services",
   "city": "Anaheim",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92806",
+  "email": true
 }

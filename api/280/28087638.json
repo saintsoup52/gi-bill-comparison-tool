@@ -1,6 +1,6 @@
 {
   "facility_code": "28087638",
-  "institution": "BEAVER FALLS BEAUTY ACADEMY",
+  "institution": "Beaver Falls Beauty Academy",
   "city": "Beaver Falls",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 215336,
-  "grad_rate": 59.4,
-  "grad_rate_rank": 1612,
-  "default_rate": 50.0,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 1136,
-  "indicator_group": 5
+  "grad_rate": 60.3,
+  "grad_rate_rank": 1625,
+  "default_rate": 28.5,
+  "avg_stu_loan_debt": 7928,
+  "avg_stu_loan_debt_rank": 811,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15010",
+  "email": true
 }

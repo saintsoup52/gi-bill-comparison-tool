@@ -1,6 +1,6 @@
 {
   "facility_code": "25368832",
-  "institution": "NEW YORK FILM ACADEMY",
+  "institution": "New York Film Academy",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 461148,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
+  "grad_rate": 79.8,
+  "grad_rate_rank": 71,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "10003",
+  "email": true
 }

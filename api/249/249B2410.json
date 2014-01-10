@@ -1,6 +1,6 @@
 {
   "facility_code": "249B2410",
-  "institution": "MEDVANCE INSTITUTE - MIAMI",
+  "institution": "Medvance Institute - Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 445753,
-  "grad_rate": 66.5,
-  "grad_rate_rank": 90,
-  "default_rate": 24.0,
-  "avg_stu_loan_debt": 7834,
-  "avg_stu_loan_debt_rank": 329,
-  "indicator_group": 3
+  "grad_rate": 60.3,
+  "grad_rate_rank": 289,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33173",
+  "email": false
 }

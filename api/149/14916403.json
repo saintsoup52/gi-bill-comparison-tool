@@ -1,6 +1,6 @@
 {
   "facility_code": "14916403",
-  "institution": "SOUTH MOUNTAIN COMMUNITY COLLEGE",
+  "institution": "South Mountain Community College",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 173,
   "cross": 105792,
-  "grad_rate": 16.2,
-  "grad_rate_rank": 988,
-  "default_rate": 20.6,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 16.7,
+  "grad_rate_rank": 1050,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 136,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85042",
+  "email": false
 }

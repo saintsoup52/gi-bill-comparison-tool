@@ -1,6 +1,6 @@
 {
   "facility_code": "20999810",
-  "institution": "FLEET READINESS SOUTHEAT - CHAPTER 31 ONLY",
+  "institution": "Fleet Readiness Southeat - Chapter 31 Only",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32212",
+  "email": false
 }

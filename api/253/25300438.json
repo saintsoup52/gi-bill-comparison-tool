@@ -1,6 +1,6 @@
 {
   "facility_code": "25300438",
-  "institution": "THE VISION ACADEMY - AMBLER",
+  "institution": "The Vision Academy - Ambler",
   "city": "Ambler",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 210711,
-  "grad_rate": 73.1,
-  "grad_rate_rank": 1016,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 79.9,
+  "grad_rate_rank": 664,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 11581,
+  "avg_stu_loan_debt_rank": 1644,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19002",
+  "email": true
 }

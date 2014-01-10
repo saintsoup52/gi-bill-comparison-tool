@@ -1,6 +1,6 @@
 {
   "facility_code": "25006720",
-  "institution": "DELMARVA BEAUTY ACADEMY",
+  "institution": "Delmarva Beauty Academy",
   "city": "Salisbury",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 162335,
-  "grad_rate": 76.2,
-  "grad_rate_rank": 859,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 28.8,
+  "avg_stu_loan_debt": 8900,
+  "avg_stu_loan_debt_rank": 983,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21801",
+  "email": true
 }

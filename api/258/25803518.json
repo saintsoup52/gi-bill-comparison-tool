@@ -1,6 +1,6 @@
 {
   "facility_code": "25803518",
-  "institution": "BLUE CLIFF COLLEGE - ALEXANDRIA",
+  "institution": "Blue Cliff College - Alexandria",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 450128,
-  "grad_rate": 59.3,
-  "grad_rate_rank": 140,
-  "default_rate": 21.4,
-  "avg_stu_loan_debt": 9499,
-  "avg_stu_loan_debt_rank": 457,
-  "indicator_group": 3
+  "grad_rate": 48.1,
+  "grad_rate_rank": 411,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "71301",
+  "email": true
 }

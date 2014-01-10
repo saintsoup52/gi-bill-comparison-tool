@@ -1,6 +1,6 @@
 {
   "facility_code": "31505105",
-  "institution": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "institution": "University Of Southern California",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 639,
   "cross": 123961,
-  "grad_rate": 90.1,
-  "grad_rate_rank": 63,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 25500,
-  "avg_stu_loan_debt_rank": 1992,
-  "indicator_group": 1
+  "grad_rate": 90.2,
+  "grad_rate_rank": 61,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90089",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "349D9438",
-  "institution": "METROPOLITAN CAREER CENTER/ COMPUTER TECHNOLOGY INSTITUTE",
+  "institution": "Metropolitan Career Center/ Computer Technology Institute",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 214023,
-  "grad_rate": 78.3,
-  "grad_rate_rank": 41,
-  "default_rate": 22.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 80.0,
+  "grad_rate_rank": 44,
+  "default_rate": 25.9,
+  "avg_stu_loan_debt": 12133,
+  "avg_stu_loan_debt_rank": 861,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19110",
+  "email": true
 }

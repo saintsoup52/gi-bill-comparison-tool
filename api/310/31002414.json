@@ -1,6 +1,6 @@
 {
   "facility_code": "31002414",
-  "institution": "WABASH COLLEGE",
+  "institution": "Wabash College",
   "city": "Crawfordsville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 152673,
-  "grad_rate": 74.7,
-  "grad_rate_rank": 231,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 19462,
-  "avg_stu_loan_debt_rank": 1301,
-  "indicator_group": 1
+  "grad_rate": 73.1,
+  "grad_rate_rank": 267,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 22618,
+  "avg_stu_loan_debt_rank": 1484,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47933",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25022449",
-  "institution": "THE SALON PROFESSIONAL ACADEMY - KENOSHA",
+  "institution": "The Salon Professional Academy - Kenosha",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 461908,
-  "grad_rate": 81.1,
-  "grad_rate_rank": 593,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 8521,
+  "avg_stu_loan_debt_rank": 908,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "53142",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25002134",
-  "institution": "THE HAIR ACADEMY",
+  "institution": "The Hair Academy",
   "city": "Bismarck",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 452009,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8750,
-  "avg_stu_loan_debt_rank": 1522,
-  "indicator_group": 5
+  "grad_rate": 65.0,
+  "grad_rate_rank": 1427,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 1523,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "58501",
+  "email": false
 }

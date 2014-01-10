@@ -1,6 +1,6 @@
 {
   "facility_code": "25021003",
-  "institution": "TUCSON COLLEGE OF BEAUTY",
+  "institution": "Tucson College Of Beauty",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 447704,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 1002,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 7550,
-  "avg_stu_loan_debt_rank": 1243,
-  "indicator_group": 5
+  "grad_rate": 87.1,
+  "grad_rate_rank": 366,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85705",
+  "email": false
 }

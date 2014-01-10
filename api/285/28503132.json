@@ -1,6 +1,6 @@
 {
   "facility_code": "28503132",
-  "institution": "CONTINENTAL SCHOOL OF BEAUTY CULTURE (BUFFALO)",
+  "institution": "Continental School Of Beauty Culture (Buffalo)",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 190293,
-  "grad_rate": 51.2,
-  "grad_rate_rank": 1894,
-  "default_rate": 20.8,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 53.2,
+  "grad_rate_rank": 1859,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 6907,
+  "avg_stu_loan_debt_rank": 622,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14223",
+  "email": true
 }

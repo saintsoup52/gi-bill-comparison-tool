@@ -1,6 +1,6 @@
 {
   "facility_code": "25399938",
-  "institution": "EMPIRE BEAUTY SCHOOL (NORTH HILLS)",
+  "institution": "Empire Beauty School (North Hills)",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 450605,
-  "grad_rate": 48.9,
-  "grad_rate_rank": 1953,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 10367,
-  "avg_stu_loan_debt_rank": 2178,
-  "indicator_group": 5
+  "grad_rate": 56.0,
+  "grad_rate_rank": 1768,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15237",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11900126",
-  "institution": "MONTANA STATE UNIVERSITY-BOZEMAN",
+  "institution": "Montana State University-Bozeman",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 690,
   "cross": 180461,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 844,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 16447,
-  "avg_stu_loan_debt_rank": 882,
-  "indicator_group": 1
+  "grad_rate": 48.7,
+  "grad_rate_rank": 941,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59717",
+  "email": true
 }

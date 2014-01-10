@@ -1,6 +1,6 @@
 {
   "facility_code": "10204916",
-  "institution": "VALLEY CENTER POLICE DEPARTMENT",
+  "institution": "Valley Center Police Department",
   "city": "Valley Center",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67147",
+  "email": false
 }

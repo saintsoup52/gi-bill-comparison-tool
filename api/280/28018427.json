@@ -1,6 +1,6 @@
 {
   "facility_code": "28018427",
-  "institution": "JOSEPH'S COLLEGE OF BEAUTY - NORTH PLATTE",
+  "institution": "Joseph'S College Of Beauty - North Platte",
   "city": "North Platte",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "69101",
+  "email": false
 }

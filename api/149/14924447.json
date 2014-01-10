@@ -1,6 +1,6 @@
 {
   "facility_code": "14924447",
-  "institution": "NORTH SEATTLE COMMUNITY COLLEGE",
+  "institution": "North Seattle Community College",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 329,
   "cross": 236072,
-  "grad_rate": 28.9,
-  "grad_rate_rank": 572,
+  "grad_rate": 21.5,
+  "grad_rate_rank": 626,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 1343,
-  "avg_stu_loan_debt_rank": 103,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 24,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "98103",
+  "email": true
 }

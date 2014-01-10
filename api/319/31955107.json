@@ -1,6 +1,6 @@
 {
   "facility_code": "31955107",
-  "institution": "UNIVERSITY OF HARTFORD",
+  "institution": "University Of Hartford",
   "city": "West Hartford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 129525,
-  "grad_rate": 56.4,
-  "grad_rate_rank": 666,
-  "default_rate": 6.5,
+  "grad_rate": 51.6,
+  "grad_rate_rank": 845,
+  "default_rate": 5.3,
   "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "6117",
+  "email": true
 }

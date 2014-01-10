@@ -1,6 +1,6 @@
 {
   "facility_code": "18016322",
-  "institution": "MICHIGAN CAREER & TECHNICAL INSTITUTE",
+  "institution": "Michigan Career & Technical Institute",
   "city": "Plainwell",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 172422,
-  "grad_rate": 72.4,
-  "grad_rate_rank": 1052,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 80.2,
+  "grad_rate_rank": 630,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49080",
+  "email": true
 }

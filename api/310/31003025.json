@@ -1,6 +1,6 @@
 {
   "facility_code": "31003025",
-  "institution": "EVANGEL UNIVERSITY",
+  "institution": "Evangel University",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 55,
   "cross": 177339,
-  "grad_rate": 51.8,
-  "grad_rate_rank": 817,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 19834,
-  "avg_stu_loan_debt_rank": 1376,
-  "indicator_group": 1
+  "grad_rate": 45.8,
+  "grad_rate_rank": 1039,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 17754,
+  "avg_stu_loan_debt_rank": 892,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65802",
+  "email": false
 }

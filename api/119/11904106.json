@@ -1,6 +1,6 @@
 {
   "facility_code": "11904106",
-  "institution": "COLORADO MESA UNIVERSITY",
+  "institution": "Colorado Mesa University",
   "city": "Grand Junction",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 413,
   "cross": 127556,
-  "grad_rate": 24.9,
-  "grad_rate_rank": 1596,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 12320,
-  "avg_stu_loan_debt_rank": 484,
-  "indicator_group": 1
+  "grad_rate": 28.8,
+  "grad_rate_rank": 1557,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 13052,
+  "avg_stu_loan_debt_rank": 374,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "81501",
+  "email": true
 }

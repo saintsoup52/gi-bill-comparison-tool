@@ -1,6 +1,6 @@
 {
   "facility_code": "20147448",
-  "institution": "WEST VIRGINIA SHEET METAL WORKERS' LOCAL 33 JATC",
+  "institution": "West Virginia Sheet Metal Workers' Local 33 Jatc",
   "city": "Parkersburg",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "26101",
+  "email": true
 }

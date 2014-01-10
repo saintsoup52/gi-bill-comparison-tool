@@ -1,6 +1,6 @@
 {
   "facility_code": "31009038",
-  "institution": "WILKES UNIVERSITY",
+  "institution": "Wilkes University",
   "city": "Wilkes Barre",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 63,
   "cross": 216931,
-  "grad_rate": 57.8,
-  "grad_rate_rank": 624,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 22915,
-  "avg_stu_loan_debt_rank": 1735,
-  "indicator_group": 1
+  "grad_rate": 60.7,
+  "grad_rate_rank": 545,
+  "default_rate": 7.4,
+  "avg_stu_loan_debt": 24240,
+  "avg_stu_loan_debt_rank": 1658,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18766",
+  "email": true
 }

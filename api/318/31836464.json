@@ -1,6 +1,6 @@
 {
   "facility_code": "31836464",
-  "institution": "REMINGTON COLLEGE",
+  "institution": "Remington College",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 88,
   "cross": 372958,
-  "grad_rate": 52.6,
-  "grad_rate_rank": 196,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 9487,
-  "avg_stu_loan_debt_rank": 754,
-  "indicator_group": 2
+  "grad_rate": 49.6,
+  "grad_rate_rank": 273,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "96813",
+  "email": false
 }

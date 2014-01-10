@@ -1,6 +1,6 @@
 {
   "facility_code": "11802423",
-  "institution": "UNIVERSITY OF MINNESOTA -MORRIS",
+  "institution": "University Of Minnesota -Morris",
   "city": "Morris",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 174251,
-  "grad_rate": 60.3,
-  "grad_rate_rank": 555,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 13638,
-  "avg_stu_loan_debt_rank": 602,
-  "indicator_group": 1
+  "grad_rate": 60.5,
+  "grad_rate_rank": 551,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 13998,
+  "avg_stu_loan_debt_rank": 427,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56267",
+  "email": false
 }

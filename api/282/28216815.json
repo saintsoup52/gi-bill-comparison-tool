@@ -1,6 +1,6 @@
 {
   "facility_code": "28216815",
-  "institution": "THE SALON PROFESSIONAL ACADEMY",
+  "institution": "The Salon Professional Academy",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 461731,
-  "grad_rate": 74.4,
-  "grad_rate_rank": 954,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 81.4,
+  "grad_rate_rank": 579,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9963,
+  "avg_stu_loan_debt_rank": 1519,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52240",
+  "email": false
 }

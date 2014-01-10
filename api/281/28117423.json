@@ -1,6 +1,6 @@
 {
   "facility_code": "28117423",
-  "institution": "AVEDA INSTITUTE",
+  "institution": "Aveda Institute",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 173744,
-  "grad_rate": 88.7,
-  "grad_rate_rank": 318,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 93.4,
+  "grad_rate_rank": 181,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55414",
+  "email": false
 }

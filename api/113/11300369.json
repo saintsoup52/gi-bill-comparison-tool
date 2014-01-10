@@ -1,10 +1,10 @@
 {
   "facility_code": "11300369",
-  "institution": "KANGWON NATIONAL UNIVERSITY",
+  "institution": "Kangwon National University",
   "city": "Chuncheon-Si",
   "state": "South Korea",
   "country": "South Korea",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

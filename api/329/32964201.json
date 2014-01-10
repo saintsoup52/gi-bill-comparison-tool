@@ -1,6 +1,6 @@
 {
   "facility_code": "32964201",
-  "institution": "BAPTIST HEALTH SYSTEM RESIDENCY PROGRAM",
+  "institution": "Baptist Health System Residency Program",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35211",
+  "email": false
 }

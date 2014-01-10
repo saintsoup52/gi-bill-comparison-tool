@@ -1,6 +1,6 @@
 {
   "facility_code": "24807035",
-  "institution": "LINCOLN COLLEGE OF TECHNOLOGY-TOLEDO",
+  "institution": "Lincoln College Of Technology-Toledo",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 456278,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 36.2,
-  "avg_stu_loan_debt": 13278,
-  "avg_stu_loan_debt_rank": 754,
-  "indicator_group": 3
+  "grad_rate": 26.9,
+  "grad_rate_rank": 571,
+  "default_rate": 38.8,
+  "avg_stu_loan_debt": 15333,
+  "avg_stu_loan_debt_rank": 669,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "43615",
+  "email": false
 }

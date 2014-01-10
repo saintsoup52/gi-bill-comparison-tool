@@ -1,6 +1,6 @@
 {
   "facility_code": "11200007",
-  "institution": "CHARTER OAK STATE COLLEGE",
+  "institution": "Charter Oak State College",
   "city": "New Britain",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 48,
   "cross": 128780,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 7.3,
-  "avg_stu_loan_debt": 6672,
-  "avg_stu_loan_debt_rank": 139,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 11268,
+  "avg_stu_loan_debt_rank": 242,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "6053",
+  "email": true
 }

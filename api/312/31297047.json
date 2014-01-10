@@ -1,6 +1,6 @@
 {
   "facility_code": "31297047",
-  "institution": "NORTHWEST UNIVERSITY",
+  "institution": "Northwest University",
   "city": "Kirkland",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 236133,
-  "grad_rate": 49.5,
-  "grad_rate_rank": 904,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 47.8,
+  "grad_rate_rank": 975,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 18813,
+  "avg_stu_loan_debt_rank": 1038,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98033",
+  "email": true
 }

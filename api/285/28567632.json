@@ -1,6 +1,6 @@
 {
   "facility_code": "28567632",
-  "institution": "SHEAR EGO INTERNATIONAL SCHOOL OF HAIR DESIGN",
+  "institution": "Shear Ego International School Of Hair Design",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 412544,
-  "grad_rate": 80.5,
-  "grad_rate_rank": 633,
+  "grad_rate": 86.3,
+  "grad_rate_rank": 397,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14617",
+  "email": true
 }

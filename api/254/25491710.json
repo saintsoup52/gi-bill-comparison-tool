@@ -1,6 +1,6 @@
 {
   "facility_code": "25491710",
-  "institution": "THE PRAXIS INSTITUTE",
+  "institution": "The Praxis Institute",
   "city": "Hialeah",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 430582,
-  "grad_rate": 89.0,
-  "grad_rate_rank": 297,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 7050,
-  "avg_stu_loan_debt_rank": 1153,
-  "indicator_group": 5
+  "grad_rate": 88.8,
+  "grad_rate_rank": 311,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 8350,
+  "avg_stu_loan_debt_rank": 874,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33010",
+  "email": false
 }

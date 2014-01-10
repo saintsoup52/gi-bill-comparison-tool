@@ -1,6 +1,6 @@
 {
   "facility_code": "14904419",
-  "institution": "CENTRAL MAINE COMMUNITY COLLEGE",
+  "institution": "Central Maine Community College",
   "city": "Auburn",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 167,
   "cross": 161077,
-  "grad_rate": 23.8,
-  "grad_rate_rank": 731,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 7506,
-  "avg_stu_loan_debt_rank": 613,
-  "indicator_group": 2
+  "grad_rate": 24.8,
+  "grad_rate_rank": 793,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 567,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "4210",
+  "email": true
 }

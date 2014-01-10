@@ -1,6 +1,6 @@
 {
   "facility_code": "10051511",
-  "institution": "TOWNS COUNTY SHERIFF'S OFFICE",
+  "institution": "Towns County Sheriff'S Office",
   "city": "Young Harris",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30582",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20516627",
-  "institution": "ROPER & SONS MORTUARY",
+  "institution": "Roper & Sons Mortuary",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "68510",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21115205",
-  "institution": "CHARTER COLLEGE (OXNARD)",
+  "institution": "Charter College (Oxnard)",
   "city": "Oxnard",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 47,
   "cross": 434317,
-  "grad_rate": 68.2,
-  "grad_rate_rank": 1245,
-  "default_rate": 28.9,
+  "grad_rate": 88.4,
+  "grad_rate_rank": 320,
+  "default_rate": 19.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93036",
+  "email": true
 }

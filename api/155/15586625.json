@@ -1,6 +1,6 @@
 {
   "facility_code": "15586625",
-  "institution": "MIAMI R-1 HIGH SCHOOL",
+  "institution": "Miami R-1 High School",
   "city": "Amoret",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64722",
+  "email": false
 }

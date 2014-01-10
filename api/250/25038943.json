@@ -1,6 +1,6 @@
 {
   "facility_code": "25038943",
-  "institution": "AMERICAN COMMERCIAL COLLEGE SAN ANGELO",
+  "institution": "American Commercial College San Angelo",
   "city": "San Angelo",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 222673,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 1815,
-  "default_rate": 32.4,
-  "avg_stu_loan_debt": 11119,
-  "avg_stu_loan_debt_rank": 2240,
-  "indicator_group": 5
+  "grad_rate": 74.2,
+  "grad_rate_rank": 967,
+  "default_rate": 37.5,
+  "avg_stu_loan_debt": 10306,
+  "avg_stu_loan_debt_rank": 1542,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "76904",
+  "email": false
 }

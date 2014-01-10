@@ -1,6 +1,6 @@
 {
   "facility_code": "25062313",
-  "institution": "COMMUNITY BASED WARRIOR TRANSITION UNIT (CBWTU-IL)",
+  "institution": "Community Based Warrior Transition Unit (Cbwtu-Il)",
   "city": "Rock Island",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61299",
+  "email": false
 }

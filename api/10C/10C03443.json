@@ -1,6 +1,6 @@
 {
   "facility_code": "10C03443",
-  "institution": "HARRIS CTY WATER CNTRL IMP DIST 50",
+  "institution": "Harris Cty Water Cntrl Imp Dist 50",
   "city": "El Lago",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77586",
+  "email": false
 }

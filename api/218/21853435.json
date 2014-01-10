@@ -1,6 +1,6 @@
 {
   "facility_code": "21853435",
-  "institution": "HERZING UNIVERSITY - TOLEDO",
+  "institution": "Herzing University - Toledo",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 457022,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 11399,
-  "avg_stu_loan_debt_rank": 937,
-  "indicator_group": 2
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 15162,
+  "avg_stu_loan_debt_rank": 1019,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "43615",
+  "email": true
 }

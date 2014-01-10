@@ -1,6 +1,6 @@
 {
   "facility_code": "14920130",
-  "institution": "SUSSEX COUNTY COMMUNITY COLLEGE",
+  "institution": "Sussex County Community College",
   "city": "Newton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 103,
   "cross": 247603,
-  "grad_rate": 23.1,
-  "grad_rate_rank": 755,
-  "default_rate": 21.4,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 18.1,
+  "grad_rate_rank": 999,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 6109,
+  "avg_stu_loan_debt_rank": 342,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "7860",
+  "email": false
 }

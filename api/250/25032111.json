@@ -1,6 +1,6 @@
 {
   "facility_code": "25032111",
-  "institution": "SAE INSTITUTE OF TECHNOLOGY (ATLANTA)",
+  "institution": "Sae Institute Of Technology (Atlanta)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 476948,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 77.1,
+  "grad_rate_rank": 93,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30303",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15591525",
-  "institution": "EAST NEWTON R-VI HIGH SCHOOL",
+  "institution": "East Newton R-Vi High School",
   "city": "Granby",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64844",
+  "email": false
 }

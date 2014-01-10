@@ -1,6 +1,6 @@
 {
   "facility_code": "149A4405",
-  "institution": "WEST VALLEY COLLEGE",
+  "institution": "West Valley College",
   "city": "Saratoga",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 114,
   "cross": 125499,
-  "grad_rate": 26.0,
-  "grad_rate_rank": 655,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "grad_rate": 26.3,
+  "grad_rate_rank": 746,
+  "default_rate": 30.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "95070",
+  "email": false
 }

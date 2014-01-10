@@ -1,6 +1,6 @@
 {
   "facility_code": "31967105",
-  "institution": "PEPPERDINE UNIVERSITY SCHOOL OF LAW (WITHDRAWN)",
+  "institution": "Pepperdine University School Of Law (Withdrawn)",
   "city": "Malibu",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 121150,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 137,
-  "default_rate": 2.4,
-  "avg_stu_loan_debt": 33500,
-  "avg_stu_loan_debt_rank": 2051,
-  "indicator_group": 1
+  "grad_rate": 80.9,
+  "grad_rate_rank": 145,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 34565,
+  "avg_stu_loan_debt_rank": 1985,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90263",
+  "email": false
 }

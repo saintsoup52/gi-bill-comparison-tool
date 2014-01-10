@@ -1,6 +1,6 @@
 {
   "facility_code": "24900416",
-  "institution": "THE BROWN MACKIE COLLEGE-LENEXA CAMPUS",
+  "institution": "The Brown Mackie College-Lenexa Campus",
   "city": "Lenexa",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 72,
   "cross": 154767,
-  "grad_rate": 18.8,
-  "grad_rate_rank": 905,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 12694,
-  "avg_stu_loan_debt_rank": 1042,
-  "indicator_group": 2
+  "grad_rate": 28.8,
+  "grad_rate_rank": 662,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 12006,
+  "avg_stu_loan_debt_rank": 858,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "66215",
+  "email": true
 }

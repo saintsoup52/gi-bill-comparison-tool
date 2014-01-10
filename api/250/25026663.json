@@ -1,18 +1,21 @@
 {
   "facility_code": "25026663",
-  "institution": "**CH 31 ONLY** SERBIA'S TECHNICAL COLLEGE",
+  "institution": "**Ch 31 Only** Serbia'S Technical College",
   "city": "Guayama",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": null,
   "cross": 418700,
   "grad_rate": 63.7,
-  "grad_rate_rank": 1445,
+  "grad_rate_rank": 1482,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "784",
+  "email": false
 }

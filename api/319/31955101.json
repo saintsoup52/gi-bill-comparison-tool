@@ -1,6 +1,6 @@
 {
   "facility_code": "31955101",
-  "institution": "SELMA UNIVERSITY",
+  "institution": "Selma University",
   "city": "Selma",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 102058,
-  "grad_rate": 21.4,
-  "grad_rate_rank": 1649,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 104,
-  "indicator_group": 1
+  "grad_rate": 16.8,
+  "grad_rate_rank": 1750,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 29,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36701",
+  "email": true
 }

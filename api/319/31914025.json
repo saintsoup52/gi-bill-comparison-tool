@@ -1,6 +1,6 @@
 {
   "facility_code": "31914025",
-  "institution": "MIDWESTERN BAPTIST THEOLOGICAL SEMINARY",
+  "institution": "Midwestern Baptist Theological Seminary",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 178208,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 439,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 11520,
-  "avg_stu_loan_debt_rank": 701,
-  "indicator_group": 3
+  "grad_rate": 44.4,
+  "grad_rate_rank": 1091,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 8750,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64118",
+  "email": true
 }

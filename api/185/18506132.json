@@ -1,6 +1,6 @@
 {
   "facility_code": "18506132",
-  "institution": "BOCES ROCKLAND COUNTY",
+  "institution": "Boces Rockland County",
   "city": "West Nyack",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 418083,
-  "grad_rate": 77.4,
-  "grad_rate_rank": 795,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "grad_rate": 75.9,
+  "grad_rate_rank": 872,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 4400,
+  "avg_stu_loan_debt_rank": 171,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10994",
+  "email": true
 }

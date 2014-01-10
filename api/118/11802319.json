@@ -1,6 +1,6 @@
 {
   "facility_code": "11802319",
-  "institution": "UNIVERSITY OF MAINE AT ORONO UMPI BRANCH",
+  "institution": "University Of Maine At Orono Umpi Branch",
   "city": "Presque Isle",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 161341,
-  "grad_rate": 29.8,
-  "grad_rate_rank": 1503,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 9775,
-  "avg_stu_loan_debt_rank": 251,
-  "indicator_group": 1
+  "grad_rate": 36.9,
+  "grad_rate_rank": 1338,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 10182,
+  "avg_stu_loan_debt_rank": 167,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4769",
+  "email": false
 }

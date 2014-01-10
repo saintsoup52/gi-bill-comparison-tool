@@ -1,6 +1,6 @@
 {
   "facility_code": "21933417",
-  "institution": "DAYMAR COLLEGE - BELLEVUE",
+  "institution": "Daymar College - Bellevue",
   "city": "Bellevue",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 447476,
-  "grad_rate": 16.7,
-  "grad_rate_rank": 467,
-  "default_rate": 29.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 30.4,
+  "grad_rate_rank": 628,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 12315,
+  "avg_stu_loan_debt_rank": 873,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "41073",
+  "email": false
 }

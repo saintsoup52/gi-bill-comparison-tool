@@ -1,6 +1,6 @@
 {
   "facility_code": "20467036",
-  "institution": "THE CHARLES MACHINE WORKS INC (CANCELLED EFF 08-15-06)",
+  "institution": "The Charles Machine Works Inc (Cancelled Eff 08-15-06)",
   "city": "Perry",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73077",
+  "email": false
 }

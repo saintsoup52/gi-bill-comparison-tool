@@ -1,6 +1,6 @@
 {
   "facility_code": "249K8143",
-  "institution": "ALLIED HEALTH CAREERS",
+  "institution": "Allied Health Careers",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 367316,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 26.8,
+  "grad_rate": 46.5,
+  "grad_rate_rank": 421,
+  "default_rate": 34.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "78735",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21901128",
-  "institution": "UNIVERSITY OF PHOENIX - LAS VEGAS",
+  "institution": "University Of Phoenix - Las Vegas",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 772,
   "cross": 416962,
-  "grad_rate": 19.5,
-  "grad_rate_rank": 1676,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 22.2,
+  "grad_rate_rank": 1681,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89135",
+  "email": true
 }

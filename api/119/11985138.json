@@ -1,6 +1,6 @@
 {
   "facility_code": "11985138",
-  "institution": "BLOOMSBURG UNIVERSITY OF PA",
+  "institution": "Bloomsburg University Of Pa",
   "city": "Bloomsburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 219,
   "cross": 211158,
-  "grad_rate": 61.1,
-  "grad_rate_rank": 531,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 64.2,
+  "grad_rate_rank": 459,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 19125,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17815",
+  "email": true
 }

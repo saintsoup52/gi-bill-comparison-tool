@@ -1,6 +1,6 @@
 {
   "facility_code": "31926246",
-  "institution": "LIBERTY UNIVERSITY",
+  "institution": "Liberty University",
   "city": "Lynchburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6593,
   "cross": 232557,
-  "grad_rate": 46.7,
-  "grad_rate_rank": 996,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 548,
-  "indicator_group": 1
+  "grad_rate": 45.7,
+  "grad_rate_rank": 1042,
+  "default_rate": 7.4,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24502",
+  "email": true
 }

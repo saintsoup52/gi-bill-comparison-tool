@@ -1,6 +1,6 @@
 {
   "facility_code": "31064510",
-  "institution": "TALMUDIC UNIVERSITY",
+  "institution": "Talmudic University",
   "city": "Miami Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 137777,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 156,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 115,
-  "indicator_group": 1
+  "grad_rate": 83.3,
+  "grad_rate_rank": 116,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4250,
+  "avg_stu_loan_debt_rank": 13,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33140",
+  "email": true
 }

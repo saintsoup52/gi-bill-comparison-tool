@@ -1,6 +1,6 @@
 {
   "facility_code": "24900538",
-  "institution": "LINCOLN TECHNICAL INSTITUTE (CENTER CITY)",
+  "institution": "Lincoln Technical Institute (Center City)",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 442046,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 31.0,
-  "avg_stu_loan_debt": 8611,
-  "avg_stu_loan_debt_rank": 384,
-  "indicator_group": 3
+  "grad_rate": 50.9,
+  "grad_rate_rank": 388,
+  "default_rate": 27.3,
+  "avg_stu_loan_debt": 9059,
+  "avg_stu_loan_debt_rank": 306,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "19104",
+  "email": true
 }

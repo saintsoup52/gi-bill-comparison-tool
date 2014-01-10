@@ -1,6 +1,6 @@
 {
   "facility_code": "11104705",
-  "institution": "CALIFORNIA STATE UNIVERSITY EAST BAY- EXTENSION",
+  "institution": "California State University East Bay- Extension",
   "city": "Hayward",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 110574,
-  "grad_rate": 43.3,
-  "grad_rate_rank": 1118,
-  "default_rate": 7.9,
-  "avg_stu_loan_debt": 14102,
-  "avg_stu_loan_debt_rank": 646,
-  "indicator_group": 1
+  "grad_rate": 41.0,
+  "grad_rate_rank": 1214,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94542",
+  "email": false
 }

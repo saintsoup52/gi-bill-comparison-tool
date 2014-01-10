@@ -1,6 +1,6 @@
 {
   "facility_code": "20R07138",
-  "institution": "BILL DORSEY & SONS PLUMBING AND HEATING",
+  "institution": "Bill Dorsey & Sons Plumbing And Heating",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15210",
+  "email": false
 }

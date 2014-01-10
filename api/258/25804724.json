@@ -1,6 +1,6 @@
 {
   "facility_code": "25804724",
-  "institution": "MISSISSIPPI INST OF AESTHETICS NAILS COSMETOLOGY",
+  "institution": "Mississippi Inst Of Aesthetics Nails Cosmetology",
   "city": "Clinton",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 455105,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 443,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 6224,
-  "avg_stu_loan_debt_rank": 986,
-  "indicator_group": 5
+  "grad_rate": 78.0,
+  "grad_rate_rank": 756,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 3604,
+  "avg_stu_loan_debt_rank": 124,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "39506",
+  "email": false
 }

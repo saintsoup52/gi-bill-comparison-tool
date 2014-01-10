@@ -1,6 +1,6 @@
 {
   "facility_code": "31004433",
-  "institution": "MONTREAT COLLEGE",
+  "institution": "Montreat College",
   "city": "Montreat",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 199032,
-  "grad_rate": 34.6,
-  "grad_rate_rank": 1373,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 19684,
-  "avg_stu_loan_debt_rank": 1335,
-  "indicator_group": 1
+  "grad_rate": 41.8,
+  "grad_rate_rank": 1180,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 23960,
+  "avg_stu_loan_debt_rank": 1613,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28757",
+  "email": true
 }

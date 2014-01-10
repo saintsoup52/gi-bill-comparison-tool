@@ -1,6 +1,6 @@
 {
   "facility_code": "14931443",
-  "institution": "ST PHILIPS COLLEGE",
+  "institution": "St Philips College",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1314,
   "cross": 227854,
-  "grad_rate": 4.9,
-  "grad_rate_rank": 534,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 7700,
-  "avg_stu_loan_debt_rank": 323,
-  "indicator_group": 3
+  "grad_rate": 4.2,
+  "grad_rate_rank": 1382,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 621,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "78203",
+  "email": true
 }

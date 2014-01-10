@@ -1,6 +1,6 @@
 {
   "facility_code": "20204916",
-  "institution": "FAITH TECHNOLOGIES INC.",
+  "institution": "Faith Technologies Inc.",
   "city": "Lenexa",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66215",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14923447",
-  "institution": "WHATCOM COMMUNITY COLLEGE",
+  "institution": "Whatcom Community College",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 249,
   "cross": 237039,
-  "grad_rate": 26.5,
-  "grad_rate_rank": 639,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 5501,
-  "avg_stu_loan_debt_rank": 386,
-  "indicator_group": 2
+  "grad_rate": 32.3,
+  "grad_rate_rank": 565,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 6596,
+  "avg_stu_loan_debt_rank": 409,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98226",
+  "email": true
 }

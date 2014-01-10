@@ -1,6 +1,6 @@
 {
   "facility_code": "21803905",
-  "institution": "WESTWOOD COLLEGE- TORRANCE",
+  "institution": "Westwood College- Torrance",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 121381,
-  "grad_rate": 35.2,
-  "grad_rate_rank": 1360,
-  "default_rate": 21.6,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 58.0,
+  "grad_rate_rank": 629,
+  "default_rate": 24.7,
+  "avg_stu_loan_debt": 23874,
+  "avg_stu_loan_debt_rank": 1605,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90502",
+  "email": false
 }

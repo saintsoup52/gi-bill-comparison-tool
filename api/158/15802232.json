@@ -1,6 +1,6 @@
 {
   "facility_code": "15802232",
-  "institution": "CLARA BARTON HIGH SCHOOL",
+  "institution": "Clara Barton High School",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11225",
+  "email": false
 }

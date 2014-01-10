@@ -1,6 +1,6 @@
 {
   "facility_code": "11901124",
-  "institution": "ALCORN STATE UNIVERSITY",
+  "institution": "Alcorn State University",
   "city": "Lorman",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 92,
   "cross": 175342,
-  "grad_rate": 32.5,
-  "grad_rate_rank": 1436,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 31.5,
+  "grad_rate_rank": 1496,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 16900,
+  "avg_stu_loan_debt_rank": 791,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39096",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000218",
-  "institution": "NICHOLLS STATE UNIVERSITY",
+  "institution": "Nicholls State University",
   "city": "Thibodaux",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 223,
   "cross": 159966,
-  "grad_rate": 38.5,
-  "grad_rate_rank": 1285,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "grad_rate": 39.4,
+  "grad_rate_rank": 1269,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 12851,
+  "avg_stu_loan_debt_rank": 351,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70310",
+  "email": true
 }

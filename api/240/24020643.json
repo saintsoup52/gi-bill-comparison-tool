@@ -1,6 +1,6 @@
 {
   "facility_code": "24020643",
-  "institution": "WADE COLLEGE",
+  "institution": "Wade College",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 226879,
-  "grad_rate": 54.9,
-  "grad_rate_rank": 175,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1401,
-  "indicator_group": 2
+  "grad_rate": 50.0,
+  "grad_rate_rank": 263,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 17707,
+  "avg_stu_loan_debt_rank": 1116,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75207",
+  "email": false
 }

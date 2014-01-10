@@ -1,6 +1,6 @@
 {
   "facility_code": "14931530",
-  "institution": "BROOKDALE COMMUNITY COLLEGE BUSINESS AND COMMUNITY DEVELOPMENT DIVISION",
+  "institution": "Brookdale Community College Business And Community Development Division",
   "city": "Lincroft",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 183859,
-  "grad_rate": 20.3,
-  "grad_rate_rank": 848,
-  "default_rate": 17.3,
-  "avg_stu_loan_debt": 6250,
-  "avg_stu_loan_debt_rank": 466,
-  "indicator_group": 2
+  "grad_rate": 22.0,
+  "grad_rate_rank": 883,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 7095,
+  "avg_stu_loan_debt_rank": 465,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "7738",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25047536",
-  "institution": "PONCA CITY BEAUTY COLLEGE",
+  "institution": "Ponca City Beauty College",
   "city": "Ponca City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 245980,
-  "grad_rate": 81.0,
-  "grad_rate_rank": 600,
+  "grad_rate": 73.7,
+  "grad_rate_rank": 994,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3325,
-  "avg_stu_loan_debt_rank": 575,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74601",
+  "email": false
 }

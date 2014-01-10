@@ -1,10 +1,10 @@
 {
   "facility_code": "31100986",
-  "institution": "UNIV OF SCIENCE ARTS & TECH",
+  "institution": "Univ Of Science Arts & Tech",
   "city": "Olveston",
   "state": "Montserrat",
   "country": "Montserrat",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 11,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

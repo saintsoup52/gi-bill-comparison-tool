@@ -1,6 +1,6 @@
 {
   "facility_code": "31001212",
-  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV-MTN HOME AFB",
+  "institution": "Embry-Riddle Aeronautical Univ-Mtn Home Afb",
   "city": "Mtn Home Afb",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83648",
+  "email": false
 }

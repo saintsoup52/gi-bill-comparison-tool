@@ -1,6 +1,6 @@
 {
   "facility_code": "11008711",
-  "institution": "GEORGIA INSTITUTE OF TECHNOLOGY",
+  "institution": "Georgia Institute Of Technology",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 231,
   "cross": 139755,
-  "grad_rate": 78.9,
-  "grad_rate_rank": 172,
-  "default_rate": 2.0,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 79.3,
+  "grad_rate_rank": 170,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 24286,
+  "avg_stu_loan_debt_rank": 1668,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30332",
+  "email": true
 }

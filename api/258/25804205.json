@@ -1,6 +1,6 @@
 {
   "facility_code": "25804205",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY (ONTARIO)",
+  "institution": "Marinello Schools Of Beauty (Ontario)",
   "city": "Ontario",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 118356,
-  "grad_rate": 52.1,
-  "grad_rate_rank": 1864,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 7982,
-  "avg_stu_loan_debt_rank": 1365,
-  "indicator_group": 5
+  "grad_rate": 53.0,
+  "grad_rate_rank": 1863,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 8744,
+  "avg_stu_loan_debt_rank": 946,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91762",
+  "email": true
 }

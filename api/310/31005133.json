@@ -1,6 +1,6 @@
 {
   "facility_code": "31005133",
-  "institution": "BELMONT ABBEY COLLEGE",
+  "institution": "Belmont Abbey College",
   "city": "Belmont",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 74,
   "cross": 197984,
-  "grad_rate": 37.5,
-  "grad_rate_rank": 1310,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 42.7,
+  "grad_rate_rank": 1153,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 23250,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28012",
+  "email": true
 }

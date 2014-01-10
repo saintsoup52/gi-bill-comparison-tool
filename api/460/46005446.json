@@ -1,6 +1,6 @@
 {
   "facility_code": "46005446",
-  "institution": "TECH 2000 INC",
+  "institution": "Tech 2000 Inc",
   "city": "Herndon",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20170",
+  "email": true
 }

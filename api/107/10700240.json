@@ -1,6 +1,6 @@
 {
   "facility_code": "10700240",
-  "institution": "DJJ - COASTAL EVALUATION CENTER",
+  "institution": "Djj - Coastal Evaluation Center",
   "city": "Ridgeville",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29472",
+  "email": true
 }

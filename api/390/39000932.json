@@ -1,6 +1,6 @@
 {
   "facility_code": "39000932",
-  "institution": "NEW ALTERNATIVES FOR CHILDREN INC",
+  "institution": "New Alternatives For Children Inc",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10010",
+  "email": false
 }

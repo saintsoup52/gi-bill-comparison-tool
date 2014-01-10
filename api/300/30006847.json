@@ -1,6 +1,6 @@
 {
   "facility_code": "30006847",
-  "institution": "PACIFIC NW IRONWORKERS APP (LOCAL 505)",
+  "institution": "Pacific Nw Ironworkers App (Local 505)",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98225",
+  "email": false
 }

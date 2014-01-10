@@ -1,6 +1,6 @@
 {
   "facility_code": "31001337",
-  "institution": "NORTHWEST CHRISTIAN UNIVERSITY",
+  "institution": "Northwest Christian University",
   "city": "Eugene",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 56,
   "cross": 209409,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 5.4,
-  "avg_stu_loan_debt": 18469,
-  "avg_stu_loan_debt_rank": 1134,
-  "indicator_group": 1
+  "grad_rate": 39.4,
+  "grad_rate_rank": 1269,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 20834,
+  "avg_stu_loan_debt_rank": 1295,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97401",
+  "email": true
 }

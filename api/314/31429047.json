@@ -1,6 +1,6 @@
 {
   "facility_code": "31429047",
-  "institution": "SAINT MARTINS UNIVERSITY",
+  "institution": "Saint Martins University",
   "city": "Lacey",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 398,
   "cross": 236452,
-  "grad_rate": 48.3,
-  "grad_rate_rank": 950,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 19839,
-  "avg_stu_loan_debt_rank": 1378,
-  "indicator_group": 1
+  "grad_rate": 54.3,
+  "grad_rate_rank": 765,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 20791,
+  "avg_stu_loan_debt_rank": 1290,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98503",
+  "email": true
 }

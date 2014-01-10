@@ -1,6 +1,6 @@
 {
   "facility_code": "25547135",
-  "institution": "CREATIVE IMAGES INSTITUTE OF COSMETOLOGY - POE",
+  "institution": "Creative Images Institute Of Cosmetology - Poe",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 434830,
-  "grad_rate": 56.8,
-  "grad_rate_rank": 1724,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 7006,
-  "avg_stu_loan_debt_rank": 1144,
-  "indicator_group": 5
+  "grad_rate": 61.5,
+  "grad_rate_rank": 1573,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 8600,
+  "avg_stu_loan_debt_rank": 914,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45414",
+  "email": true
 }

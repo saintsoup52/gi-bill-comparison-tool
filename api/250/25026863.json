@@ -1,18 +1,21 @@
 {
   "facility_code": "25026863",
-  "institution": "**CH 31 ONLY**EMMA'S BEAUTY ACADEMY",
+  "institution": "**Ch 31 Only**Emma'S Beauty Academy",
   "city": "Mayaguez",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1725,
   "poe": null,
   "yr": null,
   "gibill": null,
   "cross": 241906,
-  "grad_rate": 71.0,
-  "grad_rate_rank": 1131,
+  "grad_rate": 73.0,
+  "grad_rate_rank": 1030,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "680",
+  "email": false
 }

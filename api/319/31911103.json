@@ -1,6 +1,6 @@
 {
   "facility_code": "31911103",
-  "institution": "GOLDEN GATE BAPTIST THEOLOGICAL SEMINARY",
+  "institution": "Golden Gate Baptist Theological Seminary",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85257",
+  "email": true
 }

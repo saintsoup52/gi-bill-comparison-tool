@@ -1,6 +1,6 @@
 {
   "facility_code": "25450510",
-  "institution": "AMERICAN INSTITUTE OF BEAUTY",
+  "institution": "American Institute Of Beauty",
   "city": "Largo",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447883,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 1815,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": 9750,
-  "avg_stu_loan_debt_rank": 2110,
-  "indicator_group": 5
+  "grad_rate": 44.4,
+  "grad_rate_rank": 2040,
+  "default_rate": 19.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33771",
+  "email": true
 }

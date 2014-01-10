@@ -1,6 +1,6 @@
 {
   "facility_code": "14949640",
-  "institution": "VETERANS UPWARD BOUND AT TRIDENT TECHNICAL COLLEGE  (CH 31 ONLY)",
+  "institution": "Veterans Upward Bound At Trident Technical College  (Ch 31 Only)",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29423",
+  "email": false
 }

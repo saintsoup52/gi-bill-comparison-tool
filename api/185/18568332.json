@@ -1,6 +1,6 @@
 {
   "facility_code": "18568332",
-  "institution": "OTSEGO COUNTY LAW ENFORCEMENT ACADEMY",
+  "institution": "Otsego County Law Enforcement Academy",
   "city": "Oneonta",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13820",
+  "email": true
 }

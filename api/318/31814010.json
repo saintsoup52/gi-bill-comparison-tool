@@ -1,6 +1,6 @@
 {
   "facility_code": "31814010",
-  "institution": "ST THOMAS UNIVERSITY",
+  "institution": "St Thomas University",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 137476,
-  "grad_rate": 38.7,
-  "grad_rate_rank": 1278,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 15006,
-  "avg_stu_loan_debt_rank": 744,
-  "indicator_group": 1
+  "grad_rate": 32.2,
+  "grad_rate_rank": 1470,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 14475,
+  "avg_stu_loan_debt_rank": 483,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33054",
+  "email": true
 }

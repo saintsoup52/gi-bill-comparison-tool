@@ -1,6 +1,6 @@
 {
   "facility_code": "15531735",
-  "institution": "EHOVE CAREER CENTER",
+  "institution": "Ehove Career Center",
   "city": "Milan",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 202657,
-  "grad_rate": 82.8,
-  "grad_rate_rank": 511,
-  "default_rate": 13.6,
-  "avg_stu_loan_debt": 6802,
-  "avg_stu_loan_debt_rank": 1106,
-  "indicator_group": 5
+  "grad_rate": 77.7,
+  "grad_rate_rank": 783,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 8444,
+  "avg_stu_loan_debt_rank": 888,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44846",
+  "email": true
 }

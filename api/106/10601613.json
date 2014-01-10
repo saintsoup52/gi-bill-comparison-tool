@@ -1,6 +1,6 @@
 {
   "facility_code": "10601613",
-  "institution": "MT CARMEL POLICE DEPARTMENT",
+  "institution": "Mt Carmel Police Department",
   "city": "Mt Carmel",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62863",
+  "email": false
 }

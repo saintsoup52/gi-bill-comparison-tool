@@ -1,6 +1,6 @@
 {
   "facility_code": "18507432",
-  "institution": "BOCES WESTERN SUFFOLK LA WILSON TECHNICAL CENTER",
+  "institution": "Boces Western Suffolk La Wilson Technical Center",
   "city": "Dix Hills",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 420468,
-  "grad_rate": 78.8,
-  "grad_rate_rank": 712,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 8992,
-  "avg_stu_loan_debt_rank": 1567,
-  "indicator_group": 5
+  "grad_rate": 78.0,
+  "grad_rate_rank": 756,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 7194,
+  "avg_stu_loan_debt_rank": 661,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11746",
+  "email": true
 }

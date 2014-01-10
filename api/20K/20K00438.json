@@ -1,6 +1,6 @@
 {
   "facility_code": "20K00438",
-  "institution": "GROFF'S HEATING AIR CONDITIONING & PLUMBING",
+  "institution": "Groff'S Heating Air Conditioning & Plumbing",
   "city": "Willow Street",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17584",
+  "email": true
 }

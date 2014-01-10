@@ -1,6 +1,6 @@
 {
   "facility_code": "31010449",
-  "institution": "NORTHLAND INTERNATIONAL UNIVERSITY",
+  "institution": "Northland International University",
   "city": "Dunbar",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 239503,
-  "grad_rate": 49.7,
-  "grad_rate_rank": 900,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 7800,
-  "avg_stu_loan_debt_rank": 170,
-  "indicator_group": 1
+  "grad_rate": 58.3,
+  "grad_rate_rank": 619,
+  "default_rate": 1.0,
+  "avg_stu_loan_debt": 8187,
+  "avg_stu_loan_debt_rank": 104,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "54119",
+  "email": false
 }

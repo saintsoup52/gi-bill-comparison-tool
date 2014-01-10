@@ -1,6 +1,6 @@
 {
   "facility_code": "14906146",
-  "institution": "CENTRAL VIRGINIA COMMUNITY COLLEGE",
+  "institution": "Central Virginia Community College",
   "city": "Lynchburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 200,
   "cross": 231697,
-  "grad_rate": 20.1,
-  "grad_rate_rank": 437,
+  "grad_rate": 23.7,
+  "grad_rate_rank": 602,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 2625,
-  "avg_stu_loan_debt_rank": 100,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 2500,
+  "avg_stu_loan_debt_rank": 7,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "24502",
+  "email": false
 }

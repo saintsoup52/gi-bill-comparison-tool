@@ -1,6 +1,6 @@
 {
   "facility_code": "14006335",
-  "institution": "SHAWNEE STATE UNIVERSITY",
+  "institution": "Shawnee State University",
   "city": "Portsmouth",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 162,
   "cross": 205443,
-  "grad_rate": 22.1,
-  "grad_rate_rank": 1639,
-  "default_rate": 17.5,
-  "avg_stu_loan_debt": 10950,
-  "avg_stu_loan_debt_rank": 297,
-  "indicator_group": 1
+  "grad_rate": 20.0,
+  "grad_rate_rank": 1709,
+  "default_rate": 21.2,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45662",
+  "email": false
 }

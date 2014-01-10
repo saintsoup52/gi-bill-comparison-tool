@@ -1,6 +1,6 @@
 {
   "facility_code": "10534317",
-  "institution": "PERRY COUNTY SHERIFF'S DEPARTMENT",
+  "institution": "Perry County Sheriff'S Department",
   "city": "Hazard",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40701",
+  "email": false
 }

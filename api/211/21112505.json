@@ -1,6 +1,6 @@
 {
   "facility_code": "21112505",
-  "institution": "AMERICAN UNIVERSITY OF HEALTH SCIENCES",
+  "institution": "American University Of Health Sciences",
   "city": "Signal Hill",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 433004,
-  "grad_rate": 90.6,
-  "grad_rate_rank": 18,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 17600,
-  "avg_stu_loan_debt_rank": 806,
-  "indicator_group": 3
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 15771,
+  "avg_stu_loan_debt_rank": 608,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90755",
+  "email": true
 }

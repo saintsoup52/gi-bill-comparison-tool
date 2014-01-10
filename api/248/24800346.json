@@ -1,6 +1,6 @@
 {
   "facility_code": "24800346",
-  "institution": "CENTURA COLLEGE - NEWPORT NEWS",
+  "institution": "Centura College - Newport News",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 68,
   "cross": 377449,
-  "grad_rate": 70.0,
-  "grad_rate_rank": 71,
-  "default_rate": 35.0,
-  "avg_stu_loan_debt": 10312,
-  "avg_stu_loan_debt_rank": 871,
-  "indicator_group": 2
+  "grad_rate": 87.1,
+  "grad_rate_rank": 17,
+  "default_rate": 32.0,
+  "avg_stu_loan_debt": 12625,
+  "avg_stu_loan_debt_rank": 901,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "23608",
+  "email": false
 }

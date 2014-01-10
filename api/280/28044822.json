@@ -1,6 +1,6 @@
 {
   "facility_code": "28044822",
-  "institution": "FLINT INSTITUTE OF BARBERING",
+  "institution": "Flint Institute Of Barbering",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 169947,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 1655,
-  "default_rate": 44.4,
-  "avg_stu_loan_debt": 11538,
-  "avg_stu_loan_debt_rank": 2269,
-  "indicator_group": 5
+  "grad_rate": 62.8,
+  "grad_rate_rank": 1525,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 9129,
+  "avg_stu_loan_debt_rank": 1015,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48504",
+  "email": true
 }

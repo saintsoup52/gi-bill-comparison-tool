@@ -1,6 +1,6 @@
 {
   "facility_code": "15519025",
-  "institution": "SOUTH CENTRAL CAREER CENTER",
+  "institution": "South Central Career Center",
   "city": "West Plains",
   "state": "MO",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 5,
   "cross": 417637,
   "grad_rate": 92.6,
-  "grad_rate_rank": 192,
-  "default_rate": 35.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate_rank": 203,
+  "default_rate": 32.6,
+  "avg_stu_loan_debt": 5931,
+  "avg_stu_loan_debt_rank": 406,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65775",
+  "email": true
 }

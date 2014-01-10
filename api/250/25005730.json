@@ -1,6 +1,6 @@
 {
   "facility_code": "25005730",
-  "institution": "GOODWILL INDUSTRIES OF SOUTH JERSEY",
+  "institution": "Goodwill Industries Of South Jersey",
   "city": "Maple Shade",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8052",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35601864",
-  "institution": "HAWAII TECHNOLOGY INSTITUTE",
+  "institution": "Hawaii Technology Institute",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 444626,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
+  "grad_rate": null,
+  "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96813",
+  "email": false
 }

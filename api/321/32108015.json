@@ -1,6 +1,6 @@
 {
   "facility_code": "32108015",
-  "institution": "MERCY/ST.LUKES HOSPITAL SCHOOL OF RADIOLOGIC TECH",
+  "institution": "Mercy/St.Lukes Hospital School Of Radiologic Tech",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 366571,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 11325,
-  "avg_stu_loan_debt_rank": 2256,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 15967,
+  "avg_stu_loan_debt_rank": 1941,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52402",
+  "email": false
 }

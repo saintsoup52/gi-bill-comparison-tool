@@ -1,6 +1,6 @@
 {
   "facility_code": "21063210",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN AND TECHNOLOGY - ORLANDO",
+  "institution": "International Academy Of Design And Technology - Orlando",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 440925,
-  "grad_rate": 21.1,
-  "grad_rate_rank": 1655,
-  "default_rate": 26.9,
-  "avg_stu_loan_debt": 14826,
-  "avg_stu_loan_debt_rank": 706,
-  "indicator_group": 1
+  "grad_rate": 32.6,
+  "grad_rate_rank": 1459,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32809",
+  "email": true
 }

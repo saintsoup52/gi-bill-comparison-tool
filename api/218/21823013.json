@@ -1,6 +1,6 @@
 {
   "facility_code": "21823013",
-  "institution": "THE ILLINOIS INSTITUTE OF ART",
+  "institution": "The Illinois Institute Of Art",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 179,
   "cross": 148177,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 1475,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 19751,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 1
+  "grad_rate": 29.3,
+  "grad_rate_rank": 1548,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 19064,
+  "avg_stu_loan_debt_rank": 1085,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60654",
+  "email": true
 }

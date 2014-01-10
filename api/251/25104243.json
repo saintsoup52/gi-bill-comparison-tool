@@ -1,6 +1,6 @@
 {
   "facility_code": "25104243",
-  "institution": "FORT WORTH BEAUTY SCHOOL",
+  "institution": "Fort Worth Beauty School",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 224828,
-  "grad_rate": 52.4,
-  "grad_rate_rank": 1853,
-  "default_rate": 13.2,
-  "avg_stu_loan_debt": 2912,
-  "avg_stu_loan_debt_rank": 545,
-  "indicator_group": 5
+  "grad_rate": 46.9,
+  "grad_rate_rank": 2001,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "76116",
+  "email": false
 }

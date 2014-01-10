@@ -1,6 +1,6 @@
 {
   "facility_code": "13000346",
-  "institution": "LONGWOOD UNIVERSITY",
+  "institution": "Longwood University",
   "city": "Farmville",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 178,
   "cross": 232566,
-  "grad_rate": 60.3,
-  "grad_rate_rank": 555,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 20177,
-  "avg_stu_loan_debt_rank": 1452,
-  "indicator_group": 1
+  "grad_rate": 61.2,
+  "grad_rate_rank": 535,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23909",
+  "email": true
 }

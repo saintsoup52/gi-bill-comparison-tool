@@ -1,6 +1,6 @@
 {
   "facility_code": "13000345",
-  "institution": "LYNDON STATE COLLEGE",
+  "institution": "Lyndon State College",
   "city": "Lyndonville",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 55,
   "cross": 230931,
-  "grad_rate": 31.4,
-  "grad_rate_rank": 1461,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 17107,
-  "avg_stu_loan_debt_rank": 962,
-  "indicator_group": 1
+  "grad_rate": 29.9,
+  "grad_rate_rank": 1536,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 17578,
+  "avg_stu_loan_debt_rank": 870,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "5851",
+  "email": false
 }

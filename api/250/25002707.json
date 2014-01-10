@@ -1,6 +1,6 @@
 {
   "facility_code": "25002707",
-  "institution": "NEW ENGLAND TRACTOR TRAILER TRAINING SCHOOL OF CT - BRIDGEPORT",
+  "institution": "New England Tractor Trailer Training School Of Ct - Bridgeport",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 129932,
-  "grad_rate": 74.7,
-  "grad_rate_rank": 945,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 5185,
-  "avg_stu_loan_debt_rank": 812,
-  "indicator_group": 5
+  "grad_rate": 74.2,
+  "grad_rate_rank": 967,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 5395,
+  "avg_stu_loan_debt_rank": 298,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6608",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11844235",
-  "institution": "WRIGHT STATE UNIVERSITY LAKE CAMPUS",
+  "institution": "Wright State University Lake Campus",
   "city": "Celina",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 206613,
-  "grad_rate": 52.8,
-  "grad_rate_rank": 195,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 14702,
-  "avg_stu_loan_debt_rank": 1113,
-  "indicator_group": 2
+  "grad_rate": 46.7,
+  "grad_rate_rank": 310,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45822",
+  "email": true
 }

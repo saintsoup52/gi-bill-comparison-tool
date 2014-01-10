@@ -1,6 +1,6 @@
 {
   "facility_code": "25830305",
-  "institution": "COMPUTER TRAINERS  (CHAPTER 31 ONLY)",
+  "institution": "Computer Trainers  (Chapter 31 Only)",
   "city": "Santa Cruz",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95060",
+  "email": false
 }

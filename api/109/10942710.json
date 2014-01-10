@@ -1,6 +1,6 @@
 {
   "facility_code": "10942710",
-  "institution": "PASCO SCHOOLS CHILD CARE APPRENTICESHIP PROGRAM IJW",
+  "institution": "Pasco Schools Child Care Apprenticeship Program Ijw",
   "city": "Land O' Lakes",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34639",
+  "email": false
 }

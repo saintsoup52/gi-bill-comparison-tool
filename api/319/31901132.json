@@ -1,6 +1,6 @@
 {
   "facility_code": "31901132",
-  "institution": "THE JUILLIARD SCHOOL",
+  "institution": "The Juilliard School",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 192110,
-  "grad_rate": 92.7,
-  "grad_rate_rank": 34,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 90.7,
+  "grad_rate_rank": 51,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10023",
+  "email": true
 }

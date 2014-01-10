@@ -1,6 +1,6 @@
 {
   "facility_code": "30429148",
-  "institution": "WEST VIRGINIA CONSTRUCTION CRAFT LABORERS",
+  "institution": "West Virginia Construction Craft Laborers",
   "city": "Mineral Wells",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "26150",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15031406",
-  "institution": "VETERANS UPWARD BOUND - PUEBLO COMMUNITY COLLEGE",
+  "institution": "Veterans Upward Bound - Pueblo Community College",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "81004",
+  "email": true
 }

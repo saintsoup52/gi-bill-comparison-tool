@@ -1,6 +1,6 @@
 {
   "facility_code": "20037840",
-  "institution": "CARPENTERS AND MILLWRIGHT LOCAL UNION 1778",
+  "institution": "Carpenters And Millwright Local Union 1778",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29203",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31996132",
-  "institution": "ST THOMAS AQUINAS COLLEGE",
+  "institution": "St Thomas Aquinas College",
   "city": "Sparkill",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 195243,
-  "grad_rate": 57.8,
-  "grad_rate_rank": 624,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "grad_rate": 48.6,
+  "grad_rate_rank": 944,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 24775,
+  "avg_stu_loan_debt_rank": 1705,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10976",
+  "email": true
 }

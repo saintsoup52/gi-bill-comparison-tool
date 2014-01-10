@@ -1,6 +1,6 @@
 {
   "facility_code": "31002721",
-  "institution": "WELLESLEY COLLEGE",
+  "institution": "Wellesley College",
   "city": "Wellesley",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 168218,
-  "grad_rate": 91.9,
-  "grad_rate_rank": 39,
-  "default_rate": 1.8,
-  "avg_stu_loan_debt": 11125,
-  "avg_stu_loan_debt_rank": 317,
-  "indicator_group": 1
+  "grad_rate": 92.5,
+  "grad_rate_rank": 36,
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 11350,
+  "avg_stu_loan_debt_rank": 246,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2481",
+  "email": true
 }

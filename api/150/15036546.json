@@ -1,6 +1,6 @@
 {
   "facility_code": "15036546",
-  "institution": "RANDOLPH-HENRY HIGH SCHOOL",
+  "institution": "Randolph-Henry High School",
   "city": "Charlotte Ct House",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23923",
+  "email": false
 }

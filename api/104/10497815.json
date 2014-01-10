@@ -1,6 +1,6 @@
 {
   "facility_code": "10497815",
-  "institution": "IOWA HEALTH DES MOINES SCHOOL OF RADIOLOGY TECHNOLOGY",
+  "institution": "Iowa Health Des Moines School Of Radiology Technology",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50309",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31966125",
-  "institution": "MARYVILLE UNIVERSITY OF ST. LOUIS",
+  "institution": "Maryville University Of St. Louis",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 91,
   "cross": 178059,
-  "grad_rate": 68.3,
-  "grad_rate_rank": 340,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 22430,
-  "avg_stu_loan_debt_rank": 1697,
-  "indicator_group": 1
+  "grad_rate": 70.0,
+  "grad_rate_rank": 313,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 21975,
+  "avg_stu_loan_debt_rank": 1413,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63141",
+  "email": false
 }

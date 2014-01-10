@@ -1,6 +1,6 @@
 {
   "facility_code": "15020935",
-  "institution": "HANNAH E. MULLINS SCHOOL OF PRACTICAL NURSING",
+  "institution": "Hannah E. Mullins School Of Practical Nursing",
   "city": "Salem",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 202985,
-  "grad_rate": 54.4,
-  "grad_rate_rank": 1798,
-  "default_rate": 16.3,
+  "grad_rate": 62.5,
+  "grad_rate_rank": 1533,
+  "default_rate": 15.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44460",
+  "email": true
 }

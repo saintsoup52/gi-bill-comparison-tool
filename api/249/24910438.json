@@ -1,6 +1,6 @@
 {
   "facility_code": "24910438",
-  "institution": "TRIANGLE TECH INC (ERIE)",
+  "institution": "Triangle Tech Inc (Erie)",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 216427,
-  "grad_rate": 64.0,
-  "grad_rate_rank": 102,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 17388,
-  "avg_stu_loan_debt_rank": 1345,
-  "indicator_group": 2
+  "grad_rate": 69.7,
+  "grad_rate_rank": 94,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 17242,
+  "avg_stu_loan_debt_rank": 1107,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16502",
+  "email": false
 }

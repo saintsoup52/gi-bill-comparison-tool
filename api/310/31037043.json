@@ -1,6 +1,6 @@
 {
   "facility_code": "31037043",
-  "institution": "BAPTIST UNIVERSITY OF THE AMERICAS",
+  "institution": "Baptist University Of The Americas",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 444398,
-  "grad_rate": 10.3,
-  "grad_rate_rank": 1777,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 104,
-  "indicator_group": 1
+  "grad_rate": 15.4,
+  "grad_rate_rank": 1773,
+  "default_rate": 31.5,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 29,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78224",
+  "email": false
 }

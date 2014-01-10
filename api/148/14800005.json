@@ -1,6 +1,6 @@
 {
   "facility_code": "14800005",
-  "institution": "COLLEGE OF THE DESERT",
+  "institution": "College Of The Desert",
   "city": "Palm Desert",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 292,
   "cross": 113573,
-  "grad_rate": 19.3,
-  "grad_rate_rank": 882,
-  "default_rate": 25.3,
-  "avg_stu_loan_debt": 4825,
-  "avg_stu_loan_debt_rank": 257,
-  "indicator_group": 2
+  "grad_rate": 21.1,
+  "grad_rate_rank": 906,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92260",
+  "email": false
 }

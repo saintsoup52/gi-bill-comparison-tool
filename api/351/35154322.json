@@ -1,6 +1,6 @@
 {
   "facility_code": "35154322",
-  "institution": "GOODWILL INDUSTRIES OF GREATER GRAND RAPIDS",
+  "institution": "Goodwill Industries Of Greater Grand Rapids",
   "city": "Grandville",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49418",
+  "email": "No (SCO)"
 }

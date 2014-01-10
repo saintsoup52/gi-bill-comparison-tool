@@ -1,6 +1,6 @@
 {
   "facility_code": "14991405",
-  "institution": "WEST HILLS COMMUNITY COLLEGE",
+  "institution": "West Hills Community College",
   "city": "Lemoore",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 242,
   "cross": 448594,
-  "grad_rate": 20.2,
-  "grad_rate_rank": 850,
-  "default_rate": 27.9,
-  "avg_stu_loan_debt": 5050,
-  "avg_stu_loan_debt_rank": 278,
-  "indicator_group": 2
+  "grad_rate": 19.2,
+  "grad_rate_rank": 963,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 4999,
+  "avg_stu_loan_debt_rank": 162,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93245",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "249B8410",
-  "institution": "COLLEGE OF BUSINESS AND TECHNOLOGY-HIALEAH",
+  "institution": "College Of Business And Technology-Hialeah",
   "city": "Hialeah",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 449092,
-  "grad_rate": 99.3,
-  "grad_rate_rank": 8,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 285,
-  "indicator_group": 3
+  "grad_rate": 85.3,
+  "grad_rate_rank": 34,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 7400,
+  "avg_stu_loan_debt_rank": 209,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33012",
+  "email": true
 }

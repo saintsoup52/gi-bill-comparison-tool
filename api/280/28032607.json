@@ -1,6 +1,6 @@
 {
   "facility_code": "28032607",
-  "institution": "MARINELLO SCHOOL OF BEAUTY - HAMDEN",
+  "institution": "Marinello School Of Beauty - Hamden",
   "city": "Hamden",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 130129,
-  "grad_rate": 76.0,
-  "grad_rate_rank": 863,
-  "default_rate": 26.9,
-  "avg_stu_loan_debt": 8132,
-  "avg_stu_loan_debt_rank": 1409,
-  "indicator_group": 5
+  "grad_rate": 52.9,
+  "grad_rate_rank": 1866,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 8500,
+  "avg_stu_loan_debt_rank": 898,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6514",
+  "email": true
 }

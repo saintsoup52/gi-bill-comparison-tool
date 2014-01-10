@@ -1,6 +1,6 @@
 {
   "facility_code": "25259610",
-  "institution": "PRECISION AVIATION TRAINING (CHPT 31 ONLY)",
+  "institution": "Precision Aviation Training (Chpt 31 Only)",
   "city": "Panama City",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32405",
+  "email": false
 }

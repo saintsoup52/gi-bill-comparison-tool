@@ -1,6 +1,6 @@
 {
   "facility_code": "14926438",
-  "institution": "LEHIGH CARBON COMMUNITY COLLEGE",
+  "institution": "Lehigh Carbon Community College",
   "city": "Schnecksville",
   "state": "PA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 213,
   "cross": 213525,
   "grad_rate": 13.8,
-  "grad_rate_rank": 1071,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 5850,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 2
+  "grad_rate_rank": 1166,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 5846,
+  "avg_stu_loan_debt_rank": 316,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "18078",
+  "email": true
 }

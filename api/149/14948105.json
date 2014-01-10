@@ -1,6 +1,6 @@
 {
   "facility_code": "14948105",
-  "institution": "CUESTA COLLEGE",
+  "institution": "Cuesta College",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 248,
   "cross": 113193,
-  "grad_rate": 31.1,
-  "grad_rate_rank": 500,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 6166,
-  "avg_stu_loan_debt_rank": 458,
-  "indicator_group": 2
+  "grad_rate": 30.7,
+  "grad_rate_rank": 618,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93403",
+  "email": false
 }

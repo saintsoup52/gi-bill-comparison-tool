@@ -1,6 +1,6 @@
 {
   "facility_code": "21916411",
-  "institution": "HERZING UNIVERSITY",
+  "institution": "Herzing University",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 75,
   "cross": 140340,
-  "grad_rate": 16.7,
-  "grad_rate_rank": 1710,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 11399,
-  "avg_stu_loan_debt_rank": 325,
-  "indicator_group": 1
+  "grad_rate": 18.8,
+  "grad_rate_rank": 1730,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 15162,
+  "avg_stu_loan_debt_rank": 562,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30326",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10P32238",
-  "institution": "PENNSYLVANIA STATE POLICE HAZELTON TROOP N",
+  "institution": "Pennsylvania State Police Hazelton Troop N",
   "city": "West Hazelton",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18201",
+  "email": true
 }

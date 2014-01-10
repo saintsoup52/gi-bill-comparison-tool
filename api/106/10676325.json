@@ -1,6 +1,6 @@
 {
   "facility_code": "10676325",
-  "institution": "MISSOURI ARMY NATIONAL GUARD-DET 1 CO C 1/138TH IN",
+  "institution": "Missouri Army National Guard-Det 1 Co C 1/138th In",
   "city": "Perryville",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63775",
+  "email": true
 }

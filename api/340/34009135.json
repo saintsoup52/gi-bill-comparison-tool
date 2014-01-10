@@ -1,6 +1,6 @@
 {
   "facility_code": "34009135",
-  "institution": "KETTERING COLLEGE OF MEDICAL ARTS",
+  "institution": "Kettering College Of Medical Arts",
   "city": "Kettering",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 203544,
-  "grad_rate": 56.7,
-  "grad_rate_rank": 161,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 18993,
-  "avg_stu_loan_debt_rank": 1378,
-  "indicator_group": 2
+  "grad_rate": 56.9,
+  "grad_rate_rank": 201,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 21250,
+  "avg_stu_loan_debt_rank": 1241,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45429",
+  "email": true
 }

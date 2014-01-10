@@ -1,6 +1,6 @@
 {
   "facility_code": "249B0410",
-  "institution": "KEY COLLEGE",
+  "institution": "Key College",
   "city": "Dania Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 134422,
-  "grad_rate": 30.0,
-  "grad_rate_rank": 533,
-  "default_rate": 17.3,
-  "avg_stu_loan_debt": 14232,
-  "avg_stu_loan_debt_rank": 1096,
-  "indicator_group": 2
+  "grad_rate": 40.0,
+  "grad_rate_rank": 410,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 13750,
+  "avg_stu_loan_debt_rank": 937,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33004",
+  "email": true
 }

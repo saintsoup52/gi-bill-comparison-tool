@@ -1,6 +1,6 @@
 {
   "facility_code": "25100843",
-  "institution": "TX BARBER COLL AND HAIRSTYLING SCH NUMBER 4",
+  "institution": "Tx Barber Coll And Hairstyling Sch Number 4",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 440989,
-  "grad_rate": 44.3,
-  "grad_rate_rank": 2025,
-  "default_rate": 27.5,
+  "grad_rate": 41.3,
+  "grad_rate_rank": 2086,
+  "default_rate": 26.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77063",
+  "email": false
 }

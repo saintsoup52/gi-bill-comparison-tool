@@ -1,6 +1,6 @@
 {
   "facility_code": "24955442",
-  "institution": "KAPLAN CAREER INSTITUTE - NASHVILLE",
+  "institution": "Kaplan Career Institute - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 246202,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 20.5,
+  "grad_rate": 64.0,
+  "grad_rate_rank": 251,
+  "default_rate": 24.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "37217",
+  "email": false
 }

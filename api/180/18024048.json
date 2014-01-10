@@ -1,6 +1,6 @@
 {
   "facility_code": "18024048",
-  "institution": "SOUTH BRANCH VOCATIONAL CENTER",
+  "institution": "South Branch Vocational Center",
   "city": "Petersburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 441894,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26847",
+  "email": true
 }

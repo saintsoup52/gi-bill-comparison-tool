@@ -1,6 +1,6 @@
 {
   "facility_code": "20202519",
-  "institution": "WASHBURN & DOUGHTY",
+  "institution": "Washburn & Doughty",
   "city": "East Boothbay",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4544",
+  "email": false
 }

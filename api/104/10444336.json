@@ -1,6 +1,6 @@
 {
   "facility_code": "10444336",
-  "institution": "OKLAHOMA HIGHWAY PATROL TROOP B",
+  "institution": "Oklahoma Highway Patrol Troop B",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74129",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14933406",
-  "institution": "ARAPAHOE COMMUNITY COLLEGE",
+  "institution": "Arapahoe Community College",
   "city": "Littleton",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 424,
   "cross": 126289,
-  "grad_rate": 19.0,
-  "grad_rate_rank": 451,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 5254,
-  "avg_stu_loan_debt_rank": 191,
-  "indicator_group": 3
+  "grad_rate": 17.3,
+  "grad_rate_rank": 661,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 5222,
+  "avg_stu_loan_debt_rank": 104,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80160",
+  "email": true
 }

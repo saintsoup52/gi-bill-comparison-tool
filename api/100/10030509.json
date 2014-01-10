@@ -1,6 +1,6 @@
 {
   "facility_code": "10030509",
-  "institution": "OFFICE OF PERSONNEL MANAGEMENT",
+  "institution": "Office Of Personnel Management",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20415",
+  "email": false
 }

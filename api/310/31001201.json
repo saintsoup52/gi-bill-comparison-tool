@@ -1,6 +1,6 @@
 {
   "facility_code": "31001201",
-  "institution": "TALLADEGA COLLEGE",
+  "institution": "Talladega College",
   "city": "Talladega",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 30,
   "cross": 102298,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 1669,
-  "default_rate": 27.6,
-  "avg_stu_loan_debt": 14250,
-  "avg_stu_loan_debt_rank": 655,
-  "indicator_group": 1
+  "grad_rate": 25.3,
+  "grad_rate_rank": 1624,
+  "default_rate": 36.7,
+  "avg_stu_loan_debt": 14761,
+  "avg_stu_loan_debt_rank": 514,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35160",
+  "email": true
 }

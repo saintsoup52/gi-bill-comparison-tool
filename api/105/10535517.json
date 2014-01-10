@@ -1,6 +1,6 @@
 {
   "facility_code": "10535517",
-  "institution": "ELSMERE POLICE DEPARTMENT",
+  "institution": "Elsmere Police Department",
   "city": "Elsmere",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41018",
+  "email": true
 }

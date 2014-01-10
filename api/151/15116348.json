@@ -1,6 +1,6 @@
 {
   "facility_code": "15116348",
-  "institution": "WAYNE COUNTY ADULT BASIC EDUCATION",
+  "institution": "Wayne County Adult Basic Education",
   "city": "Wayne",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25570",
+  "email": false
 }

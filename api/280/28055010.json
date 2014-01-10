@@ -1,6 +1,6 @@
 {
   "facility_code": "28055010",
-  "institution": "SHEFFIELD SCHOOL OF AERONAUTICS",
+  "institution": "Sheffield School Of Aeronautics",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33317",
+  "email": false
 }

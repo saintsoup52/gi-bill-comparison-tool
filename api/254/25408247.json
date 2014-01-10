@@ -1,6 +1,6 @@
 {
   "facility_code": "25408247",
-  "institution": "INTERNATIONAL AIR ACADEMY (CH31)",
+  "institution": "International Air Academy (Ch31)",
   "city": "Kent",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 235501,
-  "grad_rate": 85.8,
-  "grad_rate_rank": 397,
-  "default_rate": 21.9,
+  "grad_rate": 84.2,
+  "grad_rate_rank": 462,
+  "default_rate": 21.2,
   "avg_stu_loan_debt": 7600,
-  "avg_stu_loan_debt_rank": 1260,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 738,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98032",
+  "email": false
 }

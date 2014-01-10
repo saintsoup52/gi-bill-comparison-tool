@@ -1,6 +1,6 @@
 {
   "facility_code": "10436947",
-  "institution": "GRANT COUNTY SHERIFF'S OFFICE",
+  "institution": "Grant County Sheriff'S Office",
   "city": "Ephrata",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98823",
+  "email": true
 }

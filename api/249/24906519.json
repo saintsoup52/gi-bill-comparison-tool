@@ -1,6 +1,6 @@
 {
   "facility_code": "24906519",
-  "institution": "KAPLAN UNIVERSITY - LEWISTON",
+  "institution": "Kaplan University - Lewiston",
   "city": "Lewiston",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 57,
   "cross": 160940,
-  "grad_rate": 17.8,
-  "grad_rate_rank": 939,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 2
+  "grad_rate": 28.8,
+  "grad_rate_rank": 662,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1230,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "4240",
+  "email": false
 }

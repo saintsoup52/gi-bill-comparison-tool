@@ -1,6 +1,6 @@
 {
   "facility_code": "31000948",
-  "institution": "WEST VIRGINIA  WESLEYAN COLLEGE",
+  "institution": "West Virginia  Wesleyan College",
   "city": "Buckhannon",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 30,
   "cross": 237969,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 692,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 14875,
-  "avg_stu_loan_debt_rank": 714,
-  "indicator_group": 1
+  "grad_rate": 58.4,
+  "grad_rate_rank": 614,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 17750,
+  "avg_stu_loan_debt_rank": 886,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26201",
+  "email": true
 }

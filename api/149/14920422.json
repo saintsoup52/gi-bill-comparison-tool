@@ -1,6 +1,6 @@
 {
   "facility_code": "14920422",
-  "institution": "ST CLAIR COUNTY COMMUNITY COLLEGE",
+  "institution": "St Clair County Community College",
   "city": "Port Huron",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 133,
   "cross": 172291,
-  "grad_rate": 15.5,
-  "grad_rate_rank": 1012,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 6119,
-  "avg_stu_loan_debt_rank": 454,
-  "indicator_group": 2
+  "grad_rate": 15.8,
+  "grad_rate_rank": 1083,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 5711,
+  "avg_stu_loan_debt_rank": 305,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48061",
+  "email": true
 }

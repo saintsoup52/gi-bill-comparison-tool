@@ -1,6 +1,6 @@
 {
   "facility_code": "28213215",
-  "institution": "LA JAMES INTERNATIONAL COLLEGE  CEDAR FALLS",
+  "institution": "La James International College  Cedar Falls",
   "city": "Cedar Falls",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 153746,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 652,
-  "default_rate": 1.2,
-  "avg_stu_loan_debt": 9621,
-  "avg_stu_loan_debt_rank": 2099,
-  "indicator_group": 5
+  "grad_rate": 67.8,
+  "grad_rate_rank": 1286,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50613",
+  "email": false
 }

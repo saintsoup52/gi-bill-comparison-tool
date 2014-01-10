@@ -1,6 +1,6 @@
 {
   "facility_code": "30004714",
-  "institution": "INDIANA UNIVERSITY-UNIVERSITY HOSPITAL-I.U. MEDICAL CENTER",
+  "institution": "Indiana University-University Hospital-I.U. Medical Center",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46202",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20162220",
-  "institution": "TAYLOR MASONRY CONTRACTOR INCORPORATED",
+  "institution": "Taylor Masonry Contractor Incorporated",
   "city": "Whiteplains",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20695",
+  "email": "No (SCO)"
 }

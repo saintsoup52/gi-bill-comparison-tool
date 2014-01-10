@@ -1,6 +1,6 @@
 {
   "facility_code": "25146722",
-  "institution": "HOUGHTON LAKE INSTITUTE OF COSMETOLOGY LLC",
+  "institution": "Houghton Lake Institute Of Cosmetology Llc",
   "city": "Houghton Lake",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 421665,
-  "grad_rate": 57.1,
-  "grad_rate_rank": 1700,
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49242",
+  "email": "No (SCO)"
 }

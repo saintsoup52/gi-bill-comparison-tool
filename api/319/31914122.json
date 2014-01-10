@@ -1,6 +1,6 @@
 {
   "facility_code": "31914122",
-  "institution": "CALVIN COLLEGE",
+  "institution": "Calvin College",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 32,
   "cross": 169080,
-  "grad_rate": 76.9,
-  "grad_rate_rank": 201,
-  "default_rate": 2.5,
+  "grad_rate": 77.0,
+  "grad_rate_rank": 204,
+  "default_rate": 2.9,
   "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49546",
+  "email": true
 }

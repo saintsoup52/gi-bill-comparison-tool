@@ -1,6 +1,6 @@
 {
   "facility_code": "31000520",
-  "institution": "MOUNT SAINT MARY'S SEMINARY",
+  "institution": "Mount Saint Mary'S Seminary",
   "city": "Emmitsburg",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 163462,
-  "grad_rate": 76.0,
-  "grad_rate_rank": 213,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 21627,
-  "avg_stu_loan_debt_rank": 1604,
-  "indicator_group": 1
+  "grad_rate": 66.7,
+  "grad_rate_rank": 382,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21727",
+  "email": false
 }

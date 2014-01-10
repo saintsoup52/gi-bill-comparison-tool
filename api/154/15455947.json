@@ -1,6 +1,6 @@
 {
   "facility_code": "15455947",
-  "institution": "GRAHAM-KAPOWSIN HIGH SCHOOL",
+  "institution": "Graham-Kapowsin High School",
   "city": "Graham",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98338",
+  "email": true
 }

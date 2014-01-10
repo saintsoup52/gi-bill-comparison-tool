@@ -1,6 +1,6 @@
 {
   "facility_code": "18815230",
-  "institution": "BERGEN COUNTY TECHNICAL INSTITUTE",
+  "institution": "Bergen County Technical Institute",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 183983,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 652,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 4828,
-  "avg_stu_loan_debt_rank": 778,
-  "indicator_group": 5
+  "grad_rate": 95.6,
+  "grad_rate_rank": 139,
+  "default_rate": 13.0,
+  "avg_stu_loan_debt": 4170,
+  "avg_stu_loan_debt_rank": 158,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7601",
+  "email": true
 }

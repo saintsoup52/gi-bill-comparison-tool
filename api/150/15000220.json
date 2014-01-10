@@ -1,6 +1,6 @@
 {
   "facility_code": "15000220",
-  "institution": "BALTIMORE COUNTY DEPARTMENT OF CORRECTIONS ACADEMY",
+  "institution": "Baltimore County Department Of Corrections Academy",
   "city": "Towson",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21204",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21801141",
-  "institution": "COLORADO TECHNICAL UNIVERSITY",
+  "institution": "Colorado Technical University",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 109,
   "cross": 402615,
-  "grad_rate": 29.4,
-  "grad_rate_rank": 554,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 12194,
-  "avg_stu_loan_debt_rank": 992,
-  "indicator_group": 2
+  "grad_rate": 23.1,
+  "grad_rate_rank": 1668,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 14666,
+  "avg_stu_loan_debt_rank": 503,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57108",
+  "email": true
 }

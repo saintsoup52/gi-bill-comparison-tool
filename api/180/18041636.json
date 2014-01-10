@@ -1,6 +1,6 @@
 {
   "facility_code": "18041636",
-  "institution": "TULSA TECHNOLOGY CENTER PEORIA CAMPUS",
+  "institution": "Tulsa Technology Center Peoria Campus",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 207607,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 443,
+  "grad_rate": 68.3,
+  "grad_rate_rank": 1263,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74106",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24850046",
-  "institution": "AVIATION INSTITUTE OF MAINTENANCE",
+  "institution": "Aviation Institute Of Maintenance",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 229,
   "cross": 427973,
-  "grad_rate": 47.2,
-  "grad_rate_rank": 218,
-  "default_rate": 42.3,
-  "avg_stu_loan_debt": 13082,
-  "avg_stu_loan_debt_rank": 752,
-  "indicator_group": 3
+  "grad_rate": 43.2,
+  "grad_rate_rank": 438,
+  "default_rate": 40.0,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 716,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23320",
+  "email": true
 }

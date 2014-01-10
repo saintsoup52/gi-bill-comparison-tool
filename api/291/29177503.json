@@ -1,6 +1,6 @@
 {
   "facility_code": "29177503",
-  "institution": "EASTER SEALS ARIZONA (CH31 ONLY)",
+  "institution": "Easter Seals Arizona (Ch31 Only)",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85282",
+  "email": false
 }

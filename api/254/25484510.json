@@ -1,6 +1,6 @@
 {
   "facility_code": "25484510",
-  "institution": "PAUL MITCHELL THE SCHOOL-TAMPA",
+  "institution": "Paul Mitchell The School-Tampa",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 449959,
-  "grad_rate": 77.4,
-  "grad_rate_rank": 795,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 11667,
-  "avg_stu_loan_debt_rank": 2278,
-  "indicator_group": 5
+  "grad_rate": 76.2,
+  "grad_rate_rank": 853,
+  "default_rate": 17.4,
+  "avg_stu_loan_debt": 13863,
+  "avg_stu_loan_debt_rank": 1887,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33613",
+  "email": true
 }

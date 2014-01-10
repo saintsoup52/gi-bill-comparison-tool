@@ -1,6 +1,6 @@
 {
   "facility_code": "15100705",
-  "institution": "CLOVIS ADULT EDUCATION",
+  "institution": "Clovis Adult Education",
   "city": "Clovis",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 112367,
-  "grad_rate": 63.9,
-  "grad_rate_rank": 1436,
+  "grad_rate": 57.0,
+  "grad_rate_rank": 1737,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93611",
+  "email": false
 }

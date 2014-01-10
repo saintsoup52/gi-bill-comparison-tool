@@ -1,6 +1,6 @@
 {
   "facility_code": "25002728",
-  "institution": "NATIONAL ACADEMY FOR CASINO DEALERS (CH31)",
+  "institution": "National Academy For Casino Dealers (Ch31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89104",
+  "email": false
 }

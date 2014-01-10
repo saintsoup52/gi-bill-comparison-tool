@@ -1,6 +1,6 @@
 {
   "facility_code": "15068236",
-  "institution": "CLASSEN HIGH SCHOOL OF ADVANCED STUDIES",
+  "institution": "Classen High School Of Advanced Studies",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73106",
+  "email": false
 }

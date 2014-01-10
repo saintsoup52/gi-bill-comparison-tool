@@ -1,6 +1,6 @@
 {
   "facility_code": "28022016",
-  "institution": "SCHOOL OF ADAPTIVE COMPUTER TRAINING  CH31",
+  "institution": "School Of Adaptive Computer Training  Ch31",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78208",
+  "email": false
 }

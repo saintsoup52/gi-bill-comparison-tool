@@ -1,6 +1,6 @@
 {
   "facility_code": "31831246",
-  "institution": "HAMPTON UNIV - COLLEGE OF ED CONTINUING STUDIES",
+  "institution": "Hampton Univ - College Of Ed Continuing Studies",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 232265,
-  "grad_rate": 54.9,
-  "grad_rate_rank": 712,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 29074,
-  "avg_stu_loan_debt_rank": 2034,
-  "indicator_group": 1
+  "grad_rate": 59.0,
+  "grad_rate_rank": 594,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 33402,
+  "avg_stu_loan_debt_rank": 1979,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23668",
+  "email": true
 }

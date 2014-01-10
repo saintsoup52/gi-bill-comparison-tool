@@ -1,6 +1,6 @@
 {
   "facility_code": "20227250",
-  "institution": "HOMESTEAD WORKS ELECTRICAL",
+  "institution": "Homestead Works Electrical",
   "city": "Newcastle",
   "state": "WY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "82701",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31712164",
-  "institution": "HAWAII PACIFIC UNIVERSITY",
+  "institution": "Hawaii Pacific University",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1731,
   "cross": 141644,
-  "grad_rate": 38.6,
-  "grad_rate_rank": 1281,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 20391,
-  "avg_stu_loan_debt_rank": 1467,
-  "indicator_group": 1
+  "grad_rate": 40.2,
+  "grad_rate_rank": 1243,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 20503,
+  "avg_stu_loan_debt_rank": 1268,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "96813",
+  "email": true
 }

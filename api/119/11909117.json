@@ -1,6 +1,6 @@
 {
   "facility_code": "11909117",
-  "institution": "WESTERN KENTUCKY UNIVERSITY",
+  "institution": "Western Kentucky University",
   "city": "Bowling Green",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 874,
   "cross": 157951,
-  "grad_rate": 49.7,
-  "grad_rate_rank": 900,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 16902,
-  "avg_stu_loan_debt_rank": 934,
-  "indicator_group": 1
+  "grad_rate": 49.6,
+  "grad_rate_rank": 916,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 17407,
+  "avg_stu_loan_debt_rank": 835,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "42101",
+  "email": false
 }

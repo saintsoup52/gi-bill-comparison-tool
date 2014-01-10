@@ -1,6 +1,6 @@
 {
   "facility_code": "21803120",
-  "institution": "UNIVERSITY OF PHOENIX TIMONIUM (CH31)",
+  "institution": "University Of Phoenix Timonium (Ch31)",
   "city": "Timonium",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 434973,
-  "grad_rate": 15.2,
-  "grad_rate_rank": 1727,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 10.2,
+  "grad_rate_rank": 1826,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21093",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25029946",
-  "institution": "VIRGINIA SCHOOL OF MASSAGE",
+  "institution": "Virginia School Of Massage",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 430254,
-  "grad_rate": 70.1,
-  "grad_rate_rank": 1170,
-  "default_rate": 22.0,
-  "avg_stu_loan_debt": 6992,
-  "avg_stu_loan_debt_rank": 1134,
-  "indicator_group": 5
+  "grad_rate": 36.2,
+  "grad_rate_rank": 2149,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 8107,
+  "avg_stu_loan_debt_rank": 841,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "22901",
+  "email": true
 }

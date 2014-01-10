@@ -1,6 +1,6 @@
 {
   "facility_code": "31800118",
-  "institution": "TULANE UNIVERSITY",
+  "institution": "Tulane University",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 159,
   "cross": 160755,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 19758,
-  "avg_stu_loan_debt_rank": 1370,
-  "indicator_group": 1
+  "grad_rate": 75.3,
+  "grad_rate_rank": 227,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70118",
+  "email": true
 }

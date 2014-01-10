@@ -1,6 +1,6 @@
 {
   "facility_code": "25800305",
-  "institution": "THE ACADEMY OF RADIO & T.V. BROADCASTING",
+  "institution": "The Academy Of Radio & T.V. Broadcasting",
   "city": "Huntington Beach",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 108348,
-  "grad_rate": 75.5,
-  "grad_rate_rank": 890,
-  "default_rate": 21.3,
-  "avg_stu_loan_debt": 7700,
-  "avg_stu_loan_debt_rank": 1293,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 8700,
+  "avg_stu_loan_debt_rank": 936,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92647",
+  "email": false
 }

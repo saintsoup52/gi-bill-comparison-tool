@@ -1,6 +1,6 @@
 {
   "facility_code": "21820106",
-  "institution": "WESTWOOD COLLEGE - DENVER NORTH",
+  "institution": "Westwood College - Denver North",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 68,
   "cross": 127024,
-  "grad_rate": 31.3,
-  "grad_rate_rank": 1464,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 22104,
-  "avg_stu_loan_debt_rank": 1649,
-  "indicator_group": 1
+  "grad_rate": 41.4,
+  "grad_rate_rank": 1197,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 26180,
+  "avg_stu_loan_debt_rank": 1837,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80221",
+  "email": true
 }

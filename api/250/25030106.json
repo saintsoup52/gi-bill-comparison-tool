@@ -1,6 +1,6 @@
 {
   "facility_code": "25030106",
-  "institution": "INTERNATIONAL SALON & SPA ACADEMY",
+  "institution": "International Salon & Spa Academy",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 38,
   "cross": 127316,
-  "grad_rate": 68.5,
-  "grad_rate_rank": 1230,
-  "default_rate": 21.3,
-  "avg_stu_loan_debt": 6650,
-  "avg_stu_loan_debt_rank": 1087,
-  "indicator_group": 5
+  "grad_rate": 58.1,
+  "grad_rate_rank": 1703,
+  "default_rate": 24.1,
+  "avg_stu_loan_debt": 6444,
+  "avg_stu_loan_debt_rank": 527,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80918",
+  "email": false
 }

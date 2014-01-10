@@ -1,6 +1,6 @@
 {
   "facility_code": "31861010",
-  "institution": "HODGES UNIVERSITY",
+  "institution": "Hodges University",
   "city": "Naples",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 309,
   "cross": 367884,
-  "grad_rate": 12.5,
-  "grad_rate_rank": 1757,
+  "grad_rate": 18.2,
+  "grad_rate_rank": 1735,
   "default_rate": 13.4,
-  "avg_stu_loan_debt": 13800,
-  "avg_stu_loan_debt_rank": 613,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 17444,
+  "avg_stu_loan_debt_rank": 838,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "34119",
+  "email": true
 }

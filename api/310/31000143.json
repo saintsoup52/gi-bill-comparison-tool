@@ -1,6 +1,6 @@
 {
   "facility_code": "31000143",
-  "institution": "ABILENE CHRISTIAN UNIVERSITY",
+  "institution": "Abilene Christian University",
   "city": "Abilene",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 136,
   "cross": 222178,
-  "grad_rate": 59.8,
-  "grad_rate_rank": 572,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 59.3,
+  "grad_rate_rank": 583,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 24250,
+  "avg_stu_loan_debt_rank": 1660,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "79699",
+  "email": false
 }

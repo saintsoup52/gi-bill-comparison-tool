@@ -1,6 +1,6 @@
 {
   "facility_code": "31014721",
-  "institution": "BOSTON ARCHITECTURAL COLLEGE",
+  "institution": "Boston Architectural College",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 164872,
-  "grad_rate": 9.1,
-  "grad_rate_rank": 524,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 815,
-  "indicator_group": 3
+  "grad_rate": 6.8,
+  "grad_rate_rank": 1850,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 25883,
+  "avg_stu_loan_debt_rank": 1826,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2115",
+  "email": true
 }

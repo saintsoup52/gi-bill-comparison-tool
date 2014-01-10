@@ -1,6 +1,6 @@
 {
   "facility_code": "21005303",
-  "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS",
+  "institution": "Le Cordon Bleu College Of Culinary Arts",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 236,
   "cross": 262332,
-  "grad_rate": 65.1,
-  "grad_rate_rank": 98,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 12772,
-  "avg_stu_loan_debt_rank": 1046,
-  "indicator_group": 2
+  "grad_rate": 66.5,
+  "grad_rate_rank": 119,
+  "default_rate": 28.5,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 974,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85251",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "329A0538",
-  "institution": "THE READING HOSPITAL AND MEDICAL CENTER  SCHOOL OF CLINICAL LABORATORY SCIENCE",
+  "institution": "The Reading Hospital And Medical Center  School Of Clinical Laboratory Science",
   "city": "Reading",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 215594,
-  "grad_rate": 67.3,
-  "grad_rate_rank": 1279,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 15533,
-  "avg_stu_loan_debt_rank": 2488,
-  "indicator_group": 5
+  "grad_rate": 59.0,
+  "grad_rate_rank": 1669,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 12083,
+  "avg_stu_loan_debt_rank": 1783,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19612",
+  "email": true
 }

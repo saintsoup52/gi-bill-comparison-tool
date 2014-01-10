@@ -1,6 +1,6 @@
 {
   "facility_code": "31910414",
-  "institution": "ROSE-HULMAN INSTITUTE OF TECHNOLOGY",
+  "institution": "Rose-Hulman Institute Of Technology",
   "city": "Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 152318,
-  "grad_rate": 76.7,
-  "grad_rate_rank": 204,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 76.5,
+  "grad_rate_rank": 210,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 27820,
+  "avg_stu_loan_debt_rank": 1911,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47803",
+  "email": true
 }

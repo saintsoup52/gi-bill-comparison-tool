@@ -1,6 +1,6 @@
 {
   "facility_code": "11807047",
-  "institution": "WASHINGTON STATE UNIVERSITY (MAIN)",
+  "institution": "Washington State University (Main)",
   "city": "Pullman",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 862,
   "cross": 236939,
-  "grad_rate": 66.8,
-  "grad_rate_rank": 382,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 19721,
-  "avg_stu_loan_debt_rank": 1339,
-  "indicator_group": 1
+  "grad_rate": 67.3,
+  "grad_rate_rank": 372,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 19438,
+  "avg_stu_loan_debt_rank": 1114,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99164",
+  "email": true
 }

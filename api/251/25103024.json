@@ -1,6 +1,6 @@
 {
   "facility_code": "25103024",
-  "institution": "DAY SPA CAREER COLLEGE",
+  "institution": "Day Spa Career College",
   "city": "Ocean Springs",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 446215,
-  "grad_rate": 94.3,
-  "grad_rate_rank": 156,
+  "grad_rate": 73.0,
+  "grad_rate_rank": 1030,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4404,
-  "avg_stu_loan_debt_rank": 728,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "39564",
+  "email": false
 }

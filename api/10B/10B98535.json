@@ -1,6 +1,6 @@
 {
   "facility_code": "10B98535",
-  "institution": "R & R INC. DBA CLEVELAND TRUCK SALES",
+  "institution": "R & R Inc. Dba Cleveland Truck Sales",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44128",
+  "email": true
 }

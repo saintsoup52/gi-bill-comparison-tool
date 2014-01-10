@@ -1,6 +1,6 @@
 {
   "facility_code": "28133910",
-  "institution": "ORANGE PARK INTERNATIONAL SCHOOL OF BEAUTY",
+  "institution": "Orange Park International School Of Beauty",
   "city": "Orange Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 136251,
-  "grad_rate": 93.8,
-  "grad_rate_rank": 166,
+  "grad_rate": 93.0,
+  "grad_rate_rank": 190,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4875,
-  "avg_stu_loan_debt_rank": 781,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32073",
+  "email": true
 }

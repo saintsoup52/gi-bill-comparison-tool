@@ -1,6 +1,6 @@
 {
   "facility_code": "35450310",
-  "institution": "ADMIRAL FARRAGUT ACADEMY SOUTH",
+  "institution": "Admiral Farragut Academy South",
   "city": "St Petersburg",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33710",
+  "email": false
 }

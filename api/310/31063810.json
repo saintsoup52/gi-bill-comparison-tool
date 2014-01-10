@@ -1,6 +1,6 @@
 {
   "facility_code": "31063810",
-  "institution": "GORDON-CONWELL THEOLOGICAL SEMINARY",
+  "institution": "Gordon-Conwell Theological Seminary",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 165945,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 5154,
-  "avg_stu_loan_debt_rank": 259,
-  "indicator_group": 4
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 8768,
+  "avg_stu_loan_debt_rank": 54,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "32202",
+  "email": false
 }

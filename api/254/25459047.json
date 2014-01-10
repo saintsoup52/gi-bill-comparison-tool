@@ -1,6 +1,6 @@
 {
   "facility_code": "25459047",
-  "institution": "EVERGREEN BEAUTY COLLEGE @ BELLEVUE",
+  "institution": "Evergreen Beauty College @ Bellevue",
   "city": "Bellevue",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 234650,
-  "grad_rate": 83.7,
-  "grad_rate_rank": 470,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8227,
-  "avg_stu_loan_debt_rank": 1428,
-  "indicator_group": 5
+  "grad_rate": 87.8,
+  "grad_rate_rank": 340,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98007",
+  "email": true
 }

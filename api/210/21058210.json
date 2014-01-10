@@ -1,6 +1,6 @@
 {
   "facility_code": "21058210",
-  "institution": "DEVRY UNIVERSITY - TAMPA WEST",
+  "institution": "Devry University - Tampa West",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 185,
   "cross": 439163,
-  "grad_rate": 35.1,
-  "grad_rate_rank": 1364,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 40.4,
+  "grad_rate_rank": 1239,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33609",
+  "email": true
 }

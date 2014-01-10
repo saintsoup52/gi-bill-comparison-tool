@@ -1,6 +1,6 @@
 {
   "facility_code": "14904146",
-  "institution": "BLUE RIDGE COMMUNITY COLLEGE",
+  "institution": "Blue Ridge Community College",
   "city": "Weyers Cave",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 235,
   "cross": 231536,
-  "grad_rate": 20.6,
-  "grad_rate_rank": 841,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 6700,
-  "avg_stu_loan_debt_rank": 517,
-  "indicator_group": 2
+  "grad_rate": 25.9,
+  "grad_rate_rank": 758,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "24486",
+  "email": true
 }

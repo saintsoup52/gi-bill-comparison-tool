@@ -1,6 +1,6 @@
 {
   "facility_code": "20494848",
-  "institution": "WILLIAM KEIGER ATTORNEY AT LAW",
+  "institution": "William Keiger Attorney At Law",
   "city": "Parkersburg",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2601",
+  "email": false
 }

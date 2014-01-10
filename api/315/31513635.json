@@ -1,6 +1,6 @@
 {
   "facility_code": "31513635",
-  "institution": "CASE WESTERN RESERVE UNIVERSITY",
+  "institution": "Case Western Reserve University",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 201645,
-  "grad_rate": 78.1,
-  "grad_rate_rank": 181,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 18688,
-  "avg_stu_loan_debt_rank": 1173,
-  "indicator_group": 1
+  "grad_rate": 77.8,
+  "grad_rate_rank": 191,
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44106",
+  "email": true
 }

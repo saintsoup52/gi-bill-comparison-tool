@@ -1,6 +1,6 @@
 {
   "facility_code": "20C32743",
-  "institution": "ROXAR FLOW MEASUREMENT INC EMERSON",
+  "institution": "Roxar Flow Measurement Inc Emerson",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77079",
+  "email": false
 }

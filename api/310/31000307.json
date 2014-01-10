@@ -1,6 +1,6 @@
 {
   "facility_code": "31000307",
-  "institution": "UNIVERSITY OF SAINT JOSEPH",
+  "institution": "University Of Saint Joseph",
   "city": "West Hartford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 130314,
-  "grad_rate": 55.8,
-  "grad_rate_rank": 679,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 22187,
-  "avg_stu_loan_debt_rank": 1673,
-  "indicator_group": 1
+  "grad_rate": 57.9,
+  "grad_rate_rank": 630,
+  "default_rate": 4.7,
+  "avg_stu_loan_debt": 25291,
+  "avg_stu_loan_debt_rank": 1801,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "6117",
+  "email": true
 }

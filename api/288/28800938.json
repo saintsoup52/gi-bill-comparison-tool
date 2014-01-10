@@ -1,6 +1,6 @@
 {
   "facility_code": "28800938",
-  "institution": "EMPIRE BEAUTY SCHOOL (LEHIGH VALLEY)",
+  "institution": "Empire Beauty School (Lehigh Valley)",
   "city": "Whitehall",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 212328,
-  "grad_rate": 71.3,
-  "grad_rate_rank": 1114,
-  "default_rate": 17.8,
-  "avg_stu_loan_debt": 11946,
-  "avg_stu_loan_debt_rank": 2312,
-  "indicator_group": 5
+  "grad_rate": 51.7,
+  "grad_rate_rank": 1904,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 12300,
+  "avg_stu_loan_debt_rank": 1807,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "18052",
+  "email": true
 }

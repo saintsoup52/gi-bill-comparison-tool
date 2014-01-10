@@ -1,6 +1,6 @@
 {
   "facility_code": "14907443",
-  "institution": "DEL MAR COLLEGE",
+  "institution": "Del Mar College",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 724,
   "cross": 224350,
   "grad_rate": 9.1,
-  "grad_rate_rank": 1223,
-  "default_rate": 14.2,
+  "grad_rate_rank": 1316,
+  "default_rate": 20.6,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "78404",
+  "email": false
 }

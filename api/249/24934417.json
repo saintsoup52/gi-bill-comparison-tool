@@ -1,6 +1,6 @@
 {
   "facility_code": "24934417",
-  "institution": "DAYMAR COLLEGE - PADUCAH",
+  "institution": "Daymar College - Paducah",
   "city": "Paducah",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 156903,
-  "grad_rate": 87.5,
-  "grad_rate_rank": 17,
-  "default_rate": 46.2,
-  "avg_stu_loan_debt": 4947,
-  "avg_stu_loan_debt_rank": 261,
-  "indicator_group": 2
+  "grad_rate": 80.8,
+  "grad_rate_rank": 39,
+  "default_rate": 28.9,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "42001",
+  "email": false
 }

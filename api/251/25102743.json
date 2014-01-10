@@ -1,6 +1,6 @@
 {
   "facility_code": "25102743",
-  "institution": "TRAINING ACADEMY 4 U LLC",
+  "institution": "Training Academy 4 U Llc",
   "city": "Ferris",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75125",
+  "email": false
 }

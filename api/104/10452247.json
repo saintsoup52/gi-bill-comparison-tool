@@ -1,6 +1,6 @@
 {
   "facility_code": "10452247",
-  "institution": "CLOVER PARK SCHOOL DISTRICT/SCHOOL BUS PROGRAM",
+  "institution": "Clover Park School District/School Bus Program",
   "city": "Lakewood",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98499",
+  "email": false
 }

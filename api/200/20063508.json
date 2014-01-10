@@ -1,6 +1,6 @@
 {
   "facility_code": "20063508",
-  "institution": "GEORGE SHERMAN CORPORATION",
+  "institution": "George Sherman Corporation",
   "city": "Lewes",
   "state": "DE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19958",
+  "email": false
 }

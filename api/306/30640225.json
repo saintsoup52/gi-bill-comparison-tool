@@ -1,6 +1,6 @@
 {
   "facility_code": "30640225",
-  "institution": "ELEVATOR CONSTRUCTORS UNION LOCAL #3",
+  "institution": "Elevator Constructors Union Local #3",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63110",
+  "email": false
 }

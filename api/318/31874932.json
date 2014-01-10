@@ -1,6 +1,6 @@
 {
   "facility_code": "31874932",
-  "institution": "PACE UNIVERSITY SCHOOL OF LAW",
+  "institution": "Pace University School Of Law",
   "city": "White Plains",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 194310,
-  "grad_rate": 53.5,
-  "grad_rate_rank": 761,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 24687,
-  "avg_stu_loan_debt_rank": 1900,
-  "indicator_group": 1
+  "grad_rate": 55.7,
+  "grad_rate_rank": 711,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10603",
+  "email": true
 }

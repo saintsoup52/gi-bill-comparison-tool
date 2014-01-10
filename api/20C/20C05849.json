@@ -1,6 +1,6 @@
 {
   "facility_code": "20C05849",
-  "institution": "AMP ELECTRIC INC",
+  "institution": "Amp Electric Inc",
   "city": "Janesville",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53545",
+  "email": false
 }

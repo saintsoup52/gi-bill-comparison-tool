@@ -1,6 +1,6 @@
 {
   "facility_code": "12801032",
-  "institution": "SUNY UPSTATE MEDICAL UNIVERSITY (MEDICAL CENTER)",
+  "institution": "Suny Upstate Medical University (Medical Center)",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 196307,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.7,
-  "avg_stu_loan_debt": 18795,
-  "avg_stu_loan_debt_rank": 1203,
-  "indicator_group": 1
+  "default_rate": 0.3,
+  "avg_stu_loan_debt": 15600,
+  "avg_stu_loan_debt_rank": 590,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13210",
+  "email": false
 }

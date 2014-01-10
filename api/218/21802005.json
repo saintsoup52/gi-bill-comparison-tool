@@ -1,6 +1,6 @@
 {
   "facility_code": "21802005",
-  "institution": "THE ART INSTITUTE OF CALIFORNIA-LOS ANGELES",
+  "institution": "The Art Institute Of California-Los Angeles",
   "city": "Santa Monica",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 185,
   "cross": 432533,
-  "grad_rate": 37.5,
-  "grad_rate_rank": 1310,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "grad_rate": 31.0,
+  "grad_rate_rank": 1508,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90405",
+  "email": true
 }

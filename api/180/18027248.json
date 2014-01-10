@@ -1,6 +1,6 @@
 {
   "facility_code": "18027248",
-  "institution": "ROANE-JACKSON TECHNICAL CENTER",
+  "institution": "Roane-Jackson Technical Center",
   "city": "Leroy",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 364575,
-  "grad_rate": 43.3,
-  "grad_rate_rank": 2035,
+  "grad_rate": 54.8,
+  "grad_rate_rank": 1810,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25252",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14907411",
-  "institution": "FLINT RIVER TECHNICAL COLLEGE",
+  "institution": "Flint River Technical College",
   "city": "Thomaston",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30286",
+  "email": true
 }

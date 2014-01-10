@@ -1,6 +1,6 @@
 {
   "facility_code": "24821110",
-  "institution": "EVEREST INSTITUTE-KENDALL",
+  "institution": "Everest Institute-Kendall",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 409670,
-  "grad_rate": 62.7,
-  "grad_rate_rank": 115,
-  "default_rate": 24.3,
+  "grad_rate": 62.5,
+  "grad_rate_rank": 269,
+  "default_rate": 20.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33186",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11842235",
-  "institution": "KENT STATE UNIVERSITY-SALEM CAMPUS",
+  "institution": "Kent State University-Salem Campus",
   "city": "Salem",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 56,
   "cross": 203492,
-  "grad_rate": 22.3,
-  "grad_rate_rank": 786,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 16625,
-  "avg_stu_loan_debt_rank": 1321,
-  "indicator_group": 2
+  "grad_rate": 21.2,
+  "grad_rate_rank": 904,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 16842,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44460",
+  "email": true
 }

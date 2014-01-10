@@ -1,6 +1,6 @@
 {
   "facility_code": "31907116",
-  "institution": "UPPER IOWA UNIVERSITY-FT. LEAVENWORTH CENTER",
+  "institution": "Upper Iowa University-Ft. Leavenworth Center",
   "city": "Ft. Leavenworth",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 154493,
-  "grad_rate": 45.2,
-  "grad_rate_rank": 1054,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 18162,
-  "avg_stu_loan_debt_rank": 1109,
-  "indicator_group": 1
+  "grad_rate": 41.2,
+  "grad_rate_rank": 1206,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 17884,
+  "avg_stu_loan_debt_rank": 897,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66027",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31024346",
-  "institution": "NORFOLK SEMINARY AND COLLEGE",
+  "institution": "Norfolk Seminary And College",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23518",
+  "email": false
 }

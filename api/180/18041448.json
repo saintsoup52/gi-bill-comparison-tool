@@ -1,6 +1,6 @@
 {
   "facility_code": "18041448",
-  "institution": "MCDOWELL COUNTY VO TECH CENTER",
+  "institution": "Mcdowell County Vo Tech Center",
   "city": "Welch",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447582,
-  "grad_rate": 4.5,
-  "grad_rate_rank": 1296,
-  "default_rate": 25.7,
-  "avg_stu_loan_debt": 6742,
-  "avg_stu_loan_debt_rank": 521,
-  "indicator_group": 2
+  "grad_rate": 8.8,
+  "grad_rate_rank": 1322,
+  "default_rate": 31.7,
+  "avg_stu_loan_debt": 4028,
+  "avg_stu_loan_debt_rank": 82,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "24801",
+  "email": true
 }

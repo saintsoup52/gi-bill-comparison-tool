@@ -1,6 +1,6 @@
 {
   "facility_code": "35462947",
-  "institution": "MONTESSORI EDUCATION INSTITUTE OF THE PACIFIC NORTHWEST",
+  "institution": "Montessori Education Institute Of The Pacific Northwest",
   "city": "Bothell",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98011",
+  "email": true
 }

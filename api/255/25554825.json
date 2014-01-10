@@ -1,6 +1,6 @@
 {
   "facility_code": "25554825",
-  "institution": "HOUSE OF HEAVILIN OF BLUE SPRINGS",
+  "institution": "House Of Heavilin Of Blue Springs",
   "city": "Blue Springs",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 176716,
-  "grad_rate": 73.4,
-  "grad_rate_rank": 997,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 68.0,
+  "grad_rate_rank": 1273,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 8044,
+  "avg_stu_loan_debt_rank": 835,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64014",
+  "email": false
 }

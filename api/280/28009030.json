@@ -1,6 +1,6 @@
 {
   "facility_code": "28009030",
-  "institution": "ROMAN ACADEMY OF BEAUTY CULTURE",
+  "institution": "Roman Academy Of Beauty Culture",
   "city": "Hawthorne",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 186335,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 1655,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 6669,
-  "avg_stu_loan_debt_rank": 1094,
-  "indicator_group": 5
+  "grad_rate": 63.6,
+  "grad_rate_rank": 1484,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7506",
+  "email": false
 }

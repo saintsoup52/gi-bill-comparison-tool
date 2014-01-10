@@ -1,6 +1,6 @@
 {
   "facility_code": "20008123",
-  "institution": "MPLS-ST PAUL SPRINKLERFITTERS JAC",
+  "institution": "Mpls-St Paul Sprinklerfitters Jac",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55413",
+  "email": true
 }

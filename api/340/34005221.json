@@ -1,6 +1,6 @@
 {
   "facility_code": "34005221",
-  "institution": "NEW ENGLAND INSTITUTE OF ART",
+  "institution": "New England Institute Of Art",
   "city": "Brookline",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 57,
   "cross": 167321,
-  "grad_rate": 40.2,
-  "grad_rate_rank": 1222,
-  "default_rate": 14.5,
-  "avg_stu_loan_debt": 30586,
-  "avg_stu_loan_debt_rank": 2039,
-  "indicator_group": 1
+  "grad_rate": 31.6,
+  "grad_rate_rank": 1491,
+  "default_rate": 17.1,
+  "avg_stu_loan_debt": 34080,
+  "avg_stu_loan_debt_rank": 1982,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2445",
+  "email": true
 }

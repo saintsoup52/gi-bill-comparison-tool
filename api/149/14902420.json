@@ -1,6 +1,6 @@
 {
   "facility_code": "14902420",
-  "institution": "ANNE ARUNDEL COMMUNITY COLLEGE",
+  "institution": "Anne Arundel Community College",
   "city": "Arnold",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1005,
   "cross": 161767,
-  "grad_rate": 12.4,
+  "grad_rate": 14.6,
   "grad_rate_rank": 1123,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 7911,
-  "avg_stu_loan_debt_rank": 635,
-  "indicator_group": 2
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 7750,
+  "avg_stu_loan_debt_rank": 534,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "21012",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001836",
-  "institution": "EAST CENTRAL UNIVERSITY",
+  "institution": "East Central University",
   "city": "Ada",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 247,
   "cross": 207041,
-  "grad_rate": 34.2,
-  "grad_rate_rank": 1386,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 11802,
-  "avg_stu_loan_debt_rank": 421,
-  "indicator_group": 1
+  "grad_rate": 33.2,
+  "grad_rate_rank": 1444,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74820",
+  "email": true
 }

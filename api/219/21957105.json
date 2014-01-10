@@ -1,6 +1,6 @@
 {
   "facility_code": "21957105",
-  "institution": "ACADEMY OF ART UNIVERSITY",
+  "institution": "Academy Of Art University",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 750,
   "cross": 108232,
-  "grad_rate": 34.5,
-  "grad_rate_rank": 1377,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 32.2,
+  "grad_rate_rank": 1470,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 20491,
+  "avg_stu_loan_debt_rank": 1242,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94105",
+  "email": true
 }

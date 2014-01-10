@@ -1,6 +1,6 @@
 {
   "facility_code": "20096844",
-  "institution": "I.C.G. ELECTRIC INC. APP",
+  "institution": "I.C.G. Electric Inc. App",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84401",
+  "email": false
 }

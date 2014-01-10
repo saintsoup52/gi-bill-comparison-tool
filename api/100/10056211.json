@@ -1,6 +1,6 @@
 {
   "facility_code": "10056211",
-  "institution": "CHEROKEE COUNTY BOARD OF COMMISSIONERS - FLEET MAINT.",
+  "institution": "Cherokee County Board Of Commissioners - Fleet Maint.",
   "city": "Canton",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30114",
+  "email": true
 }

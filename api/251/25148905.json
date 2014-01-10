@@ -1,6 +1,6 @@
 {
   "facility_code": "25148905",
-  "institution": "LADERA CAREER PATHS TRAINING CENTERS",
+  "institution": "Ladera Career Paths Training Centers",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 446358,
-  "grad_rate": 91.7,
-  "grad_rate_rank": 210,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 5999,
-  "avg_stu_loan_debt_rank": 955,
-  "indicator_group": 5
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90045",
+  "email": false
 }

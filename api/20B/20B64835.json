@@ -1,6 +1,6 @@
 {
   "facility_code": "20B64835",
-  "institution": "VOCATIONAL SERVICES UNLIMITED  (31)",
+  "institution": "Vocational Services Unlimited  (31)",
   "city": "Chagrin Falls",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44023",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14910411",
-  "institution": "DARTON STATE COLLEGE",
+  "institution": "Darton State College",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 290,
   "cross": 138691,
-  "grad_rate": 13.8,
-  "grad_rate_rank": 1071,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 440,
-  "indicator_group": 2
+  "grad_rate": 11.7,
+  "grad_rate_rank": 1242,
+  "default_rate": 19.4,
+  "avg_stu_loan_debt": 7581,
+  "avg_stu_loan_debt_rank": 519,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "31707",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C86349",
-  "institution": "GREAT LAKES AREA BOILERMAKERS-LOCAL 107",
+  "institution": "Great Lakes Area Boilermakers-Local 107",
   "city": "Brookfield",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53045",
+  "email": false
 }

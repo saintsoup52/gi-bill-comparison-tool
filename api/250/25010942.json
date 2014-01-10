@@ -1,6 +1,6 @@
 {
   "facility_code": "25010942",
-  "institution": "MISTER WAYNE'S SCHOOL OF UNISEX HAIR DESIGN",
+  "institution": "Mister Wayne'S School Of Unisex Hair Design",
   "city": "Cookeville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 376631,
-  "grad_rate": 79.2,
-  "grad_rate_rank": 691,
-  "default_rate": 30.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 74.1,
+  "grad_rate_rank": 971,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 9351,
+  "avg_stu_loan_debt_rank": 1042,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38501",
+  "email": false
 }

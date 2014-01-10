@@ -1,6 +1,6 @@
 {
   "facility_code": "25013542",
-  "institution": "PLAZA BEAUTY SCHOOL INC.",
+  "institution": "Plaza Beauty School Inc.",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 221290,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 19.7,
-  "avg_stu_loan_debt": 8242,
-  "avg_stu_loan_debt_rank": 1430,
-  "indicator_group": 5
+  "grad_rate": 43.3,
+  "grad_rate_rank": 2058,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38117",
+  "email": false
 }

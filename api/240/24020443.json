@@ -1,6 +1,6 @@
 {
   "facility_code": "24020443",
-  "institution": "COURT REPORTING INST OF DALLAS",
+  "institution": "Court Reporting Inst Of Dallas",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 224183,
-  "grad_rate": 2.5,
-  "grad_rate_rank": 1310,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 14269,
-  "avg_stu_loan_debt_rank": 1101,
-  "indicator_group": 2
+  "grad_rate": 15.8,
+  "grad_rate_rank": 1083,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 16547,
+  "avg_stu_loan_debt_rank": 1076,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75247",
+  "email": false
 }

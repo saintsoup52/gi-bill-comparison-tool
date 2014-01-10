@@ -1,6 +1,6 @@
 {
   "facility_code": "249B0038",
-  "institution": "ITT TECHNICAL INSTITUTE - DUNMORE",
+  "institution": "Itt Technical Institute - Dunmore",
   "city": "Dunmore",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 448460,
-  "grad_rate": 30.2,
-  "grad_rate_rank": 524,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 23.0,
+  "grad_rate_rank": 844,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "18512",
+  "email": true
 }

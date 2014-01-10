@@ -1,6 +1,6 @@
 {
   "facility_code": "15536335",
-  "institution": "PORTAGE LAKES CAREER CENTER",
+  "institution": "Portage Lakes Career Center",
   "city": "Uniontown",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 364636,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
-  "default_rate": 27.2,
-  "avg_stu_loan_debt": 6334,
-  "avg_stu_loan_debt_rank": 1046,
-  "indicator_group": 5
+  "grad_rate": 84.5,
+  "grad_rate_rank": 455,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44685",
+  "email": true
 }

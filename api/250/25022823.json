@@ -1,6 +1,6 @@
 {
   "facility_code": "25022823",
-  "institution": "COSMETOLOGY CAREERS UNLIMITED",
+  "institution": "Cosmetology Careers Unlimited",
   "city": "Duluth",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 173470,
-  "grad_rate": 64.0,
-  "grad_rate_rank": 1434,
-  "default_rate": 20.5,
-  "avg_stu_loan_debt": 7354,
-  "avg_stu_loan_debt_rank": 1197,
-  "indicator_group": 5
+  "grad_rate": 52.2,
+  "grad_rate_rank": 1890,
+  "default_rate": 18.9,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 1523,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55802",
+  "email": true
 }

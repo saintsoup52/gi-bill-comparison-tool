@@ -1,6 +1,6 @@
 {
   "facility_code": "25004404",
-  "institution": "MARGARETS HAIR ACADEMY INC.",
+  "institution": "Margarets Hair Academy Inc.",
   "city": "Russellville",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 107363,
-  "grad_rate": 47.8,
-  "grad_rate_rank": 1963,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5337,
-  "avg_stu_loan_debt_rank": 825,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 10.5,
+  "avg_stu_loan_debt": 5323,
+  "avg_stu_loan_debt_rank": 288,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72812",
+  "email": false
 }

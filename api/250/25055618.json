@@ -1,6 +1,6 @@
 {
   "facility_code": "25055618",
-  "institution": "OPELOUSAS SCHOOL OF COSMETOLOGY",
+  "institution": "Opelousas School Of Cosmetology",
   "city": "Opelousas",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 159601,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 1028,
-  "default_rate": 37.5,
-  "avg_stu_loan_debt": 3000,
-  "avg_stu_loan_debt_rank": 553,
-  "indicator_group": 5
+  "grad_rate": 47.1,
+  "grad_rate_rank": 1995,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70570",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28013219",
-  "institution": "SPA TECH INSTITUTE",
+  "institution": "Spa Tech Institute",
   "city": "Westbrook",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 161527,
-  "grad_rate": 89.2,
-  "grad_rate_rank": 291,
-  "default_rate": 16.3,
-  "avg_stu_loan_debt": 6861,
-  "avg_stu_loan_debt_rank": 1111,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "4092",
+  "email": true
 }

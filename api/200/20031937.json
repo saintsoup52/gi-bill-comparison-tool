@@ -1,6 +1,6 @@
 {
   "facility_code": "20031937",
-  "institution": "WESTERN OREGON SW-WA PAINTERS JATC",
+  "institution": "Western Oregon Sw-Wa Painters Jatc",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97230",
+  "email": true
 }

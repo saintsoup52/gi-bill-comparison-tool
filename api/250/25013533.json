@@ -1,6 +1,6 @@
 {
   "facility_code": "25013533",
-  "institution": "TRIAD AIR INC (D.B.A PIEDMONT FLIGHT TRAINING SCHOOL)",
+  "institution": "Triad Air Inc (D.B.A Piedmont Flight Training School)",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27105",
+  "email": true
 }

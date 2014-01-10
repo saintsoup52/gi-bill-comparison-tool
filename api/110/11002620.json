@@ -1,6 +1,6 @@
 {
   "facility_code": "11002620",
-  "institution": "MD STATE DEPT OF HEALTH COMMUNITY HEALTH SERVICES",
+  "institution": "Md State Dept Of Health Community Health Services",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21201",
+  "email": "No (SCO)"
 }

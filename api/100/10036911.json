@@ -1,6 +1,6 @@
 {
   "facility_code": "10036911",
-  "institution": "PUTNAM COUNTY SHERIFF'S OFFICE",
+  "institution": "Putnam County Sheriff'S Office",
   "city": "Eatonton",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31024",
+  "email": true
 }

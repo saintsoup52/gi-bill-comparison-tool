@@ -1,6 +1,6 @@
 {
   "facility_code": "28012241",
-  "institution": "HEADLINES ACADEMY",
+  "institution": "Headlines Academy",
   "city": "Rapid City",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 219125,
-  "grad_rate": 76.0,
-  "grad_rate_rank": 863,
-  "default_rate": 11.9,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 7917,
+  "avg_stu_loan_debt_rank": 797,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "57701",
+  "email": false
 }

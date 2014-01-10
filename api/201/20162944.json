@@ -1,6 +1,6 @@
 {
   "facility_code": "20162944",
-  "institution": "COATES ELECTRICAL & INSTRUMENTATION INC.",
+  "institution": "Coates Electrical & Instrumentation Inc.",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84401",
+  "email": false
 }

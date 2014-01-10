@@ -1,6 +1,6 @@
 {
   "facility_code": "11516635",
-  "institution": "BOWLING GREEN STATE UNIVERSITY",
+  "institution": "Bowling Green State University",
   "city": "Bowling Green",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 429,
   "cross": 201441,
-  "grad_rate": 57.9,
-  "grad_rate_rank": 620,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 18125,
-  "avg_stu_loan_debt_rank": 1101,
-  "indicator_group": 1
+  "grad_rate": 57.6,
+  "grad_rate_rank": 646,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 19159,
+  "avg_stu_loan_debt_rank": 1098,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43403",
+  "email": true
 }

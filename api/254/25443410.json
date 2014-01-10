@@ -1,6 +1,6 @@
 {
   "facility_code": "25443410",
-  "institution": "TULSA WELDING SCHOOL",
+  "institution": "Tulsa Welding School",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 255,
   "cross": 442329,
-  "grad_rate": 64.9,
-  "grad_rate_rank": 1395,
-  "default_rate": 27.8,
+  "grad_rate": 58.0,
+  "grad_rate_rank": 1708,
+  "default_rate": 27.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32216",
+  "email": true
 }

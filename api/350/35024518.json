@@ -1,6 +1,6 @@
 {
   "facility_code": "35024518",
-  "institution": "HEALING PLACE SCHOOL OF MINISTRY",
+  "institution": "Healing Place School Of Ministry",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70809",
+  "email": true
 }

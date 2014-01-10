@@ -1,6 +1,6 @@
 {
   "facility_code": "34904415",
-  "institution": "AIB COLLEGE OF BUSINESS",
+  "institution": "Aib College Of Business",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 152822,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 17738,
-  "avg_stu_loan_debt_rank": 1050,
-  "indicator_group": 1
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 17667,
+  "avg_stu_loan_debt_rank": 884,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "50321",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15062636",
-  "institution": "EMERSON ALTERNATIVE EDUCATION CENTER",
+  "institution": "Emerson Alternative Education Center",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73102",
+  "email": false
 }

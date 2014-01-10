@@ -1,6 +1,6 @@
 {
   "facility_code": "24828010",
-  "institution": "FLORIDA CAREER COLLEGE - CLEARWATER",
+  "institution": "Florida Career College - Clearwater",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 364885,
-  "grad_rate": 62.1,
-  "grad_rate_rank": 119,
-  "default_rate": 24.2,
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
   "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33759",
+  "email": true
 }

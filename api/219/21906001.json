@@ -1,6 +1,6 @@
 {
   "facility_code": "21906001",
-  "institution": "MILES LAW SCHOOL",
+  "institution": "Miles Law School",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 101675,
-  "grad_rate": 19.5,
-  "grad_rate_rank": 1676,
-  "default_rate": 21.7,
-  "avg_stu_loan_debt": 15576,
-  "avg_stu_loan_debt_rank": 795,
-  "indicator_group": 1
+  "grad_rate": 15.3,
+  "grad_rate_rank": 1776,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 16166,
+  "avg_stu_loan_debt_rank": 715,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35208",
+  "email": true
 }

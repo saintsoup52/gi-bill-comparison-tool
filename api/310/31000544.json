@@ -1,6 +1,6 @@
 {
   "facility_code": "31000544",
-  "institution": "WESTMINSTER COLLEGE",
+  "institution": "Westminster College",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 113,
   "cross": 230807,
-  "grad_rate": 65.6,
-  "grad_rate_rank": 414,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 18826,
-  "avg_stu_loan_debt_rank": 1208,
-  "indicator_group": 1
+  "grad_rate": 56.8,
+  "grad_rate_rank": 674,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 19063,
+  "avg_stu_loan_debt_rank": 1084,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84105",
+  "email": true
 }

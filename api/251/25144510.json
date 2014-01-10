@@ -1,6 +1,6 @@
 {
   "facility_code": "25144510",
-  "institution": "SUNSTATE ACADEMY OF HAIR DESIGN-FT MYERS",
+  "institution": "Sunstate Academy Of Hair Design-Ft Myers",
   "city": "Ft Myers",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 362700,
-  "grad_rate": 50.8,
-  "grad_rate_rank": 1900,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 5861,
-  "avg_stu_loan_debt_rank": 942,
-  "indicator_group": 5
+  "grad_rate": 76.2,
+  "grad_rate_rank": 853,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 7580,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33907",
+  "email": true
 }

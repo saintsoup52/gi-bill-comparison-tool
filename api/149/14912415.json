@@ -1,6 +1,6 @@
 {
   "facility_code": "14912415",
-  "institution": "IOWA WESTERN COMMUNITY COLLEGE COUNCIL BLUFFS",
+  "institution": "Iowa Western Community College Council Bluffs",
   "city": "Council Bluffs",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 307,
   "cross": 153630,
-  "grad_rate": 21.8,
-  "grad_rate_rank": 801,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 6250,
-  "avg_stu_loan_debt_rank": 466,
-  "indicator_group": 2
+  "grad_rate": 18.7,
+  "grad_rate_rank": 982,
+  "default_rate": 23.6,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "51502",
+  "email": false
 }

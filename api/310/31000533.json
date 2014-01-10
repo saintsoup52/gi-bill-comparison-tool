@@ -1,6 +1,6 @@
 {
   "facility_code": "31000533",
-  "institution": "ELON UNIVERSITY",
+  "institution": "Elon University",
   "city": "Elon",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 70,
   "cross": 198516,
-  "grad_rate": 82.1,
-  "grad_rate_rank": 124,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 83.4,
+  "grad_rate_rank": 114,
+  "default_rate": 1.6,
+  "avg_stu_loan_debt": 24370,
+  "avg_stu_loan_debt_rank": 1677,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27244",
+  "email": true
 }

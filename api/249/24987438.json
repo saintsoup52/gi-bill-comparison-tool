@@ -1,6 +1,6 @@
 {
   "facility_code": "24987438",
-  "institution": "PENNSYLVANIA SCHOOL OF BUSINESS",
+  "institution": "Pennsylvania School Of Business",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 213057,
-  "grad_rate": 56.4,
-  "grad_rate_rank": 168,
-  "default_rate": 35.1,
-  "avg_stu_loan_debt": 8266,
-  "avg_stu_loan_debt_rank": 360,
-  "indicator_group": 3
+  "grad_rate": 63.8,
+  "grad_rate_rank": 253,
+  "default_rate": 49.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "18102",
+  "email": true
 }

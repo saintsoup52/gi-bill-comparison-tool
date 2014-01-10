@@ -1,6 +1,6 @@
 {
   "facility_code": "25019149",
-  "institution": "THE INSTITUTE OF BEAUTY & WELLNESS (IBW)",
+  "institution": "The Institute Of Beauty & Wellness (Ibw)",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 450650,
-  "grad_rate": 79.2,
-  "grad_rate_rank": 691,
-  "default_rate": 8.8,
+  "grad_rate": 86.8,
+  "grad_rate_rank": 375,
+  "default_rate": 11.9,
   "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 797,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "53202",
+  "email": false
 }

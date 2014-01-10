@@ -1,6 +1,6 @@
 {
   "facility_code": "25159622",
-  "institution": "PAUL MITCHELL THE SCHOOL-MICHIGAN",
+  "institution": "Paul Mitchell The School-Michigan",
   "city": "Sterling Heights",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 449977,
-  "grad_rate": 73.7,
-  "grad_rate_rank": 988,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 11667,
-  "avg_stu_loan_debt_rank": 2278,
-  "indicator_group": 5
+  "grad_rate": 69.1,
+  "grad_rate_rank": 1229,
+  "default_rate": 17.4,
+  "avg_stu_loan_debt": 13863,
+  "avg_stu_loan_debt_rank": 1887,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48313",
+  "email": true
 }

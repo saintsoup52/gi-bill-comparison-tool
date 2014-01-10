@@ -1,6 +1,6 @@
 {
   "facility_code": "14904142",
-  "institution": "NORTHEAST STATE COMMUNITY COLLEGE",
+  "institution": "Northeast State Community College",
   "city": "Blountville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 305,
   "cross": 221908,
-  "grad_rate": 15.3,
-  "grad_rate_rank": 1019,
-  "default_rate": 27.0,
-  "avg_stu_loan_debt": 4610,
-  "avg_stu_loan_debt_rank": 238,
-  "indicator_group": 2
+  "grad_rate": 14.9,
+  "grad_rate_rank": 1114,
+  "default_rate": 26.1,
+  "avg_stu_loan_debt": 4500,
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37617",
+  "email": true
 }

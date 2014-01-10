@@ -1,6 +1,6 @@
 {
   "facility_code": "31005338",
-  "institution": "UNIVERSITY OF THE SCIENCES IN PHILA",
+  "institution": "University Of The Sciences In Phila",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 215132,
-  "grad_rate": 64.7,
-  "grad_rate_rank": 441,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 74.3,
+  "grad_rate_rank": 243,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 28562,
+  "avg_stu_loan_debt_rank": 1921,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19104",
+  "email": true
 }

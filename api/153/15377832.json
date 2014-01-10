@@ -1,6 +1,6 @@
 {
   "facility_code": "15377832",
-  "institution": "SYRACUSE POLICE DEPARTMENT POLICE ACADEMY",
+  "institution": "Syracuse Police Department Police Academy",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13491",
+  "email": true
 }

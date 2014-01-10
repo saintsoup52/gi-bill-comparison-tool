@@ -1,6 +1,6 @@
 {
   "facility_code": "31903342",
-  "institution": "JOHNSON UNIVERSITY",
+  "institution": "Johnson University",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 220473,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 752,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 13500,
-  "avg_stu_loan_debt_rank": 588,
-  "indicator_group": 1
+  "grad_rate": 61.7,
+  "grad_rate_rank": 522,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37998",
+  "email": true
 }

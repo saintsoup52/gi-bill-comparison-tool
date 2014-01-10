@@ -1,6 +1,6 @@
 {
   "facility_code": "25007630",
-  "institution": "NEW COMMUNITY WORKFORCE DEVELOPMENT CENTER",
+  "institution": "New Community Workforce Development Center",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 437723,
-  "grad_rate": 68.6,
-  "grad_rate_rank": 1226,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 77.7,
+  "grad_rate_rank": 783,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7103",
+  "email": false
 }

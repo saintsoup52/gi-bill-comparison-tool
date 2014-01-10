@@ -1,6 +1,6 @@
 {
   "facility_code": "15525035",
-  "institution": "PICKAWAY ROSS VOCATIONAL CENTER",
+  "institution": "Pickaway Ross Vocational Center",
   "city": "Chillicothe",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 407513,
-  "grad_rate": 88.8,
-  "grad_rate_rank": 314,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 6180,
-  "avg_stu_loan_debt_rank": 981,
-  "indicator_group": 5
+  "grad_rate": 81.1,
+  "grad_rate_rank": 593,
+  "default_rate": 20.9,
+  "avg_stu_loan_debt": 6749,
+  "avg_stu_loan_debt_rank": 586,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45601",
+  "email": true
 }

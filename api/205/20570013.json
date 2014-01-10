@@ -1,6 +1,6 @@
 {
   "facility_code": "20570013",
-  "institution": "DELTA T. INC. D/B/A T.E.C. ELECTRIC",
+  "institution": "Delta T. Inc. D/B/A T.E.C. Electric",
   "city": "Colona",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61241",
+  "email": false
 }

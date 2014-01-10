@@ -1,6 +1,6 @@
 {
   "facility_code": "20155444",
-  "institution": "CUTRUBUS MOTORS",
+  "institution": "Cutrubus Motors",
   "city": "Layton",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84041",
+  "email": false
 }

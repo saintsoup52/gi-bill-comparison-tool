@@ -1,6 +1,6 @@
 {
   "facility_code": "18033836",
-  "institution": "KIAMICHI TECHNOLOGY CTR - SPIRO",
+  "institution": "Kiamichi Technology Ctr - Spiro",
   "city": "Spiro",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 375753,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74959",
+  "email": false
 }

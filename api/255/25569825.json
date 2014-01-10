@@ -1,6 +1,6 @@
 {
   "facility_code": "25569825",
-  "institution": "HOUSE OF HEAVILIN BEAUTY COLLEGE - RAYMORE",
+  "institution": "House Of Heavilin Beauty College - Raymore",
   "city": "Raymore",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 421771,
-  "grad_rate": 51.2,
-  "grad_rate_rank": 1894,
-  "default_rate": 26.8,
+  "grad_rate": 40.6,
+  "grad_rate_rank": 2095,
+  "default_rate": 10.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64083",
+  "email": false
 }

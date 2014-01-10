@@ -1,6 +1,6 @@
 {
   "facility_code": "11874138",
-  "institution": "UNIVERSITY OF PITTSBURGH AT JOHNSTOWN",
+  "institution": "University Of Pittsburgh At Johnstown",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 215284,
-  "grad_rate": 59.4,
-  "grad_rate_rank": 581,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "grad_rate": 54.9,
+  "grad_rate_rank": 743,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 23878,
+  "avg_stu_loan_debt_rank": 1608,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15904",
+  "email": true
 }

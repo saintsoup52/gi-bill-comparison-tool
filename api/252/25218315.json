@@ -1,6 +1,6 @@
 {
   "facility_code": "25218315",
-  "institution": "AMERICAN HAIR ACADEMY",
+  "institution": "American Hair Academy",
   "city": "Ft Madison",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 153463,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 1917,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 10421,
-  "avg_stu_loan_debt_rank": 2182,
-  "indicator_group": 5
+  "grad_rate": 35.7,
+  "grad_rate_rank": 2153,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 9985,
+  "avg_stu_loan_debt_rank": 1521,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52627",
+  "email": false
 }

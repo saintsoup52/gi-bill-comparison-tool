@@ -1,6 +1,6 @@
 {
   "facility_code": "15081643",
-  "institution": "TEXAS DEPARTMENT OF PUBLIC SAFETY TRNG ACAD",
+  "institution": "Texas Department Of Public Safety Trng Acad",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78752",
+  "email": false
 }

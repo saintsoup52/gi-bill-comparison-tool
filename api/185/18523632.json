@@ -1,6 +1,6 @@
 {
   "facility_code": "18523632",
-  "institution": "BOCES ULSTER COUNTY",
+  "institution": "Boces Ulster County",
   "city": "Port Ewen",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 418056,
-  "grad_rate": 63.1,
-  "grad_rate_rank": 1469,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 5
+  "grad_rate": 60.9,
+  "grad_rate_rank": 1602,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 5750,
+  "avg_stu_loan_debt_rank": 384,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12466",
+  "email": false
 }

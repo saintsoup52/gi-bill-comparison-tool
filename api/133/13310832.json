@@ -1,6 +1,6 @@
 {
   "facility_code": "13310832",
-  "institution": "SUNY COLLEGE AT OSWEGO (OSWEGO STATE UNIVERSITY)",
+  "institution": "Suny College At Oswego (Oswego State University)",
   "city": "Oswego",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 154,
   "cross": 196194,
-  "grad_rate": 57.4,
-  "grad_rate_rank": 638,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 19476,
-  "avg_stu_loan_debt_rank": 1302,
-  "indicator_group": 1
+  "grad_rate": 57.9,
+  "grad_rate_rank": 630,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13126",
+  "email": true
 }

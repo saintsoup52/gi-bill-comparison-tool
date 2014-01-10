@@ -1,6 +1,6 @@
 {
   "facility_code": "32001206",
-  "institution": "UNIVERSITY OF COLORADO HEALTH MEMORIAL HEALTH SYSTEM (RADIOLOGIC TECHNOLOGY)",
+  "institution": "University Of Colorado Health Memorial Health System (Radiologic Technology)",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 126580,
-  "grad_rate": 41.0,
-  "grad_rate_rank": 1195,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 15470,
-  "avg_stu_loan_debt_rank": 777,
-  "indicator_group": 1
+  "grad_rate": 46.6,
+  "grad_rate_rank": 1016,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 14615,
+  "avg_stu_loan_debt_rank": 501,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80909",
+  "email": true
 }

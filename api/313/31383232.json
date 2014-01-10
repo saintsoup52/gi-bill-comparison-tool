@@ -1,6 +1,6 @@
 {
   "facility_code": "31383232",
-  "institution": "ADELPHI UNIVERSITY",
+  "institution": "Adelphi University",
   "city": "Garden City",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 109,
   "cross": 188429,
-  "grad_rate": 65.5,
-  "grad_rate_rank": 419,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 22462,
-  "avg_stu_loan_debt_rank": 1702,
-  "indicator_group": 1
+  "grad_rate": 66.0,
+  "grad_rate_rank": 407,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 24187,
+  "avg_stu_loan_debt_rank": 1655,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11530",
+  "email": true
 }

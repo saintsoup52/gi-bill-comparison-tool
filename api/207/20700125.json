@@ -1,6 +1,6 @@
 {
   "facility_code": "20700125",
-  "institution": "HIAWATHA IMPLEMENT CO. INC",
+  "institution": "Hiawatha Implement Co. Inc",
   "city": "Mound City",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64470",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21015223",
-  "institution": "MCNALLY SMITH COLLEGE OF MUSIC",
+  "institution": "Mcnally Smith College Of Music",
   "city": "St. Paul",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 367194,
-  "grad_rate": 46.2,
-  "grad_rate_rank": 1018,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 46.4,
+  "grad_rate_rank": 1024,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 22380,
+  "avg_stu_loan_debt_rank": 1460,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55101",
+  "email": true
 }

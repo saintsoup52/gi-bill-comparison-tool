@@ -1,6 +1,6 @@
 {
   "facility_code": "31959113",
-  "institution": "TRINITY CHRISTIAN COLLEGE",
+  "institution": "Trinity Christian College",
   "city": "Palos Heights",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 149505,
-  "grad_rate": 64.2,
-  "grad_rate_rank": 451,
-  "default_rate": 6.9,
+  "grad_rate": 53.7,
+  "grad_rate_rank": 786,
+  "default_rate": 6.3,
   "avg_stu_loan_debt": 20832,
-  "avg_stu_loan_debt_rank": 1511,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1292,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60463",
+  "email": true
 }

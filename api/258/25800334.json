@@ -1,6 +1,6 @@
 {
   "facility_code": "25800334",
-  "institution": "JOSEF'S SCHOOL OF HAIR DESIGN",
+  "institution": "Josef'S School Of Hair Design",
   "city": "Grand Forks",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 200110,
-  "grad_rate": 78.4,
-  "grad_rate_rank": 735,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 55.4,
+  "grad_rate_rank": 1793,
+  "default_rate": 4.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "58201",
+  "email": false
 }

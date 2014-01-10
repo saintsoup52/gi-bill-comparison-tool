@@ -1,6 +1,6 @@
 {
   "facility_code": "32004336",
-  "institution": "ST ANTHONY HOSPITAL SCHOOL OF MEDICAL TECHNOLOGY",
+  "institution": "St Anthony Hospital School Of Medical Technology",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73101",
+  "email": false
 }

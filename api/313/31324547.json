@@ -1,6 +1,6 @@
 {
   "facility_code": "31324547",
-  "institution": "PACIFIC LUTHERAN UNIVERSITY",
+  "institution": "Pacific Lutheran University",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 242,
   "cross": 236230,
-  "grad_rate": 66.4,
-  "grad_rate_rank": 398,
-  "default_rate": 2.9,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 69.8,
+  "grad_rate_rank": 316,
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 23884,
+  "avg_stu_loan_debt_rank": 1612,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98447",
+  "email": true
 }

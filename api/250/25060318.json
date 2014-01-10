@@ -1,6 +1,6 @@
 {
   "facility_code": "25060318",
-  "institution": "DENHAM SPRINGS BEAUTY COLLEGE",
+  "institution": "Denham Springs Beauty College",
   "city": "Denham Springs",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 158787,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 50.0,
-  "avg_stu_loan_debt": 3309,
-  "avg_stu_loan_debt_rank": 571,
-  "indicator_group": 5
+  "grad_rate": 73.3,
+  "grad_rate_rank": 1015,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 3000,
+  "avg_stu_loan_debt_rank": 40,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70726",
+  "email": false
 }

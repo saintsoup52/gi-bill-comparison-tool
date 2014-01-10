@@ -1,6 +1,6 @@
 {
   "facility_code": "20841121",
-  "institution": "PROFESSIONAL ELECTRIC INC",
+  "institution": "Professional Electric Inc",
   "city": "Norwood",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2062",
+  "email": false
 }

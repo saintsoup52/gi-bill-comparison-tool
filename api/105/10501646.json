@@ -1,6 +1,6 @@
 {
   "facility_code": "10501646",
-  "institution": "US DEPARTMENT OF HOMELAND SECURITY-IMMIGRATION AND CUSTOMS ENFORCEMENT",
+  "institution": "Us Department Of Homeland Security-Immigration And Customs Enforcement",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23236",
+  "email": false
 }

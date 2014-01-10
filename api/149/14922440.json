@@ -1,6 +1,6 @@
 {
   "facility_code": "14922440",
-  "institution": "YORK TECHNICAL COLLEGE",
+  "institution": "York Technical College",
   "city": "Rock Hill",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 280,
   "cross": 218991,
-  "grad_rate": 13.0,
-  "grad_rate_rank": 496,
-  "default_rate": 13.2,
-  "avg_stu_loan_debt": 5891,
-  "avg_stu_loan_debt_rank": 230,
-  "indicator_group": 3
+  "grad_rate": 14.9,
+  "grad_rate_rank": 684,
+  "default_rate": 16.9,
+  "avg_stu_loan_debt": 6828,
+  "avg_stu_loan_debt_rank": 190,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "29730",
+  "email": false
 }

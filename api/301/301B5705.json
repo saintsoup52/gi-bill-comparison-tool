@@ -1,6 +1,6 @@
 {
   "facility_code": "301B5705",
-  "institution": "LOS ANGELES/VENTURA CHAPTER OF ASSOC. BUILDERS & CONTRACTORS",
+  "institution": "Los Angeles/Ventura Chapter Of Assoc. Builders & Contractors",
   "city": "San Fernando",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91340",
+  "email": false
 }

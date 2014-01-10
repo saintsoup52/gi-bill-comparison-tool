@@ -1,6 +1,6 @@
 {
   "facility_code": "31040013",
-  "institution": "WEBSTER UNIVERSITY SCOTT AFB",
+  "institution": "Webster University Scott Afb",
   "city": "Scott Afb",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 113,
   "cross": 179894,
-  "grad_rate": 60.7,
-  "grad_rate_rank": 543,
-  "default_rate": 8.2,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 64.1,
+  "grad_rate_rank": 463,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62225",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001441",
-  "institution": "NORTHERN STATE UNIVERSITY",
+  "institution": "Northern State University",
   "city": "Aberdeen",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 78,
   "cross": 219259,
-  "grad_rate": 42.4,
-  "grad_rate_rank": 1144,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "grad_rate": 45.8,
+  "grad_rate_rank": 1039,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57401",
+  "email": true
 }

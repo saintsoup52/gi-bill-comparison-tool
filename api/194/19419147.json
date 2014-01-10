@@ -1,6 +1,6 @@
 {
   "facility_code": "19419147",
-  "institution": "WASHINGTON VETERANS HOME @ RETSIL (CH 31 ONLY)",
+  "institution": "Washington Veterans Home @ Retsil (Ch 31 Only)",
   "city": "Retsil",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98378",
+  "email": true
 }

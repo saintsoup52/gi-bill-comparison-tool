@@ -1,6 +1,6 @@
 {
   "facility_code": "20199912",
-  "institution": "WESTERN HEATING & AIR CONDITIONING INC",
+  "institution": "Western Heating & Air Conditioning Inc",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83714",
+  "email": false
 }

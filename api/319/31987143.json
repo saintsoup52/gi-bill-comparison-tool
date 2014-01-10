@@ -1,6 +1,6 @@
 {
   "facility_code": "31987143",
-  "institution": "SCHREINER UNIVERSITY",
+  "institution": "Schreiner University",
   "city": "Kerrville",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 62,
   "cross": 228042,
-  "grad_rate": 38.8,
-  "grad_rate_rank": 1274,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 14498,
-  "avg_stu_loan_debt_rank": 677,
-  "indicator_group": 1
+  "grad_rate": 34.2,
+  "grad_rate_rank": 1411,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 15537,
+  "avg_stu_loan_debt_rank": 586,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78028",
+  "email": false
 }

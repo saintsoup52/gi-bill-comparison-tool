@@ -1,6 +1,6 @@
 {
   "facility_code": "21903144",
-  "institution": "UNIVERSITY OF PHOENIX - MURRAY",
+  "institution": "University Of Phoenix - Murray",
   "city": "Murray",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 408,
   "cross": 380465,
-  "grad_rate": 18.1,
-  "grad_rate_rank": 1695,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 26.2,
+  "grad_rate_rank": 1615,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84123",
+  "email": true
 }

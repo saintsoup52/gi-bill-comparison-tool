@@ -1,6 +1,6 @@
 {
   "facility_code": "10076218",
-  "institution": "CITIZENS FOR DEVELOPMENTAL DISABILITIES (CH 31)",
+  "institution": "Citizens For Developmental Disabilities (Ch 31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70112",
+  "email": false
 }

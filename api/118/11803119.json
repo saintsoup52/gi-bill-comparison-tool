@@ -1,6 +1,6 @@
 {
   "facility_code": "11803119",
-  "institution": "UNIVERSITY OF MAINE AT FORT KENT - UMPI BRANCH",
+  "institution": "University Of Maine At Fort Kent - Umpi Branch",
   "city": "Presque Isle",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 161235,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 1403,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 11911,
-  "avg_stu_loan_debt_rank": 425,
-  "indicator_group": 1
+  "grad_rate": 37.5,
+  "grad_rate_rank": 1319,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 11484,
+  "avg_stu_loan_debt_rank": 255,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4769",
+  "email": false
 }

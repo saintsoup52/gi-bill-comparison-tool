@@ -1,6 +1,6 @@
 {
   "facility_code": "15515317",
-  "institution": "ADULT LEARNING CENTER MURRAY STATE UNIVERSITY",
+  "institution": "Adult Learning Center Murray State University",
   "city": "Murray",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "42071",
+  "email": false
 }

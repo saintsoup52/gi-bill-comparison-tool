@@ -1,6 +1,6 @@
 {
   "facility_code": "31012019",
-  "institution": "COLBY COLLEGE",
+  "institution": "Colby College",
   "city": "Waterville",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 161086,
-  "grad_rate": 91.2,
-  "grad_rate_rank": 49,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 90.3,
+  "grad_rate_rank": 60,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 20840,
+  "avg_stu_loan_debt_rank": 1296,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4901",
+  "email": false
 }

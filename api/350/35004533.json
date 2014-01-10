@@ -1,6 +1,6 @@
 {
   "facility_code": "35004533",
-  "institution": "CALVARY BAPTIST BIBLE COLLEGE & SEMINARY",
+  "institution": "Calvary Baptist Bible College & Seminary",
   "city": "King",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27021",
+  "email": true
 }

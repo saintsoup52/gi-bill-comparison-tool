@@ -1,6 +1,6 @@
 {
   "facility_code": "10488417",
-  "institution": "WORTHINGTON POLICE DEPARTMENT",
+  "institution": "Worthington Police Department",
   "city": "Worthington",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41183",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25008113",
-  "institution": "CALC INSTITUTE OF TECHNOLOGY",
+  "institution": "Calc Institute Of Technology",
   "city": "Alton",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 446084,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 7183,
-  "avg_stu_loan_debt_rank": 1168,
-  "indicator_group": 5
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 6678,
+  "avg_stu_loan_debt_rank": 579,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62002",
+  "email": true
 }

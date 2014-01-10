@@ -1,6 +1,6 @@
 {
   "facility_code": "10503415",
-  "institution": "MONONA COUNTY SHERIFF DEPARTMENT",
+  "institution": "Monona County Sheriff Department",
   "city": "Onawa",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "51040",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11923121",
-  "institution": "UNIVERSITY OF MASSACHUSETTS/BOSTON",
+  "institution": "University Of Massachusetts/Boston",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 603,
   "cross": 166638,
-  "grad_rate": 39.7,
-  "grad_rate_rank": 1242,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 37.9,
+  "grad_rate_rank": 1309,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 17258,
+  "avg_stu_loan_debt_rank": 827,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2125",
+  "email": true
 }

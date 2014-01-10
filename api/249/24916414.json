@@ -1,6 +1,6 @@
 {
   "facility_code": "24916414",
-  "institution": "LINCOLN COLLEGE OF TECHNOLOGY",
+  "institution": "Lincoln College Of Technology",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 129,
   "cross": 151661,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 33.9,
-  "avg_stu_loan_debt": 15406,
-  "avg_stu_loan_debt_rank": 790,
-  "indicator_group": 3
+  "grad_rate": 40.5,
+  "grad_rate_rank": 453,
+  "default_rate": 34.0,
+  "avg_stu_loan_debt": 15858,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "46268",
+  "email": true
 }

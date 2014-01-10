@@ -1,6 +1,6 @@
 {
   "facility_code": "25832007",
-  "institution": "INTERNATIONAL INSTITUTE OF COSMETOLOGY - WETHERSFIELD",
+  "institution": "International Institute Of Cosmetology - Wethersfield",
   "city": "Wethersfield",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 457341,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 72.1,
+  "grad_rate_rank": 1068,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 9729,
-  "avg_stu_loan_debt_rank": 2109,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6109",
+  "email": false
 }

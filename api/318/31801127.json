@@ -1,6 +1,6 @@
 {
   "facility_code": "31801127",
-  "institution": "DOANE COLLEGE - SCHOOL OF ARTS & SCIENCES",
+  "institution": "Doane College - School Of Arts & Sciences",
   "city": "Crete",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 181020,
-  "grad_rate": 63.3,
-  "grad_rate_rank": 472,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 16543,
-  "avg_stu_loan_debt_rank": 895,
-  "indicator_group": 1
+  "grad_rate": 64.0,
+  "grad_rate_rank": 465,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 18145,
+  "avg_stu_loan_debt_rank": 936,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68333",
+  "email": false
 }

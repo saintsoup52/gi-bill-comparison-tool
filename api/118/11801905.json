@@ -1,6 +1,6 @@
 {
   "facility_code": "11801905",
-  "institution": "CALIFORNIA STATE UNIVERSITY-LOS ANGELES",
+  "institution": "California State University-Los Angeles",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 365,
   "cross": 110592,
   "grad_rate": 36.5,
-  "grad_rate_rank": 1335,
-  "default_rate": 5.2,
+  "grad_rate_rank": 1348,
+  "default_rate": 7.6,
   "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90032",
+  "email": true
 }

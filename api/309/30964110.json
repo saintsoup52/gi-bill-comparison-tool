@@ -1,6 +1,6 @@
 {
   "facility_code": "30964110",
-  "institution": "M.A.C.C.A. GNJ (MANSOTA AIR CONDITIONING CONTRACTORS ASSOCIATION)",
+  "institution": "M.A.C.C.A. Gnj (Mansota Air Conditioning Contractors Association)",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34238",
+  "email": false
 }

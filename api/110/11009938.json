@@ -1,6 +1,6 @@
 {
   "facility_code": "11009938",
-  "institution": "MILLERSVILLE UNIVERSITY OF PA",
+  "institution": "Millersville University Of Pa",
   "city": "Millersville",
   "state": "PA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 228,
   "cross": 214041,
   "grad_rate": 64.5,
-  "grad_rate_rank": 446,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate_rank": 447,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17551",
+  "email": true
 }

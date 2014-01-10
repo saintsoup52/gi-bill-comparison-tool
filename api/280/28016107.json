@@ -1,6 +1,6 @@
 {
   "facility_code": "28016107",
-  "institution": "PORTER & CHESTER INSTITUTE - BRANFORD",
+  "institution": "Porter & Chester Institute - Branford",
   "city": "Branford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 129002,
-  "grad_rate": 76.5,
-  "grad_rate_rank": 843,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 13910,
-  "avg_stu_loan_debt_rank": 2439,
-  "indicator_group": 5
+  "grad_rate": 72.0,
+  "grad_rate_rank": 1072,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 13040,
+  "avg_stu_loan_debt_rank": 1843,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6405",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21955146",
-  "institution": "SOUTH UNIVERSITY",
+  "institution": "South University",
   "city": "Glen Allen",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 67,
   "cross": 459259,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 9098,
-  "avg_stu_loan_debt_rank": 279,
-  "indicator_group": 4
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 6463,
+  "avg_stu_loan_debt_rank": 58,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23060",
+  "email": true
 }

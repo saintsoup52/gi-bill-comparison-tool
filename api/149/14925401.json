@@ -1,6 +1,6 @@
 {
   "facility_code": "14925401",
-  "institution": "CENTRAL ALABAMA C. C. - CHILDERSBURG",
+  "institution": "Central Alabama C. C. - Childersburg",
   "city": "Childersburg",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 100760,
-  "grad_rate": 23.5,
-  "grad_rate_rank": 738,
-  "default_rate": 30.6,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 639,
-  "indicator_group": 2
+  "grad_rate": 14.6,
+  "grad_rate_rank": 1123,
+  "default_rate": 25.9,
+  "avg_stu_loan_debt": 7167,
+  "avg_stu_loan_debt_rank": 469,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "35044",
+  "email": true
 }

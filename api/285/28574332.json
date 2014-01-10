@@ -1,6 +1,6 @@
 {
   "facility_code": "28574332",
-  "institution": "BRANFORD HALL CAREER INSTITUTE - ALBANY",
+  "institution": "Branford Hall Career Institute - Albany",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 448974,
-  "grad_rate": 70.8,
-  "grad_rate_rank": 1140,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 7924,
-  "avg_stu_loan_debt_rank": 1353,
-  "indicator_group": 5
+  "grad_rate": 67.6,
+  "grad_rate_rank": 1296,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 7724,
+  "avg_stu_loan_debt_rank": 766,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12205",
+  "email": true
 }

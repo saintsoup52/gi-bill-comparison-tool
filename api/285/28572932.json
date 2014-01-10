@@ -1,6 +1,6 @@
 {
   "facility_code": "28572932",
-  "institution": "EMPIRE BEAUTY SCHOOL INC. - BROOKLYN",
+  "institution": "Empire Beauty School Inc. - Brooklyn",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 383765,
-  "grad_rate": 73.5,
-  "grad_rate_rank": 994,
-  "default_rate": 16.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 69.9,
+  "grad_rate_rank": 1187,
+  "default_rate": 16.3,
+  "avg_stu_loan_debt": 9453,
+  "avg_stu_loan_debt_rank": 1054,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11214",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25522814",
-  "institution": "TROYER SCHOOL OF REAL ESTATE",
+  "institution": "Troyer School Of Real Estate",
   "city": "Huntington",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46750",
+  "email": false
 }

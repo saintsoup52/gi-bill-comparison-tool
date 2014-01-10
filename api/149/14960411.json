@@ -1,6 +1,6 @@
 {
   "facility_code": "14960411",
-  "institution": "SAVANNAH TECHNICAL COLLEGE",
+  "institution": "Savannah Technical College",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 773,
   "cross": 140942,
-  "grad_rate": 31.2,
-  "grad_rate_rank": 334,
+  "grad_rate": 26.9,
+  "grad_rate_rank": 571,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 6268,
-  "avg_stu_loan_debt_rank": 243,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 2500,
+  "avg_stu_loan_debt_rank": 7,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31405",
+  "email": true
 }

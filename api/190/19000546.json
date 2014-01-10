@@ -1,6 +1,6 @@
 {
   "facility_code": "19000546",
-  "institution": "HAMPTON VA MEDICAL CENTER LOGISTICS SERVICE",
+  "institution": "Hampton Va Medical Center Logistics Service",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23667",
+  "email": false
 }

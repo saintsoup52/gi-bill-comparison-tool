@@ -1,6 +1,6 @@
 {
   "facility_code": "25001937",
-  "institution": "INSTITUTE OF TECHNOLOGY - SALEM",
+  "institution": "Institute Of Technology - Salem",
   "city": "Salem",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 441663,
-  "grad_rate": 54.1,
-  "grad_rate_rank": 1808,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 8995,
-  "avg_stu_loan_debt_rank": 1568,
-  "indicator_group": 5
+  "grad_rate": 81.0,
+  "grad_rate_rank": 600,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 8366,
+  "avg_stu_loan_debt_rank": 879,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97305",
+  "email": true
 }

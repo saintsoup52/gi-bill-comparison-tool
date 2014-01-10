@@ -1,6 +1,6 @@
 {
   "facility_code": "18092238",
-  "institution": "CENTRAL SUSQUEHANNA LPN CAREER CENTER",
+  "institution": "Central Susquehanna Lpn Career Center",
   "city": "Lewisburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 406422,
-  "grad_rate": 97.1,
-  "grad_rate_rank": 99,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 10023,
-  "avg_stu_loan_debt_rank": 2158,
-  "indicator_group": 5
+  "grad_rate": 86.5,
+  "grad_rate_rank": 390,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17837",
+  "email": true
 }

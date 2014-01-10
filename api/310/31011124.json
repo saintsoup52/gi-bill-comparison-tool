@@ -1,6 +1,6 @@
 {
   "facility_code": "31011124",
-  "institution": "RUST COLLEGE",
+  "institution": "Rust College",
   "city": "Holly Springs",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 176318,
-  "grad_rate": 28.4,
-  "grad_rate_rank": 1529,
-  "default_rate": 31.6,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 32.1,
+  "grad_rate_rank": 1474,
+  "default_rate": 32.0,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 160,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38635",
+  "email": false
 }

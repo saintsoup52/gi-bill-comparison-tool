@@ -1,6 +1,6 @@
 {
   "facility_code": "32900415",
-  "institution": "MERCY COLLEGE OF HEALTH SCIENCE",
+  "institution": "Mercy College Of Health Science",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 46,
   "cross": 153977,
   "grad_rate": 50.0,
-  "grad_rate_rank": 219,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 13251,
-  "avg_stu_loan_debt_rank": 1068,
-  "indicator_group": 2
+  "grad_rate_rank": 263,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 15250,
+  "avg_stu_loan_debt_rank": 1031,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "50309",
+  "email": true
 }

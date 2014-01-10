@@ -1,6 +1,6 @@
 {
   "facility_code": "29451948",
-  "institution": "JOSEPH COLLINS - INDEPENDENT INSTRUCTOR",
+  "institution": "Joseph Collins - Independent Instructor",
   "city": "Moatsville",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "26405",
+  "email": false
 }

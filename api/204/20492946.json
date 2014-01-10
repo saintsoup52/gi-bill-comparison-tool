@@ -1,6 +1,6 @@
 {
   "facility_code": "20492946",
-  "institution": "BON AIR ELECTRICAL SERVICE CO INC",
+  "institution": "Bon Air Electrical Service Co Inc",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23294",
+  "email": false
 }

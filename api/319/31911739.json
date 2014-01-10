@@ -1,6 +1,6 @@
 {
   "facility_code": "31911739",
-  "institution": "JOHNSON & WALES UNIVERSITY",
+  "institution": "Johnson & Wales University",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 231,
   "cross": 217235,
-  "grad_rate": 50.5,
-  "grad_rate_rank": 862,
-  "default_rate": 13.5,
-  "avg_stu_loan_debt": 24941,
-  "avg_stu_loan_debt_rank": 1915,
-  "indicator_group": 1
+  "grad_rate": 52.7,
+  "grad_rate_rank": 813,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 24491,
+  "avg_stu_loan_debt_rank": 1685,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2903",
+  "email": true
 }

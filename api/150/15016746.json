@@ -1,6 +1,6 @@
 {
   "facility_code": "15016746",
-  "institution": "WASHINGTON COUNTY SKILL CENTER",
+  "institution": "Washington County Skill Center",
   "city": "Abingdon",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 234225,
-  "grad_rate": 72.2,
-  "grad_rate_rank": 1064,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 60.0,
+  "grad_rate_rank": 1631,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "24210",
+  "email": false
 }

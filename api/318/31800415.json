@@ -1,6 +1,6 @@
 {
   "facility_code": "31800415",
-  "institution": "BUENA VISTA UNIVERSITY COUNCIL BLUFFS CENTER",
+  "institution": "Buena Vista University Council Bluffs Center",
   "city": "Council Bluffs",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 153001,
-  "grad_rate": 54.9,
-  "grad_rate_rank": 712,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 17422,
-  "avg_stu_loan_debt_rank": 1002,
-  "indicator_group": 1
+  "grad_rate": 50.6,
+  "grad_rate_rank": 876,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "51501",
+  "email": false
 }

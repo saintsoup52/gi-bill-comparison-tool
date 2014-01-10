@@ -1,6 +1,6 @@
 {
   "facility_code": "31816533",
-  "institution": "MOUNT OLIVE COLLEGE @ WASHINGTON",
+  "institution": "Mount Olive College @ Washington",
   "city": "Washington",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 199069,
-  "grad_rate": 44.5,
-  "grad_rate_rank": 1077,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 17750,
-  "avg_stu_loan_debt_rank": 1052,
-  "indicator_group": 1
+  "grad_rate": 44.4,
+  "grad_rate_rank": 1091,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 17485,
+  "avg_stu_loan_debt_rank": 842,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27889",
+  "email": true
 }

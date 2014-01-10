@@ -1,6 +1,6 @@
 {
   "facility_code": "14810448",
-  "institution": "NEW RIVER COMMUNITY & TECHNICAL COLLEGE",
+  "institution": "New River Community & Technical College",
   "city": "Lewisburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 140,
   "cross": 447582,
-  "grad_rate": 4.5,
-  "grad_rate_rank": 1296,
-  "default_rate": 25.7,
-  "avg_stu_loan_debt": 6742,
-  "avg_stu_loan_debt_rank": 521,
-  "indicator_group": 2
+  "grad_rate": 8.8,
+  "grad_rate_rank": 1322,
+  "default_rate": 31.7,
+  "avg_stu_loan_debt": 4028,
+  "avg_stu_loan_debt_rank": 82,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "24901",
+  "email": true
 }

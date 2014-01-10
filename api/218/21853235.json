@@ -1,6 +1,6 @@
 {
   "facility_code": "21853235",
-  "institution": "ART INSTITUTE OF OHIO - CINCINNATI",
+  "institution": "Art Institute Of Ohio - Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 119,
   "cross": 446668,
-  "grad_rate": 40.0,
-  "grad_rate_rank": 329,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 19751,
-  "avg_stu_loan_debt_rank": 1405,
-  "indicator_group": 2
+  "grad_rate": 14.9,
+  "grad_rate_rank": 1114,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 19064,
+  "avg_stu_loan_debt_rank": 1165,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45249",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32904142",
-  "institution": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+  "institution": "Vanderbilt University Medical Center",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 221999,
-  "grad_rate": 91.9,
-  "grad_rate_rank": 39,
-  "default_rate": 2.1,
-  "avg_stu_loan_debt": 14334,
-  "avg_stu_loan_debt_rank": 665,
-  "indicator_group": 1
+  "grad_rate": 92.2,
+  "grad_rate_rank": 40,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 14287,
+  "avg_stu_loan_debt_rank": 472,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37232",
+  "email": true
 }

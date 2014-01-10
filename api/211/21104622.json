@@ -1,6 +1,6 @@
 {
   "facility_code": "21104622",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN & TECHNOLOGY",
+  "institution": "International Academy Of Design & Technology",
   "city": "Troy",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 445124,
-  "grad_rate": 36.5,
-  "grad_rate_rank": 1335,
-  "default_rate": 28.6,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 16.0,
+  "grad_rate_rank": 1766,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 21331,
+  "avg_stu_loan_debt_rank": 1347,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48083",
+  "email": true
 }

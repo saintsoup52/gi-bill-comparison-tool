@@ -1,6 +1,6 @@
 {
   "facility_code": "25310521",
-  "institution": "GET IT DONE CONSULTING LLC",
+  "institution": "Get It Done Consulting Llc",
   "city": "Norton",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2766",
+  "email": true
 }

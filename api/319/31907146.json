@@ -1,6 +1,6 @@
 {
   "facility_code": "31907146",
-  "institution": "SHENANDOAH UNIVERSITY",
+  "institution": "Shenandoah University",
   "city": "Winchester",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 113,
   "cross": 233541,
-  "grad_rate": 44.6,
-  "grad_rate_rank": 1073,
-  "default_rate": 5.4,
+  "grad_rate": 37.3,
+  "grad_rate_rank": 1328,
+  "default_rate": 8.1,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22601",
+  "email": true
 }

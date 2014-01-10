@@ -1,6 +1,6 @@
 {
   "facility_code": "25160222",
-  "institution": "20-20 TECHNOLOGIES COMMERCIAL CORP",
+  "institution": "20-20 Technologies Commercial Corp",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49544",
+  "email": true
 }

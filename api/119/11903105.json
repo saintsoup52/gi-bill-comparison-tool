@@ -1,6 +1,6 @@
 {
   "facility_code": "11903105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-CHICO",
+  "institution": "California State University-Chico",
   "city": "Chico",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 358,
   "cross": 110538,
-  "grad_rate": 59.0,
-  "grad_rate_rank": 595,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 14200,
-  "avg_stu_loan_debt_rank": 650,
-  "indicator_group": 1
+  "grad_rate": 57.2,
+  "grad_rate_rank": 660,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 14440,
+  "avg_stu_loan_debt_rank": 480,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95929",
+  "email": false
 }

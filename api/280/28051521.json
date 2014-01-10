@@ -1,6 +1,6 @@
 {
   "facility_code": "28051521",
-  "institution": "LABARON HAIRDRESSING ACADEMY",
+  "institution": "Labaron Hairdressing Academy",
   "city": "New Bedford",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 166328,
-  "grad_rate": 79.1,
-  "grad_rate_rank": 696,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 82.9,
+  "grad_rate_rank": 527,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 5200,
+  "avg_stu_loan_debt_rank": 259,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2740",
+  "email": true
 }

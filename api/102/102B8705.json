@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8705",
-  "institution": "FREMONT POLICE DEPARTMENT",
+  "institution": "Fremont Police Department",
   "city": "Fremont",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94538",
+  "email": false
 }

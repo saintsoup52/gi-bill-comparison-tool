@@ -1,6 +1,6 @@
 {
   "facility_code": "11902133",
-  "institution": "WINSTON SALEM STATE UNIVERSITY",
+  "institution": "Winston Salem State University",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 248,
   "cross": 199999,
-  "grad_rate": 41.0,
-  "grad_rate_rank": 1195,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 17734,
-  "avg_stu_loan_debt_rank": 1048,
-  "indicator_group": 1
+  "grad_rate": 40.5,
+  "grad_rate_rank": 1232,
+  "default_rate": 16.3,
+  "avg_stu_loan_debt": 19320,
+  "avg_stu_loan_debt_rank": 1107,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27110",
+  "email": true
 }

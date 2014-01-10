@@ -1,6 +1,6 @@
 {
   "facility_code": "25465010",
-  "institution": "CAM TECH SCHOOL OF CONSTRUCTION - CHAPT 31 ONLY",
+  "institution": "Cam Tech School Of Construction - Chapt 31 Only",
   "city": "Lutz",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33549",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31011133",
-  "institution": "BOSTON UNIVERSITY/MCAS CHERRY POINT",
+  "institution": "Boston University/Mcas Cherry Point",
   "city": "Havelock",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 164988,
-  "grad_rate": 84.7,
-  "grad_rate_rank": 101,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 83.9,
+  "grad_rate_rank": 110,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28532",
+  "email": true
 }

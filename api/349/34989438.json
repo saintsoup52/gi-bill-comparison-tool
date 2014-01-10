@@ -1,6 +1,6 @@
 {
   "facility_code": "34989438",
-  "institution": "JOHNSON COLLEGE",
+  "institution": "Johnson College",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 213233,
-  "grad_rate": 67.3,
-  "grad_rate_rank": 86,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 13661,
-  "avg_stu_loan_debt_rank": 1072,
-  "indicator_group": 2
+  "grad_rate": 67.6,
+  "grad_rate_rank": 110,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 16568,
+  "avg_stu_loan_debt_rank": 1079,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "18508",
+  "email": true
 }

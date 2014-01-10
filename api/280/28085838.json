@@ -1,6 +1,6 @@
 {
   "facility_code": "28085838",
-  "institution": "SOUTH HILLS BEAUTY ACADEMY",
+  "institution": "South Hills Beauty Academy",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 216074,
-  "grad_rate": 89.7,
-  "grad_rate_rank": 276,
-  "default_rate": 11.0,
-  "avg_stu_loan_debt": 3431,
-  "avg_stu_loan_debt_rank": 583,
-  "indicator_group": 5
+  "grad_rate": 91.9,
+  "grad_rate_rank": 223,
+  "default_rate": 15.7,
+  "avg_stu_loan_debt": 5050,
+  "avg_stu_loan_debt_rank": 246,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15216",
+  "email": true
 }

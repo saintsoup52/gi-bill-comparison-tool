@@ -1,6 +1,6 @@
 {
   "facility_code": "25010020",
-  "institution": "MARYLAND BEAUTY ACADEMY",
+  "institution": "Maryland Beauty Academy",
   "city": "Reisterstown",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 163107,
-  "grad_rate": 78.3,
-  "grad_rate_rank": 742,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 5
+  "grad_rate": 78.6,
+  "grad_rate_rank": 720,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 7400,
+  "avg_stu_loan_debt_rank": 684,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21136",
+  "email": false
 }

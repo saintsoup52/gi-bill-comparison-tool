@@ -1,6 +1,6 @@
 {
   "facility_code": "14999443",
-  "institution": "TYLER JUNIOR COLLEGE",
+  "institution": "Tyler Junior College",
   "city": "Tyler",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 435,
   "cross": 229355,
-  "grad_rate": 12.2,
-  "grad_rate_rank": 1133,
-  "default_rate": 24.0,
-  "avg_stu_loan_debt": 6847,
-  "avg_stu_loan_debt_rank": 534,
-  "indicator_group": 2
+  "grad_rate": 14.4,
+  "grad_rate_rank": 1134,
+  "default_rate": 28.9,
+  "avg_stu_loan_debt": 7647,
+  "avg_stu_loan_debt_rank": 524,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75798",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15002011",
-  "institution": "GEORGIA PUBLIC SAFETY TRAINING CENTER - REGIONAL POLICE ACADEMY (FORSYTH)",
+  "institution": "Georgia Public Safety Training Center - Regional Police Academy (Forsyth)",
   "city": "Forsyth",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31029",
+  "email": true
 }

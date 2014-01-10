@@ -1,6 +1,6 @@
 {
   "facility_code": "31009421",
-  "institution": "NEW ENGLAND SCHOOL OF LAW",
+  "institution": "New England School Of Law",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 167215,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.1,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 91,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "2116",
+  "email": true
 }

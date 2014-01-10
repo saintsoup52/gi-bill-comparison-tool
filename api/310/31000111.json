@@ -1,6 +1,6 @@
 {
   "facility_code": "31000111",
-  "institution": "AGNES SCOTT COLLEGE",
+  "institution": "Agnes Scott College",
   "city": "Decatur",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 138600,
-  "grad_rate": 64.6,
-  "grad_rate_rank": 445,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 22592,
-  "avg_stu_loan_debt_rank": 1719,
-  "indicator_group": 1
+  "grad_rate": 63.5,
+  "grad_rate_rank": 475,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30030",
+  "email": true
 }

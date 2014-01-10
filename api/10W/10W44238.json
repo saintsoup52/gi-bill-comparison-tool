@@ -1,6 +1,6 @@
 {
   "facility_code": "10W44238",
-  "institution": "FAA- PITTSBURGH RADAR/ AUTOMATION SYSTEM SUPPORT CENTER",
+  "institution": "Faa- Pittsburgh Radar/ Automation System Support Center",
   "city": "Coraopolis",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15108",
+  "email": false
 }

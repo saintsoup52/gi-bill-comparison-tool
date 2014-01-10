@@ -1,6 +1,6 @@
 {
   "facility_code": "20532432",
-  "institution": "ROCHESTER JATC (IBEW LOCAL UNION 86)",
+  "institution": "Rochester Jatc (Ibew Local Union 86)",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14623",
+  "email": true
 }

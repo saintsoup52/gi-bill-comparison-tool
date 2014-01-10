@@ -1,6 +1,6 @@
 {
   "facility_code": "21000411",
-  "institution": "SOUTH UNIVERSITY",
+  "institution": "South University",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2172,
   "cross": 139579,
-  "grad_rate": 15.0,
-  "grad_rate_rank": 1027,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 9098,
-  "avg_stu_loan_debt_rank": 728,
-  "indicator_group": 2
+  "grad_rate": 24.5,
+  "grad_rate_rank": 803,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 6463,
+  "avg_stu_loan_debt_rank": 376,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "31406",
+  "email": true
 }

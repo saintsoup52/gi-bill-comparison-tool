@@ -1,6 +1,6 @@
 {
   "facility_code": "10079418",
-  "institution": "FAA - LAKE CHARLES ATCT (LCH)",
+  "institution": "Faa - Lake Charles Atct (Lch)",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70605",
+  "email": true
 }

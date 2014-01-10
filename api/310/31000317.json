@@ -1,6 +1,6 @@
 {
   "facility_code": "31000317",
-  "institution": "CENTRE COLLEGE",
+  "institution": "Centre College",
   "city": "Danville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 156408,
-  "grad_rate": 82.0,
-  "grad_rate_rank": 125,
-  "default_rate": 0.6,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 87.2,
+  "grad_rate_rank": 82,
+  "default_rate": 1.9,
+  "avg_stu_loan_debt": 23250,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40422",
+  "email": true
 }

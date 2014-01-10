@@ -1,6 +1,6 @@
 {
   "facility_code": "11035243",
-  "institution": "SUL ROSS STATE UNIVERSITY RIO GRANDE COLLEGE",
+  "institution": "Sul Ross State University Rio Grande College",
   "city": "Eagle Pass",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 27,
   "cross": 228501,
-  "grad_rate": 23.5,
-  "grad_rate_rank": 1616,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 11324,
-  "avg_stu_loan_debt_rank": 321,
-  "indicator_group": 1
+  "grad_rate": 24.2,
+  "grad_rate_rank": 1654,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 11200,
+  "avg_stu_loan_debt_rank": 239,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78852",
+  "email": false
 }

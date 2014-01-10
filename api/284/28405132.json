@@ -1,6 +1,6 @@
 {
   "facility_code": "28405132",
-  "institution": "AMERICAN BARBER INSTITUTE",
+  "institution": "American Barber Institute",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 436526,
-  "grad_rate": 97.6,
-  "grad_rate_rank": 95,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 65.1,
+  "grad_rate_rank": 1422,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10001",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14981411",
-  "institution": "ATLANTA METROPOLITAN STATE COLLEGE",
+  "institution": "Atlanta Metropolitan State College",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 236,
   "cross": 138901,
-  "grad_rate": 12.5,
-  "grad_rate_rank": 1118,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 5615,
-  "avg_stu_loan_debt_rank": 399,
-  "indicator_group": 2
+  "grad_rate": 9.3,
+  "grad_rate_rank": 1313,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 6001,
+  "avg_stu_loan_debt_rank": 331,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "30310",
+  "email": true
 }

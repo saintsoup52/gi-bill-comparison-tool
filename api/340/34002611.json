@@ -1,6 +1,6 @@
 {
   "facility_code": "34002611",
-  "institution": "TRUETT-MCCONNELL COLLEGE",
+  "institution": "Truett-Mcconnell College",
   "city": "Cleveland",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 141237,
-  "grad_rate": 13.6,
-  "grad_rate_rank": 1747,
-  "default_rate": 17.1,
+  "grad_rate": 9.4,
+  "grad_rate_rank": 1833,
+  "default_rate": 17.0,
   "avg_stu_loan_debt": 11468,
-  "avg_stu_loan_debt_rank": 333,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 253,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30528",
+  "email": true
 }

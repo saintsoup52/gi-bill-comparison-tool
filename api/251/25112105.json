@@ -1,6 +1,6 @@
 {
   "facility_code": "25112105",
-  "institution": "FEDERICO BEAUTY INSTITUTE",
+  "institution": "Federico Beauty Institute",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 114460,
-  "grad_rate": 74.3,
-  "grad_rate_rank": 960,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 7828,
-  "avg_stu_loan_debt_rank": 1314,
-  "indicator_group": 5
+  "grad_rate": 78.3,
+  "grad_rate_rank": 741,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 8027,
+  "avg_stu_loan_debt_rank": 829,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95834",
+  "email": true
 }

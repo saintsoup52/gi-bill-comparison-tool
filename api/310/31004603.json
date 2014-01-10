@@ -1,6 +1,6 @@
 {
   "facility_code": "31004603",
-  "institution": "AMERICAN INDIAN COLLEGE OF THE ASSEMBLIES OF GOD",
+  "institution": "American Indian College Of The Assemblies Of God",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 103787,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 112,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 41.7,
+  "grad_rate_rank": 386,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 567,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "85021",
+  "email": false
 }

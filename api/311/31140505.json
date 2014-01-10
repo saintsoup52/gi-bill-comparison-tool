@@ -1,6 +1,6 @@
 {
   "facility_code": "31140505",
-  "institution": "SAMUEL MERRITT UNIVERSITY",
+  "institution": "Samuel Merritt University",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 122296,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.2,
+  "default_rate": 1.1,
   "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94609",
+  "email": true
 }

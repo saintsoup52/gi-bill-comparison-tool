@@ -1,6 +1,6 @@
 {
   "facility_code": "20020264",
-  "institution": "HAWAII GLAZIERS ARCHITECTURAL METAL AND GLASSWORKERS UNION",
+  "institution": "Hawaii Glaziers Architectural Metal And Glassworkers Union",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96826",
+  "email": false
 }

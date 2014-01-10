@@ -1,6 +1,6 @@
 {
   "facility_code": "10080514",
-  "institution": "CITY OF COLUMBUS IT",
+  "institution": "City Of Columbus It",
   "city": "Columbus",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47201",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20069844",
-  "institution": "MOON LAKE ELECTRIC ASSOCIATION APP",
+  "institution": "Moon Lake Electric Association App",
   "city": "Roosevelt",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84066",
+  "email": false
 }

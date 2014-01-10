@@ -1,6 +1,6 @@
 {
   "facility_code": "10041166",
-  "institution": "CONSOLIDATED INDUSTRIAL RELATIONS OFFICE - PWC",
+  "institution": "Consolidated Industrial Relations Office - Pwc",
   "city": "Fpo San Francisco Ca",
   "state": "GU",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96630",
+  "email": false
 }

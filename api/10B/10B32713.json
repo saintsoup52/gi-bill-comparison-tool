@@ -1,6 +1,6 @@
 {
   "facility_code": "10B32713",
-  "institution": "ROCKFORD FIRE DEPARTMENT FIREMANS TRNG ACADEMY",
+  "institution": "Rockford Fire Department Firemans Trng Academy",
   "city": "Rockford",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61102",
+  "email": false
 }

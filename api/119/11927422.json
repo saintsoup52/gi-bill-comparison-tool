@@ -1,6 +1,6 @@
 {
   "facility_code": "11927422",
-  "institution": "LAKE SUPERIOR STATE UNIVERSITY",
+  "institution": "Lake Superior State University",
   "city": "Sault Ste Marie",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 103,
   "cross": 170639,
-  "grad_rate": 35.3,
-  "grad_rate_rank": 1357,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 16125,
-  "avg_stu_loan_debt_rank": 853,
-  "indicator_group": 1
+  "grad_rate": 39.2,
+  "grad_rate_rank": 1277,
+  "default_rate": 11.2,
+  "avg_stu_loan_debt": 15940,
+  "avg_stu_loan_debt_rank": 617,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49783",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10049511",
-  "institution": "FORT VALLEY POLICE DEPARTMENT",
+  "institution": "Fort Valley Police Department",
   "city": "Fort Valley",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31030",
+  "email": false
 }

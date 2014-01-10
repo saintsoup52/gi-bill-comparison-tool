@@ -1,6 +1,6 @@
 {
   "facility_code": "21381732",
-  "institution": "MONROE COLLEGE",
+  "institution": "Monroe College",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 416,
   "cross": 193308,
-  "grad_rate": 50.8,
-  "grad_rate_rank": 216,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 14400,
-  "avg_stu_loan_debt_rank": 1103,
-  "indicator_group": 2
+  "grad_rate": 51.1,
+  "grad_rate_rank": 252,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 13540,
+  "avg_stu_loan_debt_rank": 923,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10468",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25P20438",
-  "institution": "CABOT OIL & GAS INC.",
+  "institution": "Cabot Oil & Gas Inc.",
   "city": "Montrose",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18801",
+  "email": true
 }

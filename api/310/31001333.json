@@ -1,6 +1,6 @@
 {
   "facility_code": "31001333",
-  "institution": "SALEM COLLEGE",
+  "institution": "Salem College",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 199607,
-  "grad_rate": 52.7,
-  "grad_rate_rank": 782,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 15555,
-  "avg_stu_loan_debt_rank": 793,
-  "indicator_group": 1
+  "grad_rate": 62.7,
+  "grad_rate_rank": 498,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 16430,
+  "avg_stu_loan_debt_rank": 735,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27101",
+  "email": true
 }

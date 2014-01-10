@@ -1,6 +1,6 @@
 {
   "facility_code": "14805206",
-  "institution": "TRINIDAD STATE JR COLLEGE (SAN LUIS VALLEY EDUCATION CENTER)",
+  "institution": "Trinidad State Jr College (San Luis Valley Education Center)",
   "city": "Alamosa",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 128258,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 201,
-  "default_rate": 29.8,
-  "avg_stu_loan_debt": 6442,
-  "avg_stu_loan_debt_rank": 254,
-  "indicator_group": 3
+  "grad_rate": 50.7,
+  "grad_rate_rank": 390,
+  "default_rate": 30.3,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "81101",
+  "email": false
 }

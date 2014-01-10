@@ -1,10 +1,10 @@
 {
   "facility_code": "25027163",
-  "institution": "**CH 31 ONLY**MANPOWER BUSINESS TRAINING INSTITUTE",
+  "institution": "**Ch 31 Only**Manpower Business Training Institute",
   "city": "Aguadilla",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "603",
+  "email": false
 }

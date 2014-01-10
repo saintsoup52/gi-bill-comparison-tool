@@ -1,6 +1,6 @@
 {
   "facility_code": "11901425",
-  "institution": "LINCOLN UNIVERSITY - FT LEONARD WOOD BRANCH",
+  "institution": "Lincoln University - Ft Leonard Wood Branch",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 177940,
-  "grad_rate": 20.5,
-  "grad_rate_rank": 1664,
-  "default_rate": 24.7,
-  "avg_stu_loan_debt": 12750,
-  "avg_stu_loan_debt_rank": 530,
-  "indicator_group": 1
+  "grad_rate": 24.3,
+  "grad_rate_rank": 1653,
+  "default_rate": 27.2,
+  "avg_stu_loan_debt": 12005,
+  "avg_stu_loan_debt_rank": 285,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65101",
+  "email": false
 }

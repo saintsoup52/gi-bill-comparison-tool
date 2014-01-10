@@ -1,6 +1,6 @@
 {
   "facility_code": "11804233",
-  "institution": "FAYETTEVILLE STATE UNIVERSITY - FT BRAGG CENTER",
+  "institution": "Fayetteville State University - Ft Bragg Center",
   "city": "Fort Bragg",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 198543,
-  "grad_rate": 30.7,
-  "grad_rate_rank": 1483,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 18114,
-  "avg_stu_loan_debt_rank": 1100,
-  "indicator_group": 1
+  "grad_rate": 31.2,
+  "grad_rate_rank": 1503,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 15572,
+  "avg_stu_loan_debt_rank": 588,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28307",
+  "email": true
 }

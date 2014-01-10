@@ -1,6 +1,6 @@
 {
   "facility_code": "20394036",
-  "institution": "ROBINSON APPLIANCE & REFRIGERATION SERVICE",
+  "institution": "Robinson Appliance & Refrigeration Service",
   "city": "Mcalester",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74501",
+  "email": "No (SCO)"
 }

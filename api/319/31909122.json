@@ -1,6 +1,6 @@
 {
   "facility_code": "31909122",
-  "institution": "KETTERING UNIVERSITY",
+  "institution": "Kettering University",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 169983,
-  "grad_rate": 59.2,
-  "grad_rate_rank": 586,
-  "default_rate": 1.8,
-  "avg_stu_loan_debt": 19859,
-  "avg_stu_loan_debt_rank": 1382,
-  "indicator_group": 1
+  "grad_rate": 56.4,
+  "grad_rate_rank": 689,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 22750,
+  "avg_stu_loan_debt_rank": 1492,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48504",
+  "email": true
 }

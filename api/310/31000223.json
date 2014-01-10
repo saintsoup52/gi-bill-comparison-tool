@@ -1,6 +1,6 @@
 {
   "facility_code": "31000223",
-  "institution": "CARLETON COLLEGE",
+  "institution": "Carleton College",
   "city": "Northfield",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 173258,
-  "grad_rate": 92.6,
-  "grad_rate_rank": 35,
-  "default_rate": 1.3,
-  "avg_stu_loan_debt": 17749,
-  "avg_stu_loan_debt_rank": 1051,
-  "indicator_group": 1
+  "grad_rate": 93.8,
+  "grad_rate_rank": 27,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 16870,
+  "avg_stu_loan_debt_rank": 788,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55057",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31906121",
-  "institution": "NORTHEASTERN UNIVERSITY",
+  "institution": "Northeastern University",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 415,
   "cross": 167358,
-  "grad_rate": 76.8,
-  "grad_rate_rank": 203,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 78.5,
+  "grad_rate_rank": 181,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 26254,
+  "avg_stu_loan_debt_rank": 1851,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2115",
+  "email": true
 }

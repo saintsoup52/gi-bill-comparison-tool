@@ -1,6 +1,6 @@
 {
   "facility_code": "20N27532",
-  "institution": "GOODNATURE PRODUCTS INC.",
+  "institution": "Goodnature Products Inc.",
   "city": "Buffal",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14206",
+  "email": true
 }

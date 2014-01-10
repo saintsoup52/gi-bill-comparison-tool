@@ -1,6 +1,6 @@
 {
   "facility_code": "21001844",
-  "institution": "NIGHTINGALE COLLEGE",
+  "institution": "Nightingale College",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 444787,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 45.8,
+  "grad_rate_rank": 425,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 546,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "84403",
+  "email": true
 }

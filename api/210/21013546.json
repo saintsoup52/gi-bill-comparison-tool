@@ -1,6 +1,6 @@
 {
   "facility_code": "21013546",
-  "institution": "WESTWOOD COLLEGE - ARLINGTON",
+  "institution": "Westwood College - Arlington",
   "city": "Arlington",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 74,
   "cross": 447069,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.6,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 12.5,
+  "grad_rate_rank": 1809,
+  "default_rate": 24.7,
+  "avg_stu_loan_debt": 23874,
+  "avg_stu_loan_debt_rank": 1605,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22203",
+  "email": true
 }

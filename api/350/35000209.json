@@ -1,6 +1,6 @@
 {
   "facility_code": "35000209",
-  "institution": "NATIONAL CONSERVATORY OF DRAMATIC ARTS",
+  "institution": "National Conservatory Of Dramatic Arts",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 131830,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 301,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 2494,
-  "indicator_group": 5
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 36.3,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 1554,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "20007",
+  "email": false
 }

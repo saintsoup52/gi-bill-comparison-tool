@@ -1,6 +1,6 @@
 {
   "facility_code": "10226803",
-  "institution": "TOHONO O'ODHAM CC CAREER CENTER",
+  "institution": "Tohono O'Odham Cc Career Center",
   "city": "Sells",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85634",
+  "email": false
 }

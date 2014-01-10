@@ -1,6 +1,6 @@
 {
   "facility_code": "31863222",
-  "institution": "DAVENPORT UNIVERSITY - WESTERN REGION KALAMAZOO CAMPUS",
+  "institution": "Davenport University - Western Region Kalamazoo Campus",
   "city": "Kalamazoo",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 169479,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 1590,
-  "default_rate": 9.6,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 40.3,
+  "grad_rate_rank": 1240,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49006",
+  "email": false
 }

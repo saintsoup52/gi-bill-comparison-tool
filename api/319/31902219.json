@@ -1,6 +1,6 @@
 {
   "facility_code": "31902219",
-  "institution": "NEW ENGLAND SCHOOL OF COMMUNICATIONS",
+  "institution": "New England School Of Communications",
   "city": "Bangor",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 373827,
-  "grad_rate": 29.5,
-  "grad_rate_rank": 1509,
-  "default_rate": 15.2,
-  "avg_stu_loan_debt": 14700,
-  "avg_stu_loan_debt_rank": 691,
-  "indicator_group": 1
+  "grad_rate": 43.0,
+  "grad_rate_rank": 1135,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4401",
+  "email": true
 }

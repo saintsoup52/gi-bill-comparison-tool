@@ -1,10 +1,10 @@
 {
   "facility_code": "21000189",
-  "institution": "QUALITY LEADERSHIP UNIV",
+  "institution": "Quality Leadership Univ",
   "city": "Ciudad De Panama; Panama",
   "state": "Panama",
   "country": "Panama",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 6,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21958105",
-  "institution": "MUSICIANS INSTITUTE",
+  "institution": "Musicians Institute",
   "city": "Hollywood",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 119,
   "cross": 119270,
-  "grad_rate": 46.8,
-  "grad_rate_rank": 221,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 710,
-  "indicator_group": 3
+  "grad_rate": 53.3,
+  "grad_rate_rank": 368,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 16848,
+  "avg_stu_loan_debt_rank": 688,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90028",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15026509",
-  "institution": "MAURICE TURNER INSTITUTE OF POLICE SCIENCE METROPOLITAN POLICE DEPARTMENT",
+  "institution": "Maurice Turner Institute Of Police Science Metropolitan Police Department",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20032",
+  "email": false
 }

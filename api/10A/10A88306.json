@@ -1,6 +1,6 @@
 {
   "facility_code": "10A88306",
-  "institution": "COLORADO SPRINGS FIRE DEPARTMENT",
+  "institution": "Colorado Springs Fire Department",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80910",
+  "email": false
 }

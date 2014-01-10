@@ -1,6 +1,6 @@
 {
   "facility_code": "31001146",
-  "institution": "SWEET BRIAR COLLEGE  -  REGISTRARS OFFICE",
+  "institution": "Sweet Briar College  -  Registrars Office",
   "city": "Sweet Briar",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 233718,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 312,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 31184,
-  "avg_stu_loan_debt_rank": 2043,
-  "indicator_group": 1
+  "grad_rate": 62.1,
+  "grad_rate_rank": 512,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 27917,
+  "avg_stu_loan_debt_rank": 1912,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24595",
+  "email": true
 }

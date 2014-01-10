@@ -1,6 +1,6 @@
 {
   "facility_code": "34925804",
-  "institution": "REMINGTON COLLEGE",
+  "institution": "Remington College",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 438869,
-  "grad_rate": 56.4,
-  "grad_rate_rank": 168,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 9487,
-  "avg_stu_loan_debt_rank": 445,
-  "indicator_group": 3
+  "grad_rate": 84.7,
+  "grad_rate_rank": 39,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "72204",
+  "email": false
 }

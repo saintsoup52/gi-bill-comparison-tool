@@ -1,6 +1,6 @@
 {
   "facility_code": "14909437",
-  "institution": "CLACKAMAS COMMUNITY COLLEGE",
+  "institution": "Clackamas Community College",
   "city": "Oregon City",
   "state": "OR",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 383,
   "cross": 208406,
   "grad_rate": 13.8,
-  "grad_rate_rank": 1071,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 6334,
-  "avg_stu_loan_debt_rank": 475,
-  "indicator_group": 2
+  "grad_rate_rank": 1166,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 7334,
+  "avg_stu_loan_debt_rank": 485,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "97045",
+  "email": true
 }

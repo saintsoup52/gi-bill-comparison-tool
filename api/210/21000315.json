@@ -1,6 +1,6 @@
 {
   "facility_code": "21000315",
-  "institution": "ASHFORD UNIVERSITY (FORMERLY THE FRANCISCAN UNIVERSITY)",
+  "institution": "Ashford University (Formerly The Franciscan University)",
   "city": "Clinton",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 154022,
-  "grad_rate": 20.6,
-  "grad_rate_rank": 1663,
-  "default_rate": 19.8,
-  "avg_stu_loan_debt": 5755,
-  "avg_stu_loan_debt_rank": 128,
-  "indicator_group": 1
+  "grad_rate": 21.5,
+  "grad_rate_rank": 1694,
+  "default_rate": 16.3,
+  "avg_stu_loan_debt": 6070,
+  "avg_stu_loan_debt_rank": 50,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52732",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31012319",
-  "institution": "MAINE COLLEGE OF ART",
+  "institution": "Maine College Of Art",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 161509,
-  "grad_rate": 41.8,
-  "grad_rate_rank": 1166,
-  "default_rate": 8.9,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 26.5,
+  "grad_rate_rank": 1607,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 26250,
+  "avg_stu_loan_debt_rank": 1848,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4101",
+  "email": false
 }

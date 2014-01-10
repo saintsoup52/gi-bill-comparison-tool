@@ -1,6 +1,6 @@
 {
   "facility_code": "11925431",
-  "institution": "NAVAJO TECHNICAL COLLEGE",
+  "institution": "Navajo Technical College",
   "city": "Crownpoint",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 187596,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 72.0,
+  "grad_rate_rank": 146,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "87313",
+  "email": true
 }

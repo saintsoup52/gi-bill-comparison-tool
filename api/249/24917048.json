@@ -1,6 +1,6 @@
 {
   "facility_code": "24917048",
-  "institution": "WEST VIRGINIA JUNIOR COLLEGE BRIDGEPORT CAMPUS",
+  "institution": "West Virginia Junior College Bridgeport Campus",
   "city": "Bridgeport",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 442383,
-  "grad_rate": 54.1,
-  "grad_rate_rank": 182,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 8774,
-  "avg_stu_loan_debt_rank": 707,
-  "indicator_group": 2
+  "grad_rate": 57.6,
+  "grad_rate_rank": 192,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 8507,
+  "avg_stu_loan_debt_rank": 582,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "26330",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15028529",
-  "institution": "CONTOOCOOK VALLEY REGIONAL HIGH SCHOOL (CONVAL)",
+  "institution": "Contoocook Valley Regional High School (Conval)",
   "city": "Peterborough",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3458",
+  "email": false
 }

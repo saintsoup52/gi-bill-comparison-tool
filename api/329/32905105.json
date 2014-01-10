@@ -1,6 +1,6 @@
 {
   "facility_code": "32905105",
-  "institution": "CHARLES R. DREW UNIV OF MEDICINE & SCIENCE-LOS ANGELES",
+  "institution": "Charles R. Drew Univ Of Medicine & Science-Los Angeles",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 10,
   "cross": 111966,
   "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate_rank": 1390,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 26130,
+  "avg_stu_loan_debt_rank": 1402,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90059",
+  "email": false
 }

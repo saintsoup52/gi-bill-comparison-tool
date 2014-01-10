@@ -1,6 +1,6 @@
 {
   "facility_code": "18085738",
-  "institution": "GREENE COUNTY CAREER AND TECHNOLOGY CENTER",
+  "institution": "Greene County Career And Technology Center",
   "city": "Waynesburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 260363,
-  "grad_rate": 86.7,
-  "grad_rate_rank": 370,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 13575,
-  "avg_stu_loan_debt_rank": 2425,
-  "indicator_group": 5
+  "grad_rate": 84.2,
+  "grad_rate_rank": 462,
+  "default_rate": 35.7,
+  "avg_stu_loan_debt": 14003,
+  "avg_stu_loan_debt_rank": 1901,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15370",
+  "email": true
 }

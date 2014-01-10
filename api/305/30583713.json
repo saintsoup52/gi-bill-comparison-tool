@@ -1,6 +1,6 @@
 {
   "facility_code": "30583713",
-  "institution": "PLUMBERS & PIPEFITTERS LOCAL #65 JATC",
+  "institution": "Plumbers & Pipefitters Local #65 Jatc",
   "city": "Decatur",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62524",
+  "email": false
 }

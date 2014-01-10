@@ -1,6 +1,6 @@
 {
   "facility_code": "31357047",
-  "institution": "BRANDMAN UNIVERSITY @ MAFB/FT LEWIS",
+  "institution": "Brandman University @ Mafb/Ft Lewis",
   "city": "Joint Base Lewis-Mcchord",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 142,
   "cross": 262086,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.5,
+  "default_rate": 4.8,
   "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98438",
+  "email": true
 }

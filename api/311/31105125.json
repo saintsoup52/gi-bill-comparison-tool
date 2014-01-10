@@ -1,6 +1,6 @@
 {
   "facility_code": "31105125",
-  "institution": "LOGAN COLLEGE OF CHIROPRACTIC/UNIVERSITY",
+  "institution": "Logan College Of Chiropractic/University",
   "city": "Chesterfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 177986,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.1,
-  "avg_stu_loan_debt": 7481,
-  "avg_stu_loan_debt_rank": 163,
-  "indicator_group": 1
+  "default_rate": 1.2,
+  "avg_stu_loan_debt": 8050,
+  "avg_stu_loan_debt_rank": 102,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63006",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25147822",
-  "institution": "THE GALLERY COLLEGE OF BEAUTY",
+  "institution": "The Gallery College Of Beauty",
   "city": "Clinton Township",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451282,
-  "grad_rate": 43.9,
-  "grad_rate_rank": 2026,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 36.1,
+  "grad_rate_rank": 2150,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48036",
+  "email": true
 }

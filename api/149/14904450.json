@@ -1,6 +1,6 @@
 {
   "facility_code": "14904450",
-  "institution": "WESTERN WYOMING COMMUNITY COLLEGE",
+  "institution": "Western Wyoming Community College",
   "city": "Rock Springs",
   "state": "WY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 55,
   "cross": 240693,
-  "grad_rate": 45.7,
-  "grad_rate_rank": 267,
-  "default_rate": 18.8,
+  "grad_rate": 46.2,
+  "grad_rate_rank": 319,
+  "default_rate": 20.2,
   "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "82902",
+  "email": true
 }

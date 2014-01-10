@@ -1,6 +1,6 @@
 {
   "facility_code": "31104922",
-  "institution": "KUYPER COLLEGE",
+  "institution": "Kuyper College",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 171881,
-  "grad_rate": 47.7,
-  "grad_rate_rank": 971,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 14600,
-  "avg_stu_loan_debt_rank": 687,
-  "indicator_group": 1
+  "grad_rate": 54.8,
+  "grad_rate_rank": 747,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49525",
+  "email": true
 }

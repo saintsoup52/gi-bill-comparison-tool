@@ -1,6 +1,6 @@
 {
   "facility_code": "24900150",
-  "institution": "WYOTECH",
+  "institution": "Wyotech",
   "city": "Laramie",
   "state": "WY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 232,
   "cross": 240718,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 11771,
-  "avg_stu_loan_debt_rank": 703,
-  "indicator_group": 3
+  "grad_rate": 78.8,
+  "grad_rate_rank": 76,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 651,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "82072",
+  "email": true
 }

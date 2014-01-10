@@ -1,6 +1,6 @@
 {
   "facility_code": "35007105",
-  "institution": "CES COLLEGE",
+  "institution": "Ces College",
   "city": "Burbank",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 444510,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 87.5,
+  "grad_rate_rank": 344,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 16636,
-  "avg_stu_loan_debt_rank": 2505,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 11473,
+  "avg_stu_loan_debt_rank": 1634,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91502",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28027038",
-  "institution": "EMPIRE BEAUTY SCHOOL (LEBANON)",
+  "institution": "Empire Beauty School (Lebanon)",
   "city": "Lebanon",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 212230,
-  "grad_rate": 82.9,
-  "grad_rate_rank": 508,
-  "default_rate": 11.5,
-  "avg_stu_loan_debt": 13700,
-  "avg_stu_loan_debt_rank": 2430,
-  "indicator_group": 5
+  "grad_rate": 76.9,
+  "grad_rate_rank": 811,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17042",
+  "email": true
 }

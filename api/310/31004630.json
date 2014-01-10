@@ -1,6 +1,6 @@
 {
   "facility_code": "31004630",
-  "institution": "EASTERN INTERNATIONAL COLLEGE",
+  "institution": "Eastern International College",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 421878,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 24.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 87.5,
+  "grad_rate_rank": 26,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 10749,
+  "avg_stu_loan_debt_rank": 559,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "7306",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18084038",
-  "institution": "CLEARFIELD COUNTY CAREER AND TECHNOLOGY CENTER",
+  "institution": "Clearfield County Career And Technology Center",
   "city": "Clearfield",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 430908,
-  "grad_rate": 62.8,
-  "grad_rate_rank": 1480,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 9750,
-  "avg_stu_loan_debt_rank": 2110,
-  "indicator_group": 5
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16830",
+  "email": true
 }

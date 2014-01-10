@@ -1,6 +1,6 @@
 {
   "facility_code": "11505948",
-  "institution": "CONCORD UNIVERSITY",
+  "institution": "Concord University",
   "city": "Athens",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 111,
   "cross": 237330,
-  "grad_rate": 33.5,
-  "grad_rate_rank": 1401,
-  "default_rate": 16.0,
-  "avg_stu_loan_debt": 10587,
-  "avg_stu_loan_debt_rank": 285,
-  "indicator_group": 1
+  "grad_rate": 37.8,
+  "grad_rate_rank": 1311,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 11403,
+  "avg_stu_loan_debt_rank": 249,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24712",
+  "email": true
 }

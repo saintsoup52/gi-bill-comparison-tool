@@ -1,6 +1,6 @@
 {
   "facility_code": "14974405",
-  "institution": "CABRILLO COLLEGE",
+  "institution": "Cabrillo College",
   "city": "Aptos",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 254,
   "cross": 110334,
-  "grad_rate": 24.7,
-  "grad_rate_rank": 698,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 22.9,
+  "grad_rate_rank": 847,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 7068,
+  "avg_stu_loan_debt_rank": 463,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "95003",
+  "email": false
 }

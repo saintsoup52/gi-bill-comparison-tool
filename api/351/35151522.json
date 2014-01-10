@@ -1,6 +1,6 @@
 {
   "facility_code": "35151522",
-  "institution": "DORSEY BUSINESS SCHOOL - ROSEVILLE",
+  "institution": "Dorsey Business School - Roseville",
   "city": "Roseville",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 250744,
-  "grad_rate": 51.5,
-  "grad_rate_rank": 1888,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 7252,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 5
+  "grad_rate": 36.6,
+  "grad_rate_rank": 2144,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 7487,
+  "avg_stu_loan_debt_rank": 693,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48066",
+  "email": true
 }

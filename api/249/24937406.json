@@ -1,6 +1,6 @@
 {
   "facility_code": "24937406",
-  "institution": "EVEREST COLLEGE - COLORADO SPRINGS",
+  "institution": "Everest College - Colorado Springs",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 134,
   "cross": 126401,
-  "grad_rate": 52.1,
-  "grad_rate_rank": 192,
-  "default_rate": 28.0,
+  "grad_rate": 52.9,
+  "grad_rate_rank": 372,
+  "default_rate": 18.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80916",
+  "email": true
 }

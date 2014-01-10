@@ -1,6 +1,6 @@
 {
   "facility_code": "10999501",
-  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY - SELMA",
+  "institution": "Alabama Department Of Public Safety - Selma",
   "city": "Selma",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36701",
+  "email": true
 }

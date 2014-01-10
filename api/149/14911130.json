@@ -1,6 +1,6 @@
 {
   "facility_code": "14911130",
-  "institution": "MERCER COUNTY COMMUNITY COLLEGE",
+  "institution": "Mercer County Community College",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 225,
   "cross": 185509,
-  "grad_rate": 17.6,
-  "grad_rate_rank": 945,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 440,
-  "indicator_group": 2
+  "grad_rate": 13.6,
+  "grad_rate_rank": 1176,
+  "default_rate": 23.2,
+  "avg_stu_loan_debt": 5750,
+  "avg_stu_loan_debt_rank": 307,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "8690",
+  "email": true
 }

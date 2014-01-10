@@ -1,6 +1,6 @@
 {
   "facility_code": "14957432",
-  "institution": "TOMPKINS-CORTLAND COMMUNITY COLLEGE",
+  "institution": "Tompkins-Cortland Community College",
   "city": "Dryden",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 108,
   "cross": 196565,
-  "grad_rate": 23.2,
-  "grad_rate_rank": 749,
-  "default_rate": 25.7,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 720,
-  "indicator_group": 2
+  "grad_rate": 21.5,
+  "grad_rate_rank": 896,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 9069,
+  "avg_stu_loan_debt_rank": 631,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13053",
+  "email": true
 }

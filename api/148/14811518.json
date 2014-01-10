@@ -1,6 +1,6 @@
 {
   "facility_code": "14811518",
-  "institution": "LOUISIANA DELTA COMM COLLEGE - TALLULAH",
+  "institution": "Louisiana Delta Comm College - Tallulah",
   "city": "Tallulah",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71284",
+  "email": true
 }

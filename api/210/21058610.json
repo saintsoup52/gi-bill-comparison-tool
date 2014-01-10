@@ -1,6 +1,6 @@
 {
   "facility_code": "21058610",
-  "institution": "FLORIDA COASTAL SCHOOL OF LAW",
+  "institution": "Florida Coastal School Of Law",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 65,
   "cross": 434715,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 24164,
-  "avg_stu_loan_debt_rank": 316,
-  "indicator_group": 4
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "32256",
+  "email": false
 }

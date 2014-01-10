@@ -1,6 +1,6 @@
 {
   "facility_code": "25026342",
-  "institution": "UNITED TRUCK DRIVING SCHOOL",
+  "institution": "United Truck Driving School",
   "city": "Murfreesboro",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37129",
+  "email": false
 }

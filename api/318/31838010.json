@@ -1,6 +1,6 @@
 {
   "facility_code": "31838010",
-  "institution": "REMINGTON COLLEGE TAMPA",
+  "institution": "Remington College Tampa",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 135939,
-  "grad_rate": 46.5,
-  "grad_rate_rank": 223,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 5086,
-  "avg_stu_loan_debt_rank": 179,
-  "indicator_group": 3
+  "grad_rate": 60.0,
+  "grad_rate_rank": 291,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33619",
+  "email": true
 }

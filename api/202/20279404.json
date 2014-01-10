@@ -1,6 +1,6 @@
 {
   "facility_code": "20279404",
-  "institution": "NATIONAL APPRENTICESHIP TRG FOUNDATION (FORMELY MWC ELECTRICAL APPRENTICESHIP)",
+  "institution": "National Apprenticeship Trg Foundation (Formely Mwc Electrical Apprenticeship)",
   "city": "Arkadelphia",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71923",
+  "email": false
 }

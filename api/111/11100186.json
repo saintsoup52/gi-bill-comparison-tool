@@ -1,10 +1,10 @@
 {
   "facility_code": "11100186",
-  "institution": "UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA",
+  "institution": "Universidad Autonoma De Baja California",
   "city": "Mexicali, B.C.,",
   "state": "Mexico",
   "country": "Mexico",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

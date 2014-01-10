@@ -1,6 +1,6 @@
 {
   "facility_code": "24004705",
-  "institution": "PINNACLE COLLEGE",
+  "institution": "Pinnacle College",
   "city": "Alhambra",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 123581,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 5.6,
+  "grad_rate": 86.7,
+  "grad_rate_rank": 30,
+  "default_rate": 10.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "91803",
+  "email": false
 }

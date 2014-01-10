@@ -1,6 +1,6 @@
 {
   "facility_code": "30944710",
-  "institution": "SARASOTA CHILD CARE APPRENTICESHIP PROGRAM GNJ",
+  "institution": "Sarasota Child Care Apprenticeship Program Gnj",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34233",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001014",
-  "institution": "TRINE UNIVERSITY",
+  "institution": "Trine University",
   "city": "Angola",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 53,
   "cross": 152567,
-  "grad_rate": 43.5,
-  "grad_rate_rank": 1109,
-  "default_rate": 9.6,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 52.8,
+  "grad_rate_rank": 807,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 19706,
+  "avg_stu_loan_debt_rank": 1154,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46703",
+  "email": false
 }

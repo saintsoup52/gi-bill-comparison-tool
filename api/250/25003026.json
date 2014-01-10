@@ -1,6 +1,6 @@
 {
   "facility_code": "25003026",
-  "institution": "ROCKY MOUNTAIN SCHOOL OF PHOTOGRAPHY",
+  "institution": "Rocky Mountain School Of Photography",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59808",
+  "email": true
 }

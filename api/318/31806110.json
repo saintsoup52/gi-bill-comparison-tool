@@ -1,6 +1,6 @@
 {
   "facility_code": "31806110",
-  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV - DAYTONA BEACH",
+  "institution": "Embry-Riddle Aeronautical Univ - Daytona Beach",
   "city": "Daytona Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 748,
   "cross": 133553,
-  "grad_rate": 55.2,
-  "grad_rate_rank": 703,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 20487,
-  "avg_stu_loan_debt_rank": 1473,
-  "indicator_group": 1
+  "grad_rate": 58.1,
+  "grad_rate_rank": 624,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 20057,
+  "avg_stu_loan_debt_rank": 1206,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32114",
+  "email": true
 }

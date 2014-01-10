@@ -1,6 +1,6 @@
 {
   "facility_code": "31009642",
-  "institution": "CROWN COLLEGE OF THE BIBLE",
+  "institution": "Crown College Of The Bible",
   "city": "Powell",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37849",
+  "email": false
 }

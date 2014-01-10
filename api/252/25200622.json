@@ -1,6 +1,6 @@
 {
   "facility_code": "25200622",
-  "institution": "ROSS MEDICAL EDUCATION CENTER-PORT HURON",
+  "institution": "Ross Medical Education Center-Port Huron",
   "city": "Port Huron",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 363013,
-  "grad_rate": 75.4,
-  "grad_rate_rank": 894,
-  "default_rate": 32.8,
-  "avg_stu_loan_debt": 8847,
-  "avg_stu_loan_debt_rank": 1537,
-  "indicator_group": 5
+  "grad_rate": 76.2,
+  "grad_rate_rank": 853,
+  "default_rate": 25.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48060",
+  "email": true
 }

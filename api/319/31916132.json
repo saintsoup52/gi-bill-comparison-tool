@@ -1,6 +1,6 @@
 {
   "facility_code": "31916132",
-  "institution": "COLLEGE OF ST ROSE",
+  "institution": "College Of St Rose",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 70,
   "cross": 195234,
-  "grad_rate": 63.0,
-  "grad_rate_rank": 487,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 64.6,
+  "grad_rate_rank": 443,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12203",
+  "email": true
 }

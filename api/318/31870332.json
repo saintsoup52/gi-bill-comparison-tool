@@ -1,6 +1,6 @@
 {
   "facility_code": "31870332",
-  "institution": "LONG ISLAND UNIVERSITY ROCKLAND CAMPUS",
+  "institution": "Long Island University Rockland Campus",
   "city": "Orangeburg",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 192554,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 22404,
-  "avg_stu_loan_debt_rank": 308,
-  "indicator_group": 4
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 24658,
+  "avg_stu_loan_debt_rank": 106,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "10962",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31003242",
-  "institution": "SOUTHERN ADVENTIST UNIVERSITY",
+  "institution": "Southern Adventist University",
   "city": "Collegedale",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 221661,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 844,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 57.6,
+  "grad_rate_rank": 646,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 19950,
+  "avg_stu_loan_debt_rank": 1175,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37315",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25051018",
-  "institution": "CAREER TECHNICAL COLLEGE - MONROE",
+  "institution": "Career Technical College - Monroe",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 41,
   "cross": 367112,
-  "grad_rate": 42.0,
-  "grad_rate_rank": 302,
-  "default_rate": 24.2,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 1126,
-  "indicator_group": 2
+  "grad_rate": 47.2,
+  "grad_rate_rank": 301,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "71201",
+  "email": true
 }

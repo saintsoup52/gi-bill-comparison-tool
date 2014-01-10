@@ -1,6 +1,6 @@
 {
   "facility_code": "25007704",
-  "institution": "SEARCY BEAUTY COLLEGE INC",
+  "institution": "Searcy Beauty College Inc",
   "city": "Searcy",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 107831,
-  "grad_rate": 57.4,
-  "grad_rate_rank": 1694,
-  "default_rate": 38.2,
+  "grad_rate": 60.5,
+  "grad_rate_rank": 1619,
+  "default_rate": 30.7,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72143",
+  "email": false
 }

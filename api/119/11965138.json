@@ -1,6 +1,6 @@
 {
   "facility_code": "11965138",
-  "institution": "PENN STATE UNIVERSITY - SHENANGO CAMPUS",
+  "institution": "Penn State University - Shenango Campus",
   "city": "Sharon",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 214634,
-  "grad_rate": 43.5,
-  "grad_rate_rank": 1109,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 23426,
-  "avg_stu_loan_debt_rank": 1813,
-  "indicator_group": 1
+  "grad_rate": 29.9,
+  "grad_rate_rank": 1536,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16146",
+  "email": false
 }

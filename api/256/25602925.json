@@ -1,6 +1,6 @@
 {
   "facility_code": "25602925",
-  "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS",
+  "institution": "Le Cordon Bleu College Of Culinary Arts",
   "city": "St. Peters",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 456302,
-  "grad_rate": 74.3,
-  "grad_rate_rank": 960,
-  "default_rate": 28.8,
-  "avg_stu_loan_debt": 10555,
-  "avg_stu_loan_debt_rank": 2191,
-  "indicator_group": 5
+  "grad_rate": 71.0,
+  "grad_rate_rank": 1128,
+  "default_rate": 29.7,
+  "avg_stu_loan_debt": 10688,
+  "avg_stu_loan_debt_rank": 1585,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63376",
+  "email": true
 }

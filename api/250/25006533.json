@@ -1,6 +1,6 @@
 {
   "facility_code": "25006533",
-  "institution": "THE MEDICAL ARTS SCHOOL",
+  "institution": "The Medical Arts School",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 436632,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 11677,
-  "avg_stu_loan_debt_rank": 2290,
-  "indicator_group": 5
+  "grad_rate": 89.1,
+  "grad_rate_rank": 302,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 10336,
+  "avg_stu_loan_debt_rank": 1544,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "27616",
+  "email": true
 }

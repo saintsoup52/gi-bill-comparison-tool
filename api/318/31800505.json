@@ -1,6 +1,6 @@
 {
   "facility_code": "31800505",
-  "institution": "UNIVERSITY OF SAN DIEGO SCHOOL OF LAW",
+  "institution": "University Of San Diego School Of Law",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 122436,
-  "grad_rate": 74.9,
-  "grad_rate_rank": 229,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 75.8,
+  "grad_rate_rank": 218,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 25777,
+  "avg_stu_loan_debt_rank": 1823,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92110",
+  "email": true
 }

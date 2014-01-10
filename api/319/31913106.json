@@ -1,6 +1,6 @@
 {
   "facility_code": "31913106",
-  "institution": "ROCKY MOUNTAIN BIBLE COLLEGE AND SEMINARY",
+  "institution": "Rocky Mountain Bible College And Seminary",
   "city": "Englewood",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80113",
+  "email": true
 }

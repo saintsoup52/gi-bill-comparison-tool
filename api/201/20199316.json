@@ -1,6 +1,6 @@
 {
   "facility_code": "20199316",
-  "institution": "CITY OF GARDEN CITY ELECTRIC DEPT.",
+  "institution": "City Of Garden City Electric Dept.",
   "city": "Garden City",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67846",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32372632",
-  "institution": "POST GRADUATE CENTER FOR MENTAL HEALTH",
+  "institution": "Post Graduate Center For Mental Health",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10010",
+  "email": false
 }

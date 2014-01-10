@@ -1,6 +1,6 @@
 {
   "facility_code": "25015503",
-  "institution": "UNIVERSAL BARBER COLLEGE",
+  "institution": "Universal Barber College",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 457217,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 8902,
-  "avg_stu_loan_debt_rank": 1564,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85007",
+  "email": true
 }

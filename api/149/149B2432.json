@@ -1,6 +1,6 @@
 {
   "facility_code": "149B2432",
-  "institution": "CLINTON COMMUNITY COLLEGE",
+  "institution": "Clinton Community College",
   "city": "Plattsburgh",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 93,
   "cross": 190053,
-  "grad_rate": 27.3,
-  "grad_rate_rank": 617,
-  "default_rate": 23.7,
-  "avg_stu_loan_debt": 6499,
-  "avg_stu_loan_debt_rank": 485,
-  "indicator_group": 2
+  "grad_rate": 20.1,
+  "grad_rate_rank": 933,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 6205,
+  "avg_stu_loan_debt_rank": 354,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12901",
+  "email": true
 }

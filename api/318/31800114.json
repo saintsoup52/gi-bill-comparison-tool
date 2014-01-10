@@ -1,6 +1,6 @@
 {
   "facility_code": "31800114",
-  "institution": "MARTIN UNIVERSITY",
+  "institution": "Martin University",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 151810,
-  "grad_rate": 8.3,
-  "grad_rate_rank": 1798,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 7765,
-  "avg_stu_loan_debt_rank": 169,
-  "indicator_group": 1
+  "grad_rate": 11.1,
+  "grad_rate_rank": 1823,
+  "default_rate": 19.8,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 106,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46218",
+  "email": true
 }

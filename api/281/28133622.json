@@ -1,6 +1,6 @@
 {
   "facility_code": "28133622",
-  "institution": "SHARP'S ACADEMY OF HAIRSTYLING - GRAND BLANC",
+  "institution": "Sharp'S Academy Of Hairstyling - Grand Blanc",
   "city": "Grand Blanc",
   "state": "MI",
   "country": "USA",
@@ -12,7 +12,10 @@
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 3827,
+  "avg_stu_loan_debt_rank": 142,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48439",
+  "email": false
 }

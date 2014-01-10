@@ -1,6 +1,6 @@
 {
   "facility_code": "11009738",
-  "institution": "LOCK HAVEN UNIVERSITY OF PA",
+  "institution": "Lock Haven University Of Pa",
   "city": "Lock Haven",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 187,
   "cross": 213613,
-  "grad_rate": 45.9,
-  "grad_rate_rank": 1026,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 17700,
-  "avg_stu_loan_debt_rank": 1045,
-  "indicator_group": 1
+  "grad_rate": 46.6,
+  "grad_rate_rank": 1016,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1157,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17745",
+  "email": true
 }

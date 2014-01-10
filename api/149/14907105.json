@@ -1,6 +1,6 @@
 {
   "facility_code": "14907105",
-  "institution": "CITY COLLEGE OF SAN FRANCISCO",
+  "institution": "City College Of San Francisco",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 840,
   "cross": 112190,
-  "grad_rate": 25.7,
-  "grad_rate_rank": 376,
-  "default_rate": 20.3,
-  "avg_stu_loan_debt": 7624,
-  "avg_stu_loan_debt_rank": 321,
-  "indicator_group": 3
+  "grad_rate": 31.6,
+  "grad_rate_rank": 527,
+  "default_rate": 22.3,
+  "avg_stu_loan_debt": 7840,
+  "avg_stu_loan_debt_rank": 232,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "94112",
+  "email": true
 }

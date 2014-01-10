@@ -1,6 +1,6 @@
 {
   "facility_code": "15517617",
-  "institution": "MAYSVILLE NON-TRADITIONAL LEARNING CENTER",
+  "institution": "Maysville Non-Traditional Learning Center",
   "city": "Maysville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41056",
+  "email": false
 }

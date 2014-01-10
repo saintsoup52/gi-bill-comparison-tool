@@ -1,6 +1,6 @@
 {
   "facility_code": "30582013",
-  "institution": "BRICKLAYERS & ALLIED CRAFTWORKERS INTERNATIONAL UNION LOCAL #8",
+  "institution": "Bricklayers & Allied Craftworkers International Union Local #8",
   "city": "Harrisburg",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62946",
+  "email": false
 }

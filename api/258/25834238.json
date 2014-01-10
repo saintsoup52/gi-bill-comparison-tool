@@ -1,6 +1,6 @@
 {
   "facility_code": "25834238",
-  "institution": "JOLIE HAIR & BEAUTY ACADEMY (PREVIOUSLY: THE ACADEMY OF CREATIVE HAIR DESIGN)",
+  "institution": "Jolie Hair & Beauty Academy (Previously: The Academy Of Creative Hair Design)",
   "city": "Wilkes-Barre",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 213215,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 1768,
-  "default_rate": 12.9,
-  "avg_stu_loan_debt": 7859,
-  "avg_stu_loan_debt_rank": 1316,
-  "indicator_group": 5
+  "grad_rate": 54.8,
+  "grad_rate_rank": 1810,
+  "default_rate": 10.1,
+  "avg_stu_loan_debt": 8028,
+  "avg_stu_loan_debt_rank": 831,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "18702",
+  "email": true
 }

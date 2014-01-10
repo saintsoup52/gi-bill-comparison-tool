@@ -1,6 +1,6 @@
 {
   "facility_code": "32041813",
-  "institution": "ST ANTHONY COLLEGE OF NURSING",
+  "institution": "St Anthony College Of Nursing",
   "city": "Rockford",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 149028,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
+  "default_rate": 2.5,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61108",
+  "email": false
 }

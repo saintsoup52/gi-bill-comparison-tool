@@ -1,6 +1,6 @@
 {
   "facility_code": "28570035",
-  "institution": "BREESE'S DRIVING SCHOOL(31)",
+  "institution": "Breese'S Driving School(31)",
   "city": "Troy",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45373",
+  "email": "No (SCO)"
 }

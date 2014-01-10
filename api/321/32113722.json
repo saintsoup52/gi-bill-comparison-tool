@@ -1,6 +1,6 @@
 {
   "facility_code": "32113722",
-  "institution": "MICHIGAN STATE UNIVERSITY-KALAMAZOO CENTER FOR MEDICAL STUDIES",
+  "institution": "Michigan State University-Kalamazoo Center For Medical Studies",
   "city": "Kalamazoo",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49008",
+  "email": true
 }

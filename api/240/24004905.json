@@ -1,6 +1,6 @@
 {
   "facility_code": "24004905",
-  "institution": "ADVANCED TRAINING ASSOCIATES",
+  "institution": "Advanced Training Associates",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 48,
   "cross": 444361,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 200,
-  "indicator_group": 3
+  "grad_rate": 92.3,
+  "grad_rate_rank": 19,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 6650,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92020",
+  "email": true
 }

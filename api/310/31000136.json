@@ -1,6 +1,6 @@
 {
   "facility_code": "31000136",
-  "institution": "SOUTHERN NAZARENE UNIVERSITY",
+  "institution": "Southern Nazarene University",
   "city": "Bethany",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 254,
   "cross": 206862,
-  "grad_rate": 43.4,
-  "grad_rate_rank": 1113,
-  "default_rate": 8.3,
+  "grad_rate": 40.5,
+  "grad_rate_rank": 1232,
+  "default_rate": 8.4,
   "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73008",
+  "email": false
 }

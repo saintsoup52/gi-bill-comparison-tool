@@ -1,6 +1,6 @@
 {
   "facility_code": "25834138",
-  "institution": "NORTH MONTCO TECHNICAL CAREER CENTER",
+  "institution": "North Montco Technical Career Center",
   "city": "Lansdale",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19446",
+  "email": false
 }

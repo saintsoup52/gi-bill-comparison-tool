@@ -1,6 +1,6 @@
 {
   "facility_code": "15527235",
-  "institution": "ASHTABULA COUNTY TECHNICAL AND CAREER CENTER",
+  "institution": "Ashtabula County Technical And Career Center",
   "city": "Jefferson",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 201131,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
-  "default_rate": 25.8,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 18.6,
+  "avg_stu_loan_debt": 5750,
+  "avg_stu_loan_debt_rank": 384,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44047",
+  "email": true
 }

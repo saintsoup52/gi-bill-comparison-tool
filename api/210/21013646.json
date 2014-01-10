@@ -1,6 +1,6 @@
 {
   "facility_code": "21013646",
-  "institution": "WESTWOOD COLLEGE - ANNANDALE",
+  "institution": "Westwood College - Annandale",
   "city": "Annandale",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 448628,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.6,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 33.3,
+  "grad_rate_rank": 1432,
+  "default_rate": 24.7,
+  "avg_stu_loan_debt": 23874,
+  "avg_stu_loan_debt_rank": 1605,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22003",
+  "email": true
 }

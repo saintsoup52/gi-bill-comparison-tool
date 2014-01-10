@@ -1,6 +1,6 @@
 {
   "facility_code": "25116243",
-  "institution": "FORTIS INSTITUTE GRAND PRAIRIE",
+  "institution": "Fortis Institute Grand Prairie",
   "city": "Grand Prairie",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 458478,
-  "grad_rate": 62.1,
-  "grad_rate_rank": 1513,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 7803,
-  "avg_stu_loan_debt_rank": 1311,
-  "indicator_group": 5
+  "grad_rate": 57.9,
+  "grad_rate_rank": 1714,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 8895,
+  "avg_stu_loan_debt_rank": 982,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75050",
+  "email": false
 }

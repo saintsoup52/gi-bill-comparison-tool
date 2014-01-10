@@ -1,18 +1,21 @@
 {
   "facility_code": "21961162",
-  "institution": "NORTHWESTERN UNIVERSITY",
+  "institution": "Northwestern University",
   "city": "Laoag City",
   "state": "Philippines",
   "country": "Philippines",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
   "cross": 147767,
-  "grad_rate": 93.6,
-  "grad_rate_rank": 28,
+  "grad_rate": 93.0,
+  "grad_rate_rank": 33,
   "default_rate": 1.8,
-  "avg_stu_loan_debt": 16979,
-  "avg_stu_loan_debt_rank": 947,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 17647,
+  "avg_stu_loan_debt_rank": 881,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10048811",
-  "institution": "TROUP COUNTY CORRECTIONAL INSTITUTE",
+  "institution": "Troup County Correctional Institute",
   "city": "Lagrange",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30241",
+  "email": false
 }

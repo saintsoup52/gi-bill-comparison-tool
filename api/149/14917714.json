@@ -1,6 +1,6 @@
 {
   "facility_code": "14917714",
-  "institution": "VINCENNES UNIVERSITY AVIATION TECHNOLOGY CENTER",
+  "institution": "Vincennes University Aviation Technology Center",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46241",
+  "email": true
 }

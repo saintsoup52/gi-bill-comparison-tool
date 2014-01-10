@@ -1,6 +1,6 @@
 {
   "facility_code": "13957113",
-  "institution": "CHICAGO STATE UNIVERSITY",
+  "institution": "Chicago State University",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 231,
   "cross": 144005,
-  "grad_rate": 21.0,
-  "grad_rate_rank": 1656,
-  "default_rate": 15.2,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 20.9,
+  "grad_rate_rank": 1701,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 18063,
+  "avg_stu_loan_debt_rank": 926,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60628",
+  "email": true
 }

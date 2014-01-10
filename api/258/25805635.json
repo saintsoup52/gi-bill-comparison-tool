@@ -1,6 +1,6 @@
 {
   "facility_code": "25805635",
-  "institution": "RAPHAEL'S SCHOOL OF BEAUTY CULTURE INC.",
+  "institution": "Raphael'S School Of Beauty Culture Inc.",
   "city": "Alliance",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 363147,
-  "grad_rate": 64.3,
-  "grad_rate_rank": 1425,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 59.1,
+  "grad_rate_rank": 1662,
+  "default_rate": 11.2,
+  "avg_stu_loan_debt": 5074,
+  "avg_stu_loan_debt_rank": 250,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44601",
+  "email": false
 }

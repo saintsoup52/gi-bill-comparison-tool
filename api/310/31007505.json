@@ -1,6 +1,6 @@
 {
   "facility_code": "31007505",
-  "institution": "DONGGUK ROYAL UNIVERSITY",
+  "institution": "Dongguk Royal University",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 122117,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 294,
-  "indicator_group": 4
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 11578,
+  "avg_stu_loan_debt_rank": 70,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "90020",
+  "email": false
 }

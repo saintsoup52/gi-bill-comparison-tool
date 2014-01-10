@@ -1,6 +1,6 @@
 {
   "facility_code": "39001003",
-  "institution": "SIERRA HUACHUCA ARC INC. (CH 31 ONLY)",
+  "institution": "Sierra Huachuca Arc Inc. (Ch 31 Only)",
   "city": "Sierra Vista",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85635",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11810048",
-  "institution": "MARSHALL UNIVERSITY",
+  "institution": "Marshall University",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 485,
   "cross": 237525,
-  "grad_rate": 44.2,
-  "grad_rate_rank": 1087,
-  "default_rate": 9.9,
-  "avg_stu_loan_debt": 14972,
-  "avg_stu_loan_debt_rank": 721,
-  "indicator_group": 1
+  "grad_rate": 43.8,
+  "grad_rate_rank": 1108,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 15500,
+  "avg_stu_loan_debt_rank": 576,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "25755",
+  "email": true
 }

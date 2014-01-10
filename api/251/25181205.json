@@ -1,6 +1,6 @@
 {
   "facility_code": "25181205",
-  "institution": "CAREER DEVELOPMENT INSTITUTE INC. (LOS ANGELES)",
+  "institution": "Career Development Institute Inc. (Los Angeles)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90035",
+  "email": true
 }

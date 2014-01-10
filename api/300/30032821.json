@@ -1,6 +1,6 @@
 {
   "facility_code": "30032821",
-  "institution": "JAC NEW BEDFORD PLUMBERS AND STEAMFITTERS LOCAL 77",
+  "institution": "Jac New Bedford Plumbers And Steamfitters Local 77",
   "city": "New Bedford",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2740",
+  "email": false
 }

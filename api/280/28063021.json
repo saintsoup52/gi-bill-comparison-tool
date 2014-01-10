@@ -1,6 +1,6 @@
 {
   "facility_code": "28063021",
-  "institution": "BANCROFT SCHOOL OF MASSAGE THERAPY",
+  "institution": "Bancroft School Of Massage Therapy",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 164599,
-  "grad_rate": 82.1,
-  "grad_rate_rank": 541,
-  "default_rate": 3.2,
+  "grad_rate": 96.2,
+  "grad_rate_rank": 126,
+  "default_rate": 12.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1604",
+  "email": true
 }

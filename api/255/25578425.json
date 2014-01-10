@@ -1,6 +1,6 @@
 {
   "facility_code": "25578425",
-  "institution": "ACADEMY OF HAIR DESIGN",
+  "institution": "Academy Of Hair Design",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 451334,
-  "grad_rate": 75.9,
-  "grad_rate_rank": 870,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 73.3,
+  "grad_rate_rank": 1015,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 7958,
+  "avg_stu_loan_debt_rank": 813,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65804",
+  "email": false
 }

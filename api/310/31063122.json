@@ -1,6 +1,6 @@
 {
   "facility_code": "31063122",
-  "institution": "CALVIN THEOLOGICAL SEMINARY",
+  "institution": "Calvin Theological Seminary",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 169099,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 1375,
-  "avg_stu_loan_debt_rank": 227,
-  "indicator_group": 4
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 1000,
+  "avg_stu_loan_debt_rank": 1,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "49506",
+  "email": true
 }

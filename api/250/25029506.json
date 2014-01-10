@@ -1,6 +1,6 @@
 {
   "facility_code": "25029506",
-  "institution": "DENVER SCHOOL OF MASSAGE THERAPY-WESTMINSTER",
+  "institution": "Denver School Of Massage Therapy-Westminster",
   "city": "Westminster",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 469151,
-  "grad_rate": 81.7,
-  "grad_rate_rank": 565,
-  "default_rate": 26.7,
-  "avg_stu_loan_debt": 9367,
-  "avg_stu_loan_debt_rank": 1623,
-  "indicator_group": 5
+  "grad_rate": 80.2,
+  "grad_rate_rank": 630,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 8607,
+  "avg_stu_loan_debt_rank": 917,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80031",
+  "email": true
 }

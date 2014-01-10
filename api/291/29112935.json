@@ -1,6 +1,6 @@
 {
   "facility_code": "29112935",
-  "institution": "MAKING MUSIC - KAY-WAL MUSIC (31)",
+  "institution": "Making Music - Kay-Wal Music (31)",
   "city": "Painesville",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44077",
+  "email": "No (SCO)"
 }

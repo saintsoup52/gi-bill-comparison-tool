@@ -1,6 +1,6 @@
 {
   "facility_code": "25020029",
-  "institution": "NEW HAMPSHIRE INSTITUTE OF THERAPEUTIC ARTS",
+  "institution": "New Hampshire Institute Of Therapeutic Arts",
   "city": "Hudson",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 183035,
-  "grad_rate": 77.3,
-  "grad_rate_rank": 802,
-  "default_rate": 12.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 87.2,
+  "grad_rate_rank": 362,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 8181,
+  "avg_stu_loan_debt_rank": 855,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3051",
+  "email": false
 }

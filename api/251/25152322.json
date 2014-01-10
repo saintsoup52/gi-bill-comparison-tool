@@ -1,6 +1,6 @@
 {
   "facility_code": "25152322",
-  "institution": "WEST MICHIGAN COLLEGE OF BARBERING & BEAUTY",
+  "institution": "West Michigan College Of Barbering & Beauty",
   "city": "Kalamazoo",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 152044,
-  "grad_rate": 66.0,
-  "grad_rate_rank": 1356,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 61.9,
+  "grad_rate_rank": 1558,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49008",
+  "email": true
 }

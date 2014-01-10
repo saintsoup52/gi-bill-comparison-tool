@@ -1,6 +1,6 @@
 {
   "facility_code": "29A01233",
-  "institution": "NTERONE CORPORATION - CH31 ONLY",
+  "institution": "Nterone Corporation - Ch31 Only",
   "city": "Tyner",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27980",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24922020",
-  "institution": "FORTIS COLLEGE",
+  "institution": "Fortis College",
   "city": "Landover",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451909,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 38,
-  "default_rate": 10.3,
+  "grad_rate": 75.2,
+  "grad_rate_rank": 118,
+  "default_rate": 12.4,
   "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 684,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 569,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "20785",
+  "email": true
 }

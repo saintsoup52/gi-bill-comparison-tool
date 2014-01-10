@@ -1,6 +1,6 @@
 {
   "facility_code": "31963135",
-  "institution": "MOUNT VERNON NAZARENE UNIVERSITY",
+  "institution": "Mount Vernon Nazarene University",
   "city": "Mount Vernon",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 123,
   "cross": 204194,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 648,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 54.5,
+  "grad_rate_rank": 752,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43050",
+  "email": false
 }

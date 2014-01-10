@@ -1,6 +1,6 @@
 {
   "facility_code": "15015604",
-  "institution": "LION'S WORLD SERVICES FOR THE BLIND (CH 31 ONLY)",
+  "institution": "Lion'S World Services For The Blind (Ch 31 Only)",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72204",
+  "email": "No (SCO)"
 }

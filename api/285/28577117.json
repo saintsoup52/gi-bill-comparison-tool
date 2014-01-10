@@ -1,6 +1,6 @@
 {
   "facility_code": "28577117",
-  "institution": "EMPIRE BEAUTY SCHOOL- ELIZABETHTOWN",
+  "institution": "Empire Beauty School- Elizabethtown",
   "city": "Elizabethtown",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 157650,
-  "grad_rate": 35.2,
-  "grad_rate_rank": 2105,
-  "default_rate": 12.2,
-  "avg_stu_loan_debt": 10628,
-  "avg_stu_loan_debt_rank": 2205,
-  "indicator_group": 5
+  "grad_rate": 33.0,
+  "grad_rate_rank": 2182,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "42701",
+  "email": false
 }

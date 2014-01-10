@@ -1,6 +1,6 @@
 {
   "facility_code": "20452147",
-  "institution": "D.J. ELECTRIC & CONSTRUCTION INC.",
+  "institution": "D.J. Electric & Construction Inc.",
   "city": "Hobart",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98025",
+  "email": true
 }

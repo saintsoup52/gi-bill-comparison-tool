@@ -1,6 +1,6 @@
 {
   "facility_code": "149B1432",
-  "institution": "SCHENECTADY COUNTY COMMUNITY COLLEGE",
+  "institution": "Schenectady County Community College",
   "city": "Schenectady",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 191,
   "cross": 195322,
-  "grad_rate": 18.3,
-  "grad_rate_rank": 920,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 16.8,
+  "grad_rate_rank": 1048,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 5810,
+  "avg_stu_loan_debt_rank": 313,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12305",
+  "email": true
 }

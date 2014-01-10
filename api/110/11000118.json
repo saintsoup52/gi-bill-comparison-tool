@@ -1,6 +1,6 @@
 {
   "facility_code": "11000118",
-  "institution": "MCNEESE STATE UNIVERSITY",
+  "institution": "Mcneese State University",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 245,
   "cross": 159717,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 1321,
-  "default_rate": 17.5,
-  "avg_stu_loan_debt": 13625,
-  "avg_stu_loan_debt_rank": 600,
-  "indicator_group": 1
+  "grad_rate": 37.8,
+  "grad_rate_rank": 1311,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 13597,
+  "avg_stu_loan_debt_rank": 405,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70609",
+  "email": true
 }

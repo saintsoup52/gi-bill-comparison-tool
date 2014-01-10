@@ -1,6 +1,6 @@
 {
   "facility_code": "20D12249",
-  "institution": "FALLS MANUFACTURING INC",
+  "institution": "Falls Manufacturing Inc",
   "city": "Monomonee Falls",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53051",
+  "email": false
 }

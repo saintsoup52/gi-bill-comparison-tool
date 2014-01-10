@@ -1,6 +1,6 @@
 {
   "facility_code": "28509918",
-  "institution": "COSMETOLOGY TRAINING CENTER",
+  "institution": "Cosmetology Training Center",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 407142,
-  "grad_rate": 76.7,
-  "grad_rate_rank": 834,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 89.3,
+  "grad_rate_rank": 296,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 7833,
+  "avg_stu_loan_debt_rank": 788,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70503",
+  "email": false
 }

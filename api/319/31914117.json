@@ -1,6 +1,6 @@
 {
   "facility_code": "31914117",
-  "institution": "MIDWAY COLLEGE",
+  "institution": "Midway College",
   "city": "Midway",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 51,
   "cross": 157377,
-  "grad_rate": 41.4,
-  "grad_rate_rank": 1183,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "grad_rate": 61.7,
+  "grad_rate_rank": 522,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 14625,
+  "avg_stu_loan_debt_rank": 502,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40347",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N05832",
-  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - PLATTSBURGH",
+  "institution": "New York State Department Of Transportation - Plattsburgh",
   "city": "Plattsburgh",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12901",
+  "email": false
 }

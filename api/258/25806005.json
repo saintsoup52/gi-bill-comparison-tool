@@ -1,6 +1,6 @@
 {
   "facility_code": "25806005",
-  "institution": "MARINELLO SCHOOL OF BEAUTY (MORENO VALLEY)",
+  "institution": "Marinello School Of Beauty (Moreno Valley)",
   "city": "Moreno Valley",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 114080,
-  "grad_rate": 61.2,
-  "grad_rate_rank": 1540,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 8202,
-  "avg_stu_loan_debt_rank": 1420,
-  "indicator_group": 5
+  "grad_rate": 70.6,
+  "grad_rate_rank": 1148,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 8770,
+  "avg_stu_loan_debt_rank": 952,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92553",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31961132",
-  "institution": "NIAGARA UNIVERSITY",
+  "institution": "Niagara University",
   "city": "Niagara University",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 85,
   "cross": 193973,
-  "grad_rate": 64.9,
-  "grad_rate_rank": 438,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 21738,
-  "avg_stu_loan_debt_rank": 1611,
-  "indicator_group": 1
+  "grad_rate": 67.4,
+  "grad_rate_rank": 363,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 22802,
+  "avg_stu_loan_debt_rank": 1499,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14109",
+  "email": true
 }

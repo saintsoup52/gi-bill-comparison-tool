@@ -1,6 +1,6 @@
 {
   "facility_code": "32051413",
-  "institution": "UNIVERSITY OF CHICAGO DEPT OF PEDIATRIC RESIDENCY TRAINING PROG.",
+  "institution": "University Of Chicago Dept Of Pediatric Residency Training Prog.",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60637",
+  "email": true
 }

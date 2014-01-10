@@ -1,6 +1,6 @@
 {
   "facility_code": "25067013",
-  "institution": "TRICOCI UNIVERSITY OF BEAUTY CULTURE",
+  "institution": "Tricoci University Of Beauty Culture",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 454971,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 1028,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9538,
-  "avg_stu_loan_debt_rank": 2086,
-  "indicator_group": 5
+  "grad_rate": 76.5,
+  "grad_rate_rank": 842,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 10973,
+  "avg_stu_loan_debt_rank": 1606,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60656",
+  "email": true
 }

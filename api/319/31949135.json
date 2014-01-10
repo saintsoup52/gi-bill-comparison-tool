@@ -1,6 +1,6 @@
 {
   "facility_code": "31949135",
-  "institution": "CEDARVILLE UNIVERSITY",
+  "institution": "Cedarville University",
   "city": "Cedarville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 96,
   "cross": 201654,
-  "grad_rate": 68.2,
-  "grad_rate_rank": 344,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 23400,
-  "avg_stu_loan_debt_rank": 1812,
-  "indicator_group": 1
+  "grad_rate": 72.2,
+  "grad_rate_rank": 281,
+  "default_rate": 1.9,
+  "avg_stu_loan_debt": 23082,
+  "avg_stu_loan_debt_rank": 1541,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45314",
+  "email": true
 }

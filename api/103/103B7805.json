@@ -1,6 +1,6 @@
 {
   "facility_code": "103B7805",
-  "institution": "CALIFORNIA HIGHWAY PATROL- DUBLIN AREA",
+  "institution": "California Highway Patrol- Dublin Area",
   "city": "Dublin",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94568",
+  "email": false
 }

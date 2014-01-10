@@ -1,6 +1,6 @@
 {
   "facility_code": "20841321",
-  "institution": "BOLTON MANOR NURSING & REHAB CTR KINDRED HEALTH CORP-CH31",
+  "institution": "Bolton Manor Nursing & Rehab Ctr Kindred Health Corp-Ch31",
   "city": "Marlboro",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1752",
+  "email": false
 }

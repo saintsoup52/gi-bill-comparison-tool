@@ -1,6 +1,6 @@
 {
   "facility_code": "25005737",
-  "institution": "ABDILL CAREER COLLEGE",
+  "institution": "Abdill Career College",
   "city": "Medford",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 208123,
-  "grad_rate": 55.3,
-  "grad_rate_rank": 1771,
-  "default_rate": 8.0,
+  "grad_rate": 57.1,
+  "grad_rate_rank": 1731,
+  "default_rate": 16.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97504",
+  "email": true
 }

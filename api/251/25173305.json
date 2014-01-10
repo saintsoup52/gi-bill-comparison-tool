@@ -1,6 +1,6 @@
 {
   "facility_code": "25173305",
-  "institution": "CALIFORNIA NURSES EDUCATIONAL INST",
+  "institution": "California Nurses Educational Inst",
   "city": "Palm Spring",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 455734,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 12138,
-  "avg_stu_loan_debt_rank": 2363,
-  "indicator_group": 5
+  "grad_rate": 82.4,
+  "grad_rate_rank": 542,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 15359,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92264",
+  "email": false
 }

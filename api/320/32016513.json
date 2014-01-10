@@ -1,6 +1,6 @@
 {
   "facility_code": "32016513",
-  "institution": "TRINITY COLLEGE OF NURSING & HEALTH SCIENCES",
+  "institution": "Trinity College Of Nursing & Health Sciences",
   "city": "Rock Island",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 146755,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 87,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 1176,
-  "indicator_group": 2
+  "grad_rate": 50.0,
+  "grad_rate_rank": 263,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1156,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "61201",
+  "email": true
 }

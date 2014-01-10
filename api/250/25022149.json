@@ -1,6 +1,6 @@
 {
   "facility_code": "25022149",
-  "institution": "AMERICAN INSTITUTE OF TAXIDERMY",
+  "institution": "American Institute Of Taxidermy",
   "city": "Boulder Junction",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54512",
+  "email": false
 }

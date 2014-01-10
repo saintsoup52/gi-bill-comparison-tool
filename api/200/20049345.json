@@ -1,6 +1,6 @@
 {
   "facility_code": "20049345",
-  "institution": "THE AUTOMASTER MOTOR CO INC",
+  "institution": "The Automaster Motor Co Inc",
   "city": "So Burlington",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5401",
+  "email": "No (SCO)"
 }

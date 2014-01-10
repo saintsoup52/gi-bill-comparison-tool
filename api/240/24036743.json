@@ -1,6 +1,6 @@
 {
   "facility_code": "24036743",
-  "institution": "SOUTHWEST UNIVERSITY AT EL PASO",
+  "institution": "Southwest University At El Paso",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 163,
   "cross": 451556,
-  "grad_rate": 76.7,
-  "grad_rate_rank": 43,
-  "default_rate": 37.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 36.1,
+  "avg_stu_loan_debt": 10004,
+  "avg_stu_loan_debt_rank": 530,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "79925",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14933411",
-  "institution": "CENTRAL GEORGIA TECHNICAL COLLEGE",
+  "institution": "Central Georgia Technical College",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 327,
   "cross": 140304,
-  "grad_rate": 18.7,
-  "grad_rate_rank": 456,
+  "grad_rate": 19.0,
+  "grad_rate_rank": 651,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4141,
-  "avg_stu_loan_debt_rank": 139,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 3816,
+  "avg_stu_loan_debt_rank": 47,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31206",
+  "email": true
 }

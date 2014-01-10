@@ -1,10 +1,10 @@
 {
   "facility_code": "31100276",
-  "institution": "UNIVERSIDAD AUTONOMA DE CENTRO AMERICA (COSTA RICA)",
+  "institution": "Universidad Autonoma De Centro America (Costa Rica)",
   "city": "San Jose",
   "state": "Costa Rica",
   "country": "Costa Rica",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24901711",
-  "institution": "FORTIS COLLEGE",
+  "institution": "Fortis College",
   "city": "Smyrna",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 116,
   "cross": 372921,
-  "grad_rate": 62.8,
-  "grad_rate_rank": 114,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 8455,
-  "avg_stu_loan_debt_rank": 368,
-  "indicator_group": 3
+  "grad_rate": 61.9,
+  "grad_rate_rank": 275,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 9359,
+  "avg_stu_loan_debt_rank": 331,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30080",
+  "email": true
 }

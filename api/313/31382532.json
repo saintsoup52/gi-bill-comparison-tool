@@ -1,6 +1,6 @@
 {
   "facility_code": "31382532",
-  "institution": "MOUNT SINAI SCHOOL OF MEDICINE",
+  "institution": "Mount Sinai School Of Medicine",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 193405,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.7,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 270,
-  "indicator_group": 4
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 69,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "10029",
+  "email": false
 }

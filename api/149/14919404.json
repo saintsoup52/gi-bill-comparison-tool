@@ -1,6 +1,6 @@
 {
   "facility_code": "14919404",
-  "institution": "PULASKI TECHNICAL COLLEGE",
+  "institution": "Pulaski Technical College",
   "city": "North Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 848,
   "cross": 107664,
-  "grad_rate": 17.4,
-  "grad_rate_rank": 463,
-  "default_rate": 24.8,
-  "avg_stu_loan_debt": 13459,
-  "avg_stu_loan_debt_rank": 762,
-  "indicator_group": 3
+  "grad_rate": 10.9,
+  "grad_rate_rank": 719,
+  "default_rate": 28.6,
+  "avg_stu_loan_debt": 12250,
+  "avg_stu_loan_debt_rank": 610,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "72118",
+  "email": false
 }

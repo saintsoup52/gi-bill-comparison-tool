@@ -1,6 +1,6 @@
 {
   "facility_code": "31900110",
-  "institution": "BETHUNE-COOKMAN UNIVERSITY",
+  "institution": "Bethune-Cookman University",
   "city": "Daytona Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 130,
   "cross": 132602,
-  "grad_rate": 37.3,
-  "grad_rate_rank": 1316,
-  "default_rate": 22.5,
-  "avg_stu_loan_debt": 23687,
-  "avg_stu_loan_debt_rank": 1839,
-  "indicator_group": 1
+  "grad_rate": 23.6,
+  "grad_rate_rank": 1661,
+  "default_rate": 20.6,
+  "avg_stu_loan_debt": 24100,
+  "avg_stu_loan_debt_rank": 1652,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32114",
+  "email": true
 }

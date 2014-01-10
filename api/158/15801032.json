@@ -1,6 +1,6 @@
 {
   "facility_code": "15801032",
-  "institution": "DUTCHESS COUNTY BOCES CAREER & TECHNICAL INSTITUTE",
+  "institution": "Dutchess County Boces Career & Technical Institute",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 431105,
-  "grad_rate": 76.9,
-  "grad_rate_rank": 817,
-  "default_rate": 19.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 63.0,
+  "grad_rate_rank": 1514,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12601",
+  "email": true
 }

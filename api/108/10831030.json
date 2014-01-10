@@ -1,6 +1,6 @@
 {
   "facility_code": "10831030",
-  "institution": "NEW JERSEY STATE PARK POLICE ROUND VALLEY RECREATION AREA",
+  "institution": "New Jersey State Park Police Round Valley Recreation Area",
   "city": "Lebanon",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8833",
+  "email": false
 }

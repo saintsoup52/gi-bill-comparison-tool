@@ -1,6 +1,6 @@
 {
   "facility_code": "31940244",
-  "institution": "STEVENS-HENAGER COLLEGE - OGDEN MAIN CAMPUS (WEST HAVEN)",
+  "institution": "Stevens-Henager College - Ogden Main Campus (West Haven)",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 230621,
-  "grad_rate": 55.2,
-  "grad_rate_rank": 173,
-  "default_rate": 24.7,
-  "avg_stu_loan_debt": 15741,
-  "avg_stu_loan_debt_rank": 1149,
-  "indicator_group": 2
+  "grad_rate": 47.2,
+  "grad_rate_rank": 301,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 974,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "84401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32810015",
-  "institution": "IOWA HEALTH SYSTEMS - IOWA METHODIST MEDICAL CENTER",
+  "institution": "Iowa Health Systems - Iowa Methodist Medical Center",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -13,6 +13,9 @@
   "grad_rate_rank": 1,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50309",
+  "email": false
 }

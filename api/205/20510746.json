@@ -1,6 +1,6 @@
 {
   "facility_code": "20510746",
-  "institution": "ROANOKE AREA IRON WORKERS JAC",
+  "institution": "Roanoke Area Iron Workers Jac",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24012",
+  "email": true
 }

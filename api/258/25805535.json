@@ -1,6 +1,6 @@
 {
   "facility_code": "25805535",
-  "institution": "HONDROS COLLEGE (31)",
+  "institution": "Hondros College (31)",
   "city": "Untiontown",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 203386,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 378,
-  "indicator_group": 3
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 14166,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "44685",
+  "email": "No (SCO)"
 }

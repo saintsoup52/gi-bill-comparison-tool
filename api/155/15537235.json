@@ -1,6 +1,6 @@
 {
   "facility_code": "15537235",
-  "institution": "WASHINGTON COUNTY CAREER CENTER",
+  "institution": "Washington County Career Center",
   "city": "Marietta",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 418250,
-  "grad_rate": 80.9,
-  "grad_rate_rank": 612,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 83.2,
+  "grad_rate_rank": 520,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45750",
+  "email": true
 }

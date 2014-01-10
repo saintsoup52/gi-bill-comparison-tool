@@ -1,6 +1,6 @@
 {
   "facility_code": "20514032",
-  "institution": "JOINT STEAMFITTING APPREN COMMITTEE LOCAL 638 UA",
+  "institution": "Joint Steamfitting Appren Committee Local 638 Ua",
   "city": "Long Island City",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11101",
+  "email": false
 }

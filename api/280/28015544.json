@@ -1,6 +1,6 @@
 {
   "facility_code": "28015544",
-  "institution": "CAMEO COLLEGE OF ESSENTIAL BEAUTY",
+  "institution": "Cameo College Of Essential Beauty",
   "city": "Murray",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 230065,
-  "grad_rate": 77.5,
-  "grad_rate_rank": 793,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 6090,
-  "avg_stu_loan_debt_rank": 973,
-  "indicator_group": 5
+  "grad_rate": 67.9,
+  "grad_rate_rank": 1279,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 7518,
+  "avg_stu_loan_debt_rank": 731,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84107",
+  "email": true
 }

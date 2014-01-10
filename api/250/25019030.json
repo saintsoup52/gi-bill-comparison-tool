@@ -1,6 +1,6 @@
 {
   "facility_code": "25019030",
-  "institution": "HARRIS SCHOOL OF BUSINESS - HAMILTON",
+  "institution": "Harris School Of Business - Hamilton",
   "city": "Hamilton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 453552,
-  "grad_rate": 58.4,
-  "grad_rate_rank": 1653,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 6862,
-  "avg_stu_loan_debt_rank": 1118,
-  "indicator_group": 5
+  "grad_rate": 56.6,
+  "grad_rate_rank": 1746,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 6623,
+  "avg_stu_loan_debt_rank": 574,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8619",
+  "email": true
 }

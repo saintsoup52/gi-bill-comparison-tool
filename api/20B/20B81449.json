@@ -1,6 +1,6 @@
 {
   "facility_code": "20B81449",
-  "institution": "KIMBERLY CLARK CORP-LAKEVIEW PLANT",
+  "institution": "Kimberly Clark Corp-Lakeview Plant",
   "city": "Neenah",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54956",
+  "email": false
 }

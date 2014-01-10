@@ -1,6 +1,6 @@
 {
   "facility_code": "15536925",
-  "institution": "PIKE AND LINCOLN TECHNICAL CENTER",
+  "institution": "Pike And Lincoln Technical Center",
   "city": "Eolia",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 261773,
-  "grad_rate": 85.0,
-  "grad_rate_rank": 430,
-  "default_rate": 29.6,
-  "avg_stu_loan_debt": 4773,
-  "avg_stu_loan_debt_rank": 771,
-  "indicator_group": 5
+  "grad_rate": 82.7,
+  "grad_rate_rank": 532,
+  "default_rate": 27.0,
+  "avg_stu_loan_debt": 5752,
+  "avg_stu_loan_debt_rank": 389,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63344",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11831004",
-  "institution": "SOUTHERN ARKANSAS UNIVERSITY-MAGNOLIA",
+  "institution": "Southern Arkansas University-Magnolia",
   "city": "Magnolia",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 111,
   "cross": 107983,
-  "grad_rate": 33.7,
-  "grad_rate_rank": 1396,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 10501,
-  "avg_stu_loan_debt_rank": 280,
-  "indicator_group": 1
+  "grad_rate": 34.7,
+  "grad_rate_rank": 1398,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 11453,
+  "avg_stu_loan_debt_rank": 252,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71753",
+  "email": false
 }

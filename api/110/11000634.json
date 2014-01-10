@@ -1,6 +1,6 @@
 {
   "facility_code": "11000634",
-  "institution": "MAYVILLE STATE UNIVERSITY",
+  "institution": "Mayville State University",
   "city": "Mayville",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 200226,
-  "grad_rate": 25.4,
-  "grad_rate_rank": 1581,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "grad_rate": 39.4,
+  "grad_rate_rank": 1269,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "58257",
+  "email": true
 }

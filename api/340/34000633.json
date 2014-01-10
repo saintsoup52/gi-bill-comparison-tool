@@ -1,6 +1,6 @@
 {
   "facility_code": "34000633",
-  "institution": "LEES-MCRAE COLLEGE",
+  "institution": "Lees-Mcrae College",
   "city": "Banner Elk",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 35,
   "cross": 198808,
-  "grad_rate": 24.1,
-  "grad_rate_rank": 1607,
-  "default_rate": 10.3,
-  "avg_stu_loan_debt": 14977,
-  "avg_stu_loan_debt_rank": 723,
-  "indicator_group": 1
+  "grad_rate": 34.3,
+  "grad_rate_rank": 1408,
+  "default_rate": 12.4,
+  "avg_stu_loan_debt": 16190,
+  "avg_stu_loan_debt_rank": 716,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28604",
+  "email": true
 }

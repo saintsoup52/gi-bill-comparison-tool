@@ -1,6 +1,6 @@
 {
   "facility_code": "25021720",
-  "institution": "AESTHETICS INSTITUTE OF COSMETOLOGY",
+  "institution": "Aesthetics Institute Of Cosmetology",
   "city": "Gaithersburg",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 161651,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 4125,
-  "avg_stu_loan_debt_rank": 689,
-  "indicator_group": 5
+  "grad_rate": 84.2,
+  "grad_rate_rank": 462,
+  "default_rate": 24.0,
+  "avg_stu_loan_debt": 5200,
+  "avg_stu_loan_debt_rank": 259,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "20877",
+  "email": false
 }

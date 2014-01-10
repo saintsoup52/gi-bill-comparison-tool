@@ -1,6 +1,6 @@
 {
   "facility_code": "31007821",
-  "institution": "HELLENIC COLLEGE/HOLY CROSS GREEK ORTHODOX SCH. OF THEOLOGY",
+  "institution": "Hellenic College/Holy Cross Greek Orthodox Sch. Of Theology",
   "city": "Brookline",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 166054,
-  "grad_rate": 68.4,
-  "grad_rate_rank": 337,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 7750,
-  "avg_stu_loan_debt_rank": 168,
-  "indicator_group": 1
+  "grad_rate": 54.2,
+  "grad_rate_rank": 767,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 13025,
+  "avg_stu_loan_debt_rank": 373,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2445",
+  "email": true
 }

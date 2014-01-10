@@ -1,6 +1,6 @@
 {
   "facility_code": "31022320",
-  "institution": "BETHEL SEMINARY OF THE EAST-MARYLAND",
+  "institution": "Bethel Seminary Of The East-Maryland",
   "city": "Landover",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 369817,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 304,
-  "indicator_group": 4
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 91,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "20785",
+  "email": true
 }

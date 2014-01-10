@@ -1,6 +1,6 @@
 {
   "facility_code": "31015143",
-  "institution": "UNIVERSITY OF ST THOMAS",
+  "institution": "University Of St Thomas",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 97,
   "cross": 227863,
-  "grad_rate": 43.9,
-  "grad_rate_rank": 1097,
-  "default_rate": 8.9,
-  "avg_stu_loan_debt": 24012,
-  "avg_stu_loan_debt_rank": 1868,
-  "indicator_group": 1
+  "grad_rate": 48.1,
+  "grad_rate_rank": 956,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77006",
+  "email": false
 }

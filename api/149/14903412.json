@@ -1,6 +1,6 @@
 {
   "facility_code": "14903412",
-  "institution": "EASTERN IDAHO TECHNICAL COLLEGE",
+  "institution": "Eastern Idaho Technical College",
   "city": "Idaho Falls",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 28,
   "cross": 142179,
-  "grad_rate": 56.8,
-  "grad_rate_rank": 164,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 5737,
-  "avg_stu_loan_debt_rank": 221,
-  "indicator_group": 3
+  "grad_rate": 52.9,
+  "grad_rate_rank": 372,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 7240,
+  "avg_stu_loan_debt_rank": 206,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "83404",
+  "email": true
 }

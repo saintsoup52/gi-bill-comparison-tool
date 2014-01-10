@@ -1,6 +1,6 @@
 {
   "facility_code": "25836338",
-  "institution": "UNIVERSAL TECHNICAL INSTITUTE",
+  "institution": "Universal Technical Institute",
   "city": "Exton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 169,
   "cross": 445799,
-  "grad_rate": 55.7,
-  "grad_rate_rank": 1756,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 17632,
-  "avg_stu_loan_debt_rank": 2515,
-  "indicator_group": 5
+  "grad_rate": 55.9,
+  "grad_rate_rank": 1776,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 18688,
+  "avg_stu_loan_debt_rank": 1977,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19341",
+  "email": true
 }

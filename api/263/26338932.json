@@ -1,6 +1,6 @@
 {
   "facility_code": "26338932",
-  "institution": "GEMOLOGICAL INST OF AMERICA",
+  "institution": "Gemological Inst Of America",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 191311,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 3.6,
+  "grad_rate": 93.1,
+  "grad_rate_rank": 187,
+  "default_rate": 3.1,
   "avg_stu_loan_debt": 9750,
-  "avg_stu_loan_debt_rank": 2110,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1478,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10016",
+  "email": true
 }

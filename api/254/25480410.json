@@ -1,6 +1,6 @@
 {
   "facility_code": "25480410",
-  "institution": "MCI INSTITUTE OF TECHNOLOGY",
+  "institution": "Mci Institute Of Technology",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 446400,
-  "grad_rate": 58.4,
-  "grad_rate_rank": 1653,
-  "default_rate": 33.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 64.8,
+  "grad_rate_rank": 1437,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 6428,
+  "avg_stu_loan_debt_rank": 525,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33409",
+  "email": true
 }

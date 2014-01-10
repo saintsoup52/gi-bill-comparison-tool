@@ -1,6 +1,6 @@
 {
   "facility_code": "25805505",
-  "institution": "PCI COLLEGE",
+  "institution": "Pci College",
   "city": "Cerritos",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 439871,
-  "grad_rate": 54.0,
-  "grad_rate_rank": 1812,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 54.9,
+  "grad_rate_rank": 1805,
+  "default_rate": 30.9,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90703",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31507205",
-  "institution": "HARVEY MUDD COLLEGE",
+  "institution": "Harvey Mudd College",
   "city": "Claremont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 115409,
-  "grad_rate": 84.1,
-  "grad_rate_rank": 107,
+  "grad_rate": 88.3,
+  "grad_rate_rank": 75,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 23082,
-  "avg_stu_loan_debt_rank": 1797,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 23558,
+  "avg_stu_loan_debt_rank": 1586,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91711",
+  "email": false
 }

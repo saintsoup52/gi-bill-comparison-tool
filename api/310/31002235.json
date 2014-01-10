@@ -1,6 +1,6 @@
 {
   "facility_code": "31002235",
-  "institution": "TIFFIN UNIVERSITY",
+  "institution": "Tiffin University",
   "city": "Tiffin",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 197,
   "cross": 206048,
-  "grad_rate": 46.1,
-  "grad_rate_rank": 1022,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 8750,
-  "avg_stu_loan_debt_rank": 179,
-  "indicator_group": 1
+  "grad_rate": 33.3,
+  "grad_rate_rank": 1432,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 106,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44883",
+  "email": true
 }

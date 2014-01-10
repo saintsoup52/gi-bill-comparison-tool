@@ -1,6 +1,6 @@
 {
   "facility_code": "28542632",
-  "institution": "THE NEW SCHOOL OF RADIO & TELEVISION",
+  "institution": "The New School Of Radio & Television",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 193672,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 28.1,
+  "grad_rate": 96.4,
+  "grad_rate_rank": 121,
+  "default_rate": 26.2,
   "avg_stu_loan_debt": 6335,
-  "avg_stu_loan_debt_rank": 1049,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 510,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12206",
+  "email": true
 }

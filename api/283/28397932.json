@@ -1,6 +1,6 @@
 {
   "facility_code": "28397932",
-  "institution": "LONG ISLAND BEAUTY SCHOOL INC",
+  "institution": "Long Island Beauty School Inc",
   "city": "Hempstead",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 192484,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 1815,
-  "default_rate": 19.0,
-  "avg_stu_loan_debt": 7799,
-  "avg_stu_loan_debt_rank": 1309,
-  "indicator_group": 5
+  "grad_rate": 62.4,
+  "grad_rate_rank": 1542,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 6306,
+  "avg_stu_loan_debt_rank": 444,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10013",
+  "email": false
 }

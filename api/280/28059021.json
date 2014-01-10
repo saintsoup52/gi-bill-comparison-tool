@@ -1,6 +1,6 @@
 {
   "facility_code": "28059021",
-  "institution": "NEW ENGLAND SCHOOL OF PHOTOGRAPHY",
+  "institution": "New England School Of Photography",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 167224,
-  "grad_rate": 57.6,
-  "grad_rate_rank": 1689,
-  "default_rate": 21.2,
+  "grad_rate": 51.7,
+  "grad_rate_rank": 1904,
+  "default_rate": 15.1,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2215",
+  "email": true
 }

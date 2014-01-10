@@ -1,6 +1,6 @@
 {
   "facility_code": "14951436",
-  "institution": "MURRAY STATE COLLEGE",
+  "institution": "Murray State College",
   "city": "Tishomingo",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 101,
   "cross": 207236,
-  "grad_rate": 14.7,
-  "grad_rate_rank": 1039,
-  "default_rate": 31.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 17.8,
+  "grad_rate_rank": 1012,
+  "default_rate": 28.9,
+  "avg_stu_loan_debt": 9722,
+  "avg_stu_loan_debt_rank": 726,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "73460",
+  "email": true
 }

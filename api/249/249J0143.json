@@ -1,6 +1,6 @@
 {
   "facility_code": "249J0143",
-  "institution": "THE COLLEGE OF HEALTHCARE PROFESSIONS NW",
+  "institution": "The College Of Healthcare Professions Nw",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 392257,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 7052,
-  "avg_stu_loan_debt_rank": 296,
-  "indicator_group": 3
+  "grad_rate": 71.7,
+  "grad_rate_rank": 149,
+  "default_rate": 28.3,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 212,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "77092",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31033143",
-  "institution": "SAINT LEO COLLEGE NAS CC",
+  "institution": "Saint Leo College Nas Cc",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 104,
   "cross": 137032,
-  "grad_rate": 45.6,
-  "grad_rate_rank": 1036,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 17338,
-  "avg_stu_loan_debt_rank": 996,
-  "indicator_group": 1
+  "grad_rate": 43.5,
+  "grad_rate_rank": 1118,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 18785,
+  "avg_stu_loan_debt_rank": 1033,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78419",
+  "email": false
 }

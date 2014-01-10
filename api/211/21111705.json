@@ -1,6 +1,6 @@
 {
   "facility_code": "21111705",
-  "institution": "EX'PRESSION COLLEGE FOR DIGITAL ARTS",
+  "institution": "Ex'Pression College For Digital Arts",
   "city": "Emeryville",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 447458,
-  "grad_rate": 49.5,
-  "grad_rate_rank": 904,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 32526,
-  "avg_stu_loan_debt_rank": 2047,
-  "indicator_group": 1
+  "grad_rate": 51.3,
+  "grad_rate_rank": 856,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 34189,
+  "avg_stu_loan_debt_rank": 1983,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94608",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15598325",
-  "institution": "EUREKA HIGH SCHOOL",
+  "institution": "Eureka High School",
   "city": "Eureka",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63025",
+  "email": false
 }

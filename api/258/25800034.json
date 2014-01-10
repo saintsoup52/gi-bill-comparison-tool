@@ -1,6 +1,6 @@
 {
   "facility_code": "25800034",
-  "institution": "JOSEFS SCHOOL OF HAIR DESIGN",
+  "institution": "Josefs School Of Hair Design",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 200165,
-  "grad_rate": 59.2,
-  "grad_rate_rank": 1617,
-  "default_rate": 9.6,
-  "avg_stu_loan_debt": 9637,
-  "avg_stu_loan_debt_rank": 2101,
-  "indicator_group": 5
+  "grad_rate": 41.9,
+  "grad_rate_rank": 2075,
+  "default_rate": 7.2,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 1609,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "58102",
+  "email": true
 }

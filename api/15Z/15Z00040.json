@@ -1,6 +1,6 @@
 {
   "facility_code": "15Z00040",
-  "institution": "SMALL BUSINESS DEVELOPMENT CENTER OF SOUTH CAROLINA (ENTREPRENEURSHIP)",
+  "institution": "Small Business Development Center Of South Carolina (Entrepreneurship)",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29208",
+  "email": true
 }

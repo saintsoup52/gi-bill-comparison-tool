@@ -1,6 +1,6 @@
 {
   "facility_code": "31514535",
-  "institution": "WALSH UNIVERSITY",
+  "institution": "Walsh University",
   "city": "North Canton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 45,
   "cross": 206437,
-  "grad_rate": 59.7,
-  "grad_rate_rank": 575,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 20174,
-  "avg_stu_loan_debt_rank": 1451,
-  "indicator_group": 1
+  "grad_rate": 64.2,
+  "grad_rate_rank": 459,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 22767,
+  "avg_stu_loan_debt_rank": 1497,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44720",
+  "email": false
 }

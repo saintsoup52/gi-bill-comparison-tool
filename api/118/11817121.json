@@ -1,6 +1,6 @@
 {
   "facility_code": "11817121",
-  "institution": "UNIVERSITY OF MASSACHUSETTS MEDICAL SCHOOL",
+  "institution": "University Of Massachusetts Medical School",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 166708,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.6,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 262,
-  "indicator_group": 4
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 71,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "1655",
+  "email": true
 }

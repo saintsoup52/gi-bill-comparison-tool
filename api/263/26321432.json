@@ -1,6 +1,6 @@
 {
   "facility_code": "26321432",
-  "institution": "RIDLEY-LOWELL BUSINESS & TECHNICAL INSTITUTE",
+  "institution": "Ridley-Lowell Business & Technical Institute",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 194879,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 2117,
-  "default_rate": 14.8,
+  "grad_rate": 55.9,
+  "grad_rate_rank": 1776,
+  "default_rate": 16.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "13905",
+  "email": true
 }

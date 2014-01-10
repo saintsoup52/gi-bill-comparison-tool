@@ -1,6 +1,6 @@
 {
   "facility_code": "14907815",
-  "institution": "MARSHALLTOWN COMMUNITY COLLEGE",
+  "institution": "Marshalltown Community College",
   "city": "Marshalltown",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 56,
   "cross": 153922,
-  "grad_rate": 23.9,
-  "grad_rate_rank": 726,
-  "default_rate": 21.8,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 639,
-  "indicator_group": 2
+  "grad_rate": 26.5,
+  "grad_rate_rank": 742,
+  "default_rate": 24.8,
+  "avg_stu_loan_debt": 8750,
+  "avg_stu_loan_debt_rank": 602,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "50158",
+  "email": false
 }

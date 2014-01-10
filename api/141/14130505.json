@@ -1,6 +1,6 @@
 {
   "facility_code": "14130505",
-  "institution": "EAST SAN GABRIEL VALLEY ROP & TECH CTR",
+  "institution": "East San Gabriel Valley Rop & Tech Ctr",
   "city": "West Covina",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 73,
   "cross": 413802,
-  "grad_rate": 87.2,
-  "grad_rate_rank": 25,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 85.9,
+  "grad_rate_rank": 411,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91790",
+  "email": false
 }

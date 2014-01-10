@@ -1,6 +1,6 @@
 {
   "facility_code": "10014833",
-  "institution": "NCDOC - POLK CORRECTIONAL INSTITUTION",
+  "institution": "Ncdoc - Polk Correctional Institution",
   "city": "Butner",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27509",
+  "email": true
 }

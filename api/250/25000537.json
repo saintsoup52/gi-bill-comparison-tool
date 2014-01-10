@@ -1,6 +1,6 @@
 {
   "facility_code": "25000537",
-  "institution": "SUMNER COLLEGE",
+  "institution": "Sumner College",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 208512,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 2202,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 6336,
-  "avg_stu_loan_debt_rank": 1050,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 565,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "97219",
+  "email": true
 }

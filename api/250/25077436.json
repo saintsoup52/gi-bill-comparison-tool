@@ -1,6 +1,6 @@
 {
   "facility_code": "25077436",
-  "institution": "UNLEASHED PET GROOMING SCHOOL",
+  "institution": "Unleashed Pet Grooming School",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73139",
+  "email": false
 }

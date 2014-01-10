@@ -1,6 +1,6 @@
 {
   "facility_code": "10203226",
-  "institution": "CIYT OF HELENA WASTE WATER TREATMENT PLANT",
+  "institution": "Ciyt Of Helena Waste Water Treatment Plant",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59602",
+  "email": "No (SCO)"
 }

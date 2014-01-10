@@ -1,6 +1,6 @@
 {
   "facility_code": "31000717",
-  "institution": "TRANSYLVANIA UNIVERSITY",
+  "institution": "Transylvania University",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 157818,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 312,
-  "default_rate": 1.8,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 73.7,
+  "grad_rate_rank": 253,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40508",
+  "email": true
 }

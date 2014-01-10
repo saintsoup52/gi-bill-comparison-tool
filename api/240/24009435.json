@@ -1,6 +1,6 @@
 {
   "facility_code": "24009435",
-  "institution": "VIRGINIA MARTI COLLEGE OF FASHION AND ART",
+  "institution": "Virginia Marti College Of Fashion And Art",
   "city": "Lakewood",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 206394,
-  "grad_rate": 36.4,
-  "grad_rate_rank": 401,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 24275,
-  "avg_stu_loan_debt_rank": 1453,
-  "indicator_group": 2
+  "grad_rate": 40.7,
+  "grad_rate_rank": 404,
+  "default_rate": 24.7,
+  "avg_stu_loan_debt": 24946,
+  "avg_stu_loan_debt_rank": 1393,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44107",
+  "email": true
 }

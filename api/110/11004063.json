@@ -1,18 +1,21 @@
 {
   "facility_code": "11004063",
-  "institution": "UNIVERSIDAD DE PUERTO RICO EN UTUADO (UNIVERSITY OF PUERTO RICO- UTUADO)",
+  "institution": "Universidad De Puerto Rico En Utuado (University Of Puerto Rico- Utuado)",
   "city": "Utuado",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": true,
   "yr": null,
   "gibill": 21,
   "cross": 243188,
-  "grad_rate": 29.6,
-  "grad_rate_rank": 548,
-  "default_rate": 12.5,
+  "grad_rate": 13.7,
+  "grad_rate_rank": 1171,
+  "default_rate": 13.0,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "641",
+  "email": true
 }

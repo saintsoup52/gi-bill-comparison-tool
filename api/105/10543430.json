@@ -1,6 +1,6 @@
 {
   "facility_code": "10543430",
-  "institution": "MONMOUTH COUNTY DEPARTMENT OF TRANSPORTATION",
+  "institution": "Monmouth County Department Of Transportation",
   "city": "Freehold",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7728",
+  "email": false
 }

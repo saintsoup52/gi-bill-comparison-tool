@@ -1,6 +1,6 @@
 {
   "facility_code": "10010033",
-  "institution": "WILMINGTON POLICE DEPARTMENT",
+  "institution": "Wilmington Police Department",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28402",
+  "email": true
 }

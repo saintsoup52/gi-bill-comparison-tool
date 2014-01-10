@@ -1,6 +1,6 @@
 {
   "facility_code": "25387832",
-  "institution": "LEON STUDIO ONE SCHOOL OF BEAUTY AND CAREER TRAINING CENTER",
+  "institution": "Leon Studio One School Of Beauty And Career Training Center",
   "city": "Williamsville",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 441618,
-  "grad_rate": 84.0,
-  "grad_rate_rank": 460,
-  "default_rate": 20.6,
-  "avg_stu_loan_debt": 5923,
-  "avg_stu_loan_debt_rank": 950,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 5596,
+  "avg_stu_loan_debt_rank": 367,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14221",
+  "email": true
 }

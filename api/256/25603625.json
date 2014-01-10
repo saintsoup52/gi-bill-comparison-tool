@@ -1,6 +1,6 @@
 {
   "facility_code": "25603625",
-  "institution": "ROUTE 66 CDL & APPRENTICESHIP INC.",
+  "institution": "Route 66 Cdl & Apprenticeship Inc.",
   "city": "Strafford",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65757",
+  "email": false
 }

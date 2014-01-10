@@ -1,6 +1,6 @@
 {
   "facility_code": "20471436",
-  "institution": "LASALLE ST. SECURITIES LLC",
+  "institution": "Lasalle St. Securities Llc",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73112",
+  "email": false
 }

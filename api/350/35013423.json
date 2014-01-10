@@ -1,6 +1,6 @@
 {
   "facility_code": "35013423",
-  "institution": "SUMMIT ACADEMY OIC",
+  "institution": "Summit Academy Oic",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 175120,
-  "grad_rate": 40.8,
-  "grad_rate_rank": 2062,
+  "grad_rate": 43.9,
+  "grad_rate_rank": 2050,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55405",
+  "email": true
 }

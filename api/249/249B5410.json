@@ -1,6 +1,6 @@
 {
   "facility_code": "249B5410",
-  "institution": "FORTIS COLLEGE - MIAMI",
+  "institution": "Fortis College - Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 404921,
-  "grad_rate": 67.7,
-  "grad_rate_rank": 82,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 7841,
-  "avg_stu_loan_debt_rank": 332,
-  "indicator_group": 3
+  "grad_rate": 66.4,
+  "grad_rate_rank": 222,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 10462,
+  "avg_stu_loan_debt_rank": 542,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33144",
+  "email": true
 }

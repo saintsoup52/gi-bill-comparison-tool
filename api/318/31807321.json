@@ -1,6 +1,6 @@
 {
   "facility_code": "31807321",
-  "institution": "TUFTS UNIVERSITY",
+  "institution": "Tufts University",
   "city": "Medford",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 168148,
-  "grad_rate": 90.2,
-  "grad_rate_rank": 62,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 18541,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 1
+  "grad_rate": 92.3,
+  "grad_rate_rank": 39,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 18150,
+  "avg_stu_loan_debt_rank": 938,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2155",
+  "email": true
 }

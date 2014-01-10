@@ -1,6 +1,6 @@
 {
   "facility_code": "31014538",
-  "institution": "LA ROCHE COLLEGE",
+  "institution": "La Roche College",
   "city": "Pittsburgh Pa 15237",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 55,
   "cross": 213358,
-  "grad_rate": 51.2,
-  "grad_rate_rank": 835,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 18738,
-  "avg_stu_loan_debt_rank": 1176,
-  "indicator_group": 1
+  "grad_rate": 46.5,
+  "grad_rate_rank": 1020,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 16956,
+  "avg_stu_loan_debt_rank": 797,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15237",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14909410",
-  "institution": "COLLEGE OF CENTRAL FLORIDA - ENROLLMENT SVCS",
+  "institution": "College Of Central Florida - Enrollment Svcs",
   "city": "Ocala",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 484,
   "cross": 132851,
-  "grad_rate": 35.0,
-  "grad_rate_rank": 424,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 7753,
-  "avg_stu_loan_debt_rank": 631,
-  "indicator_group": 2
+  "grad_rate": 37.0,
+  "grad_rate_rank": 463,
+  "default_rate": 20.9,
+  "avg_stu_loan_debt": 8595,
+  "avg_stu_loan_debt_rank": 592,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "34474",
+  "email": true
 }

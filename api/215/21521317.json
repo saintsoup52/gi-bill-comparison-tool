@@ -1,6 +1,6 @@
 {
   "facility_code": "21521317",
-  "institution": "UNIVERSITY OF PHOENIX-FLORENCE LEARNING CENTER",
+  "institution": "University Of Phoenix-Florence Learning Center",
   "city": "Florence",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 445391,
-  "grad_rate": 4.9,
-  "grad_rate_rank": 1822,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 12.5,
+  "grad_rate_rank": 1809,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "41042",
+  "email": false
 }

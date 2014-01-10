@@ -1,6 +1,6 @@
 {
   "facility_code": "11801327",
-  "institution": "UNIVERSITY OF NEBRASKA MEDICAL CENTER",
+  "institution": "University Of Nebraska Medical Center",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 85,
   "cross": 181428,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 17759,
-  "avg_stu_loan_debt_rank": 1058,
-  "indicator_group": 1
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 17750,
+  "avg_stu_loan_debt_rank": 886,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68198",
+  "email": false
 }

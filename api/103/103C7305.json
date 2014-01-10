@@ -1,6 +1,6 @@
 {
   "facility_code": "103C7305",
-  "institution": "9TH SUPPORT DIVISION VEHICLE MAINTENANCE",
+  "institution": "9th Support Division Vehicle Maintenance",
   "city": "Beale Afb",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95903",
+  "email": false
 }

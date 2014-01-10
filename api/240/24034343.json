@@ -1,6 +1,6 @@
 {
   "facility_code": "24034343",
-  "institution": "EVEREST COLLEGE DALLAS",
+  "institution": "Everest College Dallas",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 91,
   "cross": 442790,
-  "grad_rate": 36.7,
-  "grad_rate_rank": 278,
-  "default_rate": 31.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 41.7,
+  "grad_rate_rank": 447,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 9564,
+  "avg_stu_loan_debt_rank": 512,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "75206",
+  "email": true
 }

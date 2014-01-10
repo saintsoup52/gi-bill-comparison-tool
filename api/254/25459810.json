@@ -1,6 +1,6 @@
 {
   "facility_code": "25459810",
-  "institution": "PC PROFESSOR - PEMBROKE PINES",
+  "institution": "Pc Professor - Pembroke Pines",
   "city": "Pembrook Pines",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33027",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35070501",
-  "institution": "FORERUNNER SCHOOL OF MINISTRY",
+  "institution": "Forerunner School Of Ministry",
   "city": "Pinson",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35126",
+  "email": true
 }

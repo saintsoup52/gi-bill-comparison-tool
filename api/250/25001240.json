@@ -1,6 +1,6 @@
 {
   "facility_code": "25001240",
-  "institution": "SOUTHEASTERN INSTITUTE (COLUMBIA)",
+  "institution": "Southeastern Institute (Columbia)",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 444866,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 526,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 9470,
-  "avg_stu_loan_debt_rank": 1647,
-  "indicator_group": 5
+  "grad_rate": 84.0,
+  "grad_rate_rank": 473,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 9207,
+  "avg_stu_loan_debt_rank": 1022,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29210",
+  "email": true
 }

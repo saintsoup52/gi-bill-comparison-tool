@@ -1,6 +1,6 @@
 {
   "facility_code": "20582938",
-  "institution": "W AND M PRINTING INC",
+  "institution": "W And M Printing Inc",
   "city": "Mechanicsburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17055",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B96643",
-  "institution": "THE CITY OF HOUSTON FIRE TRAINING ACADEMY",
+  "institution": "The City Of Houston Fire Training Academy",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77061",
+  "email": false
 }

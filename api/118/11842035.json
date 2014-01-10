@@ -1,6 +1,6 @@
 {
   "facility_code": "11842035",
-  "institution": "KENT STATE UNIVERSITY-MAIN CAMPUS",
+  "institution": "Kent State University-Main Campus",
   "city": "Kent",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 714,
   "cross": 203517,
-  "grad_rate": 49.5,
-  "grad_rate_rank": 904,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 16625,
-  "avg_stu_loan_debt_rank": 902,
-  "indicator_group": 1
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 16842,
+  "avg_stu_loan_debt_rank": 784,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44242",
+  "email": true
 }

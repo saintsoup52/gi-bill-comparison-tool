@@ -1,6 +1,6 @@
 {
   "facility_code": "14908406",
-  "institution": "AIMS COMMUNITY COLLEGE",
+  "institution": "Aims Community College",
   "city": "Greeley",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 307,
   "cross": 126207,
-  "grad_rate": 21.1,
-  "grad_rate_rank": 424,
-  "default_rate": 16.5,
-  "avg_stu_loan_debt": 6593,
-  "avg_stu_loan_debt_rank": 266,
-  "indicator_group": 3
+  "grad_rate": 22.3,
+  "grad_rate_rank": 618,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 6125,
+  "avg_stu_loan_debt_rank": 158,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80634",
+  "email": true
 }

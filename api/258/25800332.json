@@ -1,6 +1,6 @@
 {
   "facility_code": "25800332",
-  "institution": "ALLEN SCHOOL - BROOKLYN",
+  "institution": "Allen School - Brooklyn",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 188650,
-  "grad_rate": 77.4,
-  "grad_rate_rank": 795,
-  "default_rate": 17.7,
+  "grad_rate": 58.9,
+  "grad_rate_rank": 1673,
+  "default_rate": 17.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11201",
+  "email": false
 }

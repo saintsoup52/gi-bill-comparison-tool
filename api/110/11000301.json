@@ -1,6 +1,6 @@
 {
   "facility_code": "11000301",
-  "institution": "ATHENS STATE UNIVERSITY",
+  "institution": "Athens State University",
   "city": "Athens",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 261,
   "cross": 100812,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 13889,
-  "avg_stu_loan_debt_rank": 622,
-  "indicator_group": 1
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 14407,
+  "avg_stu_loan_debt_rank": 479,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35611",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14929433",
-  "institution": "SOUTHWESTERN COMMUNITY COLLEGE",
+  "institution": "Southwestern Community College",
   "city": "Sylva",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 88,
   "cross": 199731,
-  "grad_rate": 14.0,
-  "grad_rate_rank": 1060,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 32.3,
+  "grad_rate_rank": 565,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 548,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28779",
+  "email": true
 }

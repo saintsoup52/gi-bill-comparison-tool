@@ -1,6 +1,6 @@
 {
   "facility_code": "25058921",
-  "institution": "DOUGLAS AUCTIONEERS",
+  "institution": "Douglas Auctioneers",
   "city": "South Deerfield",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1373",
+  "email": false
 }

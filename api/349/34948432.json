@@ -1,6 +1,6 @@
 {
   "facility_code": "34948432",
-  "institution": "LYNN UNIVERSITY",
+  "institution": "Lynn University",
   "city": "Old Forge",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 132657,
-  "grad_rate": 41.6,
-  "grad_rate_rank": 1173,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 40.2,
+  "grad_rate_rank": 1243,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 20667,
+  "avg_stu_loan_debt_rank": 1278,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13420",
+  "email": false
 }

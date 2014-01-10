@@ -1,6 +1,6 @@
 {
   "facility_code": "25803435",
-  "institution": "TOLEDO ACADEMY OF BEAUTY CULTURE - EAST",
+  "institution": "Toledo Academy Of Beauty Culture - East",
   "city": "Oregon",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 375540,
-  "grad_rate": 77.4,
-  "grad_rate_rank": 795,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 6249,
-  "avg_stu_loan_debt_rank": 987,
-  "indicator_group": 5
+  "grad_rate": 82.4,
+  "grad_rate_rank": 542,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 539,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43616",
+  "email": false
 }

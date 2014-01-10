@@ -1,6 +1,6 @@
 {
   "facility_code": "14986410",
-  "institution": "BROWARD COLLEGE",
+  "institution": "Broward College",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1201,
   "cross": 132709,
-  "grad_rate": 25.4,
-  "grad_rate_rank": 675,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 28.2,
+  "grad_rate_rank": 685,
+  "default_rate": 15.1,
+  "avg_stu_loan_debt": 6486,
+  "avg_stu_loan_debt_rank": 382,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33301",
+  "email": true
 }

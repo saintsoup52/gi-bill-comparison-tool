@@ -1,6 +1,6 @@
 {
   "facility_code": "10486248",
-  "institution": "FEDERAL CORRECTIONAL INSTITUTION MCDOWELL",
+  "institution": "Federal Correctional Institution Mcdowell",
   "city": "Welch",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24801",
+  "email": true
 }

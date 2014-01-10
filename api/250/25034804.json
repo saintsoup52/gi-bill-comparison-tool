@@ -1,6 +1,6 @@
 {
   "facility_code": "25034804",
-  "institution": "PROFESSIONAL COSMETOLOGY EDUC CENTER (PCEC)",
+  "institution": "Professional Cosmetology Educ Center (Pcec)",
   "city": "El Dorado",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 107655,
-  "grad_rate": 68.1,
-  "grad_rate_rank": 1250,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 7186,
-  "avg_stu_loan_debt_rank": 1170,
-  "indicator_group": 5
+  "grad_rate": 69.1,
+  "grad_rate_rank": 1229,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 9134,
+  "avg_stu_loan_debt_rank": 1016,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71730",
+  "email": false
 }

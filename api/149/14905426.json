@@ -1,6 +1,6 @@
 {
   "facility_code": "14905426",
-  "institution": "FORT PECK COMMUNITY COLLEGE",
+  "institution": "Fort Peck Community College",
   "city": "Poplar",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 180212,
-  "grad_rate": 7.7,
-  "grad_rate_rank": 1255,
+  "grad_rate": 8.3,
+  "grad_rate_rank": 1333,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "59255",
+  "email": false
 }

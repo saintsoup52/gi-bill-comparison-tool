@@ -1,6 +1,6 @@
 {
   "facility_code": "21033643",
-  "institution": "E CAP (EDU CAREER & ALT PROG)",
+  "institution": "E Cap (Edu Career & Alt Prog)",
   "city": "N Richland Hills",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76180",
+  "email": false
 }

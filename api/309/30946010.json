@@ -1,6 +1,6 @@
 {
   "facility_code": "30946010",
-  "institution": "HEARTLAND AIR CONDITIONING APPRENTICESHIP PROG GNJ",
+  "institution": "Heartland Air Conditioning Apprenticeship Prog Gnj",
   "city": "Avon Park",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33825",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28216515",
-  "institution": "IOWA SCHOOL OF BEAUTY  MARSHALLTOWN",
+  "institution": "Iowa School Of Beauty  Marshalltown",
   "city": "Marshalltown",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 153171,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 1489,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 5
+  "grad_rate": 59.1,
+  "grad_rate_rank": 1662,
+  "default_rate": 13.0,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 1896,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50158",
+  "email": false
 }

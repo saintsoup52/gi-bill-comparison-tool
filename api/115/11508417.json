@@ -1,6 +1,6 @@
 {
   "facility_code": "11508417",
-  "institution": "NORTHERN KENTUCKY UNIVERSITY",
+  "institution": "Northern Kentucky University",
   "city": "Highland Heights",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 476,
   "cross": 157447,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 1321,
-  "default_rate": 10.9,
-  "avg_stu_loan_debt": 17105,
-  "avg_stu_loan_debt_rank": 961,
-  "indicator_group": 1
+  "grad_rate": 37.1,
+  "grad_rate_rank": 1333,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 16225,
+  "avg_stu_loan_debt_rank": 720,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "41099",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21059210",
-  "institution": "DIGITAL MEDIA ARTS COLLEGE",
+  "institution": "Digital Media Arts College",
   "city": "Boca Raton",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 451060,
-  "grad_rate": 45.7,
-  "grad_rate_rank": 1035,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 36006,
-  "avg_stu_loan_debt_rank": 2056,
-  "indicator_group": 1
+  "grad_rate": 46.2,
+  "grad_rate_rank": 1029,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 26382,
+  "avg_stu_loan_debt_rank": 1855,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33487",
+  "email": true
 }

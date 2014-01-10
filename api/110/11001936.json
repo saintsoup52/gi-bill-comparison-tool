@@ -1,6 +1,6 @@
 {
   "facility_code": "11001936",
-  "institution": "NORTHWESTERN OKLAHOMA STATE UNIVERSITY",
+  "institution": "Northwestern Oklahoma State University",
   "city": "Alva",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 78,
   "cross": 207306,
-  "grad_rate": 36.9,
-  "grad_rate_rank": 1328,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 7414,
-  "avg_stu_loan_debt_rank": 160,
-  "indicator_group": 1
+  "grad_rate": 30.9,
+  "grad_rate_rank": 1511,
+  "default_rate": 20.7,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 88,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73717",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "29025514",
-  "institution": "VERSICAT ITU LLC DBA ADJUSTER PRO",
+  "institution": "Versicat Itu Llc Dba Adjuster Pro",
   "city": "Noblesville",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46060",
+  "email": true
 }

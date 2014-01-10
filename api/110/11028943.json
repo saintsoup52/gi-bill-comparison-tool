@@ -1,6 +1,6 @@
 {
   "facility_code": "11028943",
-  "institution": "TEXAS A AND M UNIVERSITY",
+  "institution": "Texas A And M University",
   "city": "College Station",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1056,
   "cross": 228723,
-  "grad_rate": 80.7,
-  "grad_rate_rank": 146,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 18519,
-  "avg_stu_loan_debt_rank": 1153,
-  "indicator_group": 1
+  "grad_rate": 79.6,
+  "grad_rate_rank": 163,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 18789,
+  "avg_stu_loan_debt_rank": 1034,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77842",
+  "email": true
 }

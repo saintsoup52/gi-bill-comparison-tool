@@ -1,6 +1,6 @@
 {
   "facility_code": "31922121",
-  "institution": "MOUNT IDA COLLEGE",
+  "institution": "Mount Ida College",
   "city": "Newton Center",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 166948,
-  "grad_rate": 44.2,
-  "grad_rate_rank": 1087,
-  "default_rate": 10.2,
+  "grad_rate": 41.5,
+  "grad_rate_rank": 1192,
+  "default_rate": 12.3,
   "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2459",
+  "email": true
 }

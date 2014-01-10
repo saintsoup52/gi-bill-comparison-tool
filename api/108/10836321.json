@@ -1,6 +1,6 @@
 {
   "facility_code": "10836321",
-  "institution": "MASSACHUSETTS ARMY AIR NATIONAL GUARD",
+  "institution": "Massachusetts Army Air National Guard",
   "city": "Otis Air Ng Base",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2542",
+  "email": false
 }

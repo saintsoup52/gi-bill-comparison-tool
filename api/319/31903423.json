@@ -1,6 +1,6 @@
 {
   "facility_code": "31903423",
-  "institution": "NORTH CENTRAL UNIVERSITY",
+  "institution": "North Central University",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 28,
   "cross": 174437,
-  "grad_rate": 40.4,
-  "grad_rate_rank": 1212,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 18500,
-  "avg_stu_loan_debt_rank": 1137,
-  "indicator_group": 1
+  "grad_rate": 45.7,
+  "grad_rate_rank": 1042,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 18184,
+  "avg_stu_loan_debt_rank": 941,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55404",
+  "email": false
 }

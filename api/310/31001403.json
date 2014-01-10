@@ -1,6 +1,6 @@
 {
   "facility_code": "31001403",
-  "institution": "ARIZONA CHRISTIAN UNIVERSITY",
+  "institution": "Arizona Christian University",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 105899,
-  "grad_rate": 31.3,
-  "grad_rate_rank": 1464,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 13472,
-  "avg_stu_loan_debt_rank": 583,
-  "indicator_group": 1
+  "grad_rate": 50.9,
+  "grad_rate_rank": 869,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 16750,
+  "avg_stu_loan_debt_rank": 777,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85032",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18028238",
-  "institution": "PARKWAY WEST AREA VOC TECH SCHOOL",
+  "institution": "Parkway West Area Voc Tech School",
   "city": "Oakdale",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15071",
+  "email": false
 }

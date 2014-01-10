@@ -1,6 +1,6 @@
 {
   "facility_code": "28702464",
-  "institution": "HAWAII INSTITUTE OF HAIR DESIGN",
+  "institution": "Hawaii Institute Of Hair Design",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 141608,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 1002,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 6085,
-  "avg_stu_loan_debt_rank": 971,
-  "indicator_group": 5
+  "grad_rate": 64.0,
+  "grad_rate_rank": 1469,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "96817",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31005943",
-  "institution": "JARVIS CHRISTIAN COLLEGE",
+  "institution": "Jarvis Christian College",
   "city": "Hawkins",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 225885,
-  "grad_rate": 14.3,
-  "grad_rate_rank": 1740,
-  "default_rate": 37.5,
-  "avg_stu_loan_debt": 14250,
-  "avg_stu_loan_debt_rank": 655,
-  "indicator_group": 1
+  "grad_rate": 13.3,
+  "grad_rate_rank": 1801,
+  "default_rate": 50.6,
+  "avg_stu_loan_debt": 19312,
+  "avg_stu_loan_debt_rank": 1106,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75765",
+  "email": false
 }

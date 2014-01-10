@@ -1,6 +1,6 @@
 {
   "facility_code": "15514917",
-  "institution": "CHRISTIAN COUNTY ADULT EDUCATION CENTER",
+  "institution": "Christian County Adult Education Center",
   "city": "Hopkinsville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "42240",
+  "email": false
 }

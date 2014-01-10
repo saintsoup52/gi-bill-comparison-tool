@@ -1,6 +1,6 @@
 {
   "facility_code": "21801805",
-  "institution": "WESTWOOD COLLEGE (ANAHEIM)",
+  "institution": "Westwood College (Anaheim)",
   "city": "Anaheim",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 437848,
-  "grad_rate": 33.8,
-  "grad_rate_rank": 1395,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 22104,
-  "avg_stu_loan_debt_rank": 1649,
-  "indicator_group": 1
+  "grad_rate": 51.3,
+  "grad_rate_rank": 856,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 26180,
+  "avg_stu_loan_debt_rank": 1837,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92806",
+  "email": true
 }

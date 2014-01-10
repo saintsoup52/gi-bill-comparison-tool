@@ -1,6 +1,6 @@
 {
   "facility_code": "10701213",
-  "institution": "US ARMY CORPS OF ENGINEERS  MARSEILLIES LOCK AND DAM",
+  "institution": "Us Army Corps Of Engineers  Marseillies Lock And Dam",
   "city": "Marseilles",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61341",
+  "email": false
 }

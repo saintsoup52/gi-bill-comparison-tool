@@ -1,6 +1,6 @@
 {
   "facility_code": "28880001",
-  "institution": "LOOKOUT MOUNTAIN SCHOOL OF HORSESHOEING",
+  "institution": "Lookout Mountain School Of Horseshoeing",
   "city": "Gadsden",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35901",
+  "email": false
 }

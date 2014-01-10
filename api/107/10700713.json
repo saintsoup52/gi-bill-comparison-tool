@@ -1,6 +1,6 @@
 {
   "facility_code": "10700713",
-  "institution": "HICKORY HILLS POLICE DEPARTMENT",
+  "institution": "Hickory Hills Police Department",
   "city": "Hickory Hills",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60457",
+  "email": false
 }

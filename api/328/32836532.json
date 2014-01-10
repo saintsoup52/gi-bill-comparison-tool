@@ -1,6 +1,6 @@
 {
   "facility_code": "32836532",
-  "institution": "ST. JAMES MERCY HOSPITAL SCHOOL OF RADIOLOGIC SCIENCE",
+  "institution": "St. James Mercy Hospital School Of Radiologic Science",
   "city": "Hornell",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 195793,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 7.1,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14843",
+  "email": true
 }

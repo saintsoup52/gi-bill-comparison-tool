@@ -1,6 +1,6 @@
 {
   "facility_code": "21943113",
-  "institution": "DEVRY UNIV/KELLER GRADUATE SCH MGMT",
+  "institution": "Devry Univ/Keller Graduate Sch Mgmt",
   "city": "Downers Grove",
   "state": "IL",
   "country": "USA",
@@ -8,11 +8,14 @@
   "poe": true,
   "yr": true,
   "gibill": 1048,
-  "cross": 0,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "cross": 146384,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 5000,
+  "avg_stu_loan_debt_rank": 11,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "60515",
+  "email": true
 }

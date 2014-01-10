@@ -1,6 +1,6 @@
 {
   "facility_code": "11801205",
-  "institution": "UNIVERSITY OF CALIFORNIA RIVERSIDE",
+  "institution": "University Of California Riverside",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 229,
   "cross": 110671,
-  "grad_rate": 66.8,
-  "grad_rate_rank": 382,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 17152,
-  "avg_stu_loan_debt_rank": 970,
-  "indicator_group": 1
+  "grad_rate": 66.3,
+  "grad_rate_rank": 400,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 18288,
+  "avg_stu_loan_debt_rank": 954,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92521",
+  "email": false
 }

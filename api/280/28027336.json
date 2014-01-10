@@ -1,6 +1,6 @@
 {
   "facility_code": "28027336",
-  "institution": "CLAREMORE BEAUTY COLLEGE",
+  "institution": "Claremore Beauty College",
   "city": "Claremore",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 206969,
-  "grad_rate": 81.8,
-  "grad_rate_rank": 554,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 5375,
+  "avg_stu_loan_debt_rank": 296,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74017",
+  "email": false
 }

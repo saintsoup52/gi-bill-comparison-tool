@@ -1,6 +1,6 @@
 {
   "facility_code": "31971138",
-  "institution": "URSINUS COLLEGE",
+  "institution": "Ursinus College",
   "city": "Collegeville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 216524,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 156,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 74.1,
+  "grad_rate_rank": 247,
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19426",
+  "email": true
 }

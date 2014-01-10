@@ -1,6 +1,6 @@
 {
   "facility_code": "20B86535",
-  "institution": "INDEPENDENT ELECTRICAL CONTRACTORS-WESTERN RESERVE CHAPTER",
+  "institution": "Independent Electrical Contractors-Western Reserve Chapter",
   "city": "Boardman",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44513",
+  "email": false
 }

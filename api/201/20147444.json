@@ -1,6 +1,6 @@
 {
   "facility_code": "20147444",
-  "institution": "BARNES GLASS & PAINT APP",
+  "institution": "Barnes Glass & Paint App",
   "city": "Brigham City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84302",
+  "email": false
 }

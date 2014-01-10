@@ -1,6 +1,6 @@
 {
   "facility_code": "11906103",
-  "institution": "NORTHERN ARIZONA UNIVERSITY",
+  "institution": "Northern Arizona University",
   "city": "Flagstaff",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 826,
   "cross": 105330,
-  "grad_rate": 51.8,
-  "grad_rate_rank": 817,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 16626,
-  "avg_stu_loan_debt_rank": 904,
-  "indicator_group": 1
+  "grad_rate": 49.1,
+  "grad_rate_rank": 926,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 18103,
+  "avg_stu_loan_debt_rank": 930,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "86011",
+  "email": false
 }

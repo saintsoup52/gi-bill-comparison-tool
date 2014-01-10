@@ -1,6 +1,6 @@
 {
   "facility_code": "25117705",
-  "institution": "MAKE-UP DESIGNORY",
+  "institution": "Make-Up Designory",
   "city": "Burbank",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 449366,
-  "grad_rate": 91.0,
-  "grad_rate_rank": 233,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 13679,
-  "avg_stu_loan_debt_rank": 2429,
-  "indicator_group": 5
+  "grad_rate": 89.4,
+  "grad_rate_rank": 293,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 8571,
+  "avg_stu_loan_debt_rank": 912,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91502",
+  "email": true
 }

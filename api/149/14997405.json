@@ -1,6 +1,6 @@
 {
   "facility_code": "14997405",
-  "institution": "FEATHER RIVER COLLEGE",
+  "institution": "Feather River College",
   "city": "Quincy",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 114433,
-  "grad_rate": 22.9,
-  "grad_rate_rank": 763,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 27.3,
+  "grad_rate_rank": 714,
+  "default_rate": 20.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "95971",
+  "email": false
 }

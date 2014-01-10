@@ -1,6 +1,6 @@
 {
   "facility_code": "24908415",
-  "institution": "KAPLAN UNIVERSITY - CEDAR RAPIDS",
+  "institution": "Kaplan University - Cedar Rapids",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 153418,
-  "grad_rate": 45.1,
-  "grad_rate_rank": 272,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 2
+  "grad_rate": 26.3,
+  "grad_rate_rank": 746,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1230,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "52404",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25110305",
-  "institution": "CENTRAL CALIFORNIA SCHOOL OF CONT EDUC (CH31)",
+  "institution": "Central California School Of Cont Educ (Ch31)",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 419183,
-  "grad_rate": 68.2,
+  "grad_rate": 68.7,
   "grad_rate_rank": 1245,
-  "default_rate": 11.4,
-  "avg_stu_loan_debt": 5898,
-  "avg_stu_loan_debt_rank": 945,
-  "indicator_group": 5
+  "default_rate": 21.5,
+  "avg_stu_loan_debt": 5276,
+  "avg_stu_loan_debt_rank": 282,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93401",
+  "email": false
 }

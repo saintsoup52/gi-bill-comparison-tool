@@ -1,6 +1,6 @@
 {
   "facility_code": "15530435",
-  "institution": "MIAMI VALLEY CAREER TECHNOLOGY CENTER",
+  "institution": "Miami Valley Career Technology Center",
   "city": "Clayton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 204158,
-  "grad_rate": 85.8,
-  "grad_rate_rank": 397,
-  "default_rate": 9.7,
+  "grad_rate": 84.3,
+  "grad_rate_rank": 461,
+  "default_rate": 12.1,
   "avg_stu_loan_debt": 6819,
-  "avg_stu_loan_debt_rank": 1107,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 603,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45315",
+  "email": true
 }

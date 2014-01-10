@@ -1,6 +1,6 @@
 {
   "facility_code": "31011833",
-  "institution": "WARREN WILSON COLLEGE",
+  "institution": "Warren Wilson College",
   "city": "Asheville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 199865,
-  "grad_rate": 44.7,
-  "grad_rate_rank": 1065,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "grad_rate": 57.4,
+  "grad_rate_rank": 654,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 15750,
+  "avg_stu_loan_debt_rank": 599,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28815",
+  "email": true
 }

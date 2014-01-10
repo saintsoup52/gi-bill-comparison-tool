@@ -1,6 +1,6 @@
 {
   "facility_code": "21817110",
-  "institution": "EVEREST UNIVERSITY - LAKELAND",
+  "institution": "Everest University - Lakeland",
   "city": "Lakeland",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 367909,
-  "grad_rate": 27.5,
-  "grad_rate_rank": 364,
-  "default_rate": 29.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 38.3,
+  "grad_rate_rank": 466,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 10890,
+  "avg_stu_loan_debt_rank": 561,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33801",
+  "email": true
 }

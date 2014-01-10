@@ -1,6 +1,6 @@
 {
   "facility_code": "31820232",
-  "institution": "UNIVERSITY OF ROCHESTER SCHOOL OF MEDICINE & DENTISTRY",
+  "institution": "University Of Rochester School Of Medicine & Dentistry",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 195030,
-  "grad_rate": 83.1,
-  "grad_rate_rank": 115,
-  "default_rate": 1.2,
-  "avg_stu_loan_debt": 23750,
-  "avg_stu_loan_debt_rank": 1842,
-  "indicator_group": 1
+  "grad_rate": 85.4,
+  "grad_rate_rank": 96,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14642",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20N19732",
-  "institution": "BUILDING TRADES EMPLOYERS EDUCATION ASSOCIATION",
+  "institution": "Building Trades Employers Education Association",
   "city": "Queens",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11414",
+  "email": false
 }

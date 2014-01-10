@@ -1,6 +1,6 @@
 {
   "facility_code": "31515935",
-  "institution": "SPIRITUAL CARE AND EDUCATION CENTER (31)",
+  "institution": "Spiritual Care And Education Center (31)",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43615",
+  "email": "No (SCO)"
 }

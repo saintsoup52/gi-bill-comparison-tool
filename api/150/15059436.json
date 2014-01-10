@@ -1,6 +1,6 @@
 {
   "facility_code": "15059436",
-  "institution": "RUSH SPRINGS HIGH SCHOOL",
+  "institution": "Rush Springs High School",
   "city": "Rush Springs",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73082",
+  "email": false
 }

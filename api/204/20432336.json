@@ -1,6 +1,6 @@
 {
   "facility_code": "20432336",
-  "institution": "SKEDEE ASSEMBLY OF GOD CHURCH",
+  "institution": "Skedee Assembly Of God Church",
   "city": "Jennings",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74038",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11994132",
-  "institution": "SUNY STONY BROOK",
+  "institution": "Suny Stony Brook",
   "city": "Stony Brook",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 197,
   "cross": 196097,
-  "grad_rate": 67.0,
-  "grad_rate_rank": 378,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 16899,
-  "avg_stu_loan_debt_rank": 933,
-  "indicator_group": 1
+  "grad_rate": 69.7,
+  "grad_rate_rank": 321,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 17000,
+  "avg_stu_loan_debt_rank": 800,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11794",
+  "email": true
 }

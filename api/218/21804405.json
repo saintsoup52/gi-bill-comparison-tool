@@ -1,6 +1,6 @@
 {
   "facility_code": "21804405",
-  "institution": "ART INSTITUTE OF CALIFORNIA - SILICON VALLEY A CAMPUS OF ARGOSY UNIVERSITY",
+  "institution": "Art Institute Of California - Silicon Valley A Campus Of Argosy University",
   "city": "Sunnyvale",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 58,
   "cross": 451848,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 773,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "94086",
+  "email": true
 }

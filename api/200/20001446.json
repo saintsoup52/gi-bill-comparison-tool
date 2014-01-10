@@ -1,6 +1,6 @@
 {
   "facility_code": "20001446",
-  "institution": "JAC PLUMBING HEATING AND AIR CONDITIONING",
+  "institution": "Jac Plumbing Heating And Air Conditioning",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23505",
+  "email": true
 }

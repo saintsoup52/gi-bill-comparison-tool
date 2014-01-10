@@ -1,6 +1,6 @@
 {
   "facility_code": "34100222",
-  "institution": "COMPASS COLLEGE OF CINEMATIC ARTS",
+  "institution": "Compass College Of Cinematic Arts",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 459417,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4875,
-  "avg_stu_loan_debt_rank": 172,
-  "indicator_group": 3
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 17281,
+  "avg_stu_loan_debt_rank": 691,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "49503",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C99733",
-  "institution": "LEVITON MANUFACTURING CO. INC./SOUTHERN",
+  "institution": "Leviton Manufacturing Co. Inc./Southern",
   "city": "Morganton",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28680",
+  "email": true
 }

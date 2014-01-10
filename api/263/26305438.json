@@ -1,6 +1,6 @@
 {
   "facility_code": "26305438",
-  "institution": "ANTONELLI MEDICAL AND PROFESSIONAL INSTITUTE",
+  "institution": "Antonelli Medical And Professional Institute",
   "city": "Pottstown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 250072,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 4505,
-  "avg_stu_loan_debt_rank": 739,
-  "indicator_group": 5
+  "grad_rate": 86.1,
+  "grad_rate_rank": 405,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 5000,
+  "avg_stu_loan_debt_rank": 238,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19464",
+  "email": true
 }

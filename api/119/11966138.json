@@ -1,6 +1,6 @@
 {
   "facility_code": "11966138",
-  "institution": "CALIFORNIA UNIVERSITY OF PENNSYLVANIA",
+  "institution": "California University Of Pennsylvania",
   "city": "California",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 391,
   "cross": 211361,
-  "grad_rate": 53.0,
-  "grad_rate_rank": 776,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 17335,
-  "avg_stu_loan_debt_rank": 995,
-  "indicator_group": 1
+  "grad_rate": 53.9,
+  "grad_rate_rank": 777,
+  "default_rate": 7.2,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15419",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15017219",
-  "institution": "MT. ABRAM HIGH SCHOOL (DAY PROGRAM)",
+  "institution": "Mt. Abram High School (Day Program)",
   "city": "Salem",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4983",
+  "email": false
 }

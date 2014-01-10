@@ -1,6 +1,6 @@
 {
   "facility_code": "31808107",
-  "institution": "QUINNIPIAC UNIVERSITY",
+  "institution": "Quinnipiac University",
   "city": "Hamden",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 130226,
-  "grad_rate": 76.9,
-  "grad_rate_rank": 201,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 22424,
-  "avg_stu_loan_debt_rank": 1696,
-  "indicator_group": 1
+  "grad_rate": 75.4,
+  "grad_rate_rank": 224,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 23250,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "6518",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002616",
-  "institution": "KANSAS CITY COLLEGE AND BIBLE SCHOOL",
+  "institution": "Kansas City College And Bible School",
   "city": "Overland Park",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66204",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31365332",
-  "institution": "CONCORDIA COLLEGE",
+  "institution": "Concordia College",
   "city": "Bronxville",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 190248,
-  "grad_rate": 49.3,
-  "grad_rate_rank": 920,
+  "grad_rate": 48.0,
+  "grad_rate_rank": 963,
   "default_rate": 9.2,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10708",
+  "email": false
 }

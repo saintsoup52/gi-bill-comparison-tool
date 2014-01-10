@@ -1,6 +1,6 @@
 {
   "facility_code": "21961447",
-  "institution": "DIGIPEN INSTITUTE OF TECHNOLOGY",
+  "institution": "Digipen Institute Of Technology",
   "city": "Redmond",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 54,
   "cross": 443410,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 739,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 34244,
-  "avg_stu_loan_debt_rank": 2053,
-  "indicator_group": 1
+  "grad_rate": 57.2,
+  "grad_rate_rank": 660,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 29500,
+  "avg_stu_loan_debt_rank": 1958,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98052",
+  "email": true
 }

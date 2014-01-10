@@ -1,6 +1,6 @@
 {
   "facility_code": "31996212",
-  "institution": "CONCORDIA UNIVERSITY SCHOOL OF LAW",
+  "institution": "Concordia University School Of Law",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 208488,
-  "grad_rate": 50.9,
-  "grad_rate_rank": 849,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 21829,
-  "avg_stu_loan_debt_rank": 1624,
-  "indicator_group": 1
+  "grad_rate": 44.6,
+  "grad_rate_rank": 1081,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "83702",
+  "email": false
 }

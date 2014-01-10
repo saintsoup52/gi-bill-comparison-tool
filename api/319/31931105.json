@@ -1,6 +1,6 @@
 {
   "facility_code": "31931105",
-  "institution": "POINT LOMA NAZARENE UNIVERSITY",
+  "institution": "Point Loma Nazarene University",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 121309,
-  "grad_rate": 72.4,
-  "grad_rate_rank": 269,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 75.0,
+  "grad_rate_rank": 232,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92106",
+  "email": false
 }

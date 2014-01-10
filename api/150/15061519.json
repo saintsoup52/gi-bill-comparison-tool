@@ -1,6 +1,6 @@
 {
   "facility_code": "15061519",
-  "institution": "MOUNT DESERT ISLAND HIGH SCHOOL",
+  "institution": "Mount Desert Island High School",
   "city": "Mount Desert",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4660",
+  "email": false
 }

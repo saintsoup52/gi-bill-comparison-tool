@@ -1,6 +1,6 @@
 {
   "facility_code": "14910418",
-  "institution": "SOUTH LOUISIANA COMM COLLEGE - MAIN CAMPUS",
+  "institution": "South Louisiana Comm College - Main Campus",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 195,
   "cross": 434061,
-  "grad_rate": 5.2,
-  "grad_rate_rank": 533,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 9.6,
+  "grad_rate_rank": 725,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "70506",
+  "email": false
 }

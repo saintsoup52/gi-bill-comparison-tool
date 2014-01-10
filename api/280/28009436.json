@@ -1,6 +1,6 @@
 {
   "facility_code": "28009436",
-  "institution": "BEAUTY TECHNICAL COLLEGE",
+  "institution": "Beauty Technical College",
   "city": "Tahlequah",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 207272,
-  "grad_rate": 77.4,
-  "grad_rate_rank": 795,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 79.3,
+  "grad_rate_rank": 688,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74465",
+  "email": false
 }

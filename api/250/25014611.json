@@ -1,6 +1,6 @@
 {
   "facility_code": "25014611",
-  "institution": "PROFILE INSTITUTE OF BARBER - STYLING",
+  "institution": "Profile Institute Of Barber - Styling",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 457466,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 2382,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 50.0,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 1837,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30315",
+  "email": true
 }

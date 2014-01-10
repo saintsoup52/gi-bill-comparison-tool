@@ -1,6 +1,6 @@
 {
   "facility_code": "31001413",
-  "institution": "ILLINOIS WESLEYAN UNIVERSITY",
+  "institution": "Illinois Wesleyan University",
   "city": "Bloomington",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 145646,
-  "grad_rate": 82.5,
-  "grad_rate_rank": 120,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 82.2,
+  "grad_rate_rank": 126,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61702",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11908048",
-  "institution": "FAIRMONT STATE UNIVERSITY",
+  "institution": "Fairmont State University",
   "city": "Fairmont",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 267,
   "cross": 237367,
-  "grad_rate": 33.1,
-  "grad_rate_rank": 1420,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 16193,
-  "avg_stu_loan_debt_rank": 859,
-  "indicator_group": 1
+  "grad_rate": 33.7,
+  "grad_rate_rank": 1418,
+  "default_rate": 18.2,
+  "avg_stu_loan_debt": 16796,
+  "avg_stu_loan_debt_rank": 783,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26554",
+  "email": true
 }

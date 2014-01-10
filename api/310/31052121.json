@@ -1,6 +1,6 @@
 {
   "facility_code": "31052121",
-  "institution": "NEW ENGLAND COLLEGE OF BUSINESS AND FINANCE (ONLINE IHL)",
+  "institution": "New England College Of Business And Finance (Online Ihl)",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 164438,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 245,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 7950,
+  "avg_stu_loan_debt_rank": 98,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2110",
+  "email": true
 }

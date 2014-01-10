@@ -1,6 +1,6 @@
 {
   "facility_code": "25117643",
-  "institution": "UNIVERSAL TECHNICAL INSTITUTE",
+  "institution": "Universal Technical Institute",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 488,
   "cross": 229416,
-  "grad_rate": 58.2,
-  "grad_rate_rank": 1663,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 17632,
-  "avg_stu_loan_debt_rank": 2515,
-  "indicator_group": 5
+  "grad_rate": 55.8,
+  "grad_rate_rank": 1780,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 18688,
+  "avg_stu_loan_debt_rank": 1977,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77073",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31968110",
-  "institution": "CARLOS ALBIZU UNIVERSITY - MIAMI CAMPUS",
+  "institution": "Carlos Albizu University - Miami Campus",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 132842,
-  "grad_rate": 8.8,
-  "grad_rate_rank": 1793,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "grad_rate": 38.9,
+  "grad_rate_rank": 1288,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 11500,
+  "avg_stu_loan_debt_rank": 256,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33172",
+  "email": true
 }

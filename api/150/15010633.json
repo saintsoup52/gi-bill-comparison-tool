@@ -1,6 +1,6 @@
 {
   "facility_code": "15010633",
-  "institution": "SOUTHEAST RALEIGH HIGH SCHOOL CENTER FOR ACCELERATED STUDIES",
+  "institution": "Southeast Raleigh High School Center For Accelerated Studies",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27610",
+  "email": false
 }

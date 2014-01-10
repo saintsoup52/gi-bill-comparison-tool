@@ -1,6 +1,6 @@
 {
   "facility_code": "35010214",
-  "institution": "OHIO TOWNSHIP VOLUNTEER FIRE DEPARTMENT",
+  "institution": "Ohio Township Volunteer Fire Department",
   "city": "Newburgh",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47630",
+  "email": false
 }

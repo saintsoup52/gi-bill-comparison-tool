@@ -1,6 +1,6 @@
 {
   "facility_code": "31000537",
-  "institution": "GEORGE FOX UNIVERSITY",
+  "institution": "George Fox University",
   "city": "Newberg",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 89,
   "cross": 208822,
-  "grad_rate": 61.5,
-  "grad_rate_rank": 523,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 20016,
-  "avg_stu_loan_debt_rank": 1433,
-  "indicator_group": 1
+  "grad_rate": 64.3,
+  "grad_rate_rank": 455,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97132",
+  "email": true
 }

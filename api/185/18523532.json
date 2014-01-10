@@ -1,6 +1,6 @@
 {
   "facility_code": "18523532",
-  "institution": "BOCES WAYNE-FINGER LAKES",
+  "institution": "Boces Wayne-Finger Lakes",
   "city": "Newark",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 418001,
-  "grad_rate": 68.8,
-  "grad_rate_rank": 1218,
-  "default_rate": 12.7,
+  "grad_rate": 67.7,
+  "grad_rate_rank": 1288,
+  "default_rate": 10.9,
   "avg_stu_loan_debt": 12125,
-  "avg_stu_loan_debt_rank": 2360,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1786,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14513",
+  "email": true
 }

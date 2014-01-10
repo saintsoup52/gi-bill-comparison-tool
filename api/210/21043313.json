@@ -1,6 +1,6 @@
 {
   "facility_code": "21043313",
-  "institution": "WESTWOOD COLLEGE - OHARE",
+  "institution": "Westwood College - Ohare",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 178226,
-  "grad_rate": 32.4,
-  "grad_rate_rank": 1439,
-  "default_rate": 24.9,
-  "avg_stu_loan_debt": 17345,
-  "avg_stu_loan_debt_rank": 997,
-  "indicator_group": 1
+  "grad_rate": 25.8,
+  "grad_rate_rank": 1617,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60630",
+  "email": true
 }

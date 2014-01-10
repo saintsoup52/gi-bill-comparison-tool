@@ -1,6 +1,6 @@
 {
   "facility_code": "25153310",
-  "institution": "FORTIS INSTITUTE - MULBERRY",
+  "institution": "Fortis Institute - Mulberry",
   "city": "Mulberry",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 250498,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 1804,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 5600,
-  "avg_stu_loan_debt_rank": 908,
-  "indicator_group": 5
+  "grad_rate": 58.6,
+  "grad_rate_rank": 1684,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 8716,
+  "avg_stu_loan_debt_rank": 945,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33860",
+  "email": true
 }

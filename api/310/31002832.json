@@ -1,6 +1,6 @@
 {
   "facility_code": "31002832",
-  "institution": "BROOKLYN LAW SCHOOL",
+  "institution": "Brooklyn Law School",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 189501,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 295,
-  "indicator_group": 4
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "11201",
+  "email": false
 }

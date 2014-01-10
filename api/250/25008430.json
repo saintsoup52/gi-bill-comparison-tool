@@ -1,6 +1,6 @@
 {
   "facility_code": "25008430",
-  "institution": "STAR CAREER ACADEMY - EGG HARBOR",
+  "institution": "Star Career Academy - Egg Harbor",
   "city": "Egg Harbor Township",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 440086,
-  "grad_rate": 37.7,
-  "grad_rate_rank": 2090,
-  "default_rate": 30.6,
+  "grad_rate": 76.9,
+  "grad_rate_rank": 811,
+  "default_rate": 33.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8234",
+  "email": true
 }

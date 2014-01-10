@@ -1,6 +1,6 @@
 {
   "facility_code": "31915414",
-  "institution": "SAINT MARY OF THE WOODS COLLEGE",
+  "institution": "Saint Mary Of The Woods College",
   "city": "Saint Mary Of The Woods",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 152381,
-  "grad_rate": 56.6,
-  "grad_rate_rank": 660,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 17669,
-  "avg_stu_loan_debt_rank": 1043,
-  "indicator_group": 1
+  "grad_rate": 62.3,
+  "grad_rate_rank": 507,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 20067,
+  "avg_stu_loan_debt_rank": 1209,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47876",
+  "email": true
 }

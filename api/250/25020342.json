@@ -1,6 +1,6 @@
 {
   "facility_code": "25020342",
-  "institution": "THE BARBER SCHOOL",
+  "institution": "The Barber School",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 451538,
-  "grad_rate": 78.3,
-  "grad_rate_rank": 742,
-  "default_rate": 55.5,
+  "grad_rate": 79.7,
+  "grad_rate_rank": 669,
+  "default_rate": 49.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38107",
+  "email": false
 }

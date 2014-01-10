@@ -1,6 +1,6 @@
 {
   "facility_code": "10010942",
-  "institution": "U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION - NASHVILLE   CHAPTER 31 ONLY",
+  "institution": "U.S. Equal Employment Opportunity Commission - Nashville   Chapter 31 Only",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37228",
+  "email": false
 }

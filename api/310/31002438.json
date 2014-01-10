@@ -1,6 +1,6 @@
 {
   "facility_code": "31002438",
-  "institution": "LEHIGH UNIVERSITY",
+  "institution": "Lehigh University",
   "city": "Bethlehem",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 30,
   "cross": 213543,
-  "grad_rate": 86.9,
-  "grad_rate_rank": 80,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "grad_rate": 88.3,
+  "grad_rate_rank": 75,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 22154,
+  "avg_stu_loan_debt_rank": 1440,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18015",
+  "email": true
 }

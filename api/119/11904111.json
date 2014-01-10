@@ -1,6 +1,6 @@
 {
   "facility_code": "11904111",
-  "institution": "GEORGIA COLLEGE & STATE UNIVERSITY",
+  "institution": "Georgia College & State University",
   "city": "Milledgeville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 137,
   "cross": 139861,
-  "grad_rate": 55.3,
-  "grad_rate_rank": 699,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 14460,
-  "avg_stu_loan_debt_rank": 671,
-  "indicator_group": 1
+  "grad_rate": 57.3,
+  "grad_rate_rank": 657,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 16122,
+  "avg_stu_loan_debt_rank": 709,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31061",
+  "email": true
 }

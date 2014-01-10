@@ -1,6 +1,6 @@
 {
   "facility_code": "14938405",
-  "institution": "LOS ANGELES MISSION COLLEGE",
+  "institution": "Los Angeles Mission College",
   "city": "Sylmar",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 119,
   "cross": 117867,
-  "grad_rate": 12.4,
-  "grad_rate_rank": 1123,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 7530,
-  "avg_stu_loan_debt_rank": 615,
-  "indicator_group": 2
+  "grad_rate": 14.0,
+  "grad_rate_rank": 1161,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 6256,
+  "avg_stu_loan_debt_rank": 362,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91342",
+  "email": false
 }

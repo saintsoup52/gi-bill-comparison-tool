@@ -1,6 +1,6 @@
 {
   "facility_code": "31009405",
-  "institution": "UNIVERSITY OF THE WEST",
+  "institution": "University Of The West",
   "city": "Rosemead",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 449870,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91770",
+  "email": false
 }

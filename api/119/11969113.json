@@ -1,6 +1,6 @@
 {
   "facility_code": "11969113",
-  "institution": "EASTERN ILLINOIS UNIVERSITY",
+  "institution": "Eastern Illinois University",
   "city": "Charleston",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 263,
   "cross": 144892,
-  "grad_rate": 59.3,
-  "grad_rate_rank": 585,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 18500,
-  "avg_stu_loan_debt_rank": 1137,
-  "indicator_group": 1
+  "grad_rate": 60.4,
+  "grad_rate_rank": 558,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 20108,
+  "avg_stu_loan_debt_rank": 1211,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61920",
+  "email": true
 }

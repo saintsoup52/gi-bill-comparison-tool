@@ -1,6 +1,6 @@
 {
   "facility_code": "15015613",
-  "institution": "CERRO GORDO HIGH SCHOOL",
+  "institution": "Cerro Gordo High School",
   "city": "Cerro Gordo",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61818",
+  "email": false
 }

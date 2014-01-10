@@ -1,6 +1,6 @@
 {
   "facility_code": "11821110",
-  "institution": "UNIVERSITY OF SOUTH FLORIDA - MED SVCS SUPPORT CORP.",
+  "institution": "University Of South Florida - Med Svcs Support Corp.",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451671,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 17253,
-  "avg_stu_loan_debt_rank": 980,
-  "indicator_group": 1
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33613",
+  "email": "No (SCO)"
 }

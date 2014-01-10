@@ -1,6 +1,6 @@
 {
   "facility_code": "11902044",
-  "institution": "WEBER STATE UNIVERSITY",
+  "institution": "Weber State University",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1062,
   "cross": 230782,
-  "grad_rate": 42.8,
-  "grad_rate_rank": 1133,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 7630,
-  "avg_stu_loan_debt_rank": 166,
-  "indicator_group": 1
+  "grad_rate": 44.6,
+  "grad_rate_rank": 1081,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 123,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84408",
+  "email": true
 }

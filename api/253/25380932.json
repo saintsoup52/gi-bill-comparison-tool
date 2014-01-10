@@ -1,6 +1,6 @@
 {
   "facility_code": "25380932",
-  "institution": "NEW YORK AUTOMOTIVE AND DIESEL INSTITUTE",
+  "institution": "New York Automotive And Diesel Institute",
   "city": "Jamaica",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 58,
   "cross": 440262,
-  "grad_rate": 64.1,
-  "grad_rate_rank": 1430,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 12598,
-  "avg_stu_loan_debt_rank": 2390,
-  "indicator_group": 5
+  "grad_rate": 56.5,
+  "grad_rate_rank": 1750,
+  "default_rate": 36.9,
+  "avg_stu_loan_debt": 9822,
+  "avg_stu_loan_debt_rank": 1486,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11433",
+  "email": true
 }

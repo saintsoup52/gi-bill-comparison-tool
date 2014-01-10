@@ -1,6 +1,6 @@
 {
   "facility_code": "21831005",
-  "institution": "ITT TECHNICAL INSTITUTE (NATIONAL CITY)",
+  "institution": "Itt Technical Institute (National City)",
   "city": "National City",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 988,
   "cross": 116466,
-  "grad_rate": 23.6,
-  "grad_rate_rank": 736,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 28.8,
+  "grad_rate_rank": 662,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91950",
+  "email": true
 }

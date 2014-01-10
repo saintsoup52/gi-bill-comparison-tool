@@ -1,6 +1,6 @@
 {
   "facility_code": "21000029",
-  "institution": "DANIEL WEBSTER COLLEGE",
+  "institution": "Daniel Webster College",
   "city": "Nashua",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 182661,
-  "grad_rate": 43.2,
-  "grad_rate_rank": 1119,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 25229,
-  "avg_stu_loan_debt_rank": 1987,
-  "indicator_group": 1
+  "grad_rate": 46.8,
+  "grad_rate_rank": 1009,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3063",
+  "email": true
 }

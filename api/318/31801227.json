@@ -1,6 +1,6 @@
 {
   "facility_code": "31801227",
-  "institution": "DOANE COLLEGE-SCHOOL OF GRADUATE & PROFESSIONAL STUDIES",
+  "institution": "Doane College-School Of Graduate & Professional Studies",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 111,
   "cross": 448284,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 16543,
-  "avg_stu_loan_debt_rank": 895,
-  "indicator_group": 1
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 18145,
+  "avg_stu_loan_debt_rank": 936,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68504",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35160022",
-  "institution": "BUSINESS LEADERSHIP NETWORK OF MICHIGAN",
+  "institution": "Business Leadership Network Of Michigan",
   "city": "Bingham Farms",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48025",
+  "email": true
 }

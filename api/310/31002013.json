@@ -1,6 +1,6 @@
 {
   "facility_code": "31002013",
-  "institution": "MACMURRAY COLLEGE",
+  "institution": "Macmurray College",
   "city": "Jacksonville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 146825,
-  "grad_rate": 36.5,
-  "grad_rate_rank": 1335,
+  "grad_rate": 36.4,
+  "grad_rate_rank": 1355,
   "default_rate": 16.4,
-  "avg_stu_loan_debt": 18412,
-  "avg_stu_loan_debt_rank": 1130,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 18816,
+  "avg_stu_loan_debt_rank": 1040,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62650",
+  "email": true
 }

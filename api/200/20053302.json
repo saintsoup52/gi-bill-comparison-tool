@@ -1,6 +1,6 @@
 {
   "facility_code": "20053302",
-  "institution": "SUPERIOR MECHANICAL INC",
+  "institution": "Superior Mechanical Inc",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99708",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28019344",
-  "institution": "UTAH COLLEGE OF MASSAGE THERAPY - LINDON",
+  "institution": "Utah College Of Massage Therapy - Lindon",
   "city": "Lindon",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 436270,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 26.7,
-  "avg_stu_loan_debt": 9367,
-  "avg_stu_loan_debt_rank": 1623,
-  "indicator_group": 5
+  "grad_rate": 81.7,
+  "grad_rate_rank": 571,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 8607,
+  "avg_stu_loan_debt_rank": 917,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84042",
+  "email": true
 }

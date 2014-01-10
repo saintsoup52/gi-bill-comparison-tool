@@ -1,6 +1,6 @@
 {
   "facility_code": "31004124",
-  "institution": "MILLSAPS COLLEGE",
+  "institution": "Millsaps College",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 37,
   "cross": 175980,
-  "grad_rate": 65.5,
-  "grad_rate_rank": 419,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 71.6,
+  "grad_rate_rank": 292,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 19606,
+  "avg_stu_loan_debt_rank": 1142,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39210",
+  "email": true
 }

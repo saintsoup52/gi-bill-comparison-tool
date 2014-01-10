@@ -1,6 +1,6 @@
 {
   "facility_code": "10520217",
-  "institution": "DIRECTORATE OF FAMILY MORALE WELFARE & RECREATION SPORTS FITNESS & OUTDOOR REC",
+  "institution": "Directorate Of Family Morale Welfare & Recreation Sports Fitness & Outdoor Rec",
   "city": "Fort Knox",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40121",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31801042",
-  "institution": "AQUINAS COLLEGE - NASHVILLE",
+  "institution": "Aquinas College - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 219578,
-  "grad_rate": 25.6,
-  "grad_rate_rank": 668,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 24450,
-  "avg_stu_loan_debt_rank": 1454,
-  "indicator_group": 2
+  "grad_rate": 33.3,
+  "grad_rate_rank": 539,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 25250,
+  "avg_stu_loan_debt_rank": 1397,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37205",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25006126",
-  "institution": "WESTERN MONTANA SCHOOL FOR GUIDES",
+  "institution": "Western Montana School For Guides",
   "city": "Darby",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59829",
+  "email": true
 }

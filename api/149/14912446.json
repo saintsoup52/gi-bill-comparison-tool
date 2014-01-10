@@ -1,6 +1,6 @@
 {
   "facility_code": "14912446",
-  "institution": "GERMANNA COMMUNITY COLLEGE",
+  "institution": "Germanna Community College",
   "city": "Fredericksburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 515,
   "cross": 232195,
-  "grad_rate": 16.5,
-  "grad_rate_rank": 469,
+  "grad_rate": 20.6,
+  "grad_rate_rank": 638,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3653,
-  "avg_stu_loan_debt_rank": 128,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 80,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "22408",
+  "email": true
 }

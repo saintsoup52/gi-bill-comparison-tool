@@ -1,6 +1,6 @@
 {
   "facility_code": "103C5205",
-  "institution": "FAA SAN FRANCISCO DISTRICT OFFICE (CH31 ONLY)",
+  "institution": "Faa San Francisco District Office (Ch31 Only)",
   "city": "Brisbane",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94005",
+  "email": false
 }

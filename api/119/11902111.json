@@ -1,6 +1,6 @@
 {
   "facility_code": "11902111",
-  "institution": "SOUTHERN POLYTECHNIC STATE UNIVERSITY",
+  "institution": "Southern Polytechnic State University",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 310,
   "cross": 141097,
-  "grad_rate": 33.7,
-  "grad_rate_rank": 1396,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 36.5,
+  "grad_rate_rank": 1348,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 508,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30060",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10593130",
-  "institution": "TENAFLY POLICE DEPARTMENT",
+  "institution": "Tenafly Police Department",
   "city": "Tenafly",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7670",
+  "email": false
 }

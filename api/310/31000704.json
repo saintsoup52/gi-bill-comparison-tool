@@ -1,6 +1,6 @@
 {
   "facility_code": "31000704",
-  "institution": "JOHN BROWN UNIVERSITY",
+  "institution": "John Brown University",
   "city": "Siloam Springs",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 75,
   "cross": 107141,
-  "grad_rate": 65.6,
-  "grad_rate_rank": 414,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 68.1,
+  "grad_rate_rank": 351,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 18628,
+  "avg_stu_loan_debt_rank": 1001,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72761",
+  "email": false
 }

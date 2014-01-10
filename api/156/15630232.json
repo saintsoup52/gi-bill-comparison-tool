@@ -1,6 +1,6 @@
 {
   "facility_code": "15630232",
-  "institution": "DUTCHESS COUNTY LAW ENFORCEMENT ACADEMY",
+  "institution": "Dutchess County Law Enforcement Academy",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12601",
+  "email": true
 }

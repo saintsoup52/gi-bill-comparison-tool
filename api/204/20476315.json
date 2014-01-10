@@ -1,6 +1,6 @@
 {
   "facility_code": "20476315",
-  "institution": "CITY OF WEST BURLINGTON",
+  "institution": "City Of West Burlington",
   "city": "West Burlington",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52655",
+  "email": false
 }

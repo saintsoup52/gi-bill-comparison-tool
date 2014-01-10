@@ -1,6 +1,6 @@
 {
   "facility_code": "11372332",
-  "institution": "US MERCHANT MARINE ACADEMY",
+  "institution": "Us Merchant Marine Academy",
   "city": "Kings Point",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 197027,
-  "grad_rate": 79.8,
-  "grad_rate_rank": 162,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 7464,
-  "avg_stu_loan_debt_rank": 162,
-  "indicator_group": 1
+  "grad_rate": 75.8,
+  "grad_rate_rank": 218,
+  "default_rate": 1.0,
+  "avg_stu_loan_debt": 5900,
+  "avg_stu_loan_debt_rank": 49,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11024",
+  "email": true
 }

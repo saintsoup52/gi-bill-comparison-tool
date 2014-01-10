@@ -1,6 +1,6 @@
 {
   "facility_code": "25025903",
-  "institution": "EMPIRE BEAUTY SCHOOL - NW PHOENIX",
+  "institution": "Empire Beauty School - Nw Phoenix",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 106111,
-  "grad_rate": 34.3,
-  "grad_rate_rank": 2112,
-  "default_rate": 24.4,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 35.0,
+  "grad_rate_rank": 2160,
+  "default_rate": 26.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85051",
+  "email": true
 }

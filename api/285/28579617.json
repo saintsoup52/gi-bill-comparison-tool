@@ -1,6 +1,6 @@
 {
   "facility_code": "28579617",
-  "institution": "EMPIRE BEAUTY SCHOOL-FLORENCE",
+  "institution": "Empire Beauty School-Florence",
   "city": "Florence",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 157678,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 1986,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "grad_rate": 52.9,
+  "grad_rate_rank": 1866,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "41042",
+  "email": true
 }

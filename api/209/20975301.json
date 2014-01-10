@@ -1,6 +1,6 @@
 {
   "facility_code": "20975301",
-  "institution": "(CHAPTER 31)C & C CONSTRUCTION",
+  "institution": "(Chapter 31)C & C Construction",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36617",
+  "email": "No (SCO)"
 }

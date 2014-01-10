@@ -1,6 +1,6 @@
 {
   "facility_code": "11900150",
-  "institution": "UNIVERSITY OF WYOMING",
+  "institution": "University Of Wyoming",
   "city": "Laramie",
   "state": "WY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 477,
   "cross": 240727,
-  "grad_rate": 53.2,
-  "grad_rate_rank": 769,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 14426,
-  "avg_stu_loan_debt_rank": 668,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 14377,
+  "avg_stu_loan_debt_rank": 475,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "82071",
+  "email": true
 }

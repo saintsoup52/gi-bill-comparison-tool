@@ -1,6 +1,6 @@
 {
   "facility_code": "12069743",
-  "institution": "VA NORTH TEXAS HEALTH CARE SYS CHAPLAIN SVC 125",
+  "institution": "Va North Texas Health Care Sys Chaplain Svc 125",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75216",
+  "email": false
 }

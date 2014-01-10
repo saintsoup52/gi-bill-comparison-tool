@@ -1,6 +1,6 @@
 {
   "facility_code": "31006335",
-  "institution": "UNIVERSITY OF DAYTON",
+  "institution": "University Of Dayton",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 137,
   "cross": 202480,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 236,
-  "default_rate": 2.4,
-  "avg_stu_loan_debt": 22046,
-  "avg_stu_loan_debt_rank": 1645,
-  "indicator_group": 1
+  "grad_rate": 78.0,
+  "grad_rate_rank": 189,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45469",
+  "email": true
 }

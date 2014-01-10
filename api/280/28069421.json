@@ -1,6 +1,6 @@
 {
   "facility_code": "28069421",
-  "institution": "ROB ROY BEAUTY ACADEMY",
+  "institution": "Rob Roy Beauty Academy",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 373696,
-  "grad_rate": 52.3,
-  "grad_rate_rank": 1855,
-  "default_rate": 31.8,
-  "avg_stu_loan_debt": 6385,
-  "avg_stu_loan_debt_rank": 1055,
-  "indicator_group": 5
+  "grad_rate": 48.2,
+  "grad_rate_rank": 1981,
+  "default_rate": 28.3,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1609",
+  "email": true
 }

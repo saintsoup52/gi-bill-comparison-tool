@@ -1,6 +1,6 @@
 {
   "facility_code": "11000330",
-  "institution": "KEAN UNIVERSITY",
+  "institution": "Kean University",
   "city": "Union",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 230,
   "cross": 185262,
-  "grad_rate": 48.9,
-  "grad_rate_rank": 929,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 19591,
-  "avg_stu_loan_debt_rank": 1327,
-  "indicator_group": 1
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7083",
+  "email": true
 }

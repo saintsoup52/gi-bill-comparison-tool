@@ -1,6 +1,6 @@
 {
   "facility_code": "25081540",
-  "institution": "ELITE TRUCK DRIVER TRAINING  -CH31 ONLY",
+  "institution": "Elite Truck Driver Training  -Ch31 Only",
   "city": "Lexington",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29072",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14907419",
-  "institution": "YORK COUNTY COMMUNITY COLLEGE",
+  "institution": "York County Community College",
   "city": "Wells",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 68,
   "cross": 420440,
-  "grad_rate": 11.5,
-  "grad_rate_rank": 1161,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 5200,
-  "avg_stu_loan_debt_rank": 289,
-  "indicator_group": 2
+  "grad_rate": 19.0,
+  "grad_rate_rank": 971,
+  "default_rate": 19.8,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "4090",
+  "email": false
 }

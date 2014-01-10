@@ -1,12 +1,12 @@
 {
   "facility_code": "21056422",
-  "institution": "ITT TECHNICAL INSTITUTE-SOUTHFIELD",
+  "institution": "Itt Technical Institute-Southfield",
   "city": "Southfield",
   "state": "MI",
   "country": "USA",
   "bah": 1521,
   "poe": true,
-  "yr": null,
+  "yr": true,
   "gibill": 11,
   "cross": 479585,
   "grad_rate": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48033",
+  "email": true
 }

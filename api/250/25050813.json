@@ -1,6 +1,6 @@
 {
   "facility_code": "25050813",
-  "institution": "CONCEPT COLLEGE OF COSMETOLOGY",
+  "institution": "Concept College Of Cosmetology",
   "city": "Urbana",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 143181,
-  "grad_rate": 55.9,
-  "grad_rate_rank": 1748,
-  "default_rate": 34.2,
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 41.5,
   "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "61801",
+  "email": false
 }

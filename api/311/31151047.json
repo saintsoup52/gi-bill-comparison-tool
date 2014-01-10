@@ -1,6 +1,6 @@
 {
   "facility_code": "31151047",
-  "institution": "GONZAGA UNIVERSITY",
+  "institution": "Gonzaga University",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 237,
   "cross": 235316,
-  "grad_rate": 82.9,
-  "grad_rate_rank": 116,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 81.2,
+  "grad_rate_rank": 141,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99258",
+  "email": true
 }

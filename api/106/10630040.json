@@ -1,6 +1,6 @@
 {
   "facility_code": "10630040",
-  "institution": "FLORENCE COUNTY SHERIFFS DEPT AND DETENTION CTR",
+  "institution": "Florence County Sheriffs Dept And Detention Ctr",
   "city": "Effingham",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29541",
+  "email": false
 }

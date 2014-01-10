@@ -1,6 +1,6 @@
 {
   "facility_code": "20B79822",
-  "institution": "SCORI MOLD & ENGINEERING INC.",
+  "institution": "Scori Mold & Engineering Inc.",
   "city": "Centreville",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49032",
+  "email": false
 }

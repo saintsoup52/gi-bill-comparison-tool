@@ -1,6 +1,6 @@
 {
   "facility_code": "20579335",
-  "institution": "PARAGON TOOL & DIE INC.  K",
+  "institution": "Paragon Tool & Die Inc.  K",
   "city": "Berlin Center",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44401",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "17599248",
-  "institution": "LOGAN HIGH SCHOOL",
+  "institution": "Logan High School",
   "city": "Logan",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25601",
+  "email": true
 }

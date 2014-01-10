@@ -1,6 +1,6 @@
 {
   "facility_code": "25182705",
-  "institution": "ACUITUS SCHOOL FOR SYSTEMS & NETWORK ADMIN (CHAP 31 ONLY)",
+  "institution": "Acuitus School For Systems & Network Admin (Chap 31 Only)",
   "city": "Palo Alto",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94304",
+  "email": false
 }

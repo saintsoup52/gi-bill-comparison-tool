@@ -1,6 +1,6 @@
 {
   "facility_code": "25060918",
-  "institution": "COMPASS CAREER COLLEGE",
+  "institution": "Compass Career College",
   "city": "Hammond",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 447962,
-  "grad_rate": 59.6,
-  "grad_rate_rank": 1607,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 8708,
-  "avg_stu_loan_debt_rank": 1517,
-  "indicator_group": 5
+  "grad_rate": 61.2,
+  "grad_rate_rank": 1589,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 8707,
+  "avg_stu_loan_debt_rank": 941,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70403",
+  "email": false
 }

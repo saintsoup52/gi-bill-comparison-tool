@@ -1,6 +1,6 @@
 {
   "facility_code": "21954101",
-  "institution": "PRINCE INSTITUTE OF PROFESSIONAL STUDIES",
+  "institution": "Prince Institute Of Professional Studies",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 101958,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 682,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 7328,
-  "avg_stu_loan_debt_rank": 593,
-  "indicator_group": 2
+  "grad_rate": 50.0,
+  "grad_rate_rank": 398,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 11429,
+  "avg_stu_loan_debt_rank": 574,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "36117",
+  "email": true
 }

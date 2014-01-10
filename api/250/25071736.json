@@ -1,6 +1,6 @@
 {
   "facility_code": "25071736",
-  "institution": "AMERICAN INSTITUTE OF MEDICAL TECHNOLOGY",
+  "institution": "American Institute Of Medical Technology",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 449728,
-  "grad_rate": 93.3,
-  "grad_rate_rank": 174,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 13978,
-  "avg_stu_loan_debt_rank": 2441,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 1915,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74146",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001916",
-  "institution": "WASHBURN UNIVERSITY - VETERANS OFFICE",
+  "institution": "Washburn University - Veterans Office",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 391,
   "cross": 156082,
-  "grad_rate": 36.6,
-  "grad_rate_rank": 1334,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 16108,
-  "avg_stu_loan_debt_rank": 852,
-  "indicator_group": 1
+  "grad_rate": 33.5,
+  "grad_rate_rank": 1428,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66621",
+  "email": false
 }

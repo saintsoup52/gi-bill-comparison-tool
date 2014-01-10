@@ -1,6 +1,6 @@
 {
   "facility_code": "18520232",
-  "institution": "SOUTHERN WESTCHESTER BOCES",
+  "institution": "Southern Westchester Boces",
   "city": "Elmsford",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 193122,
-  "grad_rate": 77.9,
-  "grad_rate_rank": 757,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 1574,
-  "indicator_group": 5
+  "grad_rate": 69.5,
+  "grad_rate_rank": 1211,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10523",
+  "email": true
 }

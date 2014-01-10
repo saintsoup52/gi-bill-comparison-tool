@@ -1,6 +1,6 @@
 {
   "facility_code": "25063643",
-  "institution": "AMERICAN COMMERCIAL COLLEGE WICHITA FALLS",
+  "institution": "American Commercial College Wichita Falls",
   "city": "Wichita Falls",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 423582,
-  "grad_rate": 29.8,
-  "grad_rate_rank": 2137,
-  "default_rate": 35.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 73.0,
+  "grad_rate_rank": 1030,
+  "default_rate": 39.6,
+  "avg_stu_loan_debt": 8997,
+  "avg_stu_loan_debt_rank": 991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "76310",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30971210",
-  "institution": "BUILDERS ASSN OF NORTH CENTRAL FLORIDA MASTER TRADES COMMITTEE GNJ",
+  "institution": "Builders Assn Of North Central Florida Master Trades Committee Gnj",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32653",
+  "email": true
 }

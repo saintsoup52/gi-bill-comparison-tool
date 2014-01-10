@@ -1,6 +1,6 @@
 {
   "facility_code": "14946433",
-  "institution": "FORSYTH TECHNICAL COMMUNITY COLLEGE",
+  "institution": "Forsyth Technical Community College",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 422,
   "cross": 198552,
-  "grad_rate": 20.1,
-  "grad_rate_rank": 855,
+  "grad_rate": 21.6,
+  "grad_rate_rank": 892,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 486,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 136,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "27103",
+  "email": true
 }

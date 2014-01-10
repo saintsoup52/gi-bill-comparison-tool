@@ -1,6 +1,6 @@
 {
   "facility_code": "14903450",
-  "institution": "CASPER COLLEGE FINANCIAL AID OFFICE",
+  "institution": "Casper College Financial Aid Office",
   "city": "Casper",
   "state": "WY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 119,
   "cross": 240505,
-  "grad_rate": 32.6,
-  "grad_rate_rank": 466,
-  "default_rate": 13.5,
-  "avg_stu_loan_debt": 6169,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 2
+  "grad_rate": 29.7,
+  "grad_rate_rank": 641,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 498,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "82601",
+  "email": false
 }

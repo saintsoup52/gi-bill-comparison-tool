@@ -1,6 +1,6 @@
 {
   "facility_code": "10W44138",
-  "institution": "FAA - ALLENTOWN RADAR/NAVIGATION/COMMUNICATIONS/ENVIRONMENTAL SSC",
+  "institution": "Faa - Allentown Radar/Navigation/Communications/Environmental Ssc",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18109",
+  "email": true
 }

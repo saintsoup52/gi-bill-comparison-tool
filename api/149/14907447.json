@@ -1,6 +1,6 @@
 {
   "facility_code": "14907447",
-  "institution": "GRAYS HARBOR COLLEGE",
+  "institution": "Grays Harbor College",
   "city": "Aberdeen",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 102,
   "cross": 235334,
-  "grad_rate": 29.9,
-  "grad_rate_rank": 343,
-  "default_rate": 20.1,
-  "avg_stu_loan_debt": 6590,
-  "avg_stu_loan_debt_rank": 265,
-  "indicator_group": 3
+  "grad_rate": 38.4,
+  "grad_rate_rank": 465,
+  "default_rate": 22.1,
+  "avg_stu_loan_debt": 7251,
+  "avg_stu_loan_debt_rank": 207,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "98520",
+  "email": true
 }

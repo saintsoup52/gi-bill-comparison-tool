@@ -1,6 +1,6 @@
 {
   "facility_code": "25018803",
-  "institution": "FNT FIBER-NETWORK TRAINING & CONSULTING SERVICES",
+  "institution": "Fnt Fiber-Network Training & Consulting Services",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85042",
+  "email": false
 }

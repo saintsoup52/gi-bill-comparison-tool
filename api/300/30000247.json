@@ -1,6 +1,6 @@
 {
   "facility_code": "30000247",
-  "institution": "WESTERN WASHINGTON SHEET METAL JATC",
+  "institution": "Western Washington Sheet Metal Jatc",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98204",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25860521",
-  "institution": "MTTI",
+  "institution": "Mtti",
   "city": "Seekonk",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 414124,
-  "grad_rate": 90.6,
-  "grad_rate_rank": 247,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 8237,
-  "avg_stu_loan_debt_rank": 1429,
-  "indicator_group": 5
+  "grad_rate": 92.3,
+  "grad_rate_rank": 209,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 8550,
+  "avg_stu_loan_debt_rank": 909,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2771",
+  "email": true
 }

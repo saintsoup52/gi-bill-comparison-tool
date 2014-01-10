@@ -1,6 +1,6 @@
 {
   "facility_code": "25160805",
-  "institution": "NATIONAL CAREER COLLEGE",
+  "institution": "National Career College",
   "city": "Van Nuys",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 455868,
-  "grad_rate": 90.3,
-  "grad_rate_rank": 256,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8263,
-  "avg_stu_loan_debt_rank": 1435,
-  "indicator_group": 5
+  "grad_rate": 65.8,
+  "grad_rate_rank": 1390,
+  "default_rate": 40.0,
+  "avg_stu_loan_debt": 8400,
+  "avg_stu_loan_debt_rank": 885,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91405",
+  "email": false
 }

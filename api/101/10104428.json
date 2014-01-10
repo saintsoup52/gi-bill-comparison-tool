@@ -1,6 +1,6 @@
 {
   "facility_code": "10104428",
-  "institution": "CCSN PRINT SHOP (CH31 ONLY)",
+  "institution": "Ccsn Print Shop (Ch31 Only)",
   "city": "N. Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89030",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25001902",
-  "institution": "LIFEWAYS JOB DEVELOPMENT & TRAINING (CH31)",
+  "institution": "Lifeways Job Development & Training (Ch31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99507",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31060910",
-  "institution": "WOLFORD COLLEGE",
+  "institution": "Wolford College",
   "city": "Naples",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451130,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 91,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "34108",
+  "email": false
 }

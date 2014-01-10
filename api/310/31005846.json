@@ -1,6 +1,6 @@
 {
   "facility_code": "31005846",
-  "institution": "VIRGINIA INTERMONT COLLEGE",
+  "institution": "Virginia Intermont College",
   "city": "Bristol",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 233912,
-  "grad_rate": 26.2,
-  "grad_rate_rank": 1567,
-  "default_rate": 11.9,
-  "avg_stu_loan_debt": 16593,
-  "avg_stu_loan_debt_rank": 900,
-  "indicator_group": 1
+  "grad_rate": 16.8,
+  "grad_rate_rank": 1750,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 17562,
+  "avg_stu_loan_debt_rank": 867,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24201",
+  "email": true
 }

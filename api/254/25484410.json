@@ -1,6 +1,6 @@
 {
   "facility_code": "25484410",
-  "institution": "AMERICAN ACADEMY OF COSMETOLOGY",
+  "institution": "American Academy Of Cosmetology",
   "city": "Orange Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 457396,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 8100,
-  "avg_stu_loan_debt_rank": 1398,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 995,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32065",
+  "email": true
 }

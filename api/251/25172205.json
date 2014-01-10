@@ -1,6 +1,6 @@
 {
   "facility_code": "25172205",
-  "institution": "ALHAMBRA BEAUTY SCHOOL",
+  "institution": "Alhambra Beauty School",
   "city": "Alhambra",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 393524,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3083,
-  "avg_stu_loan_debt_rank": 564,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91801",
+  "email": false
 }

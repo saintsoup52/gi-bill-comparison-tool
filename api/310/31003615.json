@@ -1,6 +1,6 @@
 {
   "facility_code": "31003615",
-  "institution": "MOUNT MERCY UNIVERSITY",
+  "institution": "Mount Mercy University",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 62,
   "cross": 154013,
-  "grad_rate": 60.2,
-  "grad_rate_rank": 558,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 23125,
-  "avg_stu_loan_debt_rank": 1801,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 21913,
+  "avg_stu_loan_debt_rank": 1410,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52402",
+  "email": true
 }

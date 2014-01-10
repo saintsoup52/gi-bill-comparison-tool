@@ -1,6 +1,6 @@
 {
   "facility_code": "249C8438",
-  "institution": "PENNSYLVANIA INSTITUTE OF HEALTH & TECHNOLOGY",
+  "institution": "Pennsylvania Institute Of Health & Technology",
   "city": "Mount Braddock",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 261861,
-  "grad_rate": 75.4,
-  "grad_rate_rank": 50,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 8361,
-  "avg_stu_loan_debt_rank": 674,
-  "indicator_group": 2
+  "grad_rate": 62.5,
+  "grad_rate_rank": 149,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 9741,
+  "avg_stu_loan_debt_rank": 727,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15465",
+  "email": false
 }

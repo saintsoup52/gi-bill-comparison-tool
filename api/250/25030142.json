@@ -1,6 +1,6 @@
 {
   "facility_code": "25030142",
-  "institution": "PAUL MITCHELL THE SCHOOL - MURFREESBORO",
+  "institution": "Paul Mitchell The School - Murfreesboro",
   "city": "Murfreesboro",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 460710,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 9593,
-  "avg_stu_loan_debt_rank": 2093,
-  "indicator_group": 5
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37129",
+  "email": false
 }

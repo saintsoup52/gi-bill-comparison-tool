@@ -1,6 +1,6 @@
 {
   "facility_code": "15012642",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - MEMPHIS",
+  "institution": "Tennessee College Of Applied Technology - Memphis",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 52,
   "cross": 220853,
-  "grad_rate": 75.2,
-  "grad_rate_rank": 905,
+  "grad_rate": 68.9,
+  "grad_rate_rank": 1236,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38105",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28500732",
-  "institution": "COMMERCIAL DRIVER TRAINING - WEST BABYLON",
+  "institution": "Commercial Driver Training - West Babylon",
   "city": "West Babylon",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11704",
+  "email": false
 }

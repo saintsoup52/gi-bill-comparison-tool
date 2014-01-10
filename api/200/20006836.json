@@ -1,6 +1,6 @@
 {
   "facility_code": "20006836",
-  "institution": "CARPENTER'S LOCAL UNION #943 JATC",
+  "institution": "Carpenter'S Local Union #943 Jatc",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74146",
+  "email": false
 }

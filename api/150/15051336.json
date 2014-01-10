@@ -1,6 +1,6 @@
 {
   "facility_code": "15051336",
-  "institution": "WARNER HIGH SCHOOL",
+  "institution": "Warner High School",
   "city": "Warner",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74469",
+  "email": false
 }

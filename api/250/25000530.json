@@ -1,6 +1,6 @@
 {
   "facility_code": "25000530",
-  "institution": "THE ACADEMY OF MASSAGE THERAPY",
+  "institution": "The Academy Of Massage Therapy",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 437501,
-  "grad_rate": 49.1,
-  "grad_rate_rank": 1949,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 9292,
-  "avg_stu_loan_debt_rank": 1613,
-  "indicator_group": 5
+  "grad_rate": 61.3,
+  "grad_rate_rank": 1583,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 10167,
+  "avg_stu_loan_debt_rank": 1537,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7601",
+  "email": true
 }

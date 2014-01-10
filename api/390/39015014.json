@@ -1,6 +1,6 @@
 {
   "facility_code": "39015014",
-  "institution": "MARSHALL COUNTY NEIGHBORHOOD CENTER - CHAPTER 31",
+  "institution": "Marshall County Neighborhood Center - Chapter 31",
   "city": "Plymouth",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46563",
+  "email": false
 }

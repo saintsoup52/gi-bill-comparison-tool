@@ -1,6 +1,6 @@
 {
   "facility_code": "32000546",
-  "institution": "SOUTHAMPTON MEMORIAL HOSP SCH PRACTICAL NRS",
+  "institution": "Southampton Memorial Hosp Sch Practical Nrs",
   "city": "Franklin",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23851",
+  "email": true
 }

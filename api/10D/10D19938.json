@@ -1,6 +1,6 @@
 {
   "facility_code": "10D19938",
-  "institution": "DEFENSE LOGISTICS AGENCY TROOP SUPPORT PHILADELPHIA",
+  "institution": "Defense Logistics Agency Troop Support Philadelphia",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19111",
+  "email": true
 }

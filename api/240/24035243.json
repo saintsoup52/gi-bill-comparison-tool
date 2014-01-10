@@ -1,6 +1,6 @@
 {
   "facility_code": "24035243",
-  "institution": "SANFORD BROWN COLLEGE HOUSTON",
+  "institution": "Sanford Brown College Houston",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 74,
   "cross": 404499,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 183,
-  "default_rate": 28.4,
+  "grad_rate": 55.3,
+  "grad_rate_rank": 346,
+  "default_rate": 22.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "77042",
+  "email": false
 }

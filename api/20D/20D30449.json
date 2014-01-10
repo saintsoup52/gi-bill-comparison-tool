@@ -1,6 +1,6 @@
 {
   "facility_code": "20D30449",
-  "institution": "ACCURATE PATTERN INC",
+  "institution": "Accurate Pattern Inc",
   "city": "Brookfield",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53005",
+  "email": false
 }

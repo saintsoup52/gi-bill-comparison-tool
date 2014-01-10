@@ -1,6 +1,6 @@
 {
   "facility_code": "31001035",
-  "institution": "DEFIANCE COLLEGE",
+  "institution": "Defiance College",
   "city": "Defiance",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 47,
   "cross": 202514,
-  "grad_rate": 50.6,
-  "grad_rate_rank": 860,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 19747,
-  "avg_stu_loan_debt_rank": 1340,
-  "indicator_group": 1
+  "grad_rate": 50.2,
+  "grad_rate_rank": 889,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43512",
+  "email": false
 }

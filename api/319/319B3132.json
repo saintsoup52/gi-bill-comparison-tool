@@ -1,6 +1,6 @@
 {
   "facility_code": "319B3132",
-  "institution": "DAVIS COLLEGE",
+  "institution": "Davis College",
   "city": "Johnson City",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 194569,
-  "grad_rate": 24.0,
-  "grad_rate_rank": 1610,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 48.1,
+  "grad_rate_rank": 956,
+  "default_rate": 19.4,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 428,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13790",
+  "email": true
 }

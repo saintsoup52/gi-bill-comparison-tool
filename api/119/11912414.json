@@ -1,6 +1,6 @@
 {
   "facility_code": "11912414",
-  "institution": "INDIANA UNIVERSITY EAST",
+  "institution": "Indiana University East",
   "city": "Richmond",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 102,
   "cross": 151388,
-  "grad_rate": 18.8,
-  "grad_rate_rank": 1685,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 12863,
-  "avg_stu_loan_debt_rank": 544,
-  "indicator_group": 1
+  "grad_rate": 24.9,
+  "grad_rate_rank": 1641,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 12700,
+  "avg_stu_loan_debt_rank": 342,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47374",
+  "email": true
 }

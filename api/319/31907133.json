@@ -1,6 +1,6 @@
 {
   "facility_code": "31907133",
-  "institution": "QUEENS UNIVERSITY OF CHARLOTTE",
+  "institution": "Queens University Of Charlotte",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 199412,
-  "grad_rate": 60.7,
-  "grad_rate_rank": 543,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 52.4,
+  "grad_rate_rank": 820,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28274",
+  "email": true
 }

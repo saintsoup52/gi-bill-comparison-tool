@@ -1,6 +1,6 @@
 {
   "facility_code": "31924414",
-  "institution": "OTTAWA UNIVERSITY - JEFFERSONVILLE",
+  "institution": "Ottawa University - Jeffersonville",
   "city": "Jeffersonville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 442897,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 17924,
-  "avg_stu_loan_debt_rank": 1073,
-  "indicator_group": 1
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47130",
+  "email": true
 }

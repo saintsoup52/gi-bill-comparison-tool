@@ -1,6 +1,6 @@
 {
   "facility_code": "28033438",
-  "institution": "AVIATION INSTITUTE OF MAINTENANCE",
+  "institution": "Aviation Institute Of Maintenance",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 67,
   "cross": 250285,
-  "grad_rate": 57.5,
-  "grad_rate_rank": 1692,
-  "default_rate": 39.6,
-  "avg_stu_loan_debt": 19748,
-  "avg_stu_loan_debt_rank": 2532,
-  "indicator_group": 5
+  "grad_rate": 26.2,
+  "grad_rate_rank": 2219,
+  "default_rate": 36.9,
+  "avg_stu_loan_debt": 16416,
+  "avg_stu_loan_debt_rank": 1950,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19114",
+  "email": true
 }

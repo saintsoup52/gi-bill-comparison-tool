@@ -1,6 +1,6 @@
 {
   "facility_code": "15024123",
-  "institution": "MN INTERNSHIP CTR CHARTER SCH",
+  "institution": "Mn Internship Ctr Charter Sch",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55411",
+  "email": false
 }

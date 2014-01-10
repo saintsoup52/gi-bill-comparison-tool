@@ -1,6 +1,6 @@
 {
   "facility_code": "25171905",
-  "institution": "A-TECHNICAL COLLEGE",
+  "institution": "A-Technical College",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 431956,
-  "grad_rate": 73.9,
-  "grad_rate_rank": 976,
-  "default_rate": 23.9,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 81.6,
+  "grad_rate_rank": 576,
+  "default_rate": 30.2,
+  "avg_stu_loan_debt": 2812,
+  "avg_stu_loan_debt_rank": 34,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90015",
+  "email": false
 }

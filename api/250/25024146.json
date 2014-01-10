@@ -1,6 +1,6 @@
 {
   "facility_code": "25024146",
-  "institution": "BARPALMA BEAUTY CAREERS ACADEMY",
+  "institution": "Barpalma Beauty Careers Academy",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 231280,
-  "grad_rate": 63.9,
-  "grad_rate_rank": 1436,
-  "default_rate": 26.8,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 1136,
-  "indicator_group": 5
+  "grad_rate": 37.5,
+  "grad_rate_rank": 2132,
+  "default_rate": 35.8,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "24014",
+  "email": true
 }

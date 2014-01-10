@@ -1,6 +1,6 @@
 {
   "facility_code": "28112323",
-  "institution": "THUNDERBIRD AVIATION INC",
+  "institution": "Thunderbird Aviation Inc",
   "city": "Eden Prairie",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55347",
+  "email": true
 }

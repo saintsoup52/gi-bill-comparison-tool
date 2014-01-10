@@ -1,6 +1,6 @@
 {
   "facility_code": "25041240",
-  "institution": "REMINGTON COLLEGE - COLUMBIA",
+  "institution": "Remington College - Columbia",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 457174,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 9487,
-  "avg_stu_loan_debt_rank": 1649,
-  "indicator_group": 5
+  "grad_rate": 64.2,
+  "grad_rate_rank": 1462,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29210",
+  "email": true
 }

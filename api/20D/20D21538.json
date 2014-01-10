@@ -1,6 +1,6 @@
 {
   "facility_code": "20D21538",
-  "institution": "ELEVATOR CONSTRUCTORS JATC IEUC L#5",
+  "institution": "Elevator Constructors Jatc Ieuc L#5",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19154",
+  "email": false
 }

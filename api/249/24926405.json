@@ -1,6 +1,6 @@
 {
   "facility_code": "24926405",
-  "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS",
+  "institution": "Le Cordon Bleu College Of Culinary Arts",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 71,
   "cross": 111009,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 161,
-  "default_rate": 19.8,
+  "grad_rate": 55.2,
+  "grad_rate_rank": 218,
+  "default_rate": 25.1,
   "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 684,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 805,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "94103",
+  "email": false
 }

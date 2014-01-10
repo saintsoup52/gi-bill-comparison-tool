@@ -1,6 +1,6 @@
 {
   "facility_code": "11800120",
-  "institution": "UNIVERSITY OF MARYLAND - EUROPEAN DIVISION UMUC",
+  "institution": "University Of Maryland - European Division Umuc",
   "city": "Adelphi",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2614,
   "cross": 163204,
-  "grad_rate": 10.3,
-  "grad_rate_rank": 1777,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 13250,
-  "avg_stu_loan_debt_rank": 572,
-  "indicator_group": 1
+  "grad_rate": 4.3,
+  "grad_rate_rank": 1861,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 267,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20783",
+  "email": true
 }

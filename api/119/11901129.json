@@ -1,6 +1,6 @@
 {
   "facility_code": "11901129",
-  "institution": "KEENE STATE COLLEGE",
+  "institution": "Keene State College",
   "city": "Keene",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 109,
   "cross": 183062,
-  "grad_rate": 57.3,
-  "grad_rate_rank": 642,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 20125,
-  "avg_stu_loan_debt_rank": 1442,
-  "indicator_group": 1
+  "grad_rate": 61.6,
+  "grad_rate_rank": 526,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 22250,
+  "avg_stu_loan_debt_rank": 1446,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3435",
+  "email": false
 }

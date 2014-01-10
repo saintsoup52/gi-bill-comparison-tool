@@ -1,6 +1,6 @@
 {
   "facility_code": "31009849",
-  "institution": "VITERBO UNIVERSITY",
+  "institution": "Viterbo University",
   "city": "La Crosse",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 115,
   "cross": 240107,
-  "grad_rate": 48.6,
-  "grad_rate_rank": 936,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 52.8,
+  "grad_rate_rank": 807,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "54601",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14939436",
-  "institution": "OKLAHOMA STATE UNIVERSITY - OKLAHOMA CITY",
+  "institution": "Oklahoma State University - Oklahoma City",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 591,
   "cross": 207397,
-  "grad_rate": 7.4,
-  "grad_rate_rank": 1262,
-  "default_rate": 20.5,
-  "avg_stu_loan_debt": 8741,
-  "avg_stu_loan_debt_rank": 699,
-  "indicator_group": 2
+  "grad_rate": 4.9,
+  "grad_rate_rank": 1378,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 7427,
+  "avg_stu_loan_debt_rank": 493,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "73107",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25031342",
-  "institution": "LEBANON BEAUTY AND STYLE ACADEMY",
+  "institution": "Lebanon Beauty And Style Academy",
   "city": "Lebanon",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37087",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31064610",
-  "institution": "ROBERT E WEBBER INSTITUTE FOR WORSHIP STUDIES",
+  "institution": "Robert E Webber Institute For Worship Studies",
   "city": "Orange Park",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32073",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31127425",
-  "institution": "MID AMERICA NAZARENE UNIVERSITY",
+  "institution": "Mid America Nazarene University",
   "city": "Liberty",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 155520,
-  "grad_rate": 43.5,
-  "grad_rate_rank": 1109,
-  "default_rate": 5.4,
-  "avg_stu_loan_debt": 16273,
-  "avg_stu_loan_debt_rank": 872,
-  "indicator_group": 1
+  "grad_rate": 50.4,
+  "grad_rate_rank": 880,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 16200,
+  "avg_stu_loan_debt_rank": 719,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64068",
+  "email": true
 }

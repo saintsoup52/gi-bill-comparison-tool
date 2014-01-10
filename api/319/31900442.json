@@ -1,6 +1,6 @@
 {
   "facility_code": "31900442",
-  "institution": "MARTIN METHODIST COLLEGE",
+  "institution": "Martin Methodist College",
   "city": "Pulaski",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 220701,
-  "grad_rate": 49.2,
-  "grad_rate_rank": 922,
-  "default_rate": 26.6,
-  "avg_stu_loan_debt": 12750,
-  "avg_stu_loan_debt_rank": 530,
-  "indicator_group": 1
+  "grad_rate": 32.8,
+  "grad_rate_rank": 1454,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38478",
+  "email": false
 }

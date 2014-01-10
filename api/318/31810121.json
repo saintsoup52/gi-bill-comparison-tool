@@ -1,6 +1,6 @@
 {
   "facility_code": "31810121",
-  "institution": "WENTWORTH INSTITUTE OF TECHNOLOGY",
+  "institution": "Wentworth Institute Of Technology",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 91,
   "cross": 168227,
-  "grad_rate": 59.9,
-  "grad_rate_rank": 566,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 20125,
-  "avg_stu_loan_debt_rank": 1442,
-  "indicator_group": 1
+  "grad_rate": 64.0,
+  "grad_rate_rank": 465,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2115",
+  "email": true
 }

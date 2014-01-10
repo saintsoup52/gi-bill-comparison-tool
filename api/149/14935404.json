@@ -1,6 +1,6 @@
 {
   "facility_code": "14935404",
-  "institution": "EAST ARKANSAS COMMUNITY COLLEGE",
+  "institution": "East Arkansas Community College",
   "city": "Forrest City",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 51,
   "cross": 106883,
-  "grad_rate": 19.8,
-  "grad_rate_rank": 443,
-  "default_rate": 17.7,
-  "avg_stu_loan_debt": 2285,
-  "avg_stu_loan_debt_rank": 96,
-  "indicator_group": 3
+  "grad_rate": 18.1,
+  "grad_rate_rank": 657,
+  "default_rate": 37.3,
+  "avg_stu_loan_debt": 2000,
+  "avg_stu_loan_debt_rank": 3,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "72335",
+  "email": false
 }

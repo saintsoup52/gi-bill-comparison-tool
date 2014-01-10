@@ -1,18 +1,21 @@
 {
   "facility_code": "11039775",
-  "institution": "SHERIDAN COLL OF APPLIED ARTS",
+  "institution": "Sheridan Coll Of Applied Arts",
   "city": "Oakville",
   "state": "Canada",
   "country": "Canada",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 1,
   "cross": 240666,
-  "grad_rate": 31.1,
-  "grad_rate_rank": 500,
-  "default_rate": 12.5,
+  "grad_rate": 25.6,
+  "grad_rate_rank": 765,
+  "default_rate": 16.9,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

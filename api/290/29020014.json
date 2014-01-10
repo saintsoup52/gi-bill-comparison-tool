@@ -1,6 +1,6 @@
 {
   "facility_code": "29020014",
-  "institution": "ACCOMMODATING BY DESIGN INC.",
+  "institution": "Accommodating By Design Inc.",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46250",
+  "email": false
 }

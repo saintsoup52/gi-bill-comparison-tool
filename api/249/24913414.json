@@ -1,6 +1,6 @@
 {
   "facility_code": "24913414",
-  "institution": "BROWN MACKIE COLLEGE - SOUTH BEND",
+  "institution": "Brown Mackie College - South Bend",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 151944,
-  "grad_rate": 37.8,
-  "grad_rate_rank": 370,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 1019,
-  "indicator_group": 2
+  "grad_rate": 36.4,
+  "grad_rate_rank": 474,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "46635",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28574232",
-  "institution": "LINCOLN TECHNICAL INSTITUTE",
+  "institution": "Lincoln Technical Institute",
   "city": "Whitestone",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 54,
   "cross": 449320,
-  "grad_rate": 69.8,
-  "grad_rate_rank": 1183,
-  "default_rate": 32.1,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 2465,
-  "indicator_group": 5
+  "grad_rate": 72.7,
+  "grad_rate_rank": 1041,
+  "default_rate": 28.1,
+  "avg_stu_loan_debt": 15766,
+  "avg_stu_loan_debt_rank": 1938,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11357",
+  "email": true
 }

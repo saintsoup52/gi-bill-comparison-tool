@@ -1,6 +1,6 @@
 {
   "facility_code": "25147110",
-  "institution": "FASHION FOCUS HAIR ACADEMY",
+  "institution": "Fashion Focus Hair Academy",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 2,
   "cross": 138132,
   "grad_rate": 80.5,
-  "grad_rate_rank": 633,
-  "default_rate": 29.0,
-  "avg_stu_loan_debt": 5557,
-  "avg_stu_loan_debt_rank": 904,
-  "indicator_group": 5
+  "grad_rate_rank": 617,
+  "default_rate": 27.0,
+  "avg_stu_loan_debt": 5750,
+  "avg_stu_loan_debt_rank": 384,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "34231",
+  "email": false
 }

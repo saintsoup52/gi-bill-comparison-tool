@@ -1,6 +1,6 @@
 {
   "facility_code": "31000133",
-  "institution": "BARTON COLLEGE",
+  "institution": "Barton College",
   "city": "Wilson",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 197911,
-  "grad_rate": 47.4,
-  "grad_rate_rank": 977,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 18415,
-  "avg_stu_loan_debt_rank": 1131,
-  "indicator_group": 1
+  "grad_rate": 47.9,
+  "grad_rate_rank": 969,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 20248,
+  "avg_stu_loan_debt_rank": 1222,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27893",
+  "email": true
 }

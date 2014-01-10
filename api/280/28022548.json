@@ -1,6 +1,6 @@
 {
   "facility_code": "28022548",
-  "institution": "MEREDITH MANOR INTERNATIONAL EQUESTRIAN CENTER",
+  "institution": "Meredith Manor International Equestrian Center",
   "city": "Waverly",
   "state": "WV",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 12,
   "cross": 237552,
   "grad_rate": 80.0,
-  "grad_rate_rank": 652,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 13809,
-  "avg_stu_loan_debt_rank": 2435,
-  "indicator_group": 5
+  "grad_rate_rank": 635,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 13622,
+  "avg_stu_loan_debt_rank": 1870,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26184",
+  "email": true
 }

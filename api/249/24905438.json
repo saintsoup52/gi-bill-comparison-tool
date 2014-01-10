@@ -1,6 +1,6 @@
 {
   "facility_code": "24905438",
-  "institution": "ART INSTITUTE OF PITTSBURGH",
+  "institution": "Art Institute Of Pittsburgh",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 161,
   "cross": 210960,
-  "grad_rate": 43.2,
-  "grad_rate_rank": 1119,
-  "default_rate": 23.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 43.8,
+  "grad_rate_rank": 1108,
+  "default_rate": 25.4,
+  "avg_stu_loan_debt": 10038,
+  "avg_stu_loan_debt_rank": 165,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15219",
+  "email": false
 }

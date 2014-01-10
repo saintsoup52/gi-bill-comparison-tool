@@ -1,6 +1,6 @@
 {
   "facility_code": "201B1205",
-  "institution": "EMERALD LAKES GOLF CENTRE",
+  "institution": "Emerald Lakes Golf Centre",
   "city": "Elk Grove",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95624",
+  "email": false
 }

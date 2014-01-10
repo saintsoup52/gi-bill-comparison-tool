@@ -1,6 +1,6 @@
 {
   "facility_code": "25017730",
-  "institution": "HARRIS SCHOOL OF BUSINESS - LINWOOD",
+  "institution": "Harris School Of Business - Linwood",
   "city": "Linwood",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 448983,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 1898,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 6862,
-  "avg_stu_loan_debt_rank": 1118,
-  "indicator_group": 5
+  "grad_rate": 58.2,
+  "grad_rate_rank": 1702,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 6623,
+  "avg_stu_loan_debt_rank": 574,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8221",
+  "email": true
 }

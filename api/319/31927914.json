@@ -1,6 +1,6 @@
 {
   "facility_code": "31927914",
-  "institution": "OAKLAND CITY UNIVERSITY - EVANSVILLE",
+  "institution": "Oakland City University - Evansville",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 152099,
-  "grad_rate": 59.3,
-  "grad_rate_rank": 139,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 11125,
-  "avg_stu_loan_debt_rank": 913,
-  "indicator_group": 2
+  "grad_rate": 56.7,
+  "grad_rate_rank": 678,
+  "default_rate": 11.8,
+  "avg_stu_loan_debt": 12102,
+  "avg_stu_loan_debt_rank": 286,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47715",
+  "email": true
 }

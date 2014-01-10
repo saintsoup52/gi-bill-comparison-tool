@@ -1,6 +1,6 @@
 {
   "facility_code": "14001616",
-  "institution": "COLBY COMMUNITY COLLEGE",
+  "institution": "Colby Community College",
   "city": "Colby",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 154934,
-  "grad_rate": 51.2,
-  "grad_rate_rank": 211,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 6515,
-  "avg_stu_loan_debt_rank": 506,
-  "indicator_group": 2
+  "grad_rate": 48.4,
+  "grad_rate_rank": 281,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 6891,
+  "avg_stu_loan_debt_rank": 430,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "67701",
+  "email": true
 }

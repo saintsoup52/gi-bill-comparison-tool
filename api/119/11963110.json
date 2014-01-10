@@ -1,6 +1,6 @@
 {
   "facility_code": "11963110",
-  "institution": "UNIVERSITY OF WEST FLORIDA",
+  "institution": "University Of West Florida",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1258,
   "cross": 138354,
-  "grad_rate": 48.3,
-  "grad_rate_rank": 950,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 12355,
-  "avg_stu_loan_debt_rank": 487,
-  "indicator_group": 1
+  "grad_rate": 45.1,
+  "grad_rate_rank": 1060,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32514",
+  "email": true
 }

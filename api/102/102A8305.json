@@ -1,6 +1,6 @@
 {
   "facility_code": "102A8305",
-  "institution": "STATE OF CALIFORNIA EDD (SUNNYVALE)",
+  "institution": "State Of California Edd (Sunnyvale)",
   "city": "Sunnyvale",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95111",
+  "email": "No (SCO)"
 }

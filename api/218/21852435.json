@@ -1,6 +1,6 @@
 {
   "facility_code": "21852435",
-  "institution": "UNIVERSITY OF PHOENIX - WEST CHESTER",
+  "institution": "University Of Phoenix - West Chester",
   "city": "West Chester",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 62,
   "cross": 443456,
-  "grad_rate": 8.8,
-  "grad_rate_rank": 1793,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 3.2,
+  "grad_rate_rank": 1866,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45069",
+  "email": true
 }

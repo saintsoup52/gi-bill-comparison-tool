@@ -1,6 +1,6 @@
 {
   "facility_code": "31832010",
-  "institution": "KEISER UNIVERSITY - MELBOURNE",
+  "institution": "Keiser University - Melbourne",
   "city": "Melbourne",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 202,
   "cross": 135081,
-  "grad_rate": 56.8,
-  "grad_rate_rank": 160,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1379,
-  "indicator_group": 2
+  "grad_rate": 55.3,
+  "grad_rate_rank": 216,
+  "default_rate": 18.6,
+  "avg_stu_loan_debt": 19797,
+  "avg_stu_loan_debt_rank": 1191,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32901",
+  "email": true
 }

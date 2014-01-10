@@ -1,6 +1,6 @@
 {
   "facility_code": "28028236",
-  "institution": "AMERICAN BROADCASTING SCHOOL OKC",
+  "institution": "American Broadcasting School Okc",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 9,
   "cross": 206783,
   "grad_rate": 50.0,
-  "grad_rate_rank": 1917,
-  "default_rate": 44.6,
-  "avg_stu_loan_debt": 2874,
-  "avg_stu_loan_debt_rank": 542,
-  "indicator_group": 5
+  "grad_rate_rank": 1940,
+  "default_rate": 30.8,
+  "avg_stu_loan_debt": 2750,
+  "avg_stu_loan_debt_rank": 27,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73115",
+  "email": false
 }

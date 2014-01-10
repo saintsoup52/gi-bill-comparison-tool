@@ -1,6 +1,6 @@
 {
   "facility_code": "30823521",
-  "institution": "INTERNATIONAL UNION OF ELEVATOR CONSTRUCTORS LOCAL 41 JATC",
+  "institution": "International Union Of Elevator Constructors Local 41 Jatc",
   "city": "Sterling",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1564",
+  "email": true
 }

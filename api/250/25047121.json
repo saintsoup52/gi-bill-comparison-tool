@@ -1,6 +1,6 @@
 {
   "facility_code": "25047121",
-  "institution": "MILDRED ELLEY",
+  "institution": "Mildred Elley",
   "city": "Pittsfield",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 425986,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 1632,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 9999,
-  "avg_stu_loan_debt_rank": 2153,
-  "indicator_group": 5
+  "grad_rate": 53.6,
+  "grad_rate_rank": 1850,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 9471,
+  "avg_stu_loan_debt_rank": 1059,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1201",
+  "email": true
 }

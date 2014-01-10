@@ -1,6 +1,6 @@
 {
   "facility_code": "319C8132",
-  "institution": "THE SAGE COLLEGES",
+  "institution": "The Sage Colleges",
   "city": "Troy",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 63,
   "cross": 195128,
-  "grad_rate": 58.1,
-  "grad_rate_rank": 618,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 20150,
-  "avg_stu_loan_debt_rank": 1449,
-  "indicator_group": 1
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12180",
+  "email": true
 }

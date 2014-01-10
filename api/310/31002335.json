@@ -1,6 +1,6 @@
 {
   "facility_code": "31002335",
-  "institution": "UNIVERSITY OF MOUNT UNION",
+  "institution": "University Of Mount Union",
   "city": "Alliance",
   "state": "OH",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 27,
   "cross": 204185,
   "grad_rate": 64.8,
-  "grad_rate_rank": 439,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 23199,
-  "avg_stu_loan_debt_rank": 1805,
-  "indicator_group": 1
+  "grad_rate_rank": 437,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 26200,
+  "avg_stu_loan_debt_rank": 1842,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44601",
+  "email": true
 }

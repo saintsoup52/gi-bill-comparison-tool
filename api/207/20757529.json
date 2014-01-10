@@ -1,6 +1,6 @@
 {
   "facility_code": "20757529",
-  "institution": "SEELY PLUMBING & HEATING",
+  "institution": "Seely Plumbing & Heating",
   "city": "Center Harbor",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3226",
+  "email": false
 }

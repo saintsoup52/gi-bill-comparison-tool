@@ -1,6 +1,6 @@
 {
   "facility_code": "14927405",
-  "institution": "PORTERVILLE COLLEGE",
+  "institution": "Porterville College",
   "city": "Porterville",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 82,
   "cross": 121363,
-  "grad_rate": 18.2,
-  "grad_rate_rank": 923,
+  "grad_rate": 20.5,
+  "grad_rate_rank": 922,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93257",
+  "email": false
 }

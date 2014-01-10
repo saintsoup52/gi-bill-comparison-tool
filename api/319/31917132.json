@@ -1,6 +1,6 @@
 {
   "facility_code": "31917132",
-  "institution": "FIVE TOWNS COLLEGE",
+  "institution": "Five Towns College",
   "city": "Dix Hills",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 191205,
-  "grad_rate": 30.9,
-  "grad_rate_rank": 1474,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 38.7,
+  "grad_rate_rank": 1294,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11746",
+  "email": true
 }

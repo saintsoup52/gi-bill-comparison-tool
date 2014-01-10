@@ -1,6 +1,6 @@
 {
   "facility_code": "32102522",
-  "institution": "HENRY FORD HOSPITAL",
+  "institution": "Henry Ford Hospital",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 169716,
-  "grad_rate": 57.2,
-  "grad_rate_rank": 645,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 21085,
-  "avg_stu_loan_debt_rank": 1557,
-  "indicator_group": 1
+  "grad_rate": 57.1,
+  "grad_rate_rank": 666,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 21219,
+  "avg_stu_loan_debt_rank": 1335,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48202",
+  "email": true
 }

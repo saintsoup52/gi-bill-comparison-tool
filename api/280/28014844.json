@@ -1,6 +1,6 @@
 {
   "facility_code": "28014844",
-  "institution": "PAUL MITCHELL - THE SCHOOL - PROVO",
+  "institution": "Paul Mitchell - The School - Provo",
   "city": "Provo",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 380456,
-  "grad_rate": 68.5,
-  "grad_rate_rank": 1230,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 11667,
-  "avg_stu_loan_debt_rank": 2278,
-  "indicator_group": 5
+  "grad_rate": 67.7,
+  "grad_rate_rank": 1288,
+  "default_rate": 17.4,
+  "avg_stu_loan_debt": 13863,
+  "avg_stu_loan_debt_rank": 1887,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84606",
+  "email": true
 }

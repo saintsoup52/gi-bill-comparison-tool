@@ -1,6 +1,6 @@
 {
   "facility_code": "24810047",
-  "institution": "EVEREST COLLEGE @ BREMERTON",
+  "institution": "Everest College @ Bremerton",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 234739,
-  "grad_rate": 64.4,
-  "grad_rate_rank": 104,
-  "default_rate": 25.0,
+  "grad_rate": 68.9,
+  "grad_rate_rank": 181,
+  "default_rate": 17.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "98337",
+  "email": true
 }

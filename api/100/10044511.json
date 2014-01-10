@@ -1,6 +1,6 @@
 {
   "facility_code": "10044511",
-  "institution": "CITY OF MONROE POLICE DEPARTMENT",
+  "institution": "City Of Monroe Police Department",
   "city": "Monroe",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30655",
+  "email": false
 }

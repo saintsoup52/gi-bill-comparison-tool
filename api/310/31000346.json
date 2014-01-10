@@ -1,6 +1,6 @@
 {
   "facility_code": "31000346",
-  "institution": "EMORY AND HENRY COLLEGE",
+  "institution": "Emory And Henry College",
   "city": "Emory",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 232025,
-  "grad_rate": 59.2,
-  "grad_rate_rank": 586,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 19486,
-  "avg_stu_loan_debt_rank": 1304,
-  "indicator_group": 1
+  "grad_rate": 46.4,
+  "grad_rate_rank": 1024,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 23414,
+  "avg_stu_loan_debt_rank": 1570,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24327",
+  "email": true
 }

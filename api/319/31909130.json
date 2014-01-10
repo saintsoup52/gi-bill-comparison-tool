@@ -1,6 +1,6 @@
 {
   "facility_code": "31909130",
-  "institution": "MONMOUTH UNIVERSITY",
+  "institution": "Monmouth University",
   "city": "West Long Branch",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 107,
   "cross": 185572,
-  "grad_rate": 66.3,
-  "grad_rate_rank": 401,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 22499,
-  "avg_stu_loan_debt_rank": 1709,
-  "indicator_group": 1
+  "grad_rate": 64.0,
+  "grad_rate_rank": 465,
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 23499,
+  "avg_stu_loan_debt_rank": 1573,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7764",
+  "email": true
 }

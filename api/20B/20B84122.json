@@ -1,6 +1,6 @@
 {
   "facility_code": "20B84122",
-  "institution": "GREAT LAKES ENERGY APPRENTICESHIP AND TRAINING PROGRAM",
+  "institution": "Great Lakes Energy Apprenticeship And Training Program",
   "city": "Boyne",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49712",
+  "email": true
 }

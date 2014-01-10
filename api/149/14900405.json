@@ -1,6 +1,6 @@
 {
   "facility_code": "14900405",
-  "institution": "LOS ANGELES HARBOR COLLEGE",
+  "institution": "Los Angeles Harbor College",
   "city": "Wilmington",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 142,
   "cross": 117690,
-  "grad_rate": 19.5,
-  "grad_rate_rank": 878,
-  "default_rate": 11.5,
-  "avg_stu_loan_debt": 3912,
-  "avg_stu_loan_debt_rank": 180,
-  "indicator_group": 2
+  "grad_rate": 13.2,
+  "grad_rate_rank": 1193,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 4194,
+  "avg_stu_loan_debt_rank": 89,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90744",
+  "email": true
 }

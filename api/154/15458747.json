@@ -1,6 +1,6 @@
 {
   "facility_code": "15458747",
-  "institution": "EDUCATIONAL SERVICES DISTRICT 112 - CH 31",
+  "institution": "Educational Services District 112 - Ch 31",
   "city": "Vancouver",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98661",
+  "email": true
 }

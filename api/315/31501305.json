@@ -1,6 +1,6 @@
 {
   "facility_code": "31501305",
-  "institution": "ART CENTER COLLEGE OF DESIGN",
+  "institution": "Art Center College Of Design",
   "city": "Pasadena",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 109651,
-  "grad_rate": 54.4,
-  "grad_rate_rank": 733,
-  "default_rate": 7.7,
-  "avg_stu_loan_debt": 34400,
-  "avg_stu_loan_debt_rank": 2054,
-  "indicator_group": 1
+  "grad_rate": 69.7,
+  "grad_rate_rank": 321,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 37561,
+  "avg_stu_loan_debt_rank": 1992,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91103",
+  "email": false
 }

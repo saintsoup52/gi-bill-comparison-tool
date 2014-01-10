@@ -1,10 +1,10 @@
 {
   "facility_code": "31008778",
-  "institution": "INTERNATIONAL SCHOOL OF ECONOMICS ROTTERDAM",
+  "institution": "International School Of Economics Rotterdam",
   "city": "3006 Aa Rotterdam",
   "state": "Netherlands",
   "country": "Netherlands",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": "No (SCO)"
 }

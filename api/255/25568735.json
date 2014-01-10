@@ -1,6 +1,6 @@
 {
   "facility_code": "25568735",
-  "institution": "THE OHIO ACADEMY - TWINSBURG",
+  "institution": "The Ohio Academy - Twinsburg",
   "city": "Twinsburg",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 456065,
-  "grad_rate": 86.2,
-  "grad_rate_rank": 389,
-  "default_rate": null,
-  "avg_stu_loan_debt": 9273,
-  "avg_stu_loan_debt_rank": 1611,
-  "indicator_group": 5
+  "grad_rate": 54.1,
+  "grad_rate_rank": 1836,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44087",
+  "email": true
 }

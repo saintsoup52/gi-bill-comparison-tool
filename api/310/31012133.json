@@ -1,6 +1,6 @@
 {
   "facility_code": "31012133",
-  "institution": "CHOWAN UNIVERSITY",
+  "institution": "Chowan University",
   "city": "Murfreesboro",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 61,
   "cross": 198303,
-  "grad_rate": 29.8,
-  "grad_rate_rank": 1503,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 12250,
-  "avg_stu_loan_debt_rank": 475,
-  "indicator_group": 1
+  "grad_rate": 24.2,
+  "grad_rate_rank": 1654,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 13500,
+  "avg_stu_loan_debt_rank": 393,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27855",
+  "email": true
 }

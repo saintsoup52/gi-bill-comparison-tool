@@ -1,6 +1,6 @@
 {
   "facility_code": "25543205",
-  "institution": "MODERN TECHNOLOGY SCHOOL",
+  "institution": "Modern Technology School",
   "city": "Fountain Valley",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 371928,
-  "grad_rate": 89.2,
-  "grad_rate_rank": 291,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 11927,
-  "avg_stu_loan_debt_rank": 2311,
-  "indicator_group": 5
+  "grad_rate": 91.6,
+  "grad_rate_rank": 231,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 12406,
+  "avg_stu_loan_debt_rank": 1811,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92708",
+  "email": false
 }

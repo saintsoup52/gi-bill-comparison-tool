@@ -1,6 +1,6 @@
 {
   "facility_code": "21817210",
-  "institution": "EVEREST UNIVERSITY - JACKSONVILLE",
+  "institution": "Everest University - Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 134,
   "cross": 438902,
-  "grad_rate": 31.7,
-  "grad_rate_rank": 328,
-  "default_rate": 29.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 34.9,
+  "grad_rate_rank": 500,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 10890,
+  "avg_stu_loan_debt_rank": 561,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "32256",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25030611",
-  "institution": "THE PROCESS INSTITUTE OF COSMETOLOGY LLC",
+  "institution": "The Process Institute Of Cosmetology Llc",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 457475,
-  "grad_rate": 81.0,
-  "grad_rate_rank": 600,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 14426,
-  "avg_stu_loan_debt_rank": 2455,
-  "indicator_group": 5
+  "grad_rate": 90.3,
+  "grad_rate_rank": 263,
+  "default_rate": 50.0,
+  "avg_stu_loan_debt": 14458,
+  "avg_stu_loan_debt_rank": 1905,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30043",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B73235",
-  "institution": "SHAKER HEIGHTS POLICE DEPARTMENT G",
+  "institution": "Shaker Heights Police Department G",
   "city": "Shaker Heights",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44120",
+  "email": false
 }

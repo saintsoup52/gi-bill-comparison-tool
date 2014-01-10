@@ -1,6 +1,6 @@
 {
   "facility_code": "149B3438",
-  "institution": "PENNSYLVANIA HIGHLANDS COMMUNITY COLLEGE",
+  "institution": "Pennsylvania Highlands Community College",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 72,
   "cross": 414911,
-  "grad_rate": 27.6,
-  "grad_rate_rank": 609,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 5204,
-  "avg_stu_loan_debt_rank": 290,
-  "indicator_group": 2
+  "grad_rate": 17.6,
+  "grad_rate_rank": 1022,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 5125,
+  "avg_stu_loan_debt_rank": 173,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15904",
+  "email": false
 }

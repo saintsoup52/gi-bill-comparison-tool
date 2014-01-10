@@ -1,6 +1,6 @@
 {
   "facility_code": "25036246",
-  "institution": "RUDY & KELLY ACADEMY HAIR & NAILS",
+  "institution": "Rudy & Kelly Academy Hair & Nails",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 56,
   "cross": 441876,
-  "grad_rate": 77.1,
-  "grad_rate_rank": 812,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 2234,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 22.3,
+  "avg_stu_loan_debt": 12250,
+  "avg_stu_loan_debt_rank": 1804,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23464",
+  "email": true
 }

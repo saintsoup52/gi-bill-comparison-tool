@@ -1,6 +1,6 @@
 {
   "facility_code": "31933105",
-  "institution": "WILLIAM JESSUP UNIVERSITY",
+  "institution": "William Jessup University",
   "city": "Rocklin",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 79,
   "cross": 122728,
-  "grad_rate": 53.6,
-  "grad_rate_rank": 756,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 14280,
-  "avg_stu_loan_debt_rank": 660,
-  "indicator_group": 1
+  "grad_rate": 38.8,
+  "grad_rate_rank": 1290,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 16125,
+  "avg_stu_loan_debt_rank": 710,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95765",
+  "email": false
 }

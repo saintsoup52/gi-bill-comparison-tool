@@ -1,6 +1,6 @@
 {
   "facility_code": "24912048",
-  "institution": "WV JUNIOR COLLEGE CHARLESTON",
+  "institution": "Wv Junior College Charleston",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 237987,
-  "grad_rate": 34.7,
-  "grad_rate_rank": 431,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 8774,
-  "avg_stu_loan_debt_rank": 707,
-  "indicator_group": 2
+  "grad_rate": 61.8,
+  "grad_rate_rank": 156,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 8507,
+  "avg_stu_loan_debt_rank": 582,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "25301",
+  "email": true
 }

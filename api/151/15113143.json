@@ -1,6 +1,6 @@
 {
   "facility_code": "15113143",
-  "institution": "SOUTH PLAINS ASSOC OF GOVERNMENTS LE ACAD",
+  "institution": "South Plains Assoc Of Governments Le Acad",
   "city": "Lubbock",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "79412",
+  "email": false
 }

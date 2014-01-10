@@ -1,6 +1,6 @@
 {
   "facility_code": "14917447",
-  "institution": "WENATCHEE VALLEY COLLEGE",
+  "institution": "Wenatchee Valley College",
   "city": "Wenatchee",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 164,
   "cross": 236975,
-  "grad_rate": 29.4,
-  "grad_rate_rank": 554,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 9361,
-  "avg_stu_loan_debt_rank": 748,
-  "indicator_group": 2
+  "grad_rate": 29.6,
+  "grad_rate_rank": 645,
+  "default_rate": 24.8,
+  "avg_stu_loan_debt": 9136,
+  "avg_stu_loan_debt_rank": 638,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98801",
+  "email": true
 }

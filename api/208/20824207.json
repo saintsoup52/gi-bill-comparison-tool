@@ -1,6 +1,6 @@
 {
   "facility_code": "20824207",
-  "institution": "REFRIGERATION UNLIMITED INC.",
+  "institution": "Refrigeration Unlimited Inc.",
   "city": "West Haven",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6516",
+  "email": false
 }

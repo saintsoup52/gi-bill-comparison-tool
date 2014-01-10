@@ -1,6 +1,6 @@
 {
   "facility_code": "14910427",
-  "institution": "METROPOLITAN COMMUNITY COLLEGE",
+  "institution": "Metropolitan Community College",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1470,
   "cross": 181303,
-  "grad_rate": 13.1,
-  "grad_rate_rank": 1094,
+  "grad_rate": 12.1,
+  "grad_rate_rank": 1225,
   "default_rate": 17.6,
-  "avg_stu_loan_debt": 3776,
-  "avg_stu_loan_debt_rank": 174,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 3666,
+  "avg_stu_loan_debt_rank": 64,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "68103",
+  "email": true
 }

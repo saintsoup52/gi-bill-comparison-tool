@@ -1,6 +1,6 @@
 {
   "facility_code": "24901416",
-  "institution": "THE BROWN MACKIE COLLEGE-SALINA",
+  "institution": "The Brown Mackie College-Salina",
   "city": "Salina",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 86,
   "cross": 154776,
-  "grad_rate": 36.5,
-  "grad_rate_rank": 400,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 12694,
-  "avg_stu_loan_debt_rank": 1042,
-  "indicator_group": 2
+  "grad_rate": 29.0,
+  "grad_rate_rank": 659,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 12006,
+  "avg_stu_loan_debt_rank": 858,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "67401",
+  "email": true
 }

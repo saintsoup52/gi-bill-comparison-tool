@@ -1,6 +1,6 @@
 {
   "facility_code": "149E7435",
-  "institution": "EDISON STATE COMMUNITY COLLEGE",
+  "institution": "Edison State Community College",
   "city": "Piqua",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 107,
   "cross": 202648,
-  "grad_rate": 26.4,
-  "grad_rate_rank": 642,
-  "default_rate": 19.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 25.8,
+  "grad_rate_rank": 759,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 9069,
+  "avg_stu_loan_debt_rank": 631,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45356",
+  "email": true
 }

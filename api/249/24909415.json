@@ -1,6 +1,6 @@
 {
   "facility_code": "24909415",
-  "institution": "KAPLAN COLLEGE - URBANDALE DES MOINES",
+  "institution": "Kaplan College - Urbandale Des Moines",
   "city": "Urbandale",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 131,
   "cross": 367024,
-  "grad_rate": 48.8,
-  "grad_rate_rank": 233,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 2
+  "grad_rate": 31.4,
+  "grad_rate_rank": 595,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1230,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "50323",
+  "email": false
 }

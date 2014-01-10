@@ -1,6 +1,6 @@
 {
   "facility_code": "24948401",
-  "institution": "FORTIS COLLEGE MONTGOMERY NURSING",
+  "institution": "Fortis College Montgomery Nursing",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 475130,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 9.2,
-  "avg_stu_loan_debt": 5691,
-  "avg_stu_loan_debt_rank": 924,
-  "indicator_group": 5
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 6546,
+  "avg_stu_loan_debt_rank": 174,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "36117",
+  "email": true
 }

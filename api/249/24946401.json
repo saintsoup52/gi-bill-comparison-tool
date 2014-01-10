@@ -1,6 +1,6 @@
 {
   "facility_code": "24946401",
-  "institution": "FORTIS COLLEGE - MOBILE",
+  "institution": "Fortis College - Mobile",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 371052,
-  "grad_rate": 52.1,
-  "grad_rate_rank": 192,
-  "default_rate": 9.2,
-  "avg_stu_loan_debt": 5691,
-  "avg_stu_loan_debt_rank": 217,
-  "indicator_group": 3
+  "grad_rate": 53.5,
+  "grad_rate_rank": 366,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 6546,
+  "avg_stu_loan_debt_rank": 174,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "36609",
+  "email": true
 }

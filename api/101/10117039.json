@@ -1,6 +1,6 @@
 {
   "facility_code": "10117039",
-  "institution": "PROVIDENCE FIRE DEPARTMENT",
+  "institution": "Providence Fire Department",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2907",
+  "email": false
 }

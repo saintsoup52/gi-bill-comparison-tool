@@ -1,6 +1,6 @@
 {
   "facility_code": "15014705",
-  "institution": "CHARLES A. JONES CAREER & EDUCATION CENTER",
+  "institution": "Charles A. Jones Career & Education Center",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 123493,
-  "grad_rate": 94.2,
-  "grad_rate_rank": 159,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 8019,
-  "avg_stu_loan_debt_rank": 1385,
-  "indicator_group": 5
+  "grad_rate": 90.0,
+  "grad_rate_rank": 267,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95824",
+  "email": false
 }

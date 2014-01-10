@@ -1,6 +1,6 @@
 {
   "facility_code": "10130730",
-  "institution": "INDEPENDENCE TOWNSHIP POLICE DEPARTMENT",
+  "institution": "Independence Township Police Department",
   "city": "Great Meadows",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7838",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25177605",
-  "institution": "PAUL MITCHELL THE SCHOOL EAST BAY",
+  "institution": "Paul Mitchell The School East Bay",
   "city": "Pleasant Hill",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 459231,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 66.0,
+  "grad_rate_rank": 1382,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94523",
+  "email": true
 }

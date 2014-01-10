@@ -1,6 +1,6 @@
 {
   "facility_code": "38572832",
-  "institution": "HUDSON VALLEY NEW LIFE BIBLE INST.",
+  "institution": "Hudson Valley New Life Bible Inst.",
   "city": "Walden",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12586",
+  "email": false
 }

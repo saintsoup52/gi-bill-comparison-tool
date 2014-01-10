@@ -1,6 +1,6 @@
 {
   "facility_code": "25012822",
-  "institution": "EVEREST INSTITUTE - DETROIT",
+  "institution": "Everest Institute - Detroit",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 444237,
-  "grad_rate": 60.4,
-  "grad_rate_rank": 1573,
-  "default_rate": 30.7,
+  "grad_rate": 62.4,
+  "grad_rate_rank": 1542,
+  "default_rate": 19.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48207",
+  "email": true
 }

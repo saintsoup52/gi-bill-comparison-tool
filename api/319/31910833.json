@@ -1,6 +1,6 @@
 {
   "facility_code": "31910833",
-  "institution": "CAROLINA COLLEGE OF BIBLICAL STUDIES (FORMERLY CAROLINA BIBLE COLLEGE)",
+  "institution": "Carolina College Of Biblical Studies (Formerly Carolina Bible College)",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28303",
+  "email": true
 }

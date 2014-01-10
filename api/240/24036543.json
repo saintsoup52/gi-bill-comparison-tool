@@ -1,6 +1,6 @@
 {
   "facility_code": "24036543",
-  "institution": "LINCOLN COLLEGE OF TECHNOLOGY",
+  "institution": "Lincoln College Of Technology",
   "city": "Grand Prairie",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 206,
   "cross": 226277,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 52.6,
+  "grad_rate_rank": 376,
+  "default_rate": 34.0,
+  "avg_stu_loan_debt": 15858,
+  "avg_stu_loan_debt_rank": 678,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "75052",
+  "email": false
 }

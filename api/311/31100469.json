@@ -1,10 +1,10 @@
 {
   "facility_code": "31100469",
-  "institution": "KING MONGKUT'S INSTITUTE OF TECHNOLOGY LADKRABANG",
+  "institution": "King Mongkut'S Institute Of Technology Ladkrabang",
   "city": "Bangkok 10520,",
   "state": "Thailand",
   "country": "Thailand",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

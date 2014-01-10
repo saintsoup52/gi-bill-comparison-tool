@@ -1,6 +1,6 @@
 {
   "facility_code": "25522214",
-  "institution": "CALUMET SCHOOL OF TRANSPORTATION SCIENCES LTD. CHAPTER 31",
+  "institution": "Calumet School Of Transportation Sciences Ltd. Chapter 31",
   "city": "East Chicago",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46312",
+  "email": false
 }

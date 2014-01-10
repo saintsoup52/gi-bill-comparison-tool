@@ -1,6 +1,6 @@
 {
   "facility_code": "15055136",
-  "institution": "RED OAK HIGH SCHOOL",
+  "institution": "Red Oak High School",
   "city": "Red Oak",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74563",
+  "email": false
 }

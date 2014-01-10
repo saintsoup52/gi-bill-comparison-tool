@@ -1,6 +1,6 @@
 {
   "facility_code": "14810248",
-  "institution": "BRIDGEMONT COMMUNITY & TECHNICAL COLLEGE",
+  "institution": "Bridgemont Community & Technical College",
   "city": "Montgomery",
   "state": "WV",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 26,
   "cross": 445674,
   "grad_rate": 31.0,
-  "grad_rate_rank": 503,
-  "default_rate": 27.0,
-  "avg_stu_loan_debt": 7886,
-  "avg_stu_loan_debt_rank": 633,
-  "indicator_group": 2
+  "grad_rate_rank": 607,
+  "default_rate": 24.1,
+  "avg_stu_loan_debt": 6166,
+  "avg_stu_loan_debt_rank": 348,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "25136",
+  "email": true
 }

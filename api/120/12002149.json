@@ -1,6 +1,6 @@
 {
   "facility_code": "12002149",
-  "institution": "UW-HOSP & CLINICS-GRAD SCHOOL MED EDUCATION",
+  "institution": "Uw-Hosp & Clinics-Grad School Med Education",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53792",
+  "email": false
 }

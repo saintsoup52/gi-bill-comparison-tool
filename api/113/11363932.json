@@ -1,6 +1,6 @@
 {
   "facility_code": "11363932",
-  "institution": "SUNY EMPIRE STATE COLLEGE",
+  "institution": "Suny Empire State College",
   "city": "Saratoga Springs",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 538,
   "cross": 196264,
-  "grad_rate": 18.7,
-  "grad_rate_rank": 1687,
-  "default_rate": 10.7,
+  "grad_rate": 17.3,
+  "grad_rate_rank": 1742,
+  "default_rate": 10.1,
   "avg_stu_loan_debt": 14250,
-  "avg_stu_loan_debt_rank": 655,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12866",
+  "email": true
 }

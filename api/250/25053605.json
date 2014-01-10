@@ -1,6 +1,6 @@
 {
   "facility_code": "25053605",
-  "institution": "CDI CAREER DEVELOPMENT INSTITUTE (CH 31 ONLY)",
+  "institution": "Cdi Career Development Institute (Ch 31 Only)",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 454801,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 7553,
-  "avg_stu_loan_debt_rank": 1245,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 10966,
+  "avg_stu_loan_debt_rank": 1605,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92501",
+  "email": "No (SCO)"
 }

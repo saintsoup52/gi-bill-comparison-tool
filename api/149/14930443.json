@@ -1,6 +1,6 @@
 {
   "facility_code": "14930443",
-  "institution": "MCLENNAN COMMUNITY COLLEGE",
+  "institution": "Mclennan Community College",
   "city": "Waco",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 609,
   "cross": 226578,
-  "grad_rate": 13.9,
-  "grad_rate_rank": 1064,
-  "default_rate": 21.9,
-  "avg_stu_loan_debt": 8589,
-  "avg_stu_loan_debt_rank": 690,
-  "indicator_group": 2
+  "grad_rate": 14.2,
+  "grad_rate_rank": 1145,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 7686,
+  "avg_stu_loan_debt_rank": 526,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "76708",
+  "email": false
 }

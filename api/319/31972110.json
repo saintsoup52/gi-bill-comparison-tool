@@ -1,6 +1,6 @@
 {
   "facility_code": "31972110",
-  "institution": "JACKSONVILLE UNIVERSITY",
+  "institution": "Jacksonville University",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 382,
   "cross": 134945,
-  "grad_rate": 39.7,
-  "grad_rate_rank": 1242,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 14584,
-  "avg_stu_loan_debt_rank": 686,
-  "indicator_group": 1
+  "grad_rate": 40.8,
+  "grad_rate_rank": 1220,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 16666,
+  "avg_stu_loan_debt_rank": 766,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32211",
+  "email": true
 }

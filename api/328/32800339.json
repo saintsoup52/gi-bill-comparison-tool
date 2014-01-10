@@ -1,6 +1,6 @@
 {
   "facility_code": "32800339",
-  "institution": "ST JOSEPH SCHOOL OF NURSING",
+  "institution": "St Joseph School Of Nursing",
   "city": "North Providence",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 217572,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 19185,
-  "avg_stu_loan_debt_rank": 2530,
-  "indicator_group": 5
+  "grad_rate": 64.3,
+  "grad_rate_rank": 1455,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 18871,
+  "avg_stu_loan_debt_rank": 1981,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2904",
+  "email": true
 }

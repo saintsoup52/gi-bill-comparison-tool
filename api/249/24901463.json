@@ -1,18 +1,21 @@
 {
   "facility_code": "24901463",
-  "institution": "HUERTAS COLLEGE",
+  "institution": "Huertas College",
   "city": "Caguas",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": true,
   "yr": null,
   "gibill": 60,
   "cross": 242112,
-  "grad_rate": 43.3,
-  "grad_rate_rank": 283,
-  "default_rate": 32.6,
+  "grad_rate": 39.3,
+  "grad_rate_rank": 424,
+  "default_rate": 24.4,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "726",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32980238",
-  "institution": "UPMC SHADYSIDE SCHOOL OF NURSING",
+  "institution": "Upmc Shadyside School Of Nursing",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 215974,
-  "grad_rate": 81.8,
-  "grad_rate_rank": 554,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 2487,
-  "indicator_group": 5
+  "grad_rate": 72.7,
+  "grad_rate_rank": 1041,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 14900,
+  "avg_stu_loan_debt_rank": 1917,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15232",
+  "email": false
 }

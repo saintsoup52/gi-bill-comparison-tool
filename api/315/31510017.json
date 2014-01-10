@@ -1,6 +1,6 @@
 {
   "facility_code": "31510017",
-  "institution": "BEREA COLLEGE",
+  "institution": "Berea College",
   "city": "Berea",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 156295,
-  "grad_rate": 61.9,
-  "grad_rate_rank": 514,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 134,
-  "indicator_group": 1
+  "grad_rate": 66.5,
+  "grad_rate_rank": 392,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 5750,
+  "avg_stu_loan_debt_rank": 47,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40404",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25155922",
-  "institution": "HURON VALLEY AMBULANCE CENTER FOR EMS EDUCATION",
+  "institution": "Huron Valley Ambulance Center For Ems Education",
   "city": "Ann Arbor",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48108",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35531005",
-  "institution": "GEMOLOGICAL INSTITUTE OF AMERICA",
+  "institution": "Gemological Institute Of America",
   "city": "Carlsbad",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 114947,
-  "grad_rate": 99.2,
-  "grad_rate_rank": 83,
-  "default_rate": 3.6,
+  "grad_rate": 96.5,
+  "grad_rate_rank": 119,
+  "default_rate": 3.1,
   "avg_stu_loan_debt": 9750,
-  "avg_stu_loan_debt_rank": 2110,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1478,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92008",
+  "email": true
 }

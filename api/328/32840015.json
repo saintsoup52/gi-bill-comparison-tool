@@ -1,6 +1,6 @@
 {
   "facility_code": "32840015",
-  "institution": "ST LUKE'S COLLEGE",
+  "institution": "St Luke'S College",
   "city": "Sioux City",
   "state": "IA",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 154262,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 1.1,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 1176,
-  "indicator_group": 2
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 19720,
+  "avg_stu_loan_debt_rank": 1189,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "51104",
+  "email": false
 }

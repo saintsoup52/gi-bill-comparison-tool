@@ -1,6 +1,6 @@
 {
   "facility_code": "10072220",
-  "institution": "UNIVERSITY OF MARYLAND DEPARTMENT OF TRANSPORTATION",
+  "institution": "University Of Maryland Department Of Transportation",
   "city": "College Park",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20743",
+  "email": false
 }

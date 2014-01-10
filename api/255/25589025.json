@@ -1,6 +1,6 @@
 {
   "facility_code": "25589025",
-  "institution": "TRENDSETTERS SCHOOL OF COSMETOLOGY",
+  "institution": "Trendsetters School Of Cosmetology",
   "city": "Sikeston",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63801",
+  "email": false
 }

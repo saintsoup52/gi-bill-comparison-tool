@@ -1,6 +1,6 @@
 {
   "facility_code": "31865222",
-  "institution": "BAKER COLLEGE - CORPORATE SERVICES",
+  "institution": "Baker College - Corporate Services",
   "city": "Auburn Hills",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48326",
+  "email": true
 }

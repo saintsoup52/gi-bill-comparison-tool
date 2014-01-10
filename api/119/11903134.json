@@ -1,6 +1,6 @@
 {
   "facility_code": "11903134",
-  "institution": "WILLISTON STATE COLLEGE",
+  "institution": "Williston State College",
   "city": "Williston",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 200341,
-  "grad_rate": 40.1,
-  "grad_rate_rank": 325,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 9504,
-  "avg_stu_loan_debt_rank": 830,
-  "indicator_group": 2
+  "grad_rate": 35.4,
+  "grad_rate_rank": 495,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 7184,
+  "avg_stu_loan_debt_rank": 470,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "58801",
+  "email": true
 }

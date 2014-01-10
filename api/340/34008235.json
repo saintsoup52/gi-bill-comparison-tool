@@ -1,6 +1,6 @@
 {
   "facility_code": "34008235",
-  "institution": "CINCINNATI COLLEGE OF MORTUARY SCIENCE",
+  "institution": "Cincinnati College Of Mortuary Science",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 201867,
-  "grad_rate": 45.5,
-  "grad_rate_rank": 269,
-  "default_rate": 12.3,
-  "avg_stu_loan_debt": 16666,
-  "avg_stu_loan_debt_rank": 1328,
-  "indicator_group": 2
+  "grad_rate": 77.8,
+  "grad_rate_rank": 53,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 16656,
+  "avg_stu_loan_debt_rank": 1085,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45224",
+  "email": true
 }

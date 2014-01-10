@@ -1,6 +1,6 @@
 {
   "facility_code": "14976413",
-  "institution": "MORAINE VALLEY COMMUNITY COLLEGE",
+  "institution": "Moraine Valley Community College",
   "city": "Palos Hills",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 368,
   "cross": 147378,
-  "grad_rate": 15.9,
-  "grad_rate_rank": 1003,
-  "default_rate": 14.7,
+  "grad_rate": 18.0,
+  "grad_rate_rank": 1004,
+  "default_rate": 14.1,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "60465",
+  "email": true
 }

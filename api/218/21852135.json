@@ -1,6 +1,6 @@
 {
   "facility_code": "21852135",
-  "institution": "UNIVERSITY OF PHOENIX - CLEVELAND",
+  "institution": "University Of Phoenix - Cleveland",
   "city": "Independence",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 59,
   "cross": 439297,
-  "grad_rate": 15.6,
-  "grad_rate_rank": 1724,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 8.0,
+  "grad_rate_rank": 1846,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44131",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25146805",
-  "institution": "COACHELLA VALLEY BEAUTY COLLEGE",
+  "institution": "Coachella Valley Beauty College",
   "city": "La Quinta",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 449393,
-  "grad_rate": 76.5,
-  "grad_rate_rank": 843,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 74.5,
+  "grad_rate_rank": 953,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 4132,
+  "avg_stu_loan_debt_rank": 155,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92253",
+  "email": false
 }

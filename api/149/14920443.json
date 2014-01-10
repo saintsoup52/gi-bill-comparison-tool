@@ -1,6 +1,6 @@
 {
   "facility_code": "14920443",
-  "institution": "WHARTON COUNTY JUNIOR COLLEGE",
+  "institution": "Wharton County Junior College",
   "city": "Wharton",
   "state": "TX",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 217,
   "cross": 229841,
   "grad_rate": 16.5,
-  "grad_rate_rank": 980,
-  "default_rate": 18.9,
-  "avg_stu_loan_debt": 5615,
-  "avg_stu_loan_debt_rank": 399,
-  "indicator_group": 2
+  "grad_rate_rank": 1060,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "77488",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28000914",
-  "institution": "PJ'S COLLEGE OF COSMETOLOGY - RICHMOND",
+  "institution": "Pj'S College Of Cosmetology - Richmond",
   "city": "Richmond",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 152150,
-  "grad_rate": 68.4,
-  "grad_rate_rank": 1237,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 14709,
-  "avg_stu_loan_debt_rank": 2463,
-  "indicator_group": 5
+  "grad_rate": 43.8,
+  "grad_rate_rank": 2051,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1951,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47374",
+  "email": false
 }

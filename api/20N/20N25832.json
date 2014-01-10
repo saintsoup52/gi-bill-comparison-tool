@@ -1,6 +1,6 @@
 {
   "facility_code": "20N25832",
-  "institution": "LABORERS LOCAL 35",
+  "institution": "Laborers Local 35",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13501",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14934417",
-  "institution": "OWENSBORO COMMUNITY & TECHNICAL COLLEGE",
+  "institution": "Owensboro Community & Technical College",
   "city": "Owensboro",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 131,
   "cross": 247940,
-  "grad_rate": 31.7,
-  "grad_rate_rank": 328,
-  "default_rate": 20.3,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 200,
-  "indicator_group": 3
+  "grad_rate": 35.4,
+  "grad_rate_rank": 491,
+  "default_rate": 25.1,
+  "avg_stu_loan_debt": 6496,
+  "avg_stu_loan_debt_rank": 170,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "42303",
+  "email": true
 }

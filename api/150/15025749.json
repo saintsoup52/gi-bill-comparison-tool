@@ -1,6 +1,6 @@
 {
   "facility_code": "15025749",
-  "institution": "RICE LAKE HIGH SCHOOL",
+  "institution": "Rice Lake High School",
   "city": "Rice Lake",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54868",
+  "email": false
 }

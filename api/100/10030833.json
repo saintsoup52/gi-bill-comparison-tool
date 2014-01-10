@@ -1,6 +1,6 @@
 {
   "facility_code": "10030833",
-  "institution": "TOWN OF CLAYTON ELECTRICAL DEPARTMENT (EC)",
+  "institution": "Town Of Clayton Electrical Department (Ec)",
   "city": "Clayton",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27528",
+  "email": true
 }

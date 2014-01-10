@@ -1,6 +1,6 @@
 {
   "facility_code": "24803105",
-  "institution": "SANTA BARBARA BUSINESS COLLEGE  (VENTURA)",
+  "institution": "Santa Barbara Business College  (Ventura)",
   "city": "Ventura",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 12,
   "cross": 433420,
-  "grad_rate": 51.8,
-  "grad_rate_rank": 205,
-  "default_rate": 23.3,
-  "avg_stu_loan_debt": 11776,
-  "avg_stu_loan_debt_rank": 962,
-  "indicator_group": 2
+  "grad_rate": 43.7,
+  "grad_rate_rank": 354,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 13554,
+  "avg_stu_loan_debt_rank": 926,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93003",
+  "email": true
 }

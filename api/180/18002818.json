@@ -1,6 +1,6 @@
 {
   "facility_code": "18002818",
-  "institution": "SOWELA TECHNICAL COMM COLLEGE - MORGAN",
+  "institution": "Sowela Technical Comm College - Morgan",
   "city": "Jennings",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 160579,
-  "grad_rate": 31.4,
-  "grad_rate_rank": 331,
-  "default_rate": 25.1,
-  "avg_stu_loan_debt": 4653,
-  "avg_stu_loan_debt_rank": 160,
-  "indicator_group": 3
+  "grad_rate": 40.0,
+  "grad_rate_rank": 457,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 3750,
+  "avg_stu_loan_debt_rank": 43,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "70546",
+  "email": false
 }

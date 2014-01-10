@@ -1,6 +1,6 @@
 {
   "facility_code": "11501401",
-  "institution": "UNIVERSITY OF ALABAMA - HUNTSVILLE",
+  "institution": "University Of Alabama - Huntsville",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 408,
   "cross": 100706,
-  "grad_rate": 45.4,
-  "grad_rate_rank": 1048,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 16595,
-  "avg_stu_loan_debt_rank": 901,
-  "indicator_group": 1
+  "grad_rate": 47.3,
+  "grad_rate_rank": 992,
+  "default_rate": 8.4,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35899",
+  "email": true
 }

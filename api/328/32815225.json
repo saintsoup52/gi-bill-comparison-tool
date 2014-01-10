@@ -1,6 +1,6 @@
 {
   "facility_code": "32815225",
-  "institution": "ST. JOHN'S REGIONAL HEALTH CENTER SCH. OF RAD TECH",
+  "institution": "St. John'S Regional Health Center Sch. Of Rad Tech",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 179399,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 736,
-  "indicator_group": 5
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 631,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65804",
+  "email": false
 }

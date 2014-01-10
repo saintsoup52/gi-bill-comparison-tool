@@ -1,6 +1,6 @@
 {
   "facility_code": "25806935",
-  "institution": "OHIO CENTER FOR BROADCASTING-COLUMBUS",
+  "institution": "Ohio Center For Broadcasting-Columbus",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 453756,
-  "grad_rate": 63.1,
-  "grad_rate_rank": 1469,
-  "default_rate": 12.1,
+  "grad_rate": 80.8,
+  "grad_rate_rank": 606,
+  "default_rate": 14.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43213",
+  "email": true
 }

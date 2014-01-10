@@ -1,6 +1,6 @@
 {
   "facility_code": "10568313",
-  "institution": "ILLINOIS DEPARTMENT OF CORRECTION-GRAHAM",
+  "institution": "Illinois Department Of Correction-Graham",
   "city": "Hillsboro",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62049",
+  "email": false
 }

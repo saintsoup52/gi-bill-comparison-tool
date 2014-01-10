@@ -1,6 +1,6 @@
 {
   "facility_code": "25142205",
-  "institution": "MTI BUSINESS COLLEGE",
+  "institution": "Mti Business College",
   "city": "Stockton",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 118189,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 4.8,
+  "grad_rate": 85.0,
+  "grad_rate_rank": 439,
+  "default_rate": 15.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95207",
+  "email": false
 }

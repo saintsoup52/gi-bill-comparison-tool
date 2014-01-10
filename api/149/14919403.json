@@ -1,6 +1,6 @@
 {
   "facility_code": "14919403",
-  "institution": "PARADISE VALLEY COMMUNITY COLLEGE",
+  "institution": "Paradise Valley Community College",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 393,
   "cross": 364016,
-  "grad_rate": 22.2,
-  "grad_rate_rank": 413,
-  "default_rate": 16.8,
-  "avg_stu_loan_debt": 4946,
-  "avg_stu_loan_debt_rank": 176,
-  "indicator_group": 3
+  "grad_rate": 19.4,
+  "grad_rate_rank": 646,
+  "default_rate": 21.0,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85032",
+  "email": true
 }

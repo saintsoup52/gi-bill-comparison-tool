@@ -1,6 +1,6 @@
 {
   "facility_code": "10007933",
-  "institution": "CITY OF FAYETTEVILLE PUBLIC WORKS COMMISSION",
+  "institution": "City Of Fayetteville Public Works Commission",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28302",
+  "email": false
 }

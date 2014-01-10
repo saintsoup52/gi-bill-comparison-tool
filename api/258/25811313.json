@@ -1,6 +1,6 @@
 {
   "facility_code": "25811313",
-  "institution": "PIVOT POINT INTERNATIONAL-IRVING PARK",
+  "institution": "Pivot Point International-Irving Park",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 445896,
-  "grad_rate": 61.1,
-  "grad_rate_rank": 1541,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 12285,
-  "avg_stu_loan_debt_rank": 2368,
-  "indicator_group": 5
+  "grad_rate": 63.3,
+  "grad_rate_rank": 1506,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 11086,
+  "avg_stu_loan_debt_rank": 1617,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60618",
+  "email": true
 }

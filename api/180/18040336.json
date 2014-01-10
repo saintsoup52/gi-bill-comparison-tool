@@ -1,6 +1,6 @@
 {
   "facility_code": "18040336",
-  "institution": "EASTERN OKLAHOMA COUNTY TECH CTR",
+  "institution": "Eastern Oklahoma County Tech Ctr",
   "city": "Choctaw",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 418348,
-  "grad_rate": 63.0,
-  "grad_rate_rank": 1473,
+  "grad_rate": 71.2,
+  "grad_rate_rank": 1119,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73020",
+  "email": false
 }

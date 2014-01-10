@@ -1,6 +1,6 @@
 {
   "facility_code": "20046011",
-  "institution": "MANER BUILDERS SUPPLY COMPANY",
+  "institution": "Maner Builders Supply Company",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30907",
+  "email": false
 }

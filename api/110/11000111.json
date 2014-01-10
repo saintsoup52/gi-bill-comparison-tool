@@ -1,6 +1,6 @@
 {
   "facility_code": "11000111",
-  "institution": "MIDDLE GEORGIA STATE COLLEGE FKA MACON STATE COLLEGE",
+  "institution": "Middle Georgia State College Fka Macon State College",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 516,
   "cross": 140483,
-  "grad_rate": 12.0,
-  "grad_rate_rank": 1141,
-  "default_rate": 24.8,
-  "avg_stu_loan_debt": 8109,
-  "avg_stu_loan_debt_rank": 655,
-  "indicator_group": 2
+  "grad_rate": 12.5,
+  "grad_rate_rank": 1215,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 8680,
+  "avg_stu_loan_debt_rank": 598,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "31206",
+  "email": true
 }

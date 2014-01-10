@@ -1,6 +1,6 @@
 {
   "facility_code": "19193122",
-  "institution": "KENT COUNTY DEPARTMENT OF VETERANS AFFAIRS",
+  "institution": "Kent County Department Of Veterans Affairs",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49503",
+  "email": true
 }

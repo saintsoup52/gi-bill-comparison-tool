@@ -1,6 +1,6 @@
 {
   "facility_code": "10011433",
-  "institution": "NCDOC - ALEXANDER CORRECTIONAL INSTITUTE",
+  "institution": "Ncdoc - Alexander Correctional Institute",
   "city": "Taylorsville",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28681",
+  "email": false
 }

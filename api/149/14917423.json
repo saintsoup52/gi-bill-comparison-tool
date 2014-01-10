@@ -1,6 +1,6 @@
 {
   "facility_code": "14917423",
-  "institution": "HIBBING COMMUNITY & TECHNICAL COLLEGE",
+  "institution": "Hibbing Community & Technical College",
   "city": "Hibbing",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 63,
   "cross": 173735,
-  "grad_rate": 31.9,
-  "grad_rate_rank": 480,
-  "default_rate": 25.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 34.5,
+  "grad_rate_rank": 514,
+  "default_rate": 23.8,
+  "avg_stu_loan_debt": 9408,
+  "avg_stu_loan_debt_rank": 654,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55746",
+  "email": false
 }

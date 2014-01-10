@@ -1,6 +1,6 @@
 {
   "facility_code": "10105728",
-  "institution": "NEVADA S.P.C.A. (CH31)",
+  "institution": "Nevada S.P.C.A. (Ch31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89118",
+  "email": false
 }

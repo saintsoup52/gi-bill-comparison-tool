@@ -1,6 +1,6 @@
 {
   "facility_code": "20014544",
-  "institution": "UNIVERSITY OF UTAH APP",
+  "institution": "University Of Utah App",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84112",
+  "email": false
 }

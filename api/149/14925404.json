@@ -1,6 +1,6 @@
 {
   "facility_code": "14925404",
-  "institution": "UNIVERSITY OF ARKANSAS COMMUNITY COLLEGE AT BATESVILLE",
+  "institution": "University Of Arkansas Community College At Batesville",
   "city": "Batesville",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 57,
   "cross": 106999,
-  "grad_rate": 28.6,
-  "grad_rate_rank": 355,
-  "default_rate": 31.6,
-  "avg_stu_loan_debt": 8914,
-  "avg_stu_loan_debt_rank": 402,
-  "indicator_group": 3
+  "grad_rate": 22.1,
+  "grad_rate_rank": 620,
+  "default_rate": 30.6,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 296,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "72503",
+  "email": false
 }

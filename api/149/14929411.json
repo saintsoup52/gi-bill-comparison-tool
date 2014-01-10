@@ -1,6 +1,6 @@
 {
   "facility_code": "14929411",
-  "institution": "WIREGRASS GEORGIA TECHNICAL COLLEGE",
+  "institution": "Wiregrass Georgia Technical College",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 332,
   "cross": 141255,
-  "grad_rate": 39.1,
-  "grad_rate_rank": 259,
+  "grad_rate": 32.7,
+  "grad_rate_rank": 520,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3653,
-  "avg_stu_loan_debt_rank": 128,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 2005,
+  "avg_stu_loan_debt_rank": 5,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31602",
+  "email": true
 }

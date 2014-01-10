@@ -1,6 +1,6 @@
 {
   "facility_code": "18521532",
-  "institution": "BOCES GENESEE VALLEY - GENESEE VALLEY EDUCATIONAL PARTNERSHIP",
+  "institution": "Boces Genesee Valley - Genesee Valley Educational Partnership",
   "city": "Batavia",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 431196,
-  "grad_rate": 80.3,
-  "grad_rate_rank": 644,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 1574,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14020",
+  "email": true
 }

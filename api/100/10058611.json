@@ -1,6 +1,6 @@
 {
   "facility_code": "10058611",
-  "institution": "ATHENS-CLARKE COUNTY CORRECTIONS INSTITUTE",
+  "institution": "Athens-Clarke County Corrections Institute",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30605",
+  "email": true
 }

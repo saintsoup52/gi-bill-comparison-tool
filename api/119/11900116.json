@@ -1,6 +1,6 @@
 {
   "facility_code": "11900116",
-  "institution": "KANSAS STATE UNIVERSITY",
+  "institution": "Kansas State University",
   "city": "Manhattan",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1119,
   "cross": 155399,
-  "grad_rate": 56.0,
-  "grad_rate_rank": 674,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 19625,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 1
+  "grad_rate": 58.4,
+  "grad_rate_rank": 614,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66506",
+  "email": false
 }

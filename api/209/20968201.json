@@ -1,6 +1,6 @@
 {
   "facility_code": "20968201",
-  "institution": "(CHAPTER 31)FOSTER FORD INC",
+  "institution": "(Chapter 31)Foster Ford Inc",
   "city": "Bay Minette",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36507",
+  "email": "No (SCO)"
 }

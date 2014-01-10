@@ -1,6 +1,6 @@
 {
   "facility_code": "25388832",
-  "institution": "AVEDA INSTITUTE INC",
+  "institution": "Aveda Institute Inc",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 448071,
-  "grad_rate": 95.2,
-  "grad_rate_rank": 128,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 83.0,
+  "grad_rate_rank": 526,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 9372,
+  "avg_stu_loan_debt_rank": 1046,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10013",
+  "email": true
 }

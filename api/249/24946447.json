@@ -1,6 +1,6 @@
 {
   "facility_code": "24946447",
-  "institution": "CARRINGTON COLLEGE - SPOKANE",
+  "institution": "Carrington College - Spokane",
   "city": "Spokane Valley",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 439118,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 63.9,
+  "grad_rate_rank": 252,
+  "default_rate": 16.4,
+  "avg_stu_loan_debt": 9498,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "99206",
+  "email": true
 }

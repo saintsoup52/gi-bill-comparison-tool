@@ -1,6 +1,6 @@
 {
   "facility_code": "20C64549",
-  "institution": "SOUTHERN WI HEAT & FROST INSULATORS JAC",
+  "institution": "Southern Wi Heat & Frost Insulators Jac",
   "city": "Pewaukee",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53072",
+  "email": false
 }

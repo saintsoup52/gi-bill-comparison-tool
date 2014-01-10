@@ -1,6 +1,6 @@
 {
   "facility_code": "14002401",
-  "institution": "JEFFERSON DAVIS STATE C.C.",
+  "institution": "Jefferson Davis State C.C.",
   "city": "Brewton",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 101499,
-  "grad_rate": 30.1,
-  "grad_rate_rank": 530,
+  "grad_rate": 27.2,
+  "grad_rate_rank": 718,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "36427",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10966401",
-  "institution": "US AIR FORCE DIRECTORATE OF LOGISTICS SPLY SYTMS SUPT BR (CH31)",
+  "institution": "Us Air Force Directorate Of Logistics Sply Sytms Supt Br (Ch31)",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36114",
+  "email": "No (SCO)"
 }

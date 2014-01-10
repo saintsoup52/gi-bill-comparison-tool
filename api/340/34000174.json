@@ -1,10 +1,10 @@
 {
   "facility_code": "34000174",
-  "institution": "THE COLLEGE OF LAW OF ENGLAND & WALES",
+  "institution": "The College Of Law Of England & Wales",
   "city": "Bloomsbury",
   "state": "United Kingdom",
   "country": "United Kingdom",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 1,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11965125",
-  "institution": "UNIVERSITY OF CENTRAL MISSOURI",
+  "institution": "University Of Central Missouri",
   "city": "Warrensburg",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 645,
   "cross": 176965,
-  "grad_rate": 49.7,
-  "grad_rate_rank": 900,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 17370,
-  "avg_stu_loan_debt_rank": 999,
-  "indicator_group": 1
+  "grad_rate": 48.8,
+  "grad_rate_rank": 936,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 17565,
+  "avg_stu_loan_debt_rank": 868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64093",
+  "email": true
 }

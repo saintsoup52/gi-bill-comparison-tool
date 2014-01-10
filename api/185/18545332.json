@@ -1,6 +1,6 @@
 {
   "facility_code": "18545332",
-  "institution": "BOCES ONONDAGA-CORTLAND-MADISON COUNTY",
+  "institution": "Boces Onondaga-Cortland-Madison County",
   "city": "Liverpool",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 440730,
-  "grad_rate": 82.0,
-  "grad_rate_rank": 549,
-  "default_rate": 22.5,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 1064,
-  "indicator_group": 5
+  "grad_rate": 88.9,
+  "grad_rate_rank": 305,
+  "default_rate": 16.2,
+  "avg_stu_loan_debt": 6744,
+  "avg_stu_loan_debt_rank": 585,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "13090",
+  "email": true
 }

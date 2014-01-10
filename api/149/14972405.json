@@ -1,6 +1,6 @@
 {
   "facility_code": "14972405",
-  "institution": "MT. SAN JACINTO COLLEGE",
+  "institution": "Mt. San Jacinto College",
   "city": "San Jacinto",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 803,
   "cross": 119216,
-  "grad_rate": 14.9,
-  "grad_rate_rank": 1033,
-  "default_rate": 26.5,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 683,
-  "indicator_group": 2
+  "grad_rate": 17.8,
+  "grad_rate_rank": 1012,
+  "default_rate": 29.9,
+  "avg_stu_loan_debt": 7583,
+  "avg_stu_loan_debt_rank": 521,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92583",
+  "email": true
 }

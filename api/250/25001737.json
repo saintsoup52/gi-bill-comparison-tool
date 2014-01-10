@@ -1,6 +1,6 @@
 {
   "facility_code": "25001737",
-  "institution": "ROSEBURG BEAUTY COLLEGE",
+  "institution": "Roseburg Beauty College",
   "city": "Roseburg",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 209986,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 1191,
-  "default_rate": 22.7,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 5
+  "grad_rate": 62.1,
+  "grad_rate_rank": 1548,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 9236,
+  "avg_stu_loan_debt_rank": 1024,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97470",
+  "email": true
 }

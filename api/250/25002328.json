@@ -1,6 +1,6 @@
 {
   "facility_code": "25002328",
-  "institution": "NEVADA CAREER INSTITUTE",
+  "institution": "Nevada Career Institute",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 414939,
-  "grad_rate": 92.9,
-  "grad_rate_rank": 185,
-  "default_rate": 19.8,
-  "avg_stu_loan_debt": 6928,
-  "avg_stu_loan_debt_rank": 1129,
-  "indicator_group": 5
+  "grad_rate": 83.9,
+  "grad_rate_rank": 482,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 8298,
+  "avg_stu_loan_debt_rank": 865,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "89130",
+  "email": true
 }

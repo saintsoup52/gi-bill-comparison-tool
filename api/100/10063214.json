@@ -1,6 +1,6 @@
 {
   "facility_code": "10063214",
-  "institution": "CLARK MARITIME CENTRE",
+  "institution": "Clark Maritime Centre",
   "city": "Jeffersonville",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47130",
+  "email": false
 }

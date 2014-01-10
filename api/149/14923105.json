@@ -1,6 +1,6 @@
 {
   "facility_code": "14923105",
-  "institution": "MONTEREY PENINSULA COLLEGE",
+  "institution": "Monterey Peninsula College",
   "city": "Monterey",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 280,
   "cross": 119067,
-  "grad_rate": 24.9,
-  "grad_rate_rank": 691,
-  "default_rate": 21.2,
-  "avg_stu_loan_debt": 8043,
-  "avg_stu_loan_debt_rank": 651,
-  "indicator_group": 2
+  "grad_rate": 21.4,
+  "grad_rate_rank": 900,
+  "default_rate": 25.3,
+  "avg_stu_loan_debt": 8418,
+  "avg_stu_loan_debt_rank": 578,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93940",
+  "email": true
 }

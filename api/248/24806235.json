@@ -1,6 +1,6 @@
 {
   "facility_code": "24806235",
-  "institution": "STAUTZENBERGER COLLEGE-BRECKSVILLE CAMPUS",
+  "institution": "Stautzenberger College-Brecksville Campus",
   "city": "Brecksville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 448600,
-  "grad_rate": 37.5,
-  "grad_rate_rank": 376,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 23.8,
+  "grad_rate_rank": 829,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 15275,
+  "avg_stu_loan_debt_rank": 1033,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44144",
+  "email": false
 }

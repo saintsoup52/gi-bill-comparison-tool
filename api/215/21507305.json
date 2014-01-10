@@ -1,6 +1,6 @@
 {
   "facility_code": "21507305",
-  "institution": "DESIGN INSTITUTE OF SAN DIEGO",
+  "institution": "Design Institute Of San Diego",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 113582,
-  "grad_rate": 61.5,
-  "grad_rate_rank": 523,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 41000,
-  "avg_stu_loan_debt_rank": 2062,
-  "indicator_group": 1
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 31500,
+  "avg_stu_loan_debt_rank": 1971,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92121",
+  "email": false
 }

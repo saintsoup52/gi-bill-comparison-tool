@@ -1,6 +1,6 @@
 {
   "facility_code": "20D12849",
-  "institution": "BALDWIN ELECTRIC",
+  "institution": "Baldwin Electric",
   "city": "Reedsburg",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53959",
+  "email": false
 }

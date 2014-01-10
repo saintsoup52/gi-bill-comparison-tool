@@ -1,6 +1,6 @@
 {
   "facility_code": "31028343",
-  "institution": "EMBRY RIDDLE AERO UNIV SAN ANTONIO RESIDENT CENTER",
+  "institution": "Embry Riddle Aero Univ San Antonio Resident Center",
   "city": "Randolph Afb",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78150",
+  "email": false
 }

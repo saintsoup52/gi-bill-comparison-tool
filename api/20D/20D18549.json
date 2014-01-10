@@ -1,6 +1,6 @@
 {
   "facility_code": "20D18549",
-  "institution": "MECHANICAL ASSOCIATES OF WI",
+  "institution": "Mechanical Associates Of Wi",
   "city": "Racine",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53403",
+  "email": false
 }

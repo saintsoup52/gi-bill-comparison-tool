@@ -1,6 +1,6 @@
 {
   "facility_code": "31914123",
-  "institution": "PRESENTATION COLLEGE",
+  "institution": "Presentation College",
   "city": "Fairmont",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 219295,
-  "grad_rate": 37.1,
-  "grad_rate_rank": 1320,
-  "default_rate": 11.0,
-  "avg_stu_loan_debt": 20675,
-  "avg_stu_loan_debt_rank": 1500,
-  "indicator_group": 1
+  "grad_rate": 44.1,
+  "grad_rate_rank": 1097,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 17571,
+  "avg_stu_loan_debt_rank": 869,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56031",
+  "email": false
 }

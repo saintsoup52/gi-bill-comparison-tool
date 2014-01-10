@@ -1,6 +1,6 @@
 {
   "facility_code": "25019630",
-  "institution": "EVEREST INSTITUTE",
+  "institution": "Everest Institute",
   "city": "South Plainfield",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 449269,
-  "grad_rate": 55.0,
-  "grad_rate_rank": 1781,
-  "default_rate": 30.7,
+  "grad_rate": 61.5,
+  "grad_rate_rank": 1573,
+  "default_rate": 19.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7080",
+  "email": true
 }

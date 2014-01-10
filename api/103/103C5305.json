@@ -1,6 +1,6 @@
 {
   "facility_code": "103C5305",
-  "institution": "SOCIAL SECURITY ADMINISTRATION (SAN FRANCISCO)",
+  "institution": "Social Security Administration (San Francisco)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94103",
+  "email": true
 }

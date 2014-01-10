@@ -1,6 +1,6 @@
 {
   "facility_code": "20445236",
-  "institution": "ARROWHEAD RESORT AND GAMING CENTER",
+  "institution": "Arrowhead Resort And Gaming Center",
   "city": "Canadian",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74425",
+  "email": "No (SCO)"
 }

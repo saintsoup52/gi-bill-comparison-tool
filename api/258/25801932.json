@@ -1,6 +1,6 @@
 {
   "facility_code": "25801932",
-  "institution": "HUNTER BUSINESS SCHOOL - LEVITTOWN",
+  "institution": "Hunter Business School - Levittown",
   "city": "Levittown",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 191728,
-  "grad_rate": 78.4,
-  "grad_rate_rank": 735,
-  "default_rate": 13.9,
+  "grad_rate": 79.3,
+  "grad_rate_rank": 688,
+  "default_rate": 5.5,
   "avg_stu_loan_debt": 6782,
-  "avg_stu_loan_debt_rank": 1104,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 594,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11756",
+  "email": true
 }

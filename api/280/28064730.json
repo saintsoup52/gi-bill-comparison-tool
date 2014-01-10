@@ -1,6 +1,6 @@
 {
   "facility_code": "28064730",
-  "institution": "CAPRI INSTITUTE OF HAIR DESIGN",
+  "institution": "Capri Institute Of Hair Design",
   "city": "Paramus",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 407425,
-  "grad_rate": 68.5,
-  "grad_rate_rank": 1230,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 8387,
-  "avg_stu_loan_debt_rank": 1453,
-  "indicator_group": 5
+  "grad_rate": 63.5,
+  "grad_rate_rank": 1494,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 8305,
+  "avg_stu_loan_debt_rank": 868,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7657",
+  "email": false
 }

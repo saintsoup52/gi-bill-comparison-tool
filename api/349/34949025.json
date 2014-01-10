@@ -1,6 +1,6 @@
 {
   "facility_code": "34949025",
-  "institution": "BRANSON TECHNICAL COLLEGE",
+  "institution": "Branson Technical College",
   "city": "Branson",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 441487,
-  "grad_rate": 88.2,
-  "grad_rate_rank": 23,
-  "default_rate": 25.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 95.1,
+  "grad_rate_rank": 13,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 10632,
+  "avg_stu_loan_debt_rank": 551,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "65616",
+  "email": false
 }

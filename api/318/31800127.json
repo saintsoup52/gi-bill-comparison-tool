@@ -1,6 +1,6 @@
 {
   "facility_code": "31800127",
-  "institution": "CREIGHTON UNIVERSITY",
+  "institution": "Creighton University",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 200,
   "cross": 181002,
-  "grad_rate": 77.3,
-  "grad_rate_rank": 187,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 74.5,
+  "grad_rate_rank": 239,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 23700,
+  "avg_stu_loan_debt_rank": 1593,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68178",
+  "email": false
 }

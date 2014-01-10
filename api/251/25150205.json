@@ -1,6 +1,6 @@
 {
   "facility_code": "25150205",
-  "institution": "CAREER DEVELOPMENT INSTITUTE",
+  "institution": "Career Development Institute",
   "city": "Visalia",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 454801,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 7553,
-  "avg_stu_loan_debt_rank": 1245,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 10966,
+  "avg_stu_loan_debt_rank": 1605,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93291",
+  "email": false
 }

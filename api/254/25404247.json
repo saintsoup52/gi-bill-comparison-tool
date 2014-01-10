@@ -1,6 +1,6 @@
 {
   "facility_code": "25404247",
-  "institution": "HUMANIX LEARNING CENTER (CH31)",
+  "institution": "Humanix Learning Center (Ch31)",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99208",
+  "email": false
 }

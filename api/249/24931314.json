@@ -1,6 +1,6 @@
 {
   "facility_code": "24931314",
-  "institution": "THE CHEFS ACADEMY (OF HARRISON COLLEGE)",
+  "institution": "The Chefs Academy (Of Harrison College)",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 151166,
-  "grad_rate": 26.4,
-  "grad_rate_rank": 642,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 14715,
-  "avg_stu_loan_debt_rank": 1114,
-  "indicator_group": 2
+  "grad_rate": 29.2,
+  "grad_rate_rank": 654,
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 11964,
+  "avg_stu_loan_debt_rank": 844,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "46204",
+  "email": true
 }

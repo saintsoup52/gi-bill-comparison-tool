@@ -1,6 +1,6 @@
 {
   "facility_code": "25037913",
-  "institution": "EDUCATORS OF BEAUTY - STERLING",
+  "institution": "Educators Of Beauty - Sterling",
   "city": "Sterling",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 149204,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 1632,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 9791,
-  "avg_stu_loan_debt_rank": 2121,
-  "indicator_group": 5
+  "grad_rate": 64.0,
+  "grad_rate_rank": 1469,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 10200,
+  "avg_stu_loan_debt_rank": 1538,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "61081",
+  "email": false
 }

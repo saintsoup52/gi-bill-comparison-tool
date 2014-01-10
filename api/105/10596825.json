@@ -1,6 +1,6 @@
 {
   "facility_code": "10596825",
-  "institution": "WOMEN'S EASTERN RECEPTION DIAGNOSTIC & CORR. CTR.",
+  "institution": "Women'S Eastern Reception Diagnostic & Corr. Ctr.",
   "city": "Vandalia",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63382",
+  "email": false
 }

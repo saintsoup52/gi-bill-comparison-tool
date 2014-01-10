@@ -1,6 +1,6 @@
 {
   "facility_code": "25065313",
-  "institution": "UNITY COSMETOLOGY COLLEGE",
+  "institution": "Unity Cosmetology College",
   "city": "Pontiac",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 459365,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 652,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5833,
-  "avg_stu_loan_debt_rank": 940,
-  "indicator_group": 5
+  "grad_rate": 76.9,
+  "grad_rate_rank": 811,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "61764",
+  "email": true
 }

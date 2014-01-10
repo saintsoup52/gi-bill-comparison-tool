@@ -1,6 +1,6 @@
 {
   "facility_code": "20030535",
-  "institution": "PMI FOOD EQUIPMENT GROUP  K",
+  "institution": "Pmi Food Equipment Group  K",
   "city": "Troy",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45374",
+  "email": false
 }

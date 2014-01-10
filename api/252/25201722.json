@@ -1,6 +1,6 @@
 {
   "facility_code": "25201722",
-  "institution": "DORSEY BUSINESS SCHOOL - FARMINGTON HILLS",
+  "institution": "Dorsey Business School - Farmington Hills",
   "city": "Farmington Hills",
   "state": "MI",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 455549,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 7252,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 5
+  "default_rate": 21.6,
+  "avg_stu_loan_debt": 7487,
+  "avg_stu_loan_debt_rank": 693,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48331",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31978138",
-  "institution": "UNIVERSITY OF SCRANTON",
+  "institution": "University Of Scranton",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 104,
   "cross": 215929,
-  "grad_rate": 77.1,
-  "grad_rate_rank": 192,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 83.5,
+  "grad_rate_rank": 112,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18510",
+  "email": true
 }

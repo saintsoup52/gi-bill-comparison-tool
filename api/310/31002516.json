@@ -1,6 +1,6 @@
 {
   "facility_code": "31002516",
-  "institution": "BARCLAY COLLEGE",
+  "institution": "Barclay College",
   "city": "Haviland",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 155070,
-  "grad_rate": 40.9,
-  "grad_rate_rank": 1200,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 11990,
-  "avg_stu_loan_debt_rank": 430,
-  "indicator_group": 1
+  "grad_rate": 52.9,
+  "grad_rate_rank": 805,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 123,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67059",
+  "email": false
 }

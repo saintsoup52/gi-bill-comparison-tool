@@ -1,6 +1,6 @@
 {
   "facility_code": "31997138",
-  "institution": "DELAWARE VALLEY COLLEGE",
+  "institution": "Delaware Valley College",
   "city": "Doylestown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 77,
   "cross": 211981,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 692,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 58.1,
+  "grad_rate_rank": 624,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 23384,
+  "avg_stu_loan_debt_rank": 1568,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18901",
+  "email": true
 }

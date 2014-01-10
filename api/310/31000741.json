@@ -1,6 +1,6 @@
 {
   "facility_code": "31000741",
-  "institution": "UNIVERSITY OF SIOUX FALLS",
+  "institution": "University Of Sioux Falls",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 65,
   "cross": 219383,
-  "grad_rate": 58.6,
-  "grad_rate_rank": 604,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 18725,
-  "avg_stu_loan_debt_rank": 1174,
-  "indicator_group": 1
+  "grad_rate": 48.0,
+  "grad_rate_rank": 963,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 20855,
+  "avg_stu_loan_debt_rank": 1297,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57105",
+  "email": false
 }

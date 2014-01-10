@@ -1,6 +1,6 @@
 {
   "facility_code": "11801029",
-  "institution": "UNIVERSITY OF NEW HAMPSHIRE - DURHAM",
+  "institution": "University Of New Hampshire - Durham",
   "city": "Durham",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 414,
   "cross": 183044,
-  "grad_rate": 76.5,
-  "grad_rate_rank": 207,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 23060,
-  "avg_stu_loan_debt_rank": 1795,
-  "indicator_group": 1
+  "grad_rate": 77.6,
+  "grad_rate_rank": 194,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 24290,
+  "avg_stu_loan_debt_rank": 1669,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3824",
+  "email": true
 }

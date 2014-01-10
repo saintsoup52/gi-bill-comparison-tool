@@ -1,6 +1,6 @@
 {
   "facility_code": "11902118",
-  "institution": "UNIVERSITY OF NEW ORLEANS",
+  "institution": "University Of New Orleans",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 420,
   "cross": 159939,
-  "grad_rate": 38.1,
-  "grad_rate_rank": 1298,
-  "default_rate": 9.6,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 34.5,
+  "grad_rate_rank": 1404,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70148",
+  "email": false
 }

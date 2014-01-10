@@ -1,6 +1,6 @@
 {
   "facility_code": "11901115",
-  "institution": "IOWA STATE UNIVERSITY",
+  "institution": "Iowa State University",
   "city": "Ames",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 751,
   "cross": 153603,
-  "grad_rate": 67.5,
-  "grad_rate_rank": 367,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 21750,
-  "avg_stu_loan_debt_rank": 1614,
-  "indicator_group": 1
+  "grad_rate": 70.8,
+  "grad_rate_rank": 303,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 22375,
+  "avg_stu_loan_debt_rank": 1459,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "50011",
+  "email": false
 }

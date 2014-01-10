@@ -1,6 +1,6 @@
 {
   "facility_code": "11840330",
-  "institution": "RUTGERS THE STATE UNIVERSITY SCHOOL OF HEALTH RELATED PROFESSIONS",
+  "institution": "Rutgers The State University School Of Health Related Professions",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 187222,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 16988,
-  "avg_stu_loan_debt_rank": 948,
-  "indicator_group": 1
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 15582,
+  "avg_stu_loan_debt_rank": 589,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7101",
+  "email": true
 }

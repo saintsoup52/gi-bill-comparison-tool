@@ -1,6 +1,6 @@
 {
   "facility_code": "24801224",
-  "institution": "ANTONELLI COLLEGE - HATTIESBURG",
+  "institution": "Antonelli College - Hattiesburg",
   "city": "Hattiesburg",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 48,
   "cross": 383950,
-  "grad_rate": 41.1,
-  "grad_rate_rank": 314,
-  "default_rate": 35.1,
-  "avg_stu_loan_debt": 12226,
-  "avg_stu_loan_debt_rank": 995,
-  "indicator_group": 2
+  "grad_rate": 31.9,
+  "grad_rate_rank": 579,
+  "default_rate": 33.0,
+  "avg_stu_loan_debt": 11084,
+  "avg_stu_loan_debt_rank": 800,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39401",
+  "email": true
 }

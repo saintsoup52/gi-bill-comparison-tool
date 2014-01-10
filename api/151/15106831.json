@@ -1,6 +1,6 @@
 {
   "facility_code": "15106831",
-  "institution": "LOS ALAMOS FIRE DEPARTMENT ACADEMY",
+  "institution": "Los Alamos Fire Department Academy",
   "city": "Los Alamos",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87544",
+  "email": true
 }

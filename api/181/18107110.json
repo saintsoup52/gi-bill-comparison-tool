@@ -1,6 +1,6 @@
 {
   "facility_code": "18107110",
-  "institution": "HANEY TECHNICAL CENTER",
+  "institution": "Haney Technical Center",
   "city": "Panama City",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 72,
   "cross": 137865,
-  "grad_rate": 55.0,
-  "grad_rate_rank": 1781,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 1750,
-  "avg_stu_loan_debt_rank": 516,
-  "indicator_group": 5
+  "grad_rate": 31.9,
+  "grad_rate_rank": 2186,
+  "default_rate": 30.0,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32405",
+  "email": true
 }

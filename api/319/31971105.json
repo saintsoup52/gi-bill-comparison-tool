@@ -1,6 +1,6 @@
 {
   "facility_code": "31971105",
-  "institution": "FRESNO PACIFIC UNIVERSITY",
+  "institution": "Fresno Pacific University",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 123,
   "cross": 114813,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 876,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 18313,
-  "avg_stu_loan_debt_rank": 1124,
-  "indicator_group": 1
+  "grad_rate": 59.4,
+  "grad_rate_rank": 580,
+  "default_rate": 7.2,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93702",
+  "email": true
 }

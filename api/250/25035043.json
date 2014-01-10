@@ -1,6 +1,6 @@
 {
   "facility_code": "25035043",
-  "institution": "CAPITOL CITY TRADE AND TECHNICAL SCHOOL",
+  "institution": "Capitol City Trade And Technical School",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 35,
   "cross": 223658,
-  "grad_rate": 72.4,
-  "grad_rate_rank": 1052,
-  "default_rate": 26.8,
+  "grad_rate": 58.0,
+  "grad_rate_rank": 1708,
+  "default_rate": 34.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78704",
+  "email": false
 }

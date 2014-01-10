@@ -1,6 +1,6 @@
 {
   "facility_code": "25563025",
-  "institution": "MERRELL UNIVERSITY OF BEAUTY ARTS & SCIENCE",
+  "institution": "Merrell University Of Beauty Arts & Science",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 178077,
-  "grad_rate": 65.0,
-  "grad_rate_rank": 1390,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 69.5,
+  "grad_rate_rank": 1211,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65109",
+  "email": false
 }

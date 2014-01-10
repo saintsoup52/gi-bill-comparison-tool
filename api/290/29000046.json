@@ -1,6 +1,6 @@
 {
   "facility_code": "29000046",
-  "institution": "TACTICAL SHOOTING ACADEMY (T.S.A.) - CH31",
+  "institution": "Tactical Shooting Academy (T.S.A.) - Ch31",
   "city": "Surry",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23883",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21005011",
-  "institution": "ARGOSY UNIVERSITY - ATLANTA CAMPUS",
+  "institution": "Argosy University - Atlanta Campus",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 148,
   "cross": 367936,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30328",
+  "email": true
 }

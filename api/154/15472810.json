@@ -1,6 +1,6 @@
 {
   "facility_code": "15472810",
-  "institution": "MIDWAY FIRE DISTRICT FIRE ACADEMY",
+  "institution": "Midway Fire District Fire Academy",
   "city": "Gulf Breeze",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32563",
+  "email": false
 }

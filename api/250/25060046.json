@@ -1,6 +1,6 @@
 {
   "facility_code": "25060046",
-  "institution": "COSMOPOLITAN BEAUTY & TECHNICAL SCHOOL",
+  "institution": "Cosmopolitan Beauty & Technical School",
   "city": "Annandale",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461449,
-  "grad_rate": 90.4,
-  "grad_rate_rank": 254,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "22003",
+  "email": false
 }

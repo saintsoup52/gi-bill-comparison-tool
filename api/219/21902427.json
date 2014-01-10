@@ -1,6 +1,6 @@
 {
   "facility_code": "21902427",
-  "institution": "KAPLAN UNIVERSITY-OMAHA",
+  "institution": "Kaplan University-Omaha",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 75,
   "cross": 181400,
-  "grad_rate": 51.1,
-  "grad_rate_rank": 212,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 2
+  "grad_rate": 41.2,
+  "grad_rate_rank": 394,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1230,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "68134",
+  "email": true
 }

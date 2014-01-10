@@ -1,6 +1,6 @@
 {
   "facility_code": "24975438",
-  "institution": "PENN COMMERCIAL BUSINESS/TECHNICAL SCHOOL",
+  "institution": "Penn Commercial Business/Technical School",
   "city": "Washington",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 214892,
-  "grad_rate": 72.3,
-  "grad_rate_rank": 65,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 10492,
-  "avg_stu_loan_debt_rank": 878,
-  "indicator_group": 2
+  "grad_rate": 79.6,
+  "grad_rate_rank": 47,
+  "default_rate": 15.7,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 846,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15301",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25104443",
-  "institution": "NORTHWEST EDUCATIONAL CTR",
+  "institution": "Northwest Educational Ctr",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 369686,
-  "grad_rate": 68.2,
-  "grad_rate_rank": 1245,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 68.5,
+  "grad_rate_rank": 1250,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77092",
+  "email": false
 }

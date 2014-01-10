@@ -1,6 +1,6 @@
 {
   "facility_code": "10182035",
-  "institution": "OBERLIN MUNICIPAL LIGHT & POWER SYSTEM  K&G",
+  "institution": "Oberlin Municipal Light & Power System  K&G",
   "city": "Oberlin",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44074",
+  "email": false
 }

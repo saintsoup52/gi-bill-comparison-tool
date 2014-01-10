@@ -1,6 +1,6 @@
 {
   "facility_code": "20823921",
-  "institution": "HOISTING & PORTABLE ENGINEERS JATC #98",
+  "institution": "Hoisting & Portable Engineers Jatc #98",
   "city": "East Longmeadow",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1028",
+  "email": true
 }

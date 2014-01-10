@@ -1,6 +1,6 @@
 {
   "facility_code": "20803535",
-  "institution": "USSC UNIVERSAL ATLAS CEMENT    K",
+  "institution": "Ussc Universal Atlas Cement    K",
   "city": "Fairborn",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45324",
+  "email": false
 }

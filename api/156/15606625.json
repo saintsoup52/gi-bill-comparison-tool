@@ -1,6 +1,6 @@
 {
   "facility_code": "15606625",
-  "institution": "UMKC SCHOOL OF MEDICINE EMS EDUCATION",
+  "institution": "Umkc School Of Medicine Ems Education",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64108",
+  "email": true
 }

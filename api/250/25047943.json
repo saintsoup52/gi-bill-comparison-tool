@@ -1,6 +1,6 @@
 {
   "facility_code": "25047943",
-  "institution": "LUBBOCK HAIR ACADEMY",
+  "institution": "Lubbock Hair Academy",
   "city": "Lubbock",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 226374,
-  "grad_rate": 64.7,
-  "grad_rate_rank": 1408,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 65.1,
+  "grad_rate_rank": 1422,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79410",
+  "email": false
 }

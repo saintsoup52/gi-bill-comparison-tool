@@ -1,6 +1,6 @@
 {
   "facility_code": "14909446",
-  "institution": "TIDEWATER COMMUNITY COLLEGE-PORTSMOUTH",
+  "institution": "Tidewater Community College-Portsmouth",
   "city": "Portsmouth",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1134,
   "cross": 233772,
-  "grad_rate": 13.3,
-  "grad_rate_rank": 1089,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 14.1,
+  "grad_rate_rank": 1154,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 5706,
+  "avg_stu_loan_debt_rank": 304,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "23701",
+  "email": true
 }

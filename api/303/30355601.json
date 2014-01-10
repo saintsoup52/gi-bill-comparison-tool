@@ -1,6 +1,6 @@
 {
   "facility_code": "30355601",
-  "institution": "PLUMBERS AND STEAMFITTERS LOCAL 760",
+  "institution": "Plumbers And Steamfitters Local 760",
   "city": "Muscle Shoals",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35662",
+  "email": false
 }

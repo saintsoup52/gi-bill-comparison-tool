@@ -1,6 +1,6 @@
 {
   "facility_code": "11802106",
-  "institution": "UNIVERSITY OF COLORADO - BOULDER",
+  "institution": "University Of Colorado - Boulder",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 724,
   "cross": 126614,
-  "grad_rate": 68.1,
-  "grad_rate_rank": 348,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 68.0,
+  "grad_rate_rank": 353,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80309",
+  "email": true
 }

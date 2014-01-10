@@ -1,6 +1,6 @@
 {
   "facility_code": "25090042",
-  "institution": "DOWNTOWN AVIATION",
+  "institution": "Downtown Aviation",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "38127",
+  "email": false
 }

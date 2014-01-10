@@ -1,6 +1,6 @@
 {
   "facility_code": "18038136",
-  "institution": "CANADIAN VALLEY TECHNOLOGY CTR CHICKASHA",
+  "institution": "Canadian Valley Technology Ctr Chickasha",
   "city": "Chickasha",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 365374,
-  "grad_rate": 77.3,
-  "grad_rate_rank": 802,
+  "grad_rate": 62.3,
+  "grad_rate_rank": 1545,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73018",
+  "email": false
 }

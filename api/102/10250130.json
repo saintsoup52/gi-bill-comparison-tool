@@ -1,6 +1,6 @@
 {
   "facility_code": "10250130",
-  "institution": "PLAINFIELD FIRE DEPARTMENT",
+  "institution": "Plainfield Fire Department",
   "city": "Plainfield",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7062",
+  "email": false
 }

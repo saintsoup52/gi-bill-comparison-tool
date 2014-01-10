@@ -1,6 +1,6 @@
 {
   "facility_code": "10168627",
-  "institution": "FAA - GRAND ISLAND SYSTEM SUPPORT CENTER",
+  "institution": "Faa - Grand Island System Support Center",
   "city": "Grand Island",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "68801",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11907048",
-  "institution": "WEST VIRGNIA UNIVERSITY INSTITUTE OF TECHNOLOGY",
+  "institution": "West Virgnia University Institute Of Technology",
   "city": "Montgomery",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 42,
   "cross": 237950,
-  "grad_rate": 29.2,
-  "grad_rate_rank": 1519,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 19048,
-  "avg_stu_loan_debt_rank": 1260,
-  "indicator_group": 1
+  "grad_rate": 24.1,
+  "grad_rate_rank": 1656,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 18473,
+  "avg_stu_loan_debt_rank": 962,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "25136",
+  "email": true
 }

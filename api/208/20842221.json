@@ -1,6 +1,6 @@
 {
   "facility_code": "20842221",
-  "institution": "M&P BROTHERS ELECTRICAL CONTRACTORS-CH31",
+  "institution": "M&P Brothers Electrical Contractors-Ch31",
   "city": "Holbrook",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2343",
+  "email": false
 }

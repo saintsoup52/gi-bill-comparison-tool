@@ -1,6 +1,6 @@
 {
   "facility_code": "31806007",
-  "institution": "YALE UNIVERSITY UNDERGRADUATE & GRADUATE",
+  "institution": "Yale University Undergraduate & Graduate",
   "city": "New Haven",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 130794,
-  "grad_rate": 96.6,
+  "grad_rate": 96.2,
   "grad_rate_rank": 11,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 10476,
-  "avg_stu_loan_debt_rank": 270,
-  "indicator_group": 1
+  "default_rate": 1.9,
+  "avg_stu_loan_debt": 14525,
+  "avg_stu_loan_debt_rank": 499,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "6520",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002015",
-  "institution": "UNIVERSITY OF DUBUQUE",
+  "institution": "University Of Dubuque",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 114,
   "cross": 153278,
-  "grad_rate": 41.3,
-  "grad_rate_rank": 1189,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 18544,
-  "avg_stu_loan_debt_rank": 1159,
-  "indicator_group": 1
+  "grad_rate": 36.1,
+  "grad_rate_rank": 1364,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52001",
+  "email": false
 }

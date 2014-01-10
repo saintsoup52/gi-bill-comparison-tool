@@ -1,6 +1,6 @@
 {
   "facility_code": "28014248",
-  "institution": "CHARLESTON SCHOOL OF BEAUTY CULTURE",
+  "institution": "Charleston School Of Beauty Culture",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 237303,
-  "grad_rate": 39.4,
-  "grad_rate_rank": 2075,
-  "default_rate": 40.4,
-  "avg_stu_loan_debt": 6406,
-  "avg_stu_loan_debt_rank": 1057,
-  "indicator_group": 5
+  "grad_rate": 35.2,
+  "grad_rate_rank": 2158,
+  "default_rate": 43.7,
+  "avg_stu_loan_debt": 4727,
+  "avg_stu_loan_debt_rank": 196,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25301",
+  "email": true
 }

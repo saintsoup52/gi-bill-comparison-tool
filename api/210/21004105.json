@@ -1,6 +1,6 @@
 {
   "facility_code": "21004105",
-  "institution": "CALIFORNIA GRAD SCHOOL OF PSYCHOLOGY (CH31 ONLY)",
+  "institution": "California Grad School Of Psychology (Ch31 Only)",
   "city": "Corte Madera",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94925",
+  "email": "No (SCO)"
 }

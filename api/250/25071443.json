@@ -1,6 +1,6 @@
 {
   "facility_code": "25071443",
-  "institution": "HEALTHY HAIR ACADEMY",
+  "institution": "Healthy Hair Academy",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 442851,
-  "grad_rate": 73.8,
-  "grad_rate_rank": 980,
-  "default_rate": 41.0,
-  "avg_stu_loan_debt": 5294,
-  "avg_stu_loan_debt_rank": 821,
-  "indicator_group": 5
+  "grad_rate": 72.5,
+  "grad_rate_rank": 1055,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75217",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25019706",
-  "institution": "CUTTIN UP BEAUTY ACADEMY",
+  "institution": "Cuttin Up Beauty Academy",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 447838,
-  "grad_rate": 34.1,
-  "grad_rate_rank": 2114,
+  "grad_rate": null,
+  "grad_rate_rank": null,
   "default_rate": null,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80220",
+  "email": false
 }

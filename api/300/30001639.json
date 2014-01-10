@@ -1,6 +1,6 @@
 {
   "facility_code": "30001639",
-  "institution": "SHEET METAL WORKERS JAC LOCAL 17",
+  "institution": "Sheet Metal Workers Jac Local 17",
   "city": "Cranston",
   "state": "RI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2905",
+  "email": false
 }

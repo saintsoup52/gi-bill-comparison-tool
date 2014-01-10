@@ -1,6 +1,6 @@
 {
   "facility_code": "34332047",
-  "institution": "PERRY TECHNICAL INSTITUTE",
+  "institution": "Perry Technical Institute",
   "city": "Yakima",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 236212,
-  "grad_rate": 78.3,
-  "grad_rate_rank": 742,
-  "default_rate": 12.6,
-  "avg_stu_loan_debt": 14789,
-  "avg_stu_loan_debt_rank": 2470,
-  "indicator_group": 5
+  "grad_rate": 73.7,
+  "grad_rate_rank": 994,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 17432,
+  "avg_stu_loan_debt_rank": 1967,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98903",
+  "email": true
 }

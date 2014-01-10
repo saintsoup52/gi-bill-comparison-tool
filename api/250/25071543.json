@@ -1,6 +1,6 @@
 {
   "facility_code": "25071543",
-  "institution": "CCI TRAINING CENTER INC DALLAS",
+  "institution": "Cci Training Center Inc Dallas",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 449773,
-  "grad_rate": 80.9,
-  "grad_rate_rank": 612,
-  "default_rate": 26.7,
-  "avg_stu_loan_debt": 7283,
-  "avg_stu_loan_debt_rank": 1186,
-  "indicator_group": 5
+  "grad_rate": 81.6,
+  "grad_rate_rank": 576,
+  "default_rate": 26.5,
+  "avg_stu_loan_debt": 7917,
+  "avg_stu_loan_debt_rank": 797,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75231",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28003833",
-  "institution": "WINSTON SALEM BARBER SCHOOL INC",
+  "institution": "Winston Salem Barber School Inc",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 199980,
-  "grad_rate": 72.3,
-  "grad_rate_rank": 1061,
+  "grad_rate": 73.1,
+  "grad_rate_rank": 1024,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "27127",
+  "email": true
 }

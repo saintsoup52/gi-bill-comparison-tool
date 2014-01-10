@@ -1,6 +1,6 @@
 {
   "facility_code": "24911933",
-  "institution": "LIVING ARTS INSTITUTE @ SCHOOL OF COMMUNICATION ARTS",
+  "institution": "Living Arts Institute @ School Of Communication Arts",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 421832,
-  "grad_rate": 70.0,
-  "grad_rate_rank": 69,
-  "default_rate": 16.8,
-  "avg_stu_loan_debt": 11834,
-  "avg_stu_loan_debt_rank": 706,
-  "indicator_group": 3
+  "grad_rate": 64.2,
+  "grad_rate_rank": 248,
+  "default_rate": 30.0,
+  "avg_stu_loan_debt": 12667,
+  "avg_stu_loan_debt_rank": 620,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "27103",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15529935",
-  "institution": "COLLINS CAREER CENTER",
+  "institution": "Collins Career Center",
   "city": "Chesapeake",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 203614,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 5462,
-  "avg_stu_loan_debt_rank": 838,
-  "indicator_group": 5
+  "grad_rate": 67.0,
+  "grad_rate_rank": 1321,
+  "default_rate": 28.3,
+  "avg_stu_loan_debt": 6676,
+  "avg_stu_loan_debt_rank": 578,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45619",
+  "email": true
 }

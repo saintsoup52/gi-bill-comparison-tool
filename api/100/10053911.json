@@ -1,6 +1,6 @@
 {
   "facility_code": "10053911",
-  "institution": "COBB COUNTY BOARD OF COMMISSIONERS - PROPERTY MANAGEMENT DIVISION",
+  "institution": "Cobb County Board Of Commissioners - Property Management Division",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30060",
+  "email": false
 }

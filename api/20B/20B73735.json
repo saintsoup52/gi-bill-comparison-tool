@@ -1,6 +1,6 @@
 {
   "facility_code": "20B73735",
-  "institution": "A G BIRRELL COMPANY (31)",
+  "institution": "A G Birrell Company (31)",
   "city": "Kinsman",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44428",
+  "email": "No (SCO)"
 }

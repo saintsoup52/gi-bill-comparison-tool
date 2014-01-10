@@ -1,6 +1,6 @@
 {
   "facility_code": "14918401",
-  "institution": "JOHN C. CALHOUN STATE C.C.",
+  "institution": "John C. Calhoun State C.C.",
   "city": "Decatur",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 753,
   "cross": 101514,
-  "grad_rate": 11.4,
-  "grad_rate_rank": 1165,
-  "default_rate": 18.9,
-  "avg_stu_loan_debt": 5066,
-  "avg_stu_loan_debt_rank": 282,
-  "indicator_group": 2
+  "grad_rate": 12.0,
+  "grad_rate_rank": 1229,
+  "default_rate": 23.8,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "35609",
+  "email": true
 }

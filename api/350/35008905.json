@@ -1,6 +1,6 @@
 {
   "facility_code": "35008905",
-  "institution": "CENTER FOR EMPLOYMENT TRAINING (TEMECULA)",
+  "institution": "Center For Employment Training (Temecula)",
   "city": "Temecula",
   "state": "CA",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 381334,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 4175,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 5
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 262,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92590",
+  "email": false
 }

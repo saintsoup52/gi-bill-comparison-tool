@@ -1,6 +1,6 @@
 {
   "facility_code": "31924521",
-  "institution": "NATIONAL GRADUATE SCHOOL",
+  "institution": "National Graduate School",
   "city": "Falmouth",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 441478,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.9,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "default_rate": 3.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2540",
+  "email": true
 }

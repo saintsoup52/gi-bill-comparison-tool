@@ -1,6 +1,6 @@
 {
   "facility_code": "10R11438",
-  "institution": "DEPARTMENT OF LABOR & INDUSTRY DUBOIS AREA CAREER LINK",
+  "institution": "Department Of Labor & Industry Dubois Area Career Link",
   "city": "Dubois",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15801",
+  "email": false
 }

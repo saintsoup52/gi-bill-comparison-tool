@@ -1,6 +1,6 @@
 {
   "facility_code": "10054211",
-  "institution": "IRWIN COUNTY DETENTION CENTER",
+  "institution": "Irwin County Detention Center",
   "city": "Ocilla",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31774",
+  "email": false
 }

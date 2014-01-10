@@ -1,6 +1,6 @@
 {
   "facility_code": "10N05232",
-  "institution": "ORANGE COUNTY SHERIFF'S OFFICE",
+  "institution": "Orange County Sheriff'S Office",
   "city": "Goshen",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10924",
+  "email": false
 }

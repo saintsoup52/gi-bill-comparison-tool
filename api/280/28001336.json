@@ -1,6 +1,6 @@
 {
   "facility_code": "28001336",
-  "institution": "EVE'S COLLEGE OF HAIRSTYLING",
+  "institution": "Eve'S College Of Hairstyling",
   "city": "Lawton",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 207102,
-  "grad_rate": 49.1,
-  "grad_rate_rank": 1949,
-  "default_rate": 30.0,
-  "avg_stu_loan_debt": 5188,
-  "avg_stu_loan_debt_rank": 813,
-  "indicator_group": 5
+  "grad_rate": 57.0,
+  "grad_rate_rank": 1737,
+  "default_rate": 18.3,
+  "avg_stu_loan_debt": 6840,
+  "avg_stu_loan_debt_rank": 609,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73501",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18023838",
-  "institution": "LANCASTER CO CAREER & TECH CENTER (WILLOW STREET)",
+  "institution": "Lancaster Co Career & Tech Center (Willow Street)",
   "city": "Willow Street",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 418533,
-  "grad_rate": 70.9,
-  "grad_rate_rank": 1136,
-  "default_rate": 14.6,
+  "grad_rate": 79.7,
+  "grad_rate_rank": 669,
+  "default_rate": 14.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17584",
+  "email": true
 }

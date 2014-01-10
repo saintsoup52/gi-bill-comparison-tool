@@ -1,6 +1,6 @@
 {
   "facility_code": "21891705",
-  "institution": "UNIVERSITY OF PHOENIX  (SAN DIEGO)",
+  "institution": "University Of Phoenix  (San Diego)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4281,
   "cross": 372222,
-  "grad_rate": 12.4,
-  "grad_rate_rank": 1761,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 14.4,
+  "grad_rate_rank": 1787,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92123",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24838205",
-  "institution": "EVEREST COLLEGE (WEST LOS ANGELES)",
+  "institution": "Everest College (West Los Angeles)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 368805,
-  "grad_rate": 57.2,
-  "grad_rate_rank": 159,
-  "default_rate": 36.2,
+  "grad_rate": 68.1,
+  "grad_rate_rank": 190,
+  "default_rate": 24.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90034",
+  "email": false
 }

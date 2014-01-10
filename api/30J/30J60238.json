@@ -1,6 +1,6 @@
 {
   "facility_code": "30J60238",
-  "institution": "IBEW LOCAL#743",
+  "institution": "Ibew Local#743",
   "city": "Reading",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19608",
+  "email": false
 }

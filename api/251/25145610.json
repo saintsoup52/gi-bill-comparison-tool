@@ -1,6 +1,6 @@
 {
   "facility_code": "25145610",
-  "institution": "SARASOTA SCHOOL OF MASSAGE THERAPY",
+  "institution": "Sarasota School Of Massage Therapy",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 406149,
-  "grad_rate": 71.9,
-  "grad_rate_rank": 1087,
-  "default_rate": 12.1,
+  "grad_rate": 72.1,
+  "grad_rate_rank": 1068,
+  "default_rate": 10.2,
   "avg_stu_loan_debt": 7705,
-  "avg_stu_loan_debt_rank": 1297,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 761,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "34243",
+  "email": true
 }

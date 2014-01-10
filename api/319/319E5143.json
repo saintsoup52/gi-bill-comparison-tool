@@ -1,6 +1,6 @@
 {
   "facility_code": "319E5143",
-  "institution": "SOUTHWESTERN ADVENTIST UNIVERSITY",
+  "institution": "Southwestern Adventist University",
   "city": "Keene",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 228468,
-  "grad_rate": 37.9,
-  "grad_rate_rank": 1303,
-  "default_rate": 15.1,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 28.8,
+  "grad_rate_rank": 1557,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 15844,
+  "avg_stu_loan_debt_rank": 611,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76059",
+  "email": false
 }

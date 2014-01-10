@@ -1,6 +1,6 @@
 {
   "facility_code": "11813346",
-  "institution": "CHRISTOPHER NEWPORT UNIVERSITY",
+  "institution": "Christopher Newport University",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 259,
   "cross": 231712,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 479,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 67.4,
+  "grad_rate_rank": 363,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 21171,
+  "avg_stu_loan_debt_rank": 1332,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23606",
+  "email": true
 }

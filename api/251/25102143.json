@@ -1,6 +1,6 @@
 {
   "facility_code": "25102143",
-  "institution": "ASTRODOME CAREER CENTERS",
+  "institution": "Astrodome Career Centers",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 379746,
-  "grad_rate": 84.2,
-  "grad_rate_rank": 457,
-  "default_rate": null,
+  "grad_rate": 96.7,
+  "grad_rate_rank": 113,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 3167,
-  "avg_stu_loan_debt_rank": 567,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 59,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77054",
+  "email": false
 }

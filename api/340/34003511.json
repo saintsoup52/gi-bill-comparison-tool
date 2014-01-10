@@ -1,6 +1,6 @@
 {
   "facility_code": "34003511",
-  "institution": "YOUNG HARRIS COLLEGE",
+  "institution": "Young Harris College",
   "city": "Young Harris",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 141361,
-  "grad_rate": 35.0,
-  "grad_rate_rank": 424,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 9699,
-  "avg_stu_loan_debt_rank": 839,
-  "indicator_group": 2
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30582",
+  "email": true
 }

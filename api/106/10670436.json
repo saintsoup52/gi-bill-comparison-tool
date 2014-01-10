@@ -1,6 +1,6 @@
 {
   "facility_code": "10670436",
-  "institution": "BEAVER POLICE DEPARTMENT (WD FAC APP EFF 072810)",
+  "institution": "Beaver Police Department (Wd Fac App Eff 072810)",
   "city": "Beaver",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73932",
+  "email": false
 }

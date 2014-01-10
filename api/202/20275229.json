@@ -1,6 +1,6 @@
 {
   "facility_code": "20275229",
-  "institution": "GREEN MOUNTAIN RIFLE BARREL CO INC",
+  "institution": "Green Mountain Rifle Barrel Co Inc",
   "city": "Center Conway",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3813",
+  "email": false
 }

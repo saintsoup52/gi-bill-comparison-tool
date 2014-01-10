@@ -1,6 +1,6 @@
 {
   "facility_code": "28568132",
-  "institution": "FINGER LAKES SCHOOL OF MASSAGE - ITHACA",
+  "institution": "Finger Lakes School Of Massage - Ithaca",
   "city": "Ithaca",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 457864,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 92.6,
+  "grad_rate_rank": 203,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14850",
+  "email": true
 }

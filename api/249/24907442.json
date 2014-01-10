@@ -1,6 +1,6 @@
 {
   "facility_code": "24907442",
-  "institution": "LECOLE CULINAIRE",
+  "institution": "Lecole Culinaire",
   "city": "Cordova",
   "state": "TN",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 60,
   "cross": 456940,
   "grad_rate": 57.5,
-  "grad_rate_rank": 156,
-  "default_rate": 27.4,
-  "avg_stu_loan_debt": 15221,
-  "avg_stu_loan_debt_rank": 787,
-  "indicator_group": 3
+  "grad_rate_rank": 328,
+  "default_rate": 26.7,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 682,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "38016",
+  "email": false
 }

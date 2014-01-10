@@ -1,6 +1,6 @@
 {
   "facility_code": "31991138",
-  "institution": "MOORE COLLEGE OF ART",
+  "institution": "Moore College Of Art",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 214148,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 648,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 33750,
-  "avg_stu_loan_debt_rank": 2052,
-  "indicator_group": 1
+  "grad_rate": 55.5,
+  "grad_rate_rank": 722,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 31000,
+  "avg_stu_loan_debt_rank": 1967,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19103",
+  "email": true
 }

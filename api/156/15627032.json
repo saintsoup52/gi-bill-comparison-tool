@@ -1,6 +1,6 @@
 {
   "facility_code": "15627032",
-  "institution": "EAST SYRACUSE - MINOA CENTRAL HIGH SCHOOL",
+  "institution": "East Syracuse - Minoa Central High School",
   "city": "East Syracuse",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13057",
+  "email": false
 }

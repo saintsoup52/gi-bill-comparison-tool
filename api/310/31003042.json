@@ -1,6 +1,6 @@
 {
   "facility_code": "31003042",
-  "institution": "TREVECCA NAZARENE UNIVERSITY",
+  "institution": "Trevecca Nazarene University",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 89,
   "cross": 221892,
-  "grad_rate": 54.7,
-  "grad_rate_rank": 721,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 16330,
-  "avg_stu_loan_debt_rank": 875,
-  "indicator_group": 1
+  "grad_rate": 54.2,
+  "grad_rate_rank": 767,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 16918,
+  "avg_stu_loan_debt_rank": 793,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37210",
+  "email": true
 }

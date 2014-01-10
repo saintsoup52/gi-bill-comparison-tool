@@ -1,6 +1,6 @@
 {
   "facility_code": "31964132",
-  "institution": "ST. JOHN FISHER COLLEGE",
+  "institution": "St. John Fisher College",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 195720,
-  "grad_rate": 72.9,
-  "grad_rate_rank": 257,
-  "default_rate": 5.7,
+  "grad_rate": 73.9,
+  "grad_rate_rank": 251,
+  "default_rate": 5.5,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14618",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15202211",
-  "institution": "EAST LAURENS HIGH SCHOOL",
+  "institution": "East Laurens High School",
   "city": "East Dublin",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31027",
+  "email": true
 }

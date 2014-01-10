@@ -1,6 +1,6 @@
 {
   "facility_code": "249C9410",
-  "institution": "AVIATOR COLLEGE OF AERONAUTICAL SCIENCE & TECHNOLOGY",
+  "institution": "Aviator College Of Aeronautical Science & Technology",
   "city": "Fort Pierce",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 447847,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 22,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 16056,
-  "avg_stu_loan_debt_rank": 797,
-  "indicator_group": 3
+  "grad_rate": 33.3,
+  "grad_rate_rank": 514,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "34946",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25218415",
-  "institution": "ISB/CNH",
+  "institution": "Isb/Cnh",
   "city": "Ankeny",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 153597,
-  "grad_rate": 62.1,
-  "grad_rate_rank": 1513,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 7227,
-  "avg_stu_loan_debt_rank": 1174,
-  "indicator_group": 5
+  "grad_rate": 53.8,
+  "grad_rate_rank": 1844,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 6892,
+  "avg_stu_loan_debt_rank": 620,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50023",
+  "email": false
 }

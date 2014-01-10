@@ -1,6 +1,6 @@
 {
   "facility_code": "31607105",
-  "institution": "CONCORDIA UNIVERSITY",
+  "institution": "Concordia University",
   "city": "Irvine",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 52,
   "cross": 112075,
-  "grad_rate": 50.5,
-  "grad_rate_rank": 862,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 18452,
-  "avg_stu_loan_debt_rank": 1133,
-  "indicator_group": 1
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 4.7,
+  "avg_stu_loan_debt": 20312,
+  "avg_stu_loan_debt_rank": 1230,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92612",
+  "email": true
 }

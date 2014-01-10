@@ -1,6 +1,6 @@
 {
   "facility_code": "249H7435",
-  "institution": "AMERICAN INSTITUTE OF ALTERNATIVE MEDICINE",
+  "institution": "American Institute Of Alternative Medicine",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 441636,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 11471,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 3
+  "grad_rate": 83.3,
+  "grad_rate_rank": 43,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 11941,
+  "avg_stu_loan_debt_rank": 582,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "43229",
+  "email": true
 }

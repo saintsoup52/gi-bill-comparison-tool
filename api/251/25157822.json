@@ -1,6 +1,6 @@
 {
   "facility_code": "25157822",
-  "institution": "IN SESSION ARTS OF COSMETOLOGY BEAUTY SCHOOL",
+  "institution": "In Session Arts Of Cosmetology Beauty School",
   "city": "Saginaw",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 444653,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48609",
+  "email": false
 }

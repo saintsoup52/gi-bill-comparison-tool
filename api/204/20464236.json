@@ -1,6 +1,6 @@
 {
   "facility_code": "20464236",
-  "institution": "JEAN'S PLUMBING HEAT & AIR",
+  "institution": "Jean'S Plumbing Heat & Air",
   "city": "Jones",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73049",
+  "email": false
 }

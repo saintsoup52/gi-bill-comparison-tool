@@ -1,6 +1,6 @@
 {
   "facility_code": "34903425",
-  "institution": "WENTWORTH MILITARY ACADEMY AND JUNIOR COLLEGE",
+  "institution": "Wentworth Military Academy And Junior College",
   "city": "Lexington",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 28,
   "cross": 179919,
-  "grad_rate": 9.1,
-  "grad_rate_rank": 1223,
-  "default_rate": 22.3,
-  "avg_stu_loan_debt": 9451,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 2
+  "grad_rate": 59.0,
+  "grad_rate_rank": 179,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "64067",
+  "email": false
 }

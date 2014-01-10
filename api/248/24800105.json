@@ -1,6 +1,6 @@
 {
   "facility_code": "24800105",
-  "institution": "SAN JOAQUIN VALLEY COLLEGE (FRESNO)",
+  "institution": "San Joaquin Valley College (Fresno)",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 50,
   "cross": 262457,
-  "grad_rate": 45.9,
-  "grad_rate_rank": 266,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 16565,
-  "avg_stu_loan_debt_rank": 1309,
-  "indicator_group": 2
+  "grad_rate": 57.2,
+  "grad_rate_rank": 197,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 17900,
+  "avg_stu_loan_debt_rank": 1120,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93710",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "349E4435",
-  "institution": "OHIO COLLEGE OF MASSOTHERAPY",
+  "institution": "Ohio College Of Massotherapy",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 204592,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 176,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 11003,
-  "avg_stu_loan_debt_rank": 905,
-  "indicator_group": 2
+  "grad_rate": 52.6,
+  "grad_rate_rank": 241,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44321",
+  "email": false
 }

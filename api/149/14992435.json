@@ -1,6 +1,6 @@
 {
   "facility_code": "14992435",
-  "institution": "SOUTHERN STATE COMMUNITY COLLEGE",
+  "institution": "Southern State Community College",
   "city": "Hillsboro",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 112,
   "cross": 205966,
-  "grad_rate": 23.1,
-  "grad_rate_rank": 755,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 6100,
-  "avg_stu_loan_debt_rank": 453,
-  "indicator_group": 2
+  "grad_rate": 19.4,
+  "grad_rate_rank": 959,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 5924,
+  "avg_stu_loan_debt_rank": 319,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45133",
+  "email": false
 }

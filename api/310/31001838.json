@@ -1,6 +1,6 @@
 {
   "facility_code": "31001838",
-  "institution": "HAVERFORD COLLEGE",
+  "institution": "Haverford College",
   "city": "Haverford",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 212911,
-  "grad_rate": 92.4,
-  "grad_rate_rank": 36,
-  "default_rate": 0.7,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 93.3,
+  "grad_rate_rank": 30,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19041",
+  "email": true
 }

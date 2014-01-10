@@ -1,6 +1,6 @@
 {
   "facility_code": "11000449",
-  "institution": "UNIV OF WISC-MILWAUKEE",
+  "institution": "Univ Of Wisc-Milwaukee",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1044,
   "cross": 240453,
-  "grad_rate": 40.4,
-  "grad_rate_rank": 1212,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 16562,
-  "avg_stu_loan_debt_rank": 897,
-  "indicator_group": 1
+  "grad_rate": 42.5,
+  "grad_rate_rank": 1161,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53201",
+  "email": true
 }

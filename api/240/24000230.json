@@ -1,6 +1,6 @@
 {
   "facility_code": "24000230",
-  "institution": "SANFORD BROWN INSTITUTE - ISELIN",
+  "institution": "Sanford Brown Institute - Iselin",
   "city": "Iselin",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 187161,
-  "grad_rate": 66.9,
-  "grad_rate_rank": 1292,
-  "default_rate": 27.5,
-  "avg_stu_loan_debt": 11125,
-  "avg_stu_loan_debt_rank": 2241,
-  "indicator_group": 5
+  "grad_rate": 63.7,
+  "grad_rate_rank": 1482,
+  "default_rate": 24.2,
+  "avg_stu_loan_debt": 10716,
+  "avg_stu_loan_debt_rank": 1590,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8830",
+  "email": true
 }

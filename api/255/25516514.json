@@ -1,6 +1,6 @@
 {
   "facility_code": "25516514",
-  "institution": "KNOX BEAUTY COLLEGE",
+  "institution": "Knox Beauty College",
   "city": "Knox",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 151564,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 1632,
-  "default_rate": 21.4,
-  "avg_stu_loan_debt": 7013,
-  "avg_stu_loan_debt_rank": 1148,
-  "indicator_group": 5
+  "grad_rate": 30.0,
+  "grad_rate_rank": 2200,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 5391,
+  "avg_stu_loan_debt_rank": 297,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46534",
+  "email": false
 }

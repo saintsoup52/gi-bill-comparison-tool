@@ -1,6 +1,6 @@
 {
   "facility_code": "18573535",
-  "institution": "POLARIS CAREER CENTER (31)",
+  "institution": "Polaris Career Center (31)",
   "city": "Middleburg Hts",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 390905,
-  "grad_rate": 92.1,
-  "grad_rate_rank": 204,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 793,
-  "indicator_group": 5
+  "grad_rate": 95.0,
+  "grad_rate_rank": 147,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 6000,
+  "avg_stu_loan_debt_rank": 410,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44130",
+  "email": "No (SCO)"
 }

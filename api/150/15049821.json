@@ -1,6 +1,6 @@
 {
   "facility_code": "15049821",
-  "institution": "BAY PATH REGIONAL VOCATIONAL TECHNICAL HIGH SCHOOL",
+  "institution": "Bay Path Regional Vocational Technical High School",
   "city": "Charlton",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1507",
+  "email": true
 }

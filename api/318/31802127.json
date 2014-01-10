@@ -1,6 +1,6 @@
 {
   "facility_code": "31802127",
-  "institution": "COLLEGE OF SAINT MARY - OMAHA",
+  "institution": "College Of Saint Mary - Omaha",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 181604,
-  "grad_rate": 30.4,
-  "grad_rate_rank": 1491,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 20751,
-  "avg_stu_loan_debt_rank": 1507,
-  "indicator_group": 1
+  "grad_rate": 33.7,
+  "grad_rate_rank": 1418,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 22194,
+  "avg_stu_loan_debt_rank": 1443,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68106",
+  "email": false
 }

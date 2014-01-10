@@ -1,6 +1,6 @@
 {
   "facility_code": "14992405",
-  "institution": "BAKERSFIELD COLLEGE",
+  "institution": "Bakersfield College",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 287,
   "cross": 109819,
-  "grad_rate": 19.1,
-  "grad_rate_rank": 893,
-  "default_rate": 26.6,
-  "avg_stu_loan_debt": 6855,
-  "avg_stu_loan_debt_rank": 535,
-  "indicator_group": 2
+  "grad_rate": 19.7,
+  "grad_rate_rank": 644,
+  "default_rate": 30.0,
+  "avg_stu_loan_debt": 8217,
+  "avg_stu_loan_debt_rank": 249,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "93305",
+  "email": false
 }

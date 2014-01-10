@@ -1,6 +1,6 @@
 {
   "facility_code": "20119345",
-  "institution": "JORDAN MILTON MACHINERY INC",
+  "institution": "Jordan Milton Machinery Inc",
   "city": "Montpelier",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5601",
+  "email": "No (SCO)"
 }

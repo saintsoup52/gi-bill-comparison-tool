@@ -1,6 +1,6 @@
 {
   "facility_code": "31864122",
-  "institution": "BAKER COLLEGE - FLINT",
+  "institution": "Baker College - Flint",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 192,
   "cross": 168847,
-  "grad_rate": 10.6,
-  "grad_rate_rank": 1189,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 10120,
-  "avg_stu_loan_debt_rank": 856,
-  "indicator_group": 2
+  "grad_rate": 13.5,
+  "grad_rate_rank": 1183,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 11394,
+  "avg_stu_loan_debt_rank": 819,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48507",
+  "email": true
 }

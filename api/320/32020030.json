@@ -1,6 +1,6 @@
 {
   "facility_code": "32020030",
-  "institution": "JFK JOHNSON REHABILITATION INSTITUTE",
+  "institution": "Jfk Johnson Rehabilitation Institute",
   "city": "Edison",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8818",
+  "email": true
 }

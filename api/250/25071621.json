@@ -1,6 +1,6 @@
 {
   "facility_code": "25071621",
-  "institution": "KAY HARVEY HAIRDRESSING ACADEMY",
+  "institution": "Kay Harvey Hairdressing Academy",
   "city": "West Springfield",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 166294,
-  "grad_rate": 74.8,
-  "grad_rate_rank": 942,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 26.2,
+  "grad_rate_rank": 2219,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 5700,
+  "avg_stu_loan_debt_rank": 379,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1089",
+  "email": true
 }

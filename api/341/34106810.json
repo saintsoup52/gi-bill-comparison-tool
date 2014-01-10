@@ -1,6 +1,6 @@
 {
   "facility_code": "34106810",
-  "institution": "WEBBER INTERNATIONAL UNIVERSITY",
+  "institution": "Webber International University",
   "city": "Babson Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 138293,
-  "grad_rate": 32.4,
-  "grad_rate_rank": 1439,
-  "default_rate": 18.0,
-  "avg_stu_loan_debt": 12250,
-  "avg_stu_loan_debt_rank": 475,
-  "indicator_group": 1
+  "grad_rate": 33.3,
+  "grad_rate_rank": 1432,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 10750,
+  "avg_stu_loan_debt_rank": 190,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33827",
+  "email": true
 }

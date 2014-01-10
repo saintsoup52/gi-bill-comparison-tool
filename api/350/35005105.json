@@ -1,6 +1,6 @@
 {
   "facility_code": "35005105",
-  "institution": "CENTER FOR EMPLOYMENT TRAINING (CH 31)",
+  "institution": "Center For Employment Training (Ch 31)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 111708,
-  "grad_rate": 82.8,
-  "grad_rate_rank": 511,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 4175,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 5
+  "grad_rate": 72.2,
+  "grad_rate_rank": 1062,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 262,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92102",
+  "email": false
 }

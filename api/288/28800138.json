@@ -1,6 +1,6 @@
 {
   "facility_code": "28800138",
-  "institution": "EMPIRE BEAUTY SCHOOL (WYOMING VALLEY)",
+  "institution": "Empire Beauty School (Wyoming Valley)",
   "city": "Moosic",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 212355,
-  "grad_rate": 67.9,
-  "grad_rate_rank": 1254,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 11369,
-  "avg_stu_loan_debt_rank": 2261,
-  "indicator_group": 5
+  "grad_rate": 64.3,
+  "grad_rate_rank": 1455,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 11025,
+  "avg_stu_loan_debt_rank": 1613,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "18507",
+  "email": true
 }

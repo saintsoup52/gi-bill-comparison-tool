@@ -1,6 +1,6 @@
 {
   "facility_code": "10016712",
-  "institution": "CUSTER COUNTY SHERIFF'S OFFICE",
+  "institution": "Custer County Sheriff'S Office",
   "city": "Challis",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83226",
+  "email": false
 }

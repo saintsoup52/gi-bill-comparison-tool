@@ -1,6 +1,6 @@
 {
   "facility_code": "28022948",
-  "institution": "CLARKSBURG BEAUTY ACADEMY & SCHOOL OF MASSAGE THERAPY",
+  "institution": "Clarksburg Beauty Academy & School Of Massage Therapy",
   "city": "Clarksburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 237321,
-  "grad_rate": 50.9,
-  "grad_rate_rank": 1899,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 58.3,
+  "grad_rate_rank": 1696,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 7919,
+  "avg_stu_loan_debt_rank": 810,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26301",
+  "email": false
 }

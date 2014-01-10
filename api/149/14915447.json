@@ -1,6 +1,6 @@
 {
   "facility_code": "14915447",
-  "institution": "SPOKANE COMMUNITY COLLEGE",
+  "institution": "Spokane Community College",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 576,
   "cross": 236692,
-  "grad_rate": 26.3,
-  "grad_rate_rank": 645,
-  "default_rate": 17.3,
-  "avg_stu_loan_debt": 8585,
-  "avg_stu_loan_debt_rank": 689,
-  "indicator_group": 2
+  "grad_rate": 22.4,
+  "grad_rate_rank": 868,
+  "default_rate": 24.7,
+  "avg_stu_loan_debt": 8414,
+  "avg_stu_loan_debt_rank": 577,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "99217",
+  "email": true
 }

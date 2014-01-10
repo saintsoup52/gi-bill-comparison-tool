@@ -1,6 +1,6 @@
 {
   "facility_code": "31013638",
-  "institution": "NEUMANN UNIVERSITY",
+  "institution": "Neumann University",
   "city": "Aston",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 50,
   "cross": 214272,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 692,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 22399,
-  "avg_stu_loan_debt_rank": 1689,
-  "indicator_group": 1
+  "grad_rate": 51.1,
+  "grad_rate_rank": 863,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19014",
+  "email": true
 }

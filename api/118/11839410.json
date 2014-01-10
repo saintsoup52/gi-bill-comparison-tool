@@ -1,6 +1,6 @@
 {
   "facility_code": "11839410",
-  "institution": "MIAMI-DADE COLLEGE INTERAMERICAN CAMPUS",
+  "institution": "Miami-Dade College Interamerican Campus",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 116,
   "cross": 135717,
-  "grad_rate": 24.6,
-  "grad_rate_rank": 704,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 6625,
-  "avg_stu_loan_debt_rank": 511,
-  "indicator_group": 2
+  "grad_rate": 30.7,
+  "grad_rate_rank": 618,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 498,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33135",
+  "email": true
 }

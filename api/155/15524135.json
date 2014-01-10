@@ -1,6 +1,6 @@
 {
   "facility_code": "15524135",
-  "institution": "AKRON SCHOOL OF PRACTICAL NURSING",
+  "institution": "Akron School Of Practical Nursing",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 200828,
-  "grad_rate": 62.3,
-  "grad_rate_rank": 1506,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 72.4,
+  "grad_rate_rank": 1059,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44320",
+  "email": false
 }

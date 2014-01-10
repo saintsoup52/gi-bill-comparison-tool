@@ -1,6 +1,6 @@
 {
   "facility_code": "15048236",
-  "institution": "STILWELL HIGH SCHOOL",
+  "institution": "Stilwell High School",
   "city": "Stilwell",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74960",
+  "email": false
 }

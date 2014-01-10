@@ -1,6 +1,6 @@
 {
   "facility_code": "13000327",
-  "institution": "PERU STATE COLLEGE",
+  "institution": "Peru State College",
   "city": "Peru",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 67,
   "cross": 181534,
-  "grad_rate": 25.8,
-  "grad_rate_rank": 1576,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 11923,
-  "avg_stu_loan_debt_rank": 426,
-  "indicator_group": 1
+  "grad_rate": 34.8,
+  "grad_rate_rank": 1395,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 12888,
+  "avg_stu_loan_debt_rank": 353,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68421",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25024542",
-  "institution": "NEW CONCEPTS SCHOOL OF COSMETOLOGY",
+  "institution": "New Concepts School Of Cosmetology",
   "city": "Cleveland",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 221980,
-  "grad_rate": 60.9,
-  "grad_rate_rank": 1552,
-  "default_rate": 30.7,
-  "avg_stu_loan_debt": 4000,
-  "avg_stu_loan_debt_rank": 674,
-  "indicator_group": 5
+  "grad_rate": 62.5,
+  "grad_rate_rank": 1533,
+  "default_rate": 19.4,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37311",
+  "email": false
 }

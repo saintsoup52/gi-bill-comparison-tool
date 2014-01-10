@@ -1,6 +1,6 @@
 {
   "facility_code": "31945138",
-  "institution": "ALBRIGHT COLLEGE",
+  "institution": "Albright College",
   "city": "Reading",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 53,
   "cross": 210571,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 562,
-  "default_rate": 5.1,
-  "avg_stu_loan_debt": 24764,
-  "avg_stu_loan_debt_rank": 1907,
-  "indicator_group": 1
+  "grad_rate": 52.6,
+  "grad_rate_rank": 816,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 24250,
+  "avg_stu_loan_debt_rank": 1660,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19612",
+  "email": true
 }

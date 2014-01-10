@@ -1,6 +1,6 @@
 {
   "facility_code": "31004838",
-  "institution": "WASHINGTON AND JEFFERSON COLLEGE",
+  "institution": "Washington And Jefferson College",
   "city": "Washington",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 216667,
-  "grad_rate": 73.8,
-  "grad_rate_rank": 243,
-  "default_rate": 3.3,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 74.4,
+  "grad_rate_rank": 241,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15301",
+  "email": true
 }

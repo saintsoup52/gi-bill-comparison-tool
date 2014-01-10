@@ -1,6 +1,6 @@
 {
   "facility_code": "11816121",
-  "institution": "UNIVERSITY OF MASSACHUSETTS/AMHERST",
+  "institution": "University Of Massachusetts/Amherst",
   "city": "Amherst",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 427,
   "cross": 166629,
-  "grad_rate": 67.4,
-  "grad_rate_rank": 368,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 19680,
-  "avg_stu_loan_debt_rank": 1334,
-  "indicator_group": 1
+  "grad_rate": 70.4,
+  "grad_rate_rank": 309,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1003",
+  "email": true
 }

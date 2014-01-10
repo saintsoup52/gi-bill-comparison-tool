@@ -1,6 +1,6 @@
 {
   "facility_code": "14930646",
-  "institution": "LORD FAIRFAX COMMUNITY COLLEGE-FAUQUIER",
+  "institution": "Lord Fairfax Community College-Fauquier",
   "city": "Warrenton",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 232575,
-  "grad_rate": 25.7,
-  "grad_rate_rank": 376,
+  "grad_rate": 25.2,
+  "grad_rate_rank": 590,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4362,
-  "avg_stu_loan_debt_rank": 143,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 51,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "20187",
+  "email": true
 }

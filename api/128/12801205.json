@@ -1,6 +1,6 @@
 {
   "facility_code": "12801205",
-  "institution": "SAN DIEGO ARTHROSCOPY & SPORTS MEDICINE FELLOWSHIP PROGRAM",
+  "institution": "San Diego Arthroscopy & Sports Medicine Fellowship Program",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92190",
+  "email": false
 }

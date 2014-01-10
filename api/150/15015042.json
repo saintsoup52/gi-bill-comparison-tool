@@ -1,6 +1,6 @@
 {
   "facility_code": "15015042",
-  "institution": "KNOXVILLE POLICE DEPARTMENT LAW ENFORCEMENT TRAINING ACADEMY",
+  "institution": "Knoxville Police Department Law Enforcement Training Academy",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37921",
+  "email": true
 }

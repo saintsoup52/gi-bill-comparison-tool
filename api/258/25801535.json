@@ -1,6 +1,6 @@
 {
   "facility_code": "25801535",
-  "institution": "MOLER-PICKENS BEAUTY COLLEGE",
+  "institution": "Moler-Pickens Beauty College",
   "city": "Fairfield",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 250902,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 8251,
-  "avg_stu_loan_debt_rank": 1434,
-  "indicator_group": 5
+  "grad_rate": 67.4,
+  "grad_rate_rank": 1311,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 6459,
+  "avg_stu_loan_debt_rank": 530,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45014",
+  "email": false
 }

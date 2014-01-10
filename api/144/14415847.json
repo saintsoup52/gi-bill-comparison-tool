@@ -1,6 +1,6 @@
 {
   "facility_code": "14415847",
-  "institution": "PIERCE COLLEGE - PUYALLUP",
+  "institution": "Pierce College - Puyallup",
   "city": "Puyallup",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 489,
   "cross": 439145,
-  "grad_rate": 19.2,
-  "grad_rate_rank": 888,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 602,
-  "indicator_group": 2
+  "grad_rate": 24.4,
+  "grad_rate_rank": 806,
+  "default_rate": 13.2,
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 548,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98374",
+  "email": true
 }

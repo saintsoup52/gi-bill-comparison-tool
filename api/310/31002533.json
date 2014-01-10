@@ -1,6 +1,6 @@
 {
   "facility_code": "31002533",
-  "institution": "HERITAGE BIBLE COLLEGE",
+  "institution": "Heritage Bible College",
   "city": "Dunn",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 198677,
-  "grad_rate": 18.2,
-  "grad_rate_rank": 1693,
-  "default_rate": 23.0,
-  "avg_stu_loan_debt": 11675,
-  "avg_stu_loan_debt_rank": 341,
-  "indicator_group": 1
+  "grad_rate": 5.6,
+  "grad_rate_rank": 1853,
+  "default_rate": 29.4,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 508,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28335",
+  "email": true
 }

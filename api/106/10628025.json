@@ -1,6 +1,6 @@
 {
   "facility_code": "10628025",
-  "institution": "CHRISTIAN COUNTY SHERIFF'S DEPARTMENT",
+  "institution": "Christian County Sheriff'S Department",
   "city": "Ozark",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65721",
+  "email": false
 }

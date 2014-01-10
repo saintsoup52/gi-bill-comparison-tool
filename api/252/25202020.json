@@ -1,6 +1,6 @@
 {
   "facility_code": "25202020",
-  "institution": "DIGITAL CORPORATION (CHAPTER 31 ONLY)",
+  "institution": "Digital Corporation (Chapter 31 Only)",
   "city": "Silver Spring",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20910",
+  "email": false
 }

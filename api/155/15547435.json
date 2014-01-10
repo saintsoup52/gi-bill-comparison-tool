@@ -1,6 +1,6 @@
 {
   "facility_code": "15547435",
-  "institution": "PENTA COUNTY CAREER CENTER",
+  "institution": "Penta County Career Center",
   "city": "Perrysburg",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 418199,
-  "grad_rate": 92.9,
-  "grad_rate_rank": 185,
+  "grad_rate": 82.1,
+  "grad_rate_rank": 550,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43551",
+  "email": false
 }

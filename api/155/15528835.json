@@ -1,6 +1,6 @@
 {
   "facility_code": "15528835",
-  "institution": "ADULT AND COMMUNITY EDUCATION",
+  "institution": "Adult And Community Education",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 203030,
-  "grad_rate": 73.8,
-  "grad_rate_rank": 980,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 8996,
-  "avg_stu_loan_debt_rank": 1569,
-  "indicator_group": 5
+  "grad_rate": 69.7,
+  "grad_rate_rank": 1196,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 11375,
+  "avg_stu_loan_debt_rank": 1630,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43211",
+  "email": false
 }

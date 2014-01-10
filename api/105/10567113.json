@@ -1,6 +1,6 @@
 {
   "facility_code": "10567113",
-  "institution": "ILLINOIS DEPARTMENT OF CORRECTION-SOUTHWESTERN",
+  "institution": "Illinois Department Of Correction-Southwestern",
   "city": "East St. Louis",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62203",
+  "email": false
 }

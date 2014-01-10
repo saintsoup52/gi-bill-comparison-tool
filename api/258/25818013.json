@@ -1,6 +1,6 @@
 {
   "facility_code": "25818013",
-  "institution": "SILK N CLASSY BARBER COLLEGE",
+  "institution": "Silk N Classy Barber College",
   "city": "Dolton",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60419",
+  "email": false
 }

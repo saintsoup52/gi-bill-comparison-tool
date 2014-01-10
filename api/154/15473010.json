@@ -1,6 +1,6 @@
 {
   "facility_code": "15473010",
-  "institution": "ALDEN ROAD EXCEPTIONAL STUDENT CENTER - CHPT 31 ONLY",
+  "institution": "Alden Road Exceptional Student Center - Chpt 31 Only",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32246",
+  "email": false
 }

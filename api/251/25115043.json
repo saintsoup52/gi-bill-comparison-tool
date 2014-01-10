@@ -1,6 +1,6 @@
 {
   "facility_code": "25115043",
-  "institution": "DENTAL CAREER CENTER OF TEXAS",
+  "institution": "Dental Career Center Of Texas",
   "city": "Rockport",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78382",
+  "email": false
 }

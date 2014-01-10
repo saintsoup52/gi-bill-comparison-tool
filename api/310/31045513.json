@@ -1,6 +1,6 @@
 {
   "facility_code": "31045513",
-  "institution": "LEXINGTON COLLEGE",
+  "institution": "Lexington College",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 146621,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 23.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 41.2,
+  "grad_rate_rank": 1206,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 29,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60607",
+  "email": true
 }

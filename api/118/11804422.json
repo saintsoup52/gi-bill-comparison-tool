@@ -1,6 +1,6 @@
 {
   "facility_code": "11804422",
-  "institution": "UNIVERSITY OF MICHIGAN DEARBORN",
+  "institution": "University Of Michigan Dearborn",
   "city": "Dearborn",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 170,
   "cross": 171137,
-  "grad_rate": 49.2,
-  "grad_rate_rank": 922,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 16125,
-  "avg_stu_loan_debt_rank": 853,
-  "indicator_group": 1
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 15600,
+  "avg_stu_loan_debt_rank": 590,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48128",
+  "email": true
 }

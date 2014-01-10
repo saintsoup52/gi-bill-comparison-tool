@@ -1,6 +1,6 @@
 {
   "facility_code": "20C63649",
-  "institution": "BECK'S SHOE REPAIR (CH31 ONLY)",
+  "institution": "Beck'S Shoe Repair (Ch31 Only)",
   "city": "Hayward",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54847",
+  "email": "No (SCO)"
 }

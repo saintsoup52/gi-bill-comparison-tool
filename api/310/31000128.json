@@ -1,6 +1,6 @@
 {
   "facility_code": "31000128",
-  "institution": "LOYOLA'S INSTITUTE FOR MINISTRY (CH31)",
+  "institution": "Loyola'S Institute For Ministry (Ch31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89109",
+  "email": false
 }

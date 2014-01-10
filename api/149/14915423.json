@@ -1,6 +1,6 @@
 {
   "facility_code": "14915423",
-  "institution": "ALEXANDRIA TECHNICAL COLL",
+  "institution": "Alexandria Technical Coll",
   "city": "Alexandria",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 135,
   "cross": 172918,
-  "grad_rate": 55.9,
-  "grad_rate_rank": 171,
-  "default_rate": 10.3,
+  "grad_rate": 52.0,
+  "grad_rate_rank": 380,
+  "default_rate": 11.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "56308",
+  "email": false
 }

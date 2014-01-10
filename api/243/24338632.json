@@ -1,6 +1,6 @@
 {
   "facility_code": "24338632",
-  "institution": "ISLAND DRAFTING & TECHNICAL INSTITUTE",
+  "institution": "Island Drafting & Technical Institute",
   "city": "Amityville",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 191959,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 36,
+  "grad_rate": 80.7,
+  "grad_rate_rank": 41,
   "default_rate": 10.2,
-  "avg_stu_loan_debt": 10095,
-  "avg_stu_loan_debt_rank": 855,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 846,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "11701",
+  "email": false
 }

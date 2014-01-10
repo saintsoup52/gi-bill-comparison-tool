@@ -1,6 +1,6 @@
 {
   "facility_code": "15471210",
-  "institution": "TAMPA BAY TECH",
+  "institution": "Tampa Bay Tech",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 369419,
-  "grad_rate": 84.5,
-  "grad_rate_rank": 451,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 4125,
-  "avg_stu_loan_debt_rank": 689,
-  "indicator_group": 5
+  "grad_rate": 65.2,
+  "grad_rate_rank": 1419,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 3062,
+  "avg_stu_loan_debt_rank": 53,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33610",
+  "email": false
 }

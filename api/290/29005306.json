@@ -1,6 +1,6 @@
 {
   "facility_code": "29005306",
-  "institution": "CENTER FOR PERSONALIZED EDUCATION FOR PHYSICIANS",
+  "institution": "Center For Personalized Education For Physicians",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80230",
+  "email": false
 }

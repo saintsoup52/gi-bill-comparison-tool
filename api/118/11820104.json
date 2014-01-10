@@ -1,6 +1,6 @@
 {
   "facility_code": "11820104",
-  "institution": "ARKANSAS STATE UNIVERSITY-JONESBORO",
+  "institution": "Arkansas State University-Jonesboro",
   "city": "State University",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 586,
   "cross": 106458,
-  "grad_rate": 38.0,
-  "grad_rate_rank": 1300,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 39.1,
+  "grad_rate_rank": 1281,
+  "default_rate": 18.9,
+  "avg_stu_loan_debt": 14272,
+  "avg_stu_loan_debt_rank": 471,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72467",
+  "email": false
 }

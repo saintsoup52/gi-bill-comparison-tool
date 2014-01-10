@@ -1,6 +1,6 @@
 {
   "facility_code": "20063238",
-  "institution": "CARPENTERS JATC OF GREATER PA - KEYSTONE",
+  "institution": "Carpenters Jatc Of Greater Pa - Keystone",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15205",
+  "email": false
 }

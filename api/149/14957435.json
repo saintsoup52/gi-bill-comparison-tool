@@ -1,6 +1,6 @@
 {
   "facility_code": "14957435",
-  "institution": "LAKELAND COMMUNITY COLLEGE",
+  "institution": "Lakeland Community College",
   "city": "Kirtland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 303,
   "cross": 203599,
-  "grad_rate": 13.1,
-  "grad_rate_rank": 1094,
-  "default_rate": 20.3,
-  "avg_stu_loan_debt": 8004,
-  "avg_stu_loan_debt_rank": 650,
-  "indicator_group": 2
+  "grad_rate": 8.0,
+  "grad_rate_rank": 1338,
+  "default_rate": 22.1,
+  "avg_stu_loan_debt": 7715,
+  "avg_stu_loan_debt_rank": 531,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44094",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20496217",
-  "institution": "EAGLE ELECTRICAL CONTRACTORS   LLC",
+  "institution": "Eagle Electrical Contractors   Llc",
   "city": "Hazard",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41701",
+  "email": false
 }

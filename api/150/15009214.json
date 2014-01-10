@@ -1,6 +1,6 @@
 {
   "facility_code": "15009214",
-  "institution": "TUCKER CAREER AND TECHNOLOGY CENTER MARION COMMUNITY SCHOOL OF PRACT. NURSING",
+  "institution": "Tucker Career And Technology Center Marion Community School Of Pract. Nursing",
   "city": "Marion",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 419262,
-  "grad_rate": 66.0,
-  "grad_rate_rank": 1356,
-  "default_rate": 19.4,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 1064,
-  "indicator_group": 5
+  "grad_rate": 62.0,
+  "grad_rate_rank": 1553,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46952",
+  "email": true
 }

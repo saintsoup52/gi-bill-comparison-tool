@@ -1,6 +1,6 @@
 {
   "facility_code": "31001016",
-  "institution": "FRIENDS UNIVERSITY",
+  "institution": "Friends University",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 161,
   "cross": 155089,
-  "grad_rate": 26.8,
-  "grad_rate_rank": 1558,
-  "default_rate": 11.2,
-  "avg_stu_loan_debt": 19250,
-  "avg_stu_loan_debt_rank": 1281,
-  "indicator_group": 1
+  "grad_rate": 32.5,
+  "grad_rate_rank": 1462,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 19375,
+  "avg_stu_loan_debt_rank": 1109,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67213",
+  "email": false
 }

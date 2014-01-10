@@ -1,6 +1,6 @@
 {
   "facility_code": "25832905",
-  "institution": "WESTMORE ACADEMY OF COSMETIC ARTS  (CHAPTER 31)",
+  "institution": "Westmore Academy Of Cosmetic Arts  (Chapter 31)",
   "city": "Sherman Oaks",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91403",
+  "email": false
 }

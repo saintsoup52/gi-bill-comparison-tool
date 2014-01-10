@@ -1,6 +1,6 @@
 {
   "facility_code": "31913132",
-  "institution": "IONA COLLEGE",
+  "institution": "Iona College",
   "city": "New Rochelle",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 20,
   "cross": 191931,
-  "grad_rate": 57.5,
-  "grad_rate_rank": 635,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 64.7,
+  "grad_rate_rank": 439,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 23250,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10801",
+  "email": true
 }

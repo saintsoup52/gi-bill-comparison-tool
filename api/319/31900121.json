@@ -1,6 +1,6 @@
 {
   "facility_code": "31900121",
-  "institution": "NORTHPOINT BIBLE COLLEGE",
+  "institution": "Northpoint Bible College",
   "city": "Haverhill",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 217606,
-  "grad_rate": 67.6,
-  "grad_rate_rank": 364,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 13250,
-  "avg_stu_loan_debt_rank": 572,
-  "indicator_group": 1
+  "grad_rate": 54.8,
+  "grad_rate_rank": 747,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 15925,
+  "avg_stu_loan_debt_rank": 616,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1835",
+  "email": true
 }

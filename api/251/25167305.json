@@ -1,6 +1,6 @@
 {
   "facility_code": "25167305",
-  "institution": "CINTA AVEDA INSTITUTE",
+  "institution": "Cinta Aveda Institute",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 461829,
-  "grad_rate": 95.4,
-  "grad_rate_rank": 126,
-  "default_rate": null,
+  "grad_rate": 96.6,
+  "grad_rate_rank": 118,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94108",
+  "email": false
 }

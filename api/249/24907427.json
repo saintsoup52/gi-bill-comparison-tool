@@ -1,6 +1,6 @@
 {
   "facility_code": "24907427",
-  "institution": "MYOTHERAPY INSTITUTE INC.",
+  "institution": "Myotherapy Institute Inc.",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 434432,
-  "grad_rate": 81.5,
-  "grad_rate_rank": 29,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 9534,
-  "avg_stu_loan_debt_rank": 831,
-  "indicator_group": 2
+  "grad_rate": 87.0,
+  "grad_rate_rank": 18,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": 10044,
+  "avg_stu_loan_debt_rank": 743,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "68506",
+  "email": false
 }

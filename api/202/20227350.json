@@ -1,6 +1,6 @@
 {
   "facility_code": "20227350",
-  "institution": "BIG HORN BASIN TIRES AND OFFROAD INC.",
+  "institution": "Big Horn Basin Tires And Offroad Inc.",
   "city": "Worland",
   "state": "WY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "82401",
+  "email": true
 }

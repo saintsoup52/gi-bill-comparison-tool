@@ -1,6 +1,6 @@
 {
   "facility_code": "25537905",
-  "institution": "CALIFORNIA CAREER SCHOOL",
+  "institution": "California Career School",
   "city": "Anaheim",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 79,
   "cross": 262402,
-  "grad_rate": 84.2,
-  "grad_rate_rank": 457,
-  "default_rate": 50.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 82.9,
+  "grad_rate_rank": 527,
+  "default_rate": 28.5,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92805",
+  "email": false
 }

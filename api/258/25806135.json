@@ -1,6 +1,6 @@
 {
   "facility_code": "25806135",
-  "institution": "RAPHAEL'S SCHOOL OF BEAUTY CULTURE INC.-BRUNSWICK",
+  "institution": "Raphael'S School Of Beauty Culture Inc.-Brunswick",
   "city": "Brunswick",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 363882,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 82.1,
+  "grad_rate_rank": 550,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 5850,
+  "avg_stu_loan_debt_rank": 399,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44212",
+  "email": false
 }

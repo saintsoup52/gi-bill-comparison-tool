@@ -1,6 +1,6 @@
 {
   "facility_code": "119A5110",
-  "institution": "INDIAN RIVER STATE COLLEGE",
+  "institution": "Indian River State College",
   "city": "Ft Pierce",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 646,
   "cross": 134608,
-  "grad_rate": 38.8,
-  "grad_rate_rank": 352,
-  "default_rate": 21.3,
-  "avg_stu_loan_debt": 4588,
-  "avg_stu_loan_debt_rank": 234,
-  "indicator_group": 2
+  "grad_rate": 41.3,
+  "grad_rate_rank": 392,
+  "default_rate": 23.3,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "34981",
+  "email": true
 }

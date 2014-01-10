@@ -1,6 +1,6 @@
 {
   "facility_code": "25094521",
-  "institution": "PETERSON SCHOOL WESTWOOD MA",
+  "institution": "Peterson School Westwood Ma",
   "city": "Westwood",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2090",
+  "email": true
 }

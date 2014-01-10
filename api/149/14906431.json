@@ -1,6 +1,6 @@
 {
   "facility_code": "14906431",
-  "institution": "SAN JUAN COLLEGE",
+  "institution": "San Juan College",
   "city": "Farmington",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 243,
   "cross": 188100,
-  "grad_rate": 13.5,
-  "grad_rate_rank": 1083,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 6822,
-  "avg_stu_loan_debt_rank": 531,
-  "indicator_group": 2
+  "grad_rate": 16.0,
+  "grad_rate_rank": 1078,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "87402",
+  "email": true
 }

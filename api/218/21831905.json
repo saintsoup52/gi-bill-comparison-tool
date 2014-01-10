@@ -1,6 +1,6 @@
 {
   "facility_code": "21831905",
-  "institution": "ITT TECHNICAL INSTITUTE (ORANGE)",
+  "institution": "Itt Technical Institute (Orange)",
   "city": "Orange",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 224,
   "cross": 116484,
-  "grad_rate": 46.0,
-  "grad_rate_rank": 264,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 33.3,
+  "grad_rate_rank": 539,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92868",
+  "email": false
 }

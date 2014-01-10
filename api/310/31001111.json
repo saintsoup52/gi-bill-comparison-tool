@@ -1,6 +1,6 @@
 {
   "facility_code": "31001111",
-  "institution": "PIEDMONT COLLEGE",
+  "institution": "Piedmont College",
   "city": "Demorest",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 50,
   "cross": 140818,
-  "grad_rate": 46.5,
-  "grad_rate_rank": 1003,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 17543,
-  "avg_stu_loan_debt_rank": 1036,
-  "indicator_group": 1
+  "grad_rate": 51.7,
+  "grad_rate_rank": 840,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 16713,
+  "avg_stu_loan_debt_rank": 771,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30535",
+  "email": true
 }

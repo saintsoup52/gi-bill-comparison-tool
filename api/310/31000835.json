@@ -1,6 +1,6 @@
 {
   "facility_code": "31000835",
-  "institution": "COLLEGE OF MOUNT ST. JOSEPH",
+  "institution": "College Of Mount St. Joseph",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 97,
   "cross": 204200,
-  "grad_rate": 59.2,
-  "grad_rate_rank": 586,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 19932,
-  "avg_stu_loan_debt_rank": 1390,
-  "indicator_group": 1
+  "grad_rate": 57.6,
+  "grad_rate_rank": 646,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45233",
+  "email": true
 }

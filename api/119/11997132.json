@@ -1,6 +1,6 @@
 {
   "facility_code": "11997132",
-  "institution": "SUNY BINGHAMTON UNIVERSITY",
+  "institution": "Suny Binghamton University",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 102,
   "cross": 196079,
-  "grad_rate": 77.0,
-  "grad_rate_rank": 196,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 19447,
-  "avg_stu_loan_debt_rank": 1300,
-  "indicator_group": 1
+  "grad_rate": 79.4,
+  "grad_rate_rank": 168,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 20187,
+  "avg_stu_loan_debt_rank": 1214,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13902",
+  "email": true
 }

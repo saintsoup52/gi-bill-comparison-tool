@@ -1,6 +1,6 @@
 {
   "facility_code": "30A44404",
-  "institution": "CENTRAL ARKANSAS JATC FOR PLUMBERS",
+  "institution": "Central Arkansas Jatc For Plumbers",
   "city": "Mayflower",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72106",
+  "email": false
 }

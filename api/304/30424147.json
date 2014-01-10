@@ -1,6 +1,6 @@
 {
   "facility_code": "30424147",
-  "institution": "NW MEDICAL INTERNATIONAL/MOBILE DENTAL HEALTH NPWE/CH 31 ONLY",
+  "institution": "Nw Medical International/Mobile Dental Health Npwe/Ch 31 Only",
   "city": "Bellevue",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98004",
+  "email": false
 }

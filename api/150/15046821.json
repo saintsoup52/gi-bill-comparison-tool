@@ -1,6 +1,6 @@
 {
   "facility_code": "15046821",
-  "institution": "DIMAN REGIONAL SCHOOL OF PRACTICAL NURSING",
+  "institution": "Diman Regional School Of Practical Nursing",
   "city": "Fall River",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 165608,
-  "grad_rate": 58.1,
-  "grad_rate_rank": 1664,
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2723",
+  "email": false
 }

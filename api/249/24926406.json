@@ -1,6 +1,6 @@
 {
   "facility_code": "24926406",
-  "institution": "PIMA MEDICAL INSTITUTE - DENVER",
+  "institution": "Pima Medical Institute - Denver",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 48,
   "cross": 404912,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 70.5,
+  "grad_rate_rank": 170,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 9227,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80221",
+  "email": true
 }

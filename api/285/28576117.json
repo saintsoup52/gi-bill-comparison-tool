@@ -1,6 +1,6 @@
 {
   "facility_code": "28576117",
-  "institution": "EMPIRE BEAUTY SCHOOL-LOUISVILLE CHENOWETH LANE",
+  "institution": "Empire Beauty School-Louisville Chenoweth Lane",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 157614,
-  "grad_rate": 38.0,
-  "grad_rate_rank": 2086,
-  "default_rate": 18.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 39.6,
+  "grad_rate_rank": 2112,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40207",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001541",
-  "institution": "DAKOTA STATE UNIVERSITY",
+  "institution": "Dakota State University",
   "city": "Madison",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 148,
   "cross": 219082,
-  "grad_rate": 34.3,
-  "grad_rate_rank": 1381,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 14091,
-  "avg_stu_loan_debt_rank": 645,
-  "indicator_group": 1
+  "grad_rate": 41.9,
+  "grad_rate_rank": 1177,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 13652,
+  "avg_stu_loan_debt_rank": 413,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57042",
+  "email": false
 }

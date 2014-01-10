@@ -1,6 +1,6 @@
 {
   "facility_code": "11802118",
-  "institution": "LSU HEALTH SCIENCES CENTER - NEW ORLEANS",
+  "institution": "Lsu Health Sciences Center - New Orleans",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 35,
   "cross": 159373,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.8,
-  "avg_stu_loan_debt": 15695,
-  "avg_stu_loan_debt_rank": 803,
-  "indicator_group": 1
+  "default_rate": 1.2,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70112",
+  "email": false
 }

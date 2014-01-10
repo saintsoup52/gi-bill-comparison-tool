@@ -1,6 +1,6 @@
 {
   "facility_code": "20776018",
-  "institution": "COASTAL EQUIPMENT COMPANY",
+  "institution": "Coastal Equipment Company",
   "city": "Harvey",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70059",
+  "email": false
 }

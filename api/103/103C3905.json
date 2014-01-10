@@ -1,6 +1,6 @@
 {
   "facility_code": "103C3905",
-  "institution": "SOCIAL SECURITY ADMIN (VICTORVILLE)(CH31 ONLY)",
+  "institution": "Social Security Admin (Victorville)(Ch31 Only)",
   "city": "Victorville",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92392",
+  "email": false
 }

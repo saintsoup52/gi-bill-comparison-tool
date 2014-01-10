@@ -1,6 +1,6 @@
 {
   "facility_code": "10084518",
-  "institution": "ARMY CONTRACTING COMMAND",
+  "institution": "Army Contracting Command",
   "city": "Fort Polk",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71459",
+  "email": false
 }

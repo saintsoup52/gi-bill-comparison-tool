@@ -1,6 +1,6 @@
 {
   "facility_code": "18102030",
-  "institution": "MORRIS COUNTY VOCATIONAL TECHNICAL SCHOOL",
+  "institution": "Morris County Vocational Technical School",
   "city": "Denville",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 365763,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 443,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 5949,
+  "avg_stu_loan_debt_rank": 408,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7834",
+  "email": true
 }

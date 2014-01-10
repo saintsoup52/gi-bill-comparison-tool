@@ -1,6 +1,6 @@
 {
   "facility_code": "24000116",
-  "institution": "PINNACLE CAREER INSTITUTE",
+  "institution": "Pinnacle Career Institute",
   "city": "Lawrence",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 367097,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 62,
-  "default_rate": 4.6,
+  "grad_rate": 80.0,
+  "grad_rate_rank": 67,
+  "default_rate": 4.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "66046",
+  "email": true
 }

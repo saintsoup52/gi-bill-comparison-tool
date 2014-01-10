@@ -1,6 +1,6 @@
 {
   "facility_code": "11800126",
-  "institution": "UNIVERSITY OF MONTANA-MISSOULA",
+  "institution": "University Of Montana-Missoula",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 808,
   "cross": 180489,
-  "grad_rate": 47.3,
-  "grad_rate_rank": 979,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 15455,
-  "avg_stu_loan_debt_rank": 772,
-  "indicator_group": 1
+  "grad_rate": 49.3,
+  "grad_rate_rank": 922,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 16875,
+  "avg_stu_loan_debt_rank": 790,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59812",
+  "email": true
 }

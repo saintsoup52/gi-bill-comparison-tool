@@ -1,6 +1,6 @@
 {
   "facility_code": "32964535",
-  "institution": "TRINITY HEALTH SYSTEM SCHOOL OF NURSING",
+  "institution": "Trinity Health System School Of Nursing",
   "city": "Steubenville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 204893,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 14214,
-  "avg_stu_loan_debt_rank": 2450,
-  "indicator_group": 5
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 8976,
+  "avg_stu_loan_debt_rank": 989,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43952",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "29177003",
-  "institution": "ACTION REHAB INC. (CH31)",
+  "institution": "Action Rehab Inc. (Ch31)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85080",
+  "email": false
 }

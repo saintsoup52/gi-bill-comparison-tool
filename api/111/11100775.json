@@ -1,10 +1,10 @@
 {
   "facility_code": "11100775",
-  "institution": "ST. LAWRENCE COLLEGE",
+  "institution": "St. Lawrence College",
   "city": "Kingston",
   "state": "Canada",
   "country": "Canada",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 7,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

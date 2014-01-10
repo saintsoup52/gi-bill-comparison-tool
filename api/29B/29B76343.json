@@ -1,6 +1,6 @@
 {
   "facility_code": "29B76343",
-  "institution": "INTL FOUNDATN OF DOLL MAKERS CARE OF EDNAS DOLLS",
+  "institution": "Intl Foundatn Of Doll Makers Care Of Ednas Dolls",
   "city": "Tyler",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75703",
+  "email": "No (SCO)"
 }

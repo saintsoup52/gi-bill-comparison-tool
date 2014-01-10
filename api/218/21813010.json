@@ -1,6 +1,6 @@
 {
   "facility_code": "21813010",
-  "institution": "EVEREST UNIVERSITY - POMPANO BEACH",
+  "institution": "Everest University - Pompano Beach",
   "city": "Pompano Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 108,
   "cross": 134149,
-  "grad_rate": 25.1,
-  "grad_rate_rank": 383,
-  "default_rate": 26.8,
+  "grad_rate": 25.3,
+  "grad_rate_rank": 588,
+  "default_rate": 19.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33062",
+  "email": true
 }

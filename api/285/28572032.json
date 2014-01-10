@@ -1,6 +1,6 @@
 {
   "facility_code": "28572032",
-  "institution": "CAREER INSTITUTE OF HEALTH & TECHNOLOGY GARDEN CITY",
+  "institution": "Career Institute Of Health & Technology Garden City",
   "city": "Garden City",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 418162,
-  "grad_rate": 67.4,
-  "grad_rate_rank": 1275,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 6871,
-  "avg_stu_loan_debt_rank": 1122,
-  "indicator_group": 5
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
+  "default_rate": 29.1,
+  "avg_stu_loan_debt": 7297,
+  "avg_stu_loan_debt_rank": 670,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11530",
+  "email": false
 }

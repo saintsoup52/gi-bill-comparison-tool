@@ -1,6 +1,6 @@
 {
   "facility_code": "15100505",
-  "institution": "MT DIABLO ADULT EDUCATION",
+  "institution": "Mt Diablo Adult Education",
   "city": "Concord",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 382258,
-  "grad_rate": 70.8,
-  "grad_rate_rank": 1140,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 75.3,
+  "grad_rate_rank": 896,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94518",
+  "email": false
 }

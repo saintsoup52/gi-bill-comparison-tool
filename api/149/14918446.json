@@ -1,6 +1,6 @@
 {
   "facility_code": "14918446",
-  "institution": "RAPPAHANNOCK COMMUNITY COLLEGE",
+  "institution": "Rappahannock Community College",
   "city": "Glenns",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 107,
   "cross": 233310,
-  "grad_rate": 24.1,
-  "grad_rate_rank": 394,
+  "grad_rate": 22.4,
+  "grad_rate_rank": 617,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23149",
+  "email": true
 }

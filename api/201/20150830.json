@@ -1,6 +1,6 @@
 {
   "facility_code": "20150830",
-  "institution": "JOINT APPRENTICESHIP TRAINING COMMITTEE LOCAL UNION 456 IBEW",
+  "institution": "Joint Apprenticeship Training Committee Local Union 456 Ibew",
   "city": "North Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8902",
+  "email": false
 }

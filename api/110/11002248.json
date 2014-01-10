@@ -1,6 +1,6 @@
 {
   "facility_code": "11002248",
-  "institution": "SHEPHERD UNIVERSITY",
+  "institution": "Shepherd University",
   "city": "Shepherdstown",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 234,
   "cross": 237792,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 1013,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 14028,
-  "avg_stu_loan_debt_rank": 642,
-  "indicator_group": 1
+  "grad_rate": 43.5,
+  "grad_rate_rank": 1118,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 14403,
+  "avg_stu_loan_debt_rank": 478,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "25443",
+  "email": true
 }

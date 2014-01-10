@@ -1,6 +1,6 @@
 {
   "facility_code": "21013206",
-  "institution": "ASPEN UNIVERSITY",
+  "institution": "Aspen University",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 454829,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 6355,
-  "avg_stu_loan_debt_rank": 133,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 7316,
+  "avg_stu_loan_debt_rank": 85,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80246",
+  "email": true
 }

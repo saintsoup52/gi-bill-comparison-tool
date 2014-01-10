@@ -1,6 +1,6 @@
 {
   "facility_code": "21803105",
-  "institution": "WESTWOOD COLLEGE (LOS ANGELES)",
+  "institution": "Westwood College (Los Angeles)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 72,
   "cross": 122843,
-  "grad_rate": 15.4,
-  "grad_rate_rank": 1725,
+  "grad_rate": 23.6,
+  "grad_rate_rank": 1661,
   "default_rate": 22.6,
-  "avg_stu_loan_debt": 12899,
-  "avg_stu_loan_debt_rank": 545,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 18926,
+  "avg_stu_loan_debt_rank": 1047,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90010",
+  "email": false
 }

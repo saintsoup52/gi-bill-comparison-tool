@@ -1,6 +1,6 @@
 {
   "facility_code": "18516832",
-  "institution": "BOCES CATTARAUGUS ALLEGANY ERIE & WYOMING",
+  "institution": "Boces Cattaraugus Allegany Erie & Wyoming",
   "city": "Olean",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 417983,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 35.8,
-  "avg_stu_loan_debt": 8648,
-  "avg_stu_loan_debt_rank": 1510,
-  "indicator_group": 5
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 6280,
+  "avg_stu_loan_debt_rank": 442,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14760",
+  "email": true
 }

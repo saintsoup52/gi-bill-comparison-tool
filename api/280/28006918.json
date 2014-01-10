@@ -1,6 +1,6 @@
 {
   "facility_code": "28006918",
-  "institution": "PAT GOINS BEAUTY SCHOOL - RUSTON",
+  "institution": "Pat Goins Beauty School - Ruston",
   "city": "Ruston",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 160135,
-  "grad_rate": 71.9,
-  "grad_rate_rank": 1087,
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 4000,
-  "avg_stu_loan_debt_rank": 674,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 6200,
+  "avg_stu_loan_debt_rank": 435,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71270",
+  "email": false
 }

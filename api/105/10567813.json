@@ -1,6 +1,6 @@
 {
   "facility_code": "10567813",
-  "institution": "ILLINOIS YOUTH CENTER-CHICAGO",
+  "institution": "Illinois Youth Center-Chicago",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60612",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25101439",
-  "institution": "MOTORING TECHNICAL TRAINING INSTITUTE (MTTI)",
+  "institution": "Motoring Technical Training Institute (Mtti)",
   "city": "East Providence",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 479062,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 8550,
+  "avg_stu_loan_debt_rank": 909,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2914",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25595725",
-  "institution": "AMERICAN TRADE SCHOOL",
+  "institution": "American Trade School",
   "city": "St. Ann",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 461573,
-  "grad_rate": 77.1,
-  "grad_rate_rank": 812,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4862,
-  "avg_stu_loan_debt_rank": 779,
-  "indicator_group": 5
+  "grad_rate": 86.5,
+  "grad_rate_rank": 390,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 8025,
+  "avg_stu_loan_debt_rank": 828,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63074",
+  "email": true
 }

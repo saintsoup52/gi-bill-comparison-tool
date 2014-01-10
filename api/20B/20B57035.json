@@ -1,6 +1,6 @@
 {
   "facility_code": "20B57035",
-  "institution": "VITAL PRODUCTS   K",
+  "institution": "Vital Products   K",
   "city": "Maple Hts",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44137",
+  "email": "No (SCO)"
 }

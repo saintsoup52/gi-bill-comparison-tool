@@ -1,6 +1,6 @@
 {
   "facility_code": "11808011",
-  "institution": "VALDOSTA STATE UNIVERSITY",
+  "institution": "Valdosta State University",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 657,
   "cross": 141264,
-  "grad_rate": 43.0,
-  "grad_rate_rank": 1123,
-  "default_rate": 8.2,
-  "avg_stu_loan_debt": 16021,
-  "avg_stu_loan_debt_rank": 847,
-  "indicator_group": 1
+  "grad_rate": 40.7,
+  "grad_rate_rank": 1222,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31698",
+  "email": true
 }

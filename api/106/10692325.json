@@ -1,6 +1,6 @@
 {
   "facility_code": "10692325",
-  "institution": "FEDERAL AVIATION ADMINSTRATION - ST. CHARLES",
+  "institution": "Federal Aviation Adminstration - St. Charles",
   "city": "St. Charles",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63304",
+  "email": false
 }

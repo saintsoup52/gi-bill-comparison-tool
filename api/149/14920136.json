@@ -1,6 +1,6 @@
 {
   "facility_code": "14920136",
-  "institution": "NORTHEASTERN OKLAHOMA A&M COLLEGE",
+  "institution": "Northeastern Oklahoma A&M College",
   "city": "Miami",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 89,
   "cross": 207290,
-  "grad_rate": 24.4,
-  "grad_rate_rank": 709,
-  "default_rate": 24.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 20.4,
+  "grad_rate_rank": 927,
+  "default_rate": 25.5,
+  "avg_stu_loan_debt": 6965,
+  "avg_stu_loan_debt_rank": 435,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "74354",
+  "email": false
 }

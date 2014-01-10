@@ -1,6 +1,6 @@
 {
   "facility_code": "24909048",
-  "institution": "MOUNTAIN STATE COLLEGE",
+  "institution": "Mountain State College",
   "city": "Parkersburg",
   "state": "WV",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 5,
   "cross": 237598,
   "grad_rate": 75.0,
-  "grad_rate_rank": 52,
-  "default_rate": 17.3,
-  "avg_stu_loan_debt": 14425,
-  "avg_stu_loan_debt_rank": 1106,
-  "indicator_group": 2
+  "grad_rate_rank": 61,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 14767,
+  "avg_stu_loan_debt_rank": 986,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "26101",
+  "email": true
 }

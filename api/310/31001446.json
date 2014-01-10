@@ -1,6 +1,6 @@
 {
   "facility_code": "31001446",
-  "institution": "WASHINGTON AND LEE UNIVERSITY",
+  "institution": "Washington And Lee University",
   "city": "Lexington",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 234207,
-  "grad_rate": 90.9,
-  "grad_rate_rank": 54,
-  "default_rate": 2.9,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 90.0,
+  "grad_rate_rank": 64,
+  "default_rate": 1.3,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24450",
+  "email": false
 }

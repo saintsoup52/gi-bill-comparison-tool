@@ -1,6 +1,6 @@
 {
   "facility_code": "31908123",
-  "institution": "CARDINAL STRITCH UNIVERSITY",
+  "institution": "Cardinal Stritch University",
   "city": "Eden Prairie",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 238430,
-  "grad_rate": 54.8,
-  "grad_rate_rank": 717,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 22124,
-  "avg_stu_loan_debt_rank": 1653,
-  "indicator_group": 1
+  "grad_rate": 43.0,
+  "grad_rate_rank": 1135,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 24479,
+  "avg_stu_loan_debt_rank": 1684,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55344",
+  "email": true
 }

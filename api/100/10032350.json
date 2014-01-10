@@ -1,6 +1,6 @@
 {
   "facility_code": "10032350",
-  "institution": "THE CITY OF CASPER-DEPT. OF BUILDINGS & GROUNDS",
+  "institution": "The City Of Casper-Dept. Of Buildings & Grounds",
   "city": "Casper",
   "state": "WY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "82601",
+  "email": false
 }

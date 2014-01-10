@@ -1,6 +1,6 @@
 {
   "facility_code": "14987405",
-  "institution": "WEST LOS ANGELES COLLEGE",
+  "institution": "West Los Angeles College",
   "city": "Culver City",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 186,
   "cross": 125471,
-  "grad_rate": 11.8,
-  "grad_rate_rank": 1149,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 12.9,
+  "grad_rate_rank": 1203,
+  "default_rate": 18.6,
+  "avg_stu_loan_debt": 8500,
+  "avg_stu_loan_debt_rank": 579,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90230",
+  "email": false
 }

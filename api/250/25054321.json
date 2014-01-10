@@ -1,6 +1,6 @@
 {
   "facility_code": "25054321",
-  "institution": "SPA TECH INSTITUTE",
+  "institution": "Spa Tech Institute",
   "city": "Westboro",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 445647,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
-  "default_rate": 16.3,
-  "avg_stu_loan_debt": 6861,
-  "avg_stu_loan_debt_rank": 1111,
-  "indicator_group": 5
+  "grad_rate": 84.6,
+  "grad_rate_rank": 450,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1581",
+  "email": false
 }

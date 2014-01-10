@@ -1,6 +1,6 @@
 {
   "facility_code": "25022142",
-  "institution": "SHEAR ACADEMY",
+  "institution": "Shear Academy",
   "city": "Crossville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 446543,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 6100,
+  "avg_stu_loan_debt_rank": 424,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38555",
+  "email": false
 }

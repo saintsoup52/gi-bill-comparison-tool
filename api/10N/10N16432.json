@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16432",
-  "institution": "GREAT MEADOW CORRECTIONAL FACILITY",
+  "institution": "Great Meadow Correctional Facility",
   "city": "Comstock",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12821",
+  "email": false
 }

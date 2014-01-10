@@ -1,6 +1,6 @@
 {
   "facility_code": "21001903",
-  "institution": "KELLER GRADUATE SCHOOL OF MGMT - PHOENIX",
+  "institution": "Keller Graduate School Of Mgmt - Phoenix",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 41,
   "cross": 366702,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 4625,
-  "avg_stu_loan_debt_rank": 233,
-  "indicator_group": 4
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 5000,
+  "avg_stu_loan_debt_rank": 11,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "85021",
+  "email": true
 }

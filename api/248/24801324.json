@@ -1,6 +1,6 @@
 {
   "facility_code": "24801324",
-  "institution": "VIRGINIA COLLEGE - JACKSON",
+  "institution": "Virginia College - Jackson",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 46,
   "cross": 441919,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 737,
-  "indicator_group": 3
+  "grad_rate": 26.8,
+  "grad_rate_rank": 573,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 12207,
+  "avg_stu_loan_debt_rank": 593,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "39211",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15602325",
-  "institution": "PAUL MITCHELL THE SCHOOL",
+  "institution": "Paul Mitchell The School",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 461421,
-  "grad_rate": 94.5,
-  "grad_rate_rank": 150,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4097,
-  "avg_stu_loan_debt_rank": 687,
-  "indicator_group": 5
+  "grad_rate": 70.1,
+  "grad_rate_rank": 1173,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9821,
+  "avg_stu_loan_debt_rank": 1485,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63108",
+  "email": false
 }

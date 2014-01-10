@@ -1,6 +1,6 @@
 {
   "facility_code": "25104231",
-  "institution": "OLYMPIAN UNIVERSITY OF COSMETOLOGY #3",
+  "institution": "Olympian University Of Cosmetology #3",
   "city": "Las Cruces",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 187505,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 1793,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 53.9,
+  "grad_rate_rank": 1842,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 7697,
+  "avg_stu_loan_debt_rank": 759,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "88001",
+  "email": true
 }

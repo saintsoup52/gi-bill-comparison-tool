@@ -1,6 +1,6 @@
 {
   "facility_code": "31825105",
-  "institution": "WHITTIER COLLEGE",
+  "institution": "Whittier College",
   "city": "Whittier",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 125763,
-  "grad_rate": 55.1,
-  "grad_rate_rank": 706,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 67.2,
+  "grad_rate_rank": 375,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 25188,
+  "avg_stu_loan_debt_rank": 1792,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90608",
+  "email": false
 }

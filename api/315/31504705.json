@@ -1,6 +1,6 @@
 {
   "facility_code": "31504705",
-  "institution": "POMONA COLLEGE",
+  "institution": "Pomona College",
   "city": "Claremont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 121345,
-  "grad_rate": 95.3,
-  "grad_rate_rank": 20,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 13863,
-  "avg_stu_loan_debt_rank": 620,
-  "indicator_group": 1
+  "grad_rate": 95.8,
+  "grad_rate_rank": 14,
+  "default_rate": 1.6,
+  "avg_stu_loan_debt": 14500,
+  "avg_stu_loan_debt_rank": 484,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91711",
+  "email": true
 }

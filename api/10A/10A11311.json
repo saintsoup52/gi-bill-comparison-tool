@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11311",
-  "institution": "WEST CENTRAL PROBATION DETENTION CENTER",
+  "institution": "West Central Probation Detention Center",
   "city": "Zebulon",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30295",
+  "email": false
 }

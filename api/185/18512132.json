@@ -1,6 +1,6 @@
 {
   "facility_code": "18512132",
-  "institution": "BOCES CAYUGA-ONONDAGA",
+  "institution": "Boces Cayuga-Onondaga",
   "city": "Auburn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 430883,
-  "grad_rate": 81.8,
-  "grad_rate_rank": 554,
-  "default_rate": 26.0,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 1136,
-  "indicator_group": 5
+  "grad_rate": 84.4,
+  "grad_rate_rank": 459,
+  "default_rate": 17.8,
+  "avg_stu_loan_debt": 7321,
+  "avg_stu_loan_debt_rank": 675,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "13021",
+  "email": true
 }

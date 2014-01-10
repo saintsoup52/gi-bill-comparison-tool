@@ -1,6 +1,6 @@
 {
   "facility_code": "28399732",
-  "institution": "LONG ISLAND BEAUTY SCHOOL INC",
+  "institution": "Long Island Beauty School Inc",
   "city": "Hauppauge",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 383297,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 624,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 5657,
-  "avg_stu_loan_debt_rank": 919,
-  "indicator_group": 5
+  "grad_rate": 71.8,
+  "grad_rate_rank": 1085,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 6481,
+  "avg_stu_loan_debt_rank": 534,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11788",
+  "email": false
 }

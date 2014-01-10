@@ -1,6 +1,6 @@
 {
   "facility_code": "31000219",
-  "institution": "BOWDOIN COLLEGE",
+  "institution": "Bowdoin College",
   "city": "Brunswick",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 161004,
-  "grad_rate": 91.8,
-  "grad_rate_rank": 43,
-  "default_rate": 2.0,
-  "avg_stu_loan_debt": 18333,
-  "avg_stu_loan_debt_rank": 1127,
-  "indicator_group": 1
+  "grad_rate": 95.4,
+  "grad_rate_rank": 17,
+  "default_rate": 1.2,
+  "avg_stu_loan_debt": 19032,
+  "avg_stu_loan_debt_rank": 1082,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4011",
+  "email": false
 }

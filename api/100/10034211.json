@@ -1,6 +1,6 @@
 {
   "facility_code": "10034211",
-  "institution": "MORROW POLICE DEPARTMENT",
+  "institution": "Morrow Police Department",
   "city": "Morrow",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30260",
+  "email": false
 }

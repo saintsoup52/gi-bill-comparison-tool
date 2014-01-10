@@ -1,6 +1,6 @@
 {
   "facility_code": "11002523",
-  "institution": "ST CLOUD STATE UNIVERSITY     VA CERT OFFICIAL",
+  "institution": "St Cloud State University     Va Cert Official",
   "city": "St Cloud",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 639,
   "cross": 174783,
-  "grad_rate": 48.5,
-  "grad_rate_rank": 943,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 13551,
-  "avg_stu_loan_debt_rank": 597,
-  "indicator_group": 1
+  "grad_rate": 48.9,
+  "grad_rate_rank": 934,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 14795,
+  "avg_stu_loan_debt_rank": 516,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56301",
+  "email": false
 }

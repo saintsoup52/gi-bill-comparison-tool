@@ -1,6 +1,6 @@
 {
   "facility_code": "25217415",
-  "institution": "CARLSON COLLEGE OF MASSAGE THERAPY",
+  "institution": "Carlson College Of Massage Therapy",
   "city": "Anamosa",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 451194,
-  "grad_rate": 96.6,
-  "grad_rate_rank": 105,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 7652,
-  "avg_stu_loan_debt_rank": 1280,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 8039,
+  "avg_stu_loan_debt_rank": 833,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52205",
+  "email": false
 }

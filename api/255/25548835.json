@@ -1,6 +1,6 @@
 {
   "facility_code": "25548835",
-  "institution": "CUT BEAUTY SCHOOL INC",
+  "institution": "Cut Beauty School Inc",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 206419,
-  "grad_rate": 60.7,
-  "grad_rate_rank": 1559,
-  "default_rate": 21.0,
+  "grad_rate": 65.6,
+  "grad_rate_rank": 1397,
+  "default_rate": 41.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44110",
+  "email": false
 }

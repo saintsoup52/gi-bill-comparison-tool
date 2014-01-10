@@ -1,6 +1,6 @@
 {
   "facility_code": "20200139",
-  "institution": "NEW ENGLAND DETROIT DIESEL-ALLISON",
+  "institution": "New England Detroit Diesel-Allison",
   "city": "Cranston",
   "state": "RI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2920",
+  "email": false
 }

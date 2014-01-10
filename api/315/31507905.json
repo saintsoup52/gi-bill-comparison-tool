@@ -1,6 +1,6 @@
 {
   "facility_code": "31507905",
-  "institution": "PITZER COLLEGE",
+  "institution": "Pitzer College",
   "city": "Claremont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 121257,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 147,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 16239,
-  "avg_stu_loan_debt_rank": 864,
-  "indicator_group": 1
+  "grad_rate": 86.7,
+  "grad_rate_rank": 86,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 16950,
+  "avg_stu_loan_debt_rank": 796,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91711",
+  "email": false
 }

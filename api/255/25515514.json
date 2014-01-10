@@ -1,6 +1,6 @@
 {
   "facility_code": "25515514",
-  "institution": "J. MICHAEL HARROLD BEAUTY ACADEMY INC.",
+  "institution": "J. Michael Harrold Beauty Academy Inc.",
   "city": "Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 150765,
-  "grad_rate": 76.6,
-  "grad_rate_rank": 838,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 8700,
-  "avg_stu_loan_debt_rank": 1516,
-  "indicator_group": 5
+  "grad_rate": 63.8,
+  "grad_rate_rank": 1480,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 8364,
+  "avg_stu_loan_debt_rank": 878,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47807",
+  "email": false
 }

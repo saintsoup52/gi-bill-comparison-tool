@@ -1,6 +1,6 @@
 {
   "facility_code": "12069243",
-  "institution": "TEXAS A AND M UNIV HSC GRAD MED EDU SCOTT AND WHITE",
+  "institution": "Texas A And M Univ Hsc Grad Med Edu Scott And White",
   "city": "Temple",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 224147,
-  "grad_rate": 39.7,
-  "grad_rate_rank": 1242,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 15250,
-  "avg_stu_loan_debt_rank": 754,
-  "indicator_group": 1
+  "grad_rate": 38.8,
+  "grad_rate_rank": 1290,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76508",
+  "email": false
 }

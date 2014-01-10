@@ -1,6 +1,6 @@
 {
   "facility_code": "25017911",
-  "institution": "AUGUSTA SCHOOL OF MASSAGE INC",
+  "institution": "Augusta School Of Massage Inc",
   "city": "Evans",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 447917,
-  "grad_rate": 72.4,
-  "grad_rate_rank": 1052,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 4019,
-  "avg_stu_loan_debt_rank": 681,
-  "indicator_group": 5
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
+  "default_rate": 32.2,
+  "avg_stu_loan_debt": 3800,
+  "avg_stu_loan_debt_rank": 139,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30809",
+  "email": true
 }

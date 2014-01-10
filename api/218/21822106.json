@@ -1,6 +1,6 @@
 {
   "facility_code": "21822106",
-  "institution": "DEVRY UNIVERSITY/KELLER GRADUATE SCHOOL OF MANAGEMENT - WESTMINSTER",
+  "institution": "Devry University/Keller Graduate School Of Management - Westminster",
   "city": "Westminster",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 192,
   "cross": 440590,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 1475,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 14.6,
+  "grad_rate_rank": 1784,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80234",
+  "email": true
 }

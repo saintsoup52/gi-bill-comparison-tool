@@ -1,6 +1,6 @@
 {
   "facility_code": "31903029",
-  "institution": "SAINT ANSELM COLLEGE",
+  "institution": "Saint Anselm College",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 183239,
-  "grad_rate": 73.0,
-  "grad_rate_rank": 256,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 74.3,
+  "grad_rate_rank": 243,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3102",
+  "email": true
 }

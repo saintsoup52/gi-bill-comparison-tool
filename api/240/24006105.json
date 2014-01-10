@@ -1,6 +1,6 @@
 {
   "facility_code": "24006105",
-  "institution": "MAYFIELD COLLEGE",
+  "institution": "Mayfield College",
   "city": "Cathedral City",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 454698,
-  "grad_rate": 46.2,
-  "grad_rate_rank": 1989,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9298,
-  "avg_stu_loan_debt_rank": 1615,
-  "indicator_group": 5
+  "grad_rate": 93.2,
+  "grad_rate_rank": 17,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": 7600,
+  "avg_stu_loan_debt_rank": 219,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92234",
+  "email": false
 }

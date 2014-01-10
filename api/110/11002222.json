@@ -1,6 +1,6 @@
 {
   "facility_code": "11002222",
-  "institution": "SAGINAW VALLEY STATE UNIVERSITY",
+  "institution": "Saginaw Valley State University",
   "city": "University Center",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 212,
   "cross": 172051,
-  "grad_rate": 38.5,
-  "grad_rate_rank": 1285,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 38.4,
+  "grad_rate_rank": 1301,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 15375,
+  "avg_stu_loan_debt_rank": 573,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48710",
+  "email": true
 }

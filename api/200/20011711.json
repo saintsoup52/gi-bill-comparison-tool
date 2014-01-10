@@ -1,6 +1,6 @@
 {
   "facility_code": "20011711",
-  "institution": "GEORGIA POWER COMPANY-MACON DISTRICT",
+  "institution": "Georgia Power Company-Macon District",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31204",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001935",
-  "institution": "LAKE ERIE COLLEGE",
+  "institution": "Lake Erie College",
   "city": "Painesville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 49,
   "cross": 203580,
-  "grad_rate": 53.4,
-  "grad_rate_rank": 764,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 48.1,
+  "grad_rate_rank": 956,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44077",
+  "email": true
 }

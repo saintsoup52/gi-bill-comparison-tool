@@ -1,6 +1,6 @@
 {
   "facility_code": "25005804",
-  "institution": "HOT SPRINGS BEAUTY COLLEGE INC",
+  "institution": "Hot Springs Beauty College Inc",
   "city": "Hot Springs",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 107099,
-  "grad_rate": 90.9,
-  "grad_rate_rank": 235,
-  "default_rate": 12.5,
+  "grad_rate": 76.9,
+  "grad_rate_rank": 811,
+  "default_rate": 23.8,
   "avg_stu_loan_debt": 3000,
-  "avg_stu_loan_debt_rank": 553,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 40,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71901",
+  "email": false
 }

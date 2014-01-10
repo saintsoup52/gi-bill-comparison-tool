@@ -1,6 +1,6 @@
 {
   "facility_code": "21008705",
-  "institution": "TRIDENT UNIVERSITY INTERNATIONAL",
+  "institution": "Trident University International",
   "city": "Cypress",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2262,
   "cross": 450979,
-  "grad_rate": 71.7,
-  "grad_rate_rank": 278,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 226,
-  "indicator_group": 1
+  "grad_rate": 11.8,
+  "grad_rate_rank": 1818,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 7659,
+  "avg_stu_loan_debt_rank": 95,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90630",
+  "email": true
 }

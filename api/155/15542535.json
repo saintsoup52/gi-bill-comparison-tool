@@ -1,6 +1,6 @@
 {
   "facility_code": "15542535",
-  "institution": "KNOX COUNTY CAREER CENTER",
+  "institution": "Knox County Career Center",
   "city": "Mount Vernon",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 375373,
-  "grad_rate": 86.9,
-  "grad_rate_rank": 365,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 94.3,
+  "grad_rate_rank": 165,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 8444,
+  "avg_stu_loan_debt_rank": 888,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43050",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95306",
-  "institution": "FAA - COLORADO SPRINGS SSC",
+  "institution": "Faa - Colorado Springs Ssc",
   "city": "Peterson Afb",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80914",
+  "email": true
 }

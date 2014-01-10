@@ -1,6 +1,6 @@
 {
   "facility_code": "20262337",
-  "institution": "ADVERTISING DISPLAY SIGNMAKER/ERECTOR JATC",
+  "institution": "Advertising Display Signmaker/Erector Jatc",
   "city": "Lake Oswego",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97035",
+  "email": true
 }

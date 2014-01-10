@@ -1,6 +1,6 @@
 {
   "facility_code": "31045313",
-  "institution": "LINDENWOOD UNIVERSITY",
+  "institution": "Lindenwood University",
   "city": "Belleville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 101,
   "cross": 177968,
-  "grad_rate": 44.9,
-  "grad_rate_rank": 1061,
-  "default_rate": 5.1,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 40.7,
+  "grad_rate_rank": 1222,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 21125,
+  "avg_stu_loan_debt_rank": 1328,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62226",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25091812",
-  "institution": "OLIVER FINLEY ACADEMY OF COSMETOLOGY",
+  "institution": "Oliver Finley Academy Of Cosmetology",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 455859,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 6211,
-  "avg_stu_loan_debt_rank": 982,
-  "indicator_group": 5
+  "grad_rate": 96.5,
+  "grad_rate_rank": 119,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 821,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "83714",
+  "email": false
 }

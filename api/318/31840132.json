@@ -1,6 +1,6 @@
 {
   "facility_code": "31840132",
-  "institution": "FORDHAM UNIVERSITY-GRADUATE ARTS & SCIENCES",
+  "institution": "Fordham University-Graduate Arts & Sciences",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 191241,
-  "grad_rate": 77.6,
-  "grad_rate_rank": 183,
-  "default_rate": 4.6,
+  "grad_rate": 81.0,
+  "grad_rate_rank": 143,
+  "default_rate": 5.0,
   "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10458",
+  "email": false
 }

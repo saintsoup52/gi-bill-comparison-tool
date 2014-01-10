@@ -1,6 +1,6 @@
 {
   "facility_code": "10930010",
-  "institution": "NORTH PORT FIRE RESCUE DISTRICT IJ",
+  "institution": "North Port Fire Rescue District Ij",
   "city": "North Port",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34286",
+  "email": false
 }

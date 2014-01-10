@@ -1,6 +1,6 @@
 {
   "facility_code": "31514635",
-  "institution": "URSULINE COLLEGE",
+  "institution": "Ursuline College",
   "city": "Pepper Pike",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 206349,
-  "grad_rate": 54.3,
-  "grad_rate_rank": 737,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 24182,
-  "avg_stu_loan_debt_rank": 1876,
-  "indicator_group": 1
+  "grad_rate": 52.4,
+  "grad_rate_rank": 820,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 26250,
+  "avg_stu_loan_debt_rank": 1848,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44124",
+  "email": false
 }

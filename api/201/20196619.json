@@ -1,6 +1,6 @@
 {
   "facility_code": "20196619",
-  "institution": "LINCOLN PULP & PAPER CO.INC",
+  "institution": "Lincoln Pulp & Paper Co.Inc",
   "city": "Lincoln",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4457",
+  "email": false
 }

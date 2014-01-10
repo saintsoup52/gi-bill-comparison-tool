@@ -1,6 +1,6 @@
 {
   "facility_code": "101B8405",
-  "institution": "PARADISE PARK AND RECREATION DISTRICT (CHAPTER 31 ONLY)",
+  "institution": "Paradise Park And Recreation District (Chapter 31 Only)",
   "city": "Paradise",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95969",
+  "email": false
 }

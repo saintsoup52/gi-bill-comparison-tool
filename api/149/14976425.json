@@ -1,6 +1,6 @@
 {
   "facility_code": "14976425",
-  "institution": "NORTH CENTRAL MISSOURI COLLEGE",
+  "institution": "North Central Missouri College",
   "city": "Trenton",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 179715,
-  "grad_rate": 35.3,
-  "grad_rate_rank": 421,
-  "default_rate": 16.5,
-  "avg_stu_loan_debt": 8125,
-  "avg_stu_loan_debt_rank": 656,
-  "indicator_group": 2
+  "grad_rate": 31.1,
+  "grad_rate_rank": 603,
+  "default_rate": 22.6,
+  "avg_stu_loan_debt": 9102,
+  "avg_stu_loan_debt_rank": 635,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "64683",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18042848",
-  "institution": "GARNET CAREER CENTER",
+  "institution": "Garnet Career Center",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 431169,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 578,
+  "grad_rate": 80.3,
+  "grad_rate_rank": 626,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25301",
+  "email": true
 }

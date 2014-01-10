@@ -1,6 +1,6 @@
 {
   "facility_code": "30J73138",
-  "institution": "REINFORCED IRONWORKERSRIGGERS&MACHINERY MOVERS LU 405",
+  "institution": "Reinforced Ironworkersriggers&Machinery Movers Lu 405",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19148",
+  "email": true
 }

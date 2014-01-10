@@ -1,6 +1,6 @@
 {
   "facility_code": "31982105",
-  "institution": "SHASTA BIBLE COLLEGE & GRADUATE  SCHOOL",
+  "institution": "Shasta Bible College & Graduate  School",
   "city": "Redding",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 123280,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
+  "grad_rate": 55.6,
+  "grad_rate_rank": 716,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "96002",
+  "email": false
 }

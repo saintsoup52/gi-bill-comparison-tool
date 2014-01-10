@@ -1,6 +1,6 @@
 {
   "facility_code": "20227737",
-  "institution": "AREA V INSIDE ELECTRICAL JATC",
+  "institution": "Area V Inside Electrical Jatc",
   "city": "White City",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97503",
+  "email": true
 }

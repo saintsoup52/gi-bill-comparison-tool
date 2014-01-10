@@ -1,6 +1,6 @@
 {
   "facility_code": "31840205",
-  "institution": "MOUNT ST. MARY'S COLLEGE (DOHENY CAMPUS)",
+  "institution": "Mount St. Mary'S College (Doheny Campus)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 119173,
-  "grad_rate": 47.5,
-  "grad_rate_rank": 976,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 60.6,
+  "grad_rate_rank": 549,
+  "default_rate": 7.4,
+  "avg_stu_loan_debt": 23333,
+  "avg_stu_loan_debt_rank": 1563,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90007",
+  "email": false
 }

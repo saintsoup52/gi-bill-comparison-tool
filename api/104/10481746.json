@@ -1,6 +1,6 @@
 {
   "facility_code": "10481746",
-  "institution": "COUNTY OF HENRICO DIV OF FIRE",
+  "institution": "County Of Henrico Div Of Fire",
   "city": "Henrico",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23273",
+  "email": true
 }

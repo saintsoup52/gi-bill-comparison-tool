@@ -1,6 +1,6 @@
 {
   "facility_code": "21941438",
-  "institution": "STRAYER UNIVERSITY WARRENDALE",
+  "institution": "Strayer University Warrendale",
   "city": "Warrendale",
   "state": "PA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 15,
   "cross": 443784,
   "grad_rate": 33.3,
-  "grad_rate_rank": 1403,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate_rank": 1432,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15086",
+  "email": true
 }

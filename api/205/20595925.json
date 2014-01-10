@@ -1,6 +1,6 @@
 {
   "facility_code": "20595925",
-  "institution": "ESKIMO PACKING",
+  "institution": "Eskimo Packing",
   "city": "Exeter",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65647",
+  "email": false
 }

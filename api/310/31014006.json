@@ -1,6 +1,6 @@
 {
   "facility_code": "31014006",
-  "institution": "COLORADO CHRISTIAN UNIVERSITY",
+  "institution": "Colorado Christian University",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 418,
   "cross": 126669,
-  "grad_rate": 42.1,
-  "grad_rate_rank": 1153,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 820,
-  "indicator_group": 1
+  "grad_rate": 40.3,
+  "grad_rate_rank": 1240,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 9583,
+  "avg_stu_loan_debt_rank": 149,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80228",
+  "email": true
 }

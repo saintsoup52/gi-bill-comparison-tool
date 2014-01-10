@@ -1,6 +1,6 @@
 {
   "facility_code": "35802932",
-  "institution": "ALCOHOLISM AND DRUG ABUSE COUNCIL OF ORANGE COUNTY",
+  "institution": "Alcoholism And Drug Abuse Council Of Orange County",
   "city": "Goshen",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10924",
+  "email": true
 }

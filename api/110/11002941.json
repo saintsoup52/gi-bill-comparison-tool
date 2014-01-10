@@ -1,6 +1,6 @@
 {
   "facility_code": "11002941",
-  "institution": "OGLALA LAKOTA COLLEGE",
+  "institution": "Oglala Lakota College",
   "city": "Kyle",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 54,
   "cross": 219277,
-  "grad_rate": 11.9,
-  "grad_rate_rank": 1143,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "grad_rate": 11.7,
+  "grad_rate_rank": 1242,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "57752",
+  "email": false
 }

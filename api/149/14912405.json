@@ -1,6 +1,6 @@
 {
   "facility_code": "14912405",
-  "institution": "LOS MEDANOS COLLEGE",
+  "institution": "Los Medanos College",
   "city": "Pittsburg",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 286,
   "cross": 117894,
-  "grad_rate": 23.0,
-  "grad_rate_rank": 760,
-  "default_rate": 26.6,
+  "grad_rate": 25.1,
+  "grad_rate_rank": 780,
+  "default_rate": 19.0,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "94565",
+  "email": true
 }

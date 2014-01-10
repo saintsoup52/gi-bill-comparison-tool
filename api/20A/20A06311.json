@@ -1,6 +1,6 @@
 {
   "facility_code": "20A06311",
-  "institution": "J. W. WHITTER ENGRAVER               (CH 31 ONLY)",
+  "institution": "J. W. Whitter Engraver               (Ch 31 Only)",
   "city": "Clayton",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30525",
+  "email": "No (SCO)"
 }

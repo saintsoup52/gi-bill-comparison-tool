@@ -1,6 +1,6 @@
 {
   "facility_code": "18385818",
-  "institution": "DELGADO COMMUNITY COLLEGE - WEST JEFFERSON",
+  "institution": "Delgado Community College - West Jefferson",
   "city": "Harvey",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70058",
+  "email": true
 }

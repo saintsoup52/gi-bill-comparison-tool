@@ -1,6 +1,6 @@
 {
   "facility_code": "14984413",
-  "institution": "LINCOLN LAND COMMUNITY COLLEGE",
+  "institution": "Lincoln Land Community College",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 355,
   "cross": 146685,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 439,
-  "default_rate": 19.0,
-  "avg_stu_loan_debt": 5290,
-  "avg_stu_loan_debt_rank": 194,
-  "indicator_group": 3
+  "grad_rate": 23.0,
+  "grad_rate_rank": 606,
+  "default_rate": 25.1,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "62794",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14992412",
-  "institution": "NORTH IDAHO COLLEGE",
+  "institution": "North Idaho College",
   "city": "Coeur D'Alene",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 338,
   "cross": 142443,
-  "grad_rate": 21.7,
-  "grad_rate_rank": 806,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 8125,
-  "avg_stu_loan_debt_rank": 656,
-  "indicator_group": 2
+  "grad_rate": 19.6,
+  "grad_rate_rank": 953,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 8706,
+  "avg_stu_loan_debt_rank": 600,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "83814",
+  "email": true
 }

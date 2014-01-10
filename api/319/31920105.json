@@ -1,6 +1,6 @@
 {
   "facility_code": "31920105",
-  "institution": "CALIFORNIA INSTITUTE OF THE ARTS",
+  "institution": "California Institute Of The Arts",
   "city": "Valencia",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 111081,
-  "grad_rate": 65.2,
-  "grad_rate_rank": 428,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 28487,
-  "avg_stu_loan_debt_rank": 2030,
-  "indicator_group": 1
+  "grad_rate": 55.1,
+  "grad_rate_rank": 734,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 29500,
+  "avg_stu_loan_debt_rank": 1958,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91355",
+  "email": false
 }

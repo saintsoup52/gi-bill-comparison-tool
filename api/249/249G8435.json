@@ -1,6 +1,6 @@
 {
   "facility_code": "249G8435",
-  "institution": "SANFORD BROWN COLLEGE - MIDDLEBURG HEIGHTS",
+  "institution": "Sanford Brown College - Middleburg Heights",
   "city": "Middleburg Heights",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 420501,
-  "grad_rate": 65.7,
-  "grad_rate_rank": 96,
-  "default_rate": 28.4,
+  "grad_rate": 63.5,
+  "grad_rate_rank": 256,
+  "default_rate": 22.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "44130",
+  "email": true
 }

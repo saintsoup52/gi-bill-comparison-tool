@@ -1,6 +1,6 @@
 {
   "facility_code": "25565835",
-  "institution": "AVEDA FREDRIC'S INSTITUTE",
+  "institution": "Aveda Fredric'S Institute",
   "city": "West Chester",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 451468,
-  "grad_rate": 84.8,
-  "grad_rate_rank": 439,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 12442,
-  "avg_stu_loan_debt_rank": 2379,
-  "indicator_group": 5
+  "grad_rate": 86.0,
+  "grad_rate_rank": 409,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 12440,
+  "avg_stu_loan_debt_rank": 1813,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45069",
+  "email": false
 }

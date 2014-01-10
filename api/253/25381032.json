@@ -1,6 +1,6 @@
 {
   "facility_code": "25381032",
-  "institution": "CENTER FOR NATURAL WELLNESS SCHOOL OF MASSAGE THERAPY",
+  "institution": "Center For Natural Wellness School Of Massage Therapy",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 449667,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 624,
-  "default_rate": 0.0,
+  "grad_rate": 79.4,
+  "grad_rate_rank": 682,
+  "default_rate": 13.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12205",
+  "email": true
 }

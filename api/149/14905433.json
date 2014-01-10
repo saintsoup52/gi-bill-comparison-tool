@@ -1,6 +1,6 @@
 {
   "facility_code": "14905433",
-  "institution": "SOUTHEASTERN COMMUNITY COLLEGE",
+  "institution": "Southeastern Community College",
   "city": "Whiteville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 64,
   "cross": 199722,
-  "grad_rate": 24.2,
-  "grad_rate_rank": 392,
-  "default_rate": 15.7,
-  "avg_stu_loan_debt": 4805,
-  "avg_stu_loan_debt_rank": 171,
-  "indicator_group": 3
+  "grad_rate": 17.3,
+  "grad_rate_rank": 661,
+  "default_rate": 32.3,
+  "avg_stu_loan_debt": 5863,
+  "avg_stu_loan_debt_rank": 148,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28472",
+  "email": true
 }

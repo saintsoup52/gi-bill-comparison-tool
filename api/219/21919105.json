@@ -1,6 +1,6 @@
 {
   "facility_code": "21919105",
-  "institution": "PACIFIC COLLEGE OF ORIENTAL MEDICINE",
+  "institution": "Pacific College Of Oriental Medicine",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 56,
   "cross": 378576,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 10500,
-  "avg_stu_loan_debt_rank": 661,
-  "indicator_group": 3
+  "grad_rate": 33.3,
+  "grad_rate_rank": 514,
+  "default_rate": 7.4,
+  "avg_stu_loan_debt": 12268,
+  "avg_stu_loan_debt_rank": 611,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92108",
+  "email": false
 }

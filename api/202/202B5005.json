@@ -1,6 +1,6 @@
 {
   "facility_code": "202B5005",
-  "institution": "G&R APPRAISALS (CHAPTER 31 ONLY)",
+  "institution": "G&R Appraisals (Chapter 31 Only)",
   "city": "Merced",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95340",
+  "email": false
 }

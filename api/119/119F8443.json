@@ -1,6 +1,6 @@
 {
   "facility_code": "119F8443",
-  "institution": "SAM HOUSTON STATE UNIVERSITY",
+  "institution": "Sam Houston State University",
   "city": "Huntsville",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 788,
   "cross": 227881,
-  "grad_rate": 50.3,
-  "grad_rate_rank": 870,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 1
+  "grad_rate": 48.4,
+  "grad_rate_rank": 948,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 16549,
+  "avg_stu_loan_debt_rank": 757,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77340",
+  "email": false
 }

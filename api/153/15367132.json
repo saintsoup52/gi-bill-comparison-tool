@@ -1,6 +1,6 @@
 {
   "facility_code": "15367132",
-  "institution": "NASSAU COUNTY EMS ACADEMY",
+  "institution": "Nassau County Ems Academy",
   "city": "Uniondale",
   "state": "NY",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 417910,
   "grad_rate": 89.9,
-  "grad_rate_rank": 271,
-  "default_rate": 7.6,
+  "grad_rate_rank": 279,
+  "default_rate": 10.4,
   "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11553",
+  "email": false
 }

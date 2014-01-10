@@ -1,6 +1,6 @@
 {
   "facility_code": "28065230",
-  "institution": "ROBERT FIANCE BEAUTY SCHOOL",
+  "institution": "Robert Fiance Beauty School",
   "city": "North Plainfield",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 383279,
-  "grad_rate": 61.4,
-  "grad_rate_rank": 1536,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 8615,
-  "avg_stu_loan_debt_rank": 1499,
-  "indicator_group": 5
+  "grad_rate": 70.6,
+  "grad_rate_rank": 1148,
+  "default_rate": 18.3,
+  "avg_stu_loan_debt": 7998,
+  "avg_stu_loan_debt_rank": 820,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7060",
+  "email": false
 }

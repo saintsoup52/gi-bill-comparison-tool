@@ -1,6 +1,6 @@
 {
   "facility_code": "25297947",
-  "institution": "LUCAS MARC ACADEMY",
+  "institution": "Lucas Marc Academy",
   "city": "Richland",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 234924,
-  "grad_rate": 74.2,
-  "grad_rate_rank": 965,
+  "grad_rate": 46.8,
+  "grad_rate_rank": 2002,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "99352",
+  "email": true
 }

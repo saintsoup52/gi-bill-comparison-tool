@@ -1,6 +1,6 @@
 {
   "facility_code": "24975413",
-  "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS",
+  "institution": "Le Cordon Bleu College Of Culinary Arts",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 93,
   "cross": 144467,
-  "grad_rate": 59.1,
-  "grad_rate_rank": 143,
-  "default_rate": 28.3,
-  "avg_stu_loan_debt": 12544,
-  "avg_stu_loan_debt_rank": 1009,
-  "indicator_group": 2
+  "grad_rate": 49.2,
+  "grad_rate_rank": 274,
+  "default_rate": 23.2,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 974,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "60610",
+  "email": true
 }

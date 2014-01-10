@@ -1,6 +1,6 @@
 {
   "facility_code": "29023314",
-  "institution": "DIANE RICHARDS DESIGN",
+  "institution": "Diane Richards Design",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46268",
+  "email": false
 }

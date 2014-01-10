@@ -1,6 +1,6 @@
 {
   "facility_code": "14914431",
-  "institution": "UNIVERSITY OF NEW MEXICO",
+  "institution": "University Of New Mexico",
   "city": "Los Lunas",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 94,
   "cross": 188049,
-  "grad_rate": 8.0,
-  "grad_rate_rank": 1249,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 13700,
-  "avg_stu_loan_debt_rank": 1074,
-  "indicator_group": 2
+  "grad_rate": 10.3,
+  "grad_rate_rank": 1280,
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 14149,
+  "avg_stu_loan_debt_rank": 949,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "87031",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10150620",
-  "institution": "PRINCE GEORGES COUNTY DEPARTMENT OF CORRECTIONS",
+  "institution": "Prince Georges County Department Of Corrections",
   "city": "Upper Marlboro",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20773",
+  "email": "No (SCO)"
 }

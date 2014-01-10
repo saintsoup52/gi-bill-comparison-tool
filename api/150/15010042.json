@@ -1,6 +1,6 @@
 {
   "facility_code": "15010042",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - MURFREESBORO",
+  "institution": "Tennessee College Of Applied Technology - Murfreesboro",
   "city": "Murfreesboro",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 221102,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 526,
+  "grad_rate": 68.6,
+  "grad_rate_rank": 1248,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37129",
+  "email": false
 }

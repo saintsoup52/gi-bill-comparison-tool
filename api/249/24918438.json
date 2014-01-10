@@ -1,6 +1,6 @@
 {
   "facility_code": "24918438",
-  "institution": "LINCOLN TECHNICAL INSTITUTE (NE PHILA/1)",
+  "institution": "Lincoln Technical Institute (Ne Phila/1)",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 213589,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 49.1,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 41.1,
+  "grad_rate_rank": 452,
+  "default_rate": 30.4,
+  "avg_stu_loan_debt": 13765,
+  "avg_stu_loan_debt_rank": 632,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "19136",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25801009",
-  "institution": "CAREER TECHNICAL INSTITUTE",
+  "institution": "Career Technical Institute",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 420370,
-  "grad_rate": 51.9,
-  "grad_rate_rank": 1877,
-  "default_rate": 21.9,
+  "grad_rate": 45.3,
+  "grad_rate_rank": 2028,
+  "default_rate": 31.2,
   "avg_stu_loan_debt": 7652,
-  "avg_stu_loan_debt_rank": 1280,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "20005",
+  "email": false
 }

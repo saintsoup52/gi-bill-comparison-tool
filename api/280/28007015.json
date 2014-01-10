@@ -1,6 +1,6 @@
 {
   "facility_code": "28007015",
-  "institution": "COLLEGE OF HAIR DESIGN INC.",
+  "institution": "College Of Hair Design Inc.",
   "city": "Waterloo",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 154545,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 1587,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 9396,
-  "avg_stu_loan_debt_rank": 1636,
-  "indicator_group": 5
+  "grad_rate": 58.5,
+  "grad_rate_rank": 1688,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 6000,
+  "avg_stu_loan_debt_rank": 410,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50703",
+  "email": false
 }

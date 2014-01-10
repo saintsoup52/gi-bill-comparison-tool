@@ -1,6 +1,6 @@
 {
   "facility_code": "20267004",
-  "institution": "SAFETY SPECIALISTS(CH 31 ONLY)",
+  "institution": "Safety Specialists(Ch 31 Only)",
   "city": "Springdale",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72762",
+  "email": "No (SCO)"
 }

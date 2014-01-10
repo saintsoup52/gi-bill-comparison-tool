@@ -1,6 +1,6 @@
 {
   "facility_code": "10D20238",
-  "institution": "PA DEPT OF ENVIRONMENTAL PROTECTION NORTHCENTRAL REGION",
+  "institution": "Pa Dept Of Environmental Protection Northcentral Region",
   "city": "Williamsport",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17701",
+  "email": true
 }

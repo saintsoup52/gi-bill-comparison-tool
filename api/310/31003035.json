@@ -1,6 +1,6 @@
 {
   "facility_code": "31003035",
-  "institution": "OHIO WESLEYAN UNIVERSITY",
+  "institution": "Ohio Wesleyan University",
   "city": "Delaware",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 12,
   "cross": 204909,
-  "grad_rate": 61.2,
-  "grad_rate_rank": 529,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 24500,
-  "avg_stu_loan_debt_rank": 1892,
-  "indicator_group": 1
+  "grad_rate": 68.2,
+  "grad_rate_rank": 346,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43015",
+  "email": true
 }

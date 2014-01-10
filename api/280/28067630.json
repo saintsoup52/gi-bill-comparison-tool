@@ -1,6 +1,6 @@
 {
   "facility_code": "28067630",
-  "institution": "ROBERT FIANCE BEAUTY SCHOOL - WEST NEW YORK",
+  "institution": "Robert Fiance Beauty School - West New York",
   "city": "West New York",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 185767,
-  "grad_rate": 52.0,
-  "grad_rate_rank": 1870,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 8530,
-  "avg_stu_loan_debt_rank": 1483,
-  "indicator_group": 5
+  "grad_rate": 54.0,
+  "grad_rate_rank": 1838,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 7550,
+  "avg_stu_loan_debt_rank": 733,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7093",
+  "email": true
 }

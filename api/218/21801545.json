@@ -1,6 +1,6 @@
 {
   "facility_code": "21801545",
-  "institution": "NEW ENGLAND CULINARY INSTITUTE - MONTPELIER",
+  "institution": "New England Culinary Institute - Montpelier",
   "city": "Montpelier",
   "state": "VT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 48,
   "cross": 230977,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 1135,
-  "indicator_group": 2
+  "grad_rate": 54.2,
+  "grad_rate_rank": 226,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "5602",
+  "email": true
 }

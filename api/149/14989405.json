@@ -1,6 +1,6 @@
 {
   "facility_code": "14989405",
-  "institution": "SAN DIEGO MESA COLLEGE",
+  "institution": "San Diego Mesa College",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1345,
   "cross": 122375,
-  "grad_rate": 22.5,
-  "grad_rate_rank": 779,
-  "default_rate": 10.7,
+  "grad_rate": 21.4,
+  "grad_rate_rank": 900,
+  "default_rate": 15.9,
   "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92111",
+  "email": false
 }

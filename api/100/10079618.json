@@ -1,6 +1,6 @@
 {
   "facility_code": "10079618",
-  "institution": "FAA - MONROE ATCT",
+  "institution": "Faa - Monroe Atct",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71203",
+  "email": true
 }

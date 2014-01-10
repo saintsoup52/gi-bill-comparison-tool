@@ -1,6 +1,6 @@
 {
   "facility_code": "20D09038",
-  "institution": "SPORTFIELD CORP",
+  "institution": "Sportfield Corp",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18501",
+  "email": "No (SCO)"
 }

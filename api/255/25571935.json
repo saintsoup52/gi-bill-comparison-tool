@@ -1,6 +1,6 @@
 {
   "facility_code": "25571935",
-  "institution": "AVEDA INSTITUTE COLUMBUS",
+  "institution": "Aveda Institute Columbus",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 455275,
-  "grad_rate": 76.3,
-  "grad_rate_rank": 854,
-  "default_rate": 4.5,
+  "grad_rate": 62.5,
+  "grad_rate_rank": 1533,
+  "default_rate": 28.8,
   "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43201",
+  "email": true
 }

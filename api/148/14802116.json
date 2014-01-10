@@ -1,6 +1,6 @@
 {
   "facility_code": "14802116",
-  "institution": "BARTON COUNTY COMMUNITY COLLEGE-FT. RILEY",
+  "institution": "Barton County Community College-Ft. Riley",
   "city": "Ft. Riley",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 304,
   "cross": 154697,
-  "grad_rate": 30.5,
-  "grad_rate_rank": 514,
-  "default_rate": 12.7,
+  "grad_rate": 27.6,
+  "grad_rate_rank": 705,
+  "default_rate": 17.2,
   "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 639,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 548,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "66442",
+  "email": true
 }

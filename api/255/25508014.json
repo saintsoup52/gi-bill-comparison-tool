@@ -1,6 +1,6 @@
 {
   "facility_code": "25508014",
-  "institution": "AVIATION INSTITUTE OF MAINTENANCE",
+  "institution": "Aviation Institute Of Maintenance",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 48,
   "cross": 438735,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 35.0,
-  "avg_stu_loan_debt": 14725,
-  "avg_stu_loan_debt_rank": 2464,
-  "indicator_group": 5
+  "grad_rate": 73.5,
+  "grad_rate_rank": 1008,
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 13166,
+  "avg_stu_loan_debt_rank": 1849,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46241",
+  "email": true
 }

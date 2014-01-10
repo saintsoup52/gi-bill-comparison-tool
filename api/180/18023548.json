@@ -1,6 +1,6 @@
 {
   "facility_code": "18023548",
-  "institution": "CARVER CAREER & TECHNICAL EDUCATION CENTER",
+  "institution": "Carver Career & Technical Education Center",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 430795,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 67.3,
+  "grad_rate_rank": 205,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "25306",
+  "email": true
 }

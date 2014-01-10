@@ -1,6 +1,6 @@
 {
   "facility_code": "28080540",
-  "institution": "KENNETH SHULER SCHOOL OF COSMETOLOGY - FLORENCE",
+  "institution": "Kenneth Shuler School Of Cosmetology - Florence",
   "city": "Florence",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 460011,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 8455,
-  "avg_stu_loan_debt_rank": 1463,
-  "indicator_group": 5
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 8641,
+  "avg_stu_loan_debt_rank": 932,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29501",
+  "email": true
 }

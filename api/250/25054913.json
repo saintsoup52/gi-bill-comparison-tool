@@ -1,6 +1,6 @@
 {
   "facility_code": "25054913",
-  "institution": "NILES SCHOOL OF COSMETOLOGY",
+  "institution": "Niles School Of Cosmetology",
   "city": "Niles",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 147642,
-  "grad_rate": 61.9,
-  "grad_rate_rank": 1519,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 6300,
-  "avg_stu_loan_debt_rank": 998,
-  "indicator_group": 5
+  "grad_rate": 64.5,
+  "grad_rate_rank": 1450,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 3213,
+  "avg_stu_loan_debt_rank": 64,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60714",
+  "email": true
 }

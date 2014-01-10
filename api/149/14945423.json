@@ -1,6 +1,6 @@
 {
   "facility_code": "14945423",
-  "institution": "RIDGEWATER COLLEGE-HUTCHINSON CAMPUS",
+  "institution": "Ridgewater College-Hutchinson Campus",
   "city": "Hutchinson",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 58,
   "cross": 175236,
-  "grad_rate": 37.2,
-  "grad_rate_rank": 275,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 406,
-  "indicator_group": 3
+  "grad_rate": 43.9,
+  "grad_rate_rank": 436,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "55350",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20N19632",
-  "institution": "NEW YORK CAROLINA EXPRESS (NYCE)",
+  "institution": "New York Carolina Express (Nyce)",
   "city": "Conklin",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13748",
+  "email": false
 }

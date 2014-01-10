@@ -1,6 +1,6 @@
 {
   "facility_code": "20B06523",
-  "institution": "THOMAS TOOL & SUPPLY",
+  "institution": "Thomas Tool & Supply",
   "city": "Willmar",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "56201",
+  "email": false
 }

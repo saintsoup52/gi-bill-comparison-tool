@@ -1,6 +1,6 @@
 {
   "facility_code": "32990538",
-  "institution": "NORTHEASTERN HOSP SCH OF NURSING",
+  "institution": "Northeastern Hosp Sch Of Nursing",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 383400,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 22803,
-  "avg_stu_loan_debt_rank": 2555,
-  "indicator_group": 5
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 18994,
+  "avg_stu_loan_debt_rank": 1984,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19134",
+  "email": true
 }

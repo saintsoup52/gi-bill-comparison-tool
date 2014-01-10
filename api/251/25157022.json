@@ -1,6 +1,6 @@
 {
   "facility_code": "25157022",
-  "institution": "IRENE'S MYOMASSOLOGY INSTITUTE",
+  "institution": "Irene'S Myomassology Institute",
   "city": "Southfield",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 443137,
-  "grad_rate": 80.8,
-  "grad_rate_rank": 615,
-  "default_rate": 10.2,
+  "grad_rate": 80.2,
+  "grad_rate_rank": 630,
+  "default_rate": 12.7,
   "avg_stu_loan_debt": 6598,
-  "avg_stu_loan_debt_rank": 1082,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 570,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48034",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14954447",
-  "institution": "BELLINGHAM TECHNICAL COLLEGE",
+  "institution": "Bellingham Technical College",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 111,
   "cross": 234696,
-  "grad_rate": 49.6,
-  "grad_rate_rank": 206,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 9501,
-  "avg_stu_loan_debt_rank": 641,
-  "indicator_group": 3
+  "grad_rate": 49.3,
+  "grad_rate_rank": 407,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 528,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "98225",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25018246",
-  "institution": "SPRINGFIELD BEAUTY ACADEMY",
+  "institution": "Springfield Beauty Academy",
   "city": "Annandale",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 233657,
-  "grad_rate": 76.4,
-  "grad_rate_rank": 849,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 4788,
-  "avg_stu_loan_debt_rank": 774,
-  "indicator_group": 5
+  "grad_rate": 73.4,
+  "grad_rate_rank": 1012,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 4827,
+  "avg_stu_loan_debt_rank": 226,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "22003",
+  "email": false
 }

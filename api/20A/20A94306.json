@@ -1,6 +1,6 @@
 {
   "facility_code": "20A94306",
-  "institution": "RED HEN SYSTEMS INC.",
+  "institution": "Red Hen Systems Inc.",
   "city": "Fort Collins",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80526",
+  "email": true
 }

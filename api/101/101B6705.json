@@ -1,6 +1,6 @@
 {
   "facility_code": "101B6705",
-  "institution": "CALIFORNIA HIGHWAY PATROL-SAN FRANCISCO AREA",
+  "institution": "California Highway Patrol-San Francisco Area",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94103",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25805618",
-  "institution": "DIESEL DRIVING ACADEMY - SHREVEPORT",
+  "institution": "Diesel Driving Academy - Shreveport",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 41,
   "cross": 260664,
-  "grad_rate": 93.9,
-  "grad_rate_rank": 163,
-  "default_rate": 15.2,
+  "grad_rate": 92.9,
+  "grad_rate_rank": 193,
+  "default_rate": 9.0,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "71109",
+  "email": true
 }

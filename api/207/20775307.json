@@ -1,6 +1,6 @@
 {
   "facility_code": "20775307",
-  "institution": "INTERMARK FABRIC CORPORATION",
+  "institution": "Intermark Fabric Corporation",
   "city": "Plainfield",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6374",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000241",
-  "institution": "DAKOTA WESLEYAN UNIVERSITY",
+  "institution": "Dakota Wesleyan University",
   "city": "Mitchell",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 219091,
-  "grad_rate": 42.6,
-  "grad_rate_rank": 1139,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 40.6,
+  "grad_rate_rank": 1228,
+  "default_rate": 11.9,
+  "avg_stu_loan_debt": 15950,
+  "avg_stu_loan_debt_rank": 619,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57301",
+  "email": false
 }

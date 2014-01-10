@@ -1,6 +1,6 @@
 {
   "facility_code": "31001038",
-  "institution": "DICKINSON COLLEGE",
+  "institution": "Dickinson College",
   "city": "Carlisle",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 212009,
-  "grad_rate": 83.9,
-  "grad_rate_rank": 108,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 20903,
-  "avg_stu_loan_debt_rank": 1514,
-  "indicator_group": 1
+  "grad_rate": 84.6,
+  "grad_rate_rank": 102,
+  "default_rate": 1.8,
+  "avg_stu_loan_debt": 21901,
+  "avg_stu_loan_debt_rank": 1407,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17013",
+  "email": true
 }

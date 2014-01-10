@@ -1,6 +1,6 @@
 {
   "facility_code": "25003544",
-  "institution": "RENAISSANCE MASSAGE COLLEGE",
+  "institution": "Renaissance Massage College",
   "city": "Bountiful",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 446507,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 27.7,
-  "avg_stu_loan_debt": 7184,
-  "avg_stu_loan_debt_rank": 1169,
-  "indicator_group": 5
+  "grad_rate": 90.9,
+  "grad_rate_rank": 243,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 8276,
+  "avg_stu_loan_debt_rank": 863,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84010",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15017419",
-  "institution": "MID COAST SCHOOL OF TECHNOLOGY",
+  "institution": "Mid Coast School Of Technology",
   "city": "Rockland",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4841",
+  "email": false
 }

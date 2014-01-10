@@ -1,6 +1,6 @@
 {
   "facility_code": "25757207",
-  "institution": "BRANFORD HALL CAREER INSTITUTE - WINDSOR",
+  "institution": "Branford Hall Career Institute - Windsor",
   "city": "Windsor",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 430096,
-  "grad_rate": 57.1,
-  "grad_rate_rank": 1700,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 7924,
-  "avg_stu_loan_debt_rank": 1353,
-  "indicator_group": 5
+  "grad_rate": 54.0,
+  "grad_rate_rank": 1838,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 7724,
+  "avg_stu_loan_debt_rank": 766,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6095",
+  "email": true
 }

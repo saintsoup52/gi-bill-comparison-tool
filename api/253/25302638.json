@@ -1,6 +1,6 @@
 {
   "facility_code": "25302638",
-  "institution": "AUTOMOTIVE TRAINING CENTER",
+  "institution": "Automotive Training Center",
   "city": "Warminister",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 448770,
-  "grad_rate": 67.9,
-  "grad_rate_rank": 1254,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 14600,
-  "avg_stu_loan_debt_rank": 2457,
-  "indicator_group": 5
+  "grad_rate": 65.7,
+  "grad_rate_rank": 1394,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 14680,
+  "avg_stu_loan_debt_rank": 1913,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "18974",
+  "email": true
 }

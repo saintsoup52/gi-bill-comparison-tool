@@ -1,6 +1,6 @@
 {
   "facility_code": "25056146",
-  "institution": "EMPIRE BEAUTY SCHOOLS",
+  "institution": "Empire Beauty Schools",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 450599,
-  "grad_rate": 33.9,
-  "grad_rate_rank": 2115,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 12100,
-  "avg_stu_loan_debt_rank": 2347,
-  "indicator_group": 5
+  "grad_rate": 22.5,
+  "grad_rate_rank": 2235,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23294",
+  "email": true
 }

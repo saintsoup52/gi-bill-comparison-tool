@@ -1,6 +1,6 @@
 {
   "facility_code": "17168740",
-  "institution": "JAMES ISLAND HIGH SCHOOL",
+  "institution": "James Island High School",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29412",
+  "email": false
 }

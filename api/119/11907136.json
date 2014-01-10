@@ -1,6 +1,6 @@
 {
   "facility_code": "11907136",
-  "institution": "SOUTHEASTERN OKLAHOMA STATE UNIVERSITY",
+  "institution": "Southeastern Oklahoma State University",
   "city": "Durant",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 256,
   "cross": 207847,
-  "grad_rate": 29.1,
-  "grad_rate_rank": 1523,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 171,
-  "indicator_group": 1
+  "grad_rate": 30.0,
+  "grad_rate_rank": 1533,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 123,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74701",
+  "email": false
 }

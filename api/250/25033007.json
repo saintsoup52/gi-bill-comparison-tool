@@ -1,6 +1,6 @@
 {
   "facility_code": "25033007",
-  "institution": "LINCOLN TECHNICAL INSTITUTE-HARTFORD (LINCOLN CULINARY INSTITUTE)",
+  "institution": "Lincoln Technical Institute-Hartford (Lincoln Culinary Institute)",
   "city": "Hartford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 410788,
-  "grad_rate": 63.5,
-  "grad_rate_rank": 1453,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 19027,
-  "avg_stu_loan_debt_rank": 2528,
-  "indicator_group": 5
+  "grad_rate": 52.1,
+  "grad_rate_rank": 1895,
+  "default_rate": 25.7,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6105",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000417",
-  "institution": "GEORGETOWN COLLEGE",
+  "institution": "Georgetown College",
   "city": "Georgetown",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 30,
   "cross": 156745,
-  "grad_rate": 59.1,
-  "grad_rate_rank": 592,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 18029,
-  "avg_stu_loan_debt_rank": 1097,
-  "indicator_group": 1
+  "grad_rate": 59.5,
+  "grad_rate_rank": 576,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 21260,
+  "avg_stu_loan_debt_rank": 1343,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40324",
+  "email": false
 }

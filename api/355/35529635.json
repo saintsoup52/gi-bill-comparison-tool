@@ -1,6 +1,6 @@
 {
   "facility_code": "35529635",
-  "institution": "HOBART INSTITUTE OF WELDING TECHNOLOGY",
+  "institution": "Hobart Institute Of Welding Technology",
   "city": "Troy",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 57,
   "cross": 203146,
-  "grad_rate": 91.2,
-  "grad_rate_rank": 227,
-  "default_rate": 13.7,
+  "grad_rate": 95.4,
+  "grad_rate_rank": 143,
+  "default_rate": 15.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45373",
+  "email": true
 }

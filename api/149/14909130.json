@@ -1,6 +1,6 @@
 {
   "facility_code": "14909130",
-  "institution": "MIDDLESEX COUNTY COLLEGE",
+  "institution": "Middlesex County College",
   "city": "Edison",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 255,
   "cross": 185536,
-  "grad_rate": 17.7,
-  "grad_rate_rank": 942,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 6509,
-  "avg_stu_loan_debt_rank": 505,
-  "indicator_group": 2
+  "grad_rate": 15.3,
+  "grad_rate_rank": 1101,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 6750,
+  "avg_stu_loan_debt_rank": 416,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "8818",
+  "email": true
 }

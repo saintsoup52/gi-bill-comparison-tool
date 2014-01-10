@@ -1,6 +1,6 @@
 {
   "facility_code": "15010142",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - NASHVILLE",
+  "institution": "Tennessee College Of Applied Technology - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 248925,
-  "grad_rate": 80.8,
-  "grad_rate_rank": 615,
-  "default_rate": 28.8,
-  "avg_stu_loan_debt": 4952,
-  "avg_stu_loan_debt_rank": 786,
-  "indicator_group": 5
+  "grad_rate": 63.4,
+  "grad_rate_rank": 1504,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 5653,
+  "avg_stu_loan_debt_rank": 374,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37209",
+  "email": true
 }

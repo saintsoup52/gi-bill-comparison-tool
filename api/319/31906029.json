@@ -1,6 +1,6 @@
 {
   "facility_code": "31906029",
-  "institution": "NEW ENGLAND COLLEGE",
+  "institution": "New England College",
   "city": "Henniker",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 88,
   "cross": 182980,
-  "grad_rate": 37.6,
-  "grad_rate_rank": 1308,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 20776,
-  "avg_stu_loan_debt_rank": 1508,
-  "indicator_group": 1
+  "grad_rate": 42.7,
+  "grad_rate_rank": 1153,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 21189,
+  "avg_stu_loan_debt_rank": 1333,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3242",
+  "email": true
 }

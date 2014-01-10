@@ -1,6 +1,6 @@
 {
   "facility_code": "20154830",
-  "institution": "JAC INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 269",
+  "institution": "Jac International Brotherhood Of Electrical Workers Local 269",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8648",
+  "email": false
 }

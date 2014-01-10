@@ -1,6 +1,6 @@
 {
   "facility_code": "19002414",
-  "institution": "NATIONAL GUARD ARMORY - NEW CASTLE",
+  "institution": "National Guard Armory - New Castle",
   "city": "New Castle",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47362",
+  "email": false
 }

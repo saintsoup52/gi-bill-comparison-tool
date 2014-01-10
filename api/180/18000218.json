@@ -1,6 +1,6 @@
 {
   "facility_code": "18000218",
-  "institution": "CAPITAL AREA TECHNICAL COLLEGE - WESTSIDE",
+  "institution": "Capital Area Technical College - Westside",
   "city": "Plaquemine",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70764",
+  "email": false
 }

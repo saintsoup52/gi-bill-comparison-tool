@@ -1,6 +1,6 @@
 {
   "facility_code": "11700005",
-  "institution": "CALIFORNIA MARITIME ACADEMY",
+  "institution": "California Maritime Academy",
   "city": "Vallejo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 67,
   "cross": 111188,
-  "grad_rate": 62.3,
-  "grad_rate_rank": 507,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 28764,
-  "avg_stu_loan_debt_rank": 2032,
-  "indicator_group": 1
+  "grad_rate": 57.9,
+  "grad_rate_rank": 630,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 27500,
+  "avg_stu_loan_debt_rank": 1907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94590",
+  "email": true
 }

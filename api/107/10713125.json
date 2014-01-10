@@ -1,6 +1,6 @@
 {
   "facility_code": "10713125",
-  "institution": "MORGAN COUNTY SHERIFF DEPARTMENT",
+  "institution": "Morgan County Sheriff Department",
   "city": "Versailles",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65084",
+  "email": false
 }

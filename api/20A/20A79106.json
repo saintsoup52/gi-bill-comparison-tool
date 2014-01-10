@@ -1,6 +1,6 @@
 {
   "facility_code": "20A79106",
-  "institution": "MOUNTAIN PARKS ELECTRIC INC.",
+  "institution": "Mountain Parks Electric Inc.",
   "city": "Granby",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80446",
+  "email": false
 }

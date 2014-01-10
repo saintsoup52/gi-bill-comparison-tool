@@ -1,6 +1,6 @@
 {
   "facility_code": "31929121",
-  "institution": "FISHER COLLEGE   NEW BEDFORD",
+  "institution": "Fisher College   New Bedford",
   "city": "New Bedford",
   "state": "MA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 165802,
   "grad_rate": 40.1,
-  "grad_rate_rank": 325,
-  "default_rate": 19.0,
-  "avg_stu_loan_debt": 10625,
-  "avg_stu_loan_debt_rank": 894,
-  "indicator_group": 2
+  "grad_rate_rank": 408,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "2745",
+  "email": true
 }

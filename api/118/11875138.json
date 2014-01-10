@@ -1,6 +1,6 @@
 {
   "facility_code": "11875138",
-  "institution": "UNIVERSITY OF PITTSBURGH AT BRADFORD",
+  "institution": "University Of Pittsburgh At Bradford",
   "city": "Bradford",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 215266,
-  "grad_rate": 48.2,
-  "grad_rate_rank": 956,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "grad_rate": 48.6,
+  "grad_rate_rank": 944,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 23878,
+  "avg_stu_loan_debt_rank": 1608,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16701",
+  "email": true
 }

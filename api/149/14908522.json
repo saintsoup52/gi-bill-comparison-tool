@@ -1,6 +1,6 @@
 {
   "facility_code": "14908522",
-  "institution": "GRAND RAPIDS COMMUNITY COLLEGE OCCUPATIONAL TRAINING",
+  "institution": "Grand Rapids Community College Occupational Training",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 170055,
-  "grad_rate": 15.5,
-  "grad_rate_rank": 1012,
-  "default_rate": 21.9,
-  "avg_stu_loan_debt": 4994,
-  "avg_stu_loan_debt_rank": 263,
-  "indicator_group": 2
+  "grad_rate": 15.1,
+  "grad_rate_rank": 1107,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "49503",
+  "email": true
 }

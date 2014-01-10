@@ -1,6 +1,6 @@
 {
   "facility_code": "20241634",
-  "institution": "ABU TRAILERS INC",
+  "institution": "Abu Trailers Inc",
   "city": "Dwight",
   "state": "ND",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "58075",
+  "email": false
 }

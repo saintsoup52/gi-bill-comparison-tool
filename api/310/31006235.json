@@ -1,6 +1,6 @@
 {
   "facility_code": "31006235",
-  "institution": "ART ACADEMY OF CINCINNATI",
+  "institution": "Art Academy Of Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 201061,
-  "grad_rate": 43.6,
-  "grad_rate_rank": 1108,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 17750,
-  "avg_stu_loan_debt_rank": 1052,
-  "indicator_group": 1
+  "grad_rate": 52.8,
+  "grad_rate_rank": 807,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 21382,
+  "avg_stu_loan_debt_rank": 1350,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45202",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25063521",
-  "institution": "COMPREHENSIVE MEDICAL TEACHING INSTITUTE (CMTI)",
+  "institution": "Comprehensive Medical Teaching Institute (Cmti)",
   "city": "Hanover",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2339",
+  "email": true
 }

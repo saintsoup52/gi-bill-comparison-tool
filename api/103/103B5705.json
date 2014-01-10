@@ -1,6 +1,6 @@
 {
   "facility_code": "103B5705",
-  "institution": "CALIFORNIA DEPARTMENT OF CORRECTIONS DJJ/ VENTURA YCF",
+  "institution": "California Department Of Corrections Djj/ Ventura Ycf",
   "city": "Camarillo",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93101",
+  "email": false
 }

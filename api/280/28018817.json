@@ -1,6 +1,6 @@
 {
   "facility_code": "28018817",
-  "institution": "THE SALON PROFESSIONAL ACADEMY",
+  "institution": "The Salon Professional Academy",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 156967,
-  "grad_rate": 85.2,
-  "grad_rate_rank": 425,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 55.0,
+  "grad_rate_rank": 1801,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 8500,
+  "avg_stu_loan_debt_rank": 898,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40505",
+  "email": true
 }

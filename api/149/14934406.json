@@ -1,6 +1,6 @@
 {
   "facility_code": "14934406",
-  "institution": "COMMUNITY COLLEGE OF AURORA",
+  "institution": "Community College Of Aurora",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 440,
   "cross": 126863,
-  "grad_rate": 24.2,
-  "grad_rate_rank": 716,
-  "default_rate": 21.6,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 639,
-  "indicator_group": 2
+  "grad_rate": 14.9,
+  "grad_rate_rank": 1114,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "80011",
+  "email": true
 }

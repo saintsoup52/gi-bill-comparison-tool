@@ -1,6 +1,6 @@
 {
   "facility_code": "25000948",
-  "institution": "MOUNTAIN STATE SCHOOL OF MASSAGE",
+  "institution": "Mountain State School Of Massage",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 448275,
-  "grad_rate": 76.9,
-  "grad_rate_rank": 817,
-  "default_rate": 31.4,
-  "avg_stu_loan_debt": 6679,
-  "avg_stu_loan_debt_rank": 1097,
-  "indicator_group": 5
+  "grad_rate": 89.6,
+  "grad_rate_rank": 288,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 8179,
+  "avg_stu_loan_debt_rank": 854,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25304",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15038246",
-  "institution": "POWELL VALLEY HIGH SCHOOL",
+  "institution": "Powell Valley High School",
   "city": "Big Stone Gap",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24219",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25004204",
-  "institution": "PAUL MITCHELL THE SCHOOL OF ARKANSAS(FORMALLY FAYETTEVILLE BTY)",
+  "institution": "Paul Mitchell The School Of Arkansas(Formally Fayetteville Bty)",
   "city": "Fayetteville",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 107789,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 526,
-  "default_rate": 30.0,
-  "avg_stu_loan_debt": 6024,
-  "avg_stu_loan_debt_rank": 965,
-  "indicator_group": 5
+  "grad_rate": 71.1,
+  "grad_rate_rank": 1123,
+  "default_rate": 37.5,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72701",
+  "email": false
 }

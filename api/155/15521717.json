@@ -1,6 +1,6 @@
 {
   "facility_code": "15521717",
-  "institution": "EAST CARTER COUNTY ADULT EDUCATION CENTER",
+  "institution": "East Carter County Adult Education Center",
   "city": "Grayson",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41143",
+  "email": false
 }

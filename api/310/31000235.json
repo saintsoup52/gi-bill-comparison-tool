@@ -1,6 +1,6 @@
 {
   "facility_code": "31000235",
-  "institution": "ASHLAND UNIVERSITY",
+  "institution": "Ashland University",
   "city": "Ashland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 98,
   "cross": 201104,
-  "grad_rate": 61.1,
-  "grad_rate_rank": 531,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 19885,
-  "avg_stu_loan_debt_rank": 1385,
-  "indicator_group": 1
+  "grad_rate": 59.8,
+  "grad_rate_rank": 571,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44805",
+  "email": false
 }

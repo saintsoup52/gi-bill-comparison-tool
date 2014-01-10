@@ -1,6 +1,6 @@
 {
   "facility_code": "28016744",
-  "institution": "UTAH COLLEGE OF MASSAGE THERAPY - SLC",
+  "institution": "Utah College Of Massage Therapy - Slc",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 380474,
-  "grad_rate": 69.8,
-  "grad_rate_rank": 1183,
-  "default_rate": 26.7,
-  "avg_stu_loan_debt": 9367,
-  "avg_stu_loan_debt_rank": 1623,
-  "indicator_group": 5
+  "grad_rate": 81.7,
+  "grad_rate_rank": 571,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 8607,
+  "avg_stu_loan_debt_rank": 917,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84111",
+  "email": false
 }

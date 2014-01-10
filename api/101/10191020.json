@@ -1,6 +1,6 @@
 {
   "facility_code": "10191020",
-  "institution": "LJT & ASSOCIATES INC.",
+  "institution": "Ljt & Associates Inc.",
   "city": "Columbia",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21046",
+  "email": true
 }

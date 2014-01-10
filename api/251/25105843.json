@@ -1,6 +1,6 @@
 {
   "facility_code": "25105843",
-  "institution": "PAUL MITCHELL THE SCHOOL DALLAS",
+  "institution": "Paul Mitchell The School Dallas",
   "city": "Carrollton",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 224156,
-  "grad_rate": 73.1,
-  "grad_rate_rank": 1016,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 12296,
-  "avg_stu_loan_debt_rank": 2372,
-  "indicator_group": 5
+  "grad_rate": 69.4,
+  "grad_rate_rank": 1215,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 12184,
+  "avg_stu_loan_debt_rank": 1799,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75006",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25559335",
-  "institution": "CENTRAL OHIO SCHOOL OF MASSAGE (31)",
+  "institution": "Central Ohio School Of Massage (31)",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43229",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20A18735",
-  "institution": "ARES INC.  K",
+  "institution": "Ares Inc.  K",
   "city": "Port Clinton",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34452",
+  "email": false
 }

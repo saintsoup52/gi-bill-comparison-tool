@@ -1,6 +1,6 @@
 {
   "facility_code": "25016346",
-  "institution": "VIRGINIA SCHOOL OF HAIR DESIGN",
+  "institution": "Virginia School Of Hair Design",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 234119,
-  "grad_rate": 65.9,
-  "grad_rate_rank": 1360,
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23669",
+  "email": true
 }

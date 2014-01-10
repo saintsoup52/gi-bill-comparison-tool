@@ -1,6 +1,6 @@
 {
   "facility_code": "24000136",
-  "institution": "BROWN MACKIE COLLEGE-OKLAHOMA CITY",
+  "institution": "Brown Mackie College-Oklahoma City",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73132",
+  "email": false
 }

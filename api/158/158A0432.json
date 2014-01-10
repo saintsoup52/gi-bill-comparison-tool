@@ -1,6 +1,6 @@
 {
   "facility_code": "158A0432",
-  "institution": "BOCES RENSSELAER-COLUMBIA-GREENE COUNTIES (TROY)",
+  "institution": "Boces Rensselaer-Columbia-Greene Counties (Troy)",
   "city": "Troy",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 391333,
-  "grad_rate": 91.3,
-  "grad_rate_rank": 224,
-  "default_rate": 18.6,
+  "grad_rate": 90.9,
+  "grad_rate_rank": 243,
+  "default_rate": 29.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12180",
+  "email": false
 }

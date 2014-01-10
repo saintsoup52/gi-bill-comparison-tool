@@ -1,6 +1,6 @@
 {
   "facility_code": "20273504",
-  "institution": "BETTIS PLUMBING (WITHDRAWN)",
+  "institution": "Bettis Plumbing (Withdrawn)",
   "city": "Camden",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71711",
+  "email": "No (SCO)"
 }

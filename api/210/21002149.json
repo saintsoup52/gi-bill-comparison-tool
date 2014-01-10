@@ -1,6 +1,6 @@
 {
   "facility_code": "21002149",
-  "institution": "GLOBE UNIVERSITY - APPLETON",
+  "institution": "Globe University - Appleton",
   "city": "Grand Chute",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 466514,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 15834,
+  "avg_stu_loan_debt_rank": 1048,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "54914",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10515217",
-  "institution": "FAA CINCINNATI AIR TRAFFIC CONTROL TOWER",
+  "institution": "Faa Cincinnati Air Traffic Control Tower",
   "city": "Erlanger",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41018",
+  "email": false
 }

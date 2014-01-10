@@ -1,6 +1,6 @@
 {
   "facility_code": "31924122",
-  "institution": "LAWRENCE TECHNOLOGICAL UNIVERSITY",
+  "institution": "Lawrence Technological University",
   "city": "Southfield",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 170675,
-  "grad_rate": 43.9,
-  "grad_rate_rank": 1097,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 26690,
-  "avg_stu_loan_debt_rank": 2014,
-  "indicator_group": 1
+  "grad_rate": 51.6,
+  "grad_rate_rank": 845,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 25262,
+  "avg_stu_loan_debt_rank": 1800,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48075",
+  "email": true
 }

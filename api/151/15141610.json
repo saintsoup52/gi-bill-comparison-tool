@@ -1,6 +1,6 @@
 {
   "facility_code": "15141610",
-  "institution": "LIVELY TECHNICAL CENTER",
+  "institution": "Lively Technical Center",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 64,
   "cross": 135276,
-  "grad_rate": 31.5,
-  "grad_rate_rank": 2127,
+  "grad_rate": 35.7,
+  "grad_rate_rank": 2153,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32304",
+  "email": true
 }

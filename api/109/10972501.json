@@ -1,6 +1,6 @@
 {
   "facility_code": "10972501",
-  "institution": "(CHAPTER 31)DIRECTORATE OF ACCOUNTING AND FINANCE",
+  "institution": "(Chapter 31)Directorate Of Accounting And Finance",
   "city": "Maxwell Afb",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36112",
+  "email": "No (SCO)"
 }

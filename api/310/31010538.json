@@ -1,6 +1,6 @@
 {
   "facility_code": "31010538",
-  "institution": "MESSIAH COLLEGE",
+  "institution": "Messiah College",
   "city": "Mechanicsburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 50,
   "cross": 213996,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 236,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 76.3,
+  "grad_rate_rank": 211,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 24313,
+  "avg_stu_loan_debt_rank": 1672,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17055",
+  "email": true
 }

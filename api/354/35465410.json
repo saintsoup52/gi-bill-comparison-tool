@@ -1,6 +1,6 @@
 {
   "facility_code": "35465410",
-  "institution": "CENTER FOR GERONTOLOGY",
+  "institution": "Center For Gerontology",
   "city": "Fort Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33307",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14903432",
-  "institution": "DUTCHESS COMMUNITY COLLEGE",
+  "institution": "Dutchess Community College",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 223,
   "cross": 190840,
-  "grad_rate": 24.3,
-  "grad_rate_rank": 712,
-  "default_rate": 19.5,
+  "grad_rate": 24.1,
+  "grad_rate_rank": 818,
+  "default_rate": 19.0,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12601",
+  "email": true
 }

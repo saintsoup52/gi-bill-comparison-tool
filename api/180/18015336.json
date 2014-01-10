@@ -1,6 +1,6 @@
 {
   "facility_code": "18015336",
-  "institution": "KIAMICHI TECHNOLOGY CTR - POTEAU",
+  "institution": "Kiamichi Technology Ctr - Poteau",
   "city": "Poteau",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 375744,
-  "grad_rate": 81.9,
-  "grad_rate_rank": 551,
+  "grad_rate": 88.2,
+  "grad_rate_rank": 322,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74953",
+  "email": false
 }

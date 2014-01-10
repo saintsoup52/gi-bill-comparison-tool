@@ -1,6 +1,6 @@
 {
   "facility_code": "21382032",
-  "institution": "NEW YORK COLLEGE OF TRADITIONAL CHINESE MEDICINE",
+  "institution": "New York College Of Traditional Chinese Medicine",
   "city": "Mineola",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 439783,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 4
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 8334,
+  "avg_stu_loan_debt_rank": 49,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "11501",
+  "email": true
 }

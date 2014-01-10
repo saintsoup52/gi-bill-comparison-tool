@@ -1,6 +1,6 @@
 {
   "facility_code": "31828210",
-  "institution": "UNIVERSIDAD DEL TURABO",
+  "institution": "Universidad Del Turabo",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 243601,
-  "grad_rate": 15.0,
-  "grad_rate_rank": 1730,
-  "default_rate": 17.8,
-  "avg_stu_loan_debt": 4250,
-  "avg_stu_loan_debt_rank": 89,
-  "indicator_group": 1
+  "grad_rate": 16.4,
+  "grad_rate_rank": 1760,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 5,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32857",
+  "email": true
 }

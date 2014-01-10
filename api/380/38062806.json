@@ -1,6 +1,6 @@
 {
   "facility_code": "38062806",
-  "institution": "RAVENCREST CHALET",
+  "institution": "Ravencrest Chalet",
   "city": "Estes Park",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80517",
+  "email": true
 }

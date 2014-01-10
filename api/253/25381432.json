@@ -1,6 +1,6 @@
 {
   "facility_code": "25381432",
-  "institution": "STUDIO JEWELERS",
+  "institution": "Studio Jewelers",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 430564,
-  "grad_rate": 94.8,
-  "grad_rate_rank": 135,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 7700,
-  "avg_stu_loan_debt_rank": 1293,
-  "indicator_group": 5
+  "grad_rate": 93.5,
+  "grad_rate_rank": 177,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 4640,
+  "avg_stu_loan_debt_rank": 191,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10016",
+  "email": true
 }

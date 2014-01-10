@@ -1,6 +1,6 @@
 {
   "facility_code": "25477810",
-  "institution": "ARTISTIC SCHOOL OF NAILS AND COSMETOLOGY INC",
+  "institution": "Artistic School Of Nails And Cosmetology Inc",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 378886,
-  "grad_rate": 79.5,
-  "grad_rate_rank": 683,
-  "default_rate": 44.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 30.0,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32812",
+  "email": false
 }

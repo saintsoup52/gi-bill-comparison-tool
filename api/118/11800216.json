@@ -1,6 +1,6 @@
 {
   "facility_code": "11800216",
-  "institution": "UNIVERSITY OF KANSAS MEDICAL CENTER",
+  "institution": "University Of Kansas Medical Center",
   "city": "Kansas City",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 43,
   "cross": 155317,
-  "grad_rate": 60.7,
-  "grad_rate_rank": 543,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 18625,
-  "avg_stu_loan_debt_rank": 1164,
-  "indicator_group": 1
+  "grad_rate": 64.0,
+  "grad_rate_rank": 465,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 20269,
+  "avg_stu_loan_debt_rank": 1225,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66160",
+  "email": true
 }

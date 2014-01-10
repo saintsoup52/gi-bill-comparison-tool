@@ -1,6 +1,6 @@
 {
   "facility_code": "30O88405",
-  "institution": "THE JATC OF THE PLUMBING AND PIPEFITTING INDUSTRY LOCAL 38",
+  "institution": "The Jatc Of The Plumbing And Pipefitting Industry Local 38",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94124",
+  "email": true
 }

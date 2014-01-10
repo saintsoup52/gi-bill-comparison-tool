@@ -1,6 +1,6 @@
 {
   "facility_code": "10A15810",
-  "institution": "(FDLE) FLORIDA DEPARTMENT OF LAW ENFORCEMENT CAPITOL POLICE",
+  "institution": "(Fdle) Florida Department Of Law Enforcement Capitol Police",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32399",
+  "email": true
 }

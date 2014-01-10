@@ -1,6 +1,6 @@
 {
   "facility_code": "25481210",
-  "institution": "AVIATION INSTITUTE OF MAINTENANCE",
+  "institution": "Aviation Institute Of Maintenance",
   "city": "Casselberry",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 62,
   "cross": 457411,
-  "grad_rate": 85.2,
-  "grad_rate_rank": 425,
-  "default_rate": null,
-  "avg_stu_loan_debt": 14694,
-  "avg_stu_loan_debt_rank": 2462,
-  "indicator_group": 5
+  "grad_rate": 45.0,
+  "grad_rate_rank": 2032,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 24886,
+  "avg_stu_loan_debt_rank": 2016,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32707",
+  "email": true
 }

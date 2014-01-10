@@ -1,6 +1,6 @@
 {
   "facility_code": "24003205",
-  "institution": "THE LOS ANGELES FILM SCHOOL",
+  "institution": "The Los Angeles Film School",
   "city": "Hollywood",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 509,
   "cross": 436429,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 12.4,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 69.5,
+  "grad_rate_rank": 95,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "90028",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10643840",
-  "institution": "COLLEGE OF CHARLESTON DEPARTMENT OF PUBLIC SAFETY",
+  "institution": "College Of Charleston Department Of Public Safety",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29424",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25008033",
-  "institution": "MITCHELLS HAIR STYLING ACADEMY",
+  "institution": "Mitchells Hair Styling Academy",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 413972,
-  "grad_rate": 88.8,
-  "grad_rate_rank": 314,
-  "default_rate": 16.8,
+  "grad_rate": 89.1,
+  "grad_rate_rank": 302,
+  "default_rate": 25.5,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "27606",
+  "email": true
 }

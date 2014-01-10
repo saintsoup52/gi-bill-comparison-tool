@@ -1,6 +1,6 @@
 {
   "facility_code": "18018444",
-  "institution": "SALT LAKE COMMUNITY COLLEGE SCHOOL OF APPLIED TECHNOLOGY",
+  "institution": "Salt Lake Community College School Of Applied Technology",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 230746,
-  "grad_rate": 24.2,
-  "grad_rate_rank": 716,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 23.2,
+  "grad_rate_rank": 839,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 5251,
+  "avg_stu_loan_debt_rank": 204,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "84115",
+  "email": true
 }

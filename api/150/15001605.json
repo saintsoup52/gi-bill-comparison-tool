@@ -1,6 +1,6 @@
 {
   "facility_code": "15001605",
-  "institution": "REGIONAL WATERSHED RESEARCH & TRNG CTR (CHAP 31)",
+  "institution": "Regional Watershed Research & Trng Ctr (Chap 31)",
   "city": "Hayfork",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96041",
+  "email": "No (SCO)"
 }

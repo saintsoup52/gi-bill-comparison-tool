@@ -1,6 +1,6 @@
 {
   "facility_code": "31902104",
-  "institution": "HARDING UNIVERSITY",
+  "institution": "Harding University",
   "city": "Searcy",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 105,
   "cross": 107044,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 479,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 22405,
-  "avg_stu_loan_debt_rank": 1694,
-  "indicator_group": 1
+  "grad_rate": 60.7,
+  "grad_rate_rank": 545,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 23500,
+  "avg_stu_loan_debt_rank": 1574,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72149",
+  "email": false
 }

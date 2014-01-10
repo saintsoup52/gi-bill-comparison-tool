@@ -1,6 +1,6 @@
 {
   "facility_code": "31903139",
-  "institution": "BRYANT UNIVERSITY",
+  "institution": "Bryant University",
   "city": "Smithfield",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 217165,
-  "grad_rate": 77.2,
-  "grad_rate_rank": 189,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 80.4,
+  "grad_rate_rank": 154,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2917",
+  "email": true
 }

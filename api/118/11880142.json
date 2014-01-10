@@ -1,6 +1,6 @@
 {
   "facility_code": "11880142",
-  "institution": "AUSTIN PEAY STATE UNIVERSITY - FT CAMPBELL CENTER",
+  "institution": "Austin Peay State University - Ft Campbell Center",
   "city": "Clarksville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 689,
   "cross": 219602,
-  "grad_rate": 33.9,
-  "grad_rate_rank": 1393,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 17250,
-  "avg_stu_loan_debt_rank": 977,
-  "indicator_group": 1
+  "grad_rate": 35.8,
+  "grad_rate_rank": 1373,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 17431,
+  "avg_stu_loan_debt_rank": 837,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37044",
+  "email": true
 }

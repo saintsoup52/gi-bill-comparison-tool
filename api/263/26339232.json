@@ -1,6 +1,6 @@
 {
   "facility_code": "26339232",
-  "institution": "BERK TRADE AND BUSINESS SCHOOL",
+  "institution": "Berk Trade And Business School",
   "city": "Long Island City",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 189219,
-  "grad_rate": 72.3,
-  "grad_rate_rank": 1061,
-  "default_rate": 33.5,
-  "avg_stu_loan_debt": 6129,
-  "avg_stu_loan_debt_rank": 977,
-  "indicator_group": 5
+  "grad_rate": 80.8,
+  "grad_rate_rank": 606,
+  "default_rate": 16.3,
+  "avg_stu_loan_debt": 6128,
+  "avg_stu_loan_debt_rank": 428,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11101",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31805430",
-  "institution": "SETON HALL UNIVERISTY IMMACULATE CONCEPTION SEMINARY",
+  "institution": "Seton Hall Univeristy Immaculate Conception Seminary",
   "city": "South Ornge",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 186584,
-  "grad_rate": 65.8,
-  "grad_rate_rank": 410,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 19150,
-  "avg_stu_loan_debt_rank": 1272,
-  "indicator_group": 1
+  "grad_rate": 66.6,
+  "grad_rate_rank": 389,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7446",
+  "email": false
 }

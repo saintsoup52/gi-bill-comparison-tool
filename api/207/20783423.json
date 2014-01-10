@@ -1,6 +1,6 @@
 {
   "facility_code": "20783423",
-  "institution": "SE MN PLUMBERS & STEAMFITTERS",
+  "institution": "Se Mn Plumbers & Steamfitters",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55903",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20122003",
-  "institution": "UNISOURCE ENERGY SERVICES/SANTA CRUZ ELEC & GAS OPS",
+  "institution": "Unisource Energy Services/Santa Cruz Elec & Gas Ops",
   "city": "Nogales",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85621",
+  "email": false
 }

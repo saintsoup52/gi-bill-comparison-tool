@@ -1,6 +1,6 @@
 {
   "facility_code": "249A1438",
-  "institution": "ERIE BUSINESS CENTER/SOUTH (NEW CASTLE)",
+  "institution": "Erie Business Center/South (New Castle)",
   "city": "New Castle",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 213686,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 58,
-  "default_rate": 31.0,
-  "avg_stu_loan_debt": 12122,
-  "avg_stu_loan_debt_rank": 720,
-  "indicator_group": 3
+  "grad_rate": 62.5,
+  "grad_rate_rank": 149,
+  "default_rate": 33.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16101",
+  "email": true
 }

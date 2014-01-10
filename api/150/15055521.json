@@ -1,6 +1,6 @@
 {
   "facility_code": "15055521",
-  "institution": "SHAWSHEEN VALLEY SCHOOL OF PRACTICAL NURSING",
+  "institution": "Shawsheen Valley School Of Practical Nursing",
   "city": "Billerica",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 412535,
-  "grad_rate": 90.0,
-  "grad_rate_rank": 262,
-  "default_rate": 7.4,
+  "grad_rate": 88.9,
+  "grad_rate_rank": 305,
+  "default_rate": 5.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1821",
+  "email": true
 }

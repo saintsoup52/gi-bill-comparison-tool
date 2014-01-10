@@ -1,6 +1,6 @@
 {
   "facility_code": "11902114",
-  "institution": "INDIANA UNIVERSITY AT SOUTH BEND",
+  "institution": "Indiana University At South Bend",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 245,
   "cross": 151342,
-  "grad_rate": 22.2,
-  "grad_rate_rank": 1636,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 11577,
-  "avg_stu_loan_debt_rank": 337,
-  "indicator_group": 1
+  "grad_rate": 23.4,
+  "grad_rate_rank": 1664,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 12868,
+  "avg_stu_loan_debt_rank": 352,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46634",
+  "email": false
 }

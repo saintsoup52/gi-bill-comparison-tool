@@ -1,6 +1,6 @@
 {
   "facility_code": "32951532",
-  "institution": "ISABELLA GRAHM HART SCH OF PRACTICAL NURSING",
+  "institution": "Isabella Grahm Hart Sch Of Practical Nursing",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 191940,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 14.8,
-  "avg_stu_loan_debt": 10708,
-  "avg_stu_loan_debt_rank": 2211,
-  "indicator_group": 5
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14617",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25469710",
-  "institution": "KEY POWER TECHNICAL INSTITUTE (CHAPT 31 ONLY)",
+  "institution": "Key Power Technical Institute (Chapt 31 Only)",
   "city": "Pembroke Pines",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33024",
+  "email": "No (SCO)"
 }

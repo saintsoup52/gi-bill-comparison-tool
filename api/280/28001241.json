@@ -1,6 +1,6 @@
 {
   "facility_code": "28001241",
-  "institution": "BLACK HILLS BEAUTY COLLEGE INC.",
+  "institution": "Black Hills Beauty College Inc.",
   "city": "Rapid City",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 219037,
-  "grad_rate": 67.1,
-  "grad_rate_rank": 1285,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 7897,
-  "avg_stu_loan_debt_rank": 1324,
-  "indicator_group": 5
+  "grad_rate": 78.7,
+  "grad_rate_rank": 719,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 8190,
+  "avg_stu_loan_debt_rank": 857,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "57701",
+  "email": false
 }

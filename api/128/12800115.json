@@ -1,6 +1,6 @@
 {
   "facility_code": "12800115",
-  "institution": "UNIVERSITY OF IOWA HOSP/CLINIC EMS LEARNING RESOURCE CENTER",
+  "institution": "University Of Iowa Hosp/Clinic Ems Learning Resource Center",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 153658,
-  "grad_rate": 70.8,
-  "grad_rate_rank": 290,
-  "default_rate": 2.9,
-  "avg_stu_loan_debt": 20500,
-  "avg_stu_loan_debt_rank": 1475,
-  "indicator_group": 1
+  "grad_rate": 69.8,
+  "grad_rate_rank": 316,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 20680,
+  "avg_stu_loan_debt_rank": 1280,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52242",
+  "email": false
 }

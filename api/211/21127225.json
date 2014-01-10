@@ -1,6 +1,6 @@
 {
   "facility_code": "21127225",
-  "institution": "STRAYER UNIVERSITY",
+  "institution": "Strayer University",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64131",
+  "email": false
 }

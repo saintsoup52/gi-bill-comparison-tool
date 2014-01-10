@@ -1,6 +1,6 @@
 {
   "facility_code": "35801832",
-  "institution": "FAXTON-ST. LUKE'S HEALTHCARE SCHOOL OF MEDICAL RADIOGRAPHY",
+  "institution": "Faxton-St. Luke'S Healthcare School Of Medical Radiography",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 195669,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "13503",
+  "email": true
 }

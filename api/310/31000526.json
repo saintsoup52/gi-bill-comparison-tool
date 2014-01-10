@@ -1,6 +1,6 @@
 {
   "facility_code": "31000526",
-  "institution": "MINISTRY TRAINING INSTITUTE OF OBU",
+  "institution": "Ministry Training Institute Of Obu",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 207403,
-  "grad_rate": 51.2,
-  "grad_rate_rank": 835,
-  "default_rate": 8.3,
-  "avg_stu_loan_debt": 15164,
-  "avg_stu_loan_debt_rank": 752,
-  "indicator_group": 1
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 13684,
+  "avg_stu_loan_debt_rank": 414,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59106",
+  "email": false
 }

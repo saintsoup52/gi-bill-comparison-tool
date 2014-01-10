@@ -1,6 +1,6 @@
 {
   "facility_code": "25092912",
-  "institution": "VELVET TOUCH ACADEMY OF COSMETOLOGY",
+  "institution": "Velvet Touch Academy Of Cosmetology",
   "city": "Nampa",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 476762,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 89.7,
+  "grad_rate_rank": 284,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "83687",
+  "email": false
 }

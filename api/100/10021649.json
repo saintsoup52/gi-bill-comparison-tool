@@ -1,6 +1,6 @@
 {
   "facility_code": "10021649",
-  "institution": "WISCONSIN RAPIDS CITY WATER WORKS",
+  "institution": "Wisconsin Rapids City Water Works",
   "city": "Wisconsin Rapids",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54495",
+  "email": false
 }

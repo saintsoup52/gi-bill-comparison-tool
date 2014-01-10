@@ -1,6 +1,6 @@
 {
   "facility_code": "24947401",
-  "institution": "FORTIS INSTITUTE BIRMINGHAM",
+  "institution": "Fortis Institute Birmingham",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 94,
   "cross": 455628,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 10.3,
+  "grad_rate": 51.9,
+  "grad_rate_rank": 381,
+  "default_rate": 12.4,
   "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 684,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 569,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "35211",
+  "email": true
 }

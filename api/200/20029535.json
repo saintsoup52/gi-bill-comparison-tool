@@ -1,6 +1,6 @@
 {
   "facility_code": "20029535",
-  "institution": "FORD MOTOR CO LIMA ENGINE PLANT  K",
+  "institution": "Ford Motor Co Lima Engine Plant  K",
   "city": "Lima",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45802",
+  "email": false
 }

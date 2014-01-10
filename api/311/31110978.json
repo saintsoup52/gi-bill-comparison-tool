@@ -1,10 +1,10 @@
 {
   "facility_code": "31110978",
-  "institution": "GLION INSTITUTE OF HIGHER EDUC",
+  "institution": "Glion Institute Of Higher Educ",
   "city": "Glion Sur Montreux",
   "state": "Switzerland",
   "country": "Switzerland",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31902029",
-  "institution": "RIVIER UNIVERSITY",
+  "institution": "Rivier University",
   "city": "Nashua",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 57,
   "cross": 183211,
-  "grad_rate": 31.9,
-  "grad_rate_rank": 1451,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 51.0,
+  "grad_rate_rank": 867,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 25500,
+  "avg_stu_loan_debt_rank": 1807,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3060",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20241424",
-  "institution": "INTERNATIONAL PAPER CO-MOSS POINT",
+  "institution": "International Paper Co-Moss Point",
   "city": "Moss Point",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39563",
+  "email": false
 }

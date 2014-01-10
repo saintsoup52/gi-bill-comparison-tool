@@ -1,6 +1,6 @@
 {
   "facility_code": "31010648",
-  "institution": "WHEELING JESUIT UNIVERSITY",
+  "institution": "Wheeling Jesuit University",
   "city": "Wheeling",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 238078,
-  "grad_rate": 62.1,
-  "grad_rate_rank": 511,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 17475,
-  "avg_stu_loan_debt_rank": 1003,
-  "indicator_group": 1
+  "grad_rate": 60.9,
+  "grad_rate_rank": 541,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 18553,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26003",
+  "email": true
 }

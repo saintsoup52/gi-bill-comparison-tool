@@ -1,6 +1,6 @@
 {
   "facility_code": "20484036",
-  "institution": "SCHLUMBERGER OILFIELD SERVICES",
+  "institution": "Schlumberger Oilfield Services",
   "city": "El Reno",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73036",
+  "email": false
 }

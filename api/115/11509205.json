@@ -1,6 +1,6 @@
 {
   "facility_code": "11509205",
-  "institution": "CALIFORNIA STATE UNIVERSITY-FULLERTON",
+  "institution": "California State University-Fullerton",
   "city": "Fullerton",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 522,
   "cross": 110565,
-  "grad_rate": 50.1,
-  "grad_rate_rank": 875,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "grad_rate": 51.2,
+  "grad_rate_rank": 859,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 12962,
+  "avg_stu_loan_debt_rank": 357,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92831",
+  "email": false
 }

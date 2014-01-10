@@ -1,6 +1,6 @@
 {
   "facility_code": "31906105",
-  "institution": "THE MASTER'S SEMINARY",
+  "institution": "The Master'S Seminary",
   "city": "Sun Valley",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 117751,
-  "grad_rate": 65.2,
-  "grad_rate_rank": 428,
-  "default_rate": 0.9,
-  "avg_stu_loan_debt": 17750,
-  "avg_stu_loan_debt_rank": 1052,
-  "indicator_group": 1
+  "grad_rate": 56.2,
+  "grad_rate_rank": 696,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 16668,
+  "avg_stu_loan_debt_rank": 768,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91352",
+  "email": false
 }

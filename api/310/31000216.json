@@ -1,6 +1,6 @@
 {
   "facility_code": "31000216",
-  "institution": "BETHANY COLLEGE",
+  "institution": "Bethany College",
   "city": "Lindsborg",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 154721,
-  "grad_rate": 41.9,
-  "grad_rate_rank": 1158,
-  "default_rate": 16.8,
-  "avg_stu_loan_debt": 15870,
-  "avg_stu_loan_debt_rank": 825,
-  "indicator_group": 1
+  "grad_rate": 33.5,
+  "grad_rate_rank": 1428,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 16750,
+  "avg_stu_loan_debt_rank": 777,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "67456",
+  "email": true
 }

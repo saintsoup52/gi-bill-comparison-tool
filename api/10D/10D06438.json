@@ -1,6 +1,6 @@
 {
   "facility_code": "10D06438",
-  "institution": "DEFENSE LOGISTIC AGENCY - SUSQUEHANNA",
+  "institution": "Defense Logistic Agency - Susquehanna",
   "city": "New Cumberland",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17070",
+  "email": true
 }

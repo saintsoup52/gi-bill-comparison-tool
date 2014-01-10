@@ -1,6 +1,6 @@
 {
   "facility_code": "25094843",
-  "institution": "SOUTHERN CAREERS INST AUSTIN",
+  "institution": "Southern Careers Inst Austin",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 226903,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 1655,
-  "default_rate": 37.3,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 26.7,
+  "grad_rate_rank": 2215,
+  "default_rate": 30.2,
+  "avg_stu_loan_debt": 6520,
+  "avg_stu_loan_debt_rank": 551,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78704",
+  "email": true
 }

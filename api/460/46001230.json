@@ -1,6 +1,6 @@
 {
   "facility_code": "46001230",
-  "institution": "MEDICAL-SURGICAL NURSING CERTIFICATION BOARD (MSNCB)",
+  "institution": "Medical-Surgical Nursing Certification Board (Msncb)",
   "city": "Pitman",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8071",
+  "email": true
 }

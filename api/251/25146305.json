@@ -1,6 +1,6 @@
 {
   "facility_code": "25146305",
-  "institution": "THE COACHES TRAINING INSTITUTE",
+  "institution": "The Coaches Training Institute",
   "city": "San Rafael",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94903",
+  "email": false
 }

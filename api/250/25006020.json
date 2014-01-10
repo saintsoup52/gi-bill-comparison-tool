@@ -1,6 +1,6 @@
 {
   "facility_code": "25006020",
-  "institution": "AARON'S ACADEMY OF BEAUTY",
+  "institution": "Aaron'S Academy Of Beauty",
   "city": "Waldorf",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 161615,
-  "grad_rate": 81.8,
-  "grad_rate_rank": 554,
-  "default_rate": 22.2,
-  "avg_stu_loan_debt": 6003,
-  "avg_stu_loan_debt_rank": 961,
-  "indicator_group": 5
+  "grad_rate": 68.8,
+  "grad_rate_rank": 1241,
+  "default_rate": 35.1,
+  "avg_stu_loan_debt": 5775,
+  "avg_stu_loan_debt_rank": 391,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "20602",
+  "email": false
 }

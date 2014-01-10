@@ -1,6 +1,6 @@
 {
   "facility_code": "10B63135",
-  "institution": "THE J LEONARD C INDUSTRIAL REHAB CENTER (31)",
+  "institution": "The J Leonard C Industrial Rehab Center (31)",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43221",
+  "email": "No (SCO)"
 }

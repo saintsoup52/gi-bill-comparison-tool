@@ -1,6 +1,6 @@
 {
   "facility_code": "14950411",
-  "institution": "CHATTAHOOCHEE TECHNICAL COLLEGE",
+  "institution": "Chattahoochee Technical College",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 618,
   "cross": 140331,
-  "grad_rate": 17.2,
-  "grad_rate_rank": 464,
+  "grad_rate": 11.8,
+  "grad_rate_rank": 707,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30060",
+  "email": true
 }

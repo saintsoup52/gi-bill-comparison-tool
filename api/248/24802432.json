@@ -1,6 +1,6 @@
 {
   "facility_code": "24802432",
-  "institution": "LONG ISLAND BUSINESS INSTITUTE - COMMACK",
+  "institution": "Long Island Business Institute - Commack",
   "city": "Commack",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 192509,
-  "grad_rate": 24.5,
-  "grad_rate_rank": 706,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 4840,
-  "avg_stu_loan_debt_rank": 258,
-  "indicator_group": 2
+  "grad_rate": 29.6,
+  "grad_rate_rank": 645,
+  "default_rate": 24.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "11725",
+  "email": false
 }

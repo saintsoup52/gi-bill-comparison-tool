@@ -1,6 +1,6 @@
 {
   "facility_code": "20J79538",
-  "institution": "NORTHEASTERN POWER COMPANY",
+  "institution": "Northeastern Power Company",
   "city": "Mcadoo",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18237",
+  "email": false
 }

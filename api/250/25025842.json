@@ -1,6 +1,6 @@
 {
   "facility_code": "25025842",
-  "institution": "LEARN TO LEARN INC. DBA SYLVAN LEARNING CENTER - CHAPTER 31 ONLY",
+  "institution": "Learn To Learn Inc. Dba Sylvan Learning Center - Chapter 31 Only",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37421",
+  "email": false
 }

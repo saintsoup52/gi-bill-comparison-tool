@@ -1,6 +1,6 @@
 {
   "facility_code": "11822546",
-  "institution": "GEORGE MASON UNIV OPER BREAKTHROUGH-CH 31 ONLY",
+  "institution": "George Mason Univ Oper Breakthrough-Ch 31 Only",
   "city": "Fairfax",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 232186,
-  "grad_rate": 64.5,
-  "grad_rate_rank": 446,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 16782,
-  "avg_stu_loan_debt_rank": 920,
-  "indicator_group": 1
+  "grad_rate": 65.9,
+  "grad_rate_rank": 411,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 17554,
+  "avg_stu_loan_debt_rank": 866,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22030",
+  "email": "No (SCO)"
 }

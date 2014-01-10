@@ -1,6 +1,6 @@
 {
   "facility_code": "25035007",
-  "institution": "INDUSTRIAL MANAGEMENT AND TRAINING INSTITUTE INC",
+  "institution": "Industrial Management And Training Institute Inc",
   "city": "Waterbury",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 415057,
-  "grad_rate": 73.6,
-  "grad_rate_rank": 992,
-  "default_rate": 17.3,
-  "avg_stu_loan_debt": 7067,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 5
+  "grad_rate": 78.5,
+  "grad_rate_rank": 733,
+  "default_rate": 18.3,
+  "avg_stu_loan_debt": 7389,
+  "avg_stu_loan_debt_rank": 680,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6706",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31801139",
-  "institution": "ROGER WILLIAMS UNIVERSITY / REGISTRAR OFFICE",
+  "institution": "Roger Williams University / Registrar Office",
   "city": "Bristol",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 122,
   "cross": 217518,
-  "grad_rate": 59.4,
-  "grad_rate_rank": 581,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 23503,
-  "avg_stu_loan_debt_rank": 1832,
-  "indicator_group": 1
+  "grad_rate": 61.5,
+  "grad_rate_rank": 529,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 24347,
+  "avg_stu_loan_debt_rank": 1675,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2809",
+  "email": true
 }

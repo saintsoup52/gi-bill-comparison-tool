@@ -1,6 +1,6 @@
 {
   "facility_code": "21014206",
-  "institution": "AMERICAN SENTINEL UNIVERSITY",
+  "institution": "American Sentinel University",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 165,
   "cross": 460738,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4517,
-  "avg_stu_loan_debt_rank": 96,
-  "indicator_group": 1
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 5361,
+  "avg_stu_loan_debt_rank": 28,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80014",
+  "email": true
 }

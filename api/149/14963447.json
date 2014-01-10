@@ -1,6 +1,6 @@
 {
   "facility_code": "14963447",
-  "institution": "CASCADIA COMMUNITY COLLEGE",
+  "institution": "Cascadia Community College",
   "city": "Bothell",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 101,
   "cross": 439190,
-  "grad_rate": 29.1,
-  "grad_rate_rank": 565,
-  "default_rate": 15.5,
-  "avg_stu_loan_debt": 5336,
-  "avg_stu_loan_debt_rank": 320,
-  "indicator_group": 2
+  "grad_rate": 27.6,
+  "grad_rate_rank": 705,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98041",
+  "email": true
 }

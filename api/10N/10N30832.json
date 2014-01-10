@@ -1,6 +1,6 @@
 {
   "facility_code": "10N30832",
-  "institution": "NEW YORK CITY POLICE DEPT. - 109TH PRECINCT",
+  "institution": "New York City Police Dept. - 109th Precinct",
   "city": "Flushing",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11354",
+  "email": false
 }

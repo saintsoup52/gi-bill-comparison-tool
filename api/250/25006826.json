@@ -1,6 +1,6 @@
 {
   "facility_code": "25006826",
-  "institution": "BITTERROOT SCHOOL OF COSMETOLOGY",
+  "institution": "Bitterroot School Of Cosmetology",
   "city": "Hamilton",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 457721,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "59840",
+  "email": false
 }

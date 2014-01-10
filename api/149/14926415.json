@@ -1,6 +1,6 @@
 {
   "facility_code": "14926415",
-  "institution": "NORTHEAST IOWA COMMUNITY COLLEGE  PEOSTA",
+  "institution": "Northeast Iowa Community College  Peosta",
   "city": "Peosta",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 99,
   "cross": 154110,
-  "grad_rate": 32.9,
-  "grad_rate_rank": 460,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 720,
-  "indicator_group": 2
+  "grad_rate": 29.9,
+  "grad_rate_rank": 637,
+  "default_rate": 18.8,
+  "avg_stu_loan_debt": 9406,
+  "avg_stu_loan_debt_rank": 653,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "52068",
+  "email": false
 }

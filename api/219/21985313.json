@@ -1,6 +1,6 @@
 {
   "facility_code": "21985313",
-  "institution": "WESTWOOD COLLEGE-DUPAGE CAMPUS",
+  "institution": "Westwood College-Dupage Campus",
   "city": "Woodridge",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 406194,
-  "grad_rate": 21.3,
-  "grad_rate_rank": 1653,
-  "default_rate": 19.5,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 820,
-  "indicator_group": 1
+  "grad_rate": 18.4,
+  "grad_rate_rank": 1734,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 19151,
+  "avg_stu_loan_debt_rank": 1095,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60517",
+  "email": true
 }

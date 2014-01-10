@@ -1,6 +1,6 @@
 {
   "facility_code": "38573032",
-  "institution": "NEW YORK UNIVERSITY HOSPITALS CENTER/RUSK INST.",
+  "institution": "New York University Hospitals Center/Rusk Inst.",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10016",
+  "email": true
 }

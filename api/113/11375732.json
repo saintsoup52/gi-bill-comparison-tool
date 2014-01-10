@@ -1,6 +1,6 @@
 {
   "facility_code": "11375732",
-  "institution": "US MILITARY ACADEMY JOHN JAY COLLEGE WEST POINT MPA PROGRAM AT",
+  "institution": "Us Military Academy John Jay College West Point Mpa Program At",
   "city": "West Point",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 190600,
-  "grad_rate": 39.4,
-  "grad_rate_rank": 1254,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 8800,
-  "avg_stu_loan_debt_rank": 181,
-  "indicator_group": 1
+  "grad_rate": 43.1,
+  "grad_rate_rank": 1129,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 9590,
+  "avg_stu_loan_debt_rank": 150,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10996",
+  "email": false
 }

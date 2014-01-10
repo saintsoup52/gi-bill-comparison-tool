@@ -1,6 +1,6 @@
 {
   "facility_code": "25000434",
-  "institution": "THE HEADQUARTERS ACADEMY OF HAIR DESIGN INC.",
+  "institution": "The Headquarters Academy Of Hair Design Inc.",
   "city": "Minot",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 200129,
-  "grad_rate": 38.2,
-  "grad_rate_rank": 2083,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 13025,
-  "avg_stu_loan_debt_rank": 2412,
-  "indicator_group": 5
+  "grad_rate": 52.9,
+  "grad_rate_rank": 1866,
+  "default_rate": 16.2,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "58701",
+  "email": false
 }

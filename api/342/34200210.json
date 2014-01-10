@@ -1,6 +1,6 @@
 {
   "facility_code": "34200210",
-  "institution": "CITY COLLEGE - ALTAMONTE SPRINGS",
+  "institution": "City College - Altamonte Springs",
   "city": "Altamonte Springs",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 417327,
-  "grad_rate": 37.9,
-  "grad_rate_rank": 369,
-  "default_rate": 26.1,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 2
+  "grad_rate": 40.4,
+  "grad_rate_rank": 407,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 10151,
+  "avg_stu_loan_debt_rank": 745,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32714",
+  "email": true
 }

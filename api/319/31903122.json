@@ -1,6 +1,6 @@
 {
   "facility_code": "31903122",
-  "institution": "ANDREWS UNIVERSITY",
+  "institution": "Andrews University",
   "city": "Berrien Springs",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 168740,
-  "grad_rate": 63.4,
-  "grad_rate_rank": 465,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 27962,
-  "avg_stu_loan_debt_rank": 2026,
-  "indicator_group": 1
+  "grad_rate": 58.7,
+  "grad_rate_rank": 605,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 28000,
+  "avg_stu_loan_debt_rank": 1913,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49104",
+  "email": true
 }

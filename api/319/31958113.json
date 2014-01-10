@@ -1,6 +1,6 @@
 {
   "facility_code": "31958113",
-  "institution": "KENDALL COLLEGE",
+  "institution": "Kendall College",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 146393,
-  "grad_rate": 34.1,
-  "grad_rate_rank": 1388,
-  "default_rate": 11.4,
-  "avg_stu_loan_debt": 14792,
-  "avg_stu_loan_debt_rank": 703,
-  "indicator_group": 1
+  "grad_rate": 44.3,
+  "grad_rate_rank": 1096,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 19668,
+  "avg_stu_loan_debt_rank": 1150,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60642",
+  "email": true
 }

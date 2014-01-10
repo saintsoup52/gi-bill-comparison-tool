@@ -1,6 +1,6 @@
 {
   "facility_code": "31001041",
-  "institution": "MOUNT MARTY COLLEGE",
+  "institution": "Mount Marty College",
   "city": "Yankton",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 219198,
-  "grad_rate": 51.1,
-  "grad_rate_rank": 838,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 18800,
-  "avg_stu_loan_debt_rank": 1205,
-  "indicator_group": 1
+  "grad_rate": 51.2,
+  "grad_rate_rank": 859,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 20277,
+  "avg_stu_loan_debt_rank": 1226,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57078",
+  "email": true
 }

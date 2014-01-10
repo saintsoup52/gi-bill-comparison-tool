@@ -1,6 +1,6 @@
 {
   "facility_code": "20803135",
-  "institution": "UNITED STATES STEEL CORPORATION ROLL AND MACHINE WORKS     CO",
+  "institution": "United States Steel Corporation Roll And Machine Works     Co",
   "city": "Canton",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44706",
+  "email": "No (SCO)"
 }

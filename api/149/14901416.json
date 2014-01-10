@@ -1,6 +1,6 @@
 {
   "facility_code": "14901416",
-  "institution": "COFFEYVILLE COMMUNITY COLLEGE",
+  "institution": "Coffeyville Community College",
   "city": "Coffeyville",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 154925,
-  "grad_rate": 33.4,
-  "grad_rate_rank": 308,
-  "default_rate": 22.3,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 200,
-  "indicator_group": 3
+  "grad_rate": 35.1,
+  "grad_rate_rank": 494,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 5534,
+  "avg_stu_loan_debt_rank": 135,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "67337",
+  "email": true
 }

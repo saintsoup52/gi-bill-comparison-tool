@@ -1,6 +1,6 @@
 {
   "facility_code": "14800635",
-  "institution": "CUYAHOGA COMMUNITY COLLEGE - EASTERN CAMPUS",
+  "institution": "Cuyahoga Community College - Eastern Campus",
   "city": "Highland Hills",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 185,
   "cross": 202356,
-  "grad_rate": 3.6,
-  "grad_rate_rank": 1306,
-  "default_rate": 15.5,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "grad_rate": 4.2,
+  "grad_rate_rank": 1382,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 4250,
+  "avg_stu_loan_debt_rank": 90,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44122",
+  "email": true
 }

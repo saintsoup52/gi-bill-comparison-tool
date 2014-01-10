@@ -1,6 +1,6 @@
 {
   "facility_code": "25510614",
-  "institution": "MERRILLVILLE BEAUTY COLLEGE",
+  "institution": "Merrillville Beauty College",
   "city": "Merrillville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 151874,
-  "grad_rate": 39.5,
-  "grad_rate_rank": 2074,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 5955,
-  "avg_stu_loan_debt_rank": 953,
-  "indicator_group": 5
+  "grad_rate": 51.1,
+  "grad_rate_rank": 1921,
+  "default_rate": 30.7,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 539,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46410",
+  "email": false
 }

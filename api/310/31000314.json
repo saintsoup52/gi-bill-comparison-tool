@@ -1,6 +1,6 @@
 {
   "facility_code": "31000314",
-  "institution": "DEPAUW UNIVERSITY",
+  "institution": "Depauw University",
   "city": "Greencastle",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 150400,
-  "grad_rate": 85.2,
-  "grad_rate_rank": 96,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 18938,
-  "avg_stu_loan_debt_rank": 1219,
-  "indicator_group": 1
+  "grad_rate": 77.6,
+  "grad_rate_rank": 194,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 23406,
+  "avg_stu_loan_debt_rank": 1569,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46135",
+  "email": false
 }

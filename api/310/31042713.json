@@ -1,6 +1,6 @@
 {
   "facility_code": "31042713",
-  "institution": "EAST-WEST UNIVERSITY",
+  "institution": "East-West University",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 144883,
-  "grad_rate": 7.7,
-  "grad_rate_rank": 1804,
-  "default_rate": 21.8,
-  "avg_stu_loan_debt": 6586,
-  "avg_stu_loan_debt_rank": 138,
-  "indicator_group": 1
+  "grad_rate": 8.7,
+  "grad_rate_rank": 1841,
+  "default_rate": 30.5,
+  "avg_stu_loan_debt": 6317,
+  "avg_stu_loan_debt_rank": 53,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60605",
+  "email": true
 }

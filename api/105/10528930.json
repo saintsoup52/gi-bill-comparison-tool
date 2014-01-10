@@ -1,6 +1,6 @@
 {
   "facility_code": "10528930",
-  "institution": "CITY OF SOUTH AMBOY POLICE DEPARTMENT",
+  "institution": "City Of South Amboy Police Department",
   "city": "South Amboy",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8879",
+  "email": false
 }

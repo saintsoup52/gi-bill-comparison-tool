@@ -1,6 +1,6 @@
 {
   "facility_code": "20659430",
-  "institution": "NEW JERSEY CONSTRUCTION CRAFT LABORERS' APPRENTICESHIP PROGRAM",
+  "institution": "New Jersey Construction Craft Laborers' Apprenticeship Program",
   "city": "Monroe Township",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8831",
+  "email": false
 }

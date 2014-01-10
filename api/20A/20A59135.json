@@ -1,6 +1,6 @@
 {
   "facility_code": "20A59135",
-  "institution": "OBARS MACHINE AND TOOL CO  K",
+  "institution": "Obars Machine And Tool Co  K",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43607",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11007743",
-  "institution": "MIDWESTERN STATE UNIV",
+  "institution": "Midwestern State Univ",
   "city": "Wichita Falls",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 391,
   "cross": 226833,
-  "grad_rate": 34.3,
-  "grad_rate_rank": 1381,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 15878,
-  "avg_stu_loan_debt_rank": 829,
-  "indicator_group": 1
+  "grad_rate": 40.3,
+  "grad_rate_rank": 1240,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 17588,
+  "avg_stu_loan_debt_rank": 874,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76308",
+  "email": false
 }

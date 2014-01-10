@@ -1,6 +1,6 @@
 {
   "facility_code": "24821810",
-  "institution": "SOUTHEASTERN COLLEGE - MIAMI LAKES",
+  "institution": "Southeastern College - Miami Lakes",
   "city": "Miami Lakes",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 428170,
-  "grad_rate": 81.0,
-  "grad_rate_rank": 33,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 14227,
-  "avg_stu_loan_debt_rank": 774,
-  "indicator_group": 3
+  "grad_rate": 47.4,
+  "grad_rate_rank": 415,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 15136,
+  "avg_stu_loan_debt_rank": 664,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33015",
+  "email": true
 }

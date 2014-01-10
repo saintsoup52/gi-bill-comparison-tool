@@ -1,6 +1,6 @@
 {
   "facility_code": "18021948",
-  "institution": "MINERAL COUNTY TECHNICAL AND ADULT EDUCATION CENTER",
+  "institution": "Mineral County Technical And Adult Education Center",
   "city": "Keyser",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 368647,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26726",
+  "email": true
 }

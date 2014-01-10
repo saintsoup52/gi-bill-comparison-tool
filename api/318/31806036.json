@@ -1,6 +1,6 @@
 {
   "facility_code": "31806036",
-  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV VANCE AFB",
+  "institution": "Embry-Riddle Aeronautical Univ Vance Afb",
   "city": "Vance Afb",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73705",
+  "email": false
 }

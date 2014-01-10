@@ -1,6 +1,6 @@
 {
   "facility_code": "31010505",
-  "institution": "SOKA UNIVERSITY OF AMERICA",
+  "institution": "Soka University Of America",
   "city": "Aliso Viejo",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 399911,
-  "grad_rate": 87.2,
-  "grad_rate_rank": 77,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 25604,
-  "avg_stu_loan_debt_rank": 1997,
-  "indicator_group": 1
+  "grad_rate": 91.8,
+  "grad_rate_rank": 46,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 34617,
+  "avg_stu_loan_debt_rank": 1986,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92656",
+  "email": true
 }

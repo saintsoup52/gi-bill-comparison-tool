@@ -1,6 +1,6 @@
 {
   "facility_code": "14906423",
-  "institution": "ROCHESTER COMMUNITY &   TECHNICAL COLLEGE",
+  "institution": "Rochester Community &   Technical College",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 251,
   "cross": 174738,
-  "grad_rate": 23.2,
-  "grad_rate_rank": 749,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 8750,
-  "avg_stu_loan_debt_rank": 701,
-  "indicator_group": 2
+  "grad_rate": 22.1,
+  "grad_rate_rank": 875,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 9404,
+  "avg_stu_loan_debt_rank": 652,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55904",
+  "email": false
 }

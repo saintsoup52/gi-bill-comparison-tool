@@ -1,6 +1,6 @@
 {
   "facility_code": "11100209",
-  "institution": "DISTRICT OF COLUMBIA SCHOOL OF LAW",
+  "institution": "District Of Columbia School Of Law",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 363721,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 8525,
-  "avg_stu_loan_debt_rank": 272,
-  "indicator_group": 4
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 58,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "20008",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B63935",
-  "institution": "JOSEPH WISE FINE CLOCKS (31)",
+  "institution": "Joseph Wise Fine Clocks (31)",
   "city": "Fremont",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43420",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18088038",
-  "institution": "MIFFLIN-JUNIATA CAREER AND TECHNOLOGY CENTER",
+  "institution": "Mifflin-Juniata Career And Technology Center",
   "city": "Lewistown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 418481,
-  "grad_rate": 81.4,
-  "grad_rate_rank": 575,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 12286,
-  "avg_stu_loan_debt_rank": 2371,
-  "indicator_group": 5
+  "grad_rate": 90.9,
+  "grad_rate_rank": 243,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 12401,
+  "avg_stu_loan_debt_rank": 1810,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17044",
+  "email": true
 }

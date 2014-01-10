@@ -1,6 +1,6 @@
 {
   "facility_code": "20513617",
-  "institution": "ASAP ANALYTICAL SOLUTIONS AND PROVIDERS",
+  "institution": "Asap Analytical Solutions And Providers",
   "city": "Covington",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41011",
+  "email": false
 }

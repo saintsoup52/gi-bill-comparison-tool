@@ -1,10 +1,10 @@
 {
   "facility_code": "11101196",
-  "institution": "COLLEGE OF SCIENCE TECHNOLOGY & APPLIED ARTS TRINIDAD & TOBAGO",
+  "institution": "College Of Science Technology & Applied Arts Trinidad & Tobago",
   "city": "Port Of Spain",
   "state": "Trinidad and Tobago",
   "country": "Trinidad and Tobago",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 3,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

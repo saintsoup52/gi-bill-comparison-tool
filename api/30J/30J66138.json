@@ -1,6 +1,6 @@
 {
   "facility_code": "30J66138",
-  "institution": "BRICKLAYERS&ALLIED CRAFTS LOC#5",
+  "institution": "Bricklayers&Allied Crafts Loc#5",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17104",
+  "email": false
 }

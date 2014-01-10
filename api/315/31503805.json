@@ -1,6 +1,6 @@
 {
   "facility_code": "31503805",
-  "institution": "CLAREMONT GRADUATE UNIVERSITY",
+  "institution": "Claremont Graduate University",
   "city": "Claremont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 112251,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 91,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "91711",
+  "email": false
 }

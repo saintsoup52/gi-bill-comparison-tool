@@ -1,6 +1,6 @@
 {
   "facility_code": "31010321",
-  "institution": "EASTERN NAZARENE COLLEGE",
+  "institution": "Eastern Nazarene College",
   "city": "Quincy",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 165644,
-  "grad_rate": 52.2,
-  "grad_rate_rank": 801,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 18300,
-  "avg_stu_loan_debt_rank": 1122,
-  "indicator_group": 1
+  "grad_rate": 47.9,
+  "grad_rate_rank": 969,
+  "default_rate": 6.5,
+  "avg_stu_loan_debt": 19538,
+  "avg_stu_loan_debt_rank": 1138,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2170",
+  "email": true
 }

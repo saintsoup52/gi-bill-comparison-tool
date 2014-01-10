@@ -1,6 +1,6 @@
 {
   "facility_code": "25060205",
-  "institution": "RWM FIBER OPTICS",
+  "institution": "Rwm Fiber Optics",
   "city": "Carson",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 455752,
-  "grad_rate": 96.3,
-  "grad_rate_rank": 114,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 6650,
-  "avg_stu_loan_debt_rank": 1087,
-  "indicator_group": 5
+  "grad_rate": 96.8,
+  "grad_rate_rank": 112,
+  "default_rate": 35.2,
+  "avg_stu_loan_debt": 7389,
+  "avg_stu_loan_debt_rank": 680,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90746",
+  "email": false
 }

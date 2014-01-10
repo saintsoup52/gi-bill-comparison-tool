@@ -1,6 +1,6 @@
 {
   "facility_code": "32933025",
-  "institution": "COX COLLEGE OF NURSING AND HEALTH SCIENCES",
+  "institution": "Cox College Of Nursing And Health Sciences",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 176770,
-  "grad_rate": 97.1,
-  "grad_rate_rank": 8,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 16789,
-  "avg_stu_loan_debt_rank": 1331,
-  "indicator_group": 2
+  "grad_rate": 53.7,
+  "grad_rate_rank": 235,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 16933,
+  "avg_stu_loan_debt_rank": 1099,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "65802",
+  "email": false
 }

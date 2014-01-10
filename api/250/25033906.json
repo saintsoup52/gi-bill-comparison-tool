@@ -1,6 +1,6 @@
 {
   "facility_code": "25033906",
-  "institution": "EMPIRE BEAUTY SCHOOL - AURORA",
+  "institution": "Empire Beauty School - Aurora",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 447175,
-  "grad_rate": 32.8,
-  "grad_rate_rank": 2121,
-  "default_rate": 24.2,
+  "grad_rate": 40.3,
+  "grad_rate_rank": 2099,
+  "default_rate": 22.7,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80017",
+  "email": true
 }

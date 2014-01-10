@@ -1,6 +1,6 @@
 {
   "facility_code": "24831905",
-  "institution": "KAPLAN COLLEGE (VISTA)",
+  "institution": "Kaplan College (Vista)",
   "city": "Vista",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 205,
   "cross": 118286,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 22.7,
-  "avg_stu_loan_debt": 9452,
-  "avg_stu_loan_debt_rank": 443,
-  "indicator_group": 3
+  "grad_rate": 83.6,
+  "grad_rate_rank": 41,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 9370,
+  "avg_stu_loan_debt_rank": 335,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92083",
+  "email": true
 }

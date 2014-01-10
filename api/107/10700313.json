@@ -1,6 +1,6 @@
 {
   "facility_code": "10700313",
-  "institution": "SESSER POLICE DEPARTMENT",
+  "institution": "Sesser Police Department",
   "city": "Sesser",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62884",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18038710",
-  "institution": "SARASOTA COUNTY TECHNICAL INSTITUTE",
+  "institution": "Sarasota County Technical Institute",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 44,
   "cross": 137120,
-  "grad_rate": 48.4,
-  "grad_rate_rank": 1960,
+  "grad_rate": 22.1,
+  "grad_rate_rank": 2237,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "34233",
+  "email": true
 }

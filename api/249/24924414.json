@@ -1,6 +1,6 @@
 {
   "facility_code": "24924414",
-  "institution": "COLLEGE OF COURT REPORTING - HOBART",
+  "institution": "College Of Court Reporting - Hobart",
   "city": "Hobart",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 150251,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 682,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 15012,
-  "avg_stu_loan_debt_rank": 1139,
-  "indicator_group": 2
+  "grad_rate": 36.7,
+  "grad_rate_rank": 480,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 702,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "46342",
+  "email": true
 }

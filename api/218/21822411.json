@@ -1,6 +1,6 @@
 {
   "facility_code": "21822411",
-  "institution": "UNIVERSITY OF PHOENIX - SANDY SPRINGS",
+  "institution": "University Of Phoenix - Sandy Springs",
   "city": "Sandy Springs",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 499,
   "cross": 442152,
-  "grad_rate": 14.1,
-  "grad_rate_rank": 1743,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 13.5,
+  "grad_rate_rank": 1799,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30350",
+  "email": true
 }

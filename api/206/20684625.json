@@ -1,6 +1,6 @@
 {
   "facility_code": "20684625",
-  "institution": "THOM KNOTT AGENCY",
+  "institution": "Thom Knott Agency",
   "city": "Clinton",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64735",
+  "email": false
 }

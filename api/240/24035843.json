@@ -1,6 +1,6 @@
 {
   "facility_code": "24035843",
-  "institution": "SANFORD BROWN COLLEGE SAN ANTONIO",
+  "institution": "Sanford Brown College San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 456311,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 180,
-  "default_rate": 23.9,
+  "grad_rate": 58.6,
+  "grad_rate_rank": 314,
+  "default_rate": 19.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "78229",
+  "email": false
 }

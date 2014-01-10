@@ -1,6 +1,6 @@
 {
   "facility_code": "18028738",
-  "institution": "GREATER JOHNSTOWN CAREER & TECHNOLOGY CTR",
+  "institution": "Greater Johnstown Career & Technology Ctr",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 418454,
-  "grad_rate": 98.2,
-  "grad_rate_rank": 89,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 1574,
-  "indicator_group": 5
+  "grad_rate": 97.1,
+  "grad_rate_rank": 105,
+  "default_rate": 13.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15904",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25535235",
-  "institution": "AMERICAN SCHOOL OF TECHNOLOGY",
+  "institution": "American School Of Technology",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 203225,
-  "grad_rate": 74.9,
-  "grad_rate_rank": 938,
-  "default_rate": 31.1,
-  "avg_stu_loan_debt": 9076,
-  "avg_stu_loan_debt_rank": 1586,
-  "indicator_group": 5
+  "grad_rate": 61.4,
+  "grad_rate_rank": 1580,
+  "default_rate": 38.8,
+  "avg_stu_loan_debt": 8862,
+  "avg_stu_loan_debt_rank": 969,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "43229",
+  "email": true
 }

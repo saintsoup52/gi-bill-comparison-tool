@@ -1,6 +1,6 @@
 {
   "facility_code": "32900514",
-  "institution": "ST. ELIZABETH HOSPITAL SCHOOL OF NURSING",
+  "institution": "St. Elizabeth Hospital School Of Nursing",
   "city": "Lafayette",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 152497,
-  "grad_rate": 5.0,
-  "grad_rate_rank": 2201,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 31250,
-  "avg_stu_loan_debt_rank": 2563,
-  "indicator_group": 5
+  "grad_rate": 57.1,
+  "grad_rate_rank": 1731,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 29660,
+  "avg_stu_loan_debt_rank": 2019,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47904",
+  "email": false
 }

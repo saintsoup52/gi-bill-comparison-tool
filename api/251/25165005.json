@@ -1,6 +1,6 @@
 {
   "facility_code": "25165005",
-  "institution": "GURNICK ACADEMY OF MEDICAL ARTS (CONCORD)",
+  "institution": "Gurnick Academy Of Medical Arts (Concord)",
   "city": "Concord",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 459213,
-  "grad_rate": 76.7,
-  "grad_rate_rank": 834,
-  "default_rate": null,
-  "avg_stu_loan_debt": 14419,
-  "avg_stu_loan_debt_rank": 2454,
-  "indicator_group": 5
+  "grad_rate": 85.3,
+  "grad_rate_rank": 430,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 16850,
+  "avg_stu_loan_debt_rank": 1961,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94520",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10564913",
-  "institution": "ILLINOIS DEPARTMENT OF CORRECTION-SHAWNEE",
+  "institution": "Illinois Department Of Correction-Shawnee",
   "city": "Vienna",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62995",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10999610",
-  "institution": "NORTHEAST FLORIDA CRIMINAL JUSTICE TRAINING & EDUCATION CENTER",
+  "institution": "Northeast Florida Criminal Justice Training & Education Center",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32218",
+  "email": true
 }

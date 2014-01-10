@@ -1,6 +1,6 @@
 {
   "facility_code": "28051821",
-  "institution": "ROB ROY ACADEMY-FALL RIVER",
+  "institution": "Rob Roy Academy-Fall River",
   "city": "Fall River",
   "state": "MA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 165750,
   "grad_rate": 52.2,
-  "grad_rate_rank": 1859,
-  "default_rate": 24.3,
-  "avg_stu_loan_debt": 6476,
-  "avg_stu_loan_debt_rank": 1061,
-  "indicator_group": 5
+  "grad_rate_rank": 1890,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 6528,
+  "avg_stu_loan_debt_rank": 558,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2721",
+  "email": false
 }

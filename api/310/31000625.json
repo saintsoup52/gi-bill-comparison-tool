@@ -1,6 +1,6 @@
 {
   "facility_code": "31000625",
-  "institution": "MISSOURI VALLEY COLLEGE",
+  "institution": "Missouri Valley College",
   "city": "Marshall",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 178369,
-  "grad_rate": 26.2,
-  "grad_rate_rank": 1567,
-  "default_rate": 18.0,
-  "avg_stu_loan_debt": 11020,
-  "avg_stu_loan_debt_rank": 314,
-  "indicator_group": 1
+  "grad_rate": 24.8,
+  "grad_rate_rank": 1644,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65340",
+  "email": false
 }

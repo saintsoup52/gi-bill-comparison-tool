@@ -1,6 +1,6 @@
 {
   "facility_code": "10121631",
-  "institution": "SANTA FE COUNTY SHERIFF DEPARTMENT",
+  "institution": "Santa Fe County Sheriff Department",
   "city": "Santa Fe",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87501",
+  "email": false
 }

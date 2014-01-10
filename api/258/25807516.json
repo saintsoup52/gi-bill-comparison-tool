@@ -1,6 +1,6 @@
 {
   "facility_code": "25807516",
-  "institution": "CESSNA EMPLOYEE'S FLYING CLUB",
+  "institution": "Cessna Employee'S Flying Club",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67209",
+  "email": false
 }

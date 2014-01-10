@@ -1,6 +1,6 @@
 {
   "facility_code": "31000106",
-  "institution": "COLORADO COLLEGE THE",
+  "institution": "Colorado College The",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 126678,
-  "grad_rate": 87.6,
-  "grad_rate_rank": 74,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 89.8,
+  "grad_rate_rank": 68,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 21100,
+  "avg_stu_loan_debt_rank": 1326,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80903",
+  "email": true
 }

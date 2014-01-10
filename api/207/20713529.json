@@ -1,6 +1,6 @@
 {
   "facility_code": "20713529",
-  "institution": "SKIP POWELL ELECTRICAL CONTRACTORS INC",
+  "institution": "Skip Powell Electrical Contractors Inc",
   "city": "Dover",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3820",
+  "email": false
 }

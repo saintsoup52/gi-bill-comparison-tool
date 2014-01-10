@@ -1,6 +1,6 @@
 {
   "facility_code": "31803005",
-  "institution": "UNIVERSITY OF LA VERNE (VICTORVILLE)",
+  "institution": "University Of La Verne (Victorville)",
   "city": "Victorville",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 117140,
-  "grad_rate": 57.9,
-  "grad_rate_rank": 620,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 59.0,
+  "grad_rate_rank": 594,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 23991,
+  "avg_stu_loan_debt_rank": 1615,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92392",
+  "email": false
 }

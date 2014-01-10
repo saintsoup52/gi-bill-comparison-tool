@@ -1,6 +1,6 @@
 {
   "facility_code": "10961521",
-  "institution": "YARMOUTH FIRE DEPARTMENT",
+  "institution": "Yarmouth Fire Department",
   "city": "South Yarmouth",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2664",
+  "email": true
 }

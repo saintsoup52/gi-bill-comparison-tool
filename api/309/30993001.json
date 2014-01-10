@@ -1,6 +1,6 @@
 {
   "facility_code": "30993001",
-  "institution": "SHEET METAL WORKERS JAC 48",
+  "institution": "Sheet Metal Workers Jac 48",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35234",
+  "email": true
 }

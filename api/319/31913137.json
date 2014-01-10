@@ -1,6 +1,6 @@
 {
   "facility_code": "31913137",
-  "institution": "OREGON COLLEGE OF ART AND CRAFT",
+  "institution": "Oregon College Of Art And Craft",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 209533,
-  "grad_rate": 42.9,
-  "grad_rate_rank": 1128,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 20700,
+  "avg_stu_loan_debt_rank": 1282,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97225",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18832238",
-  "institution": "MON VALLEY VOCATIONAL TECHNICAL SCHOOL",
+  "institution": "Mon Valley Vocational Technical School",
   "city": "Charleroi",
   "state": "PA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 368407,
   "grad_rate": 90.0,
-  "grad_rate_rank": 262,
-  "default_rate": 15.7,
-  "avg_stu_loan_debt": 6927,
-  "avg_stu_loan_debt_rank": 1128,
-  "indicator_group": 5
+  "grad_rate_rank": 267,
+  "default_rate": 27.7,
+  "avg_stu_loan_debt": 10105,
+  "avg_stu_loan_debt_rank": 1533,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15022",
+  "email": false
 }

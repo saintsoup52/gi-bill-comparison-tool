@@ -1,6 +1,6 @@
 {
   "facility_code": "14900416",
-  "institution": "DODGE CITY COMMUNITY COLLEGE",
+  "institution": "Dodge City Community College",
   "city": "Dodge City",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 55,
   "cross": 154998,
-  "grad_rate": 35.5,
-  "grad_rate_rank": 288,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 4350,
-  "avg_stu_loan_debt_rank": 142,
-  "indicator_group": 3
+  "grad_rate": 33.6,
+  "grad_rate_rank": 536,
+  "default_rate": 32.1,
+  "avg_stu_loan_debt": 5337,
+  "avg_stu_loan_debt_rank": 208,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "67801",
+  "email": true
 }

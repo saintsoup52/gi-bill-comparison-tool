@@ -1,6 +1,6 @@
 {
   "facility_code": "20185112",
-  "institution": "TETON COUNTY SHERIFF'S OFFICE",
+  "institution": "Teton County Sheriff'S Office",
   "city": "Driggs",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83422",
+  "email": false
 }

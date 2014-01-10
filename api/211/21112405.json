@@ -1,6 +1,6 @@
 {
   "facility_code": "21112405",
-  "institution": "WEST COAST UNIVERSITY (AHAHEIM)",
+  "institution": "West Coast University (Ahaheim)",
   "city": "Anaheim",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 458210,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1432,
-  "indicator_group": 2
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 35500,
+  "avg_stu_loan_debt_rank": 1987,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92802",
+  "email": true
 }

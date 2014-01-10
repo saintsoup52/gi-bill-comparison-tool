@@ -1,6 +1,6 @@
 {
   "facility_code": "31962132",
-  "institution": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "institution": "Rochester Institute Of Technology",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 342,
   "cross": 195003,
-  "grad_rate": 64.3,
-  "grad_rate_rank": 449,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 23816,
-  "avg_stu_loan_debt_rank": 1844,
-  "indicator_group": 1
+  "grad_rate": 63.4,
+  "grad_rate_rank": 477,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 26625,
+  "avg_stu_loan_debt_rank": 1860,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14623",
+  "email": true
 }

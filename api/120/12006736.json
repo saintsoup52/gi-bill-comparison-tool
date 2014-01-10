@@ -1,6 +1,6 @@
 {
   "facility_code": "12006736",
-  "institution": "UNIVERSITY OF OKLAHOMA TULSA SCHUSTERMAN CENTER",
+  "institution": "University Of Oklahoma Tulsa Schusterman Center",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 207500,
-  "grad_rate": 66.9,
-  "grad_rate_rank": 381,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 65.7,
+  "grad_rate_rank": 417,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 17281,
+  "avg_stu_loan_debt_rank": 830,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74135",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28801438",
-  "institution": "EMPIRE BEAUTY SCHOOL (EXTON)",
+  "institution": "Empire Beauty School (Exton)",
   "city": "Exton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 212683,
-  "grad_rate": 54.0,
-  "grad_rate_rank": 1812,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 8100,
-  "avg_stu_loan_debt_rank": 1398,
-  "indicator_group": 5
+  "grad_rate": 57.1,
+  "grad_rate_rank": 1731,
+  "default_rate": 20.6,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19341",
+  "email": true
 }

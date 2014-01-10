@@ -1,6 +1,6 @@
 {
   "facility_code": "31993138",
-  "institution": "KING'S COLLEGE",
+  "institution": "King'S College",
   "city": "Wilkes Barre",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 213321,
-  "grad_rate": 62.8,
-  "grad_rate_rank": 493,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 68.4,
+  "grad_rate_rank": 340,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 24026,
+  "avg_stu_loan_debt_rank": 1647,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18711",
+  "email": false
 }

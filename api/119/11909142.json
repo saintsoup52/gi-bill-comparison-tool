@@ -1,6 +1,6 @@
 {
   "facility_code": "11909142",
-  "institution": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+  "institution": "Tennessee Technological University",
   "city": "Cookeville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 311,
   "cross": 221847,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 876,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 10757,
-  "avg_stu_loan_debt_rank": 290,
-  "indicator_group": 1
+  "grad_rate": 51.9,
+  "grad_rate_rank": 830,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 10510,
+  "avg_stu_loan_debt_rank": 186,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38505",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31506405",
-  "institution": "CLAREMONT MCKENNA COLLEGE",
+  "institution": "Claremont Mckenna College",
   "city": "Claremont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 112260,
-  "grad_rate": 91.1,
-  "grad_rate_rank": 51,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "grad_rate": 92.2,
+  "grad_rate_rank": 40,
+  "default_rate": 1.4,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 508,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91711",
+  "email": false
 }

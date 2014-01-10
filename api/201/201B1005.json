@@ -1,6 +1,6 @@
 {
   "facility_code": "201B1005",
-  "institution": "CENTRAL VLY-MOTHERLODE PLUMBERS PIPE & REFRIG FITTERS JNT APPREN TRNG COMMITTEE",
+  "institution": "Central Vly-Motherlode Plumbers Pipe & Refrig Fitters Jnt Appren Trng Committee",
   "city": "Modesto",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95356",
+  "email": false
 }

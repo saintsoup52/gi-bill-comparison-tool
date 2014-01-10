@@ -1,6 +1,6 @@
 {
   "facility_code": "31005242",
-  "institution": "CHRISTIAN BROTHERS UNIVERSITY",
+  "institution": "Christian Brothers University",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 50,
   "cross": 219833,
-  "grad_rate": 52.2,
-  "grad_rate_rank": 801,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 59.8,
+  "grad_rate_rank": 571,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38104",
+  "email": true
 }

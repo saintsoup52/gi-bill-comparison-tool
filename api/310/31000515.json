@@ -1,6 +1,6 @@
 {
   "facility_code": "31000515",
-  "institution": "COE COLLEGE",
+  "institution": "Coe College",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 153144,
-  "grad_rate": 69.3,
-  "grad_rate_rank": 323,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 25216,
-  "avg_stu_loan_debt_rank": 1986,
-  "indicator_group": 1
+  "grad_rate": 68.5,
+  "grad_rate_rank": 338,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 25500,
+  "avg_stu_loan_debt_rank": 1807,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52402",
+  "email": true
 }

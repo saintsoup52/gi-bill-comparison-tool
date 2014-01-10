@@ -1,6 +1,6 @@
 {
   "facility_code": "31907132",
-  "institution": "MANHATTANVILLE COLLEGE",
+  "institution": "Manhattanville College",
   "city": "Purchase",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 192749,
-  "grad_rate": 56.3,
-  "grad_rate_rank": 667,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 19033,
-  "avg_stu_loan_debt_rank": 1259,
-  "indicator_group": 1
+  "grad_rate": 57.8,
+  "grad_rate_rank": 636,
+  "default_rate": 7.4,
+  "avg_stu_loan_debt": 20543,
+  "avg_stu_loan_debt_rank": 1270,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10577",
+  "email": true
 }

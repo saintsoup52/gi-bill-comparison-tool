@@ -1,6 +1,6 @@
 {
   "facility_code": "15034306",
-  "institution": "BENNETT HIGH SCHOOL",
+  "institution": "Bennett High School",
   "city": "Bennett",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80102",
+  "email": false
 }

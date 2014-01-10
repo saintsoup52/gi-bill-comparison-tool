@@ -1,6 +1,6 @@
 {
   "facility_code": "15002527",
-  "institution": "GORDON-RUSHVILLE HIGH SCHOOL",
+  "institution": "Gordon-Rushville High School",
   "city": "Gordon",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "69343",
+  "email": false
 }

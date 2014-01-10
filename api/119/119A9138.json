@@ -1,6 +1,6 @@
 {
   "facility_code": "119A9138",
-  "institution": "PENNSYLVANIA COLLEGE OF TECHNOLOGY",
+  "institution": "Pennsylvania College Of Technology",
   "city": "Williamsport",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 385,
   "cross": 366252,
-  "grad_rate": 47.2,
-  "grad_rate_rank": 251,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 17890,
-  "avg_stu_loan_debt_rank": 1358,
-  "indicator_group": 2
+  "grad_rate": 47.9,
+  "grad_rate_rank": 290,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 19019,
+  "avg_stu_loan_debt_rank": 1164,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "17701",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14905443",
-  "institution": "AMARILLO COLLEGE",
+  "institution": "Amarillo College",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 466,
   "cross": 222576,
-  "grad_rate": 14.2,
-  "grad_rate_rank": 1055,
-  "default_rate": 19.7,
-  "avg_stu_loan_debt": 6752,
-  "avg_stu_loan_debt_rank": 527,
-  "indicator_group": 2
+  "grad_rate": 15.4,
+  "grad_rate_rank": 1097,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 7250,
+  "avg_stu_loan_debt_rank": 476,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "79178",
+  "email": false
 }

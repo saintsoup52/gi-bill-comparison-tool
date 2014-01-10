@@ -1,6 +1,6 @@
 {
   "facility_code": "31027743",
-  "institution": "CONCORDIA UNIVERSITY TEXAS",
+  "institution": "Concordia University Texas",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 127,
   "cross": 224004,
-  "grad_rate": 34.7,
-  "grad_rate_rank": 1371,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 16872,
-  "avg_stu_loan_debt_rank": 930,
-  "indicator_group": 1
+  "grad_rate": 31.9,
+  "grad_rate_rank": 1481,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 14781,
+  "avg_stu_loan_debt_rank": 515,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78726",
+  "email": false
 }

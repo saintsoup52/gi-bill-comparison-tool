@@ -1,6 +1,6 @@
 {
   "facility_code": "35600425",
-  "institution": "A. O. INC.",
+  "institution": "A. O. Inc.",
   "city": "Sunset Hills",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63127",
+  "email": false
 }

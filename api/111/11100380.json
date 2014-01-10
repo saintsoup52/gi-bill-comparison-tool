@@ -1,10 +1,10 @@
 {
   "facility_code": "11100380",
-  "institution": "PRIVATE FERNFACHHOCHSCHULE",
+  "institution": "Private Fernfachhochschule",
   "city": "64201 Darmstadt",
   "state": "Denmark",
   "country": "Denmark",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

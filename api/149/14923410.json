@@ -1,6 +1,6 @@
 {
   "facility_code": "14923410",
-  "institution": "TALLAHASSEE COMMUNITY COLLEGE-FINANCIAL AID/VETERANS AFFAIRS",
+  "institution": "Tallahassee Community College-Financial Aid/Veterans Affairs",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 638,
   "cross": 137759,
-  "grad_rate": 37.4,
-  "grad_rate_rank": 379,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 5944,
-  "avg_stu_loan_debt_rank": 438,
-  "indicator_group": 2
+  "grad_rate": 32.9,
+  "grad_rate_rank": 552,
+  "default_rate": 24.0,
+  "avg_stu_loan_debt": 6588,
+  "avg_stu_loan_debt_rank": 408,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32304",
+  "email": true
 }

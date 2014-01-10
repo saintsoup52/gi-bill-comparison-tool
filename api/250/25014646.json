@@ -1,6 +1,6 @@
 {
   "facility_code": "25014646",
-  "institution": "SUFFOLK BEAUTY ACADEMY",
+  "institution": "Suffolk Beauty Academy",
   "city": "Suffolk",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 231721,
-  "grad_rate": 30.4,
-  "grad_rate_rank": 2134,
-  "default_rate": 23.5,
-  "avg_stu_loan_debt": 5750,
-  "avg_stu_loan_debt_rank": 929,
-  "indicator_group": 5
+  "grad_rate": 51.1,
+  "grad_rate_rank": 1921,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23434",
+  "email": false
 }

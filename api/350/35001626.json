@@ -1,6 +1,6 @@
 {
   "facility_code": "35001626",
-  "institution": "GREAT FALLS CENTRAL CATHOLIC HIGH SCHOOL",
+  "institution": "Great Falls Central Catholic High School",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59403",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C10522",
-  "institution": "SHEET METAL WORKERS LOCAL 292 JAC APPRENTICESHIP TRNG",
+  "institution": "Sheet Metal Workers Local 292 Jac Apprenticeship Trng",
   "city": "Troy",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48083",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10078918",
-  "institution": "USDA - FARM SERVICE AGENCY (CH31)",
+  "institution": "Usda - Farm Service Agency (Ch31)",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71302",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31509817",
-  "institution": "LINDSEY WILSON COLLEGE",
+  "institution": "Lindsey Wilson College",
   "city": "Columbia",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 82,
   "cross": 157216,
-  "grad_rate": 25.4,
-  "grad_rate_rank": 1581,
-  "default_rate": 14.3,
-  "avg_stu_loan_debt": 11882,
-  "avg_stu_loan_debt_rank": 423,
-  "indicator_group": 1
+  "grad_rate": 31.8,
+  "grad_rate_rank": 1484,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "42728",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25023649",
-  "institution": "EXPLORER'S GUIDE (EXPLORER'S GUIDE MARITIME ACADEMY)",
+  "institution": "Explorer'S Guide (Explorer'S Guide Maritime Academy)",
   "city": "Appleton",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54914",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001423",
-  "institution": "ST OLAF COLLEGE REGISTRAR'S OFFICE",
+  "institution": "St Olaf College Registrar'S Office",
   "city": "Northfield",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 174844,
-  "grad_rate": 84.9,
-  "grad_rate_rank": 98,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 30825,
-  "avg_stu_loan_debt_rank": 2040,
-  "indicator_group": 1
+  "grad_rate": 86.4,
+  "grad_rate_rank": 89,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55057",
+  "email": false
 }

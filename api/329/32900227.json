@@ -1,6 +1,6 @@
 {
   "facility_code": "32900227",
-  "institution": "NEBRASKA METHODIST COLLEGE OF NURSING AND ALLIED HEALTH",
+  "institution": "Nebraska Methodist College Of Nursing And Allied Health",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 181297,
-  "grad_rate": 78.8,
-  "grad_rate_rank": 174,
+  "grad_rate": 66.7,
+  "grad_rate_rank": 382,
   "default_rate": 3.5,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 23844,
+  "avg_stu_loan_debt_rank": 1602,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68114",
+  "email": false
 }

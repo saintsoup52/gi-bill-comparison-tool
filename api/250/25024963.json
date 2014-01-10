@@ -1,10 +1,10 @@
 {
   "facility_code": "25024963",
-  "institution": "INSTITUTO DE REALTORS DE PR  (CH 31 ONLY)",
+  "institution": "Instituto De Realtors De Pr  (Ch 31 Only)",
   "city": "Santurce",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "910",
+  "email": false
 }

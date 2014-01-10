@@ -1,6 +1,6 @@
 {
   "facility_code": "25000230",
-  "institution": "SHORE BEAUTY SCHOOL",
+  "institution": "Shore Beauty School",
   "city": "Egg Harbor Township",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 186593,
-  "grad_rate": 59.0,
-  "grad_rate_rank": 1626,
-  "default_rate": 5.1,
-  "avg_stu_loan_debt": 7900,
-  "avg_stu_loan_debt_rank": 1325,
-  "indicator_group": 5
+  "grad_rate": 55.7,
+  "grad_rate_rank": 1784,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 8295,
+  "avg_stu_loan_debt_rank": 864,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8234",
+  "email": true
 }

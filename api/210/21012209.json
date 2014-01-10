@@ -1,6 +1,6 @@
 {
   "facility_code": "21012209",
-  "institution": "UNIVERSITY OF THE POTOMAC",
+  "institution": "University Of The Potomac",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 43,
   "cross": 384412,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 1669,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 15730,
-  "avg_stu_loan_debt_rank": 807,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 32.8,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20005",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21003503",
-  "institution": "EVEREST COLLEGE PHOENIX - MESA CAMPUS",
+  "institution": "Everest College Phoenix - Mesa Campus",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 447236,
-  "grad_rate": 64.7,
-  "grad_rate_rank": 102,
-  "default_rate": 29.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 55.3,
+  "grad_rate_rank": 346,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 11832,
+  "avg_stu_loan_debt_rank": 580,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85206",
+  "email": false
 }

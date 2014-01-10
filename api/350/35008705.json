@@ -1,6 +1,6 @@
 {
   "facility_code": "35008705",
-  "institution": "CENTER FOR EMPLOYMENT TRAINING (SAN JOSE)",
+  "institution": "Center For Employment Training (San Jose)",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 111717,
-  "grad_rate": 82.2,
-  "grad_rate_rank": 539,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 4175,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 5
+  "grad_rate": 79.6,
+  "grad_rate_rank": 674,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 262,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95110",
+  "email": false
 }

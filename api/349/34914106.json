@@ -1,6 +1,6 @@
 {
   "facility_code": "34914106",
-  "institution": "REMINGTON COLLEGE",
+  "institution": "Remington College",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 381741,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 183,
-  "default_rate": 13.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 75.6,
+  "grad_rate_rank": 111,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 9400,
+  "avg_stu_loan_debt_rank": 342,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80918",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "301B1505",
-  "institution": "BAC LOCAL #3 JATC & EDUCATION COMM.",
+  "institution": "Bac Local #3 Jatc & Education Comm.",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94621",
+  "email": false
 }

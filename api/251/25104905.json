@@ -1,6 +1,6 @@
 {
   "facility_code": "25104905",
-  "institution": "CALIFORNIA MOTEL TRAINING (CH31)",
+  "institution": "California Motel Training (Ch31)",
   "city": "Roseville",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95678",
+  "email": false
 }

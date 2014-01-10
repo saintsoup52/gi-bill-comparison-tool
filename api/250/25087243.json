@@ -1,6 +1,6 @@
 {
   "facility_code": "25087243",
-  "institution": "TEXAS SCHOOL OF MASSAGE",
+  "institution": "Texas School Of Massage",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "77058",
+  "email": false
 }

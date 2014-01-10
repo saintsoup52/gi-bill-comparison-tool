@@ -1,6 +1,6 @@
 {
   "facility_code": "31967113",
-  "institution": "MONMOUTH COLLEGE",
+  "institution": "Monmouth College",
   "city": "Monmouth",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 147341,
-  "grad_rate": 56.9,
-  "grad_rate_rank": 652,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 21750,
-  "avg_stu_loan_debt_rank": 1614,
-  "indicator_group": 1
+  "grad_rate": 57.9,
+  "grad_rate_rank": 630,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61462",
+  "email": true
 }

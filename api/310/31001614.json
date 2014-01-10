@@ -1,6 +1,6 @@
 {
   "facility_code": "31001614",
-  "institution": "HANOVER COLLEGE",
+  "institution": "Hanover College",
   "city": "Hanover",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 150756,
-  "grad_rate": 70.9,
-  "grad_rate_rank": 289,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 65.2,
+  "grad_rate_rank": 428,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47243",
+  "email": false
 }

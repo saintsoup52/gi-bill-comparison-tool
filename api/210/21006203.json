@@ -1,6 +1,6 @@
 {
   "facility_code": "21006203",
-  "institution": "WESTERN INTERNATIONAL UNIVERSITY",
+  "institution": "Western International University",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 231,
   "cross": 106102,
-  "grad_rate": 2.4,
-  "grad_rate_rank": 1833,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 2.6,
+  "grad_rate_rank": 1867,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 10494,
+  "avg_stu_loan_debt_rank": 175,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "85282",
+  "email": false
 }

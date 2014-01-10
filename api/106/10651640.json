@@ -1,6 +1,6 @@
 {
   "facility_code": "10651640",
-  "institution": "NORTH CHARLESTON FIRE DEPARTMENT",
+  "institution": "North Charleston Fire Department",
   "city": "North Charleston",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29419",
+  "email": true
 }

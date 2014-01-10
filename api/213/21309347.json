@@ -1,6 +1,6 @@
 {
   "facility_code": "21309347",
-  "institution": "NORTHWEST COLLEGE OF ART AND DESIGN",
+  "institution": "Northwest College Of Art And Design",
   "city": "Poulsbo",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 377546,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 385,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 1
+  "grad_rate": 73.7,
+  "grad_rate_rank": 253,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 42875,
+  "avg_stu_loan_debt_rank": 1998,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98370",
+  "email": true
 }

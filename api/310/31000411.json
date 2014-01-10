@@ -1,6 +1,6 @@
 {
   "facility_code": "31000411",
-  "institution": "BRENAU UNIVERSITY",
+  "institution": "Brenau University",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 189,
   "cross": 139199,
-  "grad_rate": 43.9,
-  "grad_rate_rank": 1097,
+  "grad_rate": 44.9,
+  "grad_rate_rank": 1069,
   "default_rate": 7.5,
-  "avg_stu_loan_debt": 19484,
-  "avg_stu_loan_debt_rank": 1303,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 19213,
+  "avg_stu_loan_debt_rank": 1100,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30501",
+  "email": true
 }

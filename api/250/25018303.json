@@ -1,6 +1,6 @@
 {
   "facility_code": "25018303",
-  "institution": "ARIZONA SCHOOL OF MASSAGE THERAPY - TEMPE",
+  "institution": "Arizona School Of Massage Therapy - Tempe",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 469133,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 970,
-  "default_rate": 26.7,
-  "avg_stu_loan_debt": 9367,
-  "avg_stu_loan_debt_rank": 1623,
-  "indicator_group": 5
+  "grad_rate": 80.1,
+  "grad_rate_rank": 634,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 8607,
+  "avg_stu_loan_debt_rank": 917,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85282",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25601525",
-  "institution": "NATIONAL ACADEMY OF BEAUTY-FARMINGTON",
+  "institution": "National Academy Of Beauty-Farmington",
   "city": "Farmington",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 178262,
-  "grad_rate": 77.8,
-  "grad_rate_rank": 762,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 20.6,
+  "avg_stu_loan_debt": 6442,
+  "avg_stu_loan_debt_rank": 526,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63640",
+  "email": true
 }

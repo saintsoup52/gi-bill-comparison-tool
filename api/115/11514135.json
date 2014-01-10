@@ -1,6 +1,6 @@
 {
   "facility_code": "11514135",
-  "institution": "AIR FORCE INSTITUTE OF TECHNOLOGY/ENER",
+  "institution": "Air Force Institute Of Technology/Ener",
   "city": "Wright-Patterson Afb",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45433",
+  "email": true
 }

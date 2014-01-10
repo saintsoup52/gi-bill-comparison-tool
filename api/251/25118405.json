@@ -1,6 +1,6 @@
 {
   "facility_code": "25118405",
-  "institution": "ATI COLLEGE",
+  "institution": "Ati College",
   "city": "Norwalk",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 444325,
-  "grad_rate": 64.8,
-  "grad_rate_rank": 1402,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 17298,
-  "avg_stu_loan_debt_rank": 2510,
-  "indicator_group": 5
+  "grad_rate": 73.7,
+  "grad_rate_rank": 994,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 18977,
+  "avg_stu_loan_debt_rank": 1982,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90650",
+  "email": true
 }

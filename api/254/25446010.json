@@ -1,6 +1,6 @@
 {
   "facility_code": "25446010",
-  "institution": "BEAUTY SCHOOLS OF AMERICA",
+  "institution": "Beauty Schools Of America",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 135771,
-  "grad_rate": 71.3,
-  "grad_rate_rank": 1114,
-  "default_rate": 22.6,
+  "grad_rate": 69.9,
+  "grad_rate_rank": 1187,
+  "default_rate": 36.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33144",
+  "email": true
 }

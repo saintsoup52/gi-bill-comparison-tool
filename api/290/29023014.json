@@ -1,6 +1,6 @@
 {
   "facility_code": "29023014",
-  "institution": "RANEY AUCTION SCHOOL",
+  "institution": "Raney Auction School",
   "city": "Cloverdale",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46120",
+  "email": false
 }

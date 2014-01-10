@@ -1,6 +1,6 @@
 {
   "facility_code": "30008047",
-  "institution": "WESTERN WASHINGTON PAINTING DEC & DRYWALL JATC",
+  "institution": "Western Washington Painting Dec & Drywall Jatc",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98108",
+  "email": true
 }

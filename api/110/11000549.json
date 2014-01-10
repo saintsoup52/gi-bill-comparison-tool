@@ -1,6 +1,6 @@
 {
   "facility_code": "11000549",
-  "institution": "UNIV OF WISC-OSHKOSH",
+  "institution": "Univ Of Wisc-Oshkosh",
   "city": "Oshkosh",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 485,
   "cross": 240365,
-  "grad_rate": 50.2,
-  "grad_rate_rank": 873,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 16220,
-  "avg_stu_loan_debt_rank": 863,
-  "indicator_group": 1
+  "grad_rate": 50.1,
+  "grad_rate_rank": 891,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "54901",
+  "email": false
 }

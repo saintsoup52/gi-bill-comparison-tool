@@ -1,6 +1,6 @@
 {
   "facility_code": "24966438",
-  "institution": "DOUGLAS EDUCATION CENTER",
+  "institution": "Douglas Education Center",
   "city": "Monessen",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 20,
   "cross": 212045,
-  "grad_rate": 93.7,
-  "grad_rate_rank": 12,
-  "default_rate": 16.4,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 1176,
-  "indicator_group": 2
+  "grad_rate": 94.4,
+  "grad_rate_rank": 10,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15062",
+  "email": true
 }

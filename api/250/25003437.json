@@ -1,6 +1,6 @@
 {
   "facility_code": "25003437",
-  "institution": "NORTHWEST COLLEGE (HILLSBORO)",
+  "institution": "Northwest College (Hillsboro)",
   "city": "Hillsboro",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 441168,
-  "grad_rate": 6.3,
-  "grad_rate_rank": 2199,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 12003,
-  "avg_stu_loan_debt_rank": 2335,
-  "indicator_group": 5
+  "grad_rate": 84.0,
+  "grad_rate_rank": 473,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 12591,
+  "avg_stu_loan_debt_rank": 1819,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97123",
+  "email": true
 }

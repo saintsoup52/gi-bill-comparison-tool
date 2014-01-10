@@ -1,6 +1,6 @@
 {
   "facility_code": "31000426",
-  "institution": "PARK UNIVERSITY-MALMSTROM AFB",
+  "institution": "Park University-Malmstrom Afb",
   "city": "Malmstrom Afb",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 123,
   "cross": 178721,
-  "grad_rate": 39.3,
-  "grad_rate_rank": 1256,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 548,
-  "indicator_group": 1
+  "grad_rate": 40.9,
+  "grad_rate_rank": 1216,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 12375,
+  "avg_stu_loan_debt_rank": 298,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59402",
+  "email": true
 }

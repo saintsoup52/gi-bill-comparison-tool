@@ -1,6 +1,6 @@
 {
   "facility_code": "20N23532",
-  "institution": "ANCHOR GLASS CONTAINER CORP.",
+  "institution": "Anchor Glass Container Corp.",
   "city": "Elmira Heights",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14902",
+  "email": false
 }

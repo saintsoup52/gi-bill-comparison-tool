@@ -1,6 +1,6 @@
 {
   "facility_code": "25008611",
-  "institution": "THE CREATIVE CIRCUS",
+  "institution": "The Creative Circus",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 141015,
-  "grad_rate": 57.1,
-  "grad_rate_rank": 1700,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 20202,
-  "avg_stu_loan_debt_rank": 2550,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30324",
+  "email": true
 }

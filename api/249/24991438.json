@@ -1,6 +1,6 @@
 {
   "facility_code": "24991438",
-  "institution": "YTI CAREER INSTITUTE - YORK CAMPUS (PREVIOUSLY YORK TECHNICAL INSTITUTE (YORK)",
+  "institution": "Yti Career Institute - York Campus (Previously York Technical Institute (York)",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 151,
   "cross": 217077,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 737,
-  "indicator_group": 3
+  "grad_rate": 66.5,
+  "grad_rate_rank": 119,
+  "default_rate": 24.2,
+  "avg_stu_loan_debt": 12542,
+  "avg_stu_loan_debt_rank": 894,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "17402",
+  "email": true
 }

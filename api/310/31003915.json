@@ -1,6 +1,6 @@
 {
   "facility_code": "31003915",
-  "institution": "DORDT COLLEGE",
+  "institution": "Dordt College",
   "city": "Sioux Center",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 153250,
-  "grad_rate": 59.9,
-  "grad_rate_rank": 566,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 65.1,
+  "grad_rate_rank": 433,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 22880,
+  "avg_stu_loan_debt_rank": 1509,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "51250",
+  "email": true
 }

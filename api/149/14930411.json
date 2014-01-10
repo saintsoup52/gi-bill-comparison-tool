@@ -1,6 +1,6 @@
 {
   "facility_code": "14930411",
-  "institution": "COLUMBUS TECHNICAL COLLEGE",
+  "institution": "Columbus Technical College",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 739,
   "cross": 139357,
-  "grad_rate": 19.2,
-  "grad_rate_rank": 448,
+  "grad_rate": 13.8,
+  "grad_rate_rank": 690,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 3748,
+  "avg_stu_loan_debt_rank": 42,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31904",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25061618",
-  "institution": "CRESCENT SCHOOL OF GAMING & BARTENDING",
+  "institution": "Crescent School Of Gaming & Bartending",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 158617,
-  "grad_rate": 79.8,
-  "grad_rate_rank": 676,
-  "default_rate": 16.3,
-  "avg_stu_loan_debt": 3778,
-  "avg_stu_loan_debt_rank": 661,
-  "indicator_group": 5
+  "grad_rate": 82.6,
+  "grad_rate_rank": 534,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 3694,
+  "avg_stu_loan_debt_rank": 131,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70119",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31009743",
-  "institution": "ST MARYS UNIVERSITY",
+  "institution": "St Marys University",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 257,
   "cross": 228149,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 630,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 20692,
-  "avg_stu_loan_debt_rank": 1503,
-  "indicator_group": 1
+  "grad_rate": 56.8,
+  "grad_rate_rank": 674,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 21250,
+  "avg_stu_loan_debt_rank": 1338,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78228",
+  "email": false
 }

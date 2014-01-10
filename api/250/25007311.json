@@ -1,6 +1,6 @@
 {
   "facility_code": "25007311",
-  "institution": "PORTFOLIO CENTER",
+  "institution": "Portfolio Center",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 140827,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 24666,
-  "avg_stu_loan_debt_rank": 2560,
-  "indicator_group": 5
+  "default_rate": 6.3,
+  "avg_stu_loan_debt": 24333,
+  "avg_stu_loan_debt_rank": 2015,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30309",
+  "email": true
 }

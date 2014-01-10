@@ -1,6 +1,6 @@
 {
   "facility_code": "25091843",
-  "institution": "CARDIOTECH ULTRASOUND SCHOOL",
+  "institution": "Cardiotech Ultrasound School",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 458034,
-  "grad_rate": 97.6,
-  "grad_rate_rank": 95,
-  "default_rate": null,
-  "avg_stu_loan_debt": 7125,
-  "avg_stu_loan_debt_rank": 1163,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 12526,
+  "avg_stu_loan_debt_rank": 1817,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77099",
+  "email": false
 }

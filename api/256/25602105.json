@@ -1,6 +1,6 @@
 {
   "facility_code": "25602105",
-  "institution": "PREMIERE CAREER COLLEGE",
+  "institution": "Premiere Career College",
   "city": "Irwindale",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 416458,
-  "grad_rate": 75.3,
-  "grad_rate_rank": 899,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 8480,
-  "avg_stu_loan_debt_rank": 1469,
-  "indicator_group": 5
+  "grad_rate": 78.3,
+  "grad_rate_rank": 741,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 12688,
+  "avg_stu_loan_debt_rank": 1824,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91706",
+  "email": true
 }

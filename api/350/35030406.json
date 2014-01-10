@@ -1,6 +1,6 @@
 {
   "facility_code": "35030406",
-  "institution": "THE ROLF INSTITUTE",
+  "institution": "The Rolf Institute",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 262466,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 7716,
+  "avg_stu_loan_debt_rank": 765,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80301",
+  "email": false
 }

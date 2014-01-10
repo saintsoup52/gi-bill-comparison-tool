@@ -1,6 +1,6 @@
 {
   "facility_code": "31058047",
-  "institution": "CORNISH COLLEGE OF THE ARTS",
+  "institution": "Cornish College Of The Arts",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 235024,
-  "grad_rate": 45.4,
-  "grad_rate_rank": 1048,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 29500,
-  "avg_stu_loan_debt_rank": 2037,
-  "indicator_group": 1
+  "grad_rate": 49.0,
+  "grad_rate_rank": 930,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 26593,
+  "avg_stu_loan_debt_rank": 1859,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98121",
+  "email": true
 }

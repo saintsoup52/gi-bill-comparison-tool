@@ -1,6 +1,6 @@
 {
   "facility_code": "14913447",
-  "institution": "SHORELINE COMMUNITY COLLEGE",
+  "institution": "Shoreline Community College",
   "city": "Shoreline",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 268,
   "cross": 236610,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 389,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 8470,
-  "avg_stu_loan_debt_rank": 680,
-  "indicator_group": 2
+  "grad_rate": 27.2,
+  "grad_rate_rank": 718,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 6334,
+  "avg_stu_loan_debt_rank": 365,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "98133",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15001827",
-  "institution": "GRAND ISLAND SENIOR HIGH SCHOOL",
+  "institution": "Grand Island Senior High School",
   "city": "Grand Island",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "68803",
+  "email": false
 }

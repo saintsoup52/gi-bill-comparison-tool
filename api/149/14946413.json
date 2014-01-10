@@ -1,6 +1,6 @@
 {
   "facility_code": "14946413",
-  "institution": "SOUTHEASTERN ILLINOIS COLLEGE",
+  "institution": "Southeastern Illinois College",
   "city": "Harrisburg",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 59,
   "cross": 148937,
-  "grad_rate": 35.9,
-  "grad_rate_rank": 412,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 2625,
-  "avg_stu_loan_debt_rank": 116,
-  "indicator_group": 2
+  "grad_rate": 31.6,
+  "grad_rate_rank": 585,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4375,
+  "avg_stu_loan_debt_rank": 96,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "62946",
+  "email": true
 }

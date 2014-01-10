@@ -1,6 +1,6 @@
 {
   "facility_code": "15028706",
-  "institution": "VETERANS UPWARD BOUND - CSU PUEBLO PIKES PEAK CC",
+  "institution": "Veterans Upward Bound - Csu Pueblo Pikes Peak Cc",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80906",
+  "email": false
 }

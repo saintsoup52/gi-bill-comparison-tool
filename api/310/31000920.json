@@ -1,6 +1,6 @@
 {
   "facility_code": "31000920",
-  "institution": "ST JOHNS COLLEGE",
+  "institution": "St Johns College",
   "city": "Annapolis",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 163976,
-  "grad_rate": 69.1,
-  "grad_rate_rank": 327,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 29000,
-  "avg_stu_loan_debt_rank": 2033,
-  "indicator_group": 1
+  "grad_rate": 66.9,
+  "grad_rate_rank": 380,
+  "default_rate": 3.2,
+  "avg_stu_loan_debt": 23720,
+  "avg_stu_loan_debt_rank": 1596,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28018744",
-  "institution": "SHERMAN KENDALL'S ACAD OF BEAUTY ARTS/SCIENCES (MIDVALE)",
+  "institution": "Sherman Kendall'S Acad Of Beauty Arts/Sciences (Midvale)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 230144,
-  "grad_rate": 89.5,
-  "grad_rate_rank": 280,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 4325,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 5
+  "grad_rate": 90.2,
+  "grad_rate_rank": 265,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 4775,
+  "avg_stu_loan_debt_rank": 222,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84047",
+  "email": false
 }

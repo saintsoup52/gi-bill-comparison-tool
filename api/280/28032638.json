@@ -1,6 +1,6 @@
 {
   "facility_code": "28032638",
-  "institution": "ALL STATE CAREER",
+  "institution": "All State Career",
   "city": "Lester",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 210599,
-  "grad_rate": 73.2,
-  "grad_rate_rank": 1013,
-  "default_rate": 17.9,
+  "grad_rate": 74.2,
+  "grad_rate_rank": 967,
+  "default_rate": 19.3,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19029",
+  "email": true
 }

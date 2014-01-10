@@ -1,6 +1,6 @@
 {
   "facility_code": "31968105",
-  "institution": "SIMPSON UNIVERSITY",
+  "institution": "Simpson University",
   "city": "Redding",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 51,
   "cross": 123457,
-  "grad_rate": 42.9,
-  "grad_rate_rank": 1128,
-  "default_rate": 4.9,
+  "grad_rate": 40.7,
+  "grad_rate_rank": 1222,
+  "default_rate": 6.7,
   "avg_stu_loan_debt": 16663,
-  "avg_stu_loan_debt_rank": 905,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 765,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "96003",
+  "email": false
 }

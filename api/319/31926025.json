@@ -1,6 +1,6 @@
 {
   "facility_code": "31926025",
-  "institution": "KANSAS CITY ART INSTITUTE",
+  "institution": "Kansas City Art Institute",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 18,
   "cross": 177746,
-  "grad_rate": 76.7,
-  "grad_rate_rank": 204,
-  "default_rate": 14.4,
+  "grad_rate": 59.0,
+  "grad_rate_rank": 594,
+  "default_rate": 17.6,
   "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64111",
+  "email": true
 }

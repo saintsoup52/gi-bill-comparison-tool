@@ -1,6 +1,6 @@
 {
   "facility_code": "15015005",
-  "institution": "MANUAL ARTS CRENSHAW EDUCATION AND CAREER CNTR (CHAPTER 31 ONLY)",
+  "institution": "Manual Arts Crenshaw Education And Career Cntr (Chapter 31 Only)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90043",
+  "email": false
 }

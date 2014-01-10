@@ -1,6 +1,6 @@
 {
   "facility_code": "10850521",
-  "institution": "US CUSTOMS AND BORDER PROTECTION BOSTON MA FIELD OFFICE",
+  "institution": "Us Customs And Border Protection Boston Ma Field Office",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2222",
+  "email": true
 }

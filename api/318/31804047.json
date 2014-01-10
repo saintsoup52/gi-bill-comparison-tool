@@ -1,6 +1,6 @@
 {
   "facility_code": "31804047",
-  "institution": "UNIVERSITY OF PUGET SOUND",
+  "institution": "University Of Puget Sound",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 37,
   "cross": 236328,
-  "grad_rate": 73.2,
-  "grad_rate_rank": 253,
-  "default_rate": 1.1,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 77.0,
+  "grad_rate_rank": 204,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98416",
+  "email": true
 }

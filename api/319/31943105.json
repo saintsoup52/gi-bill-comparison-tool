@@ -1,6 +1,6 @@
 {
   "facility_code": "31943105",
-  "institution": "LAGUNA COLLEGE OF ART & DESIGN",
+  "institution": "Laguna College Of Art & Design",
   "city": "Laguna Beach",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 117168,
-  "grad_rate": 55.8,
-  "grad_rate_rank": 679,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 23031,
-  "avg_stu_loan_debt_rank": 1794,
-  "indicator_group": 1
+  "grad_rate": 60.3,
+  "grad_rate_rank": 560,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 25250,
+  "avg_stu_loan_debt_rank": 1793,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92651",
+  "email": true
 }

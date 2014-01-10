@@ -1,6 +1,6 @@
 {
   "facility_code": "25514114",
-  "institution": "PJ'S COLLEGE OF COSMETOLOGY - CLARKSVILLE",
+  "institution": "Pj'S College Of Cosmetology - Clarksville",
   "city": "Clarksville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 150853,
-  "grad_rate": 62.8,
-  "grad_rate_rank": 1480,
-  "default_rate": 10.3,
-  "avg_stu_loan_debt": 12048,
-  "avg_stu_loan_debt_rank": 2341,
-  "indicator_group": 5
+  "grad_rate": 12.1,
+  "grad_rate_rank": 2260,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 15734,
+  "avg_stu_loan_debt_rank": 1936,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47129",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15140222",
-  "institution": "NILES HIGH SCHOOL",
+  "institution": "Niles High School",
   "city": "Niles",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49120",
+  "email": false
 }

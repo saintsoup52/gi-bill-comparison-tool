@@ -1,6 +1,6 @@
 {
   "facility_code": "31884132",
-  "institution": "TOURO COLLEGE - FUCHSBERG LAW CENTER",
+  "institution": "Touro College - Fuchsberg Law Center",
   "city": "Central Islip",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 196592,
-  "grad_rate": 57.3,
-  "grad_rate_rank": 642,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 10500,
-  "avg_stu_loan_debt_rank": 271,
-  "indicator_group": 1
+  "grad_rate": 56.4,
+  "grad_rate_rank": 689,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 11500,
+  "avg_stu_loan_debt_rank": 256,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11722",
+  "email": true
 }

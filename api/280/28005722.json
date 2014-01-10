@@ -1,6 +1,6 @@
 {
   "facility_code": "28005722",
-  "institution": "CARNEGIE INSTITUTE",
+  "institution": "Carnegie Institute",
   "city": "Troy",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 169187,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 81.3,
+  "grad_rate_rank": 584,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 5799,
+  "avg_stu_loan_debt_rank": 393,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48083",
+  "email": true
 }

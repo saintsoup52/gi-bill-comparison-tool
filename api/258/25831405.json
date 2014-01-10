@@ -1,6 +1,6 @@
 {
   "facility_code": "25831405",
-  "institution": "COAST CAREER INSTITUTE",
+  "institution": "Coast Career Institute",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 401339,
-  "grad_rate": 90.8,
-  "grad_rate_rank": 244,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 3666,
-  "avg_stu_loan_debt_rank": 654,
-  "indicator_group": 5
+  "grad_rate": 91.6,
+  "grad_rate_rank": 231,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 5800,
+  "avg_stu_loan_debt_rank": 394,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90015",
+  "email": false
 }

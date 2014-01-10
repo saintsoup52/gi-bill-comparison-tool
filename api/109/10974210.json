@@ -1,6 +1,6 @@
 {
   "facility_code": "10974210",
-  "institution": "GROUND RADIO COMMUNICATIONS",
+  "institution": "Ground Radio Communications",
   "city": "Macdill Afb",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33621",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15604325",
-  "institution": "FORT ZUMWALT NORTH HIGH SCHOOL",
+  "institution": "Fort Zumwalt North High School",
   "city": "O'Fallon",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63366",
+  "email": true
 }

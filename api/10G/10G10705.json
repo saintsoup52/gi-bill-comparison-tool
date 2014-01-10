@@ -1,6 +1,6 @@
 {
   "facility_code": "10G10705",
-  "institution": "FEDERAL CORRECTIONAL INSTITUTION TERMINAL ISLAND",
+  "institution": "Federal Correctional Institution Terminal Island",
   "city": "Terminal Island",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90731",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24943438",
-  "institution": "THE RESTAURANT SCHOOL AT WALNUT HILL COLLEGE",
+  "institution": "The Restaurant School At Walnut Hill College",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 215637,
-  "grad_rate": 49.1,
-  "grad_rate_rank": 230,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "grad_rate": 47.9,
+  "grad_rate_rank": 290,
+  "default_rate": 15.1,
+  "avg_stu_loan_debt": 16960,
+  "avg_stu_loan_debt_rank": 1101,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19104",
+  "email": false
 }

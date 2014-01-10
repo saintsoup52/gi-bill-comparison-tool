@@ -1,6 +1,6 @@
 {
   "facility_code": "25580325",
-  "institution": "COLUMBIA BEAUTY ACADEMY",
+  "institution": "Columbia Beauty Academy",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65203",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10495517",
-  "institution": "HENDERSON COUNTY DETENTION CENTER",
+  "institution": "Henderson County Detention Center",
   "city": "Henderson",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "42420",
+  "email": true
 }

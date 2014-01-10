@@ -1,6 +1,6 @@
 {
   "facility_code": "31871010",
-  "institution": "UNIVERSIDAD METROPOLITANA-TAMPA",
+  "institution": "Universidad Metropolitana-Tampa",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 241739,
-  "grad_rate": 17.9,
-  "grad_rate_rank": 1697,
-  "default_rate": 17.2,
-  "avg_stu_loan_debt": 4676,
-  "avg_stu_loan_debt_rank": 98,
-  "indicator_group": 1
+  "grad_rate": 19.6,
+  "grad_rate_rank": 1719,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 3517,
+  "avg_stu_loan_debt_rank": 9,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33614",
+  "email": true
 }

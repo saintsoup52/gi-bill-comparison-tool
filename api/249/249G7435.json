@@ -1,6 +1,6 @@
 {
   "facility_code": "249G7435",
-  "institution": "DAYMAR COLLEGE",
+  "institution": "Daymar College",
   "city": "Chillicothe",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 205568,
-  "grad_rate": 95.0,
-  "grad_rate_rank": 11,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 12973,
-  "avg_stu_loan_debt_rank": 1052,
-  "indicator_group": 2
+  "grad_rate": 42.9,
+  "grad_rate_rank": 369,
+  "default_rate": 18.6,
+  "avg_stu_loan_debt": 13834,
+  "avg_stu_loan_debt_rank": 939,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45601",
+  "email": true
 }

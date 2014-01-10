@@ -1,6 +1,6 @@
 {
   "facility_code": "21803405",
-  "institution": "DEVRY UNIVERSITY (OAKLAND)",
+  "institution": "Devry University (Oakland)",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 113607,
-  "grad_rate": 31.2,
-  "grad_rate_rank": 1466,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 31.0,
+  "grad_rate_rank": 1508,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94612",
+  "email": true
 }

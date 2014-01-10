@@ -1,6 +1,6 @@
 {
   "facility_code": "25361932",
-  "institution": "CHARLES STUART SCHOOL",
+  "institution": "Charles Stuart School",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 418171,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
-  "default_rate": 11.1,
+  "grad_rate": 86.7,
+  "grad_rate_rank": 378,
+  "default_rate": 23.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "11229",
+  "email": false
 }

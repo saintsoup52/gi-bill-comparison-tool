@@ -1,6 +1,6 @@
 {
   "facility_code": "18530032",
-  "institution": "BOCES ERIE 1",
+  "institution": "Boces Erie 1",
   "city": "West Seneca",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 439622,
-  "grad_rate": 91.7,
-  "grad_rate_rank": 210,
-  "default_rate": 17.8,
-  "avg_stu_loan_debt": 6663,
-  "avg_stu_loan_debt_rank": 1092,
-  "indicator_group": 5
+  "grad_rate": 96.7,
+  "grad_rate_rank": 113,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 8700,
+  "avg_stu_loan_debt_rank": 936,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14224",
+  "email": true
 }

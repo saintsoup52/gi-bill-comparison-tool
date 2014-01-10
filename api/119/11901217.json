@@ -1,6 +1,6 @@
 {
   "facility_code": "11901217",
-  "institution": "UNIVERSITY OF LOUISVILLE MEDICINE AND DENTISTRY",
+  "institution": "University Of Louisville Medicine And Dentistry",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 157289,
-  "grad_rate": 50.8,
-  "grad_rate_rank": 856,
-  "default_rate": 7.7,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 52.1,
+  "grad_rate_rank": 825,
+  "default_rate": 9.7,
+  "avg_stu_loan_debt": 13597,
+  "avg_stu_loan_debt_rank": 405,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40292",
+  "email": false
 }

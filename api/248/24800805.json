@@ -1,6 +1,6 @@
 {
   "facility_code": "24800805",
-  "institution": "PLATT COLLEGE (ALHAMBRA)",
+  "institution": "Platt College (Alhambra)",
   "city": "Alhambra",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 260789,
-  "grad_rate": 47.6,
-  "grad_rate_rank": 248,
-  "default_rate": 23.0,
-  "avg_stu_loan_debt": 18142,
-  "avg_stu_loan_debt_rank": 1365,
-  "indicator_group": 2
+  "grad_rate": 50.0,
+  "grad_rate_rank": 263,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 18362,
+  "avg_stu_loan_debt_rank": 1135,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91803",
+  "email": false
 }

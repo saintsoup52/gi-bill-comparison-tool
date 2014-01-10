@@ -1,6 +1,6 @@
 {
   "facility_code": "31943132",
-  "institution": "DAEMEN COLLEGE VETERANS AFFAIRS OFFICE",
+  "institution": "Daemen College Veterans Affairs Office",
   "city": "Amherst",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 73,
   "cross": 190725,
-  "grad_rate": 44.0,
-  "grad_rate_rank": 1094,
-  "default_rate": 8.2,
-  "avg_stu_loan_debt": 17039,
-  "avg_stu_loan_debt_rank": 958,
-  "indicator_group": 1
+  "grad_rate": 48.4,
+  "grad_rate_rank": 948,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 16926,
+  "avg_stu_loan_debt_rank": 794,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14226",
+  "email": true
 }

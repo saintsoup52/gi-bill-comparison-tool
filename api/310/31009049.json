@@ -1,6 +1,6 @@
 {
   "facility_code": "31009049",
-  "institution": "MILWAUKEE INSTITUTE OF ART & DESIGN",
+  "institution": "Milwaukee Institute Of Art & Design",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 239309,
-  "grad_rate": 57.1,
-  "grad_rate_rank": 647,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 24286,
-  "avg_stu_loan_debt_rank": 1881,
-  "indicator_group": 1
+  "grad_rate": 54.6,
+  "grad_rate_rank": 750,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 28263,
+  "avg_stu_loan_debt_rank": 1919,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53202",
+  "email": true
 }

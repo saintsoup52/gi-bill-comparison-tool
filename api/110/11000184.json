@@ -1,10 +1,10 @@
 {
   "facility_code": "11000184",
-  "institution": "CENTRE FOR THE STUDY OF POLITICAL CHANGE @ UNIVERSITY OF SIENA",
+  "institution": "Centre For The Study Of Political Change @ University Of Siena",
   "city": "53100 Siena",
   "state": "Italy",
   "country": "Italy",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "29016414",
-  "institution": "WAYNE COUNTY COUNCIL FOR RETARDED CITIZENS -CH.31",
+  "institution": "Wayne County Council For Retarded Citizens -Ch.31",
   "city": "Richmond",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47375",
+  "email": false
 }

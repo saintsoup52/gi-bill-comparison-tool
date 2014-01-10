@@ -1,6 +1,6 @@
 {
   "facility_code": "20661140",
-  "institution": "UNION GLASS AND METAL INC",
+  "institution": "Union Glass And Metal Inc",
   "city": "Fort Mill",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29715",
+  "email": true
 }

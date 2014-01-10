@@ -1,6 +1,6 @@
 {
   "facility_code": "249L9143",
-  "institution": "PLATT COLLEGE",
+  "institution": "Platt College",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 447388,
-  "grad_rate": 64.7,
-  "grad_rate_rank": 1408,
-  "default_rate": 25.7,
+  "grad_rate": 61.0,
+  "grad_rate_rank": 283,
+  "default_rate": 18.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "75234",
+  "email": false
 }

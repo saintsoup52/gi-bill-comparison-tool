@@ -1,6 +1,6 @@
 {
   "facility_code": "35004241",
-  "institution": "RED CLOUD INDIAN SCHOOL",
+  "institution": "Red Cloud Indian School",
   "city": "Pine Ridge",
   "state": "SD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "57770",
+  "email": false
 }

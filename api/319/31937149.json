@@ -1,6 +1,6 @@
 {
   "facility_code": "31937149",
-  "institution": "CARTHAGE COLLEGE",
+  "institution": "Carthage College",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 238476,
-  "grad_rate": 58.7,
-  "grad_rate_rank": 602,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 24800,
-  "avg_stu_loan_debt_rank": 1908,
-  "indicator_group": 1
+  "grad_rate": 60.2,
+  "grad_rate_rank": 562,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 24418,
+  "avg_stu_loan_debt_rank": 1680,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53140",
+  "email": true
 }

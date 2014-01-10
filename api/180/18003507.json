@@ -1,6 +1,6 @@
 {
   "facility_code": "18003507",
-  "institution": "HOWELL CHENEY TECHNICAL HIGH SCHOOL",
+  "institution": "Howell Cheney Technical High School",
   "city": "Manchester",
   "state": "CT",
   "country": "USA",
@@ -12,7 +12,10 @@
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6040",
+  "email": true
 }

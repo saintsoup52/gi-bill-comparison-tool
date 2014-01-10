@@ -1,6 +1,6 @@
 {
   "facility_code": "25011730",
-  "institution": "LINCOLN TECHNICAL INSTITUTE - PARAMUS",
+  "institution": "Lincoln Technical Institute - Paramus",
   "city": "Paramus",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 442073,
-  "grad_rate": 68.3,
-  "grad_rate_rank": 1242,
-  "default_rate": 31.0,
-  "avg_stu_loan_debt": 8611,
-  "avg_stu_loan_debt_rank": 1494,
-  "indicator_group": 5
+  "grad_rate": 62.1,
+  "grad_rate_rank": 1548,
+  "default_rate": 27.3,
+  "avg_stu_loan_debt": 9059,
+  "avg_stu_loan_debt_rank": 1003,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7652",
+  "email": true
 }

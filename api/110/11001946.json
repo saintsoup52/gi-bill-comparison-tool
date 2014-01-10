@@ -1,6 +1,6 @@
 {
   "facility_code": "11001946",
-  "institution": "RADFORD UNIVERSITY - REGISTRAR",
+  "institution": "Radford University - Registrar",
   "city": "Radford",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 386,
   "cross": 233277,
-  "grad_rate": 55.8,
-  "grad_rate_rank": 679,
-  "default_rate": 5.1,
-  "avg_stu_loan_debt": 16625,
-  "avg_stu_loan_debt_rank": 902,
-  "indicator_group": 1
+  "grad_rate": 60.1,
+  "grad_rate_rank": 564,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 16854,
+  "avg_stu_loan_debt_rank": 786,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24142",
+  "email": true
 }

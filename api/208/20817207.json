@@ -1,6 +1,6 @@
 {
   "facility_code": "20817207",
-  "institution": "D.B. WOOLLEY INC.",
+  "institution": "D.B. Woolley Inc.",
   "city": "Marion",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6444",
+  "email": false
 }

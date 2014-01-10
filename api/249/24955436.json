@@ -1,6 +1,6 @@
 {
   "facility_code": "24955436",
-  "institution": "HERITAGE COLLEGE-OKLAHOMA CITY",
+  "institution": "Heritage College-Oklahoma City",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 410070,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 28.6,
-  "avg_stu_loan_debt": 10613,
-  "avg_stu_loan_debt_rank": 893,
-  "indicator_group": 2
+  "grad_rate": 60.0,
+  "grad_rate_rank": 170,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 11456,
+  "avg_stu_loan_debt_rank": 830,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "73149",
+  "email": true
 }

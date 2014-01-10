@@ -1,6 +1,6 @@
 {
   "facility_code": "14802436",
-  "institution": "OKLAHOMA STATE UNIVERSITY INSTITUTE OF TECHNOLOGY",
+  "institution": "Oklahoma State University Institute Of Technology",
   "city": "Okmulgee",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 195,
   "cross": 207564,
-  "grad_rate": 27.5,
-  "grad_rate_rank": 612,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 8964,
-  "avg_stu_loan_debt_rank": 719,
-  "indicator_group": 2
+  "grad_rate": 24.9,
+  "grad_rate_rank": 791,
+  "default_rate": 30.5,
+  "avg_stu_loan_debt": 7332,
+  "avg_stu_loan_debt_rank": 484,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "74447",
+  "email": true
 }

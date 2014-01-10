@@ -1,6 +1,6 @@
 {
   "facility_code": "21124525",
-  "institution": "UNIVERSITY OF PHOENIX KANSAS CITY",
+  "institution": "University Of Phoenix Kansas City",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 79,
   "cross": 442143,
-  "grad_rate": 12.9,
-  "grad_rate_rank": 1753,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 13.3,
+  "grad_rate_rank": 1801,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64131",
+  "email": false
 }

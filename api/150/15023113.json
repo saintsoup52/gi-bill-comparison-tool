@@ -1,6 +1,6 @@
 {
   "facility_code": "15023113",
-  "institution": "TAYLORVILLE HIGH SCHOOL",
+  "institution": "Taylorville High School",
   "city": "Taylorville",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62568",
+  "email": false
 }

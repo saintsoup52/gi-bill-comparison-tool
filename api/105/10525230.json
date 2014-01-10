@@ -1,6 +1,6 @@
 {
   "facility_code": "10525230",
-  "institution": "PARSIPPANY TROY HILLS POLICE DEPARTMENT",
+  "institution": "Parsippany Troy Hills Police Department",
   "city": "Parsipanny",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7054",
+  "email": false
 }

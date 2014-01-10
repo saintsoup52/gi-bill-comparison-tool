@@ -1,6 +1,6 @@
 {
   "facility_code": "20409347",
-  "institution": "NEWTEC (CH 31 ONLY)",
+  "institution": "Newtec (Ch 31 Only)",
   "city": "Dupont",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98327",
+  "email": false
 }

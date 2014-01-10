@@ -1,6 +1,6 @@
 {
   "facility_code": "30060616",
-  "institution": "WICHITA IRON WORKERS JAC - LOCAL 606",
+  "institution": "Wichita Iron Workers Jac - Local 606",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67214",
+  "email": false
 }

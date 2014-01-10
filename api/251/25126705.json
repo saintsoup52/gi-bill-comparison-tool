@@ -1,6 +1,6 @@
 {
   "facility_code": "25126705",
-  "institution": "BAY AREA OPTICAL SCHOOLS (CHAPTER 31)",
+  "institution": "Bay Area Optical Schools (Chapter 31)",
   "city": "Union City",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94587",
+  "email": false
 }

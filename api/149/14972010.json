@@ -1,6 +1,6 @@
 {
   "facility_code": "14972010",
-  "institution": "GULF COAST STATE COLLEGE",
+  "institution": "Gulf Coast State College",
   "city": "Panama City",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 683,
   "cross": 134343,
-  "grad_rate": 33.1,
-  "grad_rate_rank": 459,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 4653,
-  "avg_stu_loan_debt_rank": 242,
-  "indicator_group": 2
+  "grad_rate": 38.0,
+  "grad_rate_rank": 443,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 4745,
+  "avg_stu_loan_debt_rank": 135,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25006811",
-  "institution": "EMPIRE BEAUTY SCHOOLS - KENNESAW",
+  "institution": "Empire Beauty Schools - Kennesaw",
   "city": "Kennesaw",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 14,
   "cross": 440101,
-  "grad_rate": 59.3,
-  "grad_rate_rank": 1614,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 11715,
-  "avg_stu_loan_debt_rank": 2295,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 13700,
+  "avg_stu_loan_debt_rank": 1876,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30144",
+  "email": true
 }

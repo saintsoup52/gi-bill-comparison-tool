@@ -1,6 +1,6 @@
 {
   "facility_code": "14901450",
-  "institution": "CENTRAL WYOMING COLLEGE",
+  "institution": "Central Wyoming College",
   "city": "Riverton",
   "state": "WY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 51,
   "cross": 240514,
-  "grad_rate": 34.4,
-  "grad_rate_rank": 434,
-  "default_rate": 25.1,
-  "avg_stu_loan_debt": 5624,
-  "avg_stu_loan_debt_rank": 402,
-  "indicator_group": 2
+  "grad_rate": 29.7,
+  "grad_rate_rank": 641,
+  "default_rate": 22.6,
+  "avg_stu_loan_debt": 6717,
+  "avg_stu_loan_debt_rank": 412,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "82501",
+  "email": true
 }

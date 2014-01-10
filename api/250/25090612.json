@@ -1,6 +1,6 @@
 {
   "facility_code": "25090612",
-  "institution": "COSMETOLOGY SCHOOL OF ARTS & SCIENCES",
+  "institution": "Cosmetology School Of Arts & Sciences",
   "city": "Burley",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 445780,
-  "grad_rate": 87.2,
-  "grad_rate_rank": 352,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 2407,
-  "indicator_group": 5
+  "grad_rate": 72.7,
+  "grad_rate_rank": 1041,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "83318",
+  "email": false
 }

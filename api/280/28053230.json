@@ -1,6 +1,6 @@
 {
   "facility_code": "28053230",
-  "institution": "PARISIAN BEAUTY ACADEMY",
+  "institution": "Parisian Beauty Academy",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 186016,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 578,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 7339,
-  "avg_stu_loan_debt_rank": 1196,
-  "indicator_group": 5
+  "grad_rate": 89.7,
+  "grad_rate_rank": 284,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 7667,
+  "avg_stu_loan_debt_rank": 752,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7601",
+  "email": true
 }

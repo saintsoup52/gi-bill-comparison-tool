@@ -1,6 +1,6 @@
 {
   "facility_code": "20050735",
-  "institution": "BUTLER CTY PLMBRS AND PIPEFTRS JATC LOCAL 113 K",
+  "institution": "Butler Cty Plmbrs And Pipeftrs Jatc Local 113 K",
   "city": "Middletown",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45042",
+  "email": false
 }

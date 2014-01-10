@@ -1,6 +1,6 @@
 {
   "facility_code": "30965310",
-  "institution": "BREVARD MACHINIST APPRENTICESHIP PROGRAM INC. GNJ",
+  "institution": "Brevard Machinist Apprenticeship Program Inc. Gnj",
   "city": "Melbourne",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32935",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B33735",
-  "institution": "VINYL IMPROVEMENT PRODUCTS CO   K",
+  "institution": "Vinyl Improvement Products Co   K",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43216",
+  "email": false
 }

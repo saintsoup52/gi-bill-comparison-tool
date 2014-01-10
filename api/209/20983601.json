@@ -1,6 +1,6 @@
 {
   "facility_code": "20983601",
-  "institution": "(CHAPTER 31)PIGGLY WIGGLY DIXIELAND INC.",
+  "institution": "(Chapter 31)Piggly Wiggly Dixieland Inc.",
   "city": "Geneva",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36340",
+  "email": false
 }

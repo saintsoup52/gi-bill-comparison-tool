@@ -1,6 +1,6 @@
 {
   "facility_code": "10104328",
-  "institution": "EMPLOYMENT SECURITY DEPT STATE OF NEVADA (CH31)",
+  "institution": "Employment Security Dept State Of Nevada (Ch31)",
   "city": "Carson City",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89706",
+  "email": false
 }

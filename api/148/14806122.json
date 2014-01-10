@@ -1,6 +1,6 @@
 {
   "facility_code": "14806122",
-  "institution": "MACOMB COMMUNITY COLLEGE",
+  "institution": "Macomb Community College",
   "city": "Warren",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 609,
   "cross": 170790,
-  "grad_rate": 12.9,
-  "grad_rate_rank": 1099,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 2627,
-  "avg_stu_loan_debt_rank": 118,
-  "indicator_group": 2
+  "grad_rate": 12.1,
+  "grad_rate_rank": 1225,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 2750,
+  "avg_stu_loan_debt_rank": 14,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48093",
+  "email": true
 }

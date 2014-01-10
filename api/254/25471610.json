@@ -1,6 +1,6 @@
 {
   "facility_code": "25471610",
-  "institution": "SULLIVAN AND COGLIANO TRAINING CENTER",
+  "institution": "Sullivan And Cogliano Training Center",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 433466,
-  "grad_rate": 75.3,
-  "grad_rate_rank": 899,
-  "default_rate": 17.0,
-  "avg_stu_loan_debt": 7279,
-  "avg_stu_loan_debt_rank": 1185,
-  "indicator_group": 5
+  "grad_rate": 76.0,
+  "grad_rate_rank": 865,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 7481,
+  "avg_stu_loan_debt_rank": 692,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33156",
+  "email": true
 }

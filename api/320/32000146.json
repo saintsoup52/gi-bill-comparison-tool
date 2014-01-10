@@ -1,6 +1,6 @@
 {
   "facility_code": "32000146",
-  "institution": "DANVILLE REGIONAL MEDICAL CTR SCH OF HEALTH PROFESSIONS",
+  "institution": "Danville Regional Medical Ctr Sch Of Health Professions",
   "city": "Danville",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 232724,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 12250,
-  "avg_stu_loan_debt_rank": 2365,
-  "indicator_group": 5
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 11335,
+  "avg_stu_loan_debt_rank": 1626,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "24541",
+  "email": true
 }

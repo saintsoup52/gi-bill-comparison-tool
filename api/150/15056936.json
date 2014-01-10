@@ -1,6 +1,6 @@
 {
   "facility_code": "15056936",
-  "institution": "MUSKOGEE HIGH SCHOOL",
+  "institution": "Muskogee High School",
   "city": "Muskogee",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "74403",
+  "email": true
 }

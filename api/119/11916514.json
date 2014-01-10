@@ -1,6 +1,6 @@
 {
   "facility_code": "11916514",
-  "institution": "PURDUE UNIVERSITY - SCHOOL OF PHARMACY/PHARMACAL SCIENCES",
+  "institution": "Purdue University - School Of Pharmacy/Pharmacal Sciences",
   "city": "West Lafayette",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 243780,
-  "grad_rate": 68.1,
-  "grad_rate_rank": 348,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 21396,
-  "avg_stu_loan_debt_rank": 1575,
-  "indicator_group": 1
+  "grad_rate": 70.0,
+  "grad_rate_rank": 313,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47907",
+  "email": false
 }

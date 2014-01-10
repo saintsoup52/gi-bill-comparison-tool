@@ -1,6 +1,6 @@
 {
   "facility_code": "25522517",
-  "institution": "NATIONAL COLLEGE OF BARBERING",
+  "institution": "National College Of Barbering",
   "city": "Crestwood",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40014",
+  "email": false
 }

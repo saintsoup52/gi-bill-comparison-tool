@@ -1,6 +1,6 @@
 {
   "facility_code": "20D13533",
-  "institution": "SHEET METAL WORKERS UNION TRAINING FUND OF NC",
+  "institution": "Sheet Metal Workers Union Training Fund Of Nc",
   "city": "High Point",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27260",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31816946",
-  "institution": "SOUTHERN VIRGINIA UNIVERSITY",
+  "institution": "Southern Virginia University",
   "city": "Buena Vista",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 24,
   "cross": 233611,
-  "grad_rate": 25.1,
-  "grad_rate_rank": 1588,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 29.9,
+  "grad_rate_rank": 1536,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 12925,
+  "avg_stu_loan_debt_rank": 355,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24416",
+  "email": true
 }

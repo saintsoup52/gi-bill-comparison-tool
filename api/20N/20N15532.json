@@ -1,6 +1,6 @@
 {
   "facility_code": "20N15532",
-  "institution": "NUCLEAR LEARNING CENTER OF NINE MILE POINT",
+  "institution": "Nuclear Learning Center Of Nine Mile Point",
   "city": "Oswego",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13126",
+  "email": true
 }

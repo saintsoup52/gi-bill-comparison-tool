@@ -1,6 +1,6 @@
 {
   "facility_code": "31812032",
-  "institution": "UTICA COLLEGE",
+  "institution": "Utica College",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 155,
   "cross": 197045,
-  "grad_rate": 44.4,
-  "grad_rate_rank": 1081,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 20402,
-  "avg_stu_loan_debt_rank": 1470,
-  "indicator_group": 1
+  "grad_rate": 47.5,
+  "grad_rate_rank": 985,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 20687,
+  "avg_stu_loan_debt_rank": 1281,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13502",
+  "email": true
 }

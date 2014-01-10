@@ -1,6 +1,6 @@
 {
   "facility_code": "15802332",
-  "institution": "BABYLON HIGH SCHOOL",
+  "institution": "Babylon High School",
   "city": "Babylon",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11702",
+  "email": false
 }

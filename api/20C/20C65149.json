@@ -1,6 +1,6 @@
 {
   "facility_code": "20C65149",
-  "institution": "INDUSTRIAL VENTILATION INC",
+  "institution": "Industrial Ventilation Inc",
   "city": "Greenview",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54952",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32003520",
-  "institution": "MARYLAND GENERAL HOSPITAL",
+  "institution": "Maryland General Hospital",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21201",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31055029",
-  "institution": "ST. JOSEPH'S COLLEGE",
+  "institution": "St. Joseph'S College",
   "city": "Center Strafford",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 195544,
-  "grad_rate": 65.1,
-  "grad_rate_rank": 434,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 67.5,
+  "grad_rate_rank": 361,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 22337,
+  "avg_stu_loan_debt_rank": 1457,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "3815",
+  "email": false
 }

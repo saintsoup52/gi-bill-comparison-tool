@@ -1,6 +1,6 @@
 {
   "facility_code": "21986613",
-  "institution": "STRAYER UNIVERSITY-SCHAUMBURG",
+  "institution": "Strayer University-Schaumburg",
   "city": "Schaumburg",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 8,
   "cross": 477020,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 80,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "60173",
+  "email": true
 }

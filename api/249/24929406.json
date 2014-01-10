@@ -1,6 +1,6 @@
 {
   "facility_code": "24929406",
-  "institution": "COLORADO SCHOOL OF TRADES",
+  "institution": "Colorado School Of Trades",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 117,
   "cross": 126784,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 9.3,
+  "grad_rate": 82.0,
+  "grad_rate_rank": 32,
+  "default_rate": 2.7,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1410,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "80215",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30070820",
-  "institution": "MONTGOMERY COUNTY GOVERNMENT MAINTENANCE DIV TRAIN",
+  "institution": "Montgomery County Government Maintenance Div Train",
   "city": "Rockville",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20850",
+  "email": "No (SCO)"
 }

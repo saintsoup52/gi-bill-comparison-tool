@@ -1,6 +1,6 @@
 {
   "facility_code": "30592013",
-  "institution": "JAC LOCAL 380 OF THE INT. ASSOC. OF BRIDGES STRUCTRAL & ORNA",
+  "institution": "Jac Local 380 Of The Int. Assoc. Of Bridges Structral & Orna",
   "city": "Urbana",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61801",
+  "email": false
 }

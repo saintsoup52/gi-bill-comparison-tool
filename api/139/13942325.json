@@ -1,6 +1,6 @@
 {
   "facility_code": "13942325",
-  "institution": "NORTHWEST MISSOURI STATE UNIVERSITY",
+  "institution": "Northwest Missouri State University",
   "city": "Maryville",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 164,
   "cross": 178624,
-  "grad_rate": 48.7,
-  "grad_rate_rank": 933,
-  "default_rate": 7.2,
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 9.7,
   "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 576,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64468",
+  "email": false
 }

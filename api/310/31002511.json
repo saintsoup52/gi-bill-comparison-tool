@@ -1,6 +1,6 @@
 {
   "facility_code": "31002511",
-  "institution": "THOMAS UNIVERSITY",
+  "institution": "Thomas University",
   "city": "Thomasville",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 141167,
-  "grad_rate": 7.5,
-  "grad_rate_rank": 1807,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 17876,
-  "avg_stu_loan_debt_rank": 1068,
-  "indicator_group": 1
+  "grad_rate": 14.3,
+  "grad_rate_rank": 1789,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 17244,
+  "avg_stu_loan_debt_rank": 820,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31792",
+  "email": true
 }

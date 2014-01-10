@@ -1,6 +1,6 @@
 {
   "facility_code": "10302426",
-  "institution": "PARTNERSHIP HEALTH CARE",
+  "institution": "Partnership Health Care",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59802",
+  "email": false
 }

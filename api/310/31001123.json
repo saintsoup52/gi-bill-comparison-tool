@@ -1,6 +1,6 @@
 {
   "facility_code": "31001123",
-  "institution": "MACALESTER COLLEGE",
+  "institution": "Macalester College",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 173902,
-  "grad_rate": 87.2,
-  "grad_rate_rank": 77,
-  "default_rate": 1.8,
-  "avg_stu_loan_debt": 19832,
-  "avg_stu_loan_debt_rank": 1375,
-  "indicator_group": 1
+  "grad_rate": 89.8,
+  "grad_rate_rank": 68,
+  "default_rate": 0.6,
+  "avg_stu_loan_debt": 22410,
+  "avg_stu_loan_debt_rank": 1461,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55105",
+  "email": false
 }

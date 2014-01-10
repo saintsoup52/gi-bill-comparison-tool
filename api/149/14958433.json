@@ -1,6 +1,6 @@
 {
   "facility_code": "14958433",
-  "institution": "MAYLAND COMMUNITY COLLEGE",
+  "institution": "Mayland Community College",
   "city": "Spruce Pine",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 198914,
-  "grad_rate": 47.5,
-  "grad_rate_rank": 215,
+  "grad_rate": 38.1,
+  "grad_rate_rank": 470,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 80,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28777",
+  "email": true
 }

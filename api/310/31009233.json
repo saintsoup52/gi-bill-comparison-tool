@@ -1,6 +1,6 @@
 {
   "facility_code": "31009233",
-  "institution": "GARDNER WEBB UNIVERSITY",
+  "institution": "Gardner Webb University",
   "city": "Boiling Springs",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 124,
   "cross": 198561,
-  "grad_rate": 54.6,
-  "grad_rate_rank": 724,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 19185,
-  "avg_stu_loan_debt_rank": 1278,
-  "indicator_group": 1
+  "grad_rate": 45.2,
+  "grad_rate_rank": 1054,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28017",
+  "email": true
 }

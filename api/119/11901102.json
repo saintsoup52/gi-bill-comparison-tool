@@ -1,6 +1,6 @@
 {
   "facility_code": "11901102",
-  "institution": "UNIVERSITY OF ALASKA - FAIRBANKS",
+  "institution": "University Of Alaska - Fairbanks",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 799,
   "cross": 102614,
-  "grad_rate": 30.8,
-  "grad_rate_rank": 1475,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 33.2,
+  "grad_rate_rank": 1444,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 11610,
+  "avg_stu_loan_debt_rank": 264,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99775",
+  "email": true
 }

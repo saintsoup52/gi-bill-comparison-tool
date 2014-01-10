@@ -1,6 +1,6 @@
 {
   "facility_code": "25002740",
-  "institution": "JOANN ORR TRAINING FOR SERVICE SCHOOL OF MINISTRY",
+  "institution": "Joann Orr Training For Service School Of Ministry",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29935",
+  "email": true
 }

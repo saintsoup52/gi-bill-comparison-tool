@@ -1,6 +1,6 @@
 {
   "facility_code": "31517135",
-  "institution": "OHIO DOMINICAN UNIVERSITY",
+  "institution": "Ohio Dominican University",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 86,
   "cross": 204617,
-  "grad_rate": 47.8,
-  "grad_rate_rank": 967,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 40.6,
+  "grad_rate_rank": 1228,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 25250,
+  "avg_stu_loan_debt_rank": 1793,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43219",
+  "email": false
 }

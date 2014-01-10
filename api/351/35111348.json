@@ -1,6 +1,6 @@
 {
   "facility_code": "35111348",
-  "institution": "B M SPURR SCHOOL OF PRACTICAL NURSING",
+  "institution": "B M Spurr School Of Practical Nursing",
   "city": "Glen Dale",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 237145,
-  "grad_rate": 90.5,
-  "grad_rate_rank": 251,
+  "grad_rate": 92.9,
+  "grad_rate_rank": 193,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26038",
+  "email": true
 }

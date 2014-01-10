@@ -1,6 +1,6 @@
 {
   "facility_code": "25021916",
-  "institution": "ENTOURAGE INSTITUTE OF BEAUTY AND ESTHETICS",
+  "institution": "Entourage Institute Of Beauty And Esthetics",
   "city": "Lenexa",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 461801,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 443,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 83.3,
+  "grad_rate_rank": 504,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4001,
+  "avg_stu_loan_debt_rank": 150,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "66215",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11555541",
-  "institution": "CAPITAL UNIVERSITY CENTER BOOKSTORE",
+  "institution": "Capital University Center Bookstore",
   "city": "Pierre",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 201548,
-  "grad_rate": 61.4,
-  "grad_rate_rank": 526,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 59.1,
+  "grad_rate_rank": 589,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 24125,
+  "avg_stu_loan_debt_rank": 1653,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57501",
+  "email": false
 }

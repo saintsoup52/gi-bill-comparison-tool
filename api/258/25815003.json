@@ -1,6 +1,6 @@
 {
   "facility_code": "25815003",
-  "institution": "EMPIRE BEAUTY SCHOOL- FLAGSTAFF",
+  "institution": "Empire Beauty School- Flagstaff",
   "city": "Flagstaff",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 104434,
-  "grad_rate": 44.8,
-  "grad_rate_rank": 2014,
-  "default_rate": 16.5,
-  "avg_stu_loan_debt": 14083,
-  "avg_stu_loan_debt_rank": 2446,
-  "indicator_group": 5
+  "grad_rate": 58.8,
+  "grad_rate_rank": 1674,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "86004",
+  "email": false
 }

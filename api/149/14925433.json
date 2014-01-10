@@ -1,6 +1,6 @@
 {
   "facility_code": "14925433",
-  "institution": "CAPE FEAR COMMUNITY COLLEGE",
+  "institution": "Cape Fear Community College",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 654,
   "cross": 198154,
-  "grad_rate": 20.2,
-  "grad_rate_rank": 850,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 8250,
-  "avg_stu_loan_debt_rank": 664,
-  "indicator_group": 2
+  "grad_rate": 19.7,
+  "grad_rate_rank": 950,
+  "default_rate": 17.1,
+  "avg_stu_loan_debt": 7737,
+  "avg_stu_loan_debt_rank": 533,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28401",
+  "email": true
 }

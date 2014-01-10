@@ -1,6 +1,6 @@
 {
   "facility_code": "31801124",
-  "institution": "WILLIAM CAREY UNIVERSITY - HATTIESBURG",
+  "institution": "William Carey University - Hattiesburg",
   "city": "Hattiesburg",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 168,
   "cross": 176479,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 844,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 16875,
-  "avg_stu_loan_debt_rank": 931,
-  "indicator_group": 1
+  "grad_rate": 57.7,
+  "grad_rate_rank": 640,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 18126,
+  "avg_stu_loan_debt_rank": 935,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39401",
+  "email": true
 }

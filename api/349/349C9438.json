@@ -1,6 +1,6 @@
 {
   "facility_code": "349C9438",
-  "institution": "ROSEDALE TECHNICAL INSTITUTE INC",
+  "institution": "Rosedale Technical Institute Inc",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 65,
   "cross": 215682,
-  "grad_rate": 52.3,
-  "grad_rate_rank": 201,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 967,
-  "indicator_group": 2
+  "grad_rate": 64.3,
+  "grad_rate_rank": 138,
+  "default_rate": 16.4,
+  "avg_stu_loan_debt": 16000,
+  "avg_stu_loan_debt_rank": 1058,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15205",
+  "email": true
 }

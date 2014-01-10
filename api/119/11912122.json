@@ -1,6 +1,6 @@
 {
   "facility_code": "11912122",
-  "institution": "NORTHERN MICHIGAN UNIVERSITY",
+  "institution": "Northern Michigan University",
   "city": "Marquette",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 367,
   "cross": 171456,
-  "grad_rate": 47.8,
-  "grad_rate_rank": 967,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 43.8,
+  "grad_rate_rank": 1108,
+  "default_rate": 10.3,
+  "avg_stu_loan_debt": 15500,
+  "avg_stu_loan_debt_rank": 576,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49855",
+  "email": true
 }

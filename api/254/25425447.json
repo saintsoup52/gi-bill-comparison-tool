@@ -1,6 +1,6 @@
 {
   "facility_code": "25425447",
-  "institution": "EVERGREEN BEAUTY & BARBER COLLEGE @ EVERETT",
+  "institution": "Evergreen Beauty & Barber College @ Everett",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 446260,
-  "grad_rate": 76.6,
-  "grad_rate_rank": 838,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 6332,
-  "avg_stu_loan_debt_rank": 1006,
-  "indicator_group": 5
+  "grad_rate": 88.1,
+  "grad_rate_rank": 331,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 6264,
+  "avg_stu_loan_debt_rank": 440,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98208",
+  "email": true
 }

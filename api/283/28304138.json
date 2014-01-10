@@ -1,6 +1,6 @@
 {
   "facility_code": "28304138",
-  "institution": "LANCASTER SCHOOL OF COSMETOLOGY",
+  "institution": "Lancaster School Of Cosmetology",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 213455,
-  "grad_rate": 66.0,
-  "grad_rate_rank": 1356,
-  "default_rate": 3.3,
-  "avg_stu_loan_debt": 5060,
-  "avg_stu_loan_debt_rank": 804,
-  "indicator_group": 5
+  "grad_rate": 78.5,
+  "grad_rate_rank": 733,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 3666,
+  "avg_stu_loan_debt_rank": 129,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17602",
+  "email": true
 }

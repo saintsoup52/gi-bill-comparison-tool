@@ -1,6 +1,6 @@
 {
   "facility_code": "15P45638",
-  "institution": "AMERICAN RED CROSS SEPA NURSE ASSISTANT TRAINING INSTITUTE",
+  "institution": "American Red Cross Sepa Nurse Assistant Training Institute",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19104",
+  "email": true
 }

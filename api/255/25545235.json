@@ -1,6 +1,6 @@
 {
   "facility_code": "25545235",
-  "institution": "PROFESSIONAL COMPUTER DEVELOPMENT CORP   (31)",
+  "institution": "Professional Computer Development Corp   (31)",
   "city": "Maumee",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43537",
+  "email": "No (SCO)"
 }

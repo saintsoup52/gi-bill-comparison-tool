@@ -1,6 +1,6 @@
 {
   "facility_code": "10D07338",
-  "institution": "SOCIAL SECURITY ADMINISTRATION- PHILADELPHIA",
+  "institution": "Social Security Administration- Philadelphia",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19123",
+  "email": true
 }

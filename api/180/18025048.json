@@ -1,6 +1,6 @@
 {
   "facility_code": "18025048",
-  "institution": "BENJAMIN FRANKLIN CAREER CENTER",
+  "institution": "Benjamin Franklin Career Center",
   "city": "Dunbar",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 237172,
-  "grad_rate": 74.4,
-  "grad_rate_rank": 954,
+  "grad_rate": 17.2,
+  "grad_rate_rank": 2250,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25064",
+  "email": true
 }

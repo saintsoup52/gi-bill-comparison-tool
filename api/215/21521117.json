@@ -1,6 +1,6 @@
 {
   "facility_code": "21521117",
-  "institution": "NATIONAL COLLEGE - LEXINGTON",
+  "institution": "National College - Lexington",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 54,
   "cross": 157021,
-  "grad_rate": 39.1,
-  "grad_rate_rank": 345,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1379,
-  "indicator_group": 2
+  "grad_rate": 33.1,
+  "grad_rate_rank": 550,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 21062,
+  "avg_stu_loan_debt_rank": 1240,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "40509",
+  "email": false
 }

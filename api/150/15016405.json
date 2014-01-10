@@ -1,6 +1,6 @@
 {
   "facility_code": "15016405",
-  "institution": "BEAUMONT ADULT SCHOOL",
+  "institution": "Beaumont Adult School",
   "city": "Beaumont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 449357,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 28.1,
+  "grad_rate": 63.6,
+  "grad_rate_rank": 1484,
+  "default_rate": 23.9,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92223",
+  "email": false
 }

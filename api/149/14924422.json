@@ -1,6 +1,6 @@
 {
   "facility_code": "14924422",
-  "institution": "MUSKEGON COMMUNITY COLLEGE",
+  "institution": "Muskegon Community College",
   "city": "Muskegon",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 205,
   "cross": 171304,
-  "grad_rate": 13.1,
-  "grad_rate_rank": 1094,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 4000,
-  "avg_stu_loan_debt_rank": 182,
-  "indicator_group": 2
+  "grad_rate": 14.5,
+  "grad_rate_rank": 1132,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 3750,
+  "avg_stu_loan_debt_rank": 69,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "49442",
+  "email": true
 }

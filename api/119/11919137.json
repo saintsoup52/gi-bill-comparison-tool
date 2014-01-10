@@ -1,6 +1,6 @@
 {
   "facility_code": "11919137",
-  "institution": "PORTLAND STATE UNIVERSITY",
+  "institution": "Portland State University",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1129,
   "cross": 209807,
-  "grad_rate": 38.3,
-  "grad_rate_rank": 1295,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 18832,
-  "avg_stu_loan_debt_rank": 1210,
-  "indicator_group": 1
+  "grad_rate": 41.7,
+  "grad_rate_rank": 1184,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 19562,
+  "avg_stu_loan_debt_rank": 1139,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97207",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34902433",
-  "institution": "BREVARD COLLEGE",
+  "institution": "Brevard College",
   "city": "Brevard",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 198066,
-  "grad_rate": 34.9,
-  "grad_rate_rank": 1369,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 15304,
-  "avg_stu_loan_debt_rank": 765,
-  "indicator_group": 1
+  "grad_rate": 32.5,
+  "grad_rate_rank": 1462,
+  "default_rate": 7.2,
+  "avg_stu_loan_debt": 13500,
+  "avg_stu_loan_debt_rank": 393,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28712",
+  "email": true
 }

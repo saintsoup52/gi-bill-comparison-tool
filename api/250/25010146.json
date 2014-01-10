@@ -1,6 +1,6 @@
 {
   "facility_code": "25010146",
-  "institution": "GRUNDY BEAUTY ACADEMY",
+  "institution": "Grundy Beauty Academy",
   "city": "Grundy",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24614",
+  "email": false
 }

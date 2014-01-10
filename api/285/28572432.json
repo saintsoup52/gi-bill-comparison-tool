@@ -1,6 +1,6 @@
 {
   "facility_code": "28572432",
-  "institution": "FERRARI DRIVING SCHOOL",
+  "institution": "Ferrari Driving School",
   "city": "Astoria",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11103",
+  "email": true
 }

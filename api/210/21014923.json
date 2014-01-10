@@ -1,6 +1,6 @@
 {
   "facility_code": "21014923",
-  "institution": "AMERICAN ACADEMY OF ACUPUNCTURE & ORIENTAL MEDICINE",
+  "institution": "American Academy Of Acupuncture & Oriental Medicine",
   "city": "Roseville",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 446002,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 10333,
-  "avg_stu_loan_debt_rank": 287,
-  "indicator_group": 4
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 65,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "55113",
+  "email": false
 }

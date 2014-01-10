@@ -1,6 +1,6 @@
 {
   "facility_code": "32903507",
-  "institution": "WINDHAM COMMUNITY MEMORIAL HOSPITAL -RADIOLOGY",
+  "institution": "Windham Community Memorial Hospital -Radiology",
   "city": "Willimantic",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 369792,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 12046,
+  "avg_stu_loan_debt_rank": 1780,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6226",
+  "email": false
 }

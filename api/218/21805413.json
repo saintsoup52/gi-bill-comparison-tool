@@ -1,6 +1,6 @@
 {
   "facility_code": "21805413",
-  "institution": "AMERICAN INTERCONTINENTAL UNIVERSITY",
+  "institution": "American Intercontinental University",
   "city": "Schaumburg",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3097,
   "cross": 445027,
-  "grad_rate": 27.6,
-  "grad_rate_rank": 609,
-  "default_rate": 27.4,
-  "avg_stu_loan_debt": 12517,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 2
+  "grad_rate": 31.6,
+  "grad_rate_rank": 585,
+  "default_rate": 23.2,
+  "avg_stu_loan_debt": 15012,
+  "avg_stu_loan_debt_rank": 1017,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "60173",
+  "email": true
 }

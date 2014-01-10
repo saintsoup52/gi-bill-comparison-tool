@@ -1,6 +1,6 @@
 {
   "facility_code": "31809133",
-  "institution": "NORTH CAROLINA WESLEYAN COLLEGE",
+  "institution": "North Carolina Wesleyan College",
   "city": "Rocky Mount",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 199209,
-  "grad_rate": 22.2,
-  "grad_rate_rank": 1636,
-  "default_rate": 17.4,
-  "avg_stu_loan_debt": 15873,
-  "avg_stu_loan_debt_rank": 826,
-  "indicator_group": 1
+  "grad_rate": 24.4,
+  "grad_rate_rank": 1651,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27804",
+  "email": true
 }

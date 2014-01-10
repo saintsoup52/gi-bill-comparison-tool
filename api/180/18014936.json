@@ -1,6 +1,6 @@
 {
   "facility_code": "18014936",
-  "institution": "CENTRAL TECHNOLOGY CENTER - DRUMRIGHT",
+  "institution": "Central Technology Center - Drumright",
   "city": "Drumright",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 246017,
-  "grad_rate": 71.2,
-  "grad_rate_rank": 1119,
+  "grad_rate": 67.0,
+  "grad_rate_rank": 1321,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74030",
+  "email": false
 }

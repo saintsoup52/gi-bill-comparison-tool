@@ -1,6 +1,6 @@
 {
   "facility_code": "31001817",
-  "institution": "BRESCIA UNIVERSTY",
+  "institution": "Brescia Universty",
   "city": "Owensboro",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 156356,
-  "grad_rate": 32.1,
-  "grad_rate_rank": 1448,
+  "grad_rate": 45.8,
+  "grad_rate_rank": 1039,
   "default_rate": 13.9,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 12544,
+  "avg_stu_loan_debt_rank": 337,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "42301",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25045321",
-  "institution": "EMPIRE BEAUTY SCHOOL-LOWELL MA",
+  "institution": "Empire Beauty School-Lowell Ma",
   "city": "Lowell",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 367130,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 1002,
-  "default_rate": 15.8,
-  "avg_stu_loan_debt": 10268,
-  "avg_stu_loan_debt_rank": 2176,
-  "indicator_group": 5
+  "grad_rate": 77.6,
+  "grad_rate_rank": 785,
+  "default_rate": 18.9,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1852",
+  "email": true
 }

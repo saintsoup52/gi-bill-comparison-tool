@@ -1,6 +1,6 @@
 {
   "facility_code": "20032014",
-  "institution": "INTERNATIONAL UNION OF BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 4 OF IN & KY (TH)",
+  "institution": "International Union Of Bricklayers & Allied Craftworkers Local 4 Of In & Ky (Th)",
   "city": "Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47803",
+  "email": false
 }

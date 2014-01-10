@@ -1,6 +1,6 @@
 {
   "facility_code": "25802432",
-  "institution": "MANHATTAN INSTITUTE",
+  "institution": "Manhattan Institute",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461351,
-  "grad_rate": 93.2,
-  "grad_rate_rank": 177,
-  "default_rate": null,
-  "avg_stu_loan_debt": 7075,
-  "avg_stu_loan_debt_rank": 1159,
-  "indicator_group": 5
+  "grad_rate": 92.0,
+  "grad_rate_rank": 219,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 6170,
+  "avg_stu_loan_debt_rank": 432,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10001",
+  "email": false
 }

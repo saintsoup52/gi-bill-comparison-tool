@@ -1,6 +1,6 @@
 {
   "facility_code": "20022935",
-  "institution": "AK STEEL CORP MIDDLETOWN WORKS TRAINING DEPT (K)",
+  "institution": "Ak Steel Corp Middletown Works Training Dept (K)",
   "city": "Middletown",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45043",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10072914",
-  "institution": "CLINTON COUNTY SHERIFF'S DEPARTMENT",
+  "institution": "Clinton County Sheriff'S Department",
   "city": "Frankfort",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46041",
+  "email": false
 }

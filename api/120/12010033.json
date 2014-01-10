@@ -1,6 +1,6 @@
 {
   "facility_code": "12010033",
-  "institution": "VIDANT MEDICAL CENTER (FORMERLY PITT COUNTY MEMORIAL HOSPITAL)",
+  "institution": "Vidant Medical Center (Formerly Pitt County Memorial Hospital)",
   "city": "Greenville",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27835",
+  "email": true
 }

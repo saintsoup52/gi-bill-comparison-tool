@@ -1,6 +1,6 @@
 {
   "facility_code": "24914164",
-  "institution": "HEALD COLLEGE HONOLULU",
+  "institution": "Heald College Honolulu",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 405,
   "cross": 141468,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 186,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 11995,
-  "avg_stu_loan_debt_rank": 964,
-  "indicator_group": 2
+  "grad_rate": 47.1,
+  "grad_rate_rank": 304,
+  "default_rate": 9.7,
+  "avg_stu_loan_debt": 16089,
+  "avg_stu_loan_debt_rank": 1066,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "96814",
+  "email": true
 }

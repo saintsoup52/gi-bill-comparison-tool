@@ -1,6 +1,6 @@
 {
   "facility_code": "38403832",
-  "institution": "NATIONAL CENTER FOR DISABILITY SERVICES",
+  "institution": "National Center For Disability Services",
   "city": "Albertson",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11507",
+  "email": true
 }

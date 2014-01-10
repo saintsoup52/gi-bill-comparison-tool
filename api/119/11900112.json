@@ -1,6 +1,6 @@
 {
   "facility_code": "11900112",
-  "institution": "LEWIS CLARK STATE COLLEGE",
+  "institution": "Lewis Clark State College",
   "city": "Lewiston",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 201,
   "cross": 142328,
-  "grad_rate": 28.0,
-  "grad_rate_rank": 1537,
-  "default_rate": 14.0,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 26.0,
+  "grad_rate_rank": 1616,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 12189,
+  "avg_stu_loan_debt_rank": 287,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "83501",
+  "email": false
 }

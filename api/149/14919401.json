@@ -1,6 +1,6 @@
 {
   "facility_code": "14919401",
-  "institution": "J.F. DRAKE STATE TECHNICAL COLLEGE",
+  "institution": "J.F. Drake State Technical College",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 70,
   "cross": 101462,
-  "grad_rate": 20.6,
-  "grad_rate_rank": 430,
+  "grad_rate": 12.2,
+  "grad_rate_rank": 700,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "35811",
+  "email": true
 }

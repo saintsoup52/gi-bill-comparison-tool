@@ -1,6 +1,6 @@
 {
   "facility_code": "25002144",
-  "institution": "ECHELON EDGE ACADEMY OF HAIR SKIN & NAILS",
+  "institution": "Echelon Edge Academy Of Hair Skin & Nails",
   "city": "Sandy",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 420200,
-  "grad_rate": 74.6,
-  "grad_rate_rank": 948,
-  "default_rate": 18.0,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 956,
-  "indicator_group": 5
+  "grad_rate": 63.8,
+  "grad_rate_rank": 1480,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 7861,
+  "avg_stu_loan_debt_rank": 789,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84070",
+  "email": true
 }

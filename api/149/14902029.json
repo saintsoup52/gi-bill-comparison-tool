@@ -1,6 +1,6 @@
 {
   "facility_code": "14902029",
-  "institution": "WHITE MOUNTAINS COMMUNITY COLLEGE",
+  "institution": "White Mountains Community College",
   "city": "Berlin",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 54,
   "cross": 183105,
-  "grad_rate": 41.6,
-  "grad_rate_rank": 308,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 11485,
-  "avg_stu_loan_debt_rank": 955,
-  "indicator_group": 2
+  "grad_rate": 48.8,
+  "grad_rate_rank": 275,
+  "default_rate": 13.9,
+  "avg_stu_loan_debt": 10801,
+  "avg_stu_loan_debt_rank": 776,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "3570",
+  "email": true
 }

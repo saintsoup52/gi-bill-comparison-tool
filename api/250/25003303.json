@@ -1,6 +1,6 @@
 {
   "facility_code": "25003303",
-  "institution": "UNIVERSAL TECHNICAL INSTITUTE - MMI PHOENIX",
+  "institution": "Universal Technical Institute - Mmi Phoenix",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 834,
   "cross": 105215,
-  "grad_rate": 71.2,
-  "grad_rate_rank": 1119,
-  "default_rate": 16.0,
-  "avg_stu_loan_debt": 19989,
-  "avg_stu_loan_debt_rank": 2533,
-  "indicator_group": 5
+  "grad_rate": 67.0,
+  "grad_rate_rank": 1321,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 19619,
+  "avg_stu_loan_debt_rank": 1988,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85027",
+  "email": true
 }

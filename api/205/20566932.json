@@ -1,6 +1,6 @@
 {
   "facility_code": "20566932",
-  "institution": "PLUMBERS & STEAMFITTERS JAC OF OSWEGO LU 73",
+  "institution": "Plumbers & Steamfitters Jac Of Oswego Lu 73",
   "city": "Oswego",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13126",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31928410",
-  "institution": "ST JOHN VIANNEY COLLEGE SEMINARY",
+  "institution": "St John Vianney College Seminary",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 1,
   "cross": 137272,
   "grad_rate": 83.3,
-  "grad_rate_rank": 113,
+  "grad_rate_rank": 116,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33165",
+  "email": false
 }

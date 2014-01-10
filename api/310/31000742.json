@@ -1,6 +1,6 @@
 {
   "facility_code": "31000742",
-  "institution": "LINCOLN MEMORIAL UNIVERSITY",
+  "institution": "Lincoln Memorial University",
   "city": "Harrogate",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 116,
   "cross": 220631,
-  "grad_rate": 48.7,
-  "grad_rate_rank": 933,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 14714,
-  "avg_stu_loan_debt_rank": 695,
-  "indicator_group": 1
+  "grad_rate": 44.7,
+  "grad_rate_rank": 1076,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37752",
+  "email": true
 }

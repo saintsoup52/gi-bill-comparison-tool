@@ -1,6 +1,6 @@
 {
   "facility_code": "14905142",
-  "institution": "NASHVILLE STATE COMMUNITY COLLEGE",
+  "institution": "Nashville State Community College",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 389,
   "cross": 221184,
-  "grad_rate": 6.2,
-  "grad_rate_rank": 1284,
+  "grad_rate": 9.6,
+  "grad_rate_rank": 725,
   "default_rate": 21.8,
-  "avg_stu_loan_debt": 7062,
-  "avg_stu_loan_debt_rank": 569,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 250,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "37209",
+  "email": true
 }

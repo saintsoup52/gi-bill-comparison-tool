@@ -1,6 +1,6 @@
 {
   "facility_code": "24950447",
-  "institution": "PIMA MEDICAL INSTITUTE @ SEATTLE",
+  "institution": "Pima Medical Institute @ Seattle",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 368629,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 68.3,
+  "grad_rate_rank": 188,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 9227,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "98115",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25011904",
-  "institution": "EASTERN COLLEGE OF HEALTH VOCATIONS",
+  "institution": "Eastern College Of Health Vocations",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 106892,
-  "grad_rate": 50.2,
-  "grad_rate_rank": 1916,
-  "default_rate": 30.9,
+  "grad_rate": 52.9,
+  "grad_rate_rank": 1866,
+  "default_rate": 28.2,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72205",
+  "email": false
 }

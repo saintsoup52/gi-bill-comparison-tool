@@ -1,6 +1,6 @@
 {
   "facility_code": "11801427",
-  "institution": "UNIVERSITY OF NEBRASKA AT OMAHA",
+  "institution": "University Of Nebraska At Omaha",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 910,
   "cross": 181394,
-  "grad_rate": 42.8,
-  "grad_rate_rank": 1133,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 13500,
-  "avg_stu_loan_debt_rank": 588,
-  "indicator_group": 1
+  "grad_rate": 46.1,
+  "grad_rate_rank": 1034,
+  "default_rate": 7.2,
+  "avg_stu_loan_debt": 14011,
+  "avg_stu_loan_debt_rank": 434,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68182",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C21043",
-  "institution": "B AND W PANTEX PLANT SECURITY TRNG DEPT",
+  "institution": "B And W Pantex Plant Security Trng Dept",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "79120",
+  "email": false
 }

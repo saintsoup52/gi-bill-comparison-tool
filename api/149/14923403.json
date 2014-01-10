@@ -1,6 +1,6 @@
 {
   "facility_code": "14923403",
-  "institution": "TOHONO O'ODHAM COMMUNITY COLLEGE",
+  "institution": "Tohono O'Odham Community College",
   "city": "Sells",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 442781,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 16.7,
+  "grad_rate_rank": 667,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85634",
+  "email": true
 }

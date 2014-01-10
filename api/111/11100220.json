@@ -1,6 +1,6 @@
 {
   "facility_code": "11100220",
-  "institution": "SALISBURY UNIVERSITY",
+  "institution": "Salisbury University",
   "city": "Salisbury",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 206,
   "cross": 163851,
-  "grad_rate": 66.8,
-  "grad_rate_rank": 382,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 17132,
-  "avg_stu_loan_debt_rank": 969,
-  "indicator_group": 1
+  "grad_rate": 67.4,
+  "grad_rate_rank": 363,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21801",
+  "email": true
 }

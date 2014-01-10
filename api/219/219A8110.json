@@ -1,6 +1,6 @@
 {
   "facility_code": "219A8110",
-  "institution": "HERZING UNIVERSITY",
+  "institution": "Herzing University",
   "city": "Winter Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 62,
   "cross": 386472,
-  "grad_rate": 43.8,
-  "grad_rate_rank": 278,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 11399,
-  "avg_stu_loan_debt_rank": 937,
-  "indicator_group": 2
+  "grad_rate": 40.0,
+  "grad_rate_rank": 410,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 15162,
+  "avg_stu_loan_debt_rank": 1019,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32792",
+  "email": true
 }

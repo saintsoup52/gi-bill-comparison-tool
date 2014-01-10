@@ -1,6 +1,6 @@
 {
   "facility_code": "28030516",
-  "institution": "ERIC FISHER ACADEMY",
+  "institution": "Eric Fisher Academy",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 457581,
-  "grad_rate": 94.9,
-  "grad_rate_rank": 133,
+  "grad_rate": 74.1,
+  "grad_rate_rank": 971,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 10667,
-  "avg_stu_loan_debt_rank": 2209,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 13339,
+  "avg_stu_loan_debt_rank": 1854,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "67212",
+  "email": false
 }

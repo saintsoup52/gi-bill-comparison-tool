@@ -1,6 +1,6 @@
 {
   "facility_code": "15802118",
-  "institution": "JOHN EHRET HIGH SCHOOL",
+  "institution": "John Ehret High School",
   "city": "Marrero",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70072",
+  "email": false
 }

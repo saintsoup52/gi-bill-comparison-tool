@@ -1,6 +1,6 @@
 {
   "facility_code": "11000636",
-  "institution": "UNIVERSITY OF SCIENCE AND ARTS OF OKLAHOMA",
+  "institution": "University Of Science And Arts Of Oklahoma",
   "city": "Chickasha",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 41,
   "cross": 207722,
-  "grad_rate": 39.1,
-  "grad_rate_rank": 1265,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 9715,
-  "avg_stu_loan_debt_rank": 248,
-  "indicator_group": 1
+  "grad_rate": 40.9,
+  "grad_rate_rank": 1216,
+  "default_rate": 18.1,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73018",
+  "email": false
 }

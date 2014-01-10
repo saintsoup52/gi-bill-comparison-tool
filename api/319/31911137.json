@@ -1,6 +1,6 @@
 {
   "facility_code": "31911137",
-  "institution": "WILLAMETTE UNIVERSITY",
+  "institution": "Willamette University",
   "city": "Salem",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 45,
   "cross": 210401,
-  "grad_rate": 77.0,
-  "grad_rate_rank": 196,
-  "default_rate": 2.0,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 76.8,
+  "grad_rate_rank": 206,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 20558,
+  "avg_stu_loan_debt_rank": 1272,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97301",
+  "email": true
 }

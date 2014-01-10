@@ -1,6 +1,6 @@
 {
   "facility_code": "24825210",
-  "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS - ORLANDO",
+  "institution": "Le Cordon Bleu College Of Culinary Arts - Orlando",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 158,
   "cross": 442231,
-  "grad_rate": 57.0,
-  "grad_rate_rank": 158,
-  "default_rate": 26.9,
-  "avg_stu_loan_debt": 14826,
-  "avg_stu_loan_debt_rank": 1132,
-  "indicator_group": 2
+  "grad_rate": 50.9,
+  "grad_rate_rank": 254,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1074,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32819",
+  "email": true
 }

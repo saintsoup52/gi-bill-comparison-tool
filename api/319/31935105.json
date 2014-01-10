@@ -1,6 +1,6 @@
 {
   "facility_code": "31935105",
-  "institution": "CALIFORNIA LUTHERAN UNIVERSITY",
+  "institution": "California Lutheran University",
   "city": "Thousand Oaks",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 118,
   "cross": 110413,
-  "grad_rate": 63.9,
-  "grad_rate_rank": 455,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 1394,
-  "indicator_group": 1
+  "grad_rate": 60.0,
+  "grad_rate_rank": 568,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 21936,
+  "avg_stu_loan_debt_rank": 1412,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91360",
+  "email": true
 }

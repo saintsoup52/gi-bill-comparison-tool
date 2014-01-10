@@ -1,6 +1,6 @@
 {
   "facility_code": "11000919",
-  "institution": "MAINE MARITIME ACADEMY",
+  "institution": "Maine Maritime Academy",
   "city": "Castine",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 47,
   "cross": 161299,
-  "grad_rate": 69.0,
-  "grad_rate_rank": 328,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 73.7,
+  "grad_rate_rank": 253,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 25823,
+  "avg_stu_loan_debt_rank": 1824,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "4420",
+  "email": false
 }

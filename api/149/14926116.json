@@ -1,6 +1,6 @@
 {
   "facility_code": "14926116",
-  "institution": "MANHATTAN AREA TECHNICAL COLLEGE",
+  "institution": "Manhattan Area Technical College",
   "city": "Manhattan",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 90,
   "cross": 155487,
-  "grad_rate": 46.1,
-  "grad_rate_rank": 226,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 8250,
-  "avg_stu_loan_debt_rank": 355,
-  "indicator_group": 3
+  "grad_rate": 42.1,
+  "grad_rate_rank": 383,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 9000,
+  "avg_stu_loan_debt_rank": 621,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "66503",
+  "email": true
 }

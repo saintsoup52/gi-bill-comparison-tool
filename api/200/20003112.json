@@ -1,6 +1,6 @@
 {
   "facility_code": "20003112",
-  "institution": "EASTERN IDAHO ELECTRICIANS JATC",
+  "institution": "Eastern Idaho Electricians Jatc",
   "city": "Pocatello",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83205",
+  "email": false
 }

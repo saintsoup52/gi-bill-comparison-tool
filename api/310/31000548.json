@@ -1,6 +1,6 @@
 {
   "facility_code": "31000548",
-  "institution": "UNIVERSITY OF CHARLESTON",
+  "institution": "University Of Charleston",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 56,
   "cross": 237312,
-  "grad_rate": 50.9,
-  "grad_rate_rank": 849,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 17819,
-  "avg_stu_loan_debt_rank": 1062,
-  "indicator_group": 1
+  "grad_rate": 40.6,
+  "grad_rate_rank": 1228,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 15500,
+  "avg_stu_loan_debt_rank": 576,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "25304",
+  "email": true
 }

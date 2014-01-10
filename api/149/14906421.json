@@ -1,6 +1,6 @@
 {
   "facility_code": "14906421",
-  "institution": "HOLYOKE COMMUNITY COLLEGE",
+  "institution": "Holyoke Community College",
   "city": "Holyoke",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 306,
   "cross": 166133,
-  "grad_rate": 21.8,
-  "grad_rate_rank": 801,
-  "default_rate": 13.5,
-  "avg_stu_loan_debt": 4600,
-  "avg_stu_loan_debt_rank": 235,
-  "indicator_group": 2
+  "grad_rate": 18.2,
+  "grad_rate_rank": 997,
+  "default_rate": 16.7,
+  "avg_stu_loan_debt": 5200,
+  "avg_stu_loan_debt_rank": 179,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "1040",
+  "email": true
 }

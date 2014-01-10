@@ -1,6 +1,6 @@
 {
   "facility_code": "149K4143",
-  "institution": "RICHLAND COLLEGE",
+  "institution": "Richland College",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 466,
   "cross": 227766,
-  "grad_rate": 10.9,
-  "grad_rate_rank": 1177,
-  "default_rate": 17.5,
-  "avg_stu_loan_debt": 6395,
-  "avg_stu_loan_debt_rank": 480,
-  "indicator_group": 2
+  "grad_rate": 10.1,
+  "grad_rate_rank": 1286,
+  "default_rate": 23.1,
+  "avg_stu_loan_debt": 7273,
+  "avg_stu_loan_debt_rank": 482,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75243",
+  "email": false
 }

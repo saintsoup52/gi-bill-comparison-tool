@@ -1,6 +1,6 @@
 {
   "facility_code": "25551435",
-  "institution": "DEE'S TRAVEL UNLIMITED  (31)",
+  "institution": "Dee'S Travel Unlimited  (31)",
   "city": "New Philadelphia",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44663",
+  "email": "No (SCO)"
 }

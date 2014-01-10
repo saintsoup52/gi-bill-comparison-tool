@@ -1,6 +1,6 @@
 {
   "facility_code": "24822510",
-  "institution": "FLORIDA COLLEGE OF NATURAL HEALTH-BRADENTON",
+  "institution": "Florida College Of Natural Health-Bradenton",
   "city": "Bradenton",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 438294,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 24.4,
-  "avg_stu_loan_debt": 8100,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 3
+  "grad_rate": 68.3,
+  "grad_rate_rank": 188,
+  "default_rate": 23.1,
+  "avg_stu_loan_debt": 8107,
+  "avg_stu_loan_debt_rank": 245,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "34208",
+  "email": true
 }

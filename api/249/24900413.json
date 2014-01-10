@@ -1,6 +1,6 @@
 {
   "facility_code": "24900413",
-  "institution": "SOLEX COLLEGE",
+  "institution": "Solex College",
   "city": "Wheeling",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 459356,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 1110,
-  "avg_stu_loan_debt_rank": 86,
-  "indicator_group": 3
+  "grad_rate": 88.4,
+  "grad_rate_rank": 24,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 24,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "60090",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31918113",
-  "institution": "ROOSEVELT UNIVERSITY",
+  "institution": "Roosevelt University",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 111,
   "cross": 148487,
-  "grad_rate": 46.5,
-  "grad_rate_rank": 1003,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 18438,
-  "avg_stu_loan_debt_rank": 1132,
-  "indicator_group": 1
+  "grad_rate": 42.0,
+  "grad_rate_rank": 1173,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 20750,
+  "avg_stu_loan_debt_rank": 1286,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60605",
+  "email": true
 }

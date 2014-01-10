@@ -1,6 +1,6 @@
 {
   "facility_code": "14909403",
-  "institution": "PHOENIX COLLEGE",
+  "institution": "Phoenix College",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 409,
   "cross": 105428,
-  "grad_rate": 18.8,
-  "grad_rate_rank": 454,
-  "default_rate": 20.3,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 285,
-  "indicator_group": 3
+  "grad_rate": 16.7,
+  "grad_rate_rank": 667,
+  "default_rate": 21.1,
+  "avg_stu_loan_debt": 7586,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85013",
+  "email": true
 }

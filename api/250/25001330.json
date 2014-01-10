@@ -1,6 +1,6 @@
 {
   "facility_code": "25001330",
-  "institution": "METRO NJ CHAPTER OF THE APPRAISAL INSTITUTE",
+  "institution": "Metro Nj Chapter Of The Appraisal Institute",
   "city": "Edison",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8818",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15142010",
-  "institution": "FORT MYERS INSTITUTE OF TECHNOLOGY",
+  "institution": "Fort Myers Institute Of Technology",
   "city": "Ft. Myers",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 48,
   "cross": 135267,
-  "grad_rate": 75.9,
-  "grad_rate_rank": 870,
+  "grad_rate": 61.8,
+  "grad_rate_rank": 1565,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33916",
+  "email": true
 }

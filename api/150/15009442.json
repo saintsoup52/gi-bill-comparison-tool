@@ -1,6 +1,6 @@
 {
   "facility_code": "15009442",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - JACKSBORO",
+  "institution": "Tennessee College Of Applied Technology - Jacksboro",
   "city": "Jacksboro",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 220394,
-  "grad_rate": 78.3,
-  "grad_rate_rank": 742,
+  "grad_rate": 73.6,
+  "grad_rate_rank": 1004,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37757",
+  "email": true
 }

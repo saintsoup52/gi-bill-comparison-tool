@@ -1,6 +1,6 @@
 {
   "facility_code": "13000146",
-  "institution": "JAMES MADISON UNIVERSITY",
+  "institution": "James Madison University",
   "city": "Harrisonburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 566,
   "cross": 232423,
-  "grad_rate": 81.4,
-  "grad_rate_rank": 135,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 80.1,
+  "grad_rate_rank": 157,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 22842,
+  "avg_stu_loan_debt_rank": 1505,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22807",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10261530",
-  "institution": "108 ARW/DET 1 NJANG (WARREN GROVE RANGE)",
+  "institution": "108 Arw/Det 1 Njang (Warren Grove Range)",
   "city": "Mcguire Air Force Base",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8641",
+  "email": false
 }

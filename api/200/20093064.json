@@ -1,6 +1,6 @@
 {
   "facility_code": "20093064",
-  "institution": "CONSTRUCTION MATERIALS INC DBA REFILL INC",
+  "institution": "Construction Materials Inc Dba Refill Inc",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96819",
+  "email": "No (SCO)"
 }

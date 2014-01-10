@@ -1,6 +1,6 @@
 {
   "facility_code": "28120323",
-  "institution": "MINNESOTA SCHOOL OF BARBERING",
+  "institution": "Minnesota School Of Barbering",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55406",
+  "email": false
 }

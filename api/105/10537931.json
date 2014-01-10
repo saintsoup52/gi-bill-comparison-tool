@@ -1,6 +1,6 @@
 {
   "facility_code": "10537931",
-  "institution": "MARSHALL'S OFFICE (CH31)",
+  "institution": "Marshall'S Office (Ch31)",
   "city": "Melrose",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "88124",
+  "email": false
 }

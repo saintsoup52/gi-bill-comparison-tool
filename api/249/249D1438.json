@@ -1,6 +1,6 @@
 {
   "facility_code": "249D1438",
-  "institution": "FORTIS INSTITUTE - FORTY FORT",
+  "institution": "Fortis Institute - Forty Fort",
   "city": "Forty Fort",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 249609,
-  "grad_rate": 58.8,
-  "grad_rate_rank": 147,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 7038,
-  "avg_stu_loan_debt_rank": 295,
-  "indicator_group": 3
+  "grad_rate": 63.5,
+  "grad_rate_rank": 256,
+  "default_rate": 15.1,
+  "avg_stu_loan_debt": 8597,
+  "avg_stu_loan_debt_rank": 269,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "18704",
+  "email": true
 }

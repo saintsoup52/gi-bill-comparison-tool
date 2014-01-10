@@ -1,6 +1,6 @@
 {
   "facility_code": "25812010",
-  "institution": "AMERICAN HEALTH INSTITUTE - PORT RICHEY",
+  "institution": "American Health Institute - Port Richey",
   "city": "Port Richey",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461670,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 1986,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4567,
-  "avg_stu_loan_debt_rank": 743,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3125,
+  "avg_stu_loan_debt_rank": 57,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "34668",
+  "email": true
 }

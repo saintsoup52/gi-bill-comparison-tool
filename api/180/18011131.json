@@ -1,6 +1,6 @@
 {
   "facility_code": "18011131",
-  "institution": "KIRTLAND FLIGHT CENTER",
+  "institution": "Kirtland Flight Center",
   "city": "Kirtland Afb",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87117",
+  "email": true
 }

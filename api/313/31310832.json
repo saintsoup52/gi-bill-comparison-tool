@@ -1,6 +1,6 @@
 {
   "facility_code": "31310832",
-  "institution": "HAMILTON COLLEGE",
+  "institution": "Hamilton College",
   "city": "Clinton",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 2,
   "cross": 191515,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 68,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 90.8,
+  "grad_rate_rank": 50,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13323",
+  "email": true
 }

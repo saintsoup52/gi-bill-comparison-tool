@@ -1,6 +1,6 @@
 {
   "facility_code": "34925164",
-  "institution": "PACIFIC RIM BIBLE INST (CH31) NEW HOPE CHRISTIAN FELLOWSHIP",
+  "institution": "Pacific Rim Bible Inst (Ch31) New Hope Christian Fellowship",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96819",
+  "email": false
 }

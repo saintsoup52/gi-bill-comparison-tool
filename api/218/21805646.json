@@ -1,6 +1,6 @@
 {
   "facility_code": "21805646",
-  "institution": "UNIVERSITY OF PHOENIX - VIRGINIA BEACH CAMPUS",
+  "institution": "University Of Phoenix - Virginia Beach Campus",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 303,
   "cross": 442189,
-  "grad_rate": 8.5,
-  "grad_rate_rank": 1795,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 4.5,
+  "grad_rate_rank": 1860,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23462",
+  "email": true
 }

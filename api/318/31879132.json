@@ -1,6 +1,6 @@
 {
   "facility_code": "31879132",
-  "institution": "SYRACUSE UNIVERSITY",
+  "institution": "Syracuse University",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 187,
   "cross": 196413,
-  "grad_rate": 80.2,
-  "grad_rate_rank": 154,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 24300,
-  "avg_stu_loan_debt_rank": 1882,
-  "indicator_group": 1
+  "grad_rate": 81.7,
+  "grad_rate_rank": 133,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13244",
+  "email": true
 }

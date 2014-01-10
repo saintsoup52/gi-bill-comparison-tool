@@ -1,6 +1,6 @@
 {
   "facility_code": "28569414",
-  "institution": "HONORS BEAUTY COLLEGE INC.",
+  "institution": "Honors Beauty College Inc.",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 414869,
-  "grad_rate": 84.9,
-  "grad_rate_rank": 436,
-  "default_rate": 0.0,
+  "grad_rate": 74.6,
+  "grad_rate_rank": 947,
+  "default_rate": 13.6,
   "avg_stu_loan_debt": 8404,
-  "avg_stu_loan_debt_rank": 1457,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 886,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46256",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14907437",
-  "institution": "SOUTHWESTERN OREGON COMMUNITY COLLEGE",
+  "institution": "Southwestern Oregon Community College",
   "city": "Coos Bay",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 161,
   "cross": 210155,
-  "grad_rate": 26.8,
-  "grad_rate_rank": 633,
-  "default_rate": 30.7,
-  "avg_stu_loan_debt": 7748,
-  "avg_stu_loan_debt_rank": 628,
-  "indicator_group": 2
+  "grad_rate": 21.9,
+  "grad_rate_rank": 884,
+  "default_rate": 21.2,
+  "avg_stu_loan_debt": 8558,
+  "avg_stu_loan_debt_rank": 588,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "97420",
+  "email": true
 }

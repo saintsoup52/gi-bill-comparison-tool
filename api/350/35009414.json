@@ -1,6 +1,6 @@
 {
   "facility_code": "35009414",
-  "institution": "HENDRICKS REGIONAL HEALTH",
+  "institution": "Hendricks Regional Health",
   "city": "Danville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 151263,
-  "grad_rate": 51.8,
-  "grad_rate_rank": 817,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 18520,
-  "avg_stu_loan_debt_rank": 1155,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 19062,
+  "avg_stu_loan_debt_rank": 1083,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46122",
+  "email": false
 }

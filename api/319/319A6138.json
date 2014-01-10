@@ -1,6 +1,6 @@
 {
   "facility_code": "319A6138",
-  "institution": "POINT PARK UNIVERSITY",
+  "institution": "Point Park University",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 148,
   "cross": 215442,
-  "grad_rate": 49.8,
-  "grad_rate_rank": 897,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 23103,
-  "avg_stu_loan_debt_rank": 1800,
-  "indicator_group": 1
+  "grad_rate": 49.6,
+  "grad_rate_rank": 916,
+  "default_rate": 9.9,
+  "avg_stu_loan_debt": 25086,
+  "avg_stu_loan_debt_rank": 1789,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15222",
+  "email": true
 }

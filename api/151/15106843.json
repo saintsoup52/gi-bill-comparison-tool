@@ -1,6 +1,6 @@
 {
   "facility_code": "15106843",
-  "institution": "UNIVERSITY OF TEXAS AT AUSTIN PROF DEV CTR",
+  "institution": "University Of Texas At Austin Prof Dev Ctr",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 228778,
-  "grad_rate": 80.9,
-  "grad_rate_rank": 144,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 22673,
-  "avg_stu_loan_debt_rank": 1724,
-  "indicator_group": 1
+  "grad_rate": 78.7,
+  "grad_rate_rank": 179,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 23825,
+  "avg_stu_loan_debt_rank": 1601,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78712",
+  "email": false
 }

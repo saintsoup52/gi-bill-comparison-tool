@@ -1,6 +1,6 @@
 {
   "facility_code": "25053746",
-  "institution": "EMPIRE BEAUTY SCHOOL",
+  "institution": "Empire Beauty School",
   "city": "Midlothian",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 444282,
-  "grad_rate": 51.6,
-  "grad_rate_rank": 1882,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 11300,
-  "avg_stu_loan_debt_rank": 2252,
-  "indicator_group": 5
+  "grad_rate": 55.8,
+  "grad_rate_rank": 1780,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "23112",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21036043",
-  "institution": "DEVRY UNIV HOUSTON CENTER",
+  "institution": "Devry Univ Houston Center",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 354,
   "cross": 224402,
-  "grad_rate": 18.8,
-  "grad_rate_rank": 1685,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 20.4,
+  "grad_rate_rank": 1705,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77041",
+  "email": false
 }

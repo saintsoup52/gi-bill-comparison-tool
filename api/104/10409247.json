@@ -1,6 +1,6 @@
 {
   "facility_code": "10409247",
-  "institution": "NORTH THURSTON SCHOOL DISTRICT (CH 31 ONLY)",
+  "institution": "North Thurston School District (Ch 31 Only)",
   "city": "Lacey",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98503",
+  "email": false
 }

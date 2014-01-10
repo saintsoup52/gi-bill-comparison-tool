@@ -1,6 +1,6 @@
 {
   "facility_code": "10000351",
-  "institution": "US ARMY MEDICAL RESEARCH MAT",
+  "institution": "Us Army Medical Research Mat",
   "city": null,
   "state": null,
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "9138",
+  "email": true
 }

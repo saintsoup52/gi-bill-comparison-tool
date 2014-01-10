@@ -1,6 +1,6 @@
 {
   "facility_code": "24984413",
-  "institution": "COMPUTER SYSTEMS INSTITUTE",
+  "institution": "Computer Systems Institute",
   "city": "Skokie",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 427025,
-  "grad_rate": 55.5,
-  "grad_rate_rank": 1766,
-  "default_rate": 36.6,
+  "grad_rate": 49.9,
+  "grad_rate_rank": 1964,
+  "default_rate": 31.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60077",
+  "email": true
 }

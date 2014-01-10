@@ -1,6 +1,6 @@
 {
   "facility_code": "30011102",
-  "institution": "PROVIDENCE ALASKA MEDICAL CNTR (CH31)",
+  "institution": "Providence Alaska Medical Cntr (Ch31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99508",
+  "email": false
 }

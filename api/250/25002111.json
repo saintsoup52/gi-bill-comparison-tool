@@ -1,6 +1,6 @@
 {
   "facility_code": "25002111",
-  "institution": "RIVERTOWN SCHOOL OF BEAUTY BARBER SKIN CARE & NAILS",
+  "institution": "Rivertown School Of Beauty Barber Skin Care & Nails",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 419235,
-  "grad_rate": 86.4,
-  "grad_rate_rank": 382,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 4868,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 5
+  "grad_rate": 74.0,
+  "grad_rate_rank": 977,
+  "default_rate": 10.3,
+  "avg_stu_loan_debt": 4970,
+  "avg_stu_loan_debt_rank": 235,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "31904",
+  "email": true
 }

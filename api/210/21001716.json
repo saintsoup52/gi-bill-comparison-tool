@@ -1,12 +1,12 @@
 {
   "facility_code": "21001716",
-  "institution": "ITT TECHNICAL INSTITUTE OVERLAND PARK",
+  "institution": "Itt Technical Institute Overland Park",
   "city": "Overland Park",
   "state": "KS",
   "country": "USA",
   "bah": 1158,
   "poe": true,
-  "yr": null,
+  "yr": true,
   "gibill": 10,
   "cross": 479646,
   "grad_rate": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66213",
+  "email": true
 }

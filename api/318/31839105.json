@@ -1,6 +1,6 @@
 {
   "facility_code": "31839105",
-  "institution": "HUMPHREYS COLLEGE (STOCKTON)",
+  "institution": "Humphreys College (Stockton)",
   "city": "Stockton",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 115773,
-  "grad_rate": 53.1,
-  "grad_rate_rank": 770,
-  "default_rate": 16.5,
-  "avg_stu_loan_debt": 17331,
-  "avg_stu_loan_debt_rank": 993,
-  "indicator_group": 1
+  "grad_rate": 51.4,
+  "grad_rate_rank": 850,
+  "default_rate": 14.3,
+  "avg_stu_loan_debt": 20605,
+  "avg_stu_loan_debt_rank": 1274,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95207",
+  "email": false
 }

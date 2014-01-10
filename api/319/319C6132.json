@@ -1,6 +1,6 @@
 {
   "facility_code": "319C6132",
-  "institution": "MANHATTAN SCHOOL OF MUSIC",
+  "institution": "Manhattan School Of Music",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 192712,
-  "grad_rate": 76.2,
-  "grad_rate_rank": 212,
-  "default_rate": 0.7,
-  "avg_stu_loan_debt": 47000,
-  "avg_stu_loan_debt_rank": 2067,
-  "indicator_group": 1
+  "grad_rate": 79.0,
+  "grad_rate_rank": 175,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 39605,
+  "avg_stu_loan_debt_rank": 1996,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10027",
+  "email": true
 }

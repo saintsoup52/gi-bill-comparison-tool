@@ -1,6 +1,6 @@
 {
   "facility_code": "29B78743",
-  "institution": "HELP IS HERE",
+  "institution": "Help Is Here",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78247",
+  "email": "No (SCO)"
 }

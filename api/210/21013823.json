@@ -1,6 +1,6 @@
 {
   "facility_code": "21013823",
-  "institution": "ARGOSY UNIVERSITY        TWIN CITIES CAMPUS",
+  "institution": "Argosy University        Twin Cities Campus",
   "city": "Eagan",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 106,
   "cross": 173984,
-  "grad_rate": 33.3,
-  "grad_rate_rank": 448,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 737,
-  "indicator_group": 2
+  "grad_rate": 43.4,
+  "grad_rate_rank": 358,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 773,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55121",
+  "email": true
 }

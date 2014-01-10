@@ -1,6 +1,6 @@
 {
   "facility_code": "29006445",
-  "institution": "BLUE MORPHO TECHNOLOGIES LLC",
+  "institution": "Blue Morpho Technologies Llc",
   "city": "Burlington",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5408",
+  "email": false
 }

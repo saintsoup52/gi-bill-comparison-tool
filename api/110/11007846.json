@@ -1,6 +1,6 @@
 {
   "facility_code": "11007846",
-  "institution": "CENTRAL MICHIGAN UNIV GLOBAL CAMPUS JB MYER HENDERSON HALL",
+  "institution": "Central Michigan Univ Global Campus Jb Myer Henderson Hall",
   "city": "Joint Base Myer-Henderson Hall",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 47,
   "cross": 169248,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 739,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 22433,
-  "avg_stu_loan_debt_rank": 1698,
-  "indicator_group": 1
+  "grad_rate": 57.2,
+  "grad_rate_rank": 660,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 23528,
+  "avg_stu_loan_debt_rank": 1585,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22211",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24918632",
-  "institution": "MILDRED ELLEY COLLEGE",
+  "institution": "Mildred Elley College",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 193201,
-  "grad_rate": 34.4,
-  "grad_rate_rank": 303,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 9999,
-  "avg_stu_loan_debt_rank": 655,
-  "indicator_group": 3
+  "grad_rate": 46.2,
+  "grad_rate_rank": 319,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 9471,
+  "avg_stu_loan_debt_rank": 658,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12206",
+  "email": true
 }

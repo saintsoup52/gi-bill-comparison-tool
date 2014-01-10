@@ -1,6 +1,6 @@
 {
   "facility_code": "20R02638",
-  "institution": "PENNSYLVANIA SERVICES CORPORATION-ALPHA NATURAL RESOURCES",
+  "institution": "Pennsylvania Services Corporation-Alpha Natural Resources",
   "city": "Waynesburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15370",
+  "email": true
 }

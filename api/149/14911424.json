@@ -1,6 +1,6 @@
 {
   "facility_code": "14911424",
-  "institution": "MERIDIAN COMMUNITY COLLEGE",
+  "institution": "Meridian Community College",
   "city": "Meridian",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 287,
   "cross": 175935,
-  "grad_rate": 39.0,
-  "grad_rate_rank": 347,
-  "default_rate": 26.1,
-  "avg_stu_loan_debt": 4632,
-  "avg_stu_loan_debt_rank": 241,
-  "indicator_group": 2
+  "grad_rate": 32.2,
+  "grad_rate_rank": 568,
+  "default_rate": 26.9,
+  "avg_stu_loan_debt": 4364,
+  "avg_stu_loan_debt_rank": 95,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39307",
+  "email": true
 }

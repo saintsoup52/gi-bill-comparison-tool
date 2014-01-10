@@ -1,6 +1,6 @@
 {
   "facility_code": "30009347",
-  "institution": "SEATTLE HEAT & FROST INSUL & ALLIED WORKERS APPREN. CMTE.",
+  "institution": "Seattle Heat & Frost Insul & Allied Workers Appren. Cmte.",
   "city": "Renton",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98056",
+  "email": false
 }

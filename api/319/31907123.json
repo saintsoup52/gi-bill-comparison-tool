@@ -1,6 +1,6 @@
 {
   "facility_code": "31907123",
-  "institution": "OAK HILLS CHRISTIAN COLLEGE",
+  "institution": "Oak Hills Christian College",
   "city": "Bemidji",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 174525,
-  "grad_rate": 27.3,
-  "grad_rate_rank": 1546,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 698,
-  "indicator_group": 1
+  "grad_rate": 9.1,
+  "grad_rate_rank": 1835,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 16000,
+  "avg_stu_loan_debt_rank": 628,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56601",
+  "email": true
 }

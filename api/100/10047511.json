@@ -1,6 +1,6 @@
 {
   "facility_code": "10047511",
-  "institution": "GEORGIA DEPARTMENT OF TRANSPORTATION - DISTRICT 4",
+  "institution": "Georgia Department Of Transportation - District 4",
   "city": "Tifton",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31793",
+  "email": true
 }

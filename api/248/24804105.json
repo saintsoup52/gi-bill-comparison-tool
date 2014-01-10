@@ -1,6 +1,6 @@
 {
   "facility_code": "24804105",
-  "institution": "CONCORDE CAREER COLLEGE (SAN DIEGO)",
+  "institution": "Concorde Career College (San Diego)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 282,
   "cross": 120661,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 9331,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 3
+  "grad_rate": 77.3,
+  "grad_rate_rank": 90,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92113",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10559025",
-  "institution": "NATIONAL WEATHER SERVICE NOAA",
+  "institution": "National Weather Service Noaa",
   "city": "St Charles",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63301",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14923116",
-  "institution": "WICHITA AREA TECHNICAL COLLEGE",
+  "institution": "Wichita Area Technical College",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 148,
   "cross": 156107,
-  "grad_rate": 59.6,
-  "grad_rate_rank": 136,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 200,
-  "indicator_group": 3
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "67211",
+  "email": false
 }

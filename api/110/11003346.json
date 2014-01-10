@@ -1,6 +1,6 @@
 {
   "facility_code": "11003346",
-  "institution": "VIRGINIA MILITARY INSTITUTE",
+  "institution": "Virginia Military Institute",
   "city": "Lexington",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 96,
   "cross": 234085,
-  "grad_rate": 69.4,
-  "grad_rate_rank": 321,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 18500,
-  "avg_stu_loan_debt_rank": 1137,
-  "indicator_group": 1
+  "grad_rate": 71.3,
+  "grad_rate_rank": 297,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 19650,
+  "avg_stu_loan_debt_rank": 1145,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24450",
+  "email": true
 }

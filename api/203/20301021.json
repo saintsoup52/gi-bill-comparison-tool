@@ -1,6 +1,6 @@
 {
   "facility_code": "20301021",
-  "institution": "RIDEOUT ELECTRIC CO.",
+  "institution": "Rideout Electric Co.",
   "city": "Danvers",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1923",
+  "email": false
 }

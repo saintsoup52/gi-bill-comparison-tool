@@ -1,6 +1,6 @@
 {
   "facility_code": "34008940",
-  "institution": "NORTH GREENVILLE UNIVERSITY",
+  "institution": "North Greenville University",
   "city": "Tigerville",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 218441,
-  "grad_rate": 45.9,
-  "grad_rate_rank": 1026,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 14200,
-  "avg_stu_loan_debt_rank": 650,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 13262,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29688",
+  "email": false
 }

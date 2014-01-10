@@ -1,6 +1,6 @@
 {
   "facility_code": "25159405",
-  "institution": "CALIFORNIA COLLEGE OF VOCATIONAL CAREERS",
+  "institution": "California College Of Vocational Careers",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 443429,
-  "grad_rate": 65.5,
-  "grad_rate_rank": 1370,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 9250,
-  "avg_stu_loan_debt_rank": 1604,
-  "indicator_group": 5
+  "grad_rate": 57.6,
+  "grad_rate_rank": 1721,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93301",
+  "email": false
 }

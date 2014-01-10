@@ -1,6 +1,6 @@
 {
   "facility_code": "10193422",
-  "institution": "IRS TAXPAYER ADVOCATE SERVICE",
+  "institution": "Irs Taxpayer Advocate Service",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48226",
+  "email": true
 }

@@ -1,10 +1,10 @@
 {
   "facility_code": "31112469",
-  "institution": "HANDONG GLOBAL UNIVERSITY (HANDONG INTERNATIONAL LAW SCHOOL)",
+  "institution": "Handong Global University (Handong International Law School)",
   "city": "Gyeongbuk 791-708",
   "state": "South Korea",
   "country": "South Korea",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

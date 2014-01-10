@@ -1,6 +1,6 @@
 {
   "facility_code": "25065513",
-  "institution": "THE CHICAGO SCHOOL FOR PIANO TECHNOLOGY",
+  "institution": "The Chicago School For Piano Technology",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 475440,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60612",
+  "email": false
 }

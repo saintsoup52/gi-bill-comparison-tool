@@ -1,6 +1,6 @@
 {
   "facility_code": "20D15649",
-  "institution": "TUESCHER ELECTRIC & REFRIGERATION",
+  "institution": "Tuescher Electric & Refrigeration",
   "city": "Darlington",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53530",
+  "email": false
 }

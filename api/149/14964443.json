@@ -1,6 +1,6 @@
 {
   "facility_code": "14964443",
-  "institution": "HILL COLLEGE",
+  "institution": "Hill College",
   "city": "Hillsboro",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 164,
   "cross": 225371,
-  "grad_rate": 12.3,
-  "grad_rate_rank": 500,
-  "default_rate": 28.4,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 255,
-  "indicator_group": 3
+  "grad_rate": 11.6,
+  "grad_rate_rank": 710,
+  "default_rate": 20.1,
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 239,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "76645",
+  "email": false
 }

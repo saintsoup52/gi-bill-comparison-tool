@@ -1,6 +1,6 @@
 {
   "facility_code": "15553035",
-  "institution": "BUCKEYE HILLS CAREER CENTER (31)",
+  "institution": "Buckeye Hills Career Center (31)",
   "city": "Rio Grande",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45674",
+  "email": "No (SCO)"
 }

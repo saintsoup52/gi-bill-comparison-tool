@@ -1,6 +1,6 @@
 {
   "facility_code": "25060143",
-  "institution": "SEGUIN BEAUTY SCHOOL 2",
+  "institution": "Seguin Beauty School 2",
   "city": "New Braunfels",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 368540,
-  "grad_rate": 70.3,
-  "grad_rate_rank": 1164,
-  "default_rate": 33.8,
+  "grad_rate": 62.2,
+  "grad_rate_rank": 1546,
+  "default_rate": 29.1,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78130",
+  "email": false
 }

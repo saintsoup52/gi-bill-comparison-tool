@@ -1,6 +1,6 @@
 {
   "facility_code": "31948138",
-  "institution": "LANCASTER GENERAL COLLEGE OF NURSING & HEALTH SCIENCES",
+  "institution": "Lancaster General College Of Nursing & Health Sciences",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 44,
   "cross": 442356,
-  "grad_rate": 74.4,
-  "grad_rate_rank": 55,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 15043,
-  "avg_stu_loan_debt_rank": 1140,
-  "indicator_group": 2
+  "grad_rate": 81.0,
+  "grad_rate_rank": 37,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1177,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "17602",
+  "email": true
 }

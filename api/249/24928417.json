@@ -1,6 +1,6 @@
 {
   "facility_code": "24928417",
-  "institution": "BROWN MACKIE COLLEGE - HOPKINSVILLE",
+  "institution": "Brown Mackie College - Hopkinsville",
   "city": "Hopkinsville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 73,
   "cross": 421513,
-  "grad_rate": 28.2,
-  "grad_rate_rank": 593,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 1019,
-  "indicator_group": 2
+  "grad_rate": 43.4,
+  "grad_rate_rank": 358,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "42240",
+  "email": false
 }

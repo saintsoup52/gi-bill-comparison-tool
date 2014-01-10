@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06901",
-  "institution": "ALABAMA DOT 7TH DIVISION",
+  "institution": "Alabama Dot 7th Division",
   "city": "Troy",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36079",
+  "email": false
 }

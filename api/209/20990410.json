@@ -1,6 +1,6 @@
 {
   "facility_code": "20990410",
-  "institution": "A. B. COLEMAN MORTUARY & CREMATION SERVICES INC.",
+  "institution": "A. B. Coleman Mortuary & Cremation Services Inc.",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32209",
+  "email": "No (SCO)"
 }

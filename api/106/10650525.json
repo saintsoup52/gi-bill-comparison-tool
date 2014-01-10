@@ -1,6 +1,6 @@
 {
   "facility_code": "10650525",
-  "institution": "CAPE GIRARDEAU COUNTY SHERIFF'S DEPT.",
+  "institution": "Cape Girardeau County Sheriff'S Dept.",
   "city": "Jackson",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63755",
+  "email": false
 }

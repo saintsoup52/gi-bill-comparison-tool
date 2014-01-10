@@ -1,6 +1,6 @@
 {
   "facility_code": "17021222",
-  "institution": "CAMBRIDGE ADULT AND COMMUNITY EDUCATION CENTER",
+  "institution": "Cambridge Adult And Community Education Center",
   "city": "Gerden City",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48135",
+  "email": false
 }

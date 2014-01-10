@@ -1,6 +1,6 @@
 {
   "facility_code": "31509617",
-  "institution": "MID-CONTINENT UNIVERSITY",
+  "institution": "Mid-Continent University",
   "city": "Mayfield",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 150,
   "cross": 157359,
-  "grad_rate": 16.8,
-  "grad_rate_rank": 1709,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 10283,
-  "avg_stu_loan_debt_rank": 266,
-  "indicator_group": 1
+  "grad_rate": 25.0,
+  "grad_rate_rank": 1629,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "42066",
+  "email": true
 }

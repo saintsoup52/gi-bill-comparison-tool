@@ -1,6 +1,6 @@
 {
   "facility_code": "24942405",
-  "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS",
+  "institution": "Le Cordon Bleu College Of Culinary Arts",
   "city": "Pasadena",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 168,
   "cross": 423980,
-  "grad_rate": 66.3,
-  "grad_rate_rank": 90,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 11352,
-  "avg_stu_loan_debt_rank": 936,
-  "indicator_group": 2
+  "grad_rate": 61.9,
+  "grad_rate_rank": 153,
+  "default_rate": 26.7,
+  "avg_stu_loan_debt": 9750,
+  "avg_stu_loan_debt_rank": 729,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91101",
+  "email": true
 }

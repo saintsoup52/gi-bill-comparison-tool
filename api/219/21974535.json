@@ -1,6 +1,6 @@
 {
   "facility_code": "21974535",
-  "institution": "BROWN MACKIE COLLEGE-AKRON",
+  "institution": "Brown Mackie College-Akron",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44320",
+  "email": true
 }

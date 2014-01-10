@@ -1,6 +1,6 @@
 {
   "facility_code": "20236519",
-  "institution": "WARFORD AND J. B. ELECTRIC",
+  "institution": "Warford And J. B. Electric",
   "city": "Hancock",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4640",
+  "email": false
 }

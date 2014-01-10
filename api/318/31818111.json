@@ -1,6 +1,6 @@
 {
   "facility_code": "31818111",
-  "institution": "MOREHOUSE COLLEGE",
+  "institution": "Morehouse College",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 72,
   "cross": 140553,
-  "grad_rate": 55.1,
-  "grad_rate_rank": 706,
-  "default_rate": 27.4,
-  "avg_stu_loan_debt": 41563,
-  "avg_stu_loan_debt_rank": 2064,
-  "indicator_group": 1
+  "grad_rate": 55.0,
+  "grad_rate_rank": 741,
+  "default_rate": 27.5,
+  "avg_stu_loan_debt": 46150,
+  "avg_stu_loan_debt_rank": 1999,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30314",
+  "email": true
 }

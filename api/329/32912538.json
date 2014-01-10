@@ -1,6 +1,6 @@
 {
   "facility_code": "32912538",
-  "institution": "WILKES-BARRE GENERAL HOSPITAL - PREVIOUSLY(WYOMING VALLEY HEALTH CARE SYSTEMS)",
+  "institution": "Wilkes-Barre General Hospital - Previously(Wyoming Valley Health Care Systems)",
   "city": "Wilkes-Barre",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18764",
+  "email": true
 }

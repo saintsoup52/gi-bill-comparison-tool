@@ -1,6 +1,6 @@
 {
   "facility_code": "32000115",
-  "institution": "DES MOINES UNIVERSITY-OSTEOPATHIC MEDICAL CENTER",
+  "institution": "Des Moines University-Osteopathic Medical Center",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 154156,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 265,
-  "indicator_group": 4
+  "default_rate": 1.8,
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 8,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "50312",
+  "email": true
 }

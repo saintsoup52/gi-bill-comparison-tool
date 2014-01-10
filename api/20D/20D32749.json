@@ -1,6 +1,6 @@
 {
   "facility_code": "20D32749",
-  "institution": "BOATERS CHOICE MARINE (CH31 ONLY)",
+  "institution": "Boaters Choice Marine (Ch31 Only)",
   "city": "Chippewa Falls",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54729",
+  "email": "No (SCO)"
 }

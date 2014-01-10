@@ -1,6 +1,6 @@
 {
   "facility_code": "20030511",
-  "institution": "TURNER JOB CARE CENTER",
+  "institution": "Turner Job Care Center",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31705",
+  "email": false
 }

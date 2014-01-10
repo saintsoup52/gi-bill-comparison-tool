@@ -1,6 +1,6 @@
 {
   "facility_code": "25587825",
-  "institution": "ECLIPS SCHOOL OF COSMETOLOGY AND BARBERING",
+  "institution": "Eclips School Of Cosmetology And Barbering",
   "city": "Cape Girardeau",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 446534,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 1489,
+  "grad_rate": 73.4,
+  "grad_rate_rank": 1012,
   "default_rate": 34.6,
-  "avg_stu_loan_debt": 9498,
-  "avg_stu_loan_debt_rank": 1657,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 7756,
+  "avg_stu_loan_debt_rank": 779,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63701",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21800723",
-  "institution": "RASMUSSEN COLLEGE- ST CLOUD",
+  "institution": "Rasmussen College- St Cloud",
   "city": "St. Cloud",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 94,
   "cross": 175014,
-  "grad_rate": 39.1,
-  "grad_rate_rank": 345,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 35.9,
+  "grad_rate_rank": 487,
+  "default_rate": 18.6,
+  "avg_stu_loan_debt": 12609,
+  "avg_stu_loan_debt_rank": 896,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "56301",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15036519",
-  "institution": "OAK HILL HIGH SCHOOL (DAY)",
+  "institution": "Oak Hill High School (Day)",
   "city": "Sabattus",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4280",
+  "email": false
 }

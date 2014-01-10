@@ -1,6 +1,6 @@
 {
   "facility_code": "10D20138",
-  "institution": "US ARMY RECRUITING & BATTALION HARRISBURG (CHAP 31 ONLY)",
+  "institution": "Us Army Recruiting & Battalion Harrisburg (Chap 31 Only)",
   "city": "New Cumberland",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17070",
+  "email": "No (SCO)"
 }

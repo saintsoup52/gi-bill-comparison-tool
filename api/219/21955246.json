@@ -1,6 +1,6 @@
 {
   "facility_code": "21955246",
-  "institution": "SOUTH UNIVERSITY",
+  "institution": "South University",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 283,
   "cross": 459268,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 6463,
+  "avg_stu_loan_debt_rank": 58,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23452",
+  "email": true
 }

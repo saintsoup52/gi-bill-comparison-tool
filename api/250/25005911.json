@@ -1,6 +1,6 @@
 {
   "facility_code": "25005911",
-  "institution": "IVERSON BUSINESS SCHOOL",
+  "institution": "Iverson Business School",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 452841,
-  "grad_rate": 26.4,
-  "grad_rate_rank": 2150,
-  "default_rate": 26.1,
-  "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 5
+  "grad_rate": 25.2,
+  "grad_rate_rank": 2227,
+  "default_rate": 24.7,
+  "avg_stu_loan_debt": 7916,
+  "avg_stu_loan_debt_rank": 794,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30360",
+  "email": true
 }

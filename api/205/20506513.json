@@ -1,6 +1,6 @@
 {
   "facility_code": "20506513",
-  "institution": "HEAT AND FROST INSULATORS LOCAL 17",
+  "institution": "Heat And Frost Insulators Local 17",
   "city": "Tinley Park",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60477",
+  "email": true
 }

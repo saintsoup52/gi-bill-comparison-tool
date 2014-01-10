@@ -1,6 +1,6 @@
 {
   "facility_code": "20C69249",
-  "institution": "POPLAR GAS COMPANY",
+  "institution": "Poplar Gas Company",
   "city": "Poplar",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54864",
+  "email": false
 }

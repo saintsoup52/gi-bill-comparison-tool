@@ -1,6 +1,6 @@
 {
   "facility_code": "31000501",
-  "institution": "SAMFORD UNIVERSITY",
+  "institution": "Samford University",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 93,
   "cross": 102049,
-  "grad_rate": 70.2,
-  "grad_rate_rank": 298,
-  "default_rate": 1.1,
-  "avg_stu_loan_debt": 24500,
-  "avg_stu_loan_debt_rank": 1892,
-  "indicator_group": 1
+  "grad_rate": 71.4,
+  "grad_rate_rank": 295,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 26831,
+  "avg_stu_loan_debt_rank": 1862,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35209",
+  "email": false
 }

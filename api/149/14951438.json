@@ -1,6 +1,6 @@
 {
   "facility_code": "14951438",
-  "institution": "WESTMORELAND COUNTY COMMUNITY COLLEGE",
+  "institution": "Westmoreland County Community College",
   "city": "Youngwood",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 231,
   "cross": 216825,
-  "grad_rate": 14.7,
-  "grad_rate_rank": 1039,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 4800,
-  "avg_stu_loan_debt_rank": 256,
-  "indicator_group": 2
+  "grad_rate": 13.7,
+  "grad_rate_rank": 1171,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15697",
+  "email": false
 }

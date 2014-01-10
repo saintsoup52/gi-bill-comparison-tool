@@ -1,6 +1,6 @@
 {
   "facility_code": "18066721",
-  "institution": "MUNICIPAL POLICE TRAINING COMMITTEE BASIC RECRUIT ACADEMY",
+  "institution": "Municipal Police Training Committee Basic Recruit Academy",
   "city": "Randolph",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2368",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28587517",
-  "institution": "PAUL MITCHELL THE SCHOOL LEXINGTON",
+  "institution": "Paul Mitchell The School Lexington",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 156426,
-  "grad_rate": 92.6,
-  "grad_rate_rank": 192,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8191,
-  "avg_stu_loan_debt_rank": 1418,
-  "indicator_group": 5
+  "grad_rate": 41.5,
+  "grad_rate_rank": 2084,
+  "default_rate": 29.1,
+  "avg_stu_loan_debt": 11940,
+  "avg_stu_loan_debt_rank": 1748,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40514",
+  "email": true
 }

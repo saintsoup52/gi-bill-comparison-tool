@@ -1,6 +1,6 @@
 {
   "facility_code": "15012129",
-  "institution": "PLYMOUTH REGIONAL HIGH SCHOOL",
+  "institution": "Plymouth Regional High School",
   "city": "Plymouth",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3264",
+  "email": false
 }

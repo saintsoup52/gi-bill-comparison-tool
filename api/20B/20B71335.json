@@ -1,6 +1,6 @@
 {
   "facility_code": "20B71335",
-  "institution": "CHRISTOPHER TOOL AND MANUFACTURING COMPANY (K)",
+  "institution": "Christopher Tool And Manufacturing Company (K)",
   "city": "Solon",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44139",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "29023614",
-  "institution": "3D TAXIDERMY STUDIO",
+  "institution": "3d Taxidermy Studio",
   "city": "Decatur",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46733",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15544235",
-  "institution": "SOUTHEAST OHIO EMERGENCY MEDICAL SERVICES DISTRICT",
+  "institution": "Southeast Ohio Emergency Medical Services District",
   "city": "Gallipolis",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45631",
+  "email": false
 }

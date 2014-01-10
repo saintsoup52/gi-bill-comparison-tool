@@ -1,6 +1,6 @@
 {
   "facility_code": "31523717",
-  "institution": "ALICE LLOYD COLLEGE",
+  "institution": "Alice Lloyd College",
   "city": "Pippa Passes",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 156189,
-  "grad_rate": 44.7,
-  "grad_rate_rank": 1065,
-  "default_rate": 8.9,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 92,
-  "indicator_group": 1
+  "grad_rate": 36.5,
+  "grad_rate_rank": 1348,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 29,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "41844",
+  "email": false
 }

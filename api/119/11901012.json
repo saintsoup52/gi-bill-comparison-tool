@@ -1,6 +1,6 @@
 {
   "facility_code": "11901012",
-  "institution": "UNIVERSITY OF IDAHO",
+  "institution": "University Of Idaho",
   "city": "Moscow",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 356,
   "cross": 142285,
-  "grad_rate": 50.9,
-  "grad_rate_rank": 849,
-  "default_rate": 5.1,
-  "avg_stu_loan_debt": 19607,
-  "avg_stu_loan_debt_rank": 1331,
-  "indicator_group": 1
+  "grad_rate": 55.7,
+  "grad_rate_rank": 711,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 20168,
+  "avg_stu_loan_debt_rank": 1213,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "83844",
+  "email": true
 }

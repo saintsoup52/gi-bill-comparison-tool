@@ -1,6 +1,6 @@
 {
   "facility_code": "20N07632",
-  "institution": "CHENANGO TOOL CO. INC.",
+  "institution": "Chenango Tool Co. Inc.",
   "city": "Sherburne",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13460",
+  "email": false
 }

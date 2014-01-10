@@ -1,6 +1,6 @@
 {
   "facility_code": "31828110",
-  "institution": "UNIVERSIDAD DEL ESTE - ORLANDO",
+  "institution": "Universidad Del Este - Orlando",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 243346,
-  "grad_rate": 12.5,
-  "grad_rate_rank": 1757,
-  "default_rate": 20.7,
-  "avg_stu_loan_debt": 5000,
-  "avg_stu_loan_debt_rank": 104,
-  "indicator_group": 1
+  "grad_rate": 22.5,
+  "grad_rate_rank": 1678,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 3500,
+  "avg_stu_loan_debt_rank": 5,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32857",
+  "email": false
 }

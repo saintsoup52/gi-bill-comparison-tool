@@ -1,6 +1,6 @@
 {
   "facility_code": "15526835",
-  "institution": "TRUMBULL CAREER & TECHNICAL CENTER-ADULT TRAINING",
+  "institution": "Trumbull Career & Technical Center-Adult Training",
   "city": "Warren",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 407595,
-  "grad_rate": 67.9,
-  "grad_rate_rank": 1254,
-  "default_rate": 23.9,
-  "avg_stu_loan_debt": 8207,
-  "avg_stu_loan_debt_rank": 1427,
-  "indicator_group": 5
+  "grad_rate": 64.1,
+  "grad_rate_rank": 1465,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44483",
+  "email": false
 }

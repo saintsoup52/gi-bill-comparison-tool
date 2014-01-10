@@ -1,6 +1,6 @@
 {
   "facility_code": "30099705",
-  "institution": "NORTHERN CALIFORNIA PLASTERERS JATC",
+  "institution": "Northern California Plasterers Jatc",
   "city": "West Sacramento",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95691",
+  "email": false
 }

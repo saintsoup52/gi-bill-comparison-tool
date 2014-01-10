@@ -1,6 +1,6 @@
 {
   "facility_code": "25809005",
-  "institution": "LYLE'S FRESNO COLLEGE OF BEAUTY",
+  "institution": "Lyle'S Fresno College Of Beauty",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 118143,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
+  "grad_rate": 65.2,
+  "grad_rate_rank": 1419,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93710",
+  "email": false
 }

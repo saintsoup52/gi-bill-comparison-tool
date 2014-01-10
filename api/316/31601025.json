@@ -1,6 +1,6 @@
 {
   "facility_code": "31601025",
-  "institution": "ST. LOUIS CHRISTIAN COLLEGE",
+  "institution": "St. Louis Christian College",
   "city": "Florissant",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 179256,
-  "grad_rate": 16.1,
-  "grad_rate_rank": 1719,
-  "default_rate": 12.9,
-  "avg_stu_loan_debt": 12155,
-  "avg_stu_loan_debt_rank": 468,
-  "indicator_group": 1
+  "grad_rate": 39.1,
+  "grad_rate_rank": 1281,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 12250,
+  "avg_stu_loan_debt_rank": 293,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63033",
+  "email": true
 }

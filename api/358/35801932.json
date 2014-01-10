@@ -1,6 +1,6 @@
 {
   "facility_code": "35801932",
-  "institution": "FAXTON-ST. LUKE'S HEALTHCARE EMS EDUCATION AND TRAINING",
+  "institution": "Faxton-St. Luke'S Healthcare Ems Education And Training",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13502",
+  "email": true
 }

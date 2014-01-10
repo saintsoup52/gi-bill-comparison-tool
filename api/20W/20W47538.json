@@ -1,6 +1,6 @@
 {
   "facility_code": "20W47538",
-  "institution": "BRICKLAYERS AND ALLIED CRAFTWORKERS LOCAL 9 PA",
+  "institution": "Bricklayers And Allied Craftworkers Local 9 Pa",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15235",
+  "email": true
 }

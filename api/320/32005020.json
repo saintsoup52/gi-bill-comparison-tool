@@ -1,6 +1,6 @@
 {
   "facility_code": "32005020",
-  "institution": "WASHINGTON ADVENTIST HOSPITAL SCHOOL OF RADIOGRAPHY",
+  "institution": "Washington Adventist Hospital School Of Radiography",
   "city": "Takoma Park",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20912",
+  "email": false
 }

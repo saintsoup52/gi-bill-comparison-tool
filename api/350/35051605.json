@@ -1,6 +1,6 @@
 {
   "facility_code": "35051605",
-  "institution": "EDUCATIONAL RESOURCE & SERVICES CTR. (CH 31 ONLY)",
+  "institution": "Educational Resource & Services Ctr. (Ch 31 Only)",
   "city": "Culver City",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90232",
+  "email": false
 }

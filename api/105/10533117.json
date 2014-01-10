@@ -1,6 +1,6 @@
 {
   "facility_code": "10533117",
-  "institution": "DEFENSE LOGISTICS AGENCY DLA DISPOSITION SERVICES",
+  "institution": "Defense Logistics Agency Dla Disposition Services",
   "city": "Fort Campbell",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "42223",
+  "email": false
 }

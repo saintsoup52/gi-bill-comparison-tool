@@ -1,6 +1,6 @@
 {
   "facility_code": "25810530",
-  "institution": "HOME INSPECTION INSTITUTE LLC",
+  "institution": "Home Inspection Institute Llc",
   "city": "Medford",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8055",
+  "email": true
 }

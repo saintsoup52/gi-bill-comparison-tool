@@ -1,6 +1,6 @@
 {
   "facility_code": "11904133",
-  "institution": "WESTERN CAROLINA UNIVERSITY",
+  "institution": "Western Carolina University",
   "city": "Cullowhee",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 275,
   "cross": 200004,
-  "grad_rate": 50.4,
-  "grad_rate_rank": 866,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 13911,
-  "avg_stu_loan_debt_rank": 624,
-  "indicator_group": 1
+  "grad_rate": 47.9,
+  "grad_rate_rank": 969,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 13976,
+  "avg_stu_loan_debt_rank": 426,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28723",
+  "email": true
 }

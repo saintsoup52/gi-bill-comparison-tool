@@ -1,6 +1,6 @@
 {
   "facility_code": "10C98738",
-  "institution": "DEPARTMENT OF CORRECTIONS - FRACKVILLE",
+  "institution": "Department Of Corrections - Frackville",
   "city": "Frackville",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17931",
+  "email": true
 }

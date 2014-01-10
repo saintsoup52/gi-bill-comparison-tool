@@ -1,6 +1,6 @@
 {
   "facility_code": "17010329",
-  "institution": "SALEM HIGH SCHOOL",
+  "institution": "Salem High School",
   "city": "Salem",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3079",
+  "email": false
 }

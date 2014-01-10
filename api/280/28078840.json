@@ -1,6 +1,6 @@
 {
   "facility_code": "28078840",
-  "institution": "LACY SCHOOL OF COSMETOLOGY AIKEN",
+  "institution": "Lacy School Of Cosmetology Aiken",
   "city": "Aiken",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 439729,
-  "grad_rate": 80.8,
-  "grad_rate_rank": 615,
-  "default_rate": 20.4,
-  "avg_stu_loan_debt": 10571,
-  "avg_stu_loan_debt_rank": 2201,
-  "indicator_group": 5
+  "grad_rate": 84.2,
+  "grad_rate_rank": 462,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29803",
+  "email": true
 }

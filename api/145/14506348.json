@@ -1,6 +1,6 @@
 {
   "facility_code": "14506348",
-  "institution": "WEST VIRGINIA UNIVERSITY AT PARKERSBURG",
+  "institution": "West Virginia University At Parkersburg",
   "city": "Parkersburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 211,
   "cross": 237686,
-  "grad_rate": 34.9,
-  "grad_rate_rank": 428,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 9599,
-  "avg_stu_loan_debt_rank": 837,
-  "indicator_group": 2
+  "grad_rate": 35.0,
+  "grad_rate_rank": 502,
+  "default_rate": 25.8,
+  "avg_stu_loan_debt": 8828,
+  "avg_stu_loan_debt_rank": 609,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "26101",
+  "email": true
 }

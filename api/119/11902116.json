@@ -1,6 +1,6 @@
 {
   "facility_code": "11902116",
-  "institution": "PITTSBURG STATE UNIV - REGISTRAR'S OFFICE",
+  "institution": "Pittsburg State Univ - Registrar'S Office",
   "city": "Pittsburg",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 299,
   "cross": 155681,
-  "grad_rate": 48.6,
-  "grad_rate_rank": 936,
-  "default_rate": 9.1,
-  "avg_stu_loan_debt": 13750,
-  "avg_stu_loan_debt_rank": 607,
-  "indicator_group": 1
+  "grad_rate": 50.4,
+  "grad_rate_rank": 880,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 13500,
+  "avg_stu_loan_debt_rank": 393,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66762",
+  "email": false
 }

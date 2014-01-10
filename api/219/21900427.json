@@ -1,6 +1,6 @@
 {
   "facility_code": "21900427",
-  "institution": "KAPLAN UNIVERSITY - LINCOLN CAMPUS",
+  "institution": "Kaplan University - Lincoln Campus",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 53,
   "cross": 181242,
-  "grad_rate": 36.6,
-  "grad_rate_rank": 398,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 15834,
-  "avg_stu_loan_debt_rank": 1158,
-  "indicator_group": 2
+  "grad_rate": 35.0,
+  "grad_rate_rank": 502,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1230,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "68508",
+  "email": true
 }

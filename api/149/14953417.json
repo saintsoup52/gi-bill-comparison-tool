@@ -1,6 +1,6 @@
 {
   "facility_code": "14953417",
-  "institution": "SOMERSET COMMUNITY COLLEGE - NORTH CAMPUS",
+  "institution": "Somerset Community College - North Campus",
   "city": "Somerset",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 261,
   "cross": 157711,
-  "grad_rate": 23.7,
-  "grad_rate_rank": 398,
-  "default_rate": 28.4,
-  "avg_stu_loan_debt": 8279,
-  "avg_stu_loan_debt_rank": 361,
-  "indicator_group": 3
+  "grad_rate": 22.7,
+  "grad_rate_rank": 611,
+  "default_rate": 33.4,
+  "avg_stu_loan_debt": 8396,
+  "avg_stu_loan_debt_rank": 261,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "42501",
+  "email": true
 }

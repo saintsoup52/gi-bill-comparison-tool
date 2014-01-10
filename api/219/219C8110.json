@@ -1,6 +1,6 @@
 {
   "facility_code": "219C8110",
-  "institution": "AMERICAN INSTITUTE COLLEGE OF HEALTH PROFESSIONS",
+  "institution": "American Institute College Of Health Professions",
   "city": "Celebration",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461005,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 22.4,
-  "avg_stu_loan_debt": 11518,
-  "avg_stu_loan_debt_rank": 335,
-  "indicator_group": 1
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 7184,
+  "avg_stu_loan_debt_rank": 75,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "34747",
+  "email": true
 }

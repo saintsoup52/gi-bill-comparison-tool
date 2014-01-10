@@ -1,6 +1,6 @@
 {
   "facility_code": "25491110",
-  "institution": "CLARK SCHOOL OF MASSAGE",
+  "institution": "Clark School Of Massage",
   "city": "Holiday",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34690",
+  "email": true
 }

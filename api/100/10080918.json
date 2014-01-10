@@ -1,6 +1,6 @@
 {
   "facility_code": "10080918",
-  "institution": "FAA - LAKE CHARLES SYSTEM SUPPORT CENTER",
+  "institution": "Faa - Lake Charles System Support Center",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70605",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001538",
-  "institution": "GENEVA COLLEGE",
+  "institution": "Geneva College",
   "city": "Beaver Falls",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 212656,
-  "grad_rate": 67.6,
-  "grad_rate_rank": 364,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 19283,
-  "avg_stu_loan_debt_rank": 1287,
-  "indicator_group": 1
+  "grad_rate": 62.4,
+  "grad_rate_rank": 506,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15010",
+  "email": false
 }

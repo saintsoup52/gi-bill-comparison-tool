@@ -1,6 +1,6 @@
 {
   "facility_code": "14939432",
-  "institution": "ONONDAGA COMMUNITY COLLEGE",
+  "institution": "Onondaga Community College",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 399,
   "cross": 194222,
-  "grad_rate": 15.9,
-  "grad_rate_rank": 1003,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 440,
-  "indicator_group": 2
+  "grad_rate": 17.8,
+  "grad_rate_rank": 1012,
+  "default_rate": 19.7,
+  "avg_stu_loan_debt": 6970,
+  "avg_stu_loan_debt_rank": 436,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13215",
+  "email": true
 }

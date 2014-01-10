@@ -1,6 +1,6 @@
 {
   "facility_code": "25171405",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY (REDDING)",
+  "institution": "Marinello Schools Of Beauty (Redding)",
   "city": "Redding",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 118921,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 1804,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 7894,
-  "avg_stu_loan_debt_rank": 1323,
-  "indicator_group": 5
+  "grad_rate": 49.0,
+  "grad_rate_rank": 1971,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 6803,
+  "avg_stu_loan_debt_rank": 598,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "96001",
+  "email": true
 }

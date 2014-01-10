@@ -1,6 +1,6 @@
 {
   "facility_code": "20B45435",
-  "institution": "SHIMINSKY WELDING SERVICE INC.    K",
+  "institution": "Shiminsky Welding Service Inc.    K",
   "city": "Campbell",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44405",
+  "email": false
 }

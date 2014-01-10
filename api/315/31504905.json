@@ -1,6 +1,6 @@
 {
   "facility_code": "31504905",
-  "institution": "SCRIPPS COLLEGE",
+  "institution": "Scripps College",
   "city": "Claremont",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 123165,
-  "grad_rate": 87.5,
-  "grad_rate_rank": 75,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 15025,
-  "avg_stu_loan_debt_rank": 745,
-  "indicator_group": 1
+  "grad_rate": 89.7,
+  "grad_rate_rank": 70,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 13304,
+  "avg_stu_loan_debt_rank": 387,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91711",
+  "email": false
 }

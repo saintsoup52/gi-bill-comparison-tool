@@ -1,6 +1,6 @@
 {
   "facility_code": "25146505",
-  "institution": "INTERNATIONAL SCHOOL OF BEAUTY INC.",
+  "institution": "International School Of Beauty Inc.",
   "city": "Palm Desert",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 113449,
-  "grad_rate": 77.9,
-  "grad_rate_rank": 757,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 5376,
-  "avg_stu_loan_debt_rank": 828,
-  "indicator_group": 5
+  "grad_rate": 66.1,
+  "grad_rate_rank": 1379,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 7462,
+  "avg_stu_loan_debt_rank": 689,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92260",
+  "email": false
 }

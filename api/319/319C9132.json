@@ -1,6 +1,6 @@
 {
   "facility_code": "319C9132",
-  "institution": "PAUL SMITH'S COLLEGE",
+  "institution": "Paul Smith'S College",
   "city": "Paul Smiths",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 194392,
-  "grad_rate": 37.2,
-  "grad_rate_rank": 1318,
-  "default_rate": 13.9,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 43.5,
+  "grad_rate_rank": 1118,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 21500,
+  "avg_stu_loan_debt_rank": 1360,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12970",
+  "email": true
 }

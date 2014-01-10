@@ -1,6 +1,6 @@
 {
   "facility_code": "11806124",
-  "institution": "UNIVERSITY OF MISSISSIPPI",
+  "institution": "University Of Mississippi",
   "city": "University",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 502,
   "cross": 176017,
-  "grad_rate": 60.4,
-  "grad_rate_rank": 553,
-  "default_rate": 9.1,
-  "avg_stu_loan_debt": 17775,
-  "avg_stu_loan_debt_rank": 1059,
-  "indicator_group": 1
+  "grad_rate": 58.3,
+  "grad_rate_rank": 619,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 17969,
+  "avg_stu_loan_debt_rank": 905,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38677",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25002411",
-  "institution": "GEORGIA INSTITUTE OF COSMETOLOGY",
+  "institution": "Georgia Institute Of Cosmetology",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 408862,
-  "grad_rate": 68.4,
-  "grad_rate_rank": 1237,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 13100,
-  "avg_stu_loan_debt_rank": 2413,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 13833,
+  "avg_stu_loan_debt_rank": 1886,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30605",
+  "email": true
 }

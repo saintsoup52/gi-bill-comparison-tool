@@ -1,6 +1,6 @@
 {
   "facility_code": "10P00432",
-  "institution": "VILLAGE OF SHERBURNE ELECTRIC LIGHT DEPARTMENT",
+  "institution": "Village Of Sherburne Electric Light Department",
   "city": "Sherburne",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13460",
+  "email": true
 }

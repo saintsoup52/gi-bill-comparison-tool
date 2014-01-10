@@ -1,6 +1,6 @@
 {
   "facility_code": "20475415",
-  "institution": "GRINNELL POLICE DEPARTMENT",
+  "institution": "Grinnell Police Department",
   "city": "Grinnell",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50112",
+  "email": true
 }

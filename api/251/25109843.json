@@ -1,6 +1,6 @@
 {
   "facility_code": "25109843",
-  "institution": "MILAN INSTITUTE OF COSMETOLOGY AMARILLO",
+  "institution": "Milan Institute Of Cosmetology Amarillo",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 385549,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 1768,
-  "default_rate": 41.5,
+  "grad_rate": 51.8,
+  "grad_rate_rank": 1901,
+  "default_rate": 32.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79103",
+  "email": false
 }

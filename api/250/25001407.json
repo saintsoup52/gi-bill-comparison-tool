@@ -1,6 +1,6 @@
 {
   "facility_code": "25001407",
-  "institution": "ACADEMY DI CAPELLI",
+  "institution": "Academy Di Capelli",
   "city": "Wallingford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 449463,
-  "grad_rate": 87.8,
-  "grad_rate_rank": 335,
-  "default_rate": 20.0,
+  "grad_rate": 90.7,
+  "grad_rate_rank": 250,
+  "default_rate": 4.7,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6492",
+  "email": false
 }

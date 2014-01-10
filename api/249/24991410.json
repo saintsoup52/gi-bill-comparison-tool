@@ -1,6 +1,6 @@
 {
   "facility_code": "24991410",
-  "institution": "COLLEGE OF BUSINESS & TECHNOLOGY - MIAMI",
+  "institution": "College Of Business & Technology - Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 12,
   "cross": 417318,
-  "grad_rate": 96.1,
-  "grad_rate_rank": 13,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 285,
-  "indicator_group": 3
+  "grad_rate": 70.0,
+  "grad_rate_rank": 173,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 7400,
+  "avg_stu_loan_debt_rank": 209,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33193",
+  "email": true
 }

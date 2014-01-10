@@ -1,6 +1,6 @@
 {
   "facility_code": "13900127",
-  "institution": "CHADRON STATE COLLEGE",
+  "institution": "Chadron State College",
   "city": "Chadron",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 123,
   "cross": 180948,
-  "grad_rate": 45.6,
-  "grad_rate_rank": 1036,
-  "default_rate": 11.3,
-  "avg_stu_loan_debt": 10289,
-  "avg_stu_loan_debt_rank": 267,
-  "indicator_group": 1
+  "grad_rate": 41.8,
+  "grad_rate_rank": 1180,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 10329,
+  "avg_stu_loan_debt_rank": 172,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "69337",
+  "email": true
 }

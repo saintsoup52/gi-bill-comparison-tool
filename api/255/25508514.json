@@ -1,6 +1,6 @@
 {
   "facility_code": "25508514",
-  "institution": "LIL LOUS BARBER COLLEGE",
+  "institution": "Lil Lous Barber College",
   "city": "Gary",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 475574,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46409",
+  "email": false
 }

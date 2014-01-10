@@ -1,6 +1,6 @@
 {
   "facility_code": "15025529",
-  "institution": "NEW HAMPSHIRE POLICE STANDARDS AND TRAINING COUNCIL",
+  "institution": "New Hampshire Police Standards And Training Council",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3301",
+  "email": true
 }

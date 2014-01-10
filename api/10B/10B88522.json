@@ -1,6 +1,6 @@
 {
   "facility_code": "10B88522",
-  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (DCMA)",
+  "institution": "Defense Contract Management Agency (Dcma)",
   "city": "Sterling Heights",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48310",
+  "email": true
 }

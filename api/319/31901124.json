@@ -1,6 +1,6 @@
 {
   "facility_code": "31901124",
-  "institution": "TOUGALOO COLLEGE",
+  "institution": "Tougaloo College",
   "city": "Tougaloo",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 37,
   "cross": 176406,
-  "grad_rate": 48.3,
-  "grad_rate_rank": 950,
-  "default_rate": 14.5,
-  "avg_stu_loan_debt": 27069,
-  "avg_stu_loan_debt_rank": 2017,
-  "indicator_group": 1
+  "grad_rate": 51.4,
+  "grad_rate_rank": 850,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 27736,
+  "avg_stu_loan_debt_rank": 1910,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39174",
+  "email": false
 }

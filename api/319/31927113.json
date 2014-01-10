@@ -1,6 +1,6 @@
 {
   "facility_code": "31927113",
-  "institution": "CHRISTIAN LIFE COLLEGE",
+  "institution": "Christian Life College",
   "city": "Mt Prospect",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 260947,
-  "grad_rate": 10.0,
-  "grad_rate_rank": 1781,
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 14847,
-  "avg_stu_loan_debt_rank": 712,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60056",
+  "email": false
 }

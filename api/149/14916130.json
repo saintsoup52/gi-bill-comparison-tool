@@ -1,6 +1,6 @@
 {
   "facility_code": "14916130",
-  "institution": "CUMBERLAND COUNTY COLLEGE",
+  "institution": "Cumberland County College",
   "city": "Vineland",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 123,
   "cross": 184205,
-  "grad_rate": 29.8,
-  "grad_rate_rank": 541,
-  "default_rate": 20.5,
-  "avg_stu_loan_debt": 9594,
-  "avg_stu_loan_debt_rank": 836,
-  "indicator_group": 2
+  "grad_rate": 22.1,
+  "grad_rate_rank": 875,
+  "default_rate": 22.7,
+  "avg_stu_loan_debt": 9819,
+  "avg_stu_loan_debt_rank": 735,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "8362",
+  "email": true
 }

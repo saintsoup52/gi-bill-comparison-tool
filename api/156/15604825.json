@@ -1,6 +1,6 @@
 {
   "facility_code": "15604825",
-  "institution": "CAPE GIRARDEAU FIRE TRAINING ACADEMY",
+  "institution": "Cape Girardeau Fire Training Academy",
   "city": "Cape Girardeau",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63703",
+  "email": true
 }

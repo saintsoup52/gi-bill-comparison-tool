@@ -1,6 +1,6 @@
 {
   "facility_code": "28559932",
-  "institution": "SANFORD BROWN INSTITUTE - WHITE PLAINS",
+  "institution": "Sanford Brown Institute - White Plains",
   "city": "White Plains",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 364326,
-  "grad_rate": 53.9,
-  "grad_rate_rank": 1814,
-  "default_rate": 27.7,
+  "grad_rate": 54.2,
+  "grad_rate_rank": 1832,
+  "default_rate": 27.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10604",
+  "email": true
 }

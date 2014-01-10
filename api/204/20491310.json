@@ -1,6 +1,6 @@
 {
   "facility_code": "20491310",
-  "institution": "MODERN BUSINESS MACHINES",
+  "institution": "Modern Business Machines",
   "city": "Daytona Beach",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32114",
+  "email": "No (SCO)"
 }

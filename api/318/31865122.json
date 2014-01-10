@@ -1,6 +1,6 @@
 {
   "facility_code": "31865122",
-  "institution": "BAKER COLLEGE OF ALLEN PARK (DOWNRIVER CAMPUS)",
+  "institution": "Baker College Of Allen Park (Downriver Campus)",
   "city": "Allen Park",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 133,
   "cross": 444167,
-  "grad_rate": 11.6,
-  "grad_rate_rank": 1158,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 10120,
-  "avg_stu_loan_debt_rank": 856,
-  "indicator_group": 2
+  "grad_rate": 13.0,
+  "grad_rate_rank": 1200,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 11394,
+  "avg_stu_loan_debt_rank": 819,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48101",
+  "email": true
 }

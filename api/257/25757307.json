@@ -1,6 +1,6 @@
 {
   "facility_code": "25757307",
-  "institution": "BRANFORD HALL CAREER INSTITUTE - SOUTHINGTON",
+  "institution": "Branford Hall Career Institute - Southington",
   "city": "Southington",
   "state": "CT",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 15,
   "cross": 434520,
   "grad_rate": 60.6,
-  "grad_rate_rank": 1562,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 7924,
-  "avg_stu_loan_debt_rank": 1353,
-  "indicator_group": 5
+  "grad_rate_rank": 1615,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 7724,
+  "avg_stu_loan_debt_rank": 766,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6489",
+  "email": true
 }

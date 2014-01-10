@@ -1,6 +1,6 @@
 {
   "facility_code": "11001440",
-  "institution": "WINTHROP UNIVERSITY",
+  "institution": "Winthrop University",
   "city": "Rock Hill",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 328,
   "cross": 218964,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 630,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 53.2,
+  "grad_rate_rank": 802,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 22115,
+  "avg_stu_loan_debt_rank": 1434,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29733",
+  "email": false
 }

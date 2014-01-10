@@ -1,6 +1,6 @@
 {
   "facility_code": "20B06023",
-  "institution": "D J'S HEATING & AIR CONDITIONING",
+  "institution": "D J'S Heating & Air Conditioning",
   "city": "Albertville",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55301",
+  "email": false
 }

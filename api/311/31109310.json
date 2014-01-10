@@ -1,6 +1,6 @@
 {
   "facility_code": "31109310",
-  "institution": "JOHNSON & WALES UNIVERSITY-NORTH MIAMI",
+  "institution": "Johnson & Wales University-North Miami",
   "city": "North Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 71,
   "cross": 414823,
-  "grad_rate": 39.0,
-  "grad_rate_rank": 347,
-  "default_rate": 13.5,
-  "avg_stu_loan_debt": 24941,
-  "avg_stu_loan_debt_rank": 1459,
-  "indicator_group": 2
+  "grad_rate": 42.2,
+  "grad_rate_rank": 1169,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 24491,
+  "avg_stu_loan_debt_rank": 1685,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33181",
+  "email": true
 }

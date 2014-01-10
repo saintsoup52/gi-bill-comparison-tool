@@ -1,6 +1,6 @@
 {
   "facility_code": "25024123",
-  "institution": "PCI ACADEMY",
+  "institution": "Pci Academy",
   "city": "New Hope",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 443979,
-  "grad_rate": 76.0,
-  "grad_rate_rank": 863,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 10180,
-  "avg_stu_loan_debt_rank": 2166,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 12099,
+  "avg_stu_loan_debt_rank": 1784,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55428",
+  "email": false
 }

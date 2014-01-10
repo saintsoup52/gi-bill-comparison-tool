@@ -1,6 +1,6 @@
 {
   "facility_code": "10708213",
-  "institution": "ILLINOIS DEPARTMENT OF TRANSPORTATION-DIVISION OF TRAFFIC SAFETY",
+  "institution": "Illinois Department Of Transportation-Division Of Traffic Safety",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62702",
+  "email": true
 }

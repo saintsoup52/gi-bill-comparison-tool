@@ -1,6 +1,6 @@
 {
   "facility_code": "30593713",
-  "institution": "ELECTRICAL JATT LOCAL #134",
+  "institution": "Electrical Jatt Local #134",
   "city": "Alsip",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60803",
+  "email": true
 }

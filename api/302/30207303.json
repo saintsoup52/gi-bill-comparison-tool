@@ -1,6 +1,6 @@
 {
   "facility_code": "30207303",
-  "institution": "ARIZONA HEAT AND FROST INSULATORS AND ALLIED WORKERS JATC",
+  "institution": "Arizona Heat And Frost Insulators And Allied Workers Jatc",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85008",
+  "email": false
 }

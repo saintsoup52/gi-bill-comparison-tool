@@ -1,6 +1,6 @@
 {
   "facility_code": "31870032",
-  "institution": "LONG ISLAND UNIVERSITY -BROOKLYN CAMPUS",
+  "institution": "Long Island University -Brooklyn Campus",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 170,
   "cross": 192439,
-  "grad_rate": 20.4,
-  "grad_rate_rank": 1665,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 22404,
-  "avg_stu_loan_debt_rank": 1690,
-  "indicator_group": 1
+  "grad_rate": 22.0,
+  "grad_rate_rank": 1688,
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 24658,
+  "avg_stu_loan_debt_rank": 1697,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11201",
+  "email": true
 }

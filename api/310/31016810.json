@@ -1,6 +1,6 @@
 {
   "facility_code": "31016810",
-  "institution": "PALM BEACH ATLANTIC UNIVERSITY",
+  "institution": "Palm Beach Atlantic University",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 96,
   "cross": 136330,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 609,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 17333,
-  "avg_stu_loan_debt_rank": 994,
-  "indicator_group": 1
+  "grad_rate": 51.2,
+  "grad_rate_rank": 859,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33416",
+  "email": true
 }

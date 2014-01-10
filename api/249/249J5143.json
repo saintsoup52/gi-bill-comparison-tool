@@ -1,6 +1,6 @@
 {
   "facility_code": "249J5143",
-  "institution": "FRANKLIN COLLEGE ZARAGOSA",
+  "institution": "Franklin College Zaragosa",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 225788,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 24.6,
-  "avg_stu_loan_debt": 6080,
-  "avg_stu_loan_debt_rank": 238,
-  "indicator_group": 3
+  "grad_rate": 74.0,
+  "grad_rate_rank": 131,
+  "default_rate": 32.3,
+  "avg_stu_loan_debt": 6000,
+  "avg_stu_loan_debt_rank": 150,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "79907",
+  "email": false
 }

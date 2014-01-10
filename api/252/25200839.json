@@ -1,6 +1,6 @@
 {
   "facility_code": "25200839",
-  "institution": "TONI & GUY HAIRDRESSING ACADEMY",
+  "institution": "Toni & Guy Hairdressing Academy",
   "city": "Cranston",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 455965,
-  "grad_rate": 87.0,
-  "grad_rate_rank": 356,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 11262,
-  "avg_stu_loan_debt_rank": 2247,
-  "indicator_group": 5
+  "grad_rate": 86.1,
+  "grad_rate_rank": 405,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 12025,
+  "avg_stu_loan_debt_rank": 1778,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2920",
+  "email": true
 }

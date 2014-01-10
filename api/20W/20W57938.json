@@ -1,6 +1,6 @@
 {
   "facility_code": "20W57938",
-  "institution": "DEER LAKES PLUMBING & HEATING INC",
+  "institution": "Deer Lakes Plumbing & Heating Inc",
   "city": "Gibsonia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15044",
+  "email": false
 }

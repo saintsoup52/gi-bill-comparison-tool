@@ -1,6 +1,6 @@
 {
   "facility_code": "14970405",
-  "institution": "GROSSMONT COLLEGE",
+  "institution": "Grossmont College",
   "city": "El Cajon",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1162,
   "cross": 115296,
-  "grad_rate": 26.6,
-  "grad_rate_rank": 637,
-  "default_rate": 19.8,
+  "grad_rate": 23.1,
+  "grad_rate_rank": 842,
+  "default_rate": 20.7,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92020",
+  "email": true
 }

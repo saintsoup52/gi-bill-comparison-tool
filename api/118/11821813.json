@@ -1,6 +1,6 @@
 {
   "facility_code": "11821813",
-  "institution": "SIU/EDWARDSVILLE SCHOOL OF DENTAL MEDICINE",
+  "institution": "Siu/Edwardsville School Of Dental Medicine",
   "city": "Alton",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 149231,
-  "grad_rate": 51.9,
-  "grad_rate_rank": 814,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 884,
-  "indicator_group": 1
+  "grad_rate": 51.8,
+  "grad_rate_rank": 832,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 16584,
+  "avg_stu_loan_debt_rank": 758,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62002",
+  "email": true
 }

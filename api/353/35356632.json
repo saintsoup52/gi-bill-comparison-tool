@@ -1,6 +1,6 @@
 {
   "facility_code": "35356632",
-  "institution": "AMERICAN MUSICAL AND DRAMATIC ACADEMY",
+  "institution": "American Musical And Dramatic Academy",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 188854,
-  "grad_rate": 77.3,
-  "grad_rate_rank": 42,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 25160,
-  "avg_stu_loan_debt_rank": 835,
-  "indicator_group": 3
+  "grad_rate": 75.7,
+  "grad_rate_rank": 110,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 30500,
+  "avg_stu_loan_debt_rank": 727,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "10023",
+  "email": true
 }

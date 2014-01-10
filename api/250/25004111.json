@@ -1,6 +1,6 @@
 {
   "facility_code": "25004111",
-  "institution": "GEORGIA BEAUTY ACADEMY",
+  "institution": "Georgia Beauty Academy",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 456092,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 58.0,
+  "grad_rate_rank": 1708,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 9499,
+  "avg_stu_loan_debt_rank": 1069,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30721",
+  "email": true
 }

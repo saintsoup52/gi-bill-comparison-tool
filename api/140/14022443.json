@@ -1,6 +1,6 @@
 {
   "facility_code": "14022443",
-  "institution": "PALO ALTO COLLEGE",
+  "institution": "Palo Alto College",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 782,
   "cross": 246354,
-  "grad_rate": 8.1,
-  "grad_rate_rank": 1245,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 5906,
-  "avg_stu_loan_debt_rank": 436,
-  "indicator_group": 2
+  "grad_rate": 8.8,
+  "grad_rate_rank": 1322,
+  "default_rate": 18.3,
+  "avg_stu_loan_debt": 6187,
+  "avg_stu_loan_debt_rank": 350,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "78224",
+  "email": false
 }

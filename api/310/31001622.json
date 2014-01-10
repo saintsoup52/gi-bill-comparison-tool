@@ -1,6 +1,6 @@
 {
   "facility_code": "31001622",
-  "institution": "FINLANDIA UNIVERSITY",
+  "institution": "Finlandia University",
   "city": "Hancock",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 172440,
-  "grad_rate": 34.9,
-  "grad_rate_rank": 1369,
-  "default_rate": 12.3,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 35.2,
+  "grad_rate_rank": 1383,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 18800,
+  "avg_stu_loan_debt_rank": 1036,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49930",
+  "email": true
 }

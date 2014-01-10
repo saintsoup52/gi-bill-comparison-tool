@@ -1,6 +1,6 @@
 {
   "facility_code": "39010314",
-  "institution": "INDIANAPOLIS SENIOR CITIZENS CENTER INC.",
+  "institution": "Indianapolis Senior Citizens Center Inc.",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46202",
+  "email": false
 }

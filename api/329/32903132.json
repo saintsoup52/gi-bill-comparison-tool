@@ -1,6 +1,6 @@
 {
   "facility_code": "32903132",
-  "institution": "SAMARITAN HOSPITAL SCHOOL OF NURSING",
+  "institution": "Samaritan Hospital School Of Nursing",
   "city": "Troy",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 195289,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 858,
-  "default_rate": 10.4,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 8.1,
   "avg_stu_loan_debt": 14250,
-  "avg_stu_loan_debt_rank": 1098,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 956,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "12180",
+  "email": true
 }

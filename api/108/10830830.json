@@ -1,6 +1,6 @@
 {
   "facility_code": "10830830",
-  "institution": "NEW JERSEY STATE PARK POLICE DEPARTMENT DELAWARE & RARITAN CANAL STATE PARK",
+  "institution": "New Jersey State Park Police Department Delaware & Raritan Canal State Park",
   "city": "Princeton",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8540",
+  "email": false
 }

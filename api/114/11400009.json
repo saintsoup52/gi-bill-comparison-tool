@@ -1,6 +1,6 @@
 {
   "facility_code": "11400009",
-  "institution": "UNIVERSITY OF THE DISTRICT OF COLUMBIA",
+  "institution": "University Of The District Of Columbia",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 173,
   "cross": 131399,
-  "grad_rate": 8.0,
-  "grad_rate_rank": 1802,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 8525,
-  "avg_stu_loan_debt_rank": 178,
-  "indicator_group": 1
+  "grad_rate": 15.8,
+  "grad_rate_rank": 1769,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20008",
+  "email": false
 }

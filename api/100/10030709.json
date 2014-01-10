@@ -1,6 +1,6 @@
 {
   "facility_code": "10030709",
-  "institution": "METROPOLITAN WASHINGTON AIRPORTS AUTH POLICE",
+  "institution": "Metropolitan Washington Airports Auth Police",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20001",
+  "email": true
 }

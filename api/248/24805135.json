@@ -1,6 +1,6 @@
 {
   "facility_code": "24805135",
-  "institution": "BROWN MACKIE COLLEGE-FINDLAY",
+  "institution": "Brown Mackie College-Findlay",
   "city": "Findlay",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 22,
   "cross": 375489,
-  "grad_rate": 28.4,
-  "grad_rate_rank": 584,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 1019,
-  "indicator_group": 2
+  "grad_rate": 28.3,
+  "grad_rate_rank": 677,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45840",
+  "email": true
 }

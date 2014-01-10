@@ -1,6 +1,6 @@
 {
   "facility_code": "10011442",
-  "institution": "DEFENSE CONTRACT AUDIT AGENCY",
+  "institution": "Defense Contract Audit Agency",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37217",
+  "email": false
 }

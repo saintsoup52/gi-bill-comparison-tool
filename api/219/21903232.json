@@ -1,6 +1,6 @@
 {
   "facility_code": "21903232",
-  "institution": "BERKELEY COLLEGE - BROOKLYN CAMPUS",
+  "institution": "Berkeley College - Brooklyn Campus",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 189228,
-  "grad_rate": 30.4,
-  "grad_rate_rank": 1491,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 13164,
-  "avg_stu_loan_debt_rank": 569,
-  "indicator_group": 1
+  "grad_rate": 35.0,
+  "grad_rate_rank": 1387,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 16932,
+  "avg_stu_loan_debt_rank": 795,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11201",
+  "email": false
 }

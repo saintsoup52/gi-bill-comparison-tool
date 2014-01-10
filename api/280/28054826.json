@@ -1,6 +1,6 @@
 {
   "facility_code": "28054826",
-  "institution": "CREVIER'S ACADEMY OF COSMETOLOGY ARTS",
+  "institution": "Crevier'S Academy Of Cosmetology Arts",
   "city": "Kalispell",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 180090,
-  "grad_rate": 86.3,
-  "grad_rate_rank": 386,
-  "default_rate": null,
-  "avg_stu_loan_debt": 6041,
-  "avg_stu_loan_debt_rank": 967,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 5467,
+  "avg_stu_loan_debt_rank": 304,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "59901",
+  "email": true
 }

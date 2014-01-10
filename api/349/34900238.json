@@ -1,6 +1,6 @@
 {
   "facility_code": "34900238",
-  "institution": "HARCUM COLLEGE",
+  "institution": "Harcum College",
   "city": "Bryn Mawr",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 212869,
-  "grad_rate": 36.6,
-  "grad_rate_rank": 398,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 1005,
-  "indicator_group": 2
+  "grad_rate": 32.7,
+  "grad_rate_rank": 557,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 947,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19010",
+  "email": false
 }

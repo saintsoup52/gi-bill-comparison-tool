@@ -1,6 +1,6 @@
 {
   "facility_code": "25552817",
-  "institution": "PJ'S COLLEGE OF COSMETOLOGY - CRESTWOOD",
+  "institution": "Pj'S College Of Cosmetology - Crestwood",
   "city": "Crestwood",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40014",
+  "email": true
 }

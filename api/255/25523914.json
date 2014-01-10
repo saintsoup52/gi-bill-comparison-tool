@@ -1,6 +1,6 @@
 {
   "facility_code": "25523914",
-  "institution": "DON ROBERTS BEAUTY SCHOOLS INC.",
+  "institution": "Don Roberts Beauty Schools Inc.",
   "city": "Valparaiso",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 150437,
-  "grad_rate": 62.2,
-  "grad_rate_rank": 1509,
+  "grad_rate": 57.9,
+  "grad_rate_rank": 1714,
   "default_rate": 10.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 4425,
+  "avg_stu_loan_debt_rank": 173,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46385",
+  "email": false
 }

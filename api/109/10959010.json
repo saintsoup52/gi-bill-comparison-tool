@@ -1,6 +1,6 @@
 {
   "facility_code": "10959010",
-  "institution": "6TH CONTRACTING SQUARDON",
+  "institution": "6th Contracting Squardon",
   "city": "Macdill Afb",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33608",
+  "email": "No (SCO)"
 }

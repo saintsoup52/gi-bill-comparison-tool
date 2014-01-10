@@ -1,6 +1,6 @@
 {
   "facility_code": "31957125",
-  "institution": "WILLIAM WOODS UNIVERSITY",
+  "institution": "William Woods University",
   "city": "Fulton",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 56,
   "cross": 179964,
-  "grad_rate": 50.4,
-  "grad_rate_rank": 866,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 14948,
-  "avg_stu_loan_debt_rank": 720,
-  "indicator_group": 1
+  "grad_rate": 48.7,
+  "grad_rate_rank": 941,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65251",
+  "email": false
 }

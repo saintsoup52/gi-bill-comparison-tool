@@ -1,6 +1,6 @@
 {
   "facility_code": "20C06922",
-  "institution": "DETROIT PIPEFITTING LOCAL 636 JAC",
+  "institution": "Detroit Pipefitting Local 636 Jac",
   "city": "Troy",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48083",
+  "email": true
 }

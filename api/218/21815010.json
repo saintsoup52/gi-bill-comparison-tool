@@ -1,6 +1,6 @@
 {
   "facility_code": "21815010",
-  "institution": "EVEREST UNIVERSITY-TAMPA - W HILLSBOROUGH AV",
+  "institution": "Everest University-Tampa - W Hillsborough Av",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 95,
   "cross": 137801,
-  "grad_rate": 19.9,
-  "grad_rate_rank": 442,
-  "default_rate": 28.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 33.9,
+  "grad_rate_rank": 509,
+  "default_rate": 23.2,
+  "avg_stu_loan_debt": 11570,
+  "avg_stu_loan_debt_rank": 577,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33614",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20143848",
-  "institution": "CHARLESTON JATC PLUMBERS AND PIPEFITTERS LOCAL 625",
+  "institution": "Charleston Jatc Plumbers And Pipefitters Local 625",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25312",
+  "email": true
 }

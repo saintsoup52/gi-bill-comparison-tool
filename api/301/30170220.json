@@ -1,6 +1,6 @@
 {
   "facility_code": "30170220",
-  "institution": "WASHINGTON DC JOINT PLUMBING APPRENTICESHIP COMMITTEE",
+  "institution": "Washington Dc Joint Plumbing Apprenticeship Committee",
   "city": "Landover",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20785",
+  "email": true
 }

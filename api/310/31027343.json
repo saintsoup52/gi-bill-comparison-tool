@@ -1,6 +1,6 @@
 {
   "facility_code": "31027343",
-  "institution": "AUSTIN GRADUATE SCHOOL OF THEOLOGY",
+  "institution": "Austin Graduate School Of Theology",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 247825,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 16087,
-  "avg_stu_loan_debt_rank": 851,
-  "indicator_group": 1
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 22750,
+  "avg_stu_loan_debt_rank": 1492,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "78752",
+  "email": false
 }

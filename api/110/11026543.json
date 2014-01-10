@@ -1,6 +1,6 @@
 {
   "facility_code": "11026543",
-  "institution": "UT SW MEDICAL CENTER GRAD SCH OF BIOMEDICAL SCIENCE",
+  "institution": "Ut Sw Medical Center Grad Sch Of Biomedical Science",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 228635,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.9,
-  "avg_stu_loan_debt": 14500,
-  "avg_stu_loan_debt_rank": 678,
-  "indicator_group": 1
+  "default_rate": 1.1,
+  "avg_stu_loan_debt": 12709,
+  "avg_stu_loan_debt_rank": 343,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75390",
+  "email": false
 }

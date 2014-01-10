@@ -1,6 +1,6 @@
 {
   "facility_code": "10961911",
-  "institution": "LUMBER CITY POLICE DEPT",
+  "institution": "Lumber City Police Dept",
   "city": "Lumber City",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31549",
+  "email": false
 }

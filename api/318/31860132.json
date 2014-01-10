@@ -1,6 +1,6 @@
 {
   "facility_code": "31860132",
-  "institution": "NEW YORK UNIVERSITY COLLEGE OF DENTISTRY",
+  "institution": "New York University College Of Dentistry",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 10,
   "cross": 193900,
-  "grad_rate": 86.4,
-  "grad_rate_rank": 88,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 29260,
-  "avg_stu_loan_debt_rank": 2036,
-  "indicator_group": 1
+  "grad_rate": 85.3,
+  "grad_rate_rank": 98,
+  "default_rate": 3.6,
+  "avg_stu_loan_debt": 32090,
+  "avg_stu_loan_debt_rank": 1974,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10276",
+  "email": true
 }

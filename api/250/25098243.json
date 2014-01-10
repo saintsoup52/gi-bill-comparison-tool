@@ -1,6 +1,6 @@
 {
   "facility_code": "25098243",
-  "institution": "TEXAS COLLEGE OF COSMETOLOGY INC ABILENE",
+  "institution": "Texas College Of Cosmetology Inc Abilene",
   "city": "Abilene",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 377315,
-  "grad_rate": 75.9,
-  "grad_rate_rank": 870,
-  "default_rate": 17.3,
-  "avg_stu_loan_debt": 3332,
-  "avg_stu_loan_debt_rank": 576,
-  "indicator_group": 5
+  "grad_rate": 74.7,
+  "grad_rate_rank": 943,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 147,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "79605",
+  "email": false
 }

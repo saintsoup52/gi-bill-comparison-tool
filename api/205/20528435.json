@@ -1,6 +1,6 @@
 {
   "facility_code": "20528435",
-  "institution": "DELUXE GRAPHIC ARTS SUPPLY  K",
+  "institution": "Deluxe Graphic Arts Supply  K",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43212",
+  "email": "No (SCO)"
 }

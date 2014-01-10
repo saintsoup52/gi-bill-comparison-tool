@@ -1,6 +1,6 @@
 {
   "facility_code": "31002114",
-  "institution": "BETHEL COLLEGE",
+  "institution": "Bethel College",
   "city": "Mishawaka",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 150145,
-  "grad_rate": 49.4,
-  "grad_rate_rank": 913,
+  "grad_rate": 61.5,
+  "grad_rate_rank": 529,
   "default_rate": 9.4,
-  "avg_stu_loan_debt": 16942,
-  "avg_stu_loan_debt_rank": 944,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46545",
+  "email": true
 }

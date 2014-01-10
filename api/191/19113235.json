@@ -1,6 +1,6 @@
 {
   "facility_code": "19113235",
-  "institution": "US DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (31)",
+  "institution": "Us Department Of Housing And Urban Development (31)",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43215",
+  "email": "No (SCO)"
 }

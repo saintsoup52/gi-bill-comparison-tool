@@ -1,6 +1,6 @@
 {
   "facility_code": "28051639",
-  "institution": "EMPIRE BEAUTY SCHOOL PROVIDENCE RI",
+  "institution": "Empire Beauty School Providence Ri",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 217095,
-  "grad_rate": 55.6,
-  "grad_rate_rank": 1758,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2903",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14810518",
-  "institution": "CENTRAL LOUISIANA TECH COLLEGE - OAKDALE",
+  "institution": "Central Louisiana Tech College - Oakdale",
   "city": "Oakdale",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 158088,
-  "grad_rate": 67.2,
-  "grad_rate_rank": 85,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 78.4,
+  "grad_rate_rank": 81,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "71463",
+  "email": false
 }

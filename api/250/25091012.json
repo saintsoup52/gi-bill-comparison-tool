@@ -1,6 +1,6 @@
 {
   "facility_code": "25091012",
-  "institution": "ACADEMY OF EQUINE DENTISTRY (CH 31)",
+  "institution": "Academy Of Equine Dentistry (Ch 31)",
   "city": "Glenns Ferry",
   "state": "ID",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "83623",
+  "email": false
 }

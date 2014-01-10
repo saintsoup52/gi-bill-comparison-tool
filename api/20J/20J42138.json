@@ -1,6 +1,6 @@
 {
   "facility_code": "20J42138",
-  "institution": "UNITED UNION OF ROOFERS WATERPROOF & ALL WORK L30",
+  "institution": "United Union Of Roofers Waterproof & All Work L30",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19137",
+  "email": true
 }

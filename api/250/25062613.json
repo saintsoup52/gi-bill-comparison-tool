@@ -1,6 +1,6 @@
 {
   "facility_code": "25062613",
-  "institution": "ULTIMATE TOUCH BARBER COLLEGE",
+  "institution": "Ultimate Touch Barber College",
   "city": "Richton Park",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60471",
+  "email": true
 }

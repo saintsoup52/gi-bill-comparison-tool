@@ -1,6 +1,6 @@
 {
   "facility_code": "10286735",
-  "institution": "NEW RICHMOND POLICE DEPARTMENT  G",
+  "institution": "New Richmond Police Department  G",
   "city": "New Richmond",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45157",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11804322",
-  "institution": "UNIVERSITY OF MICHIGAN FLINT",
+  "institution": "University Of Michigan Flint",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 254,
   "cross": 171146,
-  "grad_rate": 37.3,
-  "grad_rate_rank": 1316,
-  "default_rate": 7.7,
-  "avg_stu_loan_debt": 19259,
-  "avg_stu_loan_debt_rank": 1286,
-  "indicator_group": 1
+  "grad_rate": 37.5,
+  "grad_rate_rank": 1319,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 19417,
+  "avg_stu_loan_debt_rank": 1112,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48502",
+  "email": true
 }

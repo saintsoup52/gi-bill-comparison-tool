@@ -1,6 +1,6 @@
 {
   "facility_code": "14902424",
-  "institution": "COAHOMA COMMUNITY COLLEGE",
+  "institution": "Coahoma Community College",
   "city": "Clarksdale",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 73,
   "cross": 175519,
-  "grad_rate": 28.0,
-  "grad_rate_rank": 599,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 2062,
-  "avg_stu_loan_debt_rank": 106,
-  "indicator_group": 2
+  "grad_rate": 26.7,
+  "grad_rate_rank": 733,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 1500,
+  "avg_stu_loan_debt_rank": 2,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "38614",
+  "email": true
 }

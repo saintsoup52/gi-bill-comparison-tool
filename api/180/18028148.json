@@ -1,6 +1,6 @@
 {
   "facility_code": "18028148",
-  "institution": "ACADEMY OF CAREERS AND TECHNOLOGY",
+  "institution": "Academy Of Careers And Technology",
   "city": "Beckley",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 237729,
-  "grad_rate": 85.5,
-  "grad_rate_rank": 418,
+  "grad_rate": 64.9,
+  "grad_rate_rank": 1433,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25801",
+  "email": true
 }

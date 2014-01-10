@@ -1,6 +1,6 @@
 {
   "facility_code": "14955413",
-  "institution": "JOHN WOOD COMMUNITY COLLEGE",
+  "institution": "John Wood Community College",
   "city": "Quincy",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 121,
   "cross": 146278,
-  "grad_rate": 33.8,
-  "grad_rate_rank": 443,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 5019,
-  "avg_stu_loan_debt_rank": 276,
-  "indicator_group": 2
+  "grad_rate": 30.9,
+  "grad_rate_rank": 613,
+  "default_rate": 17.2,
+  "avg_stu_loan_debt": 5403,
+  "avg_stu_loan_debt_rank": 212,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "62305",
+  "email": true
 }

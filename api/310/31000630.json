@@ -1,6 +1,6 @@
 {
   "facility_code": "31000630",
-  "institution": "PRINCETON THEOLOGICAL SEMINARY",
+  "institution": "Princeton Theological Seminary",
   "city": "Princeton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 186122,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 1.9,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "8542",
+  "email": true
 }

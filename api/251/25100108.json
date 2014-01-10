@@ -1,6 +1,6 @@
 {
   "facility_code": "25100108",
-  "institution": "BARON & BUTLER SCHOOL OF MASSAGE",
+  "institution": "Baron & Butler School Of Massage",
   "city": "Rehoboth Beach",
   "state": "DE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19971",
+  "email": true
 }

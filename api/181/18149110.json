@@ -1,6 +1,6 @@
 {
   "facility_code": "18149110",
-  "institution": "CHARLOTTE TECHNICAL CENTER",
+  "institution": "Charlotte Technical Center",
   "city": "Port Charlotte",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 132976,
-  "grad_rate": 55.1,
-  "grad_rate_rank": 1777,
+  "grad_rate": 70.2,
+  "grad_rate_rank": 1171,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33948",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35000818",
-  "institution": "LOUISIANA MISSIONARY BAPTIST INST & SEMINARY",
+  "institution": "Louisiana Missionary Baptist Inst & Seminary",
   "city": "Minden",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71055",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002011",
-  "institution": "PAINE COLLEGE",
+  "institution": "Paine College",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 67,
   "cross": 140720,
-  "grad_rate": 27.4,
-  "grad_rate_rank": 1544,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 17625,
-  "avg_stu_loan_debt_rank": 1041,
-  "indicator_group": 1
+  "grad_rate": 22.2,
+  "grad_rate_rank": 1681,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30901",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11901123",
-  "institution": "MINNESOTA STATE UNIV      MOORHEAD",
+  "institution": "Minnesota State Univ      Moorhead",
   "city": "Moorhead",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 224,
   "cross": 174358,
-  "grad_rate": 44.7,
-  "grad_rate_rank": 1065,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 15250,
-  "avg_stu_loan_debt_rank": 754,
-  "indicator_group": 1
+  "grad_rate": 45.7,
+  "grad_rate_rank": 1042,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 16741,
+  "avg_stu_loan_debt_rank": 774,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56563",
+  "email": false
 }

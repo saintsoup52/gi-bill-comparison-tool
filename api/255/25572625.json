@@ -1,6 +1,6 @@
 {
   "facility_code": "25572625",
-  "institution": "NEW DIMENSIONS SCHOOL OF HAIR DESIGN",
+  "institution": "New Dimensions School Of Hair Design",
   "city": "Joplin",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 419280,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 624,
-  "default_rate": 23.5,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 80.0,
+  "grad_rate_rank": 635,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 8500,
+  "avg_stu_loan_debt_rank": 898,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64801",
+  "email": false
 }

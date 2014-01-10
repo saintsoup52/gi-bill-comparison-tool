@@ -1,6 +1,6 @@
 {
   "facility_code": "31517235",
-  "institution": "MOUNT CARMEL COLLEGE OF NURSING",
+  "institution": "Mount Carmel College Of Nursing",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 204176,
-  "grad_rate": 65.5,
-  "grad_rate_rank": 419,
-  "default_rate": 4.0,
+  "grad_rate": 72.2,
+  "grad_rate_rank": 281,
+  "default_rate": 3.3,
   "avg_stu_loan_debt": 24375,
-  "avg_stu_loan_debt_rank": 1885,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1678,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43222",
+  "email": false
 }

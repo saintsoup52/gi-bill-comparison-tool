@@ -1,6 +1,6 @@
 {
   "facility_code": "31944138",
-  "institution": "MUHLENBERG COLLEGE",
+  "institution": "Muhlenberg College",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 214175,
-  "grad_rate": 85.6,
-  "grad_rate_rank": 92,
-  "default_rate": 1.1,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "grad_rate": 87.0,
+  "grad_rate_rank": 83,
+  "default_rate": 1.7,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18104",
+  "email": true
 }

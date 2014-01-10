@@ -1,6 +1,6 @@
 {
   "facility_code": "25033606",
-  "institution": "EMPIRE BEAUTY SCHOOL - THORNTON",
+  "institution": "Empire Beauty School - Thornton",
   "city": "Thornton",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 128337,
-  "grad_rate": 41.7,
-  "grad_rate_rank": 2054,
-  "default_rate": 11.4,
-  "avg_stu_loan_debt": 13644,
-  "avg_stu_loan_debt_rank": 2427,
-  "indicator_group": 5
+  "grad_rate": 52.4,
+  "grad_rate_rank": 1884,
+  "default_rate": 20.2,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80233",
+  "email": true
 }

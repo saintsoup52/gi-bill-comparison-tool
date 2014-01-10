@@ -1,6 +1,6 @@
 {
   "facility_code": "24019406",
-  "institution": "ACADEMY OF NATURAL THERAPY",
+  "institution": "Academy Of Natural Therapy",
   "city": "Greeley",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 449454,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 10667,
-  "avg_stu_loan_debt_rank": 669,
-  "indicator_group": 3
+  "grad_rate": 67.7,
+  "grad_rate_rank": 199,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 10666,
+  "avg_stu_loan_debt_rank": 552,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80631",
+  "email": true
 }

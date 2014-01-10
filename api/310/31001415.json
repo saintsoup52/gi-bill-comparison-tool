@@ -1,6 +1,6 @@
 {
   "facility_code": "31001415",
-  "institution": "MORNINGSIDE COLLEGE",
+  "institution": "Morningside College",
   "city": "Sioux City",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 154004,
-  "grad_rate": 57.3,
-  "grad_rate_rank": 642,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 20500,
-  "avg_stu_loan_debt_rank": 1475,
-  "indicator_group": 1
+  "grad_rate": 58.7,
+  "grad_rate_rank": 605,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 19152,
+  "avg_stu_loan_debt_rank": 1097,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "51106",
+  "email": true
 }

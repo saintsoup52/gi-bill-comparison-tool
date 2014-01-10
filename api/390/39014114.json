@@ -1,6 +1,6 @@
 {
   "facility_code": "39014114",
-  "institution": "AAAYC AT I.U. NORTHWEST",
+  "institution": "Aaayc At I.U. Northwest",
   "city": "Gary",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46408",
+  "email": false
 }

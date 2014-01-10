@@ -1,6 +1,6 @@
 {
   "facility_code": "10659940",
-  "institution": "SURFSIDE BEACH POLICE DEPARTMENT",
+  "institution": "Surfside Beach Police Department",
   "city": "Surfside Beach",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29575",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10823521",
-  "institution": "CHELMSFORD FIRE DEPARTMENT",
+  "institution": "Chelmsford Fire Department",
   "city": "Chelmsford",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1824",
+  "email": true
 }

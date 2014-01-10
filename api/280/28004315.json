@@ -1,6 +1,6 @@
 {
   "facility_code": "28004315",
-  "institution": "LA JAMES COLLEGE OF HAIRSTYLING  MASON CITY",
+  "institution": "La James College Of Hairstyling  Mason City",
   "city": "Mason City",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 153773,
-  "grad_rate": 82.5,
-  "grad_rate_rank": 522,
-  "default_rate": 17.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 87.8,
+  "grad_rate_rank": 340,
+  "default_rate": 21.1,
+  "avg_stu_loan_debt": 10666,
+  "avg_stu_loan_debt_rank": 1581,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50401",
+  "email": false
 }

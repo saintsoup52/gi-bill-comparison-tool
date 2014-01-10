@@ -1,6 +1,6 @@
 {
   "facility_code": "30591913",
-  "institution": "JOINT ELEC APPR & TRNG COMM PEORIA & VICINITY #34",
+  "institution": "Joint Elec Appr & Trng Comm Peoria & Vicinity #34",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61603",
+  "email": false
 }

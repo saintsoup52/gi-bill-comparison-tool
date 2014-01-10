@@ -1,6 +1,6 @@
 {
   "facility_code": "25059613",
-  "institution": "ESTELLE SKIN CARE & SPA INSTITUTE",
+  "institution": "Estelle Skin Care & Spa Institute",
   "city": "Skokie",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461582,
-  "grad_rate": 96.6,
-  "grad_rate_rank": 105,
-  "default_rate": null,
-  "avg_stu_loan_debt": 3945,
-  "avg_stu_loan_debt_rank": 672,
-  "indicator_group": 5
+  "grad_rate": 87.5,
+  "grad_rate_rank": 344,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 4535,
+  "avg_stu_loan_debt_rank": 181,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60077",
+  "email": false
 }

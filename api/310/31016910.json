@@ -1,6 +1,6 @@
 {
   "facility_code": "31016910",
-  "institution": "WARNER UNIVERSITY",
+  "institution": "Warner University",
   "city": "Lake Wales",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 138275,
-  "grad_rate": 40.2,
-  "grad_rate_rank": 1222,
-  "default_rate": 15.1,
-  "avg_stu_loan_debt": 17375,
-  "avg_stu_loan_debt_rank": 1001,
-  "indicator_group": 1
+  "grad_rate": 40.0,
+  "grad_rate_rank": 1248,
+  "default_rate": 16.2,
+  "avg_stu_loan_debt": 19125,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33859",
+  "email": true
 }

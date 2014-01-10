@@ -1,6 +1,6 @@
 {
   "facility_code": "20279504",
-  "institution": "JACKSON PLUMBING  (CH31 ONLY)",
+  "institution": "Jackson Plumbing  (Ch31 Only)",
   "city": "Hot Springs",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71913",
+  "email": "No (SCO)"
 }

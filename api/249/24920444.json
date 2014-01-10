@@ -1,6 +1,6 @@
 {
   "facility_code": "24920444",
-  "institution": "EAGLE GATE COLLEGE - MURRAY",
+  "institution": "Eagle Gate College - Murray",
   "city": "Murray",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 20,
   "cross": 230366,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 152,
-  "default_rate": 23.8,
-  "avg_stu_loan_debt": 12798,
-  "avg_stu_loan_debt_rank": 734,
-  "indicator_group": 3
+  "grad_rate": 51.4,
+  "grad_rate_rank": 384,
+  "default_rate": 32.1,
+  "avg_stu_loan_debt": 13033,
+  "avg_stu_loan_debt_rank": 625,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "84123",
+  "email": true
 }

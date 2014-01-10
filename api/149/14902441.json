@@ -1,6 +1,6 @@
 {
   "facility_code": "14902441",
-  "institution": "LAKE AREA TECHNICAL INSTITUTE",
+  "institution": "Lake Area Technical Institute",
   "city": "Watertown",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 107,
   "cross": 219143,
-  "grad_rate": 68.7,
-  "grad_rate_rank": 80,
-  "default_rate": 5.6,
+  "grad_rate": 67.7,
+  "grad_rate_rank": 107,
+  "default_rate": 8.6,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 967,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 846,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "57201",
+  "email": false
 }

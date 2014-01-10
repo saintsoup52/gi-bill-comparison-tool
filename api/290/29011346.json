@@ -1,6 +1,6 @@
 {
   "facility_code": "29011346",
-  "institution": "AMERICAN SCHOOL OF EQUINE DENTISTRY",
+  "institution": "American School Of Equine Dentistry",
   "city": "Purcellville",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20132",
+  "email": false
 }

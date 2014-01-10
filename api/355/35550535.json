@@ -1,6 +1,6 @@
 {
   "facility_code": "35550535",
-  "institution": "MARYMOUNT SCHOOL OF PRACTICAL NURSING",
+  "institution": "Marymount School Of Practical Nursing",
   "city": "Garfield Heights",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44125",
+  "email": false
 }

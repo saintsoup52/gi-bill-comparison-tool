@@ -1,6 +1,6 @@
 {
   "facility_code": "14913164",
-  "institution": "LEEWARD COMMUNITY COLLEGE",
+  "institution": "Leeward Community College",
   "city": "Pearl City",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 819,
   "cross": 141811,
-  "grad_rate": 14.0,
-  "grad_rate_rank": 1060,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 4000,
-  "avg_stu_loan_debt_rank": 182,
-  "indicator_group": 2
+  "grad_rate": 11.0,
+  "grad_rate_rank": 1258,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 4689,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "96782",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24059546",
-  "institution": "COURT REPORTING INSTITUTE OF ARLINGTON",
+  "institution": "Court Reporting Institute Of Arlington",
   "city": "Arlington",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "22203",
+  "email": true
 }

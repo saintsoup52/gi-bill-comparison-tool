@@ -1,6 +1,6 @@
 {
   "facility_code": "21829010",
-  "institution": "ITT TECHNICAL INSTITUTE -LAKE MARY",
+  "institution": "Itt Technical Institute -Lake Mary",
   "city": "Lake Mary",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 99,
   "cross": 372578,
-  "grad_rate": 27.4,
-  "grad_rate_rank": 614,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 42.6,
+  "grad_rate_rank": 375,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32746",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34004030",
-  "institution": "SOMERSET CHRISTIAN COLLEGE",
+  "institution": "Somerset Christian College",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 20,
   "cross": 440794,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 14250,
-  "avg_stu_loan_debt_rank": 655,
-  "indicator_group": 1
+  "grad_rate": 50.0,
+  "grad_rate_rank": 893,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 14396,
+  "avg_stu_loan_debt_rank": 476,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7102",
+  "email": true
 }

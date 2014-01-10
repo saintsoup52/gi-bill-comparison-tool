@@ -1,6 +1,6 @@
 {
   "facility_code": "25149205",
-  "institution": "NATIONAL HOLISTIC INSTITUTE",
+  "institution": "National Holistic Institute",
   "city": "Emeryville",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 119553,
-  "grad_rate": 77.2,
-  "grad_rate_rank": 808,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 9395,
+  "avg_stu_loan_debt_rank": 1047,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94608",
+  "email": true
 }

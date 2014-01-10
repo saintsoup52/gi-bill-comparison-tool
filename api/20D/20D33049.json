@@ -1,6 +1,6 @@
 {
   "facility_code": "20D33049",
-  "institution": "SPRING GREEN PET RESORT (CH31)",
+  "institution": "Spring Green Pet Resort (Ch31)",
   "city": "Spring Green",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53588",
+  "email": "No (SCO)"
 }

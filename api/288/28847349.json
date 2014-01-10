@@ -1,6 +1,6 @@
 {
   "facility_code": "28847349",
-  "institution": "GILL-TECH ACADEMY OF HAIR DESIGN",
+  "institution": "Gill-Tech Academy Of Hair Design",
   "city": "Appleton",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 238786,
-  "grad_rate": 82.6,
-  "grad_rate_rank": 516,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 9499,
-  "avg_stu_loan_debt_rank": 1661,
-  "indicator_group": 5
+  "grad_rate": 62.0,
+  "grad_rate_rank": 1553,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 8915,
+  "avg_stu_loan_debt_rank": 985,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "54914",
+  "email": false
 }

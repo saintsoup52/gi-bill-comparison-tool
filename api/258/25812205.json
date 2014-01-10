@@ -1,6 +1,6 @@
 {
   "facility_code": "25812205",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY (PARAMOUNT)",
+  "institution": "Marinello Schools Of Beauty (Paramount)",
   "city": "Paramount",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 121008,
-  "grad_rate": 44.6,
-  "grad_rate_rank": 2018,
+  "grad_rate": null,
+  "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90723",
+  "email": true
 }

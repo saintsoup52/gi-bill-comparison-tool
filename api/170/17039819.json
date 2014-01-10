@@ -1,6 +1,6 @@
 {
   "facility_code": "17039819",
-  "institution": "REGION 9 ADULT LEARNING CENTER",
+  "institution": "Region 9 Adult Learning Center",
   "city": "Mexico",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4257",
+  "email": false
 }

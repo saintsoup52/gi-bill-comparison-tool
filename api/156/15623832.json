@@ -1,6 +1,6 @@
 {
   "facility_code": "15623832",
-  "institution": "PORTVILLE JUNIOR-SENIOR HIGH SCHOOL",
+  "institution": "Portville Junior-Senior High School",
   "city": "Portville",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14770",
+  "email": false
 }

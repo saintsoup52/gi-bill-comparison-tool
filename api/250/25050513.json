@@ -1,6 +1,6 @@
 {
   "facility_code": "25050513",
-  "institution": "UNION SPECIAL CORP.",
+  "institution": "Union Special Corp.",
   "city": "Huntley",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60142",
+  "email": false
 }

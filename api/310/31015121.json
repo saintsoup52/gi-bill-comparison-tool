@@ -1,6 +1,6 @@
 {
   "facility_code": "31015121",
-  "institution": "MASSACHUSETTS SCHOOL OF PROFESSIONAL PSYCHOLOGY",
+  "institution": "Massachusetts School Of Professional Psychology",
   "city": "Newton",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 166717,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 1.2,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "2459",
+  "email": true
 }

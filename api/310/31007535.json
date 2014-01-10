@@ -1,6 +1,6 @@
 {
   "facility_code": "31007535",
-  "institution": "WILMINGTON COLLEGE",
+  "institution": "Wilmington College",
   "city": "Wilmington",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 206507,
-  "grad_rate": 51.1,
-  "grad_rate_rank": 838,
-  "default_rate": 9.9,
-  "avg_stu_loan_debt": 20125,
-  "avg_stu_loan_debt_rank": 1442,
-  "indicator_group": 1
+  "grad_rate": 41.1,
+  "grad_rate_rank": 1209,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 20994,
+  "avg_stu_loan_debt_rank": 1302,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45177",
+  "email": false
 }

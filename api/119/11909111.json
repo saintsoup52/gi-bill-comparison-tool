@@ -1,6 +1,6 @@
 {
   "facility_code": "11909111",
-  "institution": "GEORGIA STATE UNIVERSITY",
+  "institution": "Georgia State University",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 979,
   "cross": 139940,
-  "grad_rate": 47.3,
-  "grad_rate_rank": 979,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 18267,
-  "avg_stu_loan_debt_rank": 1117,
-  "indicator_group": 1
+  "grad_rate": 50.8,
+  "grad_rate_rank": 870,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30302",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20708413",
-  "institution": "SAINT FRANCIS MEDICAL CENTER -EMS/TRAUMA CENTER",
+  "institution": "Saint Francis Medical Center -Ems/Trauma Center",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61637",
+  "email": false
 }

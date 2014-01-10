@@ -1,6 +1,6 @@
 {
   "facility_code": "11000643",
-  "institution": "UNIVERSITY OF TEXAS AT ARLINGTON",
+  "institution": "University Of Texas At Arlington",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1590,
   "cross": 228769,
-  "grad_rate": 40.3,
-  "grad_rate_rank": 1218,
-  "default_rate": 9.5,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 490,
-  "indicator_group": 1
+  "grad_rate": 40.1,
+  "grad_rate_rank": 1246,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76019",
+  "email": false
 }

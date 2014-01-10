@@ -1,6 +1,6 @@
 {
   "facility_code": "11510117",
-  "institution": "MURRAY STATE UNIVERSITY",
+  "institution": "Murray State University",
   "city": "Murray",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 417,
   "cross": 157401,
-  "grad_rate": 52.4,
-  "grad_rate_rank": 797,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 15250,
-  "avg_stu_loan_debt_rank": 754,
-  "indicator_group": 1
+  "grad_rate": 54.1,
+  "grad_rate_rank": 773,
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 14808,
+  "avg_stu_loan_debt_rank": 517,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "42071",
+  "email": true
 }

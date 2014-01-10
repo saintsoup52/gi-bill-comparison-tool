@@ -1,6 +1,6 @@
 {
   "facility_code": "15510835",
-  "institution": "APOLLO CAREER CENTER",
+  "institution": "Apollo Career Center",
   "city": "Lima",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 201034,
-  "grad_rate": 72.1,
-  "grad_rate_rank": 1075,
+  "grad_rate": 68.9,
+  "grad_rate_rank": 1236,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 4800,
+  "avg_stu_loan_debt_rank": 225,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45806",
+  "email": true
 }

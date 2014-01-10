@@ -1,6 +1,6 @@
 {
   "facility_code": "20274837",
-  "institution": "RANDY POTTER SCHOOL OF PIANO TECHNOLOGY INC",
+  "institution": "Randy Potter School Of Piano Technology Inc",
   "city": "Bend",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97702",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "29000944",
-  "institution": "ACADEMIC ADVANTAGE LEARNING CENTER (CH 31)",
+  "institution": "Academic Advantage Learning Center (Ch 31)",
   "city": "Murray",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84107",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14958423",
-  "institution": "RIVERLAND COMMUNITY COLLEGE",
+  "institution": "Riverland Community College",
   "city": "Austin",
   "state": "MN",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 120,
   "cross": 173063,
   "grad_rate": 31.7,
-  "grad_rate_rank": 488,
-  "default_rate": 14.6,
+  "grad_rate_rank": 526,
+  "default_rate": 19.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "55912",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25250410",
-  "institution": "AEROSIM ACADEMY INC.",
+  "institution": "Aerosim Academy Inc.",
   "city": "Sanford",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 429012,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 8708,
-  "avg_stu_loan_debt_rank": 1517,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 45067,
+  "avg_stu_loan_debt_rank": 2022,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32773",
+  "email": true
 }

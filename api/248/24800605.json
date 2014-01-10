@@ -1,6 +1,6 @@
 {
   "facility_code": "24800605",
-  "institution": "SAN JOAQUIN VALLEY COLLEGE (BAKERSFIELD)",
+  "institution": "San Joaquin Valley College (Bakersfield)",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 56,
   "cross": 122694,
-  "grad_rate": 56.4,
-  "grad_rate_rank": 164,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 16565,
-  "avg_stu_loan_debt_rank": 1309,
-  "indicator_group": 2
+  "grad_rate": 48.5,
+  "grad_rate_rank": 279,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 17900,
+  "avg_stu_loan_debt_rank": 1120,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93309",
+  "email": false
 }

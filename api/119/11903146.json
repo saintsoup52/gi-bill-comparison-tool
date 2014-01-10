@@ -1,6 +1,6 @@
 {
   "facility_code": "11903146",
-  "institution": "VIRGINIA STATE UNIVERSITY",
+  "institution": "Virginia State University",
   "city": "Petersburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 430,
   "cross": 234155,
-  "grad_rate": 39.7,
-  "grad_rate_rank": 1242,
-  "default_rate": 18.3,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 43.9,
+  "grad_rate_rank": 1101,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 20322,
+  "avg_stu_loan_debt_rank": 1231,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23806",
+  "email": true
 }

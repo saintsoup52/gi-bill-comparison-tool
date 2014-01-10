@@ -1,6 +1,6 @@
 {
   "facility_code": "25124405",
-  "institution": "CAPSTONE COLLEGE",
+  "institution": "Capstone College",
   "city": "Van Nuys",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 377759,
-  "grad_rate": 77.8,
-  "grad_rate_rank": 762,
-  "default_rate": 25.7,
-  "avg_stu_loan_debt": 5025,
-  "avg_stu_loan_debt_rank": 799,
-  "indicator_group": 5
+  "grad_rate": 70.7,
+  "grad_rate_rank": 1142,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 5906,
+  "avg_stu_loan_debt_rank": 403,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91402",
+  "email": false
 }

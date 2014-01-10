@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42932",
-  "institution": "METROPOLITAN TRANSPORTATION AUTHORITY POLICE DEPT. DISTRICT 6",
+  "institution": "Metropolitan Transportation Authority Police Dept. District 6",
   "city": "Mount Vernon",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10550",
+  "email": false
 }

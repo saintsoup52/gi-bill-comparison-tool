@@ -1,6 +1,6 @@
 {
   "facility_code": "25507914",
-  "institution": "PAUL MITCHELL THE SCHOOL",
+  "institution": "Paul Mitchell The School",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 461917,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5713,
-  "avg_stu_loan_debt_rank": 927,
-  "indicator_group": 5
+  "grad_rate": 83.8,
+  "grad_rate_rank": 486,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 7041,
+  "avg_stu_loan_debt_rank": 643,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46227",
+  "email": true
 }

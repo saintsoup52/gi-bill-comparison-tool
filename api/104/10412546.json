@@ -1,6 +1,6 @@
 {
   "facility_code": "10412546",
-  "institution": "MARION CORRECTIONAL TREATMENT CTR",
+  "institution": "Marion Correctional Treatment Ctr",
   "city": "Marion",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24354",
+  "email": false
 }

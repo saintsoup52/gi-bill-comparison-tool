@@ -1,6 +1,6 @@
 {
   "facility_code": "25171805",
-  "institution": "AMERICAN COLLEGE OF HEALTHCARE",
+  "institution": "American College Of Healthcare",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 422835,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 9218,
-  "avg_stu_loan_debt_rank": 1602,
-  "indicator_group": 5
+  "grad_rate": 63.5,
+  "grad_rate_rank": 1494,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 8107,
+  "avg_stu_loan_debt_rank": 841,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92505",
+  "email": false
 }

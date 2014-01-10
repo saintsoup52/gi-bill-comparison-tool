@@ -1,6 +1,6 @@
 {
   "facility_code": "14923415",
-  "institution": "INDIAN HILLS COMMUNITY COLLEGE",
+  "institution": "Indian Hills Community College",
   "city": "Ottumwa",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 207,
   "cross": 153472,
-  "grad_rate": 26.7,
-  "grad_rate_rank": 635,
-  "default_rate": 18.2,
-  "avg_stu_loan_debt": 9812,
-  "avg_stu_loan_debt_rank": 848,
-  "indicator_group": 2
+  "grad_rate": 24.2,
+  "grad_rate_rank": 812,
+  "default_rate": 25.3,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 738,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "52501",
+  "email": false
 }

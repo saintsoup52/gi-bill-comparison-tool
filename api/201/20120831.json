@@ -1,6 +1,6 @@
 {
   "facility_code": "20120831",
-  "institution": "PUBLIC SERVICE CO. REEVES STATION",
+  "institution": "Public Service Co. Reeves Station",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87113",
+  "email": false
 }

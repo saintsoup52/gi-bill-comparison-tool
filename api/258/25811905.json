@@ -1,6 +1,6 @@
 {
   "facility_code": "25811905",
-  "institution": "EVEREST COLLEGE-TORRANCE",
+  "institution": "Everest College-Torrance",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 430980,
-  "grad_rate": 70.0,
-  "grad_rate_rank": 1173,
-  "default_rate": 20.4,
+  "grad_rate": 74.6,
+  "grad_rate_rank": 947,
+  "default_rate": 17.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90501",
+  "email": false
 }

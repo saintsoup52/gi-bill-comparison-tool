@@ -1,6 +1,6 @@
 {
   "facility_code": "10446347",
-  "institution": "PIERCE COUNTY MEATCUTTERS APPRENTICESHIP COMMITTEE",
+  "institution": "Pierce County Meatcutters Apprenticeship Committee",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98467",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10447747",
-  "institution": "NAVAL UNDERSEA WARFARE CENTER - DIVISION KEYPORT",
+  "institution": "Naval Undersea Warfare Center - Division Keyport",
   "city": "Keyport",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98345",
+  "email": false
 }

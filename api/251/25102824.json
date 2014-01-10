@@ -1,6 +1,6 @@
 {
   "facility_code": "25102824",
-  "institution": "COASTAL TRUCK DRIVING SCHOOL",
+  "institution": "Coastal Truck Driving School",
   "city": "Natchez",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "39120",
+  "email": "No (SCO)"
 }

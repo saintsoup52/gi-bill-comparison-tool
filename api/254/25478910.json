@@ -1,6 +1,6 @@
 {
   "facility_code": "25478910",
-  "institution": "EMERGENCY EDUCATIONAL INSTITUTE",
+  "institution": "Emergency Educational Institute",
   "city": "Coral Springs",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33065",
+  "email": true
 }

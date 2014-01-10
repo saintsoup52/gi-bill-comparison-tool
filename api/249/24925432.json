@@ -1,6 +1,6 @@
 {
   "facility_code": "24925432",
-  "institution": "UTICA SCHOOL OF COMMERCE (UTICA)",
+  "institution": "Utica School Of Commerce (Utica)",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 197081,
-  "grad_rate": 26.3,
-  "grad_rate_rank": 645,
-  "default_rate": 18.9,
+  "grad_rate": 30.9,
+  "grad_rate_rank": 613,
+  "default_rate": 18.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13501",
+  "email": true
 }

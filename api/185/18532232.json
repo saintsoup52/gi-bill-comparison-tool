@@ -1,6 +1,6 @@
 {
   "facility_code": "18532232",
-  "institution": "BOCES MONROE 2-ORLEANS",
+  "institution": "Boces Monroe 2-Orleans",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 451459,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 400,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 4154,
-  "avg_stu_loan_debt_rank": 695,
-  "indicator_group": 5
+  "grad_rate": 85.8,
+  "grad_rate_rank": 414,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 6145,
+  "avg_stu_loan_debt_rank": 430,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14624",
+  "email": true
 }

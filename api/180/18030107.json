@@ -1,6 +1,6 @@
 {
   "facility_code": "18030107",
-  "institution": "W F KAYNOR TECHNICAL HIGH SCHOOL",
+  "institution": "W F Kaynor Technical High School",
   "city": "Waterbury",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 417257,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 652,
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6708",
+  "email": true
 }

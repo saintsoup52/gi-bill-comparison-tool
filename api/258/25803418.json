@@ -1,6 +1,6 @@
 {
   "facility_code": "25803418",
-  "institution": "BLUE CLIFF COLLEGE - HOUMA",
+  "institution": "Blue Cliff College - Houma",
   "city": "Houma",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 450021,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 116,
-  "default_rate": 15.9,
+  "grad_rate": 96.9,
+  "grad_rate_rank": 110,
+  "default_rate": 14.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70360",
+  "email": true
 }

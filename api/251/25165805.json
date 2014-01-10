@@ -1,6 +1,6 @@
 {
   "facility_code": "25165805",
-  "institution": "ELITE COSMETOLOGY SCHOOL",
+  "institution": "Elite Cosmetology School",
   "city": "Yucca Valley",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 461607,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5877,
-  "avg_stu_loan_debt_rank": 944,
-  "indicator_group": 5
+  "grad_rate": 81.8,
+  "grad_rate_rank": 563,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 10457,
+  "avg_stu_loan_debt_rank": 1552,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92284",
+  "email": false
 }

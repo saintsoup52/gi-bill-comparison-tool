@@ -1,6 +1,6 @@
 {
   "facility_code": "31009105",
-  "institution": "LIFE UNIVERSITY",
+  "institution": "Life University",
   "city": "Gardena",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 140252,
-  "grad_rate": 52.4,
-  "grad_rate_rank": 797,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 10500,
-  "avg_stu_loan_debt_rank": 271,
-  "indicator_group": 1
+  "grad_rate": 41.0,
+  "grad_rate_rank": 1214,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 12498,
+  "avg_stu_loan_debt_rank": 313,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90248",
+  "email": false
 }

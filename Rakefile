@@ -3,6 +3,11 @@ class String
   def error; colorize("1;31") end
   def bold; colorize("1") end
   def status; colorize("1;34") end
+  def titlecase
+    self.gsub(/\w+/) do |word|
+      word.capitalize
+    end
+  end
 end
 
 desc "Build API"
@@ -35,6 +40,9 @@ task :build do
       end
     end
     
+    # Convert institution names to titlecase
+    f[1] = f[1].titlecase
+    
     # Convert data types (numbers)
     unless f[5] == nil;  f[5] = f[5].to_i   end # bah
     unless f[8] == nil;  f[8] = f[8].to_i   end # gibill
@@ -52,11 +60,17 @@ task :build do
   
   puts "Writing `api/institutions.json`".bold
   
-  # Array of only institutions and their facility_code
+  # Array of only institutions, location, and their facility_code
   institutions = []
   
   data.each do |el|
-    institutions.push Array[el[:facility_code], el[:institution]]
+    if el[:country] == "USA"
+      institution_name = "#{el[:institution]} (#{el[:city]}, #{el[:state]})"
+    else
+      institution_name = "#{el[:institution]} (#{el[:city]}, #{el[:country]})"
+    end
+    
+    institutions.push Array[el[:facility_code], institution_name]
   end
   
   File.open("api/institutions.json", 'w') { |f| f.write(institutions.to_json) }

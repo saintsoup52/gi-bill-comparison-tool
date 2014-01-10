@@ -1,6 +1,6 @@
 {
   "facility_code": "30094421",
-  "institution": "TAUNTON ELECTRICIANS JATC",
+  "institution": "Taunton Electricians Jatc",
   "city": "Taunton",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2780",
+  "email": false
 }

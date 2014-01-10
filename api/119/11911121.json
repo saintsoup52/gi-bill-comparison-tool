@@ -1,6 +1,6 @@
 {
   "facility_code": "11911121",
-  "institution": "MASSACHUSETTS MARITIME ACADEMY",
+  "institution": "Massachusetts Maritime Academy",
   "city": "Buzzards Bay",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 166692,
-  "grad_rate": 65.3,
-  "grad_rate_rank": 425,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 20500,
-  "avg_stu_loan_debt_rank": 1475,
-  "indicator_group": 1
+  "grad_rate": 61.0,
+  "grad_rate_rank": 539,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 22845,
+  "avg_stu_loan_debt_rank": 1506,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2532",
+  "email": true
 }

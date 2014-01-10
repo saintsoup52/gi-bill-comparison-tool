@@ -1,6 +1,6 @@
 {
   "facility_code": "15009342",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - HOHENWALD",
+  "institution": "Tennessee College Of Applied Technology - Hohenwald",
   "city": "Hohenwald",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 220321,
-  "grad_rate": 81.0,
-  "grad_rate_rank": 600,
+  "grad_rate": 76.6,
+  "grad_rate_rank": 836,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38462",
+  "email": false
 }

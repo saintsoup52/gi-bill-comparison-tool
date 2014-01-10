@@ -1,6 +1,6 @@
 {
   "facility_code": "249G4435",
-  "institution": "FORTIS COLLEGE - CINCINNATI",
+  "institution": "Fortis College - Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 450067,
-  "grad_rate": 65.3,
-  "grad_rate_rank": 99,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 8455,
-  "avg_stu_loan_debt_rank": 368,
-  "indicator_group": 3
+  "grad_rate": 59.4,
+  "grad_rate_rank": 301,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 9359,
+  "avg_stu_loan_debt_rank": 331,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "45246",
+  "email": true
 }

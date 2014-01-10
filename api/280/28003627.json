@@ -1,6 +1,6 @@
 {
   "facility_code": "28003627",
-  "institution": "COLLEGE OF HAIR DESIGN",
+  "institution": "College Of Hair Design",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 180957,
-  "grad_rate": 76.0,
-  "grad_rate_rank": 863,
-  "default_rate": 16.0,
-  "avg_stu_loan_debt": 13800,
-  "avg_stu_loan_debt_rank": 2433,
-  "indicator_group": 5
+  "grad_rate": 67.0,
+  "grad_rate_rank": 1321,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "68508",
+  "email": true
 }

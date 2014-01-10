@@ -1,6 +1,6 @@
 {
   "facility_code": "29118217",
-  "institution": "JUST ADD WATER",
+  "institution": "Just Add Water",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40272",
+  "email": false
 }

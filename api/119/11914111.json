@@ -1,6 +1,6 @@
 {
   "facility_code": "11914111",
-  "institution": "ARMSTRONG ATLANTIC STATE UNIVERSITY",
+  "institution": "Armstrong Atlantic State University",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 768,
   "cross": 138789,
-  "grad_rate": 31.7,
-  "grad_rate_rank": 1454,
-  "default_rate": 9.1,
-  "avg_stu_loan_debt": 11389,
-  "avg_stu_loan_debt_rank": 324,
-  "indicator_group": 1
+  "grad_rate": 31.0,
+  "grad_rate_rank": 1508,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 12387,
+  "avg_stu_loan_debt_rank": 299,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31419",
+  "email": true
 }

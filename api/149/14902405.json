@@ -1,6 +1,6 @@
 {
   "facility_code": "14902405",
-  "institution": "CITRUS COLLEGE",
+  "institution": "Citrus College",
   "city": "Glendora",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 331,
   "cross": 112172,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 682,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 7152,
-  "avg_stu_loan_debt_rank": 577,
-  "indicator_group": 2
+  "grad_rate": 32.5,
+  "grad_rate_rank": 560,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 7390,
+  "avg_stu_loan_debt_rank": 491,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "91741",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31891305",
-  "institution": "UNIVERSITY OF THE PACIFIC SCHOOL OF DENTISTRY",
+  "institution": "University Of The Pacific School Of Dentistry",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 120883,
-  "grad_rate": 68.8,
-  "grad_rate_rank": 331,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 21250,
-  "avg_stu_loan_debt_rank": 1565,
-  "indicator_group": 1
+  "grad_rate": 63.1,
+  "grad_rate_rank": 486,
+  "default_rate": 3.1,
+  "avg_stu_loan_debt": 25699,
+  "avg_stu_loan_debt_rank": 1820,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94115",
+  "email": false
 }

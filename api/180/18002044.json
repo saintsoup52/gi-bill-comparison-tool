@@ -1,6 +1,6 @@
 {
   "facility_code": "18002044",
-  "institution": "DAVIS ADULT EDUCATION (CH 31)",
+  "institution": "Davis Adult Education (Ch 31)",
   "city": "Kaysville",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84037",
+  "email": false
 }

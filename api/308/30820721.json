@@ -1,6 +1,6 @@
 {
   "facility_code": "30820721",
-  "institution": "N.E. MASSCHUSETTS CARPENTERS APPRENTICESHIP & TRAINING FUND",
+  "institution": "N.E. Masschusetts Carpenters Apprenticeship & Training Fund",
   "city": "Wilmington",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1887",
+  "email": true
 }

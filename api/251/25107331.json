@@ -1,6 +1,6 @@
 {
   "facility_code": "25107331",
-  "institution": "CALLAS BEAUTY INSTITUTE",
+  "institution": "Callas Beauty Institute",
   "city": "Rio Rancho",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87124",
+  "email": true
 }

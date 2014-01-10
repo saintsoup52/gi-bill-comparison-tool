@@ -1,6 +1,6 @@
 {
   "facility_code": "20538735",
-  "institution": "HALLMARK DENTAL LABORATORIES  K",
+  "institution": "Hallmark Dental Laboratories  K",
   "city": "Mansfield",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44902",
+  "email": false
 }

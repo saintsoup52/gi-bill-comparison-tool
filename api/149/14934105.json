@@ -1,6 +1,6 @@
 {
   "facility_code": "14934105",
-  "institution": "DE ANZA COLLEGE",
+  "institution": "De Anza College",
   "city": "Cupertino",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 369,
   "cross": 113333,
-  "grad_rate": 59.7,
-  "grad_rate_rank": 135,
-  "default_rate": 17.0,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 486,
-  "indicator_group": 2
+  "grad_rate": 61.0,
+  "grad_rate_rank": 160,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 6334,
+  "avg_stu_loan_debt_rank": 365,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "95014",
+  "email": false
 }

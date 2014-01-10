@@ -1,6 +1,6 @@
 {
   "facility_code": "31812110",
-  "institution": "BARRY UNIVERSITY SCH OF ADULT & CONT EDU-MIAMI",
+  "institution": "Barry University Sch Of Adult & Cont Edu-Miami",
   "city": "Miami Shores",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 159,
   "cross": 132471,
-  "grad_rate": 35.2,
-  "grad_rate_rank": 1360,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 22250,
-  "avg_stu_loan_debt_rank": 1678,
-  "indicator_group": 1
+  "grad_rate": 41.1,
+  "grad_rate_rank": 1209,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 24652,
+  "avg_stu_loan_debt_rank": 1696,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33161",
+  "email": true
 }

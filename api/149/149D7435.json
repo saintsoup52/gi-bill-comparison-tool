@@ -1,6 +1,6 @@
 {
   "facility_code": "149D7435",
-  "institution": "STARK STATE COLLEGE",
+  "institution": "Stark State College",
   "city": "Canton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 369,
   "cross": 205841,
-  "grad_rate": 15.4,
-  "grad_rate_rank": 1014,
-  "default_rate": 17.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 6.9,
+  "grad_rate_rank": 1358,
+  "default_rate": 24.5,
+  "avg_stu_loan_debt": 10592,
+  "avg_stu_loan_debt_rank": 764,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44720",
+  "email": true
 }

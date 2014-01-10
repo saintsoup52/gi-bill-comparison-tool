@@ -1,6 +1,6 @@
 {
   "facility_code": "31934105",
-  "institution": "JOHN F KENNEDY UNIVERSITY",
+  "institution": "John F Kennedy University",
   "city": "Pleasant Hill",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 45,
   "cross": 116712,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 22488,
-  "avg_stu_loan_debt_rank": 1707,
-  "indicator_group": 1
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 21125,
+  "avg_stu_loan_debt_rank": 1328,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94523",
+  "email": false
 }

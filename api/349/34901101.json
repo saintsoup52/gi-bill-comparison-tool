@@ -1,6 +1,6 @@
 {
   "facility_code": "34901101",
-  "institution": "MARION MILITARY INSTITUTE",
+  "institution": "Marion Military Institute",
   "city": "Marion",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 48,
   "cross": 101648,
-  "grad_rate": 31.2,
-  "grad_rate_rank": 497,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 24.8,
+  "grad_rate_rank": 793,
+  "default_rate": 29.6,
+  "avg_stu_loan_debt": 6575,
+  "avg_stu_loan_debt_rank": 406,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "36756",
+  "email": true
 }

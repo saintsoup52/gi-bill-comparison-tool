@@ -1,6 +1,6 @@
 {
   "facility_code": "20B62549",
-  "institution": "SOUTH CENTRAL WISCONSIN ELECTRICAL JAC",
+  "institution": "South Central Wisconsin Electrical Jac",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53718",
+  "email": false
 }

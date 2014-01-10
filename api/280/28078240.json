@@ -1,6 +1,6 @@
 {
   "facility_code": "28078240",
-  "institution": "SALON 496 BARBER ACADEMY",
+  "institution": "Salon 496 Barber Academy",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 461476,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 7700,
-  "avg_stu_loan_debt_rank": 1293,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29607",
+  "email": true
 }

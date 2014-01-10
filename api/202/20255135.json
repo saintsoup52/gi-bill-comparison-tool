@@ -1,6 +1,6 @@
 {
   "facility_code": "20255135",
-  "institution": "FELDMAN ORTHOPAEDIC INC  K",
+  "institution": "Feldman Orthopaedic Inc  K",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45208",
+  "email": false
 }

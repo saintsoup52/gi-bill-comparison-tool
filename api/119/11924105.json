@@ -1,6 +1,6 @@
 {
   "facility_code": "11924105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-LONG BEACH",
+  "institution": "California State University-Long Beach",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 456,
   "cross": 110583,
-  "grad_rate": 54.0,
-  "grad_rate_rank": 746,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 13500,
-  "avg_stu_loan_debt_rank": 588,
-  "indicator_group": 1
+  "grad_rate": 56.9,
+  "grad_rate_rank": 673,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 13078,
+  "avg_stu_loan_debt_rank": 377,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90815",
+  "email": true
 }

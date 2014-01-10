@@ -1,6 +1,6 @@
 {
   "facility_code": "25040113",
-  "institution": "TRI-COUNTY BEAUTY ACADEMY",
+  "institution": "Tri-County Beauty Academy",
   "city": "Litchfield",
   "state": "IL",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 149499,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 7.1,
-  "avg_stu_loan_debt": 11725,
-  "avg_stu_loan_debt_rank": 2298,
-  "indicator_group": 5
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 6012,
+  "avg_stu_loan_debt_rank": 418,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "62056",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25468210",
-  "institution": "JACKSONVILLE BEAUTY INSTITUTE",
+  "institution": "Jacksonville Beauty Institute",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 441405,
-  "grad_rate": 84.0,
-  "grad_rate_rank": 460,
-  "default_rate": 41.7,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 91.7,
+  "grad_rate_rank": 224,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32208",
+  "email": true
 }

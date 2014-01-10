@@ -1,6 +1,6 @@
 {
   "facility_code": "25818413",
-  "institution": "HAIR PROFESSIONALS CAREER COLLEGE",
+  "institution": "Hair Professionals Career College",
   "city": "Sycamore",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 145424,
-  "grad_rate": 55.6,
-  "grad_rate_rank": 1758,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 9827,
-  "avg_stu_loan_debt_rank": 2126,
-  "indicator_group": 5
+  "grad_rate": 41.7,
+  "grad_rate_rank": 2079,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 6250,
+  "avg_stu_loan_debt_rank": 438,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60178",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10501315",
-  "institution": "CITY OF FARLEY PUBLIC WORKS/WATER",
+  "institution": "City Of Farley Public Works/Water",
   "city": "Farley",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52046",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001240",
-  "institution": "THE CITADEL",
+  "institution": "The Citadel",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 352,
   "cross": 217864,
-  "grad_rate": 70.3,
-  "grad_rate_rank": 297,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 26350,
-  "avg_stu_loan_debt_rank": 2010,
-  "indicator_group": 1
+  "grad_rate": 65.8,
+  "grad_rate_rank": 413,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 29102,
+  "avg_stu_loan_debt_rank": 1928,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29409",
+  "email": true
 }

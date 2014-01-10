@@ -1,6 +1,6 @@
 {
   "facility_code": "14907433",
-  "institution": "DAVIDSON COUNTY COMMUNITY COLLEGE",
+  "institution": "Davidson County Community College",
   "city": "Lexington",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 104,
   "cross": 198376,
-  "grad_rate": 32.3,
-  "grad_rate_rank": 320,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 200,
-  "indicator_group": 3
+  "grad_rate": 26.5,
+  "grad_rate_rank": 577,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 6800,
+  "avg_stu_loan_debt_rank": 187,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "27292",
+  "email": true
 }

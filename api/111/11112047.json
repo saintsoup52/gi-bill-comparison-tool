@@ -1,6 +1,6 @@
 {
   "facility_code": "11112047",
-  "institution": "EASTERN WASHINGTON UNIVERSITY",
+  "institution": "Eastern Washington University",
   "city": "Cheney",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 707,
   "cross": 235097,
-  "grad_rate": 46.2,
-  "grad_rate_rank": 1018,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "grad_rate": 46.5,
+  "grad_rate_rank": 1020,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 17251,
+  "avg_stu_loan_debt_rank": 826,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "99004",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25090843",
-  "institution": "TEXAS HEALTH SCHOOL LP",
+  "institution": "Texas Health School Lp",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 448196,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 5118,
-  "avg_stu_loan_debt_rank": 809,
-  "indicator_group": 5
+  "grad_rate": 88.2,
+  "grad_rate_rank": 322,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 3741,
+  "avg_stu_loan_debt_rank": 134,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77079",
+  "email": false
 }

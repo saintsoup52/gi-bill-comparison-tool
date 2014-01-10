@@ -1,6 +1,6 @@
 {
   "facility_code": "31037232",
-  "institution": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "institution": "Rensselaer Polytechnic Institute",
   "city": "Troy",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 96,
   "cross": 194824,
-  "grad_rate": 83.8,
-  "grad_rate_rank": 109,
-  "default_rate": 2.6,
-  "avg_stu_loan_debt": 24500,
-  "avg_stu_loan_debt_rank": 1892,
-  "indicator_group": 1
+  "grad_rate": 84.5,
+  "grad_rate_rank": 103,
+  "default_rate": 2.5,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12180",
+  "email": true
 }

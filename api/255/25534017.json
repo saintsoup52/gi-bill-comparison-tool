@@ -1,6 +1,6 @@
 {
   "facility_code": "25534017",
-  "institution": "COLLEGE OF TECHNICAL EDUCATION",
+  "institution": "College Of Technical Education",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 156392,
-  "grad_rate": 19.6,
-  "grad_rate_rank": 445,
-  "default_rate": 21.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 19.5,
+  "grad_rate_rank": 645,
+  "default_rate": 25.5,
+  "avg_stu_loan_debt": 8816,
+  "avg_stu_loan_debt_rank": 281,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "40517",
+  "email": false
 }

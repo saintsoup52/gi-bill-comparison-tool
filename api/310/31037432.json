@@ -1,6 +1,6 @@
 {
   "facility_code": "31037432",
-  "institution": "WEBB INSTITUTE",
+  "institution": "Webb Institute",
   "city": "Glen Cove",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 197221,
-  "grad_rate": 80.0,
-  "grad_rate_rank": 156,
+  "grad_rate": 95.8,
+  "grad_rate_rank": 14,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 88,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11542",
+  "email": false
 }

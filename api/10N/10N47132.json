@@ -1,6 +1,6 @@
 {
   "facility_code": "10N47132",
-  "institution": "DEPT OF HOMELAND SECURITY IMMIGRATION & CUSTOMS ENFORCEMENT - WILLIAMSVILLE",
+  "institution": "Dept Of Homeland Security Immigration & Customs Enforcement - Williamsville",
   "city": "Williamsville",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14221",
+  "email": true
 }

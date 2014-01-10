@@ -1,6 +1,6 @@
 {
   "facility_code": "11001306",
-  "institution": "COLORADO SCHOOL OF MINES",
+  "institution": "Colorado School Of Mines",
   "city": "Golden",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 138,
   "cross": 126775,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 312,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 20250,
-  "avg_stu_loan_debt_rank": 1457,
-  "indicator_group": 1
+  "grad_rate": 66.5,
+  "grad_rate_rank": 392,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 24036,
+  "avg_stu_loan_debt_rank": 1648,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "119A2132",
-  "institution": "SUNY MARITIME COLLEGE",
+  "institution": "Suny Maritime College",
   "city": "Throg Neck Station",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 55,
   "cross": 196291,
-  "grad_rate": 46.6,
-  "grad_rate_rank": 1001,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 20937,
-  "avg_stu_loan_debt_rank": 1516,
-  "indicator_group": 1
+  "grad_rate": 44.0,
+  "grad_rate_rank": 1099,
+  "default_rate": 9.7,
+  "avg_stu_loan_debt": 24912,
+  "avg_stu_loan_debt_rank": 1710,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10465",
+  "email": true
 }

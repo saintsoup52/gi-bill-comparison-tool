@@ -1,6 +1,6 @@
 {
   "facility_code": "15077436",
-  "institution": "GREEN COUNTRY TECHNOLOGY CENTER",
+  "institution": "Green Country Technology Center",
   "city": "Okmulgee",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 428019,
-  "grad_rate": 84.6,
-  "grad_rate_rank": 443,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 84.8,
+  "grad_rate_rank": 446,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74447",
+  "email": false
 }

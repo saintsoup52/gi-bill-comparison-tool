@@ -1,6 +1,6 @@
 {
   "facility_code": "10597813",
-  "institution": "OSWEGO POLICE DEPARTMENT",
+  "institution": "Oswego Police Department",
   "city": "Oswego",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60543",
+  "email": true
 }

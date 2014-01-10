@@ -1,6 +1,6 @@
 {
   "facility_code": "20895310",
-  "institution": "NATIONAL ELECTRONIC SYSTEMS INC",
+  "institution": "National Electronic Systems Inc",
   "city": "Dade City",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33525",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "301B4905",
-  "institution": "METROPOLITAN WATER DISTRICT OF SO CALIFORNIA JATC",
+  "institution": "Metropolitan Water District Of So California Jatc",
   "city": "Winchester",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92596",
+  "email": false
 }

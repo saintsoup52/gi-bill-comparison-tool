@@ -1,6 +1,6 @@
 {
   "facility_code": "31932122",
-  "institution": "MADONNA UNIVERSITY",
+  "institution": "Madonna University",
   "city": "Livonia",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 87,
   "cross": 170806,
-  "grad_rate": 42.2,
-  "grad_rate_rank": 1150,
-  "default_rate": 6.5,
-  "avg_stu_loan_debt": 22162,
-  "avg_stu_loan_debt_rank": 1670,
-  "indicator_group": 1
+  "grad_rate": 36.0,
+  "grad_rate_rank": 1367,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48150",
+  "email": true
 }

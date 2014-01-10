@@ -1,6 +1,6 @@
 {
   "facility_code": "15009242",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - HARTSVILLE",
+  "institution": "Tennessee College Of Applied Technology - Hartsville",
   "city": "Hartsville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 220279,
-  "grad_rate": 68.9,
-  "grad_rate_rank": 1216,
+  "grad_rate": 74.6,
+  "grad_rate_rank": 947,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37074",
+  "email": false
 }

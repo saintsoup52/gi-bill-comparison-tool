@@ -1,6 +1,6 @@
 {
   "facility_code": "31002444",
-  "institution": "ROSEMAN UNIVERSITY OF HEALTH SCIENCES - SOUTH JORDAN",
+  "institution": "Roseman University Of Health Sciences - South Jordan",
   "city": "South Jordan",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 445735,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 27692,
-  "avg_stu_loan_debt_rank": 2020,
-  "indicator_group": 1
+  "default_rate": 3.5,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84095",
+  "email": true
 }

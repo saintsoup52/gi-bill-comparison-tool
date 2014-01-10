@@ -1,6 +1,6 @@
 {
   "facility_code": "24993438",
-  "institution": "ITT TECHNICAL INSTITUTE PLYMOUTH MEETING",
+  "institution": "Itt Technical Institute Plymouth Meeting",
   "city": "Plymouth Meeting",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 442347,
-  "grad_rate": 37.1,
-  "grad_rate_rank": 385,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 44.8,
+  "grad_rate_rank": 340,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19462",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25057643",
-  "institution": "FORTIS COLLEGE WESTPARK",
+  "institution": "Fortis College Westpark",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 27,
   "cross": 392415,
-  "grad_rate": 61.5,
-  "grad_rate_rank": 1531,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 8294,
-  "avg_stu_loan_debt_rank": 1440,
-  "indicator_group": 5
+  "grad_rate": 67.3,
+  "grad_rate_rank": 1312,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77057",
+  "email": false
 }

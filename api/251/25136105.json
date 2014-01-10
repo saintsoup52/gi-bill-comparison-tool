@@ -1,6 +1,6 @@
 {
   "facility_code": "25136105",
-  "institution": "NATIONWIDE FINANCIAL SOLUTIONS INC (CHAPTER 31 ONLY)",
+  "institution": "Nationwide Financial Solutions Inc (Chapter 31 Only)",
   "city": "Rancho Cordova",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95670",
+  "email": false
 }

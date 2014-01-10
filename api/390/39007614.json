@@ -1,6 +1,6 @@
 {
   "facility_code": "39007614",
-  "institution": "INDIANA BLACK EXPO",
+  "institution": "Indiana Black Expo",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46208",
+  "email": false
 }

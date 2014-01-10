@@ -1,6 +1,6 @@
 {
   "facility_code": "11006933",
-  "institution": "UNIVERSITY OF NORTH CAROLINA @ PEMBROKE",
+  "institution": "University Of North Carolina @ Pembroke",
   "city": "Pembroke",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 488,
   "cross": 199281,
-  "grad_rate": 33.5,
-  "grad_rate_rank": 1401,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 11689,
-  "avg_stu_loan_debt_rank": 344,
-  "indicator_group": 1
+  "grad_rate": 34.2,
+  "grad_rate_rank": 1411,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 13694,
+  "avg_stu_loan_debt_rank": 416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28372",
+  "email": true
 }

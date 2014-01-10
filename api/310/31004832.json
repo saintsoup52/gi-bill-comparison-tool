@@ -1,6 +1,6 @@
 {
   "facility_code": "31004832",
-  "institution": "VASSAR COLLEGE",
+  "institution": "Vassar College",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 197133,
-  "grad_rate": 90.6,
-  "grad_rate_rank": 57,
-  "default_rate": 0.7,
-  "avg_stu_loan_debt": 17583,
-  "avg_stu_loan_debt_rank": 1038,
-  "indicator_group": 1
+  "grad_rate": 90.7,
+  "grad_rate_rank": 51,
+  "default_rate": 0.9,
+  "avg_stu_loan_debt": 17245,
+  "avg_stu_loan_debt_rank": 821,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "12601",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25021106",
-  "institution": "AUGUSTE ESCOFFIER SCHOOL OF CULINARY ARTS",
+  "institution": "Auguste Escoffier School Of Culinary Arts",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 454810,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 71.7,
+  "grad_rate_rank": 1091,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 6832,
-  "avg_stu_loan_debt_rank": 1108,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 8117,
+  "avg_stu_loan_debt_rank": 846,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80305",
+  "email": true
 }

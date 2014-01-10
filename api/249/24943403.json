@@ -1,6 +1,6 @@
 {
   "facility_code": "24943403",
-  "institution": "ARIZONA COLLEGE - PHOENIX",
+  "institution": "Arizona College - Phoenix",
   "city": "Glendale",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 421708,
-  "grad_rate": 49.9,
-  "grad_rate_rank": 204,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": 44.7,
+  "grad_rate_rank": 432,
+  "default_rate": 25.1,
+  "avg_stu_loan_debt": 9414,
+  "avg_stu_loan_debt_rank": 344,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85302",
+  "email": false
 }

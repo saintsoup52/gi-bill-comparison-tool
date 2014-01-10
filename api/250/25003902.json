@@ -1,6 +1,6 @@
 {
   "facility_code": "25003902",
-  "institution": "LEN NELSON WOODCARVING (CH31)",
+  "institution": "Len Nelson Woodcarving (Ch31)",
   "city": "Chugiak",
   "state": "AK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99567",
+  "email": false
 }

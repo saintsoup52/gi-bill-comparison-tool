@@ -1,6 +1,6 @@
 {
   "facility_code": "19194022",
-  "institution": "DEFENSE LOGISTICS AGENCY (DLA) DISPOSITION SERVICES",
+  "institution": "Defense Logistics Agency (Dla) Disposition Services",
   "city": "Battle Creek",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49037",
+  "email": true
 }

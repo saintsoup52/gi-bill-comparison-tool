@@ -1,6 +1,6 @@
 {
   "facility_code": "31909136",
-  "institution": "OKLAHOMA CITY UNIVERSITY",
+  "institution": "Oklahoma City University",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 129,
   "cross": 207458,
-  "grad_rate": 60.1,
-  "grad_rate_rank": 560,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 18620,
-  "avg_stu_loan_debt_rank": 1162,
-  "indicator_group": 1
+  "grad_rate": 56.2,
+  "grad_rate_rank": 696,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73106",
+  "email": true
 }

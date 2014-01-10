@@ -1,6 +1,6 @@
 {
   "facility_code": "35100232",
-  "institution": "CAP 21 MUSICAL THEATRE CONSERVATORY",
+  "institution": "Cap 21 Musical Theatre Conservatory",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10011",
+  "email": false
 }

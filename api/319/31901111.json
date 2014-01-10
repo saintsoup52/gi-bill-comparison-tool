@@ -1,6 +1,6 @@
 {
   "facility_code": "31901111",
-  "institution": "TOCCOA FALLS COLLEGE",
+  "institution": "Toccoa Falls College",
   "city": "Toccoa Falls",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 29,
   "cross": 141185,
-  "grad_rate": 48.4,
-  "grad_rate_rank": 947,
+  "grad_rate": 45.2,
+  "grad_rate_rank": 1054,
   "default_rate": 5.2,
-  "avg_stu_loan_debt": 20500,
-  "avg_stu_loan_debt_rank": 1475,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 16775,
+  "avg_stu_loan_debt_rank": 782,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30598",
+  "email": true
 }

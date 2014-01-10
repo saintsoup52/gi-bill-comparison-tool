@@ -1,6 +1,6 @@
 {
   "facility_code": "28000626",
-  "institution": "DAHL'S COLLEGE OF BEAUTY",
+  "institution": "Dahl'S College Of Beauty",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 369020,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
+  "grad_rate": 77.8,
+  "grad_rate_rank": 764,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3000,
-  "avg_stu_loan_debt_rank": 553,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 4500,
+  "avg_stu_loan_debt_rank": 178,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "59401",
+  "email": true
 }

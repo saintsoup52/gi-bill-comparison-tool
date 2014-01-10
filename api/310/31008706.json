@@ -1,6 +1,6 @@
 {
   "facility_code": "31008706",
-  "institution": "NAZARENE BIBLE COLLEGE",
+  "institution": "Nazarene Bible College",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 53,
   "cross": 127714,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 876,
-  "default_rate": 11.4,
-  "avg_stu_loan_debt": 15220,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 13332,
+  "avg_stu_loan_debt_rank": 388,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80910",
+  "email": true
 }

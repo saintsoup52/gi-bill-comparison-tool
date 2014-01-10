@@ -1,6 +1,6 @@
 {
   "facility_code": "25123505",
-  "institution": "WORLD UNIVERSITY OF AMERICA",
+  "institution": "World University Of America",
   "city": "Ojai",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93024",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10668736",
-  "institution": "EGRESS SHOP - TINKER AIR FORCE BASE",
+  "institution": "Egress Shop - Tinker Air Force Base",
   "city": "Tinker Afb",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73145",
+  "email": true
 }

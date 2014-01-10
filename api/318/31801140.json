@@ -1,6 +1,6 @@
 {
   "facility_code": "31801140",
-  "institution": "EDWARD VIA COLLEGE OF OSTEOPATHIC MEDICINE",
+  "institution": "Edward Via College Of Osteopathic Medicine",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 442806,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "29303",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28009715",
-  "institution": "CAPRI COSMETOLOGY COLLEGE  DAVENPORT",
+  "institution": "Capri Cosmetology College  Davenport",
   "city": "Davenport",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 154448,
-  "grad_rate": 78.9,
-  "grad_rate_rank": 701,
-  "default_rate": 11.0,
-  "avg_stu_loan_debt": 7550,
-  "avg_stu_loan_debt_rank": 1243,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 7819,
+  "avg_stu_loan_debt_rank": 784,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52807",
+  "email": false
 }

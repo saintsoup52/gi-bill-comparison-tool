@@ -1,6 +1,6 @@
 {
   "facility_code": "28021127",
-  "institution": "XENON INTERNATIONAL ACADEMY II",
+  "institution": "Xenon International Academy Ii",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 407355,
-  "grad_rate": 71.3,
-  "grad_rate_rank": 1114,
-  "default_rate": 11.9,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 2302,
-  "indicator_group": 5
+  "grad_rate": 66.4,
+  "grad_rate_rank": 1370,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "68127",
+  "email": false
 }

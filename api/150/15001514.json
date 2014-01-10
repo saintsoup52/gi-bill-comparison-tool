@@ -1,6 +1,6 @@
 {
   "facility_code": "15001514",
-  "institution": "INDIANA UNIVERSITY AT SO. BEND DIV. OF CONTINUING EDUCATION",
+  "institution": "Indiana University At So. Bend Div. Of Continuing Education",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 151342,
-  "grad_rate": 22.2,
-  "grad_rate_rank": 1636,
-  "default_rate": 8.7,
-  "avg_stu_loan_debt": 11577,
-  "avg_stu_loan_debt_rank": 337,
-  "indicator_group": 1
+  "grad_rate": 23.4,
+  "grad_rate_rank": 1664,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 12868,
+  "avg_stu_loan_debt_rank": 352,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46634",
+  "email": false
 }

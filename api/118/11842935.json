@@ -1,6 +1,6 @@
 {
   "facility_code": "11842935",
-  "institution": "KENT STATE UNIVERSITY-TUSCARAWAS",
+  "institution": "Kent State University-Tuscarawas",
   "city": "New Philadelphia",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 96,
   "cross": 203483,
-  "grad_rate": 30.2,
-  "grad_rate_rank": 524,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 16625,
-  "avg_stu_loan_debt_rank": 1321,
-  "indicator_group": 2
+  "grad_rate": 20.6,
+  "grad_rate_rank": 921,
+  "default_rate": 12.9,
+  "avg_stu_loan_debt": 16842,
+  "avg_stu_loan_debt_rank": 1089,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44663",
+  "email": false
 }

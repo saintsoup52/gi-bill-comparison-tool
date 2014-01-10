@@ -1,6 +1,6 @@
 {
   "facility_code": "25018011",
-  "institution": "ATLANTA INSTITUTE OF MUSIC",
+  "institution": "Atlanta Institute Of Music",
   "city": "Duluth",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 35,
   "cross": 419244,
-  "grad_rate": 47.7,
-  "grad_rate_rank": 1965,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 46.5,
+  "grad_rate_rank": 2008,
+  "default_rate": 19.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30096",
+  "email": true
 }

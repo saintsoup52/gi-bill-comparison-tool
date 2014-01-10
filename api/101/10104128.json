@@ -1,6 +1,6 @@
 {
   "facility_code": "10104128",
-  "institution": "CLARK CTY NV - SR CITIZENS PROTECTIVE SERVICE (CH31)",
+  "institution": "Clark Cty Nv - Sr Citizens Protective Service (Ch31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89101",
+  "email": false
 }

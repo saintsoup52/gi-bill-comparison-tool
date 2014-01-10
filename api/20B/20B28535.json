@@ -1,6 +1,6 @@
 {
   "facility_code": "20B28535",
-  "institution": "SORRENTINOS BOOTS AND BRITCHES INC K",
+  "institution": "Sorrentinos Boots And Britches Inc K",
   "city": "Austintown",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44515",
+  "email": false
 }

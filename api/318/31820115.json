@@ -1,6 +1,6 @@
 {
   "facility_code": "31820115",
-  "institution": "GRACELAND UNIVERSITY  COLLEGE OF PROFESSIONAL STUDIES",
+  "institution": "Graceland University  College Of Professional Studies",
   "city": "Centerville",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 153366,
-  "grad_rate": 50.6,
-  "grad_rate_rank": 860,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 21061,
-  "avg_stu_loan_debt_rank": 1553,
-  "indicator_group": 1
+  "grad_rate": 50.4,
+  "grad_rate_rank": 880,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 19643,
+  "avg_stu_loan_debt_rank": 1144,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52544",
+  "email": false
 }

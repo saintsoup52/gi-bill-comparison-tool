@@ -1,6 +1,6 @@
 {
   "facility_code": "31902942",
-  "institution": "LIPSCOMB UNIVERSITY",
+  "institution": "Lipscomb University",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 192,
   "cross": 219976,
-  "grad_rate": 62.7,
-  "grad_rate_rank": 496,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 16910,
-  "avg_stu_loan_debt_rank": 937,
-  "indicator_group": 1
+  "grad_rate": 56.2,
+  "grad_rate_rank": 696,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37204",
+  "email": false
 }

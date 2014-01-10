@@ -1,6 +1,6 @@
 {
   "facility_code": "20B70735",
-  "institution": "ACCEL ENGRAVING COMPANY (31)",
+  "institution": "Accel Engraving Company (31)",
   "city": "Norton",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44203",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11901136",
-  "institution": "LANGSTON UNIVERSITY",
+  "institution": "Langston University",
   "city": "Langston",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 207209,
-  "grad_rate": 19.3,
-  "grad_rate_rank": 1679,
-  "default_rate": 32.9,
-  "avg_stu_loan_debt": 16711,
-  "avg_stu_loan_debt_rank": 912,
-  "indicator_group": 1
+  "grad_rate": 27.0,
+  "grad_rate_rank": 1593,
+  "default_rate": 32.5,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73050",
+  "email": true
 }

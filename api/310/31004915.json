@@ -1,6 +1,6 @@
 {
   "facility_code": "31004915",
-  "institution": "EMMAUS BIBLE COLLEGE",
+  "institution": "Emmaus Bible College",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 153302,
-  "grad_rate": 98.7,
-  "grad_rate_rank": 9,
-  "default_rate": 6.1,
+  "grad_rate": 86.2,
+  "grad_rate_rank": 32,
+  "default_rate": 5.1,
   "avg_stu_loan_debt": 8750,
-  "avg_stu_loan_debt_rank": 390,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 276,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "52001",
+  "email": false
 }

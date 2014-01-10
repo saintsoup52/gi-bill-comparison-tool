@@ -1,6 +1,6 @@
 {
   "facility_code": "10062811",
-  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - TRACON A80 - PEACHTREE CITY",
+  "institution": "Federal Aviation Administration (Faa) - Tracon A80 - Peachtree City",
   "city": "Peachtree City",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30269",
+  "email": true
 }

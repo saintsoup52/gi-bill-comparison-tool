@@ -1,6 +1,6 @@
 {
   "facility_code": "25477110",
-  "institution": "CENTRAL INSURANCE SCHOOL - CHAPTER 31 ONLY",
+  "institution": "Central Insurance School - Chapter 31 Only",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33762",
+  "email": false
 }

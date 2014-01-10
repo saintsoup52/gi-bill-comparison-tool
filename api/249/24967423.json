@@ -1,6 +1,6 @@
 {
   "facility_code": "24967423",
-  "institution": "ANTHEM COLLEGE",
+  "institution": "Anthem College",
   "city": "St. Louis Park",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 20,
   "cross": 430050,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": 8055,
-  "avg_stu_loan_debt_rank": 342,
-  "indicator_group": 3
+  "grad_rate": 82.2,
+  "grad_rate_rank": 47,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 8978,
+  "avg_stu_loan_debt_rank": 293,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "55416",
+  "email": false
 }

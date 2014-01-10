@@ -1,6 +1,6 @@
 {
   "facility_code": "25534525",
-  "institution": "SALEM COLLEGE OF HAIRSTYLING",
+  "institution": "Salem College Of Hairstyling",
   "city": "Rolla",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 179195,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 1793,
+  "grad_rate": 58.3,
+  "grad_rate_rank": 1696,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65401",
+  "email": false
 }

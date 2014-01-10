@@ -1,6 +1,6 @@
 {
   "facility_code": "28008336",
-  "institution": "ENID BEAUTY COLLEGE",
+  "institution": "Enid Beauty College",
   "city": "Enid",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 207087,
-  "grad_rate": 65.3,
-  "grad_rate_rank": 1377,
-  "default_rate": 17.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 71.0,
+  "grad_rate_rank": 1128,
+  "default_rate": 21.2,
+  "avg_stu_loan_debt": 4875,
+  "avg_stu_loan_debt_rank": 230,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73703",
+  "email": false
 }

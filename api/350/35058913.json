@@ -1,6 +1,6 @@
 {
   "facility_code": "35058913",
-  "institution": "STATE CAREER COLLEGE",
+  "institution": "State Career College",
   "city": "Waukegan",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 462053,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 33.6,
+  "grad_rate_rank": 2175,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3743,
+  "avg_stu_loan_debt_rank": 135,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60085",
+  "email": true
 }

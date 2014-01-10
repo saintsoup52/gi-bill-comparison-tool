@@ -1,6 +1,6 @@
 {
   "facility_code": "24954438",
-  "institution": "TRIANGLE TECH INC (DUBOIS/IHL/NCD)",
+  "institution": "Triangle Tech Inc (Dubois/Ihl/Ncd)",
   "city": "Dubois",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 32,
   "cross": 216454,
-  "grad_rate": 86.2,
-  "grad_rate_rank": 18,
-  "default_rate": 9.9,
-  "avg_stu_loan_debt": 18550,
-  "avg_stu_loan_debt_rank": 1374,
-  "indicator_group": 2
+  "grad_rate": 84.1,
+  "grad_rate_rank": 25,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1198,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15801",
+  "email": true
 }

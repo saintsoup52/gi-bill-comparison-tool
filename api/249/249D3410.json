@@ -1,6 +1,6 @@
 {
   "facility_code": "249D3410",
-  "institution": "TAYLOR COLLEGE",
+  "institution": "Taylor College",
   "city": "Belleview",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 449524,
-  "grad_rate": 85.7,
-  "grad_rate_rank": 28,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 14972,
-  "avg_stu_loan_debt_rank": 785,
-  "indicator_group": 3
+  "grad_rate": 93.7,
+  "grad_rate_rank": 16,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 651,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "34420",
+  "email": true
 }

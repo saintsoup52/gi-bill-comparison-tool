@@ -1,6 +1,6 @@
 {
   "facility_code": "24800205",
-  "institution": "SAN JOAQUIN VALLEY COLLEGE-VISALIA",
+  "institution": "San Joaquin Valley College-Visalia",
   "city": "Visalia",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 89,
   "cross": 122685,
-  "grad_rate": 62.2,
-  "grad_rate_rank": 113,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 16565,
-  "avg_stu_loan_debt_rank": 1309,
-  "indicator_group": 2
+  "grad_rate": 52.8,
+  "grad_rate_rank": 239,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 17900,
+  "avg_stu_loan_debt_rank": 1120,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93291",
+  "email": true
 }

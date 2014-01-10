@@ -1,6 +1,6 @@
 {
   "facility_code": "21114105",
-  "institution": "ART INSTITUTE OF CALIFORNIA - HOLLYWOOD",
+  "institution": "Art Institute Of California - Hollywood",
   "city": "North Hollywood",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 194,
   "cross": 410502,
-  "grad_rate": 29.4,
-  "grad_rate_rank": 1511,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 9220,
-  "avg_stu_loan_debt_rank": 197,
-  "indicator_group": 1
+  "grad_rate": 26.6,
+  "grad_rate_rank": 1605,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 10787,
+  "avg_stu_loan_debt_rank": 192,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "91601",
+  "email": true
 }

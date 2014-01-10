@@ -1,6 +1,6 @@
 {
   "facility_code": "31000333",
-  "institution": "DAVIDSON COLLEGE",
+  "institution": "Davidson College",
   "city": "Davidson",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 198385,
-  "grad_rate": 91.5,
-  "grad_rate_rank": 46,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 92.4,
+  "grad_rate_rank": 37,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 21574,
+  "avg_stu_loan_debt_rank": 1388,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28035",
+  "email": true
 }

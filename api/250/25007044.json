@@ -1,6 +1,6 @@
 {
   "facility_code": "25007044",
-  "institution": "RENAISSANCE ACADEMIE DE HAIR DESIGN",
+  "institution": "Renaissance Academie De Hair Design",
   "city": "Provo",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 458104,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 13281,
+  "avg_stu_loan_debt_rank": 1852,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84604",
+  "email": true
 }

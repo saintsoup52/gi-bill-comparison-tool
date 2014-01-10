@@ -1,6 +1,6 @@
 {
   "facility_code": "31861110",
-  "institution": "HODGES UNIVERSITY - KEY WEST",
+  "institution": "Hodges University - Key West",
   "city": "Key West",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 367884,
-  "grad_rate": 12.5,
-  "grad_rate_rank": 1757,
+  "grad_rate": 18.2,
+  "grad_rate_rank": 1735,
   "default_rate": 13.4,
-  "avg_stu_loan_debt": 13800,
-  "avg_stu_loan_debt_rank": 613,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 17444,
+  "avg_stu_loan_debt_rank": 838,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33040",
+  "email": true
 }

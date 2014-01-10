@@ -1,6 +1,6 @@
 {
   "facility_code": "32014923",
-  "institution": "MAYO CLINIC COLLEGE OF MEDICINE",
+  "institution": "Mayo Clinic College Of Medicine",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 173957,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.7,
-  "avg_stu_loan_debt": 7750,
-  "avg_stu_loan_debt_rank": 267,
-  "indicator_group": 4
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 58,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "55905",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21013146",
-  "institution": "CAMBRIDGE COLLEGE",
+  "institution": "Cambridge College",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 165167,
-  "grad_rate": 7.7,
-  "grad_rate_rank": 1804,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 18522,
-  "avg_stu_loan_debt_rank": 1156,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 9.5,
+  "avg_stu_loan_debt": 18655,
+  "avg_stu_loan_debt_rank": 1004,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23320",
+  "email": true
 }

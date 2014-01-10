@@ -1,6 +1,6 @@
 {
   "facility_code": "14914443",
-  "institution": "PARIS JUNIOR COLLEGE",
+  "institution": "Paris Junior College",
   "city": "Paris",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 240,
   "cross": 227401,
-  "grad_rate": 19.1,
-  "grad_rate_rank": 893,
-  "default_rate": 41.5,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "grad_rate": 23.1,
+  "grad_rate_rank": 842,
+  "default_rate": 40.7,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 136,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75460",
+  "email": false
 }

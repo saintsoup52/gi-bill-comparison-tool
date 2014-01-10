@@ -1,6 +1,6 @@
 {
   "facility_code": "31809628",
-  "institution": "TOURO UNIVERSITY",
+  "institution": "Touro University",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 459824,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 16666,
-  "avg_stu_loan_debt_rank": 906,
-  "indicator_group": 1
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89104",
+  "email": true
 }

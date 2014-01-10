@@ -1,6 +1,6 @@
 {
   "facility_code": "28566714",
-  "institution": "THE MASTERS OF COSMETOLOGY COLLEGE INC.",
+  "institution": "The Masters Of Cosmetology College Inc.",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 151829,
-  "grad_rate": 71.6,
-  "grad_rate_rank": 1095,
-  "default_rate": 8.1,
-  "avg_stu_loan_debt": 15450,
-  "avg_stu_loan_debt_rank": 2485,
-  "indicator_group": 5
+  "grad_rate": 83.1,
+  "grad_rate_rank": 522,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 11332,
+  "avg_stu_loan_debt_rank": 1624,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "46809",
+  "email": false
 }

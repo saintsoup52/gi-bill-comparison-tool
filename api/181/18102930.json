@@ -1,6 +1,6 @@
 {
   "facility_code": "18102930",
-  "institution": "OCEAN COUNTY VOCATIONAL TECHNICAL SCHOOL - LAKEHURST",
+  "institution": "Ocean County Vocational Technical School - Lakehurst",
   "city": "Lakehurst Naes",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 431716,
-  "grad_rate": 84.5,
-  "grad_rate_rank": 451,
-  "default_rate": 14.4,
+  "grad_rate": 40.2,
+  "grad_rate_rank": 2101,
+  "default_rate": 24.5,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8733",
+  "email": false
 }

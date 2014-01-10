@@ -1,6 +1,6 @@
 {
   "facility_code": "25063218",
-  "institution": "DELTA SCHOOL OF BUSINESS & TECH - LAKE CHARLES",
+  "institution": "Delta School Of Business & Tech - Lake Charles",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 158723,
-  "grad_rate": 58.5,
-  "grad_rate_rank": 149,
-  "default_rate": 25.4,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 68.6,
+  "grad_rate_rank": 103,
+  "default_rate": 24.5,
+  "avg_stu_loan_debt": 13125,
+  "avg_stu_loan_debt_rank": 916,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "70601",
+  "email": true
 }

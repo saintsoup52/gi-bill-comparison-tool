@@ -1,6 +1,6 @@
 {
   "facility_code": "14915624",
-  "institution": "PEARL RIVER COMMUNITY COLLEGE",
+  "institution": "Pearl River Community College",
   "city": "Poplarville",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 284,
   "cross": 176239,
-  "grad_rate": 35.8,
-  "grad_rate_rank": 416,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 5124,
-  "avg_stu_loan_debt_rank": 285,
-  "indicator_group": 2
+  "grad_rate": 35.5,
+  "grad_rate_rank": 492,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39470",
+  "email": true
 }

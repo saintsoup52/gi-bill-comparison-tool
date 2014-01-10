@@ -1,6 +1,6 @@
 {
   "facility_code": "24904425",
-  "institution": "MISSOURI COLLEGE",
+  "institution": "Missouri College",
   "city": "Brentwood",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 178305,
-  "grad_rate": 67.0,
-  "grad_rate_rank": 86,
-  "default_rate": 22.2,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 779,
-  "indicator_group": 3
+  "grad_rate": 45.5,
+  "grad_rate_rank": 428,
+  "default_rate": 19.0,
+  "avg_stu_loan_debt": 14955,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "63144",
+  "email": true
 }

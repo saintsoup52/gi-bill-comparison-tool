@@ -1,6 +1,6 @@
 {
   "facility_code": "28830230",
-  "institution": "TETERBORO SCHOOL OF AERONAUTICS",
+  "institution": "Teterboro School Of Aeronautics",
   "city": "Teterboro",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 187000,
-  "grad_rate": 67.6,
-  "grad_rate_rank": 1265,
-  "default_rate": 25.0,
+  "grad_rate": 66.2,
+  "grad_rate_rank": 1377,
+  "default_rate": 21.7,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7608",
+  "email": false
 }

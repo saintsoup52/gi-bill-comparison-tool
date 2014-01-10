@@ -1,6 +1,6 @@
 {
   "facility_code": "31600005",
-  "institution": "CALIFORNIA COLLEGE OF THE ARTS",
+  "institution": "California College Of The Arts",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 110370,
-  "grad_rate": 48.6,
-  "grad_rate_rank": 936,
-  "default_rate": 4.8,
+  "grad_rate": 45.1,
+  "grad_rate_rank": 1060,
+  "default_rate": 8.9,
   "avg_stu_loan_debt": 31250,
-  "avg_stu_loan_debt_rank": 2044,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1970,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94618",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28215015",
-  "institution": "PCI ACADEMY",
+  "institution": "Pci Academy",
   "city": "Ames",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 154208,
-  "grad_rate": 89.0,
-  "grad_rate_rank": 297,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 10180,
-  "avg_stu_loan_debt_rank": 2166,
-  "indicator_group": 5
+  "grad_rate": 67.7,
+  "grad_rate_rank": 1288,
+  "default_rate": 9.0,
+  "avg_stu_loan_debt": 12099,
+  "avg_stu_loan_debt_rank": 1784,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50010",
+  "email": false
 }

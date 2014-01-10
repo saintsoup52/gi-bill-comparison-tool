@@ -1,6 +1,6 @@
 {
   "facility_code": "10121431",
-  "institution": "NEW MEXICO DEPARTMENT OF VETERANS SERVICES",
+  "institution": "New Mexico Department Of Veterans Services",
   "city": "Santa Fe",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87504",
+  "email": false
 }

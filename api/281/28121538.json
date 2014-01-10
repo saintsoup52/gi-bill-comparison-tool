@@ -1,6 +1,6 @@
 {
   "facility_code": "28121538",
-  "institution": "EMPIRE BEAUTY SCHOOL (HARRISBURG)",
+  "institution": "Empire Beauty School (Harrisburg)",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 212382,
-  "grad_rate": 60.2,
-  "grad_rate_rank": 1582,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 12108,
-  "avg_stu_loan_debt_rank": 2351,
-  "indicator_group": 5
+  "grad_rate": 63.9,
+  "grad_rate_rank": 1474,
+  "default_rate": 17.8,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17109",
+  "email": true
 }

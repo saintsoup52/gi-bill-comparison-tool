@@ -1,6 +1,6 @@
 {
   "facility_code": "24951025",
-  "institution": "AMERICAN COLLEGE OF TECHNOLOGY",
+  "institution": "American College Of Technology",
   "city": "St. Joseph",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 368,
   "cross": 457688,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 58.8,
+  "grad_rate_rank": 181,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 245,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 136,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "64506",
+  "email": true
 }

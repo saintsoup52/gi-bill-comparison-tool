@@ -1,6 +1,6 @@
 {
   "facility_code": "15141210",
-  "institution": "LINDSEY HOPKINS TECHNICAL EDUCATION CENTER",
+  "institution": "Lindsey Hopkins Technical Education Center",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 135294,
-  "grad_rate": 28.3,
-  "grad_rate_rank": 2144,
+  "grad_rate": 26.8,
+  "grad_rate_rank": 2214,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33127",
+  "email": true
 }

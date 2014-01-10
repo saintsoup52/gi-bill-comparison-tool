@@ -1,6 +1,6 @@
 {
   "facility_code": "14909416",
-  "institution": "INDEPENDENCE COMMUNITY COLLEGE",
+  "institution": "Independence Community College",
   "city": "Independence",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 155201,
-  "grad_rate": 20.8,
-  "grad_rate_rank": 428,
-  "default_rate": 22.8,
-  "avg_stu_loan_debt": 2237,
-  "avg_stu_loan_debt_rank": 91,
-  "indicator_group": 3
+  "grad_rate": 27.1,
+  "grad_rate_rank": 568,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 2854,
+  "avg_stu_loan_debt_rank": 15,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "67301",
+  "email": false
 }

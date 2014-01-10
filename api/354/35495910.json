@@ -1,6 +1,6 @@
 {
   "facility_code": "35495910",
-  "institution": "COMMUNITY TECHNOLOGICAL INSTITUTE OF MIAMI",
+  "institution": "Community Technological Institute Of Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33130",
+  "email": true
 }

@@ -1,10 +1,10 @@
 {
   "facility_code": "11003274",
-  "institution": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+  "institution": "National University Of Ireland Galway",
   "city": "Galway",
   "state": "Ireland",
   "country": "Ireland",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

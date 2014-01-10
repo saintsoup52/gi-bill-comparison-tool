@@ -1,6 +1,6 @@
 {
   "facility_code": "31824010",
-  "institution": "FLAGLER COLLEGE - ST AUGUSTINE",
+  "institution": "Flagler College - St Augustine",
   "city": "St Augustine",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 99,
   "cross": 133711,
-  "grad_rate": 59.9,
-  "grad_rate_rank": 566,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 64.8,
+  "grad_rate_rank": 437,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 17266,
+  "avg_stu_loan_debt_rank": 828,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32085",
+  "email": false
 }

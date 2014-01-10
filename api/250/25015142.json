@@ -1,6 +1,6 @@
 {
   "facility_code": "25015142",
-  "institution": "SOUTHERN INSTITUTE OF COSMETOLOGY",
+  "institution": "Southern Institute Of Cosmetology",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 376668,
-  "grad_rate": 40.4,
-  "grad_rate_rank": 2066,
-  "default_rate": 17.6,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "grad_rate": 60.0,
+  "grad_rate_rank": 1631,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38118",
+  "email": false
 }

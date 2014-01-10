@@ -1,6 +1,6 @@
 {
   "facility_code": "25029442",
-  "institution": "THE HAIR DESIGN SCHOOL - JACKSON",
+  "institution": "The Hair Design School - Jackson",
   "city": "Jackson",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 458821,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 27.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "default_rate": 25.4,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38301",
+  "email": false
 }

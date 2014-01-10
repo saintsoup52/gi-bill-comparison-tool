@@ -1,6 +1,6 @@
 {
   "facility_code": "24843210",
-  "institution": "SOUTHERN TECHNICAL COLLEGE-MT.DORA",
+  "institution": "Southern Technical College-Mt.Dora",
   "city": "Mount Dora",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 446552,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1348,
-  "indicator_group": 2
+  "grad_rate": 77.7,
+  "grad_rate_rank": 55,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 19448,
+  "avg_stu_loan_debt_rank": 1176,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32757",
+  "email": false
 }

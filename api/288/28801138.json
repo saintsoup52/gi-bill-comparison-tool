@@ -1,6 +1,6 @@
 {
   "facility_code": "28801138",
-  "institution": "EMPIRE BEAUTY SCHOOL (READING)",
+  "institution": "Empire Beauty School (Reading)",
   "city": "Reading",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 212391,
-  "grad_rate": 56.1,
-  "grad_rate_rank": 1744,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 11300,
-  "avg_stu_loan_debt_rank": 2252,
-  "indicator_group": 5
+  "grad_rate": 50.0,
+  "grad_rate_rank": 1940,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19605",
+  "email": true
 }

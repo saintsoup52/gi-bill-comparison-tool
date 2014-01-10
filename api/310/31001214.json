@@ -1,6 +1,6 @@
 {
   "facility_code": "31001214",
-  "institution": "MANCHESTER UNIVERSITY",
+  "institution": "Manchester University",
   "city": "North Manchester",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 151777,
-  "grad_rate": 51.1,
-  "grad_rate_rank": 838,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 18500,
-  "avg_stu_loan_debt_rank": 1137,
-  "indicator_group": 1
+  "grad_rate": 57.2,
+  "grad_rate_rank": 660,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 21223,
+  "avg_stu_loan_debt_rank": 1337,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46962",
+  "email": false
 }

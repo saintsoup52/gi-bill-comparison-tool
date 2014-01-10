@@ -1,6 +1,6 @@
 {
   "facility_code": "10607225",
-  "institution": "ST. JAMES POLICE DEPT.",
+  "institution": "St. James Police Dept.",
   "city": "St. James",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "65559",
+  "email": false
 }

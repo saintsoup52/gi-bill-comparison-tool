@@ -1,6 +1,6 @@
 {
   "facility_code": "26009230",
-  "institution": "JOE KUBERT SCHOOL OF CARTOON AND GRAPHIC ART INC",
+  "institution": "Joe Kubert School Of Cartoon And Graphic Art Inc",
   "city": "Dover",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 185174,
-  "grad_rate": 57.8,
-  "grad_rate_rank": 1676,
-  "default_rate": 0.0,
+  "grad_rate": 64.0,
+  "grad_rate_rank": 1469,
+  "default_rate": 5.2,
   "avg_stu_loan_debt": 32500,
-  "avg_stu_loan_debt_rank": 2564,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 2020,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7801",
+  "email": false
 }

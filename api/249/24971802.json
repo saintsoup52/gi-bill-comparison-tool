@@ -1,6 +1,6 @@
 {
   "facility_code": "24971802",
-  "institution": "AVTEC",
+  "institution": "Avtec",
   "city": "Seward",
   "state": "AK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 102711,
-  "grad_rate": 76.5,
-  "grad_rate_rank": 843,
-  "default_rate": 7.6,
+  "grad_rate": 90.8,
+  "grad_rate_rank": 249,
+  "default_rate": 15.5,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "99664",
+  "email": true
 }

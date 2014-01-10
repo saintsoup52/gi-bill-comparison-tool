@@ -1,6 +1,6 @@
 {
   "facility_code": "25803324",
-  "institution": "THE ACADEMY OF HAIR DESIGN # 3 - JACKSON",
+  "institution": "The Academy Of Hair Design # 3 - Jackson",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 374316,
-  "grad_rate": 96.6,
-  "grad_rate_rank": 105,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "grad_rate": 96.2,
+  "grad_rate_rank": 126,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 1750,
+  "avg_stu_loan_debt_rank": 8,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "39204",
+  "email": false
 }

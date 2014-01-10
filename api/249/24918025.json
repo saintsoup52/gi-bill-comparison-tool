@@ -1,6 +1,6 @@
 {
   "facility_code": "24918025",
-  "institution": "HERITAGE COLLEGE-KANSAS CITY",
+  "institution": "Heritage College-Kansas City",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 46,
   "cross": 445814,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 20.9,
-  "avg_stu_loan_debt": 11300,
-  "avg_stu_loan_debt_rank": 933,
-  "indicator_group": 2
+  "grad_rate": 59.5,
+  "grad_rate_rank": 177,
+  "default_rate": 17.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "64131",
+  "email": true
 }

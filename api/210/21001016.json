@@ -1,6 +1,6 @@
 {
   "facility_code": "21001016",
-  "institution": "NATIONAL AMERICAN UNIVERSITY - OVERLAND PARK",
+  "institution": "National American University - Overland Park",
   "city": "Overland Park",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 442718,
-  "grad_rate": 28.6,
-  "grad_rate_rank": 577,
-  "default_rate": 22.9,
-  "avg_stu_loan_debt": 11421,
-  "avg_stu_loan_debt_rank": 944,
-  "indicator_group": 2
+  "grad_rate": 10.0,
+  "grad_rate_rank": 1291,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 12479,
+  "avg_stu_loan_debt_rank": 881,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "66212",
+  "email": true
 }

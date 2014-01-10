@@ -1,6 +1,6 @@
 {
   "facility_code": "25492410",
-  "institution": "FLORIDA KEYS DIVING INSTITUTE",
+  "institution": "Florida Keys Diving Institute",
   "city": "Tavenier",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33070",
+  "email": true
 }

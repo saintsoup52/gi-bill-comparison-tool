@@ -1,6 +1,6 @@
 {
   "facility_code": "14901414",
-  "institution": "VINCENNES UNIVERSITY",
+  "institution": "Vincennes University",
   "city": "Vincennes",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 322,
   "cross": 152637,
-  "grad_rate": 22.5,
-  "grad_rate_rank": 779,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 10629,
-  "avg_stu_loan_debt_rank": 895,
-  "indicator_group": 2
+  "grad_rate": 26.2,
+  "grad_rate_rank": 748,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 10958,
+  "avg_stu_loan_debt_rank": 778,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "47591",
+  "email": true
 }

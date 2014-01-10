@@ -1,6 +1,6 @@
 {
   "facility_code": "15518517",
-  "institution": "HARLAN COUNTY HIGH SCHOOL",
+  "institution": "Harlan County High School",
   "city": "Baxter",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40806",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25010306",
-  "institution": "DENVER SCHOOL OF MASSAGE THERAPY-AURORA",
+  "institution": "Denver School Of Massage Therapy-Aurora",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 469160,
-  "grad_rate": 72.5,
-  "grad_rate_rank": 1045,
-  "default_rate": 26.7,
-  "avg_stu_loan_debt": 9367,
-  "avg_stu_loan_debt_rank": 1623,
-  "indicator_group": 5
+  "grad_rate": 82.8,
+  "grad_rate_rank": 530,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 8607,
+  "avg_stu_loan_debt_rank": 917,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80012",
+  "email": true
 }

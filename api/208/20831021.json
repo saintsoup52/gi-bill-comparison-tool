@@ -1,6 +1,6 @@
 {
   "facility_code": "20831021",
-  "institution": "LUNDY INC.",
+  "institution": "Lundy Inc.",
   "city": "Hingham",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2043",
+  "email": false
 }

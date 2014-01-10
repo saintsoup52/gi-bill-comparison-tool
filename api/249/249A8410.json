@@ -1,6 +1,6 @@
 {
   "facility_code": "249A8410",
-  "institution": "PROFESSIONAL TRAINING CENTERS",
+  "institution": "Professional Training Centers",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 436702,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.6,
-  "avg_stu_loan_debt": 13761,
-  "avg_stu_loan_debt_rank": 768,
-  "indicator_group": 3
+  "grad_rate": 86.6,
+  "grad_rate_rank": 31,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 6587,
+  "avg_stu_loan_debt_rank": 181,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33175",
+  "email": true
 }

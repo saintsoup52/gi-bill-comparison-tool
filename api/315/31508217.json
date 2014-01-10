@@ -1,6 +1,6 @@
 {
   "facility_code": "31508217",
-  "institution": "KENTUCKY MOUNTAIN BIBLE COLLEGE",
+  "institution": "Kentucky Mountain Bible College",
   "city": "Vancleve",
   "state": "KY",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 1,
   "cross": 157030,
   "grad_rate": 33.3,
-  "grad_rate_rank": 1403,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 4800,
-  "avg_stu_loan_debt_rank": 101,
-  "indicator_group": 1
+  "grad_rate_rank": 1432,
+  "default_rate": 14.2,
+  "avg_stu_loan_debt": 6812,
+  "avg_stu_loan_debt_rank": 67,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "41385",
+  "email": false
 }

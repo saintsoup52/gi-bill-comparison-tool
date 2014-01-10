@@ -1,6 +1,6 @@
 {
   "facility_code": "25100008",
-  "institution": "AMERICAN BEAUTY ACADEMY",
+  "institution": "American Beauty Academy",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 431637,
-  "grad_rate": 50.8,
-  "grad_rate_rank": 1900,
-  "default_rate": 34.6,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 46.6,
+  "grad_rate_rank": 2007,
+  "default_rate": 35.7,
+  "avg_stu_loan_debt": 9499,
+  "avg_stu_loan_debt_rank": 1069,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19801",
+  "email": true
 }

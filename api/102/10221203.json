@@ -1,6 +1,6 @@
 {
   "facility_code": "10221203",
-  "institution": "MARICOPA COMMUNITY COLLEGE DISTRICT MAINT. & OPS",
+  "institution": "Maricopa Community College District Maint. & Ops",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85281",
+  "email": false
 }

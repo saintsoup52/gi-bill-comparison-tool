@@ -1,6 +1,6 @@
 {
   "facility_code": "28217115",
-  "institution": "AVEDA INSTITUTE OF DES MOINES",
+  "institution": "Aveda Institute Of Des Moines",
   "city": "West Des Moines",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 475015,
-  "grad_rate": 94.0,
-  "grad_rate_rank": 162,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 84.1,
+  "grad_rate_rank": 472,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 7230,
+  "avg_stu_loan_debt_rank": 664,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50266",
+  "email": false
 }

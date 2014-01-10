@@ -1,6 +1,6 @@
 {
   "facility_code": "20010735",
-  "institution": "SOUTHERN OHIO ADMINISTRATIVE DISTRICT COUNCIL JATC",
+  "institution": "Southern Ohio Administrative District Council Jatc",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43212",
+  "email": false
 }

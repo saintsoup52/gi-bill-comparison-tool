@@ -1,6 +1,6 @@
 {
   "facility_code": "25051413",
-  "institution": "EDUCATORS OF BEAUTY-ROCKFORD",
+  "institution": "Educators Of Beauty-Rockford",
   "city": "Rockford",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 260965,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 1793,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 9791,
-  "avg_stu_loan_debt_rank": 2121,
-  "indicator_group": 5
+  "grad_rate": 61.3,
+  "grad_rate_rank": 1583,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 10200,
+  "avg_stu_loan_debt_rank": 1538,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "61104",
+  "email": false
 }

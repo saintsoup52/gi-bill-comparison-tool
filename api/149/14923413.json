@@ -1,6 +1,6 @@
 {
   "facility_code": "14923413",
-  "institution": "ILLINOIS CENTRAL COLLEGE",
+  "institution": "Illinois Central College",
   "city": "East Peoria",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 486,
   "cross": 145682,
-  "grad_rate": 25.5,
-  "grad_rate_rank": 671,
-  "default_rate": 24.7,
-  "avg_stu_loan_debt": 4399,
-  "avg_stu_loan_debt_rank": 204,
-  "indicator_group": 2
+  "grad_rate": 20.5,
+  "grad_rate_rank": 922,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 4500,
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "61635",
+  "email": true
 }

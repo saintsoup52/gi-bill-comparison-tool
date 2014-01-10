@@ -1,6 +1,6 @@
 {
   "facility_code": "25035104",
-  "institution": "ARTHUR'S BEAUTY COLLEGE - JONESBORO",
+  "institution": "Arthur'S Beauty College - Jonesboro",
   "city": "Jonesboro",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 106360,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 21.4,
+  "grad_rate": 59.1,
+  "grad_rate_rank": 1662,
+  "default_rate": 52.9,
   "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "72401",
+  "email": false
 }

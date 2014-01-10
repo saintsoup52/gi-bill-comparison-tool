@@ -1,6 +1,6 @@
 {
   "facility_code": "24994638",
-  "institution": "ANTHEM INSTITUTE",
+  "institution": "Anthem Institute",
   "city": "Springfield",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 213312,
-  "grad_rate": 51.4,
-  "grad_rate_rank": 1890,
-  "default_rate": 13.3,
-  "avg_stu_loan_debt": 8052,
-  "avg_stu_loan_debt_rank": 1387,
-  "indicator_group": 5
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 8390,
+  "avg_stu_loan_debt_rank": 883,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19064",
+  "email": true
 }

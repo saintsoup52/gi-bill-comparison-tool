@@ -1,6 +1,6 @@
 {
   "facility_code": "24801332",
-  "institution": "BRYANT & STRATTON COLLEGE - SYRACUSE",
+  "institution": "Bryant & Stratton College - Syracuse",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 189574,
-  "grad_rate": 26.0,
-  "grad_rate_rank": 655,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 916,
-  "indicator_group": 2
+  "grad_rate": 21.0,
+  "grad_rate_rank": 909,
+  "default_rate": 30.3,
+  "avg_stu_loan_debt": 11027,
+  "avg_stu_loan_debt_rank": 783,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13203",
+  "email": true
 }

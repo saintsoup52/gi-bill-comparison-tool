@@ -1,6 +1,6 @@
 {
   "facility_code": "25543335",
-  "institution": "OHIO CENTER FOR BROADCASTING-CINCINNATI",
+  "institution": "Ohio Center For Broadcasting-Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 418269,
-  "grad_rate": 77.2,
-  "grad_rate_rank": 808,
-  "default_rate": 17.6,
+  "grad_rate": 45.5,
+  "grad_rate_rank": 2023,
+  "default_rate": 14.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45227",
+  "email": false
 }

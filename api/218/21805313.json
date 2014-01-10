@@ -1,6 +1,6 @@
 {
   "facility_code": "21805313",
-  "institution": "UNIVERSITY OF PHOENIX CHICAGO CAMPUS",
+  "institution": "University Of Phoenix Chicago Campus",
   "city": "Schaumburg",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 171,
   "cross": 442161,
-  "grad_rate": 21.6,
-  "grad_rate_rank": 1645,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 12.7,
+  "grad_rate_rank": 1807,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60173",
+  "email": true
 }

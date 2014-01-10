@@ -1,6 +1,6 @@
 {
   "facility_code": "10456747",
-  "institution": "TULALIP TRIBE GIS DEPARTMENT - CH 31 ONLY",
+  "institution": "Tulalip Tribe Gis Department - Ch 31 Only",
   "city": "Tulalip",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98270",
+  "email": false
 }

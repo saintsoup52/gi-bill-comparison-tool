@@ -1,6 +1,6 @@
 {
   "facility_code": "11822413",
-  "institution": "UIC SCHOOL OF PUBLIC HEALTH",
+  "institution": "Uic School Of Public Health",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 145600,
-  "grad_rate": 54.5,
-  "grad_rate_rank": 726,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 17000,
-  "avg_stu_loan_debt_rank": 950,
-  "indicator_group": 1
+  "grad_rate": 57.7,
+  "grad_rate_rank": 640,
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 16723,
+  "avg_stu_loan_debt_rank": 772,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60612",
+  "email": false
 }

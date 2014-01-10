@@ -1,6 +1,6 @@
 {
   "facility_code": "46000942",
-  "institution": "NATIONAL ASSOCIATION OF STATE BOARDS OF ACCOUNTANCY (NASBA)",
+  "institution": "National Association Of State Boards Of Accountancy (Nasba)",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37219",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24954742",
-  "institution": "FORTIS INSTITUTE - NASHVILLE",
+  "institution": "Fortis Institute - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 45,
   "cross": 452124,
-  "grad_rate": 60.5,
-  "grad_rate_rank": 129,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 7803,
-  "avg_stu_loan_debt_rank": 326,
-  "indicator_group": 3
+  "grad_rate": 58.9,
+  "grad_rate_rank": 309,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 8895,
+  "avg_stu_loan_debt_rank": 287,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "37211",
+  "email": false
 }

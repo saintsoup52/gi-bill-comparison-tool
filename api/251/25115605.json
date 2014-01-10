@@ -1,6 +1,6 @@
 {
   "facility_code": "25115605",
-  "institution": "BRISTOL UNIVERSITY",
+  "institution": "Bristol University",
   "city": "Anaheim",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 397270,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 111,
-  "indicator_group": 3
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 5871,
+  "avg_stu_loan_debt_rank": 149,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "92806",
+  "email": "No (SCO)"
 }

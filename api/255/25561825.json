@@ -1,6 +1,6 @@
 {
   "facility_code": "25561825",
-  "institution": "GRABBER SCHOOL OF HAIR DESIGN",
+  "institution": "Grabber School Of Hair Design",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 363679,
-  "grad_rate": 69.4,
-  "grad_rate_rank": 1199,
-  "default_rate": 16.3,
-  "avg_stu_loan_debt": 16298,
-  "avg_stu_loan_debt_rank": 2500,
-  "indicator_group": 5
+  "grad_rate": 67.6,
+  "grad_rate_rank": 1296,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 16325,
+  "avg_stu_loan_debt_rank": 1947,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63011",
+  "email": false
 }

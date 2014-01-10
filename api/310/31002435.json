@@ -1,6 +1,6 @@
 {
   "facility_code": "31002435",
-  "institution": "OHIO CHRISTIAN UNIVERSITY",
+  "institution": "Ohio Christian University",
   "city": "Circleville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 124,
   "cross": 201964,
-  "grad_rate": 53.5,
-  "grad_rate_rank": 761,
-  "default_rate": 11.7,
-  "avg_stu_loan_debt": 13716,
-  "avg_stu_loan_debt_rank": 605,
-  "indicator_group": 1
+  "grad_rate": 36.5,
+  "grad_rate_rank": 1348,
+  "default_rate": 12.2,
+  "avg_stu_loan_debt": 10725,
+  "avg_stu_loan_debt_rank": 189,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43113",
+  "email": true
 }

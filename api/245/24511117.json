@@ -1,6 +1,6 @@
 {
   "facility_code": "24511117",
-  "institution": "DAYMAR COLLEGE - SCOTTSVILLE",
+  "institution": "Daymar College - Scottsville",
   "city": "Scottsville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 6,
   "cross": 455646,
-  "grad_rate": 86.0,
-  "grad_rate_rank": 19,
-  "default_rate": 29.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 75.0,
+  "grad_rate_rank": 61,
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 12315,
+  "avg_stu_loan_debt_rank": 873,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "42164",
+  "email": true
 }

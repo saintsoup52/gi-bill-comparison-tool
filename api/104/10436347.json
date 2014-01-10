@@ -1,6 +1,6 @@
 {
   "facility_code": "10436347",
-  "institution": "FORT LEWIS MILITARY MUSEUM (CH 31 ONLY)",
+  "institution": "Fort Lewis Military Museum (Ch 31 Only)",
   "city": "Ft. Lewis",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98433",
+  "email": true
 }

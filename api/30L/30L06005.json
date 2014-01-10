@@ -1,6 +1,6 @@
 {
   "facility_code": "30L06005",
-  "institution": "INTERN ASSOC  BRIDGE STRUCTRL ORNMNTL  REINFRCING IRONWRKR LOCAL 377 SANTA CLARA",
+  "institution": "Intern Assoc  Bridge Structrl Ornmntl  Reinfrcing Ironwrkr Local 377 Santa Clara",
   "city": "Benicia",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94510",
+  "email": false
 }

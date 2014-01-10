@@ -1,6 +1,6 @@
 {
   "facility_code": "30322113",
-  "institution": "LOCAL 149 JOINT APPRENTICESHIP COMMITTEE",
+  "institution": "Local 149 Joint Apprenticeship Committee",
   "city": "Savoy",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "61874",
+  "email": true
 }

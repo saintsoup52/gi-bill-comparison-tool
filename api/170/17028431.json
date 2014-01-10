@@ -1,6 +1,6 @@
 {
   "facility_code": "17028431",
-  "institution": "CIMARRON HIGH SCHOOL",
+  "institution": "Cimarron High School",
   "city": "Cimarron",
   "state": "NM",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "87714",
+  "email": false
 }

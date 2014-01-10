@@ -1,6 +1,6 @@
 {
   "facility_code": "30065910",
-  "institution": "SOUTH FLORIDA PAINTERS & ALLIED TRADES JATC",
+  "institution": "South Florida Painters & Allied Trades Jatc",
   "city": "Pompano",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33069",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25023003",
-  "institution": "EMPIRE BEAUTY SCHOOL- CHANDLER",
+  "institution": "Empire Beauty School- Chandler",
   "city": "Chandler",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 104443,
-  "grad_rate": 54.9,
-  "grad_rate_rank": 1784,
-  "default_rate": 16.5,
-  "avg_stu_loan_debt": 14083,
-  "avg_stu_loan_debt_rank": 2446,
-  "indicator_group": 5
+  "grad_rate": 65.1,
+  "grad_rate_rank": 1422,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85224",
+  "email": false
 }

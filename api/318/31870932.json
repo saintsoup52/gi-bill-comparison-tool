@@ -1,6 +1,6 @@
 {
   "facility_code": "31870932",
-  "institution": "LONG ISLAND UNIVERSITY - RIVERHEAD",
+  "institution": "Long Island University - Riverhead",
   "city": "Riverhead",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 450766,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 22404,
-  "avg_stu_loan_debt_rank": 1690,
-  "indicator_group": 1
+  "default_rate": 9.2,
+  "avg_stu_loan_debt": 24658,
+  "avg_stu_loan_debt_rank": 1697,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11901",
+  "email": true
 }

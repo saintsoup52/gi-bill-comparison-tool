@@ -1,6 +1,6 @@
 {
   "facility_code": "28507618",
-  "institution": "SOUTH LOUISIANA BEAUTY COLLEGE",
+  "institution": "South Louisiana Beauty College",
   "city": "Houma",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 160472,
-  "grad_rate": 58.6,
-  "grad_rate_rank": 1646,
-  "default_rate": 26.6,
+  "grad_rate": 75.6,
+  "grad_rate_rank": 884,
+  "default_rate": 35.4,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70363",
+  "email": false
 }

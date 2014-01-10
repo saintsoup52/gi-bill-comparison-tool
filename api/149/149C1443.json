@@ -1,6 +1,6 @@
 {
   "facility_code": "149C1443",
-  "institution": "SAN JACINTO COMMUNITY COLLEGE DISTRICT",
+  "institution": "San Jacinto Community College District",
   "city": "Pasadena",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1252,
   "cross": 227979,
-  "grad_rate": 11.4,
-  "grad_rate_rank": 1165,
-  "default_rate": 18.2,
-  "avg_stu_loan_debt": 5876,
-  "avg_stu_loan_debt_rank": 434,
-  "indicator_group": 2
+  "grad_rate": 14.1,
+  "grad_rate_rank": 1154,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 6084,
+  "avg_stu_loan_debt_rank": 337,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "77505",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31009242",
-  "institution": "BELHAVEN UNIVERSITY QUEST - CHATTANOOGA",
+  "institution": "Belhaven University Quest - Chattanooga",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 175421,
-  "grad_rate": 48.3,
-  "grad_rate_rank": 950,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 17757,
-  "avg_stu_loan_debt_rank": 1057,
-  "indicator_group": 1
+  "grad_rate": 48.5,
+  "grad_rate_rank": 946,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1157,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37402",
+  "email": true
 }

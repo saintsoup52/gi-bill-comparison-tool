@@ -1,6 +1,6 @@
 {
   "facility_code": "31000706",
-  "institution": "ILIFF SCHOOL OF THEOLOGY",
+  "institution": "Iliff School Of Theology",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 127273,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 5334,
-  "avg_stu_loan_debt_rank": 260,
-  "indicator_group": 4
+  "default_rate": 8.6,
+  "avg_stu_loan_debt": 6000,
+  "avg_stu_loan_debt_rank": 39,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "80210",
+  "email": true
 }

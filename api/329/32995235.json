@@ -1,6 +1,6 @@
 {
   "facility_code": "32995235",
-  "institution": "SPRINGFIELD REGIONAL SCHOOL OF NURSING",
+  "institution": "Springfield Regional School Of Nursing",
   "city": "Springfield",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 202268,
-  "grad_rate": 27.3,
-  "grad_rate_rank": 2148,
-  "default_rate": 3.3,
-  "avg_stu_loan_debt": 14750,
-  "avg_stu_loan_debt_rank": 2465,
-  "indicator_group": 5
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45501",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20524314",
-  "institution": "COLVIN'S PLUMBING INC.",
+  "institution": "Colvin'S Plumbing Inc.",
   "city": "North Vernon",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47265",
+  "email": false
 }

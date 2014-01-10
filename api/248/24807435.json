@@ -1,6 +1,6 @@
 {
   "facility_code": "24807435",
-  "institution": "MIAMI-JACOBS CAREER COLLEGE - SPRINGBORO",
+  "institution": "Miami-Jacobs Career College - Springboro",
   "city": "Springboro",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 449126,
-  "grad_rate": 55.8,
-  "grad_rate_rank": 172,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 45.8,
+  "grad_rate_rank": 327,
+  "default_rate": 18.9,
+  "avg_stu_loan_debt": 11383,
+  "avg_stu_loan_debt_rank": 812,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "45066",
+  "email": true
 }

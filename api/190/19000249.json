@@ -1,6 +1,6 @@
 {
   "facility_code": "19000249",
-  "institution": "WISCONSIN JOB SERVICE - PEWAUKEE OFFICE-CH31",
+  "institution": "Wisconsin Job Service - Pewaukee Office-Ch31",
   "city": "Pewaukee",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53072",
+  "email": "No (SCO)"
 }

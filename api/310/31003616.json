@@ -1,6 +1,6 @@
 {
   "facility_code": "31003616",
-  "institution": "MANHATTAN CHRISTIAN COLLEGE",
+  "institution": "Manhattan Christian College",
   "city": "Manhattan",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 155496,
-  "grad_rate": 38.5,
-  "grad_rate_rank": 1285,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 298,
-  "indicator_group": 1
+  "grad_rate": 37.9,
+  "grad_rate_rank": 1309,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66502",
+  "email": false
 }

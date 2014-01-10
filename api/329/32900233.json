@@ -1,6 +1,6 @@
 {
   "facility_code": "32900233",
-  "institution": "CABARRUS COLLEGE OF HEALTH SCIENCES",
+  "institution": "Cabarrus College Of Health Sciences",
   "city": "Concord",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 198109,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 62,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 11500,
-  "avg_stu_loan_debt_rank": 700,
-  "indicator_group": 3
+  "grad_rate": 72.7,
+  "grad_rate_rank": 144,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 583,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28025",
+  "email": true
 }

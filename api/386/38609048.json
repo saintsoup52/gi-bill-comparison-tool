@@ -1,6 +1,6 @@
 {
   "facility_code": "38609048",
-  "institution": "STANLEY TECHNICAL INSTITUTE",
+  "institution": "Stanley Technical Institute",
   "city": "Clarksburg",
   "state": "WV",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 1,
   "cross": 237419,
   "grad_rate": 77.8,
-  "grad_rate_rank": 762,
-  "default_rate": 40.9,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate_rank": 764,
+  "default_rate": 61.9,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26301",
+  "email": true
 }

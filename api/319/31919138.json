@@ -1,6 +1,6 @@
 {
   "facility_code": "31919138",
-  "institution": "IMMACULATA UNIVERSITY",
+  "institution": "Immaculata University",
   "city": "Immaculata",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 60,
   "cross": 213011,
-  "grad_rate": 55.4,
-  "grad_rate_rank": 692,
-  "default_rate": 6.5,
-  "avg_stu_loan_debt": 24801,
-  "avg_stu_loan_debt_rank": 1910,
-  "indicator_group": 1
+  "grad_rate": 53.1,
+  "grad_rate_rank": 803,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 24509,
+  "avg_stu_loan_debt_rank": 1694,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19345",
+  "email": true
 }

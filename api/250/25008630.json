@@ -1,6 +1,6 @@
 {
   "facility_code": "25008630",
-  "institution": "HEALTHCARE TRAINING INSTITUTE",
+  "institution": "Healthcare Training Institute",
   "city": "Union",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 446303,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 28.0,
-  "avg_stu_loan_debt": 5286,
-  "avg_stu_loan_debt_rank": 819,
-  "indicator_group": 5
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 10.9,
+  "avg_stu_loan_debt": 5541,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7083",
+  "email": true
 }

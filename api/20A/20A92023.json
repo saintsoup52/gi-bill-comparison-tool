@@ -1,6 +1,6 @@
 {
   "facility_code": "20A92023",
-  "institution": "CLEARWATER-POLK ELECTRIC COOPERATIVE",
+  "institution": "Clearwater-Polk Electric Cooperative",
   "city": "Bagley",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "56621",
+  "email": false
 }

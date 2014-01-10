@@ -1,6 +1,6 @@
 {
   "facility_code": "31107705",
-  "institution": "PALMER COLLEGE OF CHIROPRACTIC  WEST",
+  "institution": "Palmer College Of Chiropractic  West",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 154174,
-  "grad_rate": 93.3,
-  "grad_rate_rank": 31,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 8980,
-  "avg_stu_loan_debt_rank": 185,
-  "indicator_group": 1
+  "grad_rate": 66.7,
+  "grad_rate_rank": 382,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 26,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95134",
+  "email": false
 }

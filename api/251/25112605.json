@@ -1,6 +1,6 @@
 {
   "facility_code": "25112605",
-  "institution": "ROYAL HAIR INSTITUTE",
+  "institution": "Royal Hair Institute",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90022",
+  "email": false
 }

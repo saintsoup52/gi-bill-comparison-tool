@@ -1,6 +1,6 @@
 {
   "facility_code": "20484848",
-  "institution": "HUNTINGTON ELECTRICAL JATC  LOCAL 317",
+  "institution": "Huntington Electrical Jatc  Local 317",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25704",
+  "email": true
 }

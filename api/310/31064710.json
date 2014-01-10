@@ -1,6 +1,6 @@
 {
   "facility_code": "31064710",
-  "institution": "BEACON COLLEGE",
+  "institution": "Beacon College",
   "city": "Leesburg",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 384254,
-  "grad_rate": 81.8,
-  "grad_rate_rank": 127,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 26250,
-  "avg_stu_loan_debt_rank": 2007,
-  "indicator_group": 1
+  "grad_rate": 86.7,
+  "grad_rate_rank": 86,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "34748",
+  "email": true
 }

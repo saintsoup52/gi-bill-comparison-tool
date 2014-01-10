@@ -1,6 +1,6 @@
 {
   "facility_code": "20N13032",
-  "institution": "CAMERON MANUFACTURING & DESIGN INC.",
+  "institution": "Cameron Manufacturing & Design Inc.",
   "city": "Horseheads",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14845",
+  "email": false
 }

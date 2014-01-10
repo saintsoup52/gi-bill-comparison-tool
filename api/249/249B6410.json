@@ -1,6 +1,6 @@
 {
   "facility_code": "249B6410",
-  "institution": "COLLEGE OF BUSINESS AND TECHNOLOGY - FLAGLER",
+  "institution": "College Of Business And Technology - Flagler",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 449083,
-  "grad_rate": 84.9,
-  "grad_rate_rank": 29,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 285,
-  "indicator_group": 3
+  "grad_rate": 87.3,
+  "grad_rate_rank": 27,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 7400,
+  "avg_stu_loan_debt_rank": 209,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "33144",
+  "email": true
 }

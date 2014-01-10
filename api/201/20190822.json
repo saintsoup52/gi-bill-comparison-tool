@@ -1,6 +1,6 @@
 {
   "facility_code": "20190822",
-  "institution": "GREATER MICHIGAN UA LOCAL 190 JATC",
+  "institution": "Greater Michigan Ua Local 190 Jatc",
   "city": "Ann Arbor",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48106",
+  "email": true
 }

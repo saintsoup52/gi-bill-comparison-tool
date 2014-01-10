@@ -1,6 +1,6 @@
 {
   "facility_code": "31928246",
-  "institution": "AVERETT UNIVERSITY - RICHMOND",
+  "institution": "Averett University - Richmond",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 65,
   "cross": 231420,
-  "grad_rate": 41.0,
-  "grad_rate_rank": 1195,
-  "default_rate": 12.1,
-  "avg_stu_loan_debt": 18831,
-  "avg_stu_loan_debt_rank": 1209,
-  "indicator_group": 1
+  "grad_rate": 40.0,
+  "grad_rate_rank": 1248,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 20875,
+  "avg_stu_loan_debt_rank": 1299,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23060",
+  "email": true
 }

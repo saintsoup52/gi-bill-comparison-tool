@@ -1,6 +1,6 @@
 {
   "facility_code": "10166927",
-  "institution": "FEDERAL AVIATION ADMIN (FAA) - OMAHA TRACON",
+  "institution": "Federal Aviation Admin (Faa) - Omaha Tracon",
   "city": "Bellevue",
   "state": "NE",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "68005",
+  "email": true
 }

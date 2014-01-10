@@ -1,6 +1,6 @@
 {
   "facility_code": "11802631",
-  "institution": "NEW MEXICO STATE UNIVERSITY",
+  "institution": "New Mexico State University",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 188030,
-  "grad_rate": 45.8,
-  "grad_rate_rank": 1031,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 11017,
-  "avg_stu_loan_debt_rank": 313,
-  "indicator_group": 1
+  "grad_rate": 44.1,
+  "grad_rate_rank": 1097,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 11791,
+  "avg_stu_loan_debt_rank": 269,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "87110",
+  "email": true
 }

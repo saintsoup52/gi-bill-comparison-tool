@@ -1,6 +1,6 @@
 {
   "facility_code": "32977225",
-  "institution": "SAINT LUKE'S COLLEGE OF HEALTH SCIENCES",
+  "institution": "Saint Luke'S College Of Health Sciences",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 179450,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 22888,
-  "avg_stu_loan_debt_rank": 1734,
-  "indicator_group": 1
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 20604,
+  "avg_stu_loan_debt_rank": 1273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64111",
+  "email": true
 }

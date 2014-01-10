@@ -1,6 +1,6 @@
 {
   "facility_code": "15009742",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - LIVINGSTON",
+  "institution": "Tennessee College Of Applied Technology - Livingston",
   "city": "Livingston",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 220640,
-  "grad_rate": 80.5,
-  "grad_rate_rank": 633,
+  "grad_rate": 73.7,
+  "grad_rate_rank": 994,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38570",
+  "email": true
 }

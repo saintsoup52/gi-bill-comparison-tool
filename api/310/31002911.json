@@ -1,6 +1,6 @@
 {
   "facility_code": "31002911",
-  "institution": "SPELMAN COLLEGE",
+  "institution": "Spelman College",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 89,
   "cross": 141060,
-  "grad_rate": 77.0,
-  "grad_rate_rank": 196,
-  "default_rate": 14.3,
-  "avg_stu_loan_debt": 37500,
-  "avg_stu_loan_debt_rank": 2057,
-  "indicator_group": 1
+  "grad_rate": 72.8,
+  "grad_rate_rank": 272,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 42500,
+  "avg_stu_loan_debt_rank": 1997,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30314",
+  "email": true
 }

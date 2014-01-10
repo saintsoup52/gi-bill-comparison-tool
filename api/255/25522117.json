@@ -1,6 +1,6 @@
 {
   "facility_code": "25522117",
-  "institution": "SOUTHEAST SCHOOL OF COSMETOLOGY",
+  "institution": "Southeast School Of Cosmetology",
   "city": "Manchester",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 248314,
-  "grad_rate": 20.9,
-  "grad_rate_rank": 2174,
+  "grad_rate": 24.3,
+  "grad_rate_rank": 2231,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40962",
+  "email": false
 }

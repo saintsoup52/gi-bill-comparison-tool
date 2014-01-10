@@ -1,6 +1,6 @@
 {
   "facility_code": "35308038",
-  "institution": "PRECISION MANUFACTURING INSTITUTE",
+  "institution": "Precision Manufacturing Institute",
   "city": "Meadville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 446455,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 301,
-  "default_rate": 18.7,
+  "grad_rate": 86.1,
+  "grad_rate_rank": 405,
+  "default_rate": 10.3,
   "avg_stu_loan_debt": 5938,
-  "avg_stu_loan_debt_rank": 951,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 407,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16335",
+  "email": true
 }

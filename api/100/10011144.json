@@ -1,6 +1,6 @@
 {
   "facility_code": "10011144",
-  "institution": "RED MESA CHAPTER HOUSE (CH 31 ONLY)",
+  "institution": "Red Mesa Chapter House (Ch 31 Only)",
   "city": "Montezuma Creek",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84534",
+  "email": false
 }

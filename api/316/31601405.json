@@ -1,6 +1,6 @@
 {
   "facility_code": "31601405",
-  "institution": "SOUTHERN CALIFORNIA UNIVERSITY OF HEALTH SCIENCES",
+  "institution": "Southern California University Of Health Sciences",
   "city": "Whittier",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 117672,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 8625,
-  "avg_stu_loan_debt_rank": 274,
-  "indicator_group": 4
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 8455,
+  "avg_stu_loan_debt_rank": 263,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "90609",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31015821",
-  "institution": "ENDICOTT COLLEGE",
+  "institution": "Endicott College",
   "city": "Beverly",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 94,
   "cross": 165699,
-  "grad_rate": 66.5,
-  "grad_rate_rank": 397,
-  "default_rate": 3.3,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 71.6,
+  "grad_rate_rank": 292,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1915",
+  "email": true
 }

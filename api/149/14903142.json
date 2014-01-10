@@ -1,6 +1,6 @@
 {
   "facility_code": "14903142",
-  "institution": "CHATTANOOGA STATE COMMUNITY COLLEGE",
+  "institution": "Chattanooga State Community College",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 446,
   "cross": 219824,
-  "grad_rate": 6.7,
-  "grad_rate_rank": 1277,
-  "default_rate": 26.6,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 720,
-  "indicator_group": 2
+  "grad_rate": 8.1,
+  "grad_rate_rank": 1337,
+  "default_rate": 27.5,
+  "avg_stu_loan_debt": 8929,
+  "avg_stu_loan_debt_rank": 615,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37406",
+  "email": false
 }

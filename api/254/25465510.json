@@ -1,6 +1,6 @@
 {
   "facility_code": "25465510",
-  "institution": "PENSACOLA SCHOOL OF MASSAGE THERAPY",
+  "institution": "Pensacola School Of Massage Therapy",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 449533,
-  "grad_rate": 75.5,
-  "grad_rate_rank": 890,
-  "default_rate": 10.0,
+  "grad_rate": 74.7,
+  "grad_rate_rank": 943,
+  "default_rate": 17.3,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32504",
+  "email": true
 }

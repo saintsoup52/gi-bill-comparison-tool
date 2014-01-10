@@ -1,6 +1,6 @@
 {
   "facility_code": "10673225",
-  "institution": "MO ARMY NATIONAL GUARD-DET 1 1438TH",
+  "institution": "Mo Army National Guard-Det 1 1438th",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63501",
+  "email": false
 }

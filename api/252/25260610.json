@@ -1,6 +1,6 @@
 {
   "facility_code": "25260610",
-  "institution": "P&S AGRICULTURAL SERVICE LLC - CH31 ONLY",
+  "institution": "P&S Agricultural Service Llc - Ch31 Only",
   "city": "Pahokee",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33476",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31140047",
-  "institution": "FAITH EVANGELICAL COLLEGE AND SEMINARY",
+  "institution": "Faith Evangelical College And Seminary",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 38,
   "cross": 443049,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 280,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 12625,
-  "avg_stu_loan_debt_rank": 521,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 12575,
+  "avg_stu_loan_debt_rank": 338,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98407",
+  "email": true
 }

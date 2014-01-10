@@ -1,6 +1,6 @@
 {
   "facility_code": "14924438",
-  "institution": "LUZERNE COUNTY COMMUNITY COLLEGE",
+  "institution": "Luzerne County Community College",
   "city": "Nanticoke",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 236,
   "cross": 213659,
-  "grad_rate": 21.8,
-  "grad_rate_rank": 801,
-  "default_rate": 11.2,
-  "avg_stu_loan_debt": 5571,
-  "avg_stu_loan_debt_rank": 393,
-  "indicator_group": 2
+  "grad_rate": 19.3,
+  "grad_rate_rank": 961,
+  "default_rate": 11.9,
+  "avg_stu_loan_debt": 5732,
+  "avg_stu_loan_debt_rank": 306,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "18634",
+  "email": true
 }

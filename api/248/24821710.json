@@ -1,6 +1,6 @@
 {
   "facility_code": "24821710",
-  "institution": "EVEREST INSTITUTE - FT LAUDERDALE",
+  "institution": "Everest Institute - Ft Lauderdale",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 372523,
-  "grad_rate": 60.6,
-  "grad_rate_rank": 127,
-  "default_rate": 24.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33304",
+  "email": true
 }

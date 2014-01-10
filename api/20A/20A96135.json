@@ -1,6 +1,6 @@
 {
   "facility_code": "20A96135",
-  "institution": "PART-RITE INC K",
+  "institution": "Part-Rite Inc K",
   "city": "North Royalton",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44133",
+  "email": false
 }

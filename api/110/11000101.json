@@ -1,6 +1,6 @@
 {
   "facility_code": "11000101",
-  "institution": "UNIVERSITY OF MONTEVALLO",
+  "institution": "University Of Montevallo",
   "city": "Montevallo",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 119,
   "cross": 101709,
-  "grad_rate": 43.4,
-  "grad_rate_rank": 1113,
-  "default_rate": 14.3,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "grad_rate": 47.0,
+  "grad_rate_rank": 1002,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 18763,
+  "avg_stu_loan_debt_rank": 1032,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "35115",
+  "email": true
 }

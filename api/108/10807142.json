@@ -1,6 +1,6 @@
 {
   "facility_code": "10807142",
-  "institution": "TENNESSEE VALLEY AUTH DIV OF FOSSIL & HYDRO POWER - KNOXVILLE",
+  "institution": "Tennessee Valley Auth Div Of Fossil & Hydro Power - Knoxville",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37902",
+  "email": false
 }

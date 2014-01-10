@@ -1,6 +1,6 @@
 {
   "facility_code": "24113440",
-  "institution": "GOLF ACADEMY OF AMERICA  - MYRTLE BEACH",
+  "institution": "Golf Academy Of America  - Myrtle Beach",
   "city": "Myrtle Beach",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 434690,
-  "grad_rate": 69.2,
-  "grad_rate_rank": 74,
-  "default_rate": 21.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 1056,
-  "indicator_group": 2
+  "grad_rate": 65.8,
+  "grad_rate_rank": 126,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 12207,
+  "avg_stu_loan_debt_rank": 863,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "29579",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25144105",
-  "institution": "CALIFORNIA CAREER COLLEGE",
+  "institution": "California Career College",
   "city": "Canoga Park",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447713,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 11000,
-  "avg_stu_loan_debt_rank": 2234,
-  "indicator_group": 5
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 10556,
+  "avg_stu_loan_debt_rank": 1562,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91303",
+  "email": false
 }

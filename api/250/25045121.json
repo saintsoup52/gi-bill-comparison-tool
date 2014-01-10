@@ -1,6 +1,6 @@
 {
   "facility_code": "25045121",
-  "institution": "EMPIRE BEAUTY SCHOOL BOSTON",
+  "institution": "Empire Beauty School Boston",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 164845,
-  "grad_rate": 45.5,
-  "grad_rate_rank": 2001,
-  "default_rate": 17.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 67.6,
+  "grad_rate_rank": 1296,
+  "default_rate": 23.1,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2111",
+  "email": true
 }

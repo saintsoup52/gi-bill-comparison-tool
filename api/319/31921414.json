@@ -1,6 +1,6 @@
 {
   "facility_code": "31921414",
-  "institution": "HUNTINGTON UNIVERSITY",
+  "institution": "Huntington University",
   "city": "Huntington",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 150941,
-  "grad_rate": 61.7,
-  "grad_rate_rank": 519,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 17750,
-  "avg_stu_loan_debt_rank": 1052,
-  "indicator_group": 1
+  "grad_rate": 58.8,
+  "grad_rate_rank": 603,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46750",
+  "email": true
 }

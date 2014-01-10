@@ -1,6 +1,6 @@
 {
   "facility_code": "29832738",
-  "institution": "MIRADA DENTAL LAB INC",
+  "institution": "Mirada Dental Lab Inc",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15222",
+  "email": false
 }

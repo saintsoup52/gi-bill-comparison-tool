@@ -1,6 +1,6 @@
 {
   "facility_code": "25591225",
-  "institution": "WELLSPRING SCHOOL OF ALLIED HEALTH",
+  "institution": "Wellspring School Of Allied Health",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 447999,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 19.1,
+  "default_rate": 21.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64114",
+  "email": true
 }

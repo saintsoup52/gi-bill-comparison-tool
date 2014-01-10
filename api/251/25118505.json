@@ -1,6 +1,6 @@
 {
   "facility_code": "25118505",
-  "institution": "ELEGANCE INTERNATIONAL",
+  "institution": "Elegance International",
   "city": "Hollywood",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 114044,
-  "grad_rate": 84.0,
-  "grad_rate_rank": 460,
-  "default_rate": 21.1,
+  "grad_rate": 83.3,
+  "grad_rate_rank": 504,
+  "default_rate": 23.7,
   "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 797,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90028",
+  "email": false
 }

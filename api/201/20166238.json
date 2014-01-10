@@ -1,6 +1,6 @@
 {
   "facility_code": "20166238",
-  "institution": "FINISHING TRADES INSTITUTE OF THE MID ATLANTIC REGION",
+  "institution": "Finishing Trades Institute Of The Mid Atlantic Region",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19116",
+  "email": true
 }

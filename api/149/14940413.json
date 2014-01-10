@@ -1,6 +1,6 @@
 {
   "facility_code": "14940413",
-  "institution": "REND LAKE COLLEGE",
+  "institution": "Rend Lake College",
   "city": "Ina",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 121,
   "cross": 148256,
-  "grad_rate": 53.7,
-  "grad_rate_rank": 189,
-  "default_rate": 25.9,
+  "grad_rate": 46.8,
+  "grad_rate_rank": 309,
+  "default_rate": 29.0,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "62846",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31005433",
-  "institution": "METHODIST UNIVERSITY",
+  "institution": "Methodist University",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 565,
   "cross": 198969,
-  "grad_rate": 38.6,
+  "grad_rate": 39.1,
   "grad_rate_rank": 1281,
-  "default_rate": 12.2,
-  "avg_stu_loan_debt": 15500,
-  "avg_stu_loan_debt_rank": 780,
-  "indicator_group": 1
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 16164,
+  "avg_stu_loan_debt_rank": 714,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28311",
+  "email": true
 }

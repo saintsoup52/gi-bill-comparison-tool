@@ -1,6 +1,6 @@
 {
   "facility_code": "24931714",
-  "institution": "FORTIS COLLEGE",
+  "institution": "Fortis College",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 458681,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 6916,
-  "avg_stu_loan_debt_rank": 281,
-  "indicator_group": 3
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "46268",
+  "email": true
 }

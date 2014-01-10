@@ -1,6 +1,6 @@
 {
   "facility_code": "10B63735",
-  "institution": "ERGON (31)",
+  "institution": "Ergon (31)",
   "city": "Delaware",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43015",
+  "email": "No (SCO)"
 }

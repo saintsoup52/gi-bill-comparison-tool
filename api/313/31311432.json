@@ -1,6 +1,6 @@
 {
   "facility_code": "31311432",
-  "institution": "ST. LAWRENCE UNIVERSITY",
+  "institution": "St. Lawrence University",
   "city": "Canton",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 17,
   "cross": 195216,
-  "grad_rate": 80.3,
-  "grad_rate_rank": 151,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 23749,
-  "avg_stu_loan_debt_rank": 1841,
-  "indicator_group": 1
+  "grad_rate": 79.6,
+  "grad_rate_rank": 163,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 26000,
+  "avg_stu_loan_debt_rank": 1830,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13617",
+  "email": true
 }

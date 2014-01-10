@@ -1,6 +1,6 @@
 {
   "facility_code": "25004344",
-  "institution": "CORNERSTONE AVIATION INC.",
+  "institution": "Cornerstone Aviation Inc.",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84116",
+  "email": false
 }

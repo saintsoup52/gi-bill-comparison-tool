@@ -1,6 +1,6 @@
 {
   "facility_code": "10A96906",
-  "institution": "CITY OF BOULDER OPEN SPACE AND MOUNTAIN PARKS",
+  "institution": "City Of Boulder Open Space And Mountain Parks",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80301",
+  "email": true
 }

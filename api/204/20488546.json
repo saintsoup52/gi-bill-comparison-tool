@@ -1,6 +1,6 @@
 {
   "facility_code": "20488546",
-  "institution": "E I DUPONT DE NEMOURS & COMPANY  SPRUANCE PLANT",
+  "institution": "E I Dupont De Nemours & Company  Spruance Plant",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23261",
+  "email": false
 }

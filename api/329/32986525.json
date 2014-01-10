@@ -1,6 +1,6 @@
 {
   "facility_code": "32986525",
-  "institution": "LUTHERAN SCHOOL OF NURSING",
+  "institution": "Lutheran School Of Nursing",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 178004,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 2202,
-  "default_rate": 10.0,
-  "avg_stu_loan_debt": 13299,
-  "avg_stu_loan_debt_rank": 2416,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 11.6,
+  "avg_stu_loan_debt": 17919,
+  "avg_stu_loan_debt_rank": 1973,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63118",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31006742",
-  "institution": "FREED-HARDEMAN UNIVERSITY",
+  "institution": "Freed-Hardeman University",
   "city": "Henderson",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 220215,
-  "grad_rate": 50.4,
-  "grad_rate_rank": 866,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 22031,
-  "avg_stu_loan_debt_rank": 1643,
-  "indicator_group": 1
+  "grad_rate": 53.9,
+  "grad_rate_rank": 777,
+  "default_rate": 13.2,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38340",
+  "email": true
 }

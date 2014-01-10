@@ -1,6 +1,6 @@
 {
   "facility_code": "15445710",
-  "institution": "UNIVERSITY OF FLORIDA DIVISION OF DISTANCE & CONTINUING EDUCATION",
+  "institution": "University Of Florida Division Of Distance & Continuing Education",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 134130,
-  "grad_rate": 83.7,
-  "grad_rate_rank": 110,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 85.1,
+  "grad_rate_rank": 99,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 14729,
+  "avg_stu_loan_debt_rank": 507,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32609",
+  "email": true
 }

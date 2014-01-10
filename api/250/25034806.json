@@ -1,6 +1,6 @@
 {
   "facility_code": "25034806",
-  "institution": "PAUL MITCHELL THE SCHOOL - COLORADO SPRINGS",
+  "institution": "Paul Mitchell The School - Colorado Springs",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 459286,
-  "grad_rate": 70.7,
-  "grad_rate_rank": 1148,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "grad_rate": 76.7,
+  "grad_rate_rank": 829,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 8005,
+  "avg_stu_loan_debt_rank": 827,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80903",
+  "email": true
 }

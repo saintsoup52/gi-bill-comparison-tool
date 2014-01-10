@@ -1,6 +1,6 @@
 {
   "facility_code": "21830010",
-  "institution": "MIAMI INTERNATIONAL UNIVERSITY OF ART AND DESIGN",
+  "institution": "Miami International University Of Art And Design",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 100,
   "cross": 134811,
-  "grad_rate": 41.3,
-  "grad_rate_rank": 1189,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 21068,
-  "avg_stu_loan_debt_rank": 1554,
-  "indicator_group": 1
+  "grad_rate": 39.5,
+  "grad_rate_rank": 1267,
+  "default_rate": 22.2,
+  "avg_stu_loan_debt": 21992,
+  "avg_stu_loan_debt_rank": 1414,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33132",
+  "email": true
 }

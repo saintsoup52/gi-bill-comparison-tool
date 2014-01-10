@@ -1,6 +1,6 @@
 {
   "facility_code": "11989132",
-  "institution": "SUNY UNIVERSITY AT BUFFALO OFFICE OF VETERANS",
+  "institution": "Suny University At Buffalo Office Of Veterans",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 362,
   "cross": 196130,
-  "grad_rate": 46.7,
-  "grad_rate_rank": 996,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 15873,
-  "avg_stu_loan_debt_rank": 826,
-  "indicator_group": 1
+  "grad_rate": 48.1,
+  "grad_rate_rank": 956,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 15970,
+  "avg_stu_loan_debt_rank": 623,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14261",
+  "email": true
 }

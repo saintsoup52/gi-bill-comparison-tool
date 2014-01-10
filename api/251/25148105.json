@@ -1,6 +1,6 @@
 {
   "facility_code": "25148105",
-  "institution": "HEALING HANDS SCHOOL OF HOLISTIC HEALTH",
+  "institution": "Healing Hands School Of Holistic Health",
   "city": "Escondido",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 454795,
-  "grad_rate": 90.9,
-  "grad_rate_rank": 235,
-  "default_rate": null,
-  "avg_stu_loan_debt": 7600,
-  "avg_stu_loan_debt_rank": 1260,
-  "indicator_group": 5
+  "grad_rate": 90.0,
+  "grad_rate_rank": 267,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92025",
+  "email": false
 }

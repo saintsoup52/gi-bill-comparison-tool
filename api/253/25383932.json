@@ -1,6 +1,6 @@
 {
   "facility_code": "25383932",
-  "institution": "THE INSTITUTE OF CULINARY EDUCATION",
+  "institution": "The Institute Of Culinary Education",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 48,
   "cross": 457819,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
   "avg_stu_loan_debt": 6861,
-  "avg_stu_loan_debt_rank": 1111,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 611,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10010",
+  "email": true
 }

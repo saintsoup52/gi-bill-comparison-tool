@@ -1,6 +1,6 @@
 {
   "facility_code": "25179605",
-  "institution": "ROYALE COLLEGE OF BEAUTY",
+  "institution": "Royale College Of Beauty",
   "city": "Temecula",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92590",
+  "email": false
 }

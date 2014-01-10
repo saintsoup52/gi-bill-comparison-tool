@@ -1,6 +1,6 @@
 {
   "facility_code": "11934138",
-  "institution": "PENN STATE UNIVERSITY - GREAT VALLEY",
+  "institution": "Penn State University - Great Valley",
   "city": "Malvern",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 26,
   "cross": 214607,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 23426,
-  "avg_stu_loan_debt_rank": 310,
-  "indicator_group": 4
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 101,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "19355",
+  "email": true
 }

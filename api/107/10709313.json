@@ -1,6 +1,6 @@
 {
   "facility_code": "10709313",
-  "institution": "COLUMBIA POLICE DEPARTMENT",
+  "institution": "Columbia Police Department",
   "city": "Columbia",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62236",
+  "email": false
 }

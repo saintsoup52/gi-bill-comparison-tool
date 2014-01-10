@@ -1,6 +1,6 @@
 {
   "facility_code": "20B68022",
-  "institution": "NATIONAL WEATHER SERVICE",
+  "institution": "National Weather Service",
   "city": "Romulus",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48242",
+  "email": "No (SCO)"
 }

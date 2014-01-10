@@ -1,6 +1,6 @@
 {
   "facility_code": "20975201",
-  "institution": "(CHAPTER 31)BRAND'S PLUMBING AND HEATING",
+  "institution": "(Chapter 31)Brand'S Plumbing And Heating",
   "city": "Alexander City",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35010",
+  "email": "No (SCO)"
 }

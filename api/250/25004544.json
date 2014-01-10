@@ -1,6 +1,6 @@
 {
   "facility_code": "25004544",
-  "institution": "AVALON SCHOOL OF COSMETOLOGY",
+  "institution": "Avalon School Of Cosmetology",
   "city": "Layton",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 474924,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 22.0,
-  "avg_stu_loan_debt": 8008,
-  "avg_stu_loan_debt_rank": 1382,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 26.4,
+  "avg_stu_loan_debt": 8884,
+  "avg_stu_loan_debt_rank": 973,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84041",
+  "email": true
 }

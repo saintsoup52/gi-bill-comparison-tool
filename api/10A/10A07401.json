@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07401",
-  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY - GADSDEN POST",
+  "institution": "Alabama Department Of Public Safety - Gadsden Post",
   "city": "Attalla",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35954",
+  "email": true
 }

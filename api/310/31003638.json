@@ -1,6 +1,6 @@
 {
   "facility_code": "31003638",
-  "institution": "ST VINCENT COLLEGE/SEMINARY",
+  "institution": "St Vincent College/Seminary",
   "city": "Latrobe",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 215798,
-  "grad_rate": 72.6,
-  "grad_rate_rank": 266,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 72.8,
+  "grad_rate_rank": 272,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15650",
+  "email": false
 }

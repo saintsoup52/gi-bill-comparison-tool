@@ -1,6 +1,6 @@
 {
   "facility_code": "17506305",
-  "institution": "PACIFIC GROVE ADULT SCHOOL (CHAPTER 31)",
+  "institution": "Pacific Grove Adult School (Chapter 31)",
   "city": "Pacific Grove",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93950",
+  "email": "No (SCO)"
 }

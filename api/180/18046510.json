@@ -1,6 +1,6 @@
 {
   "facility_code": "18046510",
-  "institution": "PINELLAS TECHNICAL EDUCATION CENTERS-CLEARWATER CAMPUS",
+  "institution": "Pinellas Technical Education Centers-Clearwater Campus",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 95,
   "cross": 136491,
-  "grad_rate": 96.7,
-  "grad_rate_rank": 103,
+  "grad_rate": 88.4,
+  "grad_rate_rank": 320,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33760",
+  "email": false
 }

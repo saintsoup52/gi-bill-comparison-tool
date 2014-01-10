@@ -1,6 +1,6 @@
 {
   "facility_code": "24956411",
-  "institution": "INTERACTIVE COLLEGE OF TECHNOLOGY",
+  "institution": "Interactive College Of Technology",
   "city": "Chamblee",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 46,
   "cross": 138655,
-  "grad_rate": 70.4,
-  "grad_rate_rank": 68,
-  "default_rate": 0.9,
-  "avg_stu_loan_debt": 4985,
-  "avg_stu_loan_debt_rank": 177,
-  "indicator_group": 3
+  "grad_rate": 61.8,
+  "grad_rate_rank": 276,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 5128,
+  "avg_stu_loan_debt_rank": 99,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30341",
+  "email": true
 }

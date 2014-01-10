@@ -1,6 +1,6 @@
 {
   "facility_code": "24911414",
-  "institution": "ITT TECHNICAL INSTITUTE - NEWBURGH",
+  "institution": "Itt Technical Institute - Newburgh",
   "city": "Newburgh",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 251251,
-  "grad_rate": 37.7,
-  "grad_rate_rank": 371,
-  "default_rate": 34.1,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 2
+  "grad_rate": 29.7,
+  "grad_rate_rank": 641,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1247,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "47630",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15002718",
-  "institution": "LSUA CONTINUING EDUCATION (CH31)",
+  "institution": "Lsua Continuing Education (Ch31)",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71302",
+  "email": false
 }

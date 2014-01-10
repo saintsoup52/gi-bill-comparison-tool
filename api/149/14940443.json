@@ -1,6 +1,6 @@
 {
   "facility_code": "14940443",
-  "institution": "COASTAL BEND COLLEGE",
+  "institution": "Coastal Bend College",
   "city": "Beeville",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 97,
   "cross": 223320,
-  "grad_rate": 20.5,
-  "grad_rate_rank": 432,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 6056,
-  "avg_stu_loan_debt_rank": 237,
-  "indicator_group": 3
+  "grad_rate": 30.8,
+  "grad_rate_rank": 540,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 6551,
+  "avg_stu_loan_debt_rank": 178,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "78102",
+  "email": false
 }

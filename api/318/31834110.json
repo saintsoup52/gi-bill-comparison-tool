@@ -1,6 +1,6 @@
 {
   "facility_code": "31834110",
-  "institution": "CITY COLLEGE - GAINESVILLE",
+  "institution": "City College - Gainesville",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 49,
   "cross": 406547,
-  "grad_rate": 36.8,
-  "grad_rate_rank": 393,
-  "default_rate": 27.6,
-  "avg_stu_loan_debt": 16890,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 2
+  "grad_rate": 32.0,
+  "grad_rate_rank": 576,
+  "default_rate": 22.6,
+  "avg_stu_loan_debt": 19642,
+  "avg_stu_loan_debt_rank": 1183,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32607",
+  "email": true
 }

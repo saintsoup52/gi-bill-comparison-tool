@@ -1,6 +1,6 @@
 {
   "facility_code": "14919105",
-  "institution": "CHABOT COLLEGE",
+  "institution": "Chabot College",
   "city": "Hayward",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 186,
   "cross": 111920,
-  "grad_rate": 23.9,
-  "grad_rate_rank": 726,
-  "default_rate": 26.8,
-  "avg_stu_loan_debt": 5750,
-  "avg_stu_loan_debt_rank": 414,
-  "indicator_group": 2
+  "grad_rate": 19.7,
+  "grad_rate_rank": 950,
+  "default_rate": 29.6,
+  "avg_stu_loan_debt": 7984,
+  "avg_stu_loan_debt_rank": 547,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "94545",
+  "email": false
 }

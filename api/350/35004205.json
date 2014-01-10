@@ -1,6 +1,6 @@
 {
   "facility_code": "35004205",
-  "institution": "HYPNOSIS MOTIVATION INSTITUTE",
+  "institution": "Hypnosis Motivation Institute",
   "city": "Tarzana",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 368771,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 14.8,
+  "grad_rate": 60.0,
+  "grad_rate_rank": 1631,
+  "default_rate": 23.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91356",
+  "email": true
 }

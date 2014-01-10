@@ -1,6 +1,6 @@
 {
   "facility_code": "20531414",
-  "institution": "PLUMBING SOLUTIONS LLC",
+  "institution": "Plumbing Solutions Llc",
   "city": "Valparaiso",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46383",
+  "email": false
 }

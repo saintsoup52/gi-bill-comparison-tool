@@ -1,6 +1,6 @@
 {
   "facility_code": "15003518",
-  "institution": "DESTREHAN HIGH SCHOOL",
+  "institution": "Destrehan High School",
   "city": "Destrehan",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70047",
+  "email": false
 }

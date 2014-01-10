@@ -1,6 +1,6 @@
 {
   "facility_code": "21009542",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN AND TECHNOLOGY - NASHVILLE",
+  "institution": "International Academy Of Design And Technology - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 446817,
-  "grad_rate": 47.8,
-  "grad_rate_rank": 244,
-  "default_rate": 28.6,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1432,
-  "indicator_group": 2
+  "grad_rate": 36.5,
+  "grad_rate_rank": 473,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 21331,
+  "avg_stu_loan_debt_rank": 1244,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "37214",
+  "email": false
 }

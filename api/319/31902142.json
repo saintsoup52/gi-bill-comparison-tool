@@ -1,6 +1,6 @@
 {
   "facility_code": "31902142",
-  "institution": "UNION UNIVERSITY",
+  "institution": "Union University",
   "city": "Jackson",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 78,
   "cross": 221971,
-  "grad_rate": 60.6,
-  "grad_rate_rank": 548,
-  "default_rate": 6.2,
-  "avg_stu_loan_debt": 20750,
-  "avg_stu_loan_debt_rank": 1506,
-  "indicator_group": 1
+  "grad_rate": 66.6,
+  "grad_rate_rank": 389,
+  "default_rate": 7.3,
+  "avg_stu_loan_debt": 20710,
+  "avg_stu_loan_debt_rank": 1284,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38305",
+  "email": false
 }

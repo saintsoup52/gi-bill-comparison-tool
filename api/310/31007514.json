@@ -1,6 +1,6 @@
 {
   "facility_code": "31007514",
-  "institution": "NORTHWOOD UNIVERSITY-INDIANA OUTREACH CENTER",
+  "institution": "Northwood University-Indiana Outreach Center",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 171492,
-  "grad_rate": 53.4,
-  "grad_rate_rank": 764,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 54.5,
+  "grad_rate_rank": 752,
+  "default_rate": 12.4,
+  "avg_stu_loan_debt": 22000,
+  "avg_stu_loan_debt_rank": 1416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46250",
+  "email": false
 }

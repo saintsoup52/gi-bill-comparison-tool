@@ -1,6 +1,6 @@
 {
   "facility_code": "14941433",
-  "institution": "CRAVEN COMMUNITY COLLEGE",
+  "institution": "Craven Community College",
   "city": "New Bern",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 401,
   "cross": 198367,
-  "grad_rate": 6.8,
-  "grad_rate_rank": 529,
-  "default_rate": 12.9,
-  "avg_stu_loan_debt": 6625,
-  "avg_stu_loan_debt_rank": 267,
-  "indicator_group": 3
+  "grad_rate": 14.6,
+  "grad_rate_rank": 686,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 7645,
+  "avg_stu_loan_debt_rank": 221,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28562",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21011906",
-  "institution": "ROCKY MOUNTAIN COLLEGE OF ART AND DESIGN",
+  "institution": "Rocky Mountain College Of Art And Design",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 42,
   "cross": 127945,
-  "grad_rate": 55.9,
-  "grad_rate_rank": 676,
-  "default_rate": 17.2,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 41.3,
+  "grad_rate_rank": 1201,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 24257,
+  "avg_stu_loan_debt_rank": 1667,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80214",
+  "email": true
 }

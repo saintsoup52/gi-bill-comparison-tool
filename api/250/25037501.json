@@ -1,6 +1,6 @@
 {
   "facility_code": "25037501",
-  "institution": "MONTGOMERY SCHOOL OF BODYWORK & MASSAGE",
+  "institution": "Montgomery School Of Bodywork & Massage",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36117",
+  "email": true
 }

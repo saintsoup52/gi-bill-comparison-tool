@@ -1,6 +1,6 @@
 {
   "facility_code": "14952433",
-  "institution": "BLADEN COMMUNITY COLLEGE",
+  "institution": "Bladen Community College",
   "city": "Dublin",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 66,
   "cross": 198011,
-  "grad_rate": 20.3,
-  "grad_rate_rank": 434,
+  "grad_rate": 11.3,
+  "grad_rate_rank": 711,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 3312,
-  "avg_stu_loan_debt_rank": 108,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 4914,
+  "avg_stu_loan_debt_rank": 92,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "28332",
+  "email": true
 }

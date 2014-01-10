@@ -1,6 +1,6 @@
 {
   "facility_code": "19A00233",
-  "institution": "INTERNAL REVENUE SERVICE (IRS) CH31 ONLY",
+  "institution": "Internal Revenue Service (Irs) Ch31 Only",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "28262",
+  "email": true
 }

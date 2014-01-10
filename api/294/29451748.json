@@ -1,6 +1,6 @@
 {
   "facility_code": "29451748",
-  "institution": "ROY L. MATHENY INDEPENDENT INSTRUCTOR",
+  "institution": "Roy L. Matheny Independent Instructor",
   "city": "Nebo",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25141",
+  "email": false
 }

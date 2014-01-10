@@ -1,6 +1,6 @@
 {
   "facility_code": "14903130",
-  "institution": "COUNTY COLLEGE OF MORRIS",
+  "institution": "County College Of Morris",
   "city": "Randolph",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 217,
   "cross": 184180,
-  "grad_rate": 21.6,
-  "grad_rate_rank": 813,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 23.3,
+  "grad_rate_rank": 836,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 5562,
+  "avg_stu_loan_debt_rank": 293,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "7869",
+  "email": true
 }

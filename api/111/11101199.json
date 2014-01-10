@@ -1,10 +1,10 @@
 {
   "facility_code": "11101199",
-  "institution": "UNITED ARAB EMIRATES UNIV",
+  "institution": "United Arab Emirates Univ",
   "city": "Al-Ain",
   "state": "United Arab Emirates",
   "country": "United Arab Emirates",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

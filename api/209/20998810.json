@@ -1,6 +1,6 @@
 {
   "facility_code": "20998810",
-  "institution": "CCA - HERNANDO COUNTY JAIL",
+  "institution": "Cca - Hernando County Jail",
   "city": "Brooksville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34604",
+  "email": false
 }

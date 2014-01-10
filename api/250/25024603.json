@@ -1,6 +1,6 @@
 {
   "facility_code": "25024603",
-  "institution": "THE STUDIO ACADEMY OF BEAUTY",
+  "institution": "The Studio Academy Of Beauty",
   "city": "Chandler",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 455725,
-  "grad_rate": 79.8,
-  "grad_rate_rank": 676,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 70.0,
+  "grad_rate_rank": 1175,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 6999,
+  "avg_stu_loan_debt_rank": 629,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85224",
+  "email": false
 }

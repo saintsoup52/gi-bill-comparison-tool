@@ -1,6 +1,6 @@
 {
   "facility_code": "30785704",
-  "institution": "EL DORADO ELECTRICAL JATC",
+  "institution": "El Dorado Electrical Jatc",
   "city": "El Dorado",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "71730",
+  "email": false
 }

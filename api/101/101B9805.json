@@ -1,6 +1,6 @@
 {
   "facility_code": "101B9805",
-  "institution": "EL CAJON POLICE DEPARTMENT",
+  "institution": "El Cajon Police Department",
   "city": "El Cajon",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92020",
+  "email": true
 }

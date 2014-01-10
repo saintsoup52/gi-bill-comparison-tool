@@ -1,6 +1,6 @@
 {
   "facility_code": "15077736",
-  "institution": "SOUTHMOORE HIGH SCHOOL",
+  "institution": "Southmoore High School",
   "city": "Moore",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73160",
+  "email": false
 }

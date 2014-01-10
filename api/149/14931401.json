@@ -1,6 +1,6 @@
 {
   "facility_code": "14931401",
-  "institution": "GEORGE C. WALLACE C.C. - SPARKS CAMPUS AT EUFAULA",
+  "institution": "George C. Wallace C.C. - Sparks Campus At Eufaula",
   "city": "Eufaula",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 101286,
-  "grad_rate": 18.9,
-  "grad_rate_rank": 902,
+  "grad_rate": 13.4,
+  "grad_rate_rank": 1186,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "36072",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11901041",
-  "institution": "SOUTH DAKOTA STATE UNIVERSITY",
+  "institution": "South Dakota State University",
   "city": "Brookings",
   "state": "SD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 561,
   "cross": 219356,
-  "grad_rate": 59.7,
-  "grad_rate_rank": 575,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 15124,
-  "avg_stu_loan_debt_rank": 749,
-  "indicator_group": 1
+  "grad_rate": 55.5,
+  "grad_rate_rank": 722,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 16591,
+  "avg_stu_loan_debt_rank": 761,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "57007",
+  "email": false
 }

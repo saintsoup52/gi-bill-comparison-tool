@@ -1,6 +1,6 @@
 {
   "facility_code": "14960443",
-  "institution": "WESTERN TEXAS COLLEGE",
+  "institution": "Western Texas College",
   "city": "Snyder",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 36,
   "cross": 229832,
-  "grad_rate": 48.3,
-  "grad_rate_rank": 210,
-  "default_rate": 25.7,
-  "avg_stu_loan_debt": 5260,
-  "avg_stu_loan_debt_rank": 192,
-  "indicator_group": 3
+  "grad_rate": 54.4,
+  "grad_rate_rank": 354,
+  "default_rate": 27.8,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 117,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "79549",
+  "email": true
 }

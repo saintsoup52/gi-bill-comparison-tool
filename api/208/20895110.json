@@ -1,6 +1,6 @@
 {
   "facility_code": "20895110",
-  "institution": "MCKEAN AND GALLANT ENGINEERS AND SURVEYORS INC",
+  "institution": "Mckean And Gallant Engineers And Surveyors Inc",
   "city": "Inverness",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34450",
+  "email": "No (SCO)"
 }

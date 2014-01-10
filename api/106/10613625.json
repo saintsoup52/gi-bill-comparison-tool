@@ -1,6 +1,6 @@
 {
   "facility_code": "10613625",
-  "institution": "MARYVILLE PUBLIC SAFETY DEPT.",
+  "institution": "Maryville Public Safety Dept.",
   "city": "Maryville",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64468",
+  "email": false
 }

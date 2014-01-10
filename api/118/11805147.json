@@ -1,6 +1,6 @@
 {
   "facility_code": "11805147",
-  "institution": "UNIVERSITY OF WASHINGTON (BOTHELL)",
+  "institution": "University Of Washington (Bothell)",
   "city": "Bothell",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 187,
   "cross": 377555,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 15458,
-  "avg_stu_loan_debt_rank": 773,
-  "indicator_group": 1
+  "grad_rate": 64.3,
+  "grad_rate_rank": 455,
+  "default_rate": 3.9,
+  "avg_stu_loan_debt": 15950,
+  "avg_stu_loan_debt_rank": 619,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98011",
+  "email": true
 }

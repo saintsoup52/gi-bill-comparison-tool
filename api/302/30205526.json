@@ -1,6 +1,6 @@
 {
   "facility_code": "30205526",
-  "institution": "BIG SKY EMS EDUCATION",
+  "institution": "Big Sky Ems Education",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59107",
+  "email": false
 }

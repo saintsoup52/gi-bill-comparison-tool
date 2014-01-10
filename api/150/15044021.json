@@ -1,6 +1,6 @@
 {
   "facility_code": "15044021",
-  "institution": "ROBERT W WHITE SCHOOL",
+  "institution": "Robert W White School",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2114",
+  "email": false
 }

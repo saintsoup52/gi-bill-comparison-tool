@@ -1,6 +1,6 @@
 {
   "facility_code": "31002243",
-  "institution": "DALLAS BAPTIST UNIVERSITY",
+  "institution": "Dallas Baptist University",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 302,
   "cross": 224226,
-  "grad_rate": 55.6,
-  "grad_rate_rank": 685,
-  "default_rate": 8.2,
-  "avg_stu_loan_debt": 18661,
-  "avg_stu_loan_debt_rank": 1171,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75211",
+  "email": false
 }

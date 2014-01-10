@@ -1,6 +1,6 @@
 {
   "facility_code": "10700825",
-  "institution": "CO. A 27TH RECRUITING AND RETENTION BN",
+  "institution": "Co. A 27th Recruiting And Retention Bn",
   "city": "St Joseph",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64506",
+  "email": false
 }

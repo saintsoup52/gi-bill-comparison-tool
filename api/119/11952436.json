@@ -1,6 +1,6 @@
 {
   "facility_code": "11952436",
-  "institution": "ROGERS STATE UNIVERSITY",
+  "institution": "Rogers State University",
   "city": "Claremore",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 259,
   "cross": 207661,
-  "grad_rate": 12.4,
-  "grad_rate_rank": 1123,
-  "default_rate": 18.2,
-  "avg_stu_loan_debt": 8751,
-  "avg_stu_loan_debt_rank": 704,
-  "indicator_group": 2
+  "grad_rate": 20.0,
+  "grad_rate_rank": 1709,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 8250,
+  "avg_stu_loan_debt_rank": 106,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74017",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25007930",
-  "institution": "LASCOMP INSTITUTE OF IT",
+  "institution": "Lascomp Institute Of It",
   "city": "Montvale",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7645",
+  "email": true
 }

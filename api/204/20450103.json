@@ -1,6 +1,6 @@
 {
   "facility_code": "20450103",
-  "institution": "GET BENT METAL WORKS (CH31-ONLY)",
+  "institution": "Get Bent Metal Works (Ch31-Only)",
   "city": "Gilbert",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85233",
+  "email": false
 }

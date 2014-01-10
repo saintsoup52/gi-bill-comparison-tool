@@ -1,6 +1,6 @@
 {
   "facility_code": "25004103",
-  "institution": "TUCSON COLLEGE",
+  "institution": "Tucson College",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 105987,
-  "grad_rate": 69.6,
-  "grad_rate_rank": 1191,
-  "default_rate": 23.1,
-  "avg_stu_loan_debt": 8878,
-  "avg_stu_loan_debt_rank": 1562,
-  "indicator_group": 5
+  "grad_rate": 73.6,
+  "grad_rate_rank": 1004,
+  "default_rate": 20.7,
+  "avg_stu_loan_debt": 9336,
+  "avg_stu_loan_debt_rank": 1041,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85711",
+  "email": true
 }

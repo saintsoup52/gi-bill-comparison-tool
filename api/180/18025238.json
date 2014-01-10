@@ -1,6 +1,6 @@
 {
   "facility_code": "18025238",
-  "institution": "CRAWFORD COUNTY CAREER & TECHNICAL CENTER",
+  "institution": "Crawford County Career & Technical Center",
   "city": "Meadville",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 419484,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 10161,
-  "avg_stu_loan_debt_rank": 2164,
-  "indicator_group": 5
+  "grad_rate": 68.4,
+  "grad_rate_rank": 1253,
+  "default_rate": 24.0,
+  "avg_stu_loan_debt": 13663,
+  "avg_stu_loan_debt_rank": 1872,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16335",
+  "email": false
 }

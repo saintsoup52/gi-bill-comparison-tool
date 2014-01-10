@@ -1,6 +1,6 @@
 {
   "facility_code": "25134805",
-  "institution": "C.R. ENGLAND TRUCK DRIVING (CHAPTER 31)",
+  "institution": "C.R. England Truck Driving (Chapter 31)",
   "city": "Mira Loma",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91752",
+  "email": false
 }

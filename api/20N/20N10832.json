@@ -1,6 +1,6 @@
 {
   "facility_code": "20N10832",
-  "institution": "AIR TECHNIQUES INC.",
+  "institution": "Air Techniques Inc.",
   "city": "Hicksville",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11801",
+  "email": false
 }

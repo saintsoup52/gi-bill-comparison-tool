@@ -1,6 +1,6 @@
 {
   "facility_code": "31001213",
-  "institution": "GREENVILLE COLLEGE",
+  "institution": "Greenville College",
   "city": "Greenville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 145372,
-  "grad_rate": 51.6,
-  "grad_rate_rank": 825,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 54.2,
+  "grad_rate_rank": 767,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 17750,
+  "avg_stu_loan_debt_rank": 886,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62246",
+  "email": true
 }

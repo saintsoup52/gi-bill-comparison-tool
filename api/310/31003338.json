@@ -1,6 +1,6 @@
 {
   "facility_code": "31003338",
-  "institution": "ROSEMONT COLLEGE",
+  "institution": "Rosemont College",
   "city": "Rosemont",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 215691,
-  "grad_rate": 58.3,
-  "grad_rate_rank": 609,
-  "default_rate": 9.1,
-  "avg_stu_loan_debt": 21729,
-  "avg_stu_loan_debt_rank": 1610,
-  "indicator_group": 1
+  "grad_rate": 61.4,
+  "grad_rate_rank": 533,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 28620,
+  "avg_stu_loan_debt_rank": 1923,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19010",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31383132",
-  "institution": "HILBERT COLLEGE",
+  "institution": "Hilbert College",
   "city": "Hamburg",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 63,
   "cross": 191621,
-  "grad_rate": 40.2,
-  "grad_rate_rank": 1222,
-  "default_rate": 12.7,
-  "avg_stu_loan_debt": 20500,
-  "avg_stu_loan_debt_rank": 1475,
-  "indicator_group": 1
+  "grad_rate": 49.6,
+  "grad_rate_rank": 916,
+  "default_rate": 14.5,
+  "avg_stu_loan_debt": 17750,
+  "avg_stu_loan_debt_rank": 886,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14075",
+  "email": true
 }

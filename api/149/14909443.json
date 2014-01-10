@@ -1,6 +1,6 @@
 {
   "facility_code": "14909443",
-  "institution": "HOWARD COLLEGE",
+  "institution": "Howard College",
   "city": "Big Spring",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 180,
   "cross": 225520,
-  "grad_rate": 17.7,
-  "grad_rate_rank": 461,
-  "default_rate": 23.8,
-  "avg_stu_loan_debt": 5499,
-  "avg_stu_loan_debt_rank": 198,
-  "indicator_group": 3
+  "grad_rate": 26.4,
+  "grad_rate_rank": 579,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 105,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "79720",
+  "email": true
 }

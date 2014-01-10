@@ -1,6 +1,6 @@
 {
   "facility_code": "34036013",
-  "institution": "MACCORMAC COLLEGE",
+  "institution": "Maccormac College",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 146816,
-  "grad_rate": 3.7,
-  "grad_rate_rank": 1305,
-  "default_rate": 28.5,
-  "avg_stu_loan_debt": 17750,
-  "avg_stu_loan_debt_rank": 1354,
-  "indicator_group": 2
+  "grad_rate": 12.0,
+  "grad_rate_rank": 1229,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 757,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "60602",
+  "email": true
 }

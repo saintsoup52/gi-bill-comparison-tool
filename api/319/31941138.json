@@ -1,6 +1,6 @@
 {
   "facility_code": "31941138",
-  "institution": "BRYN MAWR COLLEGE",
+  "institution": "Bryn Mawr College",
   "city": "Bryn Mawr",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 211273,
-  "grad_rate": 87.3,
-  "grad_rate_rank": 76,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 20837,
-  "avg_stu_loan_debt_rank": 1512,
-  "indicator_group": 1
+  "grad_rate": 81.8,
+  "grad_rate_rank": 131,
+  "default_rate": 1.2,
+  "avg_stu_loan_debt": 21456,
+  "avg_stu_loan_debt_rank": 1354,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19010",
+  "email": false
 }

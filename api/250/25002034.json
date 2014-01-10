@@ -1,6 +1,6 @@
 {
   "facility_code": "25002034",
-  "institution": "SALON PROFESSIONAL ACADEMY",
+  "institution": "Salon Professional Academy",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 448026,
-  "grad_rate": 78.8,
-  "grad_rate_rank": 712,
-  "default_rate": 2.0,
-  "avg_stu_loan_debt": 9493,
-  "avg_stu_loan_debt_rank": 1650,
-  "indicator_group": 5
+  "grad_rate": 83.9,
+  "grad_rate_rank": 482,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 10660,
+  "avg_stu_loan_debt_rank": 1580,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "58103",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10111464",
-  "institution": "FAA HONOLULU CONTROL FACILITY",
+  "institution": "Faa Honolulu Control Facility",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "96720",
+  "email": true
 }

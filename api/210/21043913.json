@@ -1,6 +1,6 @@
 {
   "facility_code": "21043913",
-  "institution": "WESTWOOD COLLEGE OF TECHNOLOGY",
+  "institution": "Westwood College Of Technology",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 443687,
-  "grad_rate": 17.9,
-  "grad_rate_rank": 1697,
+  "grad_rate": 23.0,
+  "grad_rate_rank": 1670,
   "default_rate": 22.6,
-  "avg_stu_loan_debt": 12899,
-  "avg_stu_loan_debt_rank": 545,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 18926,
+  "avg_stu_loan_debt_rank": 1047,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60602",
+  "email": true
 }

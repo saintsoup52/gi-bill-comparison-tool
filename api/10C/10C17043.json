@@ -1,6 +1,6 @@
 {
   "facility_code": "10C17043",
-  "institution": "FARMERS BRANCH POLICE DEPT",
+  "institution": "Farmers Branch Police Dept",
   "city": "Farmers Branch",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "75244",
+  "email": false
 }

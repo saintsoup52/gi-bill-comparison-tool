@@ -1,6 +1,6 @@
 {
   "facility_code": "14939443",
-  "institution": "NAVARRO COLLEGE",
+  "institution": "Navarro College",
   "city": "Corsicana",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 435,
   "cross": 227146,
-  "grad_rate": 17.8,
-  "grad_rate_rank": 939,
-  "default_rate": 28.2,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 720,
-  "indicator_group": 2
+  "grad_rate": 14.8,
+  "grad_rate_rank": 1121,
+  "default_rate": 30.4,
+  "avg_stu_loan_debt": 8688,
+  "avg_stu_loan_debt_rank": 599,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75110",
+  "email": false
 }

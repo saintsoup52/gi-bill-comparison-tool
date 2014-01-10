@@ -1,6 +1,6 @@
 {
   "facility_code": "10020911",
-  "institution": "ALBANY-DOUGHERTY DRUG UNIT",
+  "institution": "Albany-Dougherty Drug Unit",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31708",
+  "email": false
 }

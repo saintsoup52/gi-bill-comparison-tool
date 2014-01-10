@@ -1,6 +1,6 @@
 {
   "facility_code": "31002214",
-  "institution": "UNIVERSITY OF NOTRE DAME",
+  "institution": "University Of Notre Dame",
   "city": "Notre Dame",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 193,
   "cross": 152080,
-  "grad_rate": 95.9,
-  "grad_rate_rank": 17,
-  "default_rate": 1.0,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 94.6,
+  "grad_rate_rank": 23,
+  "default_rate": 0.8,
+  "avg_stu_loan_debt": 21485,
+  "avg_stu_loan_debt_rank": 1358,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46556",
+  "email": true
 }

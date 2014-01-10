@@ -1,6 +1,6 @@
 {
   "facility_code": "30001447",
-  "institution": "SOUTHWEST WASHINGTON PIPE TRADES JATC",
+  "institution": "Southwest Washington Pipe Trades Jatc",
   "city": "Lacey",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98516",
+  "email": true
 }

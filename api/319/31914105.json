@@ -1,6 +1,6 @@
 {
   "facility_code": "31914105",
-  "institution": "SAINT MARY'S COLLEGE OF CALIFORNIA",
+  "institution": "Saint Mary'S College Of California",
   "city": "Moraga",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 62,
   "cross": 123554,
-  "grad_rate": 60.7,
-  "grad_rate_rank": 543,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 59.1,
+  "grad_rate_rank": 589,
+  "default_rate": 5.3,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94575",
+  "email": false
 }

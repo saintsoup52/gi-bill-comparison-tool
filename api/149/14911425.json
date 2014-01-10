@@ -1,6 +1,6 @@
 {
   "facility_code": "14911425",
-  "institution": "JEFFERSON COLLEGE",
+  "institution": "Jefferson College",
   "city": "Hillsboro",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 236,
   "cross": 177676,
-  "grad_rate": 27.7,
-  "grad_rate_rank": 605,
-  "default_rate": 15.7,
-  "avg_stu_loan_debt": 6000,
-  "avg_stu_loan_debt_rank": 440,
-  "indicator_group": 2
+  "grad_rate": 26.6,
+  "grad_rate_rank": 737,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "63050",
+  "email": true
 }

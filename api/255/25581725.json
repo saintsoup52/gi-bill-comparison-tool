@@ -1,6 +1,6 @@
 {
   "facility_code": "25581725",
-  "institution": "CHILLICOTHE BEAUTY ACADEMY",
+  "institution": "Chillicothe Beauty Academy",
   "city": "Chillicothe",
   "state": "MO",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 176992,
   "grad_rate": 56.3,
-  "grad_rate_rank": 1734,
-  "default_rate": 14.2,
+  "grad_rate_rank": 1759,
+  "default_rate": 18.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64601",
+  "email": false
 }

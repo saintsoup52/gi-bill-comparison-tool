@@ -1,6 +1,6 @@
 {
   "facility_code": "32300613",
-  "institution": "BLESSING-RIEMAN COLLEGE OF NURSING",
+  "institution": "Blessing-Rieman College Of Nursing",
   "city": "Quincy",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 143297,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 13500,
-  "avg_stu_loan_debt_rank": 588,
-  "indicator_group": 1
+  "grad_rate": 54.8,
+  "grad_rate_rank": 747,
+  "default_rate": 7.8,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62301",
+  "email": false
 }

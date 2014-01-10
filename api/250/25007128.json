@@ -1,6 +1,6 @@
 {
   "facility_code": "25007128",
-  "institution": "NEVADA SCHOOL OF MASSAGE THERAPY",
+  "institution": "Nevada School Of Massage Therapy",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 469124,
-  "grad_rate": 71.6,
-  "grad_rate_rank": 1095,
-  "default_rate": 26.7,
-  "avg_stu_loan_debt": 9367,
-  "avg_stu_loan_debt_rank": 1623,
-  "indicator_group": 5
+  "grad_rate": 58.5,
+  "grad_rate_rank": 1688,
+  "default_rate": 21.3,
+  "avg_stu_loan_debt": 8607,
+  "avg_stu_loan_debt_rank": 917,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "89123",
+  "email": false
 }

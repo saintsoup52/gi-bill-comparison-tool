@@ -1,6 +1,6 @@
 {
   "facility_code": "14995443",
-  "institution": "MOUNTAIN VIEW COLLEGE",
+  "institution": "Mountain View College",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 286,
   "cross": 226930,
-  "grad_rate": 11.8,
-  "grad_rate_rank": 1149,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 5753,
-  "avg_stu_loan_debt_rank": 417,
-  "indicator_group": 2
+  "grad_rate": 10.0,
+  "grad_rate_rank": 1291,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "75211",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21001144",
-  "institution": "DEVRY UNIVERSITY",
+  "institution": "Devry University",
   "city": "Sandy",
   "state": "UT",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
-  "default_rate": null,
+  "default_rate": 24.1,
   "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "avg_stu_loan_debt_rank": 19750,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "84070",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15012542",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - MCKENZIE",
+  "institution": "Tennessee College Of Applied Technology - Mckenzie",
   "city": "Morristown",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 221050,
-  "grad_rate": 81.9,
-  "grad_rate_rank": 551,
+  "grad_rate": 65.0,
+  "grad_rate_rank": 1427,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37813",
+  "email": false
 }

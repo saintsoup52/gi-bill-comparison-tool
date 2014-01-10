@@ -1,6 +1,6 @@
 {
   "facility_code": "25016549",
-  "institution": "HOWARD ACADEMY FOR THE METAL ARTS",
+  "institution": "Howard Academy For The Metal Arts",
   "city": "Stoughton",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53589",
+  "email": false
 }

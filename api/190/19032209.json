@@ -1,6 +1,6 @@
 {
   "facility_code": "19032209",
-  "institution": "US CUSTOMS & BORDER PROTECTION",
+  "institution": "Us Customs & Border Protection",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20005",
+  "email": false
 }

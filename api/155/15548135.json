@@ -1,6 +1,6 @@
 {
   "facility_code": "15548135",
-  "institution": "MADISON ADULT EDUCATION",
+  "institution": "Madison Adult Education",
   "city": "Mansfield",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 375407,
-  "grad_rate": 88.1,
-  "grad_rate_rank": 329,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 3958,
-  "avg_stu_loan_debt_rank": 673,
-  "indicator_group": 5
+  "grad_rate": 91.3,
+  "grad_rate_rank": 239,
+  "default_rate": 15.0,
+  "avg_stu_loan_debt": 6334,
+  "avg_stu_loan_debt_rank": 507,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44905",
+  "email": false
 }

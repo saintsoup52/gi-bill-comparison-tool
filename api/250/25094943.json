@@ -1,6 +1,6 @@
 {
   "facility_code": "25094943",
-  "institution": "SOUTHERN CAREERS INST SAN ANTONIO",
+  "institution": "Southern Careers Inst San Antonio",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 430245,
-  "grad_rate": 42.0,
-  "grad_rate_rank": 2051,
-  "default_rate": 37.3,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 34.4,
+  "grad_rate_rank": 2166,
+  "default_rate": 30.2,
+  "avg_stu_loan_debt": 6520,
+  "avg_stu_loan_debt_rank": 551,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78221",
+  "email": false
 }

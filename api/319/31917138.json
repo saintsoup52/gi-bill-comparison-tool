@@ -1,6 +1,6 @@
 {
   "facility_code": "31917138",
-  "institution": "MARYWOOD UNIVERSITY",
+  "institution": "Marywood University",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 54,
   "cross": 213826,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 500,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 24710,
-  "avg_stu_loan_debt_rank": 1902,
-  "indicator_group": 1
+  "grad_rate": 67.9,
+  "grad_rate_rank": 355,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 26187,
+  "avg_stu_loan_debt_rank": 1841,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18509",
+  "email": true
 }

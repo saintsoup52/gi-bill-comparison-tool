@@ -1,6 +1,6 @@
 {
   "facility_code": "28020229",
-  "institution": "MICHAEL'S SCHOOL OF HAIR DESIGN AND ESTHETICS",
+  "institution": "Michael'S School Of Hair Design And Esthetics",
   "city": "Bedford",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 182953,
-  "grad_rate": 78.4,
-  "grad_rate_rank": 735,
-  "default_rate": 17.7,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 81.4,
+  "grad_rate_rank": 579,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 9833,
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3110",
+  "email": false
 }

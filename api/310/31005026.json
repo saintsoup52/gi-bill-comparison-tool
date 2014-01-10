@@ -1,6 +1,6 @@
 {
   "facility_code": "31005026",
-  "institution": "UNIVERSITY OF GREAT FALLS",
+  "institution": "University Of Great Falls",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 118,
   "cross": 180258,
-  "grad_rate": 28.7,
-  "grad_rate_rank": 1526,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 884,
-  "indicator_group": 1
+  "grad_rate": 21.9,
+  "grad_rate_rank": 1689,
+  "default_rate": 15.2,
+  "avg_stu_loan_debt": 16741,
+  "avg_stu_loan_debt_rank": 774,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59405",
+  "email": true
 }

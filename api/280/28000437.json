@@ -1,6 +1,6 @@
 {
   "facility_code": "28000437",
-  "institution": "BEAU MONDE COLLEGE OF HAIR DESIGN",
+  "institution": "Beau Monde College Of Hair Design",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 208248,
-  "grad_rate": 96.0,
-  "grad_rate_rank": 117,
-  "default_rate": 20.2,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 73.8,
+  "grad_rate_rank": 987,
+  "default_rate": 25.0,
+  "avg_stu_loan_debt": 10846,
+  "avg_stu_loan_debt_rank": 1598,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97205",
+  "email": true
 }

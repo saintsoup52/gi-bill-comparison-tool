@@ -1,6 +1,6 @@
 {
   "facility_code": "30O89705",
-  "institution": "46 NO CALIFORNIA COUNTIES DRYWALL/LATHING JATC",
+  "institution": "46 No California Counties Drywall/Lathing Jatc",
   "city": "Hayward",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94545",
+  "email": false
 }

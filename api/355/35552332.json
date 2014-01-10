@@ -1,6 +1,6 @@
 {
   "facility_code": "35552332",
-  "institution": "MARION S. WHELAN SCHOOL OF PRACTICAL NURSING (GENEVA GENERAL HOSPITAL)",
+  "institution": "Marion S. Whelan School Of Practical Nursing (Geneva General Hospital)",
   "city": "Geneva",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 192800,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 9375,
-  "avg_stu_loan_debt_rank": 1630,
-  "indicator_group": 5
+  "grad_rate": 7.1,
+  "grad_rate_rank": 2261,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14456",
+  "email": true
 }

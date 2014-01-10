@@ -1,6 +1,6 @@
 {
   "facility_code": "24960438",
-  "institution": "NEWPORT BUSINESS INSTITUTE",
+  "institution": "Newport Business Institute",
   "city": "Lower Burrell",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 214315,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 219,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 64.3,
+  "grad_rate_rank": 138,
+  "default_rate": 17.1,
+  "avg_stu_loan_debt": 15770,
+  "avg_stu_loan_debt_rank": 1045,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15068",
+  "email": true
 }

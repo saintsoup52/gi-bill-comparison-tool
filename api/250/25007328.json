@@ -1,6 +1,6 @@
 {
   "facility_code": "25007328",
-  "institution": "THE FOURTH R OF CLARK CITY (CH31)",
+  "institution": "The Fourth R Of Clark City (Ch31)",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89014",
+  "email": false
 }

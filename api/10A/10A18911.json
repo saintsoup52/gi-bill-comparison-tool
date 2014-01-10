@@ -1,6 +1,6 @@
 {
   "facility_code": "10A18911",
-  "institution": "GEORGIA BUREAU OF INVESTIGATION - REGION 13 (PERRY)",
+  "institution": "Georgia Bureau Of Investigation - Region 13 (Perry)",
   "city": "Perry",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "31069",
+  "email": false
 }

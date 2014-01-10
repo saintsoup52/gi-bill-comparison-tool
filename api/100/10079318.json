@@ -1,6 +1,6 @@
 {
   "facility_code": "10079318",
-  "institution": "FAA - BATON ROUGE (ATCT)",
+  "institution": "Faa - Baton Rouge (Atct)",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70807",
+  "email": false
 }

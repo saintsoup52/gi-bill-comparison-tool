@@ -1,6 +1,6 @@
 {
   "facility_code": "21376032",
-  "institution": "DEVRY COLLEGE OF NEW YORK",
+  "institution": "Devry College Of New York",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 535,
   "cross": 432199,
-  "grad_rate": 14.4,
-  "grad_rate_rank": 1739,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 24.5,
+  "grad_rate_rank": 1649,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10016",
+  "email": true
 }

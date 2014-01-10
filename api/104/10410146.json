@@ -1,6 +1,6 @@
 {
   "facility_code": "10410146",
-  "institution": "VIRGINIA BEACH SHERIFF'S OFFICE",
+  "institution": "Virginia Beach Sheriff'S Office",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23451",
+  "email": true
 }

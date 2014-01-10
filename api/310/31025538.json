@@ -1,6 +1,6 @@
 {
   "facility_code": "31025538",
-  "institution": "HARRISBURG UNIVERSITY OF SCIENCE & TECHNOLOGY",
+  "institution": "Harrisburg University Of Science & Technology",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 28,
   "cross": 446640,
-  "grad_rate": 9.1,
-  "grad_rate_rank": 1789,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 11687,
-  "avg_stu_loan_debt_rank": 343,
-  "indicator_group": 1
+  "grad_rate": 17.9,
+  "grad_rate_rank": 1739,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "17101",
+  "email": true
 }

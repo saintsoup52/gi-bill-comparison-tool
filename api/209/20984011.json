@@ -1,6 +1,6 @@
 {
   "facility_code": "20984011",
-  "institution": "TRIO SHOE SERVICE INC",
+  "institution": "Trio Shoe Service Inc",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30060",
+  "email": false
 }

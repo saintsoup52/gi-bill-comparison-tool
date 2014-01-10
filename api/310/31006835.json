@@ -1,6 +1,6 @@
 {
   "facility_code": "31006835",
-  "institution": "MUSKINGUM COLLEGE",
+  "institution": "Muskingum College",
   "city": "New Concord",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 42,
   "cross": 204264,
-  "grad_rate": 54.4,
-  "grad_rate_rank": 733,
-  "default_rate": 5.7,
-  "avg_stu_loan_debt": 16356,
-  "avg_stu_loan_debt_rank": 876,
-  "indicator_group": 1
+  "grad_rate": 49.6,
+  "grad_rate_rank": 916,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "43762",
+  "email": true
 }

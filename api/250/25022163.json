@@ -1,10 +1,10 @@
 {
   "facility_code": "25022163",
-  "institution": "INSTITUTO DE BANCA Y COMERCIO (HUMACAO)",
+  "institution": "Instituto De Banca Y Comercio (Humacao)",
   "city": "Humacao",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1900,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "791",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25111943",
-  "institution": "UNIV OF COSMETOLOGY ARTS AND SCIENCES HARLINGEN",
+  "institution": "Univ Of Cosmetology Arts And Sciences Harlingen",
   "city": "Harlingen",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 407683,
-  "grad_rate": 61.1,
-  "grad_rate_rank": 1541,
-  "default_rate": 25.2,
-  "avg_stu_loan_debt": 6265,
-  "avg_stu_loan_debt_rank": 991,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 26.5,
+  "avg_stu_loan_debt": 6804,
+  "avg_stu_loan_debt_rank": 599,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78550",
+  "email": false
 }

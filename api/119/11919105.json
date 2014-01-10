@@ -1,6 +1,6 @@
 {
   "facility_code": "11919105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-FRESNO",
+  "institution": "California State University-Fresno",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 454,
   "cross": 110556,
-  "grad_rate": 49.4,
-  "grad_rate_rank": 913,
-  "default_rate": 7.9,
-  "avg_stu_loan_debt": 13804,
-  "avg_stu_loan_debt_rank": 615,
-  "indicator_group": 1
+  "grad_rate": 48.1,
+  "grad_rate_rank": 956,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 13750,
+  "avg_stu_loan_debt_rank": 417,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "93740",
+  "email": true
 }

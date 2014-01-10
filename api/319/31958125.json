@@ -1,6 +1,6 @@
 {
   "facility_code": "31958125",
-  "institution": "WASHINGTON UNIVERSITY",
+  "institution": "Washington University",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 124,
   "cross": 179867,
-  "grad_rate": 93.4,
-  "grad_rate_rank": 30,
-  "default_rate": 3.3,
-  "avg_stu_loan_debt": 18195,
-  "avg_stu_loan_debt_rank": 1111,
-  "indicator_group": 1
+  "grad_rate": 94.0,
+  "grad_rate_rank": 25,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63130",
+  "email": true
 }

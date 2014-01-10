@@ -1,6 +1,6 @@
 {
   "facility_code": "32002927",
-  "institution": "BRYANLGH COLLEGE OF HEALTH SCIENCES",
+  "institution": "Bryanlgh College Of Health Sciences",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 180878,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 21830,
-  "avg_stu_loan_debt_rank": 1625,
-  "indicator_group": 1
+  "default_rate": 1.0,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68506",
+  "email": false
 }

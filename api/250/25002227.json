@@ -1,6 +1,6 @@
 {
   "facility_code": "25002227",
-  "institution": "CAPITOL SCHOOL OF HAIRSTYLING AND ESTHETICS",
+  "institution": "Capitol School Of Hairstyling And Esthetics",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 365693,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8365,
-  "avg_stu_loan_debt_rank": 1451,
-  "indicator_group": 5
+  "grad_rate": 80.7,
+  "grad_rate_rank": 610,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 8168,
+  "avg_stu_loan_debt_rank": 851,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "68137",
+  "email": false
 }

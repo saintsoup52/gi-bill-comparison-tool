@@ -1,6 +1,6 @@
 {
   "facility_code": "15520325",
-  "institution": "KENNETT AREA VOCATIONAL TECHNICAL SCHOOL",
+  "institution": "Kennett Area Vocational Technical School",
   "city": "Kennett",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 177807,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 5808,
-  "avg_stu_loan_debt_rank": 937,
-  "indicator_group": 5
+  "grad_rate": null,
+  "grad_rate_rank": null,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63857",
+  "email": false
 }

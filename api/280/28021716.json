@@ -1,6 +1,6 @@
 {
   "facility_code": "28021716",
-  "institution": "MARINELLO SCHOOL OF BEAUTY-TOPEKA",
+  "institution": "Marinello School Of Beauty-Topeka",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 439589,
-  "grad_rate": 43.3,
-  "grad_rate_rank": 2035,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 9665,
-  "avg_stu_loan_debt_rank": 2102,
-  "indicator_group": 5
+  "grad_rate": 63.9,
+  "grad_rate_rank": 1474,
+  "default_rate": 14.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "66611",
+  "email": true
 }

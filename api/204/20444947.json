@@ -1,6 +1,6 @@
 {
   "facility_code": "20444947",
-  "institution": "INLAND FIRE PROTECTION INC.-INACTIVE",
+  "institution": "Inland Fire Protection Inc.-Inactive",
   "city": "Yakima",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98903",
+  "email": false
 }

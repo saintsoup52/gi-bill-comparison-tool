@@ -1,6 +1,6 @@
 {
   "facility_code": "14903029",
-  "institution": "RIVER VALLEY COMMUNITY COLLEGE",
+  "institution": "River Valley Community College",
   "city": "Claremont",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 183114,
-  "grad_rate": 22.7,
-  "grad_rate_rank": 408,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 12283,
-  "avg_stu_loan_debt_rank": 727,
-  "indicator_group": 3
+  "grad_rate": 19.4,
+  "grad_rate_rank": 646,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 528,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "3743",
+  "email": false
 }

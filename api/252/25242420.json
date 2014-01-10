@@ -1,6 +1,6 @@
 {
   "facility_code": "25242420",
-  "institution": "DRYCLEANING AND LAUNDRY INSTITUTE",
+  "institution": "Drycleaning And Laundry Institute",
   "city": "Laurel",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20707",
+  "email": true
 }

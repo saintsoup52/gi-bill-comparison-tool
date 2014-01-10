@@ -1,6 +1,6 @@
 {
   "facility_code": "10526240",
-  "institution": "USDA FOREST SERVICE FRANCIS MARION AND SUMTER NATIONAL FORESTS",
+  "institution": "Usda Forest Service Francis Marion And Sumter National Forests",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29212",
+  "email": false
 }

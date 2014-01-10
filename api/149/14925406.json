@@ -1,6 +1,6 @@
 {
   "facility_code": "14925406",
-  "institution": "RED ROCKS COMMUNITY COLLEGE",
+  "institution": "Red Rocks Community College",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 472,
   "cross": 127909,
-  "grad_rate": 23.2,
-  "grad_rate_rank": 402,
-  "default_rate": 19.0,
-  "avg_stu_loan_debt": 7450,
-  "avg_stu_loan_debt_rank": 306,
-  "indicator_group": 3
+  "grad_rate": 23.9,
+  "grad_rate_rank": 601,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 8724,
+  "avg_stu_loan_debt_rank": 275,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80228",
+  "email": true
 }

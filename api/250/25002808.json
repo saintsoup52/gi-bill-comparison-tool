@@ -1,6 +1,6 @@
 {
   "facility_code": "25002808",
-  "institution": "SCHILLING DOUGLAS SCHOOL OF HAIR DESIGN LLC",
+  "institution": "Schilling Douglas School Of Hair Design Llc",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 131061,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 6905,
-  "avg_stu_loan_debt_rank": 1125,
-  "indicator_group": 5
+  "grad_rate": 58.8,
+  "grad_rate_rank": 1674,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19711",
+  "email": false
 }

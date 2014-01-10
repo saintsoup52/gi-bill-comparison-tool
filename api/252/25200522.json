@@ -1,6 +1,6 @@
 {
   "facility_code": "25200522",
-  "institution": "ROSS MEDICAL EDUCATION CENTER-BRIGHTON",
+  "institution": "Ross Medical Education Center-Brighton",
   "city": "Brighton",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 261676,
-  "grad_rate": 83.5,
-  "grad_rate_rank": 475,
-  "default_rate": 26.8,
-  "avg_stu_loan_debt": 8847,
-  "avg_stu_loan_debt_rank": 1537,
-  "indicator_group": 5
+  "grad_rate": 78.0,
+  "grad_rate_rank": 756,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48116",
+  "email": true
 }

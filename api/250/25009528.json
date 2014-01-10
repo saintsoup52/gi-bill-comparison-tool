@@ -1,6 +1,6 @@
 {
   "facility_code": "25009528",
-  "institution": "MILAN INSTITUTE",
+  "institution": "Milan Institute",
   "city": "Sparks",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 443669,
-  "grad_rate": 67.9,
-  "grad_rate_rank": 1254,
-  "default_rate": 29.7,
+  "grad_rate": 66.6,
+  "grad_rate_rank": 1367,
+  "default_rate": 28.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "89431",
+  "email": true
 }

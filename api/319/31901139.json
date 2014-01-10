@@ -1,6 +1,6 @@
 {
   "facility_code": "31901139",
-  "institution": "RHODE ISLAND SCHOOL OF DESIGN",
+  "institution": "Rhode Island School Of Design",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 14,
   "cross": 217493,
-  "grad_rate": 86.9,
-  "grad_rate_rank": 80,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 25562,
-  "avg_stu_loan_debt_rank": 1996,
-  "indicator_group": 1
+  "grad_rate": 86.3,
+  "grad_rate_rank": 90,
+  "default_rate": 4.2,
+  "avg_stu_loan_debt": 25550,
+  "avg_stu_loan_debt_rank": 1814,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2903",
+  "email": true
 }

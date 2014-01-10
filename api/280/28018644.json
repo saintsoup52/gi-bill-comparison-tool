@@ -1,6 +1,6 @@
 {
   "facility_code": "28018644",
-  "institution": "WARDLEY BETTER HOMES&GARDENS REAL ESTATE SCH(CH31)",
+  "institution": "Wardley Better Homes&Gardens Real Estate Sch(Ch31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84109",
+  "email": "No (SCO)"
 }

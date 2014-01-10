@@ -1,6 +1,6 @@
 {
   "facility_code": "25757107",
-  "institution": "BRANFORD HALL CAREER INSTITUTE - BRANFORD",
+  "institution": "Branford Hall Career Institute - Branford",
   "city": "Branford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 128674,
-  "grad_rate": 58.0,
-  "grad_rate_rank": 1666,
-  "default_rate": 18.6,
-  "avg_stu_loan_debt": 7924,
-  "avg_stu_loan_debt_rank": 1353,
-  "indicator_group": 5
+  "grad_rate": 63.2,
+  "grad_rate_rank": 1509,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 7724,
+  "avg_stu_loan_debt_rank": 766,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6405",
+  "email": true
 }

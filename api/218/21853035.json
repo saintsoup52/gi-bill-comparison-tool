@@ -1,6 +1,6 @@
 {
   "facility_code": "21853035",
-  "institution": "DEVRY-UNIVERSITY-CINCINNATI",
+  "institution": "Devry-University-Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 83,
   "cross": 202541,
-  "grad_rate": 32.9,
-  "grad_rate_rank": 1425,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 33.7,
+  "grad_rate_rank": 1418,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45249",
+  "email": true
 }

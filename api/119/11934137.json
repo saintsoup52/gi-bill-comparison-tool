@@ -1,6 +1,6 @@
 {
   "facility_code": "11934137",
-  "institution": "UNIVERSITY OF OREGON",
+  "institution": "University Of Oregon",
   "city": "Eugene",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 469,
   "cross": 209551,
-  "grad_rate": 65.8,
-  "grad_rate_rank": 410,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 19999,
-  "avg_stu_loan_debt_rank": 1393,
-  "indicator_group": 1
+  "grad_rate": 67.4,
+  "grad_rate_rank": 363,
+  "default_rate": 5.7,
+  "avg_stu_loan_debt": 21666,
+  "avg_stu_loan_debt_rank": 1394,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97403",
+  "email": true
 }

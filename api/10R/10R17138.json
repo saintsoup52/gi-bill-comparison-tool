@@ -1,6 +1,6 @@
 {
   "facility_code": "10R17138",
-  "institution": "DEPARTMENT OF LABOR & IND - PENNSYLVANIA CAREER LINK- MCKEAN COUNTY -BRADFORD",
+  "institution": "Department Of Labor & Ind - Pennsylvania Career Link- Mckean County -Bradford",
   "city": "Bradford",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "16701",
+  "email": true
 }

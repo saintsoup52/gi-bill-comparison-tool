@@ -1,6 +1,6 @@
 {
   "facility_code": "26527047",
-  "institution": "INTERNATIONAL AIR & HOSPITALITY ACADEMY",
+  "institution": "International Air & Hospitality Academy",
   "city": "Vancouver",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 79,
   "cross": 235501,
-  "grad_rate": 85.8,
-  "grad_rate_rank": 397,
-  "default_rate": 21.9,
+  "grad_rate": 84.2,
+  "grad_rate_rank": 462,
+  "default_rate": 21.2,
   "avg_stu_loan_debt": 7600,
-  "avg_stu_loan_debt_rank": 1260,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 738,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98661",
+  "email": true
 }

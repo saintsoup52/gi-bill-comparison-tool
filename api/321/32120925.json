@@ -1,6 +1,6 @@
 {
   "facility_code": "32120925",
-  "institution": "COX MEDICAL CENTER SCHOOL OF MEDICAL TECHNOLOGY",
+  "institution": "Cox Medical Center School Of Medical Technology",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 433217,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 16789,
-  "avg_stu_loan_debt_rank": 302,
-  "indicator_group": 4
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 16933,
+  "avg_stu_loan_debt_rank": 1962,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "65807",
+  "email": false
 }

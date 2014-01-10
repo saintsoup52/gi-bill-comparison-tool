@@ -1,6 +1,6 @@
 {
   "facility_code": "28216715",
-  "institution": "STORM FLYING SERVICE",
+  "institution": "Storm Flying Service",
   "city": "Webster City",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50595",
+  "email": false
 }

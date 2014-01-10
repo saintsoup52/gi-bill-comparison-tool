@@ -1,6 +1,6 @@
 {
   "facility_code": "10N27032",
-  "institution": "NEW YORK CITY DEP POLICE - 4TH PRECINCT",
+  "institution": "New York City Dep Police - 4th Precinct",
   "city": "Shokan",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12481",
+  "email": false
 }

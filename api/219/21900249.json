@@ -1,6 +1,6 @@
 {
   "facility_code": "21900249",
-  "institution": "UNIVERSITY OF PHOENIX - MADISON",
+  "institution": "University Of Phoenix - Madison",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 448558,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 4.8,
+  "grad_rate_rank": 1857,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53718",
+  "email": "No (SCO)"
 }

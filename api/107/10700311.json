@@ -1,6 +1,6 @@
 {
   "facility_code": "10700311",
-  "institution": "CITY OF MCDONOUGH POLICE DEPARTMENT",
+  "institution": "City Of Mcdonough Police Department",
   "city": "Mcdonough",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30253",
+  "email": true
 }

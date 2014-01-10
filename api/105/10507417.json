@@ -1,6 +1,6 @@
 {
   "facility_code": "10507417",
-  "institution": "KENTUCKY STATE POLICE  POST 2",
+  "institution": "Kentucky State Police  Post 2",
   "city": "Nortonville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "42442",
+  "email": false
 }

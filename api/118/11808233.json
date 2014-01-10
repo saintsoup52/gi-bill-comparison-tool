@@ -1,6 +1,6 @@
 {
   "facility_code": "11808233",
-  "institution": "EAST CAROLINA UNIVERSITY/BRODY SCHOOL OF MEDICINE",
+  "institution": "East Carolina University/Brody School Of Medicine",
   "city": "Greenville",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 198464,
-  "grad_rate": 58.5,
-  "grad_rate_rank": 605,
-  "default_rate": 3.2,
-  "avg_stu_loan_debt": 18287,
-  "avg_stu_loan_debt_rank": 1120,
-  "indicator_group": 1
+  "grad_rate": 58.4,
+  "grad_rate_rank": 614,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 18937,
+  "avg_stu_loan_debt_rank": 1051,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27834",
+  "email": true
 }

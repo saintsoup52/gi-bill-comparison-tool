@@ -1,6 +1,6 @@
 {
   "facility_code": "21519417",
-  "institution": "DAYMAR COLLEGE - ONLINE",
+  "institution": "Daymar College - Online",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 460473,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 29.5,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "default_rate": 23.9,
+  "avg_stu_loan_debt": 12315,
+  "avg_stu_loan_debt_rank": 873,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "40245",
+  "email": true
 }

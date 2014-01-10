@@ -1,6 +1,6 @@
 {
   "facility_code": "31626935",
-  "institution": "NOTRE DAME COLLEGE OF OHIO",
+  "institution": "Notre Dame College Of Ohio",
   "city": "South Euclid",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 204468,
-  "grad_rate": 46.8,
-  "grad_rate_rank": 994,
-  "default_rate": 9.2,
-  "avg_stu_loan_debt": 18500,
-  "avg_stu_loan_debt_rank": 1137,
-  "indicator_group": 1
+  "grad_rate": 35.6,
+  "grad_rate_rank": 1376,
+  "default_rate": 8.1,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44121",
+  "email": true
 }

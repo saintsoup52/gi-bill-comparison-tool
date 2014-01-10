@@ -1,6 +1,6 @@
 {
   "facility_code": "20W13105",
-  "institution": "LA & ORANGE CO. AIR CONDITIONING & REFRIGERATION JATC",
+  "institution": "La & Orange Co. Air Conditioning & Refrigeration Jatc",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "90007",
+  "email": false
 }

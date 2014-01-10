@@ -1,6 +1,6 @@
 {
   "facility_code": "14922613",
-  "institution": "CITY COLLEGES OF CHICAGO PR0GRAMS FOR THE MILITARY (EUROPE)",
+  "institution": "City Colleges Of Chicago Pr0grams For The Military (Europe)",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 144209,
-  "grad_rate": 6.2,
-  "grad_rate_rank": 532,
-  "default_rate": 20.8,
-  "avg_stu_loan_debt": 3750,
-  "avg_stu_loan_debt_rank": 131,
-  "indicator_group": 3
+  "grad_rate": 7.0,
+  "grad_rate_rank": 735,
+  "default_rate": 18.4,
+  "avg_stu_loan_debt": 3802,
+  "avg_stu_loan_debt_rank": 46,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "60601",
+  "email": false
 }

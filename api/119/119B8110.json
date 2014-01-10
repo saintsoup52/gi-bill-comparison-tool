@@ -1,6 +1,6 @@
 {
   "facility_code": "119B8110",
-  "institution": "EDISON STATE COLLEGE",
+  "institution": "Edison State College",
   "city": "Ft Myers",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 671,
   "cross": 133508,
-  "grad_rate": 26.0,
+  "grad_rate": 29.1,
   "grad_rate_rank": 655,
-  "default_rate": 20.1,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 184,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33919",
+  "email": true
 }

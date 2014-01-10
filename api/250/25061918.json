@@ -1,6 +1,6 @@
 {
   "facility_code": "25061918",
-  "institution": "A & W HEALTH CARE EDUCATORS",
+  "institution": "A & W Health Care Educators",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 457590,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 5771,
-  "avg_stu_loan_debt_rank": 932,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70126",
+  "email": false
 }

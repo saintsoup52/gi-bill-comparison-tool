@@ -1,6 +1,6 @@
 {
   "facility_code": "14814142",
-  "institution": "SOUTHWEST TENNESSEE COMMUNITY COLLEGE",
+  "institution": "Southwest Tennessee Community College",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 576,
   "cross": 221485,
   "grad_rate": 4.5,
-  "grad_rate_rank": 1296,
+  "grad_rate_rank": 1380,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 2500,
-  "avg_stu_loan_debt_rank": 112,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 2388,
+  "avg_stu_loan_debt_rank": 8,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "38103",
+  "email": false
 }

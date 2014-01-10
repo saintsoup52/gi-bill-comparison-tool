@@ -1,6 +1,6 @@
 {
   "facility_code": "31055810",
-  "institution": "TRINITY BAPTIST COLLEGE",
+  "institution": "Trinity Baptist College",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 137953,
-  "grad_rate": 40.0,
-  "grad_rate_rank": 1229,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 6200,
-  "avg_stu_loan_debt_rank": 131,
-  "indicator_group": 1
+  "grad_rate": 41.7,
+  "grad_rate_rank": 1184,
+  "default_rate": 14.8,
+  "avg_stu_loan_debt": 6841,
+  "avg_stu_loan_debt_rank": 71,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32221",
+  "email": true
 }

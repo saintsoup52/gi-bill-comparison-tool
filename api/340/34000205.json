@@ -1,6 +1,6 @@
 {
   "facility_code": "34000205",
-  "institution": "SCHOOL OF URBAN MISSIONS",
+  "institution": "School Of Urban Missions",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 447953,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 21.0,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 548,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 11334,
+  "avg_stu_loan_debt_rank": 245,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94614",
+  "email": false
 }

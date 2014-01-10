@@ -1,6 +1,6 @@
 {
   "facility_code": "20197516",
-  "institution": "CARPENTERS UNION LOCAL 918",
+  "institution": "Carpenters Union Local 918",
   "city": "Manhattan",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66502",
+  "email": false
 }

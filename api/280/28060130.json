@@ -1,6 +1,6 @@
 {
   "facility_code": "28060130",
-  "institution": "DIVERS ACADEMY INTERNATIONAL",
+  "institution": "Divers Academy International",
   "city": "Erial",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 79,
   "cross": 184278,
-  "grad_rate": 98.6,
-  "grad_rate_rank": 87,
-  "default_rate": 17.4,
+  "grad_rate": 93.6,
+  "grad_rate_rank": 174,
+  "default_rate": 23.3,
   "avg_stu_loan_debt": 7307,
-  "avg_stu_loan_debt_rank": 1188,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 672,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8081",
+  "email": true
 }

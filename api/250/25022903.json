@@ -1,6 +1,6 @@
 {
   "facility_code": "25022903",
-  "institution": "EMPIRE BEAUTY SCHOOL - PRESCOTT",
+  "institution": "Empire Beauty School - Prescott",
   "city": "Prescott",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 262299,
-  "grad_rate": 62.5,
-  "grad_rate_rank": 1489,
-  "default_rate": 16.5,
-  "avg_stu_loan_debt": 14083,
-  "avg_stu_loan_debt_rank": 2446,
-  "indicator_group": 5
+  "grad_rate": 72.5,
+  "grad_rate_rank": 1055,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "86303",
+  "email": false
 }

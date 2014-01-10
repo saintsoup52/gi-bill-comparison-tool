@@ -1,6 +1,6 @@
 {
   "facility_code": "14956447",
-  "institution": "BATES TECHNICAL COLLEGE",
+  "institution": "Bates Technical College",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 313,
   "cross": 235671,
-  "grad_rate": 43.1,
-  "grad_rate_rank": 240,
-  "default_rate": 24.6,
-  "avg_stu_loan_debt": 5195,
-  "avg_stu_loan_debt_rank": 181,
-  "indicator_group": 3
+  "grad_rate": 53.1,
+  "grad_rate_rank": 370,
+  "default_rate": 25.2,
+  "avg_stu_loan_debt": 5497,
+  "avg_stu_loan_debt_rank": 116,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "98405",
+  "email": true
 }

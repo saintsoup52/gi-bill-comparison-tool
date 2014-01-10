@@ -1,6 +1,6 @@
 {
   "facility_code": "28800438",
-  "institution": "EMPIRE BEAUTY SCHOOL (YORK)",
+  "institution": "Empire Beauty School (York)",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 212267,
-  "grad_rate": 54.1,
-  "grad_rate_rank": 1808,
-  "default_rate": 14.4,
-  "avg_stu_loan_debt": 12100,
-  "avg_stu_loan_debt_rank": 2347,
-  "indicator_group": 5
+  "grad_rate": 40.0,
+  "grad_rate_rank": 2103,
+  "default_rate": 17.3,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17402",
+  "email": true
 }

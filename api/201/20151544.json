@@ -1,6 +1,6 @@
 {
   "facility_code": "20151544",
-  "institution": "INTERMOUNTAIN INSULATION AND ABATEMENT WORKERS JATC",
+  "institution": "Intermountain Insulation And Abatement Workers Jatc",
   "city": "Salt Lake City,",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84119",
+  "email": false
 }

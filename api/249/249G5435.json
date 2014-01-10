@@ -1,6 +1,6 @@
 {
   "facility_code": "249G5435",
-  "institution": "FORTIS COLLEGE - WESTERVILLE",
+  "institution": "Fortis College - Westerville",
   "city": "Westerville",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 24,
   "cross": 450058,
-  "grad_rate": 75.1,
-  "grad_rate_rank": 49,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 8455,
-  "avg_stu_loan_debt_rank": 368,
-  "indicator_group": 3
+  "grad_rate": 68.5,
+  "grad_rate_rank": 185,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 9359,
+  "avg_stu_loan_debt_rank": 331,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "43081",
+  "email": true
 }

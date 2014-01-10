@@ -1,6 +1,6 @@
 {
   "facility_code": "25058713",
-  "institution": "STAR TRUCK DRIVING SCHOOL-BENSENVILLE",
+  "institution": "Star Truck Driving School-Bensenville",
   "city": "Bensenville",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60106",
+  "email": false
 }

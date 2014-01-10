@@ -1,6 +1,6 @@
 {
   "facility_code": "24921720",
-  "institution": "TESST COLLEGE OF TECHNOLOGY- BELTSVILLE MD",
+  "institution": "Tesst College Of Technology- Beltsville Md",
   "city": "Beltsville",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 63,
   "cross": 164058,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 22.6,
+  "grad_rate": 66.4,
+  "grad_rate_rank": 222,
+  "default_rate": 28.8,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "20705",
+  "email": true
 }

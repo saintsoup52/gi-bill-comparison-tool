@@ -1,6 +1,6 @@
 {
   "facility_code": "14915824",
-  "institution": "ITAWAMBA COMMUNITY COLLEGE - FULTON/TUPELO",
+  "institution": "Itawamba Community College - Fulton/Tupelo",
   "city": "Fulton",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 263,
   "cross": 175829,
-  "grad_rate": 24.9,
-  "grad_rate_rank": 691,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 7130,
-  "avg_stu_loan_debt_rank": 574,
-  "indicator_group": 2
+  "grad_rate": 27.9,
+  "grad_rate_rank": 694,
+  "default_rate": 28.4,
+  "avg_stu_loan_debt": 7223,
+  "avg_stu_loan_debt_rank": 474,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "38843",
+  "email": true
 }

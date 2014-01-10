@@ -1,6 +1,6 @@
 {
   "facility_code": "14912149",
-  "institution": "CHIPPEWA VALLEY TECH COLLEGE",
+  "institution": "Chippewa Valley Tech College",
   "city": "Eau Claire",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 321,
   "cross": 240116,
-  "grad_rate": 36.2,
-  "grad_rate_rank": 408,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 9326,
-  "avg_stu_loan_debt_rank": 743,
-  "indicator_group": 2
+  "grad_rate": 31.6,
+  "grad_rate_rank": 527,
+  "default_rate": 13.8,
+  "avg_stu_loan_debt": 9765,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "54701",
+  "email": false
 }

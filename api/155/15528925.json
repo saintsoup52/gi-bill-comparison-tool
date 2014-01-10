@@ -1,6 +1,6 @@
 {
   "facility_code": "15528925",
-  "institution": "POPLAR BLUFF TECHNICAL CAREER CENTER",
+  "institution": "Poplar Bluff Technical Career Center",
   "city": "Poplar Bluff",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 178828,
-  "grad_rate": 89.8,
-  "grad_rate_rank": 273,
-  "default_rate": 7.6,
-  "avg_stu_loan_debt": 4800,
-  "avg_stu_loan_debt_rank": 775,
-  "indicator_group": 5
+  "grad_rate": 92.1,
+  "grad_rate_rank": 217,
+  "default_rate": 30.0,
+  "avg_stu_loan_debt": 4625,
+  "avg_stu_loan_debt_rank": 190,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63901",
+  "email": false
 }

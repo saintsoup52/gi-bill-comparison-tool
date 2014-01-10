@@ -1,6 +1,6 @@
 {
   "facility_code": "15002237",
-  "institution": "SWEET HOME HIGH SCHOOL",
+  "institution": "Sweet Home High School",
   "city": "Sweet Home",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97386",
+  "email": true
 }

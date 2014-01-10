@@ -1,6 +1,6 @@
 {
   "facility_code": "20848310",
-  "institution": "LANGLEY HARVESTING CO",
+  "institution": "Langley Harvesting Co",
   "city": "Clermont",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "34711",
+  "email": "No (SCO)"
 }

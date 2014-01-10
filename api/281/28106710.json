@@ -1,6 +1,6 @@
 {
   "facility_code": "28106710",
-  "institution": "ACADEMY OF COSMETOLOGY - MERRITT ISLAND",
+  "institution": "Academy Of Cosmetology - Merritt Island",
   "city": "Merritt Island",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 372462,
-  "grad_rate": 72.7,
-  "grad_rate_rank": 1028,
-  "default_rate": 17.7,
-  "avg_stu_loan_debt": 5001,
-  "avg_stu_loan_debt_rank": 797,
-  "indicator_group": 5
+  "grad_rate": 73.4,
+  "grad_rate_rank": 1012,
+  "default_rate": 13.1,
+  "avg_stu_loan_debt": 5042,
+  "avg_stu_loan_debt_rank": 244,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32953",
+  "email": false
 }

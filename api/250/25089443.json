@@ -1,6 +1,6 @@
 {
   "facility_code": "25089443",
-  "institution": "EVEREST INSTITUTE AUSTIN",
+  "institution": "Everest Institute Austin",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 77,
   "cross": 442727,
-  "grad_rate": 68.8,
-  "grad_rate_rank": 1218,
-  "default_rate": 30.7,
+  "grad_rate": 71.1,
+  "grad_rate_rank": 1123,
+  "default_rate": 19.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78754",
+  "email": false
 }

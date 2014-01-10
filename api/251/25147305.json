@@ -1,6 +1,6 @@
 {
   "facility_code": "25147305",
-  "institution": "SHASTA SCHOOL OF COSMETOLOGY",
+  "institution": "Shasta School Of Cosmetology",
   "city": "Redding",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 121637,
-  "grad_rate": 86.1,
-  "grad_rate_rank": 390,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "96003",
+  "email": false
 }

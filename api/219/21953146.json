@@ -1,6 +1,6 @@
 {
   "facility_code": "21953146",
-  "institution": "BRYANT AND STRATTON COLLEGE - RICHMOND",
+  "institution": "Bryant And Stratton College - Richmond",
   "city": "North Chesterfield",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 102,
   "cross": 231828,
-  "grad_rate": 23.1,
-  "grad_rate_rank": 755,
-  "default_rate": 23.4,
-  "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 916,
-  "indicator_group": 2
+  "grad_rate": 29.8,
+  "grad_rate_rank": 639,
+  "default_rate": 30.3,
+  "avg_stu_loan_debt": 11027,
+  "avg_stu_loan_debt_rank": 783,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "23235",
+  "email": true
 }

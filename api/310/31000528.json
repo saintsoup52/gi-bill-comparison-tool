@@ -1,6 +1,6 @@
 {
   "facility_code": "31000528",
-  "institution": "NOVA SOUTHEASTERN UNIVERSITY",
+  "institution": "Nova Southeastern University",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 136215,
-  "grad_rate": 43.0,
-  "grad_rate_rank": 1123,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 16250,
-  "avg_stu_loan_debt_rank": 866,
-  "indicator_group": 1
+  "grad_rate": 41.7,
+  "grad_rate_rank": 1184,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 18000,
+  "avg_stu_loan_debt_rank": 907,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89148",
+  "email": true
 }

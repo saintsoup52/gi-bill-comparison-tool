@@ -1,6 +1,6 @@
 {
   "facility_code": "319B6132",
-  "institution": "CANISIUS COLLEGE",
+  "institution": "Canisius College",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 139,
   "cross": 189705,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 385,
-  "default_rate": 6.1,
+  "grad_rate": 68.3,
+  "grad_rate_rank": 342,
+  "default_rate": 6.6,
   "avg_stu_loan_debt": 22000,
-  "avg_stu_loan_debt_rank": 1629,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 1416,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14208",
+  "email": true
 }

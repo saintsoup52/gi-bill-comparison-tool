@@ -1,6 +1,6 @@
 {
   "facility_code": "25002448",
-  "institution": "EMPLOYER'S INNOVATIVE NETWORK",
+  "institution": "Employer'S Innovative Network",
   "city": "Cross Lanes",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25313",
+  "email": true
 }

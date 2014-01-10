@@ -1,6 +1,6 @@
 {
   "facility_code": "25402147",
-  "institution": "NORTHWEST HVAC/R ASSOC. & TRAINING CENTER",
+  "institution": "Northwest Hvac/R Assoc. & Training Center",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 434362,
-  "grad_rate": 82.4,
-  "grad_rate_rank": 526,
-  "default_rate": 45.8,
+  "grad_rate": 83.8,
+  "grad_rate_rank": 486,
+  "default_rate": 24.1,
   "avg_stu_loan_debt": 6786,
-  "avg_stu_loan_debt_rank": 1105,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 596,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "99207",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28815822",
-  "institution": "ROSS MEDICAL EDUCATION CENTER",
+  "institution": "Ross Medical Education Center",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 172015,
-  "grad_rate": 77.9,
-  "grad_rate_rank": 757,
-  "default_rate": 32.8,
-  "avg_stu_loan_debt": 8847,
-  "avg_stu_loan_debt_rank": 1537,
-  "indicator_group": 5
+  "grad_rate": 77.5,
+  "grad_rate_rank": 789,
+  "default_rate": 25.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48507",
+  "email": true
 }

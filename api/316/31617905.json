@@ -1,6 +1,6 @@
 {
   "facility_code": "31617905",
-  "institution": "SOUTHERN CALIFORNIA INSTITUTE OF ARCHITECTURE",
+  "institution": "Southern California Institute Of Architecture",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 123952,
-  "grad_rate": 57.6,
-  "grad_rate_rank": 634,
-  "default_rate": 7.9,
-  "avg_stu_loan_debt": 42750,
-  "avg_stu_loan_debt_rank": 2066,
-  "indicator_group": 1
+  "grad_rate": 88.1,
+  "grad_rate_rank": 77,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 48000,
+  "avg_stu_loan_debt_rank": 2000,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90013",
+  "email": false
 }

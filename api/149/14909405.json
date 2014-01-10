@@ -1,6 +1,6 @@
 {
   "facility_code": "14909405",
-  "institution": "LAKE TAHOE COMMUNITY COLLEGE",
+  "institution": "Lake Tahoe Community College",
   "city": "South Lake Tahoe",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 117195,
-  "grad_rate": 38.7,
-  "grad_rate_rank": 356,
-  "default_rate": 35.7,
-  "avg_stu_loan_debt": 4749,
-  "avg_stu_loan_debt_rank": 244,
-  "indicator_group": 2
+  "grad_rate": 27.6,
+  "grad_rate_rank": 705,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 6750,
+  "avg_stu_loan_debt_rank": 416,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "96150",
+  "email": false
 }

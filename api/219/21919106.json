@@ -1,6 +1,6 @@
 {
   "facility_code": "21919106",
-  "institution": "ART INSTITUTE OF COLORADO THE",
+  "institution": "Art Institute Of Colorado The",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 331,
   "cross": 126702,
-  "grad_rate": 39.3,
-  "grad_rate_rank": 1256,
-  "default_rate": 17.0,
-  "avg_stu_loan_debt": 19437,
-  "avg_stu_loan_debt_rank": 1298,
-  "indicator_group": 1
+  "grad_rate": 37.1,
+  "grad_rate_rank": 477,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 18422,
+  "avg_stu_loan_debt_rank": 700,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "80203",
+  "email": true
 }

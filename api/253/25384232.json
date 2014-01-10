@@ -1,6 +1,6 @@
 {
   "facility_code": "25384232",
-  "institution": "SEA VIEW INSTITUTE",
+  "institution": "Sea View Institute",
   "city": "Staten Island",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "10314",
+  "email": false
 }

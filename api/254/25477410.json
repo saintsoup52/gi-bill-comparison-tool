@@ -1,6 +1,6 @@
 {
   "facility_code": "25477410",
-  "institution": "LA BELLE BEAUTY ACADEMY",
+  "institution": "La Belle Beauty Academy",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 383163,
-  "grad_rate": 71.4,
-  "grad_rate_rank": 1097,
-  "default_rate": 11.4,
+  "grad_rate": 26.4,
+  "grad_rate_rank": 2216,
+  "default_rate": 15.0,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 591,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 73,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33144",
+  "email": false
 }

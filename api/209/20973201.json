@@ -1,6 +1,6 @@
 {
   "facility_code": "20973201",
-  "institution": "(CHAPTER 31)FRIEDMAN'S JEWELERS",
+  "institution": "(Chapter 31)Friedman'S Jewelers",
   "city": "Dothan",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36301",
+  "email": "No (SCO)"
 }

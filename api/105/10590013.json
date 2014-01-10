@@ -1,6 +1,6 @@
 {
   "facility_code": "10590013",
-  "institution": "ILLINOIS STATE POLICE DISTRICT #11",
+  "institution": "Illinois State Police District #11",
   "city": "Collinsville",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62234",
+  "email": true
 }

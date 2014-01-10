@@ -1,6 +1,6 @@
 {
   "facility_code": "24802003",
-  "institution": "ARIZONA AUTOMOTIVE INSTITUTE",
+  "institution": "Arizona Automotive Institute",
   "city": "Glendale",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 133,
   "cross": 103963,
-  "grad_rate": 86.8,
-  "grad_rate_rank": 367,
-  "default_rate": 27.1,
-  "avg_stu_loan_debt": 14167,
-  "avg_stu_loan_debt_rank": 2449,
-  "indicator_group": 5
+  "grad_rate": 56.0,
+  "grad_rate_rank": 1768,
+  "default_rate": 41.5,
+  "avg_stu_loan_debt": 13672,
+  "avg_stu_loan_debt_rank": 1873,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85301",
+  "email": false
 }

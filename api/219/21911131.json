@@ -1,6 +1,6 @@
 {
   "facility_code": "21911131",
-  "institution": "UNIVERSITY OF PHOENIX ALBUQUERQUE",
+  "institution": "University Of Phoenix Albuquerque",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 178,
   "cross": 405997,
-  "grad_rate": 25.1,
-  "grad_rate_rank": 1588,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 22.6,
+  "grad_rate_rank": 1677,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "87113",
+  "email": true
 }

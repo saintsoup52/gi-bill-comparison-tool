@@ -1,6 +1,6 @@
 {
   "facility_code": "31805110",
-  "institution": "ROLLINS COLLEGE",
+  "institution": "Rollins College",
   "city": "Winter Park",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 95,
   "cross": 136950,
-  "grad_rate": 69.5,
-  "grad_rate_rank": 318,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 21500,
-  "avg_stu_loan_debt_rank": 1578,
-  "indicator_group": 1
+  "grad_rate": 71.7,
+  "grad_rate_rank": 289,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 24194,
+  "avg_stu_loan_debt_rank": 1656,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "32789",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "249E2410",
-  "institution": "ATA CAREER EDUCATION",
+  "institution": "Ata Career Education",
   "city": "Spring Hill",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 446127,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 13583,
-  "avg_stu_loan_debt_rank": 765,
-  "indicator_group": 3
+  "grad_rate": 81.8,
+  "grad_rate_rank": 50,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 13458,
+  "avg_stu_loan_debt_rank": 628,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "34606",
+  "email": true
 }

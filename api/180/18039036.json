@@ -1,6 +1,6 @@
 {
   "facility_code": "18039036",
-  "institution": "KIAMICHI TECHNOLOGY CTR - DURANT",
+  "institution": "Kiamichi Technology Ctr - Durant",
   "city": "Durant",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 375708,
-  "grad_rate": 90.6,
-  "grad_rate_rank": 247,
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74701",
+  "email": false
 }

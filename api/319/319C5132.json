@@ -1,6 +1,6 @@
 {
   "facility_code": "319C5132",
-  "institution": "MARYMOUNT MANHATTAN COLLEGE",
+  "institution": "Marymount Manhattan College",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 192864,
-  "grad_rate": 39.6,
-  "grad_rate_rank": 1247,
-  "default_rate": 12.3,
-  "avg_stu_loan_debt": 24145,
-  "avg_stu_loan_debt_rank": 1875,
-  "indicator_group": 1
+  "grad_rate": 39.5,
+  "grad_rate_rank": 1267,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 26219,
+  "avg_stu_loan_debt_rank": 1845,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10021",
+  "email": true
 }

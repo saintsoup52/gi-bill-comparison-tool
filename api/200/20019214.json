@@ -1,6 +1,6 @@
 {
   "facility_code": "20019214",
-  "institution": "INTERNATIONAL UNION OF BRICKLAYERS & ALLIED CRAFTSMAN LOCAL 4 IN./KY. INDP'L'S",
+  "institution": "International Union Of Bricklayers & Allied Craftsman Local 4 In./Ky. Indp'L'S",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46202",
+  "email": false
 }

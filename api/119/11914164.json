@@ -1,6 +1,6 @@
 {
   "facility_code": "11914164",
-  "institution": "UNIV OF HAWAII HILO",
+  "institution": "Univ Of Hawaii Hilo",
   "city": "Hilo",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 161,
   "cross": 141565,
-  "grad_rate": 36.3,
-  "grad_rate_rank": 1341,
-  "default_rate": 9.3,
-  "avg_stu_loan_debt": 13477,
-  "avg_stu_loan_debt_rank": 584,
-  "indicator_group": 1
+  "grad_rate": 39.1,
+  "grad_rate_rank": 1281,
+  "default_rate": 8.3,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "96720",
+  "email": true
 }

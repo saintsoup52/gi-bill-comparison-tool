@@ -1,6 +1,6 @@
 {
   "facility_code": "20190522",
-  "institution": "KATHYS PADDOCK EQUESTRIAR CENTER LLC",
+  "institution": "Kathys Paddock Equestriar Center Llc",
   "city": "Marshall",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49068",
+  "email": "No (SCO)"
 }

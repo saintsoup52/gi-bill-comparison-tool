@@ -1,6 +1,6 @@
 {
   "facility_code": "25469510",
-  "institution": "NEW PROFESSIONS TECHNICAL INSTITUTE",
+  "institution": "New Professions Technical Institute",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 434469,
   "grad_rate": 82.4,
-  "grad_rate_rank": 526,
-  "default_rate": 21.2,
-  "avg_stu_loan_debt": 5327,
-  "avg_stu_loan_debt_rank": 823,
-  "indicator_group": 5
+  "grad_rate_rank": 542,
+  "default_rate": 19.5,
+  "avg_stu_loan_debt": 6805,
+  "avg_stu_loan_debt_rank": 602,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33134",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28137310",
-  "institution": "PAUL MITCHELL THE SCHOOL-JACKSONVILLE",
+  "institution": "Paul Mitchell The School-Jacksonville",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 13,
   "cross": 136109,
-  "grad_rate": 69.0,
-  "grad_rate_rank": 1211,
-  "default_rate": 30.0,
-  "avg_stu_loan_debt": 10201,
-  "avg_stu_loan_debt_rank": 2173,
-  "indicator_group": 5
+  "grad_rate": 72.0,
+  "grad_rate_rank": 1072,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 10600,
+  "avg_stu_loan_debt_rank": 1572,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32246",
+  "email": true
 }

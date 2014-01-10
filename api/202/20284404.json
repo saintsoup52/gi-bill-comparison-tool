@@ -1,6 +1,6 @@
 {
   "facility_code": "20284404",
-  "institution": "QUALITY OFFICE INC",
+  "institution": "Quality Office Inc",
   "city": "Searcy",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72143",
+  "email": false
 }

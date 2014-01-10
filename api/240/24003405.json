@@ -1,6 +1,6 @@
 {
   "facility_code": "24003405",
-  "institution": "UNITED EDUCATION INSTITUTE (CHULA VISTA)",
+  "institution": "United Education Institute (Chula Vista)",
   "city": "Chula Vista",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 132,
   "cross": 124681,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 19.3,
-  "avg_stu_loan_debt": 9425,
-  "avg_stu_loan_debt_rank": 442,
-  "indicator_group": 3
+  "grad_rate": 74.4,
+  "grad_rate_rank": 127,
+  "default_rate": 22.5,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "91910",
+  "email": true
 }

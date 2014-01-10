@@ -1,6 +1,6 @@
 {
   "facility_code": "24999538",
-  "institution": "SOUTH HILLS SCHOOL OF BUSINESS & TECHNOLOGY - LEWISTOWN",
+  "institution": "South Hills School Of Business & Technology - Lewistown",
   "city": "Lewistown",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 216083,
-  "grad_rate": 52.4,
-  "grad_rate_rank": 198,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 16000,
-  "avg_stu_loan_debt_rank": 1176,
-  "indicator_group": 2
+  "grad_rate": 56.3,
+  "grad_rate_rank": 208,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 18084,
+  "avg_stu_loan_debt_rank": 1130,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "17044",
+  "email": true
 }

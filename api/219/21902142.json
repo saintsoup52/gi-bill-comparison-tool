@@ -1,6 +1,6 @@
 {
   "facility_code": "21902142",
-  "institution": "SOUTH COLLEGE - KNOXVILLE",
+  "institution": "South College - Knoxville",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 99,
   "cross": 220552,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 858,
-  "default_rate": 24.3,
-  "avg_stu_loan_debt": 14126,
-  "avg_stu_loan_debt_rank": 1094,
-  "indicator_group": 2
+  "grad_rate": 31.6,
+  "grad_rate_rank": 1491,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 15750,
+  "avg_stu_loan_debt_rank": 599,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37909",
+  "email": false
 }

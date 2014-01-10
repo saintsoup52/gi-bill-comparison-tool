@@ -1,6 +1,6 @@
 {
   "facility_code": "28002026",
-  "institution": "BUTTE ACADEMY OF BEAUTY CULTURE",
+  "institution": "Butte Academy Of Beauty Culture",
   "city": "Butte",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 180063,
-  "grad_rate": 64.7,
-  "grad_rate_rank": 1408,
-  "default_rate": 5.5,
+  "grad_rate": 72.4,
+  "grad_rate_rank": 1059,
+  "default_rate": 8.0,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "59701",
+  "email": false
 }

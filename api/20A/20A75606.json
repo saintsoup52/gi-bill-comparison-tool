@@ -1,6 +1,6 @@
 {
   "facility_code": "20A75606",
-  "institution": "BRICK WALL FIRE PROTECTION INC.",
+  "institution": "Brick Wall Fire Protection Inc.",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80907",
+  "email": false
 }

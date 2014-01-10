@@ -1,6 +1,6 @@
 {
   "facility_code": "31002542",
-  "institution": "LANE COLLEGE",
+  "institution": "Lane College",
   "city": "Jackson",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 25,
   "cross": 220598,
-  "grad_rate": 33.6,
-  "grad_rate_rank": 1399,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 14150,
-  "avg_stu_loan_debt_rank": 649,
-  "indicator_group": 1
+  "grad_rate": 36.0,
+  "grad_rate_rank": 1367,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 11472,
+  "avg_stu_loan_debt_rank": 254,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38301",
+  "email": false
 }

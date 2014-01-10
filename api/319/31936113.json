@@ -1,6 +1,6 @@
 {
   "facility_code": "31936113",
-  "institution": "SAINT XAVIER UNIVERSITY",
+  "institution": "Saint Xavier University",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 98,
   "cross": 148627,
-  "grad_rate": 52.2,
-  "grad_rate_rank": 801,
-  "default_rate": 8.4,
-  "avg_stu_loan_debt": 19257,
-  "avg_stu_loan_debt_rank": 1284,
-  "indicator_group": 1
+  "grad_rate": 53.7,
+  "grad_rate_rank": 786,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 20281,
+  "avg_stu_loan_debt_rank": 1228,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60655",
+  "email": true
 }

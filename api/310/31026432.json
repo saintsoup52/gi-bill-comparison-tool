@@ -1,6 +1,6 @@
 {
   "facility_code": "31026432",
-  "institution": "NEW YORK LAW SCHOOL",
+  "institution": "New York Law School",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 193821,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 3375,
-  "avg_stu_loan_debt_rank": 231,
-  "indicator_group": 4
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 2500,
+  "avg_stu_loan_debt_rank": 5,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "10013",
+  "email": true
 }

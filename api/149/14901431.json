@@ -1,6 +1,6 @@
 {
   "facility_code": "14901431",
-  "institution": "INSTITUTE OF AMERICAN INDIAN ARTS",
+  "institution": "Institute Of American Indian Arts",
   "city": "Santa Fe",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 187745,
-  "grad_rate": 30.3,
-  "grad_rate_rank": 1494,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 4338,
-  "avg_stu_loan_debt_rank": 90,
-  "indicator_group": 1
+  "grad_rate": 30.4,
+  "grad_rate_rank": 1524,
+  "default_rate": 27.2,
+  "avg_stu_loan_debt": 4900,
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "87508",
+  "email": true
 }

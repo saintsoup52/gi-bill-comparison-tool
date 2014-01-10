@@ -1,6 +1,6 @@
 {
   "facility_code": "20C05343",
-  "institution": "TECHNICIAL TRAINING CENTER HASLET",
+  "institution": "Technicial Training Center Haslet",
   "city": "Haslet",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76052",
+  "email": false
 }

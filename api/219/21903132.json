@@ -1,6 +1,6 @@
 {
   "facility_code": "21903132",
-  "institution": "BERKELEY COLLEGE OF NEW YORK",
+  "institution": "Berkeley College Of New York",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 417,
   "cross": 189228,
-  "grad_rate": 30.4,
-  "grad_rate_rank": 1491,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 13164,
-  "avg_stu_loan_debt_rank": 569,
-  "indicator_group": 1
+  "grad_rate": 35.0,
+  "grad_rate_rank": 1387,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 16932,
+  "avg_stu_loan_debt_rank": 795,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10017",
+  "email": true
 }

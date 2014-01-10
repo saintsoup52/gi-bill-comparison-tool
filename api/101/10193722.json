@@ -1,6 +1,6 @@
 {
   "facility_code": "10193722",
-  "institution": "SOUTHWEST MICHIGAN REGIONAL AIRPORT",
+  "institution": "Southwest Michigan Regional Airport",
   "city": "Benton Harbor",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49022",
+  "email": true
 }

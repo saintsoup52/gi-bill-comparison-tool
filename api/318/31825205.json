@@ -1,6 +1,6 @@
 {
   "facility_code": "31825205",
-  "institution": "WHITTIER LAW SCHOOL",
+  "institution": "Whittier Law School",
   "city": "Costa Mesa",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 125763,
-  "grad_rate": 55.1,
-  "grad_rate_rank": 706,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 67.2,
+  "grad_rate_rank": 375,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 25188,
+  "avg_stu_loan_debt_rank": 1792,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92626",
+  "email": true
 }

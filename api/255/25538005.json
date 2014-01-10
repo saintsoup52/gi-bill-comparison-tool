@@ -1,6 +1,6 @@
 {
   "facility_code": "25538005",
-  "institution": "WESTECH COLLEGE",
+  "institution": "Westech College",
   "city": "Ontario",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 18,
   "cross": 382276,
-  "grad_rate": 89.1,
-  "grad_rate_rank": 295,
-  "default_rate": 12.2,
-  "avg_stu_loan_debt": 9000,
-  "avg_stu_loan_debt_rank": 1574,
-  "indicator_group": 5
+  "grad_rate": 84.0,
+  "grad_rate_rank": 473,
+  "default_rate": 24.0,
+  "avg_stu_loan_debt": 9499,
+  "avg_stu_loan_debt_rank": 1069,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91764",
+  "email": false
 }

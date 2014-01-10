@@ -1,6 +1,6 @@
 {
   "facility_code": "31004115",
-  "institution": "DIVINE WORD COLLEGE",
+  "institution": "Divine Word College",
   "city": "Epworth",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 153241,
-  "grad_rate": 16.7,
-  "grad_rate_rank": 1710,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 6500,
-  "avg_stu_loan_debt_rank": 134,
-  "indicator_group": 1
+  "grad_rate": 27.3,
+  "grad_rate_rank": 1588,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 6781,
+  "avg_stu_loan_debt_rank": 66,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "52045",
+  "email": false
 }

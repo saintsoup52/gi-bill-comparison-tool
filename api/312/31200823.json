@@ -1,6 +1,6 @@
 {
   "facility_code": "31200823",
-  "institution": "CONCORDIA COLLEGE (MOORHEAD) OFFICE OF REGISTRAR",
+  "institution": "Concordia College (Moorhead) Office Of Registrar",
   "city": "Moorhead",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 38,
   "cross": 173300,
-  "grad_rate": 69.4,
-  "grad_rate_rank": 321,
-  "default_rate": 1.8,
-  "avg_stu_loan_debt": 23674,
-  "avg_stu_loan_debt_rank": 1838,
-  "indicator_group": 1
+  "grad_rate": 68.2,
+  "grad_rate_rank": 346,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 25423,
+  "avg_stu_loan_debt_rank": 1805,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56562",
+  "email": false
 }

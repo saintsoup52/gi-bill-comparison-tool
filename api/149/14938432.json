@@ -1,6 +1,6 @@
 {
   "facility_code": "14938432",
-  "institution": "BROOME COMMUNITY COLLEGE",
+  "institution": "Broome Community College",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 222,
   "cross": 189547,
-  "grad_rate": 29.5,
-  "grad_rate_rank": 551,
-  "default_rate": 20.1,
-  "avg_stu_loan_debt": 5851,
-  "avg_stu_loan_debt_rank": 432,
-  "indicator_group": 2
+  "grad_rate": 24.2,
+  "grad_rate_rank": 812,
+  "default_rate": 18.9,
+  "avg_stu_loan_debt": 5896,
+  "avg_stu_loan_debt_rank": 317,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "13902",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25301738",
-  "institution": "ALL STATE CAREER SCHOOLS",
+  "institution": "All State Career Schools",
   "city": "West Mifflin",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 418658,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 16.0,
-  "avg_stu_loan_debt": 6331,
-  "avg_stu_loan_debt_rank": 1004,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15122",
+  "email": true
 }

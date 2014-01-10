@@ -1,6 +1,6 @@
 {
   "facility_code": "31004430",
-  "institution": "RABBINICAL COLLEGE OF AMERICA",
+  "institution": "Rabbinical College Of America",
   "city": "Morristown",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 186186,
-  "grad_rate": 12.1,
-  "grad_rate_rank": 1764,
+  "grad_rate": 16.7,
+  "grad_rate_rank": 1752,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7662",
+  "email": false
 }

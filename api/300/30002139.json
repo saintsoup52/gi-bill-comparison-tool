@@ -1,6 +1,6 @@
 {
   "facility_code": "30002139",
-  "institution": "RI CARPENTERS LOCAL 94",
+  "institution": "Ri Carpenters Local 94",
   "city": "Warwick",
   "state": "RI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2888",
+  "email": false
 }

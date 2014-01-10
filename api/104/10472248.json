@@ -1,6 +1,6 @@
 {
   "facility_code": "10472248",
-  "institution": "USDA SOIL CONSERVATION SERVICE  (CH. 31)",
+  "institution": "Usda Soil Conservation Service  (Ch. 31)",
   "city": "Beckley",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25801",
+  "email": false
 }

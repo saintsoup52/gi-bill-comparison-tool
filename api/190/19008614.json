@@ -1,6 +1,6 @@
 {
   "facility_code": "19008614",
-  "institution": "SOCIAL SECURITY ADMINISTRATION - LAFAYETTE",
+  "institution": "Social Security Administration - Lafayette",
   "city": "Lafayette",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47901",
+  "email": false
 }

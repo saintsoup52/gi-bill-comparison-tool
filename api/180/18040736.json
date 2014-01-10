@@ -1,6 +1,6 @@
 {
   "facility_code": "18040736",
-  "institution": "FRANCIS TUTTLE TECHNOLOGY CENTER",
+  "institution": "Francis Tuttle Technology Center",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 58,
   "cross": 245999,
-  "grad_rate": 56.2,
-  "grad_rate_rank": 1740,
-  "default_rate": 27.8,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 41.1,
+  "grad_rate_rank": 2089,
+  "default_rate": 28.8,
+  "avg_stu_loan_debt": 4715,
+  "avg_stu_loan_debt_rank": 195,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "73142",
+  "email": false
 }

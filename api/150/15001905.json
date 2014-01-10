@@ -1,6 +1,6 @@
 {
   "facility_code": "15001905",
-  "institution": "SEASIDE HIGH SCHOOL  ROP (CHAPTER 31 ONLY)",
+  "institution": "Seaside High School  Rop (Chapter 31 Only)",
   "city": "Monterey",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "93942",
+  "email": false
 }

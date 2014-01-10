@@ -1,6 +1,6 @@
 {
   "facility_code": "15013205",
-  "institution": "SD REGIONAL PUBLIC SAFETY TRNG INSTITUTE DETENTIONS & COURT SERVICES TRNG ACAD",
+  "institution": "Sd Regional Public Safety Trng Institute Detentions & Court Services Trng Acad",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92126",
+  "email": false
 }

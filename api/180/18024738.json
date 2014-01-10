@@ -1,6 +1,6 @@
 {
   "facility_code": "18024738",
-  "institution": "HANOVER PUBLIC SCHOOL DISTRICT",
+  "institution": "Hanover Public School District",
   "city": "Hanover",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 418506,
-  "grad_rate": 74.5,
-  "grad_rate_rank": 952,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 4775,
-  "avg_stu_loan_debt_rank": 773,
-  "indicator_group": 5
+  "grad_rate": 81.4,
+  "grad_rate_rank": 579,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 7250,
+  "avg_stu_loan_debt_rank": 666,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "17331",
+  "email": true
 }

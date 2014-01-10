@@ -1,6 +1,6 @@
 {
   "facility_code": "11807124",
-  "institution": "UNIVERSITY OF SOUTHERN MISSISSIPPI-GULF COAST",
+  "institution": "University Of Southern Mississippi-Gulf Coast",
   "city": "Long Beach",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 348,
   "cross": 176372,
-  "grad_rate": 46.9,
-  "grad_rate_rank": 988,
-  "default_rate": 11.0,
-  "avg_stu_loan_debt": 18305,
-  "avg_stu_loan_debt_rank": 1123,
-  "indicator_group": 1
+  "grad_rate": 49.5,
+  "grad_rate_rank": 920,
+  "default_rate": 13.6,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "39560",
+  "email": false
 }

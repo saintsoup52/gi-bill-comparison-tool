@@ -1,6 +1,6 @@
 {
   "facility_code": "11000749",
-  "institution": "UNIV OF WISC-RIVER FALLS",
+  "institution": "Univ Of Wisc-River Falls",
   "city": "River Falls",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 211,
   "cross": 240471,
-  "grad_rate": 50.8,
-  "grad_rate_rank": 856,
-  "default_rate": 4.2,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 54.2,
+  "grad_rate_rank": 767,
+  "default_rate": 4.0,
+  "avg_stu_loan_debt": 15891,
+  "avg_stu_loan_debt_rank": 613,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "54022",
+  "email": false
 }

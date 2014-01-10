@@ -1,6 +1,6 @@
 {
   "facility_code": "14915420",
-  "institution": "COMMUNITY COLLEGE OF BALTIMORE COUNTY - DUNDALK",
+  "institution": "Community College Of Baltimore County - Dundalk",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 159,
   "cross": 434672,
-  "grad_rate": 10.3,
-  "grad_rate_rank": 1196,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 6900,
-  "avg_stu_loan_debt_rank": 545,
-  "indicator_group": 2
+  "grad_rate": 7.9,
+  "grad_rate_rank": 1343,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 7459,
+  "avg_stu_loan_debt_rank": 495,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "21222",
+  "email": true
 }

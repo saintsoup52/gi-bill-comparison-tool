@@ -1,6 +1,6 @@
 {
   "facility_code": "25112543",
-  "institution": "MILAN INST OF COSMETOLOGY MILITARY DRIVE",
+  "institution": "Milan Inst Of Cosmetology Military Drive",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 449904,
-  "grad_rate": 40.6,
-  "grad_rate_rank": 2063,
-  "default_rate": 41.5,
+  "grad_rate": 48.0,
+  "grad_rate_rank": 1984,
+  "default_rate": 32.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "78221",
+  "email": false
 }

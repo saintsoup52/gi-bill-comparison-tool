@@ -1,6 +1,6 @@
 {
   "facility_code": "25024423",
-  "institution": "MINNESOTA SCHOOL OF COSMETOLOGY INC",
+  "institution": "Minnesota School Of Cosmetology Inc",
   "city": "Woodbury",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 174190,
-  "grad_rate": 70.0,
-  "grad_rate_rank": 1173,
-  "default_rate": 24.8,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 1471,
-  "indicator_group": 5
+  "grad_rate": 65.5,
+  "grad_rate_rank": 1405,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 8000,
+  "avg_stu_loan_debt_rank": 821,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55125",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30012121",
-  "institution": "WORCESTER JOINT APPRENTICESHIP & TRAINING FUND 96",
+  "institution": "Worcester Joint Apprenticeship & Training Fund 96",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1608",
+  "email": true
 }

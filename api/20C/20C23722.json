@@ -1,6 +1,6 @@
 {
   "facility_code": "20C23722",
-  "institution": "MICHIGAN CARPENTER APPRENTICESHIP & TRAINING PROGRAM LOCAL UNION 1004",
+  "institution": "Michigan Carpenter Apprenticeship & Training Program Local Union 1004",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48917",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30411647",
-  "institution": "SEATTLE AREA ROOFERS APPRENTICESHIP PROGRAM - INACTIVE",
+  "institution": "Seattle Area Roofers Apprenticeship Program - Inactive",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98121",
+  "email": false
 }

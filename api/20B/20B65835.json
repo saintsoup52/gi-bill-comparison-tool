@@ -1,6 +1,6 @@
 {
   "facility_code": "20B65835",
-  "institution": "CINCINNATI PRECISION INSTRUMENT     (31)",
+  "institution": "Cincinnati Precision Instrument     (31)",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45246",
+  "email": "No (SCO)"
 }

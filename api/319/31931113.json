@@ -1,6 +1,6 @@
 {
   "facility_code": "31931113",
-  "institution": "UNIVERSITY OF ST. FRANCIS",
+  "institution": "University Of St. Francis",
   "city": "Joliet",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 148584,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 479,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 22284,
-  "avg_stu_loan_debt_rank": 1683,
-  "indicator_group": 1
+  "grad_rate": 56.4,
+  "grad_rate_rank": 689,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 22960,
+  "avg_stu_loan_debt_rank": 1512,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60435",
+  "email": true
 }

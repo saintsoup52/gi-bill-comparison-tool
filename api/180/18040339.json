@@ -1,6 +1,6 @@
 {
   "facility_code": "18040339",
-  "institution": "RI MUNICIPAL POLICE TRAINING ACADEMY",
+  "institution": "Ri Municipal Police Training Academy",
   "city": "Lincoln",
   "state": "RI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2865",
+  "email": true
 }

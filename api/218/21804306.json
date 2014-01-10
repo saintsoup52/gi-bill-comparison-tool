@@ -1,6 +1,6 @@
 {
   "facility_code": "21804306",
-  "institution": "UNIVERSITY OF PHOENIX - FORT COLLINS",
+  "institution": "University Of Phoenix - Fort Collins",
   "city": "Ft Collins",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 405988,
-  "grad_rate": 16.0,
-  "grad_rate_rank": 1721,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 11.5,
+  "grad_rate_rank": 1820,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "80525",
+  "email": true
 }

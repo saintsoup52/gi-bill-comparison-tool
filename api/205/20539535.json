@@ -1,6 +1,6 @@
 {
   "facility_code": "20539535",
-  "institution": "RALPH MYERS T.V. SALES AND SERVICE   K",
+  "institution": "Ralph Myers T.V. Sales And Service   K",
   "city": "Sandusky",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44870",
+  "email": false
 }

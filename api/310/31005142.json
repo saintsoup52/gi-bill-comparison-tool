@@ -1,6 +1,6 @@
 {
   "facility_code": "31005142",
-  "institution": "BELMONT UNIVERSITY - NASHVILLE",
+  "institution": "Belmont University - Nashville",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 141,
   "cross": 219709,
-  "grad_rate": 67.9,
-  "grad_rate_rank": 354,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 24876,
-  "avg_stu_loan_debt_rank": 1911,
-  "indicator_group": 1
+  "grad_rate": 67.4,
+  "grad_rate_rank": 363,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 25500,
+  "avg_stu_loan_debt_rank": 1807,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37212",
+  "email": false
 }

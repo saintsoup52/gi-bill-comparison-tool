@@ -1,6 +1,6 @@
 {
   "facility_code": "25001930",
-  "institution": "SMITH AND SOLOMON DRIVER TRAINING SCHOOL - BELLMAWR",
+  "institution": "Smith And Solomon Driver Training School - Bellmawr",
   "city": "Bellmawr",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8031",
+  "email": true
 }

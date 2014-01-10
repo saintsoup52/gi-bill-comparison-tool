@@ -1,6 +1,6 @@
 {
   "facility_code": "31044213",
-  "institution": "SAINT LOUIS UNIVERSITY AT BELLEVILLE SCHOOL OF PROFESSIONAL STUDIES",
+  "institution": "Saint Louis University At Belleville School Of Professional Studies",
   "city": "Belleville",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 179159,
-  "grad_rate": 60.8,
-  "grad_rate_rank": 539,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 22475,
-  "avg_stu_loan_debt_rank": 1704,
-  "indicator_group": 1
+  "grad_rate": 70.2,
+  "grad_rate_rank": 311,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 24750,
+  "avg_stu_loan_debt_rank": 1703,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62221",
+  "email": true
 }

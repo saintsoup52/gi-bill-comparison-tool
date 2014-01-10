@@ -1,6 +1,6 @@
 {
   "facility_code": "29000644",
-  "institution": "NATALIE ROSE (CH 31)",
+  "institution": "Natalie Rose (Ch 31)",
   "city": "South Ogden",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84405",
+  "email": false
 }

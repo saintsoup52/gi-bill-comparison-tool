@@ -1,6 +1,6 @@
 {
   "facility_code": "31916120",
-  "institution": "CAPITOL COLLEGE",
+  "institution": "Capitol College",
   "city": "Laurel",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 151,
   "cross": 162061,
-  "grad_rate": 36.9,
-  "grad_rate_rank": 1328,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 29.2,
+  "grad_rate_rank": 1552,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 14250,
+  "avg_stu_loan_debt_rank": 445,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20708",
+  "email": true
 }

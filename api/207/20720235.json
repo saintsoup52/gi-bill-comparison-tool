@@ -1,6 +1,6 @@
 {
   "facility_code": "20720235",
-  "institution": "PRONTOUR COMPANY  K",
+  "institution": "Prontour Company  K",
   "city": "Dennison",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44621",
+  "email": false
 }

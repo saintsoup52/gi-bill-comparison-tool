@@ -1,6 +1,6 @@
 {
   "facility_code": "15019123",
-  "institution": "BABBITT-EMBARRASS SCHOOL",
+  "institution": "Babbitt-Embarrass School",
   "city": "Babbitt",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55706",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25034906",
-  "institution": "WESTERN AIR FLIGHT ACADEMY",
+  "institution": "Western Air Flight Academy",
   "city": "Broomfield",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80021",
+  "email": true
 }

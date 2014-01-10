@@ -1,6 +1,6 @@
 {
   "facility_code": "24931403",
-  "institution": "BRYMAN SCHOOL OF ARIZONA THE",
+  "institution": "Bryman School Of Arizona The",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 384209,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 13.7,
-  "avg_stu_loan_debt": 8471,
-  "avg_stu_loan_debt_rank": 373,
-  "indicator_group": 3
+  "grad_rate": 82.1,
+  "grad_rate_rank": 48,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 9042,
+  "avg_stu_loan_debt_rank": 301,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85029",
+  "email": true
 }

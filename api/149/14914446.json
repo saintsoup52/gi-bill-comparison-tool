@@ -1,6 +1,6 @@
 {
   "facility_code": "14914446",
-  "institution": "SOUTHSIDE VIRGINIA COMMUNITY COLLEGE",
+  "institution": "Southside Virginia Community College",
   "city": "Alberta",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 159,
   "cross": 233639,
-  "grad_rate": 26.5,
-  "grad_rate_rank": 372,
+  "grad_rate": 25.9,
+  "grad_rate_rank": 584,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23821",
+  "email": true
 }

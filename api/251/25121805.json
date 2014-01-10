@@ -1,6 +1,6 @@
 {
   "facility_code": "25121805",
-  "institution": "COMPUTER TRAINING FOR TODAY (CHAPTER 31)",
+  "institution": "Computer Training For Today (Chapter 31)",
   "city": "San Bernardino",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92408",
+  "email": false
 }

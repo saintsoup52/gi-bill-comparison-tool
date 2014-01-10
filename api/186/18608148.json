@@ -1,6 +1,6 @@
 {
   "facility_code": "18608148",
-  "institution": "FAYETTE INSTITUTE OF TECHNOLOGY - OAK HILL",
+  "institution": "Fayette Institute Of Technology - Oak Hill",
   "city": "Oak Hill",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 413176,
-  "grad_rate": 91.7,
-  "grad_rate_rank": 210,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 85.7,
+  "grad_rate_rank": 415,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "25901",
+  "email": true
 }

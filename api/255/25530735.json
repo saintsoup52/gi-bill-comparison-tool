@@ -1,6 +1,6 @@
 {
   "facility_code": "25530735",
-  "institution": "EASTERN HILLS ACADEMY OF BEAUTY & HAIR DESIGN",
+  "institution": "Eastern Hills Academy Of Beauty & Hair Design",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 202639,
-  "grad_rate": 83.1,
-  "grad_rate_rank": 505,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 9206,
-  "avg_stu_loan_debt_rank": 1601,
-  "indicator_group": 5
+  "grad_rate": 65.5,
+  "grad_rate_rank": 1405,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 10994,
+  "avg_stu_loan_debt_rank": 1608,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45255",
+  "email": false
 }

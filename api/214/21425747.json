@@ -1,6 +1,6 @@
 {
   "facility_code": "21425747",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN & TECHNOLOGY",
+  "institution": "International Academy Of Design & Technology",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 51,
   "cross": 446808,
-  "grad_rate": 44.4,
-  "grad_rate_rank": 1081,
-  "default_rate": 26.9,
-  "avg_stu_loan_debt": 14826,
-  "avg_stu_loan_debt_rank": 706,
-  "indicator_group": 1
+  "grad_rate": 32.6,
+  "grad_rate_rank": 1459,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98188",
+  "email": true
 }

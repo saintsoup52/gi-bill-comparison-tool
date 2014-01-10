@@ -1,6 +1,6 @@
 {
   "facility_code": "20005435",
-  "institution": "AMERICAN LINE BUILDERS APPRENTICESHIP TRAINING  K",
+  "institution": "American Line Builders Apprenticeship Training  K",
   "city": "Medway",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45341",
+  "email": true
 }

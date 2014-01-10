@@ -1,6 +1,6 @@
 {
   "facility_code": "21000330",
-  "institution": "DREXEL UNIVERSITY AT BURLINGTON COUNTY COLLEGE",
+  "institution": "Drexel University At Burlington County College",
   "city": "Mount Laurel",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1,
   "cross": 212054,
-  "grad_rate": 68.1,
-  "grad_rate_rank": 348,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 20260,
-  "avg_stu_loan_debt_rank": 1461,
-  "indicator_group": 1
+  "grad_rate": 65.3,
+  "grad_rate_rank": 425,
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 21597,
+  "avg_stu_loan_debt_rank": 1389,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "8054",
+  "email": true
 }

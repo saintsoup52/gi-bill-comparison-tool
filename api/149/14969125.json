@@ -1,6 +1,6 @@
 {
   "facility_code": "14969125",
-  "institution": "EAST CENTRAL COLLEGE",
+  "institution": "East Central College",
   "city": "Union",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 150,
   "cross": 177250,
-  "grad_rate": 21.2,
-  "grad_rate_rank": 822,
-  "default_rate": 20.5,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 602,
-  "indicator_group": 2
+  "grad_rate": 19.0,
+  "grad_rate_rank": 971,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 7354,
+  "avg_stu_loan_debt_rank": 489,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "63084",
+  "email": false
 }

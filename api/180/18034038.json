@@ -1,6 +1,6 @@
 {
   "facility_code": "18034038",
-  "institution": "NORTHERN TIER CAREER CENTER",
+  "institution": "Northern Tier Career Center",
   "city": "Towanda",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 418588,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 1461,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 14675,
-  "avg_stu_loan_debt_rank": 2461,
-  "indicator_group": 5
+  "grad_rate": 79.2,
+  "grad_rate_rank": 693,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 13492,
+  "avg_stu_loan_debt_rank": 1860,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "18848",
+  "email": true
 }

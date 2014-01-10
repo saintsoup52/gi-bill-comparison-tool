@@ -1,6 +1,6 @@
 {
   "facility_code": "10020549",
-  "institution": "MADISON METROPOLITAN SEWERAGE DISTRICT",
+  "institution": "Madison Metropolitan Sewerage District",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "53713",
+  "email": false
 }

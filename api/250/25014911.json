@@ -1,6 +1,6 @@
 {
   "facility_code": "25014911",
-  "institution": "COBB BEAUTY COLLEGE INC.",
+  "institution": "Cobb Beauty College Inc.",
   "city": "Kennesaw",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 417406,
-  "grad_rate": 96.6,
-  "grad_rate_rank": 105,
-  "default_rate": 9.5,
+  "grad_rate": 92.9,
+  "grad_rate_rank": 193,
+  "default_rate": 4.0,
   "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30144",
+  "email": true
 }

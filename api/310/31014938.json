@@ -1,6 +1,6 @@
 {
   "facility_code": "31014938",
-  "institution": "GRATZ COLLEGE",
+  "institution": "Gratz College",
   "city": "Melrose Park",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 212771,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 2.1,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "19027",
+  "email": true
 }

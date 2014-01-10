@@ -1,6 +1,6 @@
 {
   "facility_code": "24802505",
-  "institution": "SANTA BARBARA BUSINESS COLLEGE (SANTA MARIA)",
+  "institution": "Santa Barbara Business College (Santa Maria)",
   "city": "Santa Maria",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 122852,
-  "grad_rate": 48.1,
-  "grad_rate_rank": 211,
-  "default_rate": 16.7,
-  "avg_stu_loan_debt": 11398,
-  "avg_stu_loan_debt_rank": 695,
-  "indicator_group": 3
+  "grad_rate": 55.0,
+  "grad_rate_rank": 349,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 14532,
+  "avg_stu_loan_debt_rank": 649,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "93454",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34925421",
-  "institution": "NEWBURY COLLEGE",
+  "institution": "Newbury College",
   "city": "Brookline",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 7,
   "cross": 167251,
-  "grad_rate": 41.6,
-  "grad_rate_rank": 1173,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 19315,
-  "avg_stu_loan_debt_rank": 1291,
-  "indicator_group": 1
+  "grad_rate": 42.3,
+  "grad_rate_rank": 1166,
+  "default_rate": 12.6,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2445",
+  "email": false
 }

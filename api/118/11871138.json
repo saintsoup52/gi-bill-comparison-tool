@@ -1,6 +1,6 @@
 {
   "facility_code": "11871138",
-  "institution": "UNIVERSITY OF PITTSBURGH",
+  "institution": "University Of Pittsburgh",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 465,
   "cross": 215293,
-  "grad_rate": 78.7,
-  "grad_rate_rank": 176,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 22125,
-  "avg_stu_loan_debt_rank": 1654,
-  "indicator_group": 1
+  "grad_rate": 79.0,
+  "grad_rate_rank": 175,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 23878,
+  "avg_stu_loan_debt_rank": 1608,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15260",
+  "email": true
 }

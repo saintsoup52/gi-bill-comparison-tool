@@ -1,6 +1,6 @@
 {
   "facility_code": "20N13132",
-  "institution": "EMPIRE STATE CARPENTERS APPRENTICESHIP TRAINING",
+  "institution": "Empire State Carpenters Apprenticeship Training",
   "city": "Rock Tavern",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "12575",
+  "email": false
 }

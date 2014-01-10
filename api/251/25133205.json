@@ -1,6 +1,6 @@
 {
   "facility_code": "25133205",
-  "institution": "MORTGAGE TRAINING GROUP (CHAPTER 31)",
+  "institution": "Mortgage Training Group (Chapter 31)",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "92705",
+  "email": false
 }

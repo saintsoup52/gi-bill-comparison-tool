@@ -1,6 +1,6 @@
 {
   "facility_code": "14914411",
-  "institution": "SOUTH GEORGIA TECHNICAL COLLEGE",
+  "institution": "South Georgia Technical College",
   "city": "Americus",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 101,
   "cross": 141006,
-  "grad_rate": 37.3,
-  "grad_rate_rank": 273,
+  "grad_rate": 35.0,
+  "grad_rate_rank": 498,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "31709",
+  "email": true
 }

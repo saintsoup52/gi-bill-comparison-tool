@@ -1,6 +1,6 @@
 {
   "facility_code": "249C0443",
-  "institution": "WESTERN TECH COLLEGE EL PASO",
+  "institution": "Western Tech College El Paso",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 160,
   "cross": 224660,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 26.6,
+  "grad_rate": 98.2,
+  "grad_rate_rank": 9,
+  "default_rate": 28.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "79924",
+  "email": false
 }

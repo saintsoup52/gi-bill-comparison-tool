@@ -1,6 +1,6 @@
 {
   "facility_code": "11939113",
-  "institution": "UNIVERSITY OF ILLINOIS AT SPRINGFIELD",
+  "institution": "University Of Illinois At Springfield",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 320,
   "cross": 148654,
-  "grad_rate": 60.9,
-  "grad_rate_rank": 536,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 15466,
-  "avg_stu_loan_debt_rank": 776,
-  "indicator_group": 1
+  "grad_rate": 47.2,
+  "grad_rate_rank": 998,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 16415,
+  "avg_stu_loan_debt_rank": 733,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "62794",
+  "email": true
 }

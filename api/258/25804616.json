@@ -1,6 +1,6 @@
 {
   "facility_code": "25804616",
-  "institution": "COURT REPORTING INSTITUTE OF KANSAS CITY",
+  "institution": "Court Reporting Institute Of Kansas City",
   "city": "Mission",
   "state": "KS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "66202",
+  "email": false
 }

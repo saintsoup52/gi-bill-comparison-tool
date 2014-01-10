@@ -1,6 +1,6 @@
 {
   "facility_code": "10500430",
-  "institution": "PORT AUTHORITY OF NEW YORK AND NEW JERSEY POLICE DEPARTMENT",
+  "institution": "Port Authority Of New York And New Jersey Police Department",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7310",
+  "email": true
 }

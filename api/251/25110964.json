@@ -1,6 +1,6 @@
 {
   "facility_code": "25110964",
-  "institution": "PAUL MITCHELL THE SCHOOL HONOLULU",
+  "institution": "Paul Mitchell The School Honolulu",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 461591,
-  "grad_rate": 48.5,
-  "grad_rate_rank": 1956,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "grad_rate": 68.0,
+  "grad_rate_rank": 1273,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 6338,
+  "avg_stu_loan_debt_rank": 511,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "96816",
+  "email": true
 }

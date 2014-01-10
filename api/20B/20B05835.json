@@ -1,6 +1,6 @@
 {
   "facility_code": "20B05835",
-  "institution": "TAFT TOOL & PRODUCTION CO INC K",
+  "institution": "Taft Tool & Production Co Inc K",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43609",
+  "email": false
 }

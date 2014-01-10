@@ -1,10 +1,10 @@
 {
   "facility_code": "31141069",
-  "institution": "YONSEI UNIVERSITY SCHOOL OF BUSINESS",
+  "institution": "Yonsei University School Of Business",
   "city": "Seoul",
   "state": "South Korea",
   "country": "South Korea",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 5,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": false
 }

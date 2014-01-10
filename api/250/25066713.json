@@ -1,6 +1,6 @@
 {
   "facility_code": "25066713",
-  "institution": "UNIVERSAL TECHNICAL INSTITUTE",
+  "institution": "Universal Technical Institute",
   "city": "Glendale Heights",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 243,
   "cross": 366191,
-  "grad_rate": 58.6,
-  "grad_rate_rank": 1646,
-  "default_rate": 14.3,
+  "grad_rate": 54.5,
+  "grad_rate_rank": 1818,
+  "default_rate": 18.9,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60139",
+  "email": false
 }

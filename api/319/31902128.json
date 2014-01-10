@@ -1,6 +1,6 @@
 {
   "facility_code": "31902128",
-  "institution": "REGIS UNIVERSITY",
+  "institution": "Regis University",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 127918,
-  "grad_rate": 62.2,
-  "grad_rate_rank": 510,
-  "default_rate": 6.5,
-  "avg_stu_loan_debt": 22722,
-  "avg_stu_loan_debt_rank": 1727,
-  "indicator_group": 1
+  "grad_rate": 58.9,
+  "grad_rate_rank": 599,
+  "default_rate": 4.9,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "89074",
+  "email": true
 }

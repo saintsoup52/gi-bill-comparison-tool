@@ -1,6 +1,6 @@
 {
   "facility_code": "31201925",
-  "institution": "STEPHENS COLLEGE",
+  "institution": "Stephens College",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 179548,
-  "grad_rate": 55.2,
-  "grad_rate_rank": 703,
-  "default_rate": 8.2,
-  "avg_stu_loan_debt": 18481,
-  "avg_stu_loan_debt_rank": 1135,
-  "indicator_group": 1
+  "grad_rate": 56.4,
+  "grad_rate_rank": 689,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65215",
+  "email": true
 }

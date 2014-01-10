@@ -1,6 +1,6 @@
 {
   "facility_code": "31300232",
-  "institution": "ALFRED UNIVERSITY",
+  "institution": "Alfred University",
   "city": "Alfred",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 188641,
-  "grad_rate": 59.9,
-  "grad_rate_rank": 566,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 63.5,
+  "grad_rate_rank": 475,
+  "default_rate": 8.2,
+  "avg_stu_loan_debt": 21901,
+  "avg_stu_loan_debt_rank": 1407,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14802",
+  "email": true
 }

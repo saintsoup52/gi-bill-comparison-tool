@@ -1,6 +1,6 @@
 {
   "facility_code": "24945436",
-  "institution": "TULSA WELDING SCHOOL",
+  "institution": "Tulsa Welding School",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 169,
   "cross": 207962,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 27.8,
+  "grad_rate": 68.1,
+  "grad_rate_rank": 190,
+  "default_rate": 27.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "74104",
+  "email": true
 }

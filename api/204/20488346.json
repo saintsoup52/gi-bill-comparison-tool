@@ -1,6 +1,6 @@
 {
   "facility_code": "20488346",
-  "institution": "SHEET METAL WORKERS LOCAL UNION 100",
+  "institution": "Sheet Metal Workers Local Union 100",
   "city": "Vinton",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "24179",
+  "email": true
 }

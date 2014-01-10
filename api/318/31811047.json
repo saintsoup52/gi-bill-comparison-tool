@@ -1,6 +1,6 @@
 {
   "facility_code": "31811047",
-  "institution": "OLD DOMINION U. - BREMERTON",
+  "institution": "Old Dominion U. - Bremerton",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 232982,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 876,
-  "default_rate": 4.6,
-  "avg_stu_loan_debt": 18751,
-  "avg_stu_loan_debt_rank": 1199,
-  "indicator_group": 1
+  "grad_rate": 49.1,
+  "grad_rate_rank": 926,
+  "default_rate": 6.5,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98337",
+  "email": true
 }

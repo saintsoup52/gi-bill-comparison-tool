@@ -1,6 +1,6 @@
 {
   "facility_code": "20144635",
-  "institution": "UNIVERSAL PRECISION PRODUCTS COMPANY   K",
+  "institution": "Universal Precision Products Company   K",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44310",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25414847",
-  "institution": "ASHER TECHNICAL SCHOOL  CH 31 ONLY",
+  "institution": "Asher Technical School  Ch 31 Only",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "98409",
+  "email": false
 }

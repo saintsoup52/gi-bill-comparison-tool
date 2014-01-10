@@ -1,6 +1,6 @@
 {
   "facility_code": "25299938",
-  "institution": "MASSAGE ACADEMY OF THE POCONOS",
+  "institution": "Massage Academy Of The Poconos",
   "city": "Stroudsburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "18360",
+  "email": true
 }

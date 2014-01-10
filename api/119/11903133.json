@@ -1,6 +1,6 @@
 {
   "facility_code": "11903133",
-  "institution": "UNIVERSITY OF NORTH CAROLINA SCHOOL OF THE ARTS (FORMERLY NC SCH. OF THE ARTS)",
+  "institution": "University Of North Carolina School Of The Arts (Formerly Nc Sch. Of The Arts)",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 199184,
-  "grad_rate": 58.2,
-  "grad_rate_rank": 615,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 20555,
-  "avg_stu_loan_debt_rank": 1491,
-  "indicator_group": 1
+  "grad_rate": 62.1,
+  "grad_rate_rank": 512,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27127",
+  "email": true
 }

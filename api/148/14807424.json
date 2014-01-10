@@ -1,6 +1,6 @@
 {
   "facility_code": "14807424",
-  "institution": "HINDS COMMUNITY COLLEGE - UTICA",
+  "institution": "Hinds Community College - Utica",
   "city": "Utica",
   "state": "MS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 20,
   "cross": 175786,
-  "grad_rate": 19.2,
-  "grad_rate_rank": 888,
-  "default_rate": 22.7,
-  "avg_stu_loan_debt": 5065,
-  "avg_stu_loan_debt_rank": 281,
-  "indicator_group": 2
+  "grad_rate": 14.9,
+  "grad_rate_rank": 1114,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 4965,
+  "avg_stu_loan_debt_rank": 159,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "39175",
+  "email": false
 }

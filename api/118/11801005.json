@@ -1,6 +1,6 @@
 {
   "facility_code": "11801005",
-  "institution": "CALIFORNIA STATE UNIVERSITY-SAN MARCOS",
+  "institution": "California State University-San Marcos",
   "city": "San Marcos",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 506,
   "cross": 366711,
-  "grad_rate": 48.5,
-  "grad_rate_rank": 943,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 14214,
-  "avg_stu_loan_debt_rank": 652,
-  "indicator_group": 1
+  "grad_rate": 44.6,
+  "grad_rate_rank": 1081,
+  "default_rate": 4.3,
+  "avg_stu_loan_debt": 14512,
+  "avg_stu_loan_debt_rank": 498,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92096",
+  "email": false
 }

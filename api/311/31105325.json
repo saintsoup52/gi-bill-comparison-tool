@@ -1,6 +1,6 @@
 {
   "facility_code": "31105325",
-  "institution": "ASSEMBLIES OF GOD THEOLOGICAL SEMINARY",
+  "institution": "Assemblies Of God Theological Seminary",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 176619,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 8.8,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 3250,
+  "avg_stu_loan_debt_rank": 7,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "65802",
+  "email": true
 }

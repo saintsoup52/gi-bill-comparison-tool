@@ -1,6 +1,6 @@
 {
   "facility_code": "31000414",
-  "institution": "EARLHAM COLLEGE",
+  "institution": "Earlham College",
   "city": "Richmond",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 150455,
-  "grad_rate": 66.3,
-  "grad_rate_rank": 401,
-  "default_rate": 2.8,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 71.6,
+  "grad_rate_rank": 292,
+  "default_rate": 4.4,
+  "avg_stu_loan_debt": 21250,
+  "avg_stu_loan_debt_rank": 1338,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "47374",
+  "email": false
 }

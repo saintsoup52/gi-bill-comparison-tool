@@ -1,6 +1,6 @@
 {
   "facility_code": "20779607",
-  "institution": "MATERIALS HANDLING SYSTEMS INC",
+  "institution": "Materials Handling Systems Inc",
   "city": "West Hartford",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6110",
+  "email": false
 }

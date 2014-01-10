@@ -1,6 +1,6 @@
 {
   "facility_code": "31908414",
-  "institution": "TAYLOR UNIVERSITY - ONLINE",
+  "institution": "Taylor University - Online",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 152530,
-  "grad_rate": 80.4,
-  "grad_rate_rank": 148,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 21825,
-  "avg_stu_loan_debt_rank": 1623,
-  "indicator_group": 1
+  "grad_rate": 77.2,
+  "grad_rate_rank": 201,
+  "default_rate": 3.3,
+  "avg_stu_loan_debt": 23635,
+  "avg_stu_loan_debt_rank": 1592,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46815",
+  "email": true
 }

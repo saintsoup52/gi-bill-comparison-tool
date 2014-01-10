@@ -1,6 +1,6 @@
 {
   "facility_code": "25803318",
-  "institution": "MOORE CAREER COLLEGE",
+  "institution": "Moore Career College",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 444662,
-  "grad_rate": 87.3,
-  "grad_rate_rank": 350,
-  "default_rate": 11.9,
-  "avg_stu_loan_debt": 8673,
-  "avg_stu_loan_debt_rank": 1515,
-  "indicator_group": 5
+  "grad_rate": 92.5,
+  "grad_rate_rank": 206,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 8181,
+  "avg_stu_loan_debt_rank": 855,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70806",
+  "email": false
 }

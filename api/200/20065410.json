@@ -1,6 +1,6 @@
 {
   "facility_code": "20065410",
-  "institution": "NORTH CENTRAL FLORIDA OPERATING ENGINEERS JAC",
+  "institution": "North Central Florida Operating Engineers Jac",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32220",
+  "email": false
 }

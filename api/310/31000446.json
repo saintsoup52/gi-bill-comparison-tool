@@ -1,6 +1,6 @@
 {
   "facility_code": "31000446",
-  "institution": "HAMPDEN SYDNEY COLLEGE",
+  "institution": "Hampden Sydney College",
   "city": "Hampden Sydney",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 232256,
-  "grad_rate": 66.6,
-  "grad_rate_rank": 396,
-  "default_rate": 5.3,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 67.8,
+  "grad_rate_rank": 358,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 28500,
+  "avg_stu_loan_debt_rank": 1920,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "23943",
+  "email": true
 }

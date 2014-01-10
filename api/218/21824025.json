@@ -1,6 +1,6 @@
 {
   "facility_code": "21824025",
-  "institution": "DEVRY UNIVERSITY - ST LOUIS",
+  "institution": "Devry University - St Louis",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 96,
   "cross": 177162,
-  "grad_rate": 17.2,
-  "grad_rate_rank": 1705,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 25.0,
+  "grad_rate_rank": 1629,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63146",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31995138",
-  "institution": "ARCADIA UNIVERSITY",
+  "institution": "Arcadia University",
   "city": "Glenside",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 63,
   "cross": 211088,
-  "grad_rate": 61.8,
-  "grad_rate_rank": 515,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 22625,
-  "avg_stu_loan_debt_rank": 1721,
-  "indicator_group": 1
+  "grad_rate": 65.0,
+  "grad_rate_rank": 434,
+  "default_rate": 7.0,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19038",
+  "email": true
 }

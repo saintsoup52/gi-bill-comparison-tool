@@ -1,6 +1,6 @@
 {
   "facility_code": "15528635",
-  "institution": "COLUMBIANA COUNTY CAREER CENTER",
+  "institution": "Columbiana County Career Center",
   "city": "Lisbon",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 202152,
-  "grad_rate": 91.8,
-  "grad_rate_rank": 209,
+  "grad_rate": 88.6,
+  "grad_rate_rank": 314,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44432",
+  "email": true
 }

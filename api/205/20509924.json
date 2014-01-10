@@ -1,6 +1,6 @@
 {
   "facility_code": "20509924",
-  "institution": "GOSSETT'S BODY SHOP INC",
+  "institution": "Gossett'S Body Shop Inc",
   "city": "Southaven",
   "state": "MS",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "38671",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000201",
-  "institution": "AUBURN UNIVERSITY",
+  "institution": "Auburn University",
   "city": "Auburn",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 764,
   "cross": 100858,
-  "grad_rate": 66.3,
-  "grad_rate_rank": 401,
-  "default_rate": 6.8,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 68.3,
+  "grad_rate_rank": 342,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36849",
+  "email": true
 }

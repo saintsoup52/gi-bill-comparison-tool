@@ -1,6 +1,6 @@
 {
   "facility_code": "31032443",
-  "institution": "WAYLAND BAPTIST UNIVERSITY WICHITA FALLS",
+  "institution": "Wayland Baptist University Wichita Falls",
   "city": "Sheppard Afb",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 126,
   "cross": 229780,
-  "grad_rate": 37.4,
-  "grad_rate_rank": 1314,
-  "default_rate": 12.5,
-  "avg_stu_loan_debt": 13891,
-  "avg_stu_loan_debt_rank": 623,
-  "indicator_group": 1
+  "grad_rate": 36.0,
+  "grad_rate_rank": 1367,
+  "default_rate": 11.7,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76311",
+  "email": true
 }

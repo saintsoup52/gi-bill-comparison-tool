@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17210",
-  "institution": "HOUSING AUTHORITY OF THE CITY OF FORT LAUDERDALE INJ",
+  "institution": "Housing Authority Of The City Of Fort Lauderdale Inj",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33312",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34927438",
-  "institution": "LACKAWANNA COLLEGE",
+  "institution": "Lackawanna College",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 101,
   "cross": 213376,
-  "grad_rate": 22.8,
-  "grad_rate_rank": 769,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 10000,
-  "avg_stu_loan_debt_rank": 851,
-  "indicator_group": 2
+  "grad_rate": 28.6,
+  "grad_rate_rank": 669,
+  "default_rate": 24.6,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 757,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "18509",
+  "email": true
 }

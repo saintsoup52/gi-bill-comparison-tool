@@ -1,6 +1,6 @@
 {
   "facility_code": "11901111",
-  "institution": "DALTON STATE COLLEGE",
+  "institution": "Dalton State College",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 165,
   "cross": 139463,
-  "grad_rate": 18.1,
-  "grad_rate_rank": 928,
-  "default_rate": 21.3,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 17.2,
+  "grad_rate_rank": 1035,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 6153,
+  "avg_stu_loan_debt_rank": 345,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "30720",
+  "email": true
 }

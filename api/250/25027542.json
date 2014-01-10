@@ -1,6 +1,6 @@
 {
   "facility_code": "25027542",
-  "institution": "GENESIS CAREER COLLEGE OF NASHVILLE - DOWNTOWN",
+  "institution": "Genesis Career College Of Nashville - Downtown",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 382780,
-  "grad_rate": 60.2,
-  "grad_rate_rank": 1582,
-  "default_rate": 6.5,
-  "avg_stu_loan_debt": 9076,
-  "avg_stu_loan_debt_rank": 1586,
-  "indicator_group": 5
+  "grad_rate": 56.6,
+  "grad_rate_rank": 1746,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 5889,
+  "avg_stu_loan_debt_rank": 402,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "37203",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14902421",
-  "institution": "ROXBURY COMMUNITY COLLEGE",
+  "institution": "Roxbury Community College",
   "city": "Roxbury Crossing",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 49,
   "cross": 167631,
-  "grad_rate": 10.3,
-  "grad_rate_rank": 1196,
+  "grad_rate": 9.3,
+  "grad_rate_rank": 1313,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "2120",
+  "email": true
 }

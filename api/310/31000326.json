@@ -1,6 +1,6 @@
 {
   "facility_code": "31000326",
-  "institution": "MOUNTAIN STATES BAPTIST COLLEGE",
+  "institution": "Mountain States Baptist College",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59401",
+  "email": true
 }

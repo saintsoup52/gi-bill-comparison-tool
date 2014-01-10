@@ -1,6 +1,6 @@
 {
   "facility_code": "14900146",
-  "institution": "DABNEY S LANCASTER COMMUNITY COLLEGE",
+  "institution": "Dabney S Lancaster Community College",
   "city": "Clifton Forge",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 231873,
-  "grad_rate": 30.2,
-  "grad_rate_rank": 340,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 163,
-  "indicator_group": 3
+  "grad_rate": 25.0,
+  "grad_rate_rank": 591,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 105,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "24422",
+  "email": true
 }

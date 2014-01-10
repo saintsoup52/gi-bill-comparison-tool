@@ -1,6 +1,6 @@
 {
   "facility_code": "28001129",
-  "institution": "CONTINENTAL ACADEMIE OF HAIR DESIGN",
+  "institution": "Continental Academie Of Hair Design",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": null,
   "cross": 182883,
   "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate_rank": null,
   "default_rate": null,
-  "avg_stu_loan_debt": 11067,
-  "avg_stu_loan_debt_rank": 2238,
-  "indicator_group": 5
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3103",
+  "email": false
 }

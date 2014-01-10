@@ -1,6 +1,6 @@
 {
   "facility_code": "33956113",
-  "institution": "CONCORDIA UNIVERSITY",
+  "institution": "Concordia University",
   "city": "River Forest",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 36,
   "cross": 144351,
-  "grad_rate": 59.6,
-  "grad_rate_rank": 577,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 12168,
-  "avg_stu_loan_debt_rank": 471,
-  "indicator_group": 1
+  "grad_rate": 48.8,
+  "grad_rate_rank": 936,
+  "default_rate": 5.0,
+  "avg_stu_loan_debt": 16530,
+  "avg_stu_loan_debt_rank": 756,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60305",
+  "email": true
 }

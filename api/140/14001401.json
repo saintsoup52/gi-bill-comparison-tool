@@ -1,6 +1,6 @@
 {
   "facility_code": "14001401",
-  "institution": "BEVILL STATE C.C.- JASPER",
+  "institution": "Bevill State C.C.- Jasper",
   "city": "Jasper",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 102429,
-  "grad_rate": 17.3,
-  "grad_rate_rank": 954,
+  "grad_rate": 16.8,
+  "grad_rate_rank": 1048,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "35501",
+  "email": true
 }

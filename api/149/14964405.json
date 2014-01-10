@@ -1,6 +1,6 @@
 {
   "facility_code": "14964405",
-  "institution": "ALLAN HANCOCK COLLEGE",
+  "institution": "Allan Hancock College",
   "city": "Santa Maria",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 271,
   "cross": 108807,
-  "grad_rate": 26.5,
-  "grad_rate_rank": 639,
-  "default_rate": 35.9,
-  "avg_stu_loan_debt": 6011,
-  "avg_stu_loan_debt_rank": 450,
-  "indicator_group": 2
+  "grad_rate": 26.1,
+  "grad_rate_rank": 752,
+  "default_rate": 22.0,
+  "avg_stu_loan_debt": 6850,
+  "avg_stu_loan_debt_rank": 427,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93454",
+  "email": false
 }

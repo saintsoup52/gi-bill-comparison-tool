@@ -1,6 +1,6 @@
 {
   "facility_code": "31002723",
-  "institution": "BETHEL UNIVERSITY SEMINARY",
+  "institution": "Bethel University Seminary",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 173160,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 251,
-  "default_rate": 1.5,
-  "avg_stu_loan_debt": 21000,
-  "avg_stu_loan_debt_rank": 1519,
-  "indicator_group": 1
+  "grad_rate": 70.6,
+  "grad_rate_rank": 306,
+  "default_rate": 2.8,
+  "avg_stu_loan_debt": 20500,
+  "avg_stu_loan_debt_rank": 1243,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55112",
+  "email": false
 }

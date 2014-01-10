@@ -1,6 +1,6 @@
 {
   "facility_code": "31001046",
-  "institution": "ROANOKE COLLEGE",
+  "institution": "Roanoke College",
   "city": "Salem",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 46,
   "cross": 233426,
-  "grad_rate": 68.7,
-  "grad_rate_rank": 334,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 65.4,
+  "grad_rate_rank": 421,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24153",
+  "email": true
 }

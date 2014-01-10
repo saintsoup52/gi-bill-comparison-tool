@@ -1,6 +1,6 @@
 {
   "facility_code": "15800244",
-  "institution": "DAVIS APPLIED TECHNOLOGY COLLEGE",
+  "institution": "Davis Applied Technology College",
   "city": "Kaysville",
   "state": "UT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 79,
   "cross": 230162,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
+  "grad_rate": 31.7,
+  "grad_rate_rank": 2187,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "84037",
+  "email": true
 }

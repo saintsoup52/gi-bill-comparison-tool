@@ -1,6 +1,6 @@
 {
   "facility_code": "25029206",
-  "institution": "CHEEKS INTERNATIONAL ACADEMY OF BEAUTY CULTURE - GREELEY",
+  "institution": "Cheeks International Academy Of Beauty Culture - Greeley",
   "city": "Greeley",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 381705,
-  "grad_rate": 71.1,
-  "grad_rate_rank": 1125,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 8876,
-  "avg_stu_loan_debt_rank": 1559,
-  "indicator_group": 5
+  "grad_rate": 76.3,
+  "grad_rate_rank": 849,
+  "default_rate": 15.5,
+  "avg_stu_loan_debt": 6471,
+  "avg_stu_loan_debt_rank": 531,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80631",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25133105",
-  "institution": "AMERICAN INSTITUTE OF MASSAGE THERAPY",
+  "institution": "American Institute Of Massage Therapy",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 447795,
-  "grad_rate": 94.6,
-  "grad_rate_rank": 147,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 6625,
-  "avg_stu_loan_debt_rank": 1085,
-  "indicator_group": 5
+  "grad_rate": 97.2,
+  "grad_rate_rank": 100,
+  "default_rate": 7.1,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "92705",
+  "email": false
 }

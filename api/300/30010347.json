@@ -1,6 +1,6 @@
 {
   "facility_code": "30010347",
-  "institution": "SE WASH/NE OREGON SHEET METAL TRAINING TRUST",
+  "institution": "Se Wash/Ne Oregon Sheet Metal Training Trust",
   "city": "Pasco",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99301",
+  "email": true
 }

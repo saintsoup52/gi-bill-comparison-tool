@@ -1,6 +1,6 @@
 {
   "facility_code": "24900407",
-  "institution": "SANFORD-BROWN COLLEGE",
+  "institution": "Sanford-Brown College",
   "city": "Farmington",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 5,
   "cross": 129613,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 22.5,
-  "avg_stu_loan_debt": 7241,
-  "avg_stu_loan_debt_rank": 300,
-  "indicator_group": 3
+  "grad_rate": 50.0,
+  "grad_rate_rank": 398,
+  "default_rate": 21.7,
+  "avg_stu_loan_debt": 9501,
+  "avg_stu_loan_debt_rank": 511,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "6032",
+  "email": true
 }

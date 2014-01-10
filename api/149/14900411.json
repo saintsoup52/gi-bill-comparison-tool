@@ -1,6 +1,6 @@
 {
   "facility_code": "14900411",
-  "institution": "ATLANTA TECHNICAL COLLEGE",
+  "institution": "Atlanta Technical College",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 448,
   "cross": 138840,
-  "grad_rate": 30.9,
-  "grad_rate_rank": 336,
+  "grad_rate": 23.5,
+  "grad_rate_rank": 604,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 3875,
+  "avg_stu_loan_debt_rank": 49,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "30310",
+  "email": true
 }

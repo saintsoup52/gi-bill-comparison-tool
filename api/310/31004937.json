@@ -1,6 +1,6 @@
 {
   "facility_code": "31004937",
-  "institution": "BIRTHINGWAY COLLEGE OF MIDWIFERY",
+  "institution": "Birthingway College Of Midwifery",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 442949,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 41833,
-  "avg_stu_loan_debt_rank": 2065,
-  "indicator_group": 1
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 23486,
+  "avg_stu_loan_debt_rank": 720,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "97266",
+  "email": true
 }

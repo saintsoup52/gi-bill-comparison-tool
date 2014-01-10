@@ -1,6 +1,6 @@
 {
   "facility_code": "11932137",
-  "institution": "SOUTHERN OREGON UNIVERSITY",
+  "institution": "Southern Oregon University",
   "city": "Ashland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 280,
   "cross": 210146,
-  "grad_rate": 33.1,
-  "grad_rate_rank": 1420,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 19337,
-  "avg_stu_loan_debt_rank": 1292,
-  "indicator_group": 1
+  "grad_rate": 31.7,
+  "grad_rate_rank": 1487,
+  "default_rate": 9.8,
+  "avg_stu_loan_debt": 18265,
+  "avg_stu_loan_debt_rank": 952,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97520",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "26000330",
-  "institution": "HARRIS SCHOOL OF BUSINESS - CHERRY HILL",
+  "institution": "Harris School Of Business - Cherry Hill",
   "city": "Cherry Hill",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 184870,
-  "grad_rate": 53.7,
-  "grad_rate_rank": 1826,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 6862,
-  "avg_stu_loan_debt_rank": 1118,
-  "indicator_group": 5
+  "grad_rate": 54.9,
+  "grad_rate_rank": 1805,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 6623,
+  "avg_stu_loan_debt_rank": 574,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8002",
+  "email": true
 }

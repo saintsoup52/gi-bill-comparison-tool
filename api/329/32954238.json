@@ -1,6 +1,6 @@
 {
   "facility_code": "32954238",
-  "institution": "ST MARGARET SCHOOL OF  NURSING -UPMC ST MARGARET",
+  "institution": "St Margaret School Of  Nursing -Upmc St Margaret",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 213622,
-  "grad_rate": 56.0,
-  "grad_rate_rank": 1746,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 5.4,
+  "avg_stu_loan_debt": 10619,
+  "avg_stu_loan_debt_rank": 1577,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15238",
+  "email": true
 }

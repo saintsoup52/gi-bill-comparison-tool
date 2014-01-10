@@ -1,6 +1,6 @@
 {
   "facility_code": "249D0238",
-  "institution": "SANFORD BROWN INSTITUTE",
+  "institution": "Sanford Brown Institute",
   "city": "Trevose",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 250407,
-  "grad_rate": 56.6,
-  "grad_rate_rank": 166,
-  "default_rate": 28.4,
+  "grad_rate": 49.1,
+  "grad_rate_rank": 409,
+  "default_rate": 22.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "19053",
+  "email": true
 }

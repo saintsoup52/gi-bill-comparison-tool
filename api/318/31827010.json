@@ -1,6 +1,6 @@
 {
   "facility_code": "31827010",
-  "institution": "EVERGLADES UNIVERSITY-BOCA RATON",
+  "institution": "Everglades University-Boca Raton",
   "city": "Boca Raton",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 165,
   "cross": 385619,
-  "grad_rate": 65.2,
-  "grad_rate_rank": 428,
-  "default_rate": 12.8,
-  "avg_stu_loan_debt": 22625,
-  "avg_stu_loan_debt_rank": 1721,
-  "indicator_group": 1
+  "grad_rate": 57.6,
+  "grad_rate_rank": 646,
+  "default_rate": 15.9,
+  "avg_stu_loan_debt": 25261,
+  "avg_stu_loan_debt_rank": 1799,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33431",
+  "email": true
 }

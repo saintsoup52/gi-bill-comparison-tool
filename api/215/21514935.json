@@ -1,6 +1,6 @@
 {
   "facility_code": "21514935",
-  "institution": "MOODY BIBLE INST MIDEAST CNTR FOR EXTERNAL STUDIES",
+  "institution": "Moody Bible Inst Mideast Cntr For External Studies",
   "city": "Willowick",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 147369,
-  "grad_rate": 67.2,
-  "grad_rate_rank": 370,
+  "grad_rate": 62.5,
+  "grad_rate_rank": 501,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44095",
+  "email": "No (SCO)"
 }

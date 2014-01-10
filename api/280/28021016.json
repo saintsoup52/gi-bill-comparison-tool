@@ -1,6 +1,6 @@
 {
   "facility_code": "28021016",
-  "institution": "XENON INTERNATIONAL SCHOOL OF HAIR DESIGN",
+  "institution": "Xenon International School Of Hair Design",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 417503,
-  "grad_rate": 76.6,
-  "grad_rate_rank": 838,
-  "default_rate": 13.5,
+  "grad_rate": 90.4,
+  "grad_rate_rank": 258,
+  "default_rate": 11.0,
   "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1488,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "67203",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10990110",
-  "institution": "HOMESTEAD AIR RESERVE BASE",
+  "institution": "Homestead Air Reserve Base",
   "city": "Homestead",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33039",
+  "email": false
 }

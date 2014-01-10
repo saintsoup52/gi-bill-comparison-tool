@@ -1,6 +1,6 @@
 {
   "facility_code": "30594813",
-  "institution": "AMEREN ILLINOIS-MT. VERNON",
+  "institution": "Ameren Illinois-Mt. Vernon",
   "city": "Mt Vernon",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "62864",
+  "email": true
 }

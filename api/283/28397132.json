@@ -1,6 +1,6 @@
 {
   "facility_code": "28397132",
-  "institution": "BEAUTY SCHOOL OF MIDDLETOWN",
+  "institution": "Beauty School Of Middletown",
   "city": "Middletown",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 374927,
-  "grad_rate": 68.5,
-  "grad_rate_rank": 1230,
-  "default_rate": 6.9,
-  "avg_stu_loan_debt": 8600,
-  "avg_stu_loan_debt_rank": 1490,
-  "indicator_group": 5
+  "grad_rate": 62.0,
+  "grad_rate_rank": 1553,
+  "default_rate": 5.9,
+  "avg_stu_loan_debt": 6966,
+  "avg_stu_loan_debt_rank": 627,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "10940",
+  "email": false
 }

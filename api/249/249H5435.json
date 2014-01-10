@@ -1,6 +1,6 @@
 {
   "facility_code": "249H5435",
-  "institution": "KAPLAN COLLEGE - CINCINNATI",
+  "institution": "Kaplan College - Cincinnati",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 453349,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 28.9,
+  "grad_rate": 52.8,
+  "grad_rate_rank": 374,
+  "default_rate": 30.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "45203",
+  "email": false
 }

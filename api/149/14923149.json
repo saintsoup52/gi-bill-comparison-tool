@@ -1,6 +1,6 @@
 {
   "facility_code": "14923149",
-  "institution": "WISCONSIN INDIANHEAD TECH COLL-SUPERIOR",
+  "institution": "Wisconsin Indianhead Tech Coll-Superior",
   "city": "Superior",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 50,
   "cross": 240198,
-  "grad_rate": 41.3,
-  "grad_rate_rank": 246,
-  "default_rate": 15.4,
-  "avg_stu_loan_debt": 6992,
-  "avg_stu_loan_debt_rank": 284,
-  "indicator_group": 3
+  "grad_rate": 39.8,
+  "grad_rate_rank": 458,
+  "default_rate": 16.8,
+  "avg_stu_loan_debt": 7000,
+  "avg_stu_loan_debt_rank": 195,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "54880",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002042",
-  "institution": "HARDING UNIVERSITY GRADUATE SCHOOL OF RELIGION - MEMPHIS",
+  "institution": "Harding University Graduate School Of Religion - Memphis",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 107044,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 479,
-  "default_rate": 4.0,
-  "avg_stu_loan_debt": 22405,
-  "avg_stu_loan_debt_rank": 1694,
-  "indicator_group": 1
+  "grad_rate": 60.7,
+  "grad_rate_rank": 545,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 23500,
+  "avg_stu_loan_debt_rank": 1574,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "38117",
+  "email": false
 }

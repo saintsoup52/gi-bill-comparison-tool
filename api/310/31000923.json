@@ -1,6 +1,6 @@
 {
   "facility_code": "31000923",
-  "institution": "GUSTAVUS ADOLPHUS COLLEGE",
+  "institution": "Gustavus Adolphus College",
   "city": "St Peter",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 173647,
-  "grad_rate": 81.7,
-  "grad_rate_rank": 129,
-  "default_rate": 2.7,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 83.0,
+  "grad_rate_rank": 119,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56082",
+  "email": true
 }

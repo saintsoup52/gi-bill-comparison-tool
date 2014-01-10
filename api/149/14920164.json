@@ -1,6 +1,6 @@
 {
   "facility_code": "14920164",
-  "institution": "HAWAII COMMUNITY COLLEGE RECORDS OFC",
+  "institution": "Hawaii Community College Records Ofc",
   "city": "Hilo",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 175,
   "cross": 383190,
-  "grad_rate": 18.8,
-  "grad_rate_rank": 905,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 4625,
-  "avg_stu_loan_debt_rank": 239,
-  "indicator_group": 2
+  "grad_rate": 17.7,
+  "grad_rate_rank": 1017,
+  "default_rate": 29.3,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "96720",
+  "email": true
 }

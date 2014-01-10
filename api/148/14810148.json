@@ -1,6 +1,6 @@
 {
   "facility_code": "14810148",
-  "institution": "BLUE RIDGE COMMUNITY & TECHNICAL COLLEGE",
+  "institution": "Blue Ridge Community & Technical College",
   "city": "Martinsburg",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 162,
   "cross": 446774,
-  "grad_rate": 13.3,
-  "grad_rate_rank": 1089,
-  "default_rate": 19.5,
-  "avg_stu_loan_debt": 8500,
-  "avg_stu_loan_debt_rank": 683,
-  "indicator_group": 2
+  "grad_rate": 14.2,
+  "grad_rate_rank": 1145,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 9411,
+  "avg_stu_loan_debt_rank": 655,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "25403",
+  "email": true
 }

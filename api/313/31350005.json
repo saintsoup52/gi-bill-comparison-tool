@@ -1,6 +1,6 @@
 {
   "facility_code": "31350005",
-  "institution": "MILLS COLLEGE",
+  "institution": "Mills College",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 118888,
-  "grad_rate": 56.5,
-  "grad_rate_rank": 664,
-  "default_rate": 4.9,
-  "avg_stu_loan_debt": 24500,
-  "avg_stu_loan_debt_rank": 1892,
-  "indicator_group": 1
+  "grad_rate": 63.4,
+  "grad_rate_rank": 477,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94613",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10230603",
-  "institution": "ORO VALLEY POLICE DEPARTMENT",
+  "institution": "Oro Valley Police Department",
   "city": "Oro Valley",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85737",
+  "email": false
 }

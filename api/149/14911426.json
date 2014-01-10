@@ -1,6 +1,6 @@
 {
   "facility_code": "14911426",
-  "institution": "MISSOULA COLLEGE - UNIVERSITY OF MONTANA",
+  "institution": "Missoula College - University Of Montana",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 180489,
-  "grad_rate": 47.3,
-  "grad_rate_rank": 979,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 15455,
-  "avg_stu_loan_debt_rank": 772,
-  "indicator_group": 1
+  "grad_rate": 49.3,
+  "grad_rate_rank": 922,
+  "default_rate": 8.7,
+  "avg_stu_loan_debt": 16875,
+  "avg_stu_loan_debt_rank": 790,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59801",
+  "email": true
 }

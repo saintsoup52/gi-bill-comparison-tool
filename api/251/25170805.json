@@ -1,6 +1,6 @@
 {
   "facility_code": "25170805",
-  "institution": "TONI & GUY HAIRDRESSING ACADEMY",
+  "institution": "Toni & Guy Hairdressing Academy",
   "city": "Santa Monica",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 116350,
-  "grad_rate": 77.4,
-  "grad_rate_rank": 795,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 15321,
-  "avg_stu_loan_debt_rank": 2484,
-  "indicator_group": 5
+  "grad_rate": 74.0,
+  "grad_rate_rank": 977,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 13584,
+  "avg_stu_loan_debt_rank": 1866,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90401",
+  "email": false
 }

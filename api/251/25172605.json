@@ -1,6 +1,6 @@
 {
   "facility_code": "25172605",
-  "institution": "MY BEAUTY AND BARBER COLLEGE (CHAPTER 31 ONLY)",
+  "institution": "My Beauty And Barber College (Chapter 31 Only)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95823",
+  "email": false
 }

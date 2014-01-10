@@ -1,6 +1,6 @@
 {
   "facility_code": "31002038",
-  "institution": "JUNIATA COLLEGE",
+  "institution": "Juniata College",
   "city": "Huntingdon",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 16,
   "cross": 213251,
-  "grad_rate": 75.7,
-  "grad_rate_rank": 216,
-  "default_rate": 0.6,
-  "avg_stu_loan_debt": 24763,
-  "avg_stu_loan_debt_rank": 1906,
-  "indicator_group": 1
+  "grad_rate": 74.9,
+  "grad_rate_rank": 234,
+  "default_rate": 2.6,
+  "avg_stu_loan_debt": 26750,
+  "avg_stu_loan_debt_rank": 1861,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "16652",
+  "email": false
 }

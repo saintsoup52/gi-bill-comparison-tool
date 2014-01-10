@@ -1,6 +1,6 @@
 {
   "facility_code": "25568535",
-  "institution": "NATIONAL BEAUTY COLLEGE",
+  "institution": "National Beauty College",
   "city": "Canton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 204334,
-  "grad_rate": 64.5,
-  "grad_rate_rank": 1414,
-  "default_rate": 13.6,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "grad_rate": 65.7,
+  "grad_rate_rank": 1394,
+  "default_rate": 15.3,
+  "avg_stu_loan_debt": 8792,
+  "avg_stu_loan_debt_rank": 956,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44709",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11800118",
-  "institution": "LOUISIANA STATE UNIVERSITY - BATON ROUGE",
+  "institution": "Louisiana State University - Baton Rouge",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 652,
   "cross": 159391,
-  "grad_rate": 59.9,
-  "grad_rate_rank": 566,
+  "grad_rate": 65.0,
+  "grad_rate_rank": 434,
   "default_rate": 4.9,
   "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "70803",
+  "email": true
 }

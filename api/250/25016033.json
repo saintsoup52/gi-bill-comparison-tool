@@ -1,6 +1,6 @@
 {
   "facility_code": "25016033",
-  "institution": "EMPIRE BEAUTY SCHOOLS - PINEVILLE/CHARLOTTE",
+  "institution": "Empire Beauty Schools - Pineville/Charlotte",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 459064,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 16.1,
-  "avg_stu_loan_debt": 12628,
-  "avg_stu_loan_debt_rank": 2391,
-  "indicator_group": 5
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "28226",
+  "email": true
 }

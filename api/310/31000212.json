@@ -1,6 +1,6 @@
 {
   "facility_code": "31000212",
-  "institution": "NORTHWEST NAZARENE UNIVERSITY",
+  "institution": "Northwest Nazarene University",
   "city": "Nampa",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 74,
   "cross": 142461,
-  "grad_rate": 51.8,
-  "grad_rate_rank": 817,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 18796,
-  "avg_stu_loan_debt_rank": 1204,
-  "indicator_group": 1
+  "grad_rate": 55.1,
+  "grad_rate_rank": 734,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 22500,
+  "avg_stu_loan_debt_rank": 1466,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "83686",
+  "email": true
 }

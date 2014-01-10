@@ -1,6 +1,6 @@
 {
   "facility_code": "11930125",
-  "institution": "MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "institution": "Missouri University Of Science And Technology",
   "city": "Rolla",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 201,
   "cross": 178411,
-  "grad_rate": 67.2,
-  "grad_rate_rank": 370,
+  "grad_rate": 65.2,
+  "grad_rate_rank": 428,
   "default_rate": 5.3,
-  "avg_stu_loan_debt": 17964,
-  "avg_stu_loan_debt_rank": 1080,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 21323,
+  "avg_stu_loan_debt_rank": 1346,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65401",
+  "email": true
 }

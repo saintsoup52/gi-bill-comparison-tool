@@ -1,6 +1,6 @@
 {
   "facility_code": "24910048",
-  "institution": "HUNTINGTON JUNIOR COLLEGE",
+  "institution": "Huntington Junior College",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 27,
   "cross": 237437,
-  "grad_rate": 36.8,
-  "grad_rate_rank": 393,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 1135,
-  "indicator_group": 2
+  "grad_rate": 31.6,
+  "grad_rate_rank": 585,
+  "default_rate": 28.4,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 757,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "25701",
+  "email": true
 }

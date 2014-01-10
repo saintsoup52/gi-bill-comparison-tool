@@ -1,6 +1,6 @@
 {
   "facility_code": "14975443",
-  "institution": "MIDLAND COLLEGE",
+  "institution": "Midland College",
   "city": "Midland",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 180,
   "cross": 226806,
-  "grad_rate": 12.7,
-  "grad_rate_rank": 1108,
-  "default_rate": 15.5,
-  "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "grad_rate": 11.8,
+  "grad_rate_rank": 1238,
+  "default_rate": 10.8,
+  "avg_stu_loan_debt": 3306,
+  "avg_stu_loan_debt_rank": 22,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "79705",
+  "email": true
 }

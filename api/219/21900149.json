@@ -1,6 +1,6 @@
 {
   "facility_code": "21900149",
-  "institution": "UNIVERSITY OF PHOENIX MILWAUKEE",
+  "institution": "University Of Phoenix Milwaukee",
   "city": "Brookfield",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 440457,
-  "grad_rate": 9.6,
-  "grad_rate_rank": 1788,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 6.8,
+  "grad_rate_rank": 1850,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53045",
+  "email": false
 }

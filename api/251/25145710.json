@@ -1,6 +1,6 @@
 {
   "facility_code": "25145710",
-  "institution": "NATIONAL AVIATION ACADEMY",
+  "institution": "National Aviation Academy",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 203,
   "cross": 378956,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 27.3,
-  "avg_stu_loan_debt": 22778,
-  "avg_stu_loan_debt_rank": 2554,
-  "indicator_group": 5
+  "grad_rate": 70.7,
+  "grad_rate_rank": 1142,
+  "default_rate": 29.8,
+  "avg_stu_loan_debt": 22777,
+  "avg_stu_loan_debt_rank": 2011,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33760",
+  "email": true
 }

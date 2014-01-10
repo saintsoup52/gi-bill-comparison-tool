@@ -1,6 +1,6 @@
 {
   "facility_code": "20611825",
-  "institution": "FLOORLAYERS JOINT APPRENTICESHIP PROGRAM",
+  "institution": "Floorlayers Joint Apprenticeship Program",
   "city": "Affton",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63123",
+  "email": false
 }

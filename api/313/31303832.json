@@ -1,6 +1,6 @@
 {
   "facility_code": "31303832",
-  "institution": "NAZARETH COLLEGE OF ROCHESTER",
+  "institution": "Nazareth College Of Rochester",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 70,
   "cross": 193584,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 236,
+  "grad_rate": 72.8,
+  "grad_rate_rank": 272,
   "default_rate": 4.0,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 1852,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 26200,
+  "avg_stu_loan_debt_rank": 1842,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14618",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20A84306",
-  "institution": "RE/MAX PROPERTIES INC. **",
+  "institution": "Re/Max Properties Inc. **",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80918",
+  "email": "No (SCO)"
 }

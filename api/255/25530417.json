@@ -1,6 +1,6 @@
 {
   "facility_code": "25530417",
-  "institution": "PAUL MITCHELL THE SCHOOL LOUISVILLE",
+  "institution": "Paul Mitchell The School Louisville",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 156842,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 52.3,
-  "avg_stu_loan_debt": 8000,
-  "avg_stu_loan_debt_rank": 1368,
-  "indicator_group": 5
+  "grad_rate": 39.8,
+  "grad_rate_rank": 2107,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 10472,
+  "avg_stu_loan_debt_rank": 1553,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "40222",
+  "email": false
 }

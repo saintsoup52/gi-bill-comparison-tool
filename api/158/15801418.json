@@ -1,6 +1,6 @@
 {
   "facility_code": "15801418",
-  "institution": "LSU FIRE & EMERGENCY TRG INST - BATON ROUGE",
+  "institution": "Lsu Fire & Emergency Trg Inst - Baton Rouge",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70820",
+  "email": true
 }

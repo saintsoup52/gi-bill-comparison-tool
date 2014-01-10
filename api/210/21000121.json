@@ -1,6 +1,6 @@
 {
   "facility_code": "21000121",
-  "institution": "UNIVERSITY OF PHOENIX WESTBOROUGH",
+  "institution": "University Of Phoenix Westborough",
   "city": "Westborough",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 440420,
-  "grad_rate": 17.2,
-  "grad_rate_rank": 1705,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 4.7,
+  "grad_rate_rank": 1858,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1581",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11927105",
-  "institution": "CALIFORNIA STATE UNIVERSITY-STANISLAUS",
+  "institution": "California State University-Stanislaus",
   "city": "Turlock",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 170,
   "cross": 110495,
-  "grad_rate": 49.1,
-  "grad_rate_rank": 925,
-  "default_rate": 7.5,
-  "avg_stu_loan_debt": 13750,
-  "avg_stu_loan_debt_rank": 607,
-  "indicator_group": 1
+  "grad_rate": 48.7,
+  "grad_rate_rank": 941,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 12584,
+  "avg_stu_loan_debt_rank": 339,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95382",
+  "email": true
 }

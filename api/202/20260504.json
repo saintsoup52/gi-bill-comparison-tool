@@ -1,6 +1,6 @@
 {
   "facility_code": "20260504",
-  "institution": "SHEET METAL WORKERS LOCAL 36-L APPRENTICESHIP TRAINING",
+  "institution": "Sheet Metal Workers Local 36-L Apprenticeship Training",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72202",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25014205",
-  "institution": "JBASS & ASSOCIATES (CHAPTER 31)",
+  "institution": "Jbass & Associates (Chapter 31)",
   "city": "Rohnert Park",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "94928",
+  "email": false
 }

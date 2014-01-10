@@ -1,6 +1,6 @@
 {
   "facility_code": "31002633",
-  "institution": "CAROLINA GRADUATE UNIVERSITY (FORMERLY CAROLINA EVANGELICAL DIVINITY SCHOOL)",
+  "institution": "Carolina Graduate University (Formerly Carolina Evangelical Divinity School)",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27403",
+  "email": true
 }

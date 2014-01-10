@@ -1,6 +1,6 @@
 {
   "facility_code": "31904401",
-  "institution": "AMRIDGE UNIVERSITY",
+  "institution": "Amridge University",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 97,
   "cross": 100690,
   "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 18834,
-  "avg_stu_loan_debt_rank": 1211,
-  "indicator_group": 1
+  "grad_rate_rank": 1873,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 13111,
+  "avg_stu_loan_debt_rank": 379,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "36117",
+  "email": true
 }

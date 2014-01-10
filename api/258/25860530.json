@@ -1,6 +1,6 @@
 {
   "facility_code": "25860530",
-  "institution": "INSTITUTE FOR PROFESSIONAL EXCELLENCE IN COACHING (IPEC)",
+  "institution": "Institute For Professional Excellence In Coaching (Ipec)",
   "city": "Shrewsbury",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "7702",
+  "email": true
 }

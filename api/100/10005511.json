@@ -1,6 +1,6 @@
 {
   "facility_code": "10005511",
-  "institution": "DAWSON COUNTY SHERIFF'S DEPARTMENT",
+  "institution": "Dawson County Sheriff'S Department",
   "city": "Dawsonville",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30534",
+  "email": false
 }

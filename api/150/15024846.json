@@ -1,6 +1,6 @@
 {
   "facility_code": "15024846",
-  "institution": "HENRICO PUBLIC SCHOOLS ADULT EDUC CENTER",
+  "institution": "Henrico Public Schools Adult Educ Center",
   "city": "Highland Springs",
   "state": "VA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "23075",
+  "email": false
 }

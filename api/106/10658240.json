@@ -1,6 +1,6 @@
 {
   "facility_code": "10658240",
-  "institution": "FEDERAL AVIATION ADMINISTRATION - CH 31 ONLY OPERATION SUPPORT",
+  "institution": "Federal Aviation Administration - Ch 31 Only Operation Support",
   "city": "West Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29170",
+  "email": false
 }

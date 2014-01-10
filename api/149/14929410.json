@@ -1,6 +1,6 @@
 {
   "facility_code": "14929410",
-  "institution": "VALENCIA COLLEGE",
+  "institution": "Valencia College",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2022,
   "cross": 138187,
-  "grad_rate": 38.0,
-  "grad_rate_rank": 366,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 602,
-  "indicator_group": 2
+  "grad_rate": 41.1,
+  "grad_rate_rank": 397,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 7322,
+  "avg_stu_loan_debt_rank": 483,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32802",
+  "email": true
 }

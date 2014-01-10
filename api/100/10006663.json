@@ -1,10 +1,10 @@
 {
   "facility_code": "10006663",
-  "institution": "INMIGRATION AND NATURALIZATION SERVICE",
+  "institution": "Inmigration And Naturalization Service",
   "city": "Hato Rey",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "918",
+  "email": "No (SCO)"
 }

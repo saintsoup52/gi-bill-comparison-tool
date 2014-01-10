@@ -1,6 +1,6 @@
 {
   "facility_code": "11901846",
-  "institution": "UNIVERSITY OF MARY WASHINGTON",
+  "institution": "University Of Mary Washington",
   "city": "Fredericksburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 304,
   "cross": 232681,
-  "grad_rate": 70.6,
-  "grad_rate_rank": 293,
-  "default_rate": 2.1,
-  "avg_stu_loan_debt": 18509,
-  "avg_stu_loan_debt_rank": 1152,
-  "indicator_group": 1
+  "grad_rate": 76.0,
+  "grad_rate_rank": 215,
+  "default_rate": 3.4,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22401",
+  "email": true
 }

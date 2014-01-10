@@ -1,18 +1,21 @@
 {
   "facility_code": "21002963",
-  "institution": "*CH 31 ONLY* COLUMBIA COLLEGE YAUCO CAMPUS",
+  "institution": "*Ch 31 Only* Columbia College Yauco Campus",
   "city": "Yauco",
   "state": "PR",
   "country": "USA",
-  "bah": 1368,
+  "bah": 1700,
   "poe": null,
   "yr": true,
   "gibill": 1,
   "cross": 404806,
-  "grad_rate": 35.9,
-  "grad_rate_rank": 287,
+  "grad_rate": 23.2,
+  "grad_rate_rank": 839,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "698",
+  "email": "No (SCO)"
 }

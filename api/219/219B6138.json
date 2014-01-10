@@ -1,6 +1,6 @@
 {
   "facility_code": "219B6138",
-  "institution": "DEVRY UNIVERSITY PITTSBURGH",
+  "institution": "Devry University Pittsburgh",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 442824,
-  "grad_rate": 28.4,
-  "grad_rate_rank": 1529,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 19750,
-  "avg_stu_loan_debt_rank": 1341,
-  "indicator_group": 1
+  "grad_rate": 31.8,
+  "grad_rate_rank": 1484,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 29178,
+  "avg_stu_loan_debt_rank": 1929,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "15222",
+  "email": true
 }

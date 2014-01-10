@@ -1,6 +1,6 @@
 {
   "facility_code": "11901114",
-  "institution": "INDIANA UNIVERSITY AT KOKOMO",
+  "institution": "Indiana University At Kokomo",
   "city": "Kokomo",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 172,
   "cross": 151333,
-  "grad_rate": 20.2,
-  "grad_rate_rank": 1667,
-  "default_rate": 9.0,
-  "avg_stu_loan_debt": 10500,
-  "avg_stu_loan_debt_rank": 271,
-  "indicator_group": 1
+  "grad_rate": 22.1,
+  "grad_rate_rank": 1687,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 11258,
+  "avg_stu_loan_debt_rank": 241,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46904",
+  "email": false
 }

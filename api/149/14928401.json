@@ -1,6 +1,6 @@
 {
   "facility_code": "14928401",
-  "institution": "REID STATE TECHNICAL COLLEGE",
+  "institution": "Reid State Technical College",
   "city": "Evergreen",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 26,
   "cross": 101994,
-  "grad_rate": 21.4,
-  "grad_rate_rank": 420,
+  "grad_rate": 36.5,
+  "grad_rate_rank": 483,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "36401",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31503014",
-  "institution": "CALUMET COLLEGE OF SAINT JOSEPH",
+  "institution": "Calumet College Of Saint Joseph",
   "city": "Whiting",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 150172,
-  "grad_rate": 28.3,
-  "grad_rate_rank": 1532,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 14474,
-  "avg_stu_loan_debt_rank": 673,
-  "indicator_group": 1
+  "grad_rate": 28.6,
+  "grad_rate_rank": 1563,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 15250,
+  "avg_stu_loan_debt_rank": 565,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46394",
+  "email": false
 }

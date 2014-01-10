@@ -1,6 +1,6 @@
 {
   "facility_code": "31000825",
-  "institution": "ROCKHURST UNIVERSITY",
+  "institution": "Rockhurst University",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 179043,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 236,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 13828,
-  "avg_stu_loan_debt_rank": 617,
-  "indicator_group": 1
+  "grad_rate": 68.7,
+  "grad_rate_rank": 335,
+  "default_rate": 5.6,
+  "avg_stu_loan_debt": 15614,
+  "avg_stu_loan_debt_rank": 592,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64110",
+  "email": false
 }

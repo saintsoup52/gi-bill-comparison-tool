@@ -1,6 +1,6 @@
 {
   "facility_code": "149B3432",
-  "institution": "ORANGE COUNTY COMMUNITY COLLEGE",
+  "institution": "Orange County Community College",
   "city": "Middletown",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 284,
   "cross": 194240,
-  "grad_rate": 19.9,
-  "grad_rate_rank": 867,
-  "default_rate": 14.5,
-  "avg_stu_loan_debt": 6125,
-  "avg_stu_loan_debt_rank": 455,
-  "indicator_group": 2
+  "grad_rate": 17.3,
+  "grad_rate_rank": 1032,
+  "default_rate": 17.1,
+  "avg_stu_loan_debt": 6500,
+  "avg_stu_loan_debt_rank": 385,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10940",
+  "email": true
 }

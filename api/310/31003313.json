@@ -1,6 +1,6 @@
 {
   "facility_code": "31003313",
-  "institution": "UNIVERSITY OF CHICAGO THE",
+  "institution": "University Of Chicago The",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 117,
   "cross": 144050,
-  "grad_rate": 91.9,
-  "grad_rate_rank": 39,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 19180,
-  "avg_stu_loan_debt_rank": 1276,
-  "indicator_group": 1
+  "grad_rate": 92.0,
+  "grad_rate_rank": 44,
+  "default_rate": 2.4,
+  "avg_stu_loan_debt": 19500,
+  "avg_stu_loan_debt_rank": 1115,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "60637",
+  "email": true
 }

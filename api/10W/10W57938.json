@@ -1,6 +1,6 @@
 {
   "facility_code": "10W57938",
-  "institution": "CAMBRIA COUNTY 911",
+  "institution": "Cambria County 911",
   "city": "Ebensburg",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15931",
+  "email": false
 }

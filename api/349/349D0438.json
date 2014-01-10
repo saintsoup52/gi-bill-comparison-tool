@@ -1,6 +1,6 @@
 {
   "facility_code": "349D0438",
-  "institution": "BIDWELL TRAINING CENTER INC",
+  "institution": "Bidwell Training Center Inc",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 211149,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 76.0,
+  "grad_rate_rank": 103,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "15233",
+  "email": false
 }

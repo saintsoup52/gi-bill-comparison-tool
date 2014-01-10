@@ -1,6 +1,6 @@
 {
   "facility_code": "249A5435",
-  "institution": "FORTIS COLLEGE - RAVENNA",
+  "institution": "Fortis College - Ravenna",
   "city": "Ravenna",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 26,
   "cross": 201399,
-  "grad_rate": 64.3,
-  "grad_rate_rank": 105,
-  "default_rate": 12.2,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "grad_rate": 56.9,
+  "grad_rate_rank": 334,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 9949,
+  "avg_stu_loan_debt_rank": 524,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "44266",
+  "email": false
 }

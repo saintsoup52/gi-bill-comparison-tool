@@ -1,6 +1,6 @@
 {
   "facility_code": "24974410",
-  "institution": "UNIVERSITY OF SOUTHERNMOST FLORIDA",
+  "institution": "University Of Southernmost Florida",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 134121,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 35.1,
-  "avg_stu_loan_debt": 12271,
-  "avg_stu_loan_debt_rank": 998,
-  "indicator_group": 2
+  "grad_rate": 43.9,
+  "grad_rate_rank": 349,
+  "default_rate": 30.8,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 660,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "32225",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14907029",
-  "institution": "GREAT BAY COMMUNITY COLLEGE",
+  "institution": "Great Bay Community College",
   "city": "Portsmouth",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 121,
   "cross": 183150,
-  "grad_rate": 13.9,
-  "grad_rate_rank": 1064,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 8.0,
+  "grad_rate_rank": 1338,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 8750,
+  "avg_stu_loan_debt_rank": 602,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "3801",
+  "email": true
 }

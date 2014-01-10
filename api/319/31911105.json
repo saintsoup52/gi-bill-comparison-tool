@@ -1,6 +1,6 @@
 {
   "facility_code": "31911105",
-  "institution": "SANTA CLARA UNIVERSITY",
+  "institution": "Santa Clara University",
   "city": "Santa Clara",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 122931,
-  "grad_rate": 84.8,
-  "grad_rate_rank": 100,
-  "default_rate": 2.1,
-  "avg_stu_loan_debt": 22500,
-  "avg_stu_loan_debt_rank": 1710,
-  "indicator_group": 1
+  "grad_rate": 86.2,
+  "grad_rate_rank": 91,
+  "default_rate": 2.9,
+  "avg_stu_loan_debt": 21166,
+  "avg_stu_loan_debt_rank": 1331,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95053",
+  "email": false
 }

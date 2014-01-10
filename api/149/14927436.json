@@ -1,6 +1,6 @@
 {
   "facility_code": "14927436",
-  "institution": "ROSE STATE COLLEGE",
+  "institution": "Rose State College",
   "city": "Midwest City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 752,
   "cross": 207670,
-  "grad_rate": 11.6,
-  "grad_rate_rank": 1158,
-  "default_rate": 24.2,
-  "avg_stu_loan_debt": 5339,
-  "avg_stu_loan_debt_rank": 322,
-  "indicator_group": 2
+  "grad_rate": 10.3,
+  "grad_rate_rank": 1280,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "73110",
+  "email": true
 }

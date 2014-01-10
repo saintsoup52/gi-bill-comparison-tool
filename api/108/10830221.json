@@ -1,6 +1,6 @@
 {
   "facility_code": "10830221",
-  "institution": "PEABODY POLICE DEPARTMENT",
+  "institution": "Peabody Police Department",
   "city": "Peabody",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1960",
+  "email": true
 }

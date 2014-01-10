@@ -1,6 +1,6 @@
 {
   "facility_code": "39016914",
-  "institution": "SALVATION FREE CHRISTIAN FELLOWSHIP INC.",
+  "institution": "Salvation Free Christian Fellowship Inc.",
   "city": "Gary",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46409",
+  "email": false
 }

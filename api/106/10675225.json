@@ -1,6 +1,6 @@
 {
   "facility_code": "10675225",
-  "institution": "MISSOURI ARMY NATIONAL GUARD-BTRY A 1/129TH FA",
+  "institution": "Missouri Army National Guard-Btry A 1/129th Fa",
   "city": "Albany",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64402",
+  "email": false
 }

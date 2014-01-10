@@ -1,6 +1,6 @@
 {
   "facility_code": "11900130",
-  "institution": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+  "institution": "New Jersey Institute Of Technology",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 135,
   "cross": 185828,
-  "grad_rate": 54.0,
-  "grad_rate_rank": 746,
-  "default_rate": 3.9,
+  "grad_rate": 54.5,
+  "grad_rate_rank": 752,
+  "default_rate": 4.9,
   "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 884,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "7102",
+  "email": false
 }

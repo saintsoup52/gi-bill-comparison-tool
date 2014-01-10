@@ -1,6 +1,6 @@
 {
   "facility_code": "15632232",
-  "institution": "UNIVERSITY OF BUFFALO EDUCATIONAL OPPORTUNITY CENTER",
+  "institution": "University Of Buffalo Educational Opportunity Center",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 196088,
-  "grad_rate": 71.1,
-  "grad_rate_rank": 286,
-  "default_rate": 4.1,
+  "grad_rate": 70.4,
+  "grad_rate_rank": 309,
+  "default_rate": 5.0,
   "avg_stu_loan_debt": 16500,
-  "avg_stu_loan_debt_rank": 884,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 737,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14203",
+  "email": true
 }

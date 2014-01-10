@@ -1,6 +1,6 @@
 {
   "facility_code": "119A3132",
-  "institution": "YORK COLLEGE OF CUNY",
+  "institution": "York College Of Cuny",
   "city": "Jamaica",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 75,
   "cross": 190691,
-  "grad_rate": 19.8,
-  "grad_rate_rank": 1674,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 6900,
-  "avg_stu_loan_debt_rank": 144,
-  "indicator_group": 1
+  "grad_rate": 25.6,
+  "grad_rate_rank": 1621,
+  "default_rate": 10.6,
+  "avg_stu_loan_debt": 6908,
+  "avg_stu_loan_debt_rank": 72,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11451",
+  "email": true
 }

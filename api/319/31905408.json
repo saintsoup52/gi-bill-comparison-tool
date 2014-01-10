@@ -1,6 +1,6 @@
 {
   "facility_code": "31905408",
-  "institution": "WIDENER UNIVERSITY",
+  "institution": "Widener University",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 244190,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 385,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 24133,
-  "avg_stu_loan_debt_rank": 1872,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 23991,
+  "avg_stu_loan_debt_rank": 1615,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19803",
+  "email": true
 }

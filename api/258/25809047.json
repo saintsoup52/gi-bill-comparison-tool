@@ -1,6 +1,6 @@
 {
   "facility_code": "25809047",
-  "institution": "GENE JUAREZ ACADEMY OF BEAUTY (NORTH)",
+  "institution": "Gene Juarez Academy Of Beauty (North)",
   "city": "Mountlake Terrace",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 235583,
-  "grad_rate": 65.9,
-  "grad_rate_rank": 1360,
-  "default_rate": 20.9,
+  "grad_rate": 60.0,
+  "grad_rate_rank": 1631,
+  "default_rate": 24.4,
   "avg_stu_loan_debt": 10555,
-  "avg_stu_loan_debt_rank": 2191,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1560,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98043",
+  "email": true
 }

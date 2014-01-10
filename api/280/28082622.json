@@ -1,6 +1,6 @@
 {
   "facility_code": "28082622",
-  "institution": "INSTITUTE OF NATURAL THERAPIES",
+  "institution": "Institute Of Natural Therapies",
   "city": "Hancock",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49930",
+  "email": false
 }

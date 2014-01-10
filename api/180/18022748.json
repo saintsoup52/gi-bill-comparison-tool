@@ -1,6 +1,6 @@
 {
   "facility_code": "18022748",
-  "institution": "FRED EBERLE TRI-COUNTY VOCATIONAL-TECHNICAL CENTER",
+  "institution": "Fred Eberle Tri-County Vocational-Technical Center",
   "city": "Buckhannon",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 237844,
-  "grad_rate": 91.6,
-  "grad_rate_rank": 217,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 96.1,
+  "grad_rate_rank": 131,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "26201",
+  "email": true
 }

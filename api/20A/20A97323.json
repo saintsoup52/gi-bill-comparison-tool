@@ -1,6 +1,6 @@
 {
   "facility_code": "20A97323",
-  "institution": "HUGHES TRAINING INC",
+  "institution": "Hughes Training Inc",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "55111",
+  "email": false
 }

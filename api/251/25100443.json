@@ -1,6 +1,6 @@
 {
   "facility_code": "25100443",
-  "institution": "DELCO CLEANING SYSTEMS OF FT WORTH",
+  "institution": "Delco Cleaning Systems Of Ft Worth",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76106",
+  "email": false
 }

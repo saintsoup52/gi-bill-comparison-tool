@@ -1,6 +1,6 @@
 {
   "facility_code": "25103343",
-  "institution": "PCI HEALTH TRNG CENTER RICHARDSON",
+  "institution": "Pci Health Trng Center Richardson",
   "city": "Richardson",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 369783,
-  "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 22.8,
+  "grad_rate": 75.2,
+  "grad_rate_rank": 900,
+  "default_rate": 26.8,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75081",
+  "email": false
 }

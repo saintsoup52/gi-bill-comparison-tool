@@ -1,6 +1,6 @@
 {
   "facility_code": "14903431",
-  "institution": "CENTRAL NEW MEXICO COMMUNITY COLLEGE",
+  "institution": "Central New Mexico Community College",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1439,
   "cross": 187532,
-  "grad_rate": 7.7,
-  "grad_rate_rank": 528,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 6773,
-  "avg_stu_loan_debt_rank": 274,
-  "indicator_group": 3
+  "grad_rate": 10.4,
+  "grad_rate_rank": 720,
+  "default_rate": 24.1,
+  "avg_stu_loan_debt": 6667,
+  "avg_stu_loan_debt_rank": 185,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "87106",
+  "email": true
 }

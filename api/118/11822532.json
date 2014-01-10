@@ -1,6 +1,6 @@
 {
   "facility_code": "11822532",
-  "institution": "QUEENS COLLEGE CONTINUING EDUCATION PROGRAM",
+  "institution": "Queens College Continuing Education Program",
   "city": "Flushing",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 190664,
-  "grad_rate": 53.1,
-  "grad_rate_rank": 770,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 9702,
-  "avg_stu_loan_debt_rank": 247,
-  "indicator_group": 1
+  "grad_rate": 54.9,
+  "grad_rate_rank": 743,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 9800,
+  "avg_stu_loan_debt_rank": 157,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11367",
+  "email": true
 }

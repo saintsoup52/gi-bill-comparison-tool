@@ -1,6 +1,6 @@
 {
   "facility_code": "31996112",
-  "institution": "BRIGHAM YOUNG UNIVERSITY - IDAHO",
+  "institution": "Brigham Young University - Idaho",
   "city": "Rexburg",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 378,
   "cross": 142522,
-  "grad_rate": 52.5,
-  "grad_rate_rank": 790,
+  "grad_rate": 52.4,
+  "grad_rate_rank": 820,
   "default_rate": 2.4,
-  "avg_stu_loan_debt": 9588,
-  "avg_stu_loan_debt_rank": 244,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 130,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "83460",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "26001007",
-  "institution": "FOX INSTITUTE OF BUSINESS INC. D/B/A AMERICAN INSTITUTE",
+  "institution": "Fox Institute Of Business Inc. D/B/A American Institute",
   "city": "West Hartford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 129482,
-  "grad_rate": 52.0,
-  "grad_rate_rank": 1870,
-  "default_rate": 22.4,
-  "avg_stu_loan_debt": 11518,
-  "avg_stu_loan_debt_rank": 2266,
-  "indicator_group": 5
+  "grad_rate": 51.9,
+  "grad_rate_rank": 1897,
+  "default_rate": 26.8,
+  "avg_stu_loan_debt": 10365,
+  "avg_stu_loan_debt_rank": 1545,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6110",
+  "email": true
 }

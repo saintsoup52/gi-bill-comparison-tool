@@ -1,6 +1,6 @@
 {
   "facility_code": "10994801",
-  "institution": "INSTITUTIONAL SERVICES DIVISION",
+  "institution": "Institutional Services Division",
   "city": "Elmore",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36025",
+  "email": true
 }

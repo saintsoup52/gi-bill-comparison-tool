@@ -1,6 +1,6 @@
 {
   "facility_code": "25090912",
-  "institution": "TONI & GUY HAIRDRESSING ACADEMY - BOISE",
+  "institution": "Toni & Guy Hairdressing Academy - Boise",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 443942,
-  "grad_rate": 52.0,
-  "grad_rate_rank": 1870,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 2315,
-  "indicator_group": 5
+  "grad_rate": 76.0,
+  "grad_rate_rank": 865,
+  "default_rate": 6.7,
+  "avg_stu_loan_debt": 12895,
+  "avg_stu_loan_debt_rank": 1831,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "83705",
+  "email": true
 }

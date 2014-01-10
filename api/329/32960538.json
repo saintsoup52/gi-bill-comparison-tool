@@ -1,6 +1,6 @@
 {
   "facility_code": "32960538",
-  "institution": "CITIZENS SCHOOL OF NURSING",
+  "institution": "Citizens School Of Nursing",
   "city": "New Kensington",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 211635,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 13677,
-  "avg_stu_loan_debt_rank": 2428,
-  "indicator_group": 5
+  "grad_rate": 40.0,
+  "grad_rate_rank": 2103,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 1896,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15068",
+  "email": true
 }

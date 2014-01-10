@@ -1,6 +1,6 @@
 {
   "facility_code": "31507005",
-  "institution": "AMERICAN JEWISH UNIVERSITY",
+  "institution": "American Jewish University",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 116846,
-  "grad_rate": 43.8,
-  "grad_rate_rank": 1100,
-  "default_rate": 16.0,
-  "avg_stu_loan_debt": 14000,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 1
+  "grad_rate": 61.5,
+  "grad_rate_rank": 529,
+  "default_rate": 4.6,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "90077",
+  "email": true
 }

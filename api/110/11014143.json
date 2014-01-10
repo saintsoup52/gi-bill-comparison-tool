@@ -1,6 +1,6 @@
 {
   "facility_code": "11014143",
-  "institution": "UNIVERSITY OF TEXAS AT EL PASO",
+  "institution": "University Of Texas At El Paso",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 1273,
   "cross": 228796,
-  "grad_rate": 37.0,
-  "grad_rate_rank": 1321,
-  "default_rate": 11.6,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 37.8,
+  "grad_rate_rank": 1311,
+  "default_rate": 11.0,
+  "avg_stu_loan_debt": 13609,
+  "avg_stu_loan_debt_rank": 409,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "79968",
+  "email": false
 }

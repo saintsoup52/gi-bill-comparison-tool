@@ -1,6 +1,6 @@
 {
   "facility_code": "14934413",
-  "institution": "LINCOLN TRAIL COLLEGE",
+  "institution": "Lincoln Trail College",
   "city": "Robinson",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 34,
   "cross": 403478,
-  "grad_rate": 31.6,
-  "grad_rate_rank": 491,
-  "default_rate": 23.8,
-  "avg_stu_loan_debt": 4500,
-  "avg_stu_loan_debt_rank": 206,
-  "indicator_group": 2
+  "grad_rate": 43.9,
+  "grad_rate_rank": 349,
+  "default_rate": 17.0,
+  "avg_stu_loan_debt": 4000,
+  "avg_stu_loan_debt_rank": 77,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "62454",
+  "email": true
 }

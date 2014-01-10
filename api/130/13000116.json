@@ -1,6 +1,6 @@
 {
   "facility_code": "13000116",
-  "institution": "EMPORIA STATE UNIVERSITY",
+  "institution": "Emporia State University",
   "city": "Emporia",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 126,
   "cross": 155025,
-  "grad_rate": 42.7,
-  "grad_rate_rank": 1137,
+  "grad_rate": 41.5,
+  "grad_rate_rank": 1192,
   "default_rate": 7.5,
-  "avg_stu_loan_debt": 14795,
-  "avg_stu_loan_debt_rank": 704,
-  "indicator_group": 1
+  "avg_stu_loan_debt": 14862,
+  "avg_stu_loan_debt_rank": 518,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66801",
+  "email": true
 }

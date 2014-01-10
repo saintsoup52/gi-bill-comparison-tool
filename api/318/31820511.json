@@ -1,6 +1,6 @@
 {
   "facility_code": "31820511",
-  "institution": "MERCER UNIVERSITY SCHOOL OF MEDICINE",
+  "institution": "Mercer University School Of Medicine",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 140447,
-  "grad_rate": 59.8,
-  "grad_rate_rank": 572,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 24251,
-  "avg_stu_loan_debt_rank": 1880,
-  "indicator_group": 1
+  "grad_rate": 63.2,
+  "grad_rate_rank": 481,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 23501,
+  "avg_stu_loan_debt_rank": 1580,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "31207",
+  "email": true
 }

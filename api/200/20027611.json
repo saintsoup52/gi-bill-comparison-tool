@@ -1,6 +1,6 @@
 {
   "facility_code": "20027611",
-  "institution": "GEORGIA POWER COMPANY-OAKLEY REGION",
+  "institution": "Georgia Power Company-Oakley Region",
   "city": "Union City",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30291",
+  "email": false
 }

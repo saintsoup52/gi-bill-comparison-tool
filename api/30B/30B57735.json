@@ -1,6 +1,6 @@
 {
   "facility_code": "30B57735",
-  "institution": "CENTER FOR NEW DIRECTIONS  (31)",
+  "institution": "Center For New Directions  (31)",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "43215",
+  "email": false
 }

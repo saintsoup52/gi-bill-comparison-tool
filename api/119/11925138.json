@@ -1,6 +1,6 @@
 {
   "facility_code": "11925138",
-  "institution": "PENN STATE UNIVERSITY - LEHIGH VALLEY CAMPUS",
+  "institution": "Penn State University - Lehigh Valley Campus",
   "city": "Center Valley",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 61,
   "cross": 214670,
-  "grad_rate": 47.1,
-  "grad_rate_rank": 986,
-  "default_rate": 6.1,
-  "avg_stu_loan_debt": 23426,
-  "avg_stu_loan_debt_rank": 1813,
-  "indicator_group": 1
+  "grad_rate": 47.4,
+  "grad_rate_rank": 990,
+  "default_rate": 8.0,
+  "avg_stu_loan_debt": 24000,
+  "avg_stu_loan_debt_rank": 1618,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18034",
+  "email": true
 }

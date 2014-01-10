@@ -1,6 +1,6 @@
 {
   "facility_code": "14930421",
-  "institution": "QUINCY COLLEGE",
+  "institution": "Quincy College",
   "city": "Quincy",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 242,
   "cross": 167525,
-  "grad_rate": 29.8,
-  "grad_rate_rank": 541,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 22.1,
+  "grad_rate_rank": 875,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 7500,
+  "avg_stu_loan_debt_rank": 498,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "2169",
+  "email": true
 }

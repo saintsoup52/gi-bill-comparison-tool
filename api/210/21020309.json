@@ -1,6 +1,6 @@
 {
   "facility_code": "21020309",
-  "institution": "UNIVERSITY OF PHOENIX - WASHINGTON DC CAMPUS",
+  "institution": "University Of Phoenix - Washington Dc Campus",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 66,
   "cross": 450483,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20001",
+  "email": false
 }

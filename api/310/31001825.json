@@ -1,6 +1,6 @@
 {
   "facility_code": "31001825",
-  "institution": "SOUTHWEST BAPTIST UNIVERSITY",
+  "institution": "Southwest Baptist University",
   "city": "Bolivar",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 88,
   "cross": 179326,
-  "grad_rate": 48.5,
-  "grad_rate_rank": 943,
-  "default_rate": 10.1,
-  "avg_stu_loan_debt": 14490,
-  "avg_stu_loan_debt_rank": 675,
-  "indicator_group": 1
+  "grad_rate": 53.5,
+  "grad_rate_rank": 794,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 15250,
+  "avg_stu_loan_debt_rank": 565,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65613",
+  "email": false
 }

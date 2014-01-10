@@ -1,6 +1,6 @@
 {
   "facility_code": "25471510",
-  "institution": "THE BEAUTY INSTITUTE",
+  "institution": "The Beauty Institute",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 444404,
-  "grad_rate": 82.1,
-  "grad_rate_rank": 541,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 83.1,
+  "grad_rate_rank": 522,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33409",
+  "email": true
 }

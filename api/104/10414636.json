@@ -1,6 +1,6 @@
 {
   "facility_code": "10414636",
-  "institution": "OKLAHOMA STATE FIRE MARSHAL (W/D EFF 083109)",
+  "institution": "Oklahoma State Fire Marshal (W/D Eff 083109)",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73107",
+  "email": false
 }

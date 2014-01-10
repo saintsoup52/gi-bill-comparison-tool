@@ -1,6 +1,6 @@
 {
   "facility_code": "25558825",
-  "institution": "HOUSE OF HEAVILIN",
+  "institution": "House Of Heavilin",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 177588,
-  "grad_rate": 53.4,
-  "grad_rate_rank": 1828,
-  "default_rate": 10.5,
-  "avg_stu_loan_debt": 7791,
-  "avg_stu_loan_debt_rank": 1304,
-  "indicator_group": 5
+  "grad_rate": 31.7,
+  "grad_rate_rank": 2187,
+  "default_rate": 22.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64110",
+  "email": false
 }

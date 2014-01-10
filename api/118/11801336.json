@@ -1,6 +1,6 @@
 {
   "facility_code": "11801336",
-  "institution": "UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER/OFFICE ADM/REC",
+  "institution": "University Of Oklahoma Health Sciences Center/Office Adm/Rec",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 86,
   "cross": 207342,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 17281,
+  "avg_stu_loan_debt_rank": 830,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "73126",
+  "email": false
 }

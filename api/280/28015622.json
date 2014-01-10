@@ -1,6 +1,6 @@
 {
   "facility_code": "28015622",
-  "institution": "EMPIRE BEAUTY SCHOOLS - GRAND RAPIDS",
+  "institution": "Empire Beauty Schools - Grand Rapids",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 169284,
-  "grad_rate": 54.3,
-  "grad_rate_rank": 1800,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 11762,
-  "avg_stu_loan_debt_rank": 2304,
-  "indicator_group": 5
+  "grad_rate": 51.9,
+  "grad_rate_rank": 1897,
+  "default_rate": 20.3,
+  "avg_stu_loan_debt": 11905,
+  "avg_stu_loan_debt_rank": 1747,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "49525",
+  "email": true
 }

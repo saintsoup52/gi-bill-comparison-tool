@@ -1,6 +1,6 @@
 {
   "facility_code": "25065713",
-  "institution": "MS. ROBERTS ACADEMY OF BEAUTY CULTURE",
+  "institution": "Ms. Roberts Academy Of Beauty Culture",
   "city": "Hillside",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 249061,
-  "grad_rate": 91.3,
-  "grad_rate_rank": 224,
-  "default_rate": 17.3,
+  "grad_rate": 85.9,
+  "grad_rate_rank": 411,
+  "default_rate": 20.0,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60162",
+  "email": false
 }

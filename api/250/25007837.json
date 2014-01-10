@@ -1,6 +1,6 @@
 {
   "facility_code": "25007837",
-  "institution": "NORTHWEST COLLEGE (BEAVERTON)",
+  "institution": "Northwest College (Beaverton)",
   "city": "Beaverton",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 209083,
-  "grad_rate": 31.3,
-  "grad_rate_rank": 2128,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 12003,
-  "avg_stu_loan_debt_rank": 2335,
-  "indicator_group": 5
+  "grad_rate": 68.9,
+  "grad_rate_rank": 1236,
+  "default_rate": 28.0,
+  "avg_stu_loan_debt": 12591,
+  "avg_stu_loan_debt_rank": 1819,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97005",
+  "email": true
 }

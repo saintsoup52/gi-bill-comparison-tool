@@ -1,6 +1,6 @@
 {
   "facility_code": "10D24549",
-  "institution": "FEDERAL AVIATION ADMIN - (GREEN BAY)  AUSTIN STRAUBEL INT'L FIELD AIRPORT",
+  "institution": "Federal Aviation Admin - (Green Bay)  Austin Straubel Int'L Field Airport",
   "city": "Green Bay",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54313",
+  "email": true
 }

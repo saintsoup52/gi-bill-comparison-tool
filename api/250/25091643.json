@@ -1,6 +1,6 @@
 {
   "facility_code": "25091643",
-  "institution": "VICTORIA BEAUTY COLLEGE INC",
+  "institution": "Victoria Beauty College Inc",
   "city": "Victoria",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 229522,
-  "grad_rate": 83.3,
-  "grad_rate_rank": 478,
-  "default_rate": 12.0,
-  "avg_stu_loan_debt": 2350,
-  "avg_stu_loan_debt_rank": 532,
-  "indicator_group": 5
+  "grad_rate": 86.4,
+  "grad_rate_rank": 393,
+  "default_rate": 17.5,
+  "avg_stu_loan_debt": 2200,
+  "avg_stu_loan_debt_rank": 18,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77901",
+  "email": false
 }

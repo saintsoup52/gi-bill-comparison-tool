@@ -1,6 +1,6 @@
 {
   "facility_code": "26017730",
-  "institution": "PRISM CAREER INSTITUTE",
+  "institution": "Prism Career Institute",
   "city": "West Atlantic City",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 430403,
-  "grad_rate": 52.5,
-  "grad_rate_rank": 1849,
-  "default_rate": 29.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
+  "default_rate": 36.6,
+  "avg_stu_loan_debt": 10415,
+  "avg_stu_loan_debt_rank": 1549,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "8232",
+  "email": true
 }

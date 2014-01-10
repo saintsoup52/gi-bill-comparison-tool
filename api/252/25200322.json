@@ -1,6 +1,6 @@
 {
   "facility_code": "25200322",
-  "institution": "ROSS MEDICAL EDUCATION CENTER-TAYLOR",
+  "institution": "Ross Medical Education Center-Taylor",
   "city": "Taylor",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 367158,
-  "grad_rate": 54.9,
-  "grad_rate_rank": 1784,
-  "default_rate": 30.9,
-  "avg_stu_loan_debt": 8847,
-  "avg_stu_loan_debt_rank": 1537,
-  "indicator_group": 5
+  "grad_rate": 64.0,
+  "grad_rate_rank": 1469,
+  "default_rate": 23.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48180",
+  "email": true
 }

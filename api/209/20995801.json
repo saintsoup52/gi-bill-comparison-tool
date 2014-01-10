@@ -1,6 +1,6 @@
 {
   "facility_code": "20995801",
-  "institution": "(CHAPTER 31)A-LOCK & SAFE COMPANY",
+  "institution": "(Chapter 31)A-Lock & Safe Company",
   "city": "Dothan",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "36301",
+  "email": "No (SCO)"
 }

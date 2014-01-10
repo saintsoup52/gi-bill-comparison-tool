@@ -1,6 +1,6 @@
 {
   "facility_code": "25526135",
-  "institution": "DAYTON BARBER COLLEGE",
+  "institution": "Dayton Barber College",
   "city": "Miamisburg",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 202453,
-  "grad_rate": 62.6,
-  "grad_rate_rank": 1487,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45342",
+  "email": true
 }

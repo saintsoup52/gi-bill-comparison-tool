@@ -1,6 +1,6 @@
 {
   "facility_code": "31500214",
-  "institution": "VALPARAISO UNIVERSITY",
+  "institution": "Valparaiso University",
   "city": "Valparaiso",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 46,
   "cross": 152600,
-  "grad_rate": 70.8,
-  "grad_rate_rank": 290,
-  "default_rate": 3.6,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 73.7,
+  "grad_rate_rank": 253,
+  "default_rate": 5.1,
+  "avg_stu_loan_debt": 24500,
+  "avg_stu_loan_debt_rank": 1687,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "46383",
+  "email": true
 }

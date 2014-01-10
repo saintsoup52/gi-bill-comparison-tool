@@ -1,6 +1,6 @@
 {
   "facility_code": "14921423",
-  "institution": "DAKOTA COUNTY TECH COLLEGE",
+  "institution": "Dakota County Tech College",
   "city": "Rosemount",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 170,
   "cross": 173416,
-  "grad_rate": 33.8,
-  "grad_rate_rank": 305,
-  "default_rate": 9.8,
+  "grad_rate": 34.9,
+  "grad_rate_rank": 500,
+  "default_rate": 13.9,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "55068",
+  "email": false
 }

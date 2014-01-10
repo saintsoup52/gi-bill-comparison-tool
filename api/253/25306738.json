@@ -1,6 +1,6 @@
 {
   "facility_code": "25306738",
-  "institution": "SYNERGY HEALING ARTS CENTER AND MASSAGE SCHOOL",
+  "institution": "Synergy Healing Arts Center And Massage School",
   "city": "Blue Ridge Summit",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17214",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31904408",
-  "institution": "GOLDEY-BEACOM COLLEGE",
+  "institution": "Goldey-Beacom College",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 29,
   "cross": 130989,
-  "grad_rate": 49.5,
-  "grad_rate_rank": 904,
-  "default_rate": 10.6,
-  "avg_stu_loan_debt": 16890,
-  "avg_stu_loan_debt_rank": 932,
-  "indicator_group": 1
+  "grad_rate": 39.8,
+  "grad_rate_rank": 1261,
+  "default_rate": 8.5,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 508,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19808",
+  "email": true
 }

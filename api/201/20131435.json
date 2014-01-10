@@ -1,6 +1,6 @@
 {
   "facility_code": "20131435",
-  "institution": "YOUNGSTOWN SHEET & TUBE   K",
+  "institution": "Youngstown Sheet & Tube   K",
   "city": "Youngstown",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44501",
+  "email": "No (SCO)"
 }

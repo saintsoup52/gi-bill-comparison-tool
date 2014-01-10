@@ -1,6 +1,6 @@
 {
   "facility_code": "20B87222",
-  "institution": "G & D ELECTRIC INC. (APPR)",
+  "institution": "G & D Electric Inc. (Appr)",
   "city": "Greenville",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48838",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25151505",
-  "institution": "PAUL MITCHELL THE SCHOOL (PASADENA)",
+  "institution": "Paul Mitchell The School (Pasadena)",
   "city": "Alhambra",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 454768,
-  "grad_rate": 40.9,
-  "grad_rate_rank": 2061,
-  "default_rate": 0.0,
+  "grad_rate": 51.0,
+  "grad_rate_rank": 1926,
+  "default_rate": 12.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91801",
+  "email": true
 }

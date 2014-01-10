@@ -1,6 +1,6 @@
 {
   "facility_code": "25048021",
-  "institution": "INSTITUTE FOR ENVIRONMENTAL EDUCATION INC.",
+  "institution": "Institute For Environmental Education Inc.",
   "city": "Woburn",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "1801",
+  "email": false
 }

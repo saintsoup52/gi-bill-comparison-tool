@@ -1,6 +1,6 @@
 {
   "facility_code": "14958405",
-  "institution": "SAN BERNARDINO VALLEY COLLEGE",
+  "institution": "San Bernardino Valley College",
   "city": "San Bernardino",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 373,
   "cross": 123527,
-  "grad_rate": 12.5,
-  "grad_rate_rank": 1118,
-  "default_rate": 21.1,
+  "grad_rate": 14.3,
+  "grad_rate_rank": 1139,
+  "default_rate": 26.9,
   "avg_stu_loan_debt": 3500,
-  "avg_stu_loan_debt_rank": 121,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 23,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "92410",
+  "email": false
 }

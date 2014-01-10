@@ -1,6 +1,6 @@
 {
   "facility_code": "14927415",
-  "institution": "NORTHWEST IOWA COMMUNITY COLLEGE",
+  "institution": "Northwest Iowa Community College",
   "city": "Sheldon",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 42,
   "cross": 154129,
-  "grad_rate": 59.5,
-  "grad_rate_rank": 136,
-  "default_rate": 9.6,
-  "avg_stu_loan_debt": 7000,
-  "avg_stu_loan_debt_rank": 550,
-  "indicator_group": 2
+  "grad_rate": 56.1,
+  "grad_rate_rank": 210,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 8340,
+  "avg_stu_loan_debt_rank": 574,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "51201",
+  "email": false
 }

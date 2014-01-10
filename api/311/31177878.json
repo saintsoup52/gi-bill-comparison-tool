@@ -1,10 +1,10 @@
 {
   "facility_code": "31177878",
-  "institution": "AMERICAN UNIVERSITY IN BULGARIA",
+  "institution": "American University In Bulgaria",
   "city": "Blagoevgrad 2700",
   "state": "Bulgaria",
   "country": "Bulgaria",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 1,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

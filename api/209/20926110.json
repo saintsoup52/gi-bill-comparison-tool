@@ -1,6 +1,6 @@
 {
   "facility_code": "20926110",
-  "institution": "MARIANNA PARTS HEADQUARTERS",
+  "institution": "Marianna Parts Headquarters",
   "city": "Marianna",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32446",
+  "email": "No (SCO)"
 }

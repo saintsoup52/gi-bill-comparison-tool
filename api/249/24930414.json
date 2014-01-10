@@ -1,6 +1,6 @@
 {
   "facility_code": "24930414",
-  "institution": "BROWN MACKIE COLLEGE - FORT WAYNE",
+  "institution": "Brown Mackie College - Fort Wayne",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 71,
   "cross": 408039,
-  "grad_rate": 40.3,
-  "grad_rate_rank": 322,
-  "default_rate": 26.3,
-  "avg_stu_loan_debt": 12668,
-  "avg_stu_loan_debt_rank": 1019,
-  "indicator_group": 2
+  "grad_rate": 35.8,
+  "grad_rate_rank": 488,
+  "default_rate": 26.2,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 992,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "46805",
+  "email": true
 }

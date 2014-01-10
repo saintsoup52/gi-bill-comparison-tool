@@ -1,6 +1,6 @@
 {
   "facility_code": "31006738",
-  "institution": "BRYN ATHYN COLLEGE OF THE NEW CHURCH",
+  "institution": "Bryn Athyn College Of The New Church",
   "city": "Bryn Athyn",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 210492,
-  "grad_rate": 29.7,
-  "grad_rate_rank": 1505,
-  "default_rate": 5.2,
-  "avg_stu_loan_debt": 6750,
-  "avg_stu_loan_debt_rank": 141,
-  "indicator_group": 1
+  "grad_rate": 41.7,
+  "grad_rate_rank": 1184,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 7329,
+  "avg_stu_loan_debt_rank": 86,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19009",
+  "email": true
 }

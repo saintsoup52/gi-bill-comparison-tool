@@ -1,6 +1,6 @@
 {
   "facility_code": "25066213",
-  "institution": "EMPIRE BEAUTY SCHOOL - LISLE IL",
+  "institution": "Empire Beauty School - Lisle Il",
   "city": "Lisle",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 450580,
-  "grad_rate": 48.6,
-  "grad_rate_rank": 1955,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 11369,
-  "avg_stu_loan_debt_rank": 2261,
-  "indicator_group": 5
+  "grad_rate": 56.4,
+  "grad_rate_rank": 1755,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 11025,
+  "avg_stu_loan_debt_rank": 1613,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60532",
+  "email": false
 }

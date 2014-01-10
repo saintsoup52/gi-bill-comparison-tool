@@ -1,6 +1,6 @@
 {
   "facility_code": "12001044",
-  "institution": "DEPARTMENT OF VETERANS AFFAIRS MEDICAL CENTER",
+  "institution": "Department Of Veterans Affairs Medical Center",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84148",
+  "email": true
 }

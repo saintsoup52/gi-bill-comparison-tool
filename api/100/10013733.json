@@ -1,6 +1,6 @@
 {
   "facility_code": "10013733",
-  "institution": "NCDOC - FRANKLIN CORRECTIONAL CENTER",
+  "institution": "Ncdoc - Franklin Correctional Center",
   "city": "Bunn",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27508",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "249A0438",
-  "institution": "BRADFORD SCHOOL",
+  "institution": "Bradford School",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 211200,
-  "grad_rate": 95.1,
-  "grad_rate_rank": 10,
-  "default_rate": 14.9,
-  "avg_stu_loan_debt": 15915,
-  "avg_stu_loan_debt_rank": 1171,
-  "indicator_group": 2
+  "grad_rate": 74.6,
+  "grad_rate_rank": 66,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 16009,
+  "avg_stu_loan_debt_rank": 1063,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "15219",
+  "email": true
 }

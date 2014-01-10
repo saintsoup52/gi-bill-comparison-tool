@@ -1,6 +1,6 @@
 {
   "facility_code": "10281804",
-  "institution": "FORT CHAFFEE PUBLIC SAFETY DPT",
+  "institution": "Fort Chaffee Public Safety Dpt",
   "city": "Fort Chaffee",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72905",
+  "email": false
 }

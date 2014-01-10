@@ -1,6 +1,6 @@
 {
   "facility_code": "10988010",
-  "institution": "FORT LAUDERDALE POLICE DEPARTMENT",
+  "institution": "Fort Lauderdale Police Department",
   "city": "Fort Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33312",
+  "email": true
 }

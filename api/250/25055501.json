@@ -1,6 +1,6 @@
 {
   "facility_code": "25055501",
-  "institution": "NATIONAL SCHOOL OF REAL ESTATE",
+  "institution": "National School Of Real Estate",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35805",
+  "email": true
 }

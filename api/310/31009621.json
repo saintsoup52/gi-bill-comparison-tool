@@ -1,6 +1,6 @@
 {
   "facility_code": "31009621",
-  "institution": "BLESSED JOHN XXIII NATIONAL SEMINARY",
+  "institution": "Blessed John Xxiii National Seminary",
   "city": "Weston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 167464,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "2493",
+  "email": true
 }

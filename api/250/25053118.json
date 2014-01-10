@@ -1,6 +1,6 @@
 {
   "facility_code": "25053118",
-  "institution": "LOUISIANA ACADEMY OF BEAUTY INC",
+  "institution": "Louisiana Academy Of Beauty Inc",
   "city": "Eunice",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 159531,
-  "grad_rate": 69.2,
-  "grad_rate_rank": 1204,
-  "default_rate": 24.1,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 51.6,
+  "grad_rate_rank": 1909,
+  "default_rate": 34.6,
+  "avg_stu_loan_debt": 2750,
+  "avg_stu_loan_debt_rank": 27,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70535",
+  "email": true
 }

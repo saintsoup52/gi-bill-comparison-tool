@@ -1,6 +1,6 @@
 {
   "facility_code": "25164905",
-  "institution": "MILAN INSTITUTE OF COSMETOLOGY",
+  "institution": "Milan Institute Of Cosmetology",
   "city": "Fairfield",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 454546,
-  "grad_rate": 50.3,
-  "grad_rate_rank": 1913,
-  "default_rate": 41.5,
+  "grad_rate": 44.3,
+  "grad_rate_rank": 2043,
+  "default_rate": 32.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94533",
+  "email": false
 }

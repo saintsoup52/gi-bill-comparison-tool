@@ -1,6 +1,6 @@
 {
   "facility_code": "119D8143",
-  "institution": "TEXAS A AND M UNIVERSITY COMMERCE",
+  "institution": "Texas A And M University Commerce",
   "city": "Commerce",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 224554,
-  "grad_rate": 36.7,
-  "grad_rate_rank": 1333,
-  "default_rate": 9.6,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 36.4,
+  "grad_rate_rank": 1355,
+  "default_rate": 12.8,
+  "avg_stu_loan_debt": 15748,
+  "avg_stu_loan_debt_rank": 598,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75428",
+  "email": false
 }

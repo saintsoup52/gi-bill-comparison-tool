@@ -1,6 +1,6 @@
 {
   "facility_code": "25109705",
-  "institution": "CALIFORNIA BARBRI BAR REVIEW (CH31 ONLY)",
+  "institution": "California Barbri Bar Review (Ch31 Only)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "91730",
+  "email": false
 }

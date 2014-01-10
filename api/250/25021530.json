@@ -1,6 +1,6 @@
 {
   "facility_code": "25021530",
-  "institution": "STAR CAREER ACADEMY-CLIFTON",
+  "institution": "Star Career Academy-Clifton",
   "city": "Clifton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 469647,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 24.5,
-  "avg_stu_loan_debt": 9405,
-  "avg_stu_loan_debt_rank": 1638,
-  "indicator_group": 5
+  "grad_rate": 27.7,
+  "grad_rate_rank": 2210,
+  "default_rate": 27.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "7011",
+  "email": true
 }

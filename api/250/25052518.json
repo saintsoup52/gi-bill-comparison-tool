@@ -1,6 +1,6 @@
 {
   "facility_code": "25052518",
-  "institution": "VANGUARD COLLEGE OF COSMETOLOGY - SLIDELL",
+  "institution": "Vanguard College Of Cosmetology - Slidell",
   "city": "Slidell",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 160445,
-  "grad_rate": 70.1,
-  "grad_rate_rank": 1170,
-  "default_rate": 18.5,
-  "avg_stu_loan_debt": 9750,
-  "avg_stu_loan_debt_rank": 2110,
-  "indicator_group": 5
+  "grad_rate": 70.7,
+  "grad_rate_rank": 1142,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 15536,
+  "avg_stu_loan_debt_rank": 1932,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70458",
+  "email": false
 }

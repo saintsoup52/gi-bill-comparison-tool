@@ -1,6 +1,6 @@
 {
   "facility_code": "28035914",
-  "institution": "VINCENNES BEAUTY COLLEGE INC.",
+  "institution": "Vincennes Beauty College Inc.",
   "city": "Vincennes",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 152628,
-  "grad_rate": 36.4,
-  "grad_rate_rank": 2098,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 6.2,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 199,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47591",
+  "email": false
 }

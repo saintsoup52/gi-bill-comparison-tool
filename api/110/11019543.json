@@ -1,6 +1,6 @@
 {
   "facility_code": "11019543",
-  "institution": "UNIVERSITY OF TEXAS AT TYLER",
+  "institution": "University Of Texas At Tyler",
   "city": "Tyler",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 290,
   "cross": 228802,
-  "grad_rate": 40.1,
-  "grad_rate_rank": 1227,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 15106,
-  "avg_stu_loan_debt_rank": 748,
-  "indicator_group": 1
+  "grad_rate": 40.7,
+  "grad_rate_rank": 1222,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 14672,
+  "avg_stu_loan_debt_rank": 506,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "75799",
+  "email": false
 }

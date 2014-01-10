@@ -1,6 +1,6 @@
 {
   "facility_code": "11801131",
-  "institution": "EASTERN NEW MEXICO UNIVERSITY",
+  "institution": "Eastern New Mexico University",
   "city": "Portales",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 174,
   "cross": 187648,
-  "grad_rate": 23.9,
-  "grad_rate_rank": 1611,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 9823,
-  "avg_stu_loan_debt_rank": 252,
-  "indicator_group": 1
+  "grad_rate": 28.7,
+  "grad_rate_rank": 1561,
+  "default_rate": 21.1,
+  "avg_stu_loan_debt": 10017,
+  "avg_stu_loan_debt_rank": 164,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "88130",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10606513",
-  "institution": "GLEN ELLYN POLICE DEPARTMENT",
+  "institution": "Glen Ellyn Police Department",
   "city": "Glen Ellyn",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60137",
+  "email": false
 }

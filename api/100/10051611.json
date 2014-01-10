@@ -1,6 +1,6 @@
 {
   "facility_code": "10051611",
-  "institution": "HENRY COUNTY WATER & SEWERAGE AUTHORITY",
+  "institution": "Henry County Water & Sewerage Authority",
   "city": "Mcdonough",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30253",
+  "email": false
 }

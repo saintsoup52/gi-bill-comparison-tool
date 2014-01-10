@@ -1,6 +1,6 @@
 {
   "facility_code": "28085223",
-  "institution": "EMPIRE BEAUTY SCHOOLS-   SPRING LAKE PARK",
+  "institution": "Empire Beauty Schools-   Spring Lake Park",
   "city": "Spring Lake Park",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 456135,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 14.2,
-  "avg_stu_loan_debt": 10194,
-  "avg_stu_loan_debt_rank": 2171,
-  "indicator_group": 5
+  "grad_rate": 71.4,
+  "grad_rate_rank": 1098,
+  "default_rate": 16.1,
+  "avg_stu_loan_debt": 14672,
+  "avg_stu_loan_debt_rank": 1911,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "55432",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14977407",
-  "institution": "HOUSATONIC COMMUNITY COLLEGE",
+  "institution": "Housatonic Community College",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 199,
   "cross": 129543,
-  "grad_rate": 9.1,
-  "grad_rate_rank": 1223,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 3900,
-  "avg_stu_loan_debt_rank": 178,
-  "indicator_group": 2
+  "grad_rate": 8.0,
+  "grad_rate_rank": 1338,
+  "default_rate": 17.7,
+  "avg_stu_loan_debt": 4750,
+  "avg_stu_loan_debt_rank": 136,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "6604",
+  "email": true
 }

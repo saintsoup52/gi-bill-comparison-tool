@@ -1,6 +1,6 @@
 {
   "facility_code": "14901417",
-  "institution": "HOPKINSVILLE COMMUNITY COLLEGE FT CAMPBELL",
+  "institution": "Hopkinsville Community College Ft Campbell",
   "city": "Fort Campbell",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 156860,
-  "grad_rate": 17.5,
-  "grad_rate_rank": 462,
-  "default_rate": 22.0,
-  "avg_stu_loan_debt": 5165,
-  "avg_stu_loan_debt_rank": 180,
-  "indicator_group": 3
+  "grad_rate": 22.6,
+  "grad_rate_rank": 614,
+  "default_rate": 21.8,
+  "avg_stu_loan_debt": 5599,
+  "avg_stu_loan_debt_rank": 137,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "42223",
+  "email": false
 }

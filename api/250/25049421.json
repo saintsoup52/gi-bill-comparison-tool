@@ -1,6 +1,6 @@
 {
   "facility_code": "25049421",
-  "institution": "THE ELIZABETH GRADY SCHOOL OF ESTHETICS",
+  "institution": "The Elizabeth Grady School Of Esthetics",
   "city": "Medford",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 362782,
-  "grad_rate": 20.0,
-  "grad_rate_rank": 2176,
-  "default_rate": 3.7,
+  "grad_rate": 97.2,
+  "grad_rate_rank": 100,
+  "default_rate": 14.2,
   "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2155",
+  "email": true
 }

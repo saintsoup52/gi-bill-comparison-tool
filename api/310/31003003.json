@@ -1,6 +1,6 @@
 {
   "facility_code": "31003003",
-  "institution": "PRESCOTT COLLEGE",
+  "institution": "Prescott College",
   "city": "Prescott",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 34,
   "cross": 105589,
-  "grad_rate": 29.3,
-  "grad_rate_rank": 1516,
-  "default_rate": 9.3,
-  "avg_stu_loan_debt": 21545,
-  "avg_stu_loan_debt_rank": 1600,
-  "indicator_group": 1
+  "grad_rate": 44.6,
+  "grad_rate_rank": 1081,
+  "default_rate": 10.2,
+  "avg_stu_loan_debt": 22340,
+  "avg_stu_loan_debt_rank": 1458,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "86301",
+  "email": true
 }

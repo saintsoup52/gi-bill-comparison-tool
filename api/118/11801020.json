@@ -1,6 +1,6 @@
 {
   "facility_code": "11801020",
-  "institution": "UNIVERSITY OF MARYLAND SCHOOL OF NURSING",
+  "institution": "University Of Maryland School Of Nursing",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 44,
   "cross": 163259,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 12500,
+  "avg_stu_loan_debt_rank": 314,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "21201",
+  "email": true
 }

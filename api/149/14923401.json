@@ -1,6 +1,6 @@
 {
   "facility_code": "14923401",
-  "institution": "LURLEEN B WALLACE COM COL - MACARTHUR CAMPUS",
+  "institution": "Lurleen B Wallace Com Col - Macarthur Campus",
   "city": "Opp",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 36,
   "cross": 101602,
-  "grad_rate": 26.2,
-  "grad_rate_rank": 650,
+  "grad_rate": 20.8,
+  "grad_rate_rank": 917,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 2
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "36467",
+  "email": false
 }

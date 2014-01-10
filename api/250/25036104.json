@@ -1,6 +1,6 @@
 {
   "facility_code": "25036104",
-  "institution": "DESIGNER BARBER AND STYLIST SCHOOL",
+  "institution": "Designer Barber And Stylist School",
   "city": "Ft Smith",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72903",
+  "email": false
 }

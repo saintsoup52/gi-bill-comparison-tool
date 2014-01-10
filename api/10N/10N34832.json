@@ -1,6 +1,6 @@
 {
   "facility_code": "10N34832",
-  "institution": "SUNY STONY BROOK UNIVERSITY POLICE DEPARTMENT",
+  "institution": "Suny Stony Brook University Police Department",
   "city": "Stony Brook",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "11794",
+  "email": false
 }

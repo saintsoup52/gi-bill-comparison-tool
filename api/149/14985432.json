@@ -1,6 +1,6 @@
 {
   "facility_code": "14985432",
-  "institution": "NIAGARA COUNTY COMMUNITY COLLEGE",
+  "institution": "Niagara County Community College",
   "city": "Sanborn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 243,
   "cross": 193946,
-  "grad_rate": 27.1,
-  "grad_rate_rank": 621,
-  "default_rate": 20.0,
-  "avg_stu_loan_debt": 6597,
-  "avg_stu_loan_debt_rank": 508,
-  "indicator_group": 2
+  "grad_rate": 26.4,
+  "grad_rate_rank": 743,
+  "default_rate": 19.2,
+  "avg_stu_loan_debt": 6433,
+  "avg_stu_loan_debt_rank": 374,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14132",
+  "email": true
 }

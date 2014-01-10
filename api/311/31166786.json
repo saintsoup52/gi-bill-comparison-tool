@@ -1,10 +1,10 @@
 {
   "facility_code": "31166786",
-  "institution": "UNIV AUTONOMA DE GUADALAJARA",
+  "institution": "Univ Autonoma De Guadalajara",
   "city": "Guadalajara",
   "state": "Mexico",
   "country": "Mexico",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 13,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

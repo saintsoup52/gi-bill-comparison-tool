@@ -1,6 +1,6 @@
 {
   "facility_code": "28012622",
-  "institution": "EVEREST INSTITUTE - SOUTHFIELD",
+  "institution": "Everest Institute - Southfield",
   "city": "Southfield",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 26,
   "cross": 171322,
-  "grad_rate": 67.1,
-  "grad_rate_rank": 1285,
-  "default_rate": 30.7,
+  "grad_rate": 63.9,
+  "grad_rate_rank": 1474,
+  "default_rate": 19.6,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48033",
+  "email": true
 }

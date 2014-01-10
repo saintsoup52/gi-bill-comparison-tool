@@ -1,6 +1,6 @@
 {
   "facility_code": "14901433",
-  "institution": "WILKES COMMUNITY COLLEGE",
+  "institution": "Wilkes Community College",
   "city": "Wilkesboro",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 77,
   "cross": 199926,
-  "grad_rate": 16.6,
-  "grad_rate_rank": 977,
-  "default_rate": 14.1,
+  "grad_rate": 25.0,
+  "grad_rate_rank": 785,
+  "default_rate": 28.1,
   "avg_stu_loan_debt": 5750,
-  "avg_stu_loan_debt_rank": 414,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 307,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "28697",
+  "email": true
 }

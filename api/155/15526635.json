@@ -1,6 +1,6 @@
 {
   "facility_code": "15526635",
-  "institution": "UPPER VALLEY CAREER CENTER",
+  "institution": "Upper Valley Career Center",
   "city": "Piqua",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 206321,
-  "grad_rate": 90.7,
-  "grad_rate_rank": 245,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 17666,
-  "avg_stu_loan_debt_rank": 2517,
-  "indicator_group": 5
+  "grad_rate": 96.2,
+  "grad_rate_rank": 126,
+  "default_rate": 11.4,
+  "avg_stu_loan_debt": 13046,
+  "avg_stu_loan_debt_rank": 1844,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45356",
+  "email": true
 }

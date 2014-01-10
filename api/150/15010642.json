@@ -1,6 +1,6 @@
 {
   "facility_code": "15010642",
-  "institution": "TENNESSEE COLLEGE OF APPLIED TECHNOLOGY - RIPLEY",
+  "institution": "Tennessee College Of Applied Technology - Ripley",
   "city": "Ripley",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 221388,
-  "grad_rate": 62.6,
-  "grad_rate_rank": 1487,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 76.9,
+  "grad_rate_rank": 811,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "38063",
+  "email": false
 }

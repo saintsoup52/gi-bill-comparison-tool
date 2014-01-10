@@ -1,6 +1,6 @@
 {
   "facility_code": "319H2143",
-  "institution": "HOWARD PAYNE UNIVERSITY",
+  "institution": "Howard Payne University",
   "city": "Brownwood",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 41,
   "cross": 225548,
-  "grad_rate": 45.8,
-  "grad_rate_rank": 1031,
-  "default_rate": 14.5,
-  "avg_stu_loan_debt": 14031,
-  "avg_stu_loan_debt_rank": 643,
-  "indicator_group": 1
+  "grad_rate": 43.1,
+  "grad_rate_rank": 1129,
+  "default_rate": 14.7,
+  "avg_stu_loan_debt": 17211,
+  "avg_stu_loan_debt_rank": 817,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "76801",
+  "email": false
 }

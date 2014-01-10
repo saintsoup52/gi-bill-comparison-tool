@@ -1,6 +1,6 @@
 {
   "facility_code": "14908423",
-  "institution": "ITASCA COMMUNITY COLLEGE",
+  "institution": "Itasca Community College",
   "city": "Grand Radids",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 38,
   "cross": 173805,
-  "grad_rate": 36.8,
-  "grad_rate_rank": 393,
-  "default_rate": 14.0,
-  "avg_stu_loan_debt": 7750,
-  "avg_stu_loan_debt_rank": 629,
-  "indicator_group": 2
+  "grad_rate": 30.5,
+  "grad_rate_rank": 625,
+  "default_rate": 20.4,
+  "avg_stu_loan_debt": 7619,
+  "avg_stu_loan_debt_rank": 523,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "55744",
+  "email": false
 }

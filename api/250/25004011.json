@@ -1,6 +1,6 @@
 {
   "facility_code": "25004011",
-  "institution": "OMNITECH INSTITUTE",
+  "institution": "Omnitech Institute",
   "city": "Tucker",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 444796,
-  "grad_rate": 68.7,
-  "grad_rate_rank": 1222,
-  "default_rate": 28.3,
-  "avg_stu_loan_debt": 9440,
-  "avg_stu_loan_debt_rank": 1644,
-  "indicator_group": 5
+  "grad_rate": 68.3,
+  "grad_rate_rank": 1263,
+  "default_rate": 28.4,
+  "avg_stu_loan_debt": 8893,
+  "avg_stu_loan_debt_rank": 981,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "30084",
+  "email": true
 }

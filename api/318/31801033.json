@@ -1,6 +1,6 @@
 {
   "facility_code": "31801033",
-  "institution": "CAMPBELL UNIVERSITY/POPE AFB CAMPUS",
+  "institution": "Campbell University/Pope Afb Campus",
   "city": "Pope Afb",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 142,
   "cross": 198136,
-  "grad_rate": 55.3,
-  "grad_rate_rank": 699,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 20915,
-  "avg_stu_loan_debt_rank": 1515,
-  "indicator_group": 1
+  "grad_rate": 51.3,
+  "grad_rate_rank": 856,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 21060,
+  "avg_stu_loan_debt_rank": 1325,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "28308",
+  "email": true
 }

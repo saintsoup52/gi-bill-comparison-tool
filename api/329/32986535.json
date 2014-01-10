@@ -1,6 +1,6 @@
 {
   "facility_code": "32986535",
-  "institution": "FIRELANDS REGIONAL MED CTR SCHOOL OF RAD TECH",
+  "institution": "Firelands Regional Med Ctr School Of Rad Tech",
   "city": "Sandusky",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 205090,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 1917,
-  "default_rate": 8.1,
-  "avg_stu_loan_debt": 24000,
-  "avg_stu_loan_debt_rank": 2557,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 22400,
+  "avg_stu_loan_debt_rank": 2009,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "44870",
+  "email": false
 }

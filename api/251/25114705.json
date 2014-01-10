@@ -1,6 +1,6 @@
 {
   "facility_code": "25114705",
-  "institution": "NATIONAL POLYTECHNIC COLLEGE",
+  "institution": "National Polytechnic College",
   "city": "Commerce",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 447759,
-  "grad_rate": 72.0,
-  "grad_rate_rank": 1081,
-  "default_rate": 19.6,
-  "avg_stu_loan_debt": 8198,
-  "avg_stu_loan_debt_rank": 1419,
-  "indicator_group": 5
+  "grad_rate": 72.6,
+  "grad_rate_rank": 1054,
+  "default_rate": 16.3,
+  "avg_stu_loan_debt": 8439,
+  "avg_stu_loan_debt_rank": 887,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90040",
+  "email": false
 }

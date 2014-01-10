@@ -1,6 +1,6 @@
 {
   "facility_code": "31905111",
-  "institution": "BERRY COLLEGE",
+  "institution": "Berry College",
   "city": "Mount Berry",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 45,
   "cross": 139144,
-  "grad_rate": 56.7,
-  "grad_rate_rank": 657,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 18259,
-  "avg_stu_loan_debt_rank": 1116,
-  "indicator_group": 1
+  "grad_rate": 61.8,
+  "grad_rate_rank": 519,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 17500,
+  "avg_stu_loan_debt_rank": 843,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30149",
+  "email": true
 }

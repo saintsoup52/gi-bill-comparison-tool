@@ -1,6 +1,6 @@
 {
   "facility_code": "28588917",
-  "institution": "APPALACHIAN BEAUTY SCHOOL INC",
+  "institution": "Appalachian Beauty School Inc",
   "city": "South Williamson",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 237127,
-  "grad_rate": 81.0,
-  "grad_rate_rank": 600,
-  "default_rate": 50.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "grad_rate": 37.5,
+  "grad_rate_rank": 2132,
+  "default_rate": 20.0,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "41503",
+  "email": false
 }

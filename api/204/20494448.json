@@ -1,6 +1,6 @@
 {
   "facility_code": "20494448",
-  "institution": "IRON WORKERS LOCAL 301 APPRENTICESHIP PROGRAM",
+  "institution": "Iron Workers Local 301 Apprenticeship Program",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "25312",
+  "email": true
 }

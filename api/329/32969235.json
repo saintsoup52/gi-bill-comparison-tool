@@ -1,6 +1,6 @@
 {
   "facility_code": "32969235",
-  "institution": "AULTMAN HOSPITAL",
+  "institution": "Aultman Hospital",
   "city": "Canton",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 201177,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 219,
-  "default_rate": 3.1,
-  "avg_stu_loan_debt": 16925,
-  "avg_stu_loan_debt_rank": 1336,
-  "indicator_group": 2
+  "grad_rate": 60.0,
+  "grad_rate_rank": 170,
+  "default_rate": 4.8,
+  "avg_stu_loan_debt": 18802,
+  "avg_stu_loan_debt_rank": 1151,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44710",
+  "email": false
 }

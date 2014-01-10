@@ -1,6 +1,6 @@
 {
   "facility_code": "25031542",
-  "institution": "ROADMASTER DRIVERS SCHOOL OF CHATTANOOGA INC.",
+  "institution": "Roadmaster Drivers School Of Chattanooga Inc.",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "37419",
+  "email": false
 }

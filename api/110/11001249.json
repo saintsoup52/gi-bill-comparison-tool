@@ -1,6 +1,6 @@
 {
   "facility_code": "11001249",
-  "institution": "UNIV OF WISC-PARKSIDE",
+  "institution": "Univ Of Wisc-Parkside",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 206,
   "cross": 240374,
-  "grad_rate": 27.7,
-  "grad_rate_rank": 1540,
-  "default_rate": 10.4,
-  "avg_stu_loan_debt": 14222,
-  "avg_stu_loan_debt_rank": 653,
-  "indicator_group": 1
+  "grad_rate": 29.7,
+  "grad_rate_rank": 1542,
+  "default_rate": 14.4,
+  "avg_stu_loan_debt": 14000,
+  "avg_stu_loan_debt_rank": 428,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53141",
+  "email": true
 }

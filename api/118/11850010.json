@@ -1,6 +1,6 @@
 {
   "facility_code": "11850010",
-  "institution": "ST PETERSBURG COLLEGE-ST PETERSBURG/GIBBS CAMPUS",
+  "institution": "St Petersburg College-St Petersburg/Gibbs Campus",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 868,
   "cross": 137078,
-  "grad_rate": 27.7,
-  "grad_rate_rank": 605,
-  "default_rate": 20.6,
-  "avg_stu_loan_debt": 11631,
-  "avg_stu_loan_debt_rank": 958,
-  "indicator_group": 2
+  "grad_rate": 30.9,
+  "grad_rate_rank": 613,
+  "default_rate": 20.9,
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 846,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33733",
+  "email": true
 }

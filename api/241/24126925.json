@@ -1,6 +1,6 @@
 {
   "facility_code": "24126925",
-  "institution": "COURT REPORTING INSTITUTE OF ST. LOUIS",
+  "institution": "Court Reporting Institute Of St. Louis",
   "city": "Clayton",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63105",
+  "email": true
 }

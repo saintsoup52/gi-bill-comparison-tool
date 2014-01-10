@@ -1,6 +1,6 @@
 {
   "facility_code": "28275547",
-  "institution": "EVEREST COLLEGE @ SEATTLE",
+  "institution": "Everest College @ Seattle",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 236531,
-  "grad_rate": 64.8,
-  "grad_rate_rank": 1402,
-  "default_rate": 21.7,
+  "grad_rate": 72.0,
+  "grad_rate_rank": 1072,
+  "default_rate": 15.5,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98133",
+  "email": true
 }

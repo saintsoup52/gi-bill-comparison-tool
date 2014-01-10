@@ -1,6 +1,6 @@
 {
   "facility_code": "11009143",
-  "institution": "PRAIRIE VIEW AM UNIVERSITY",
+  "institution": "Prairie View Am University",
   "city": "Prairie View",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 327,
   "cross": 227526,
-  "grad_rate": 34.1,
-  "grad_rate_rank": 1388,
-  "default_rate": 18.7,
-  "avg_stu_loan_debt": 19125,
-  "avg_stu_loan_debt_rank": 1265,
-  "indicator_group": 1
+  "grad_rate": 36.1,
+  "grad_rate_rank": 1364,
+  "default_rate": 23.5,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77446",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14994432",
-  "institution": "ROCKLAND COMMUNITY COLLEGE",
+  "institution": "Rockland Community College",
   "city": "Suffern",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 157,
   "cross": 195058,
-  "grad_rate": 25.3,
-  "grad_rate_rank": 678,
-  "default_rate": 18.9,
+  "grad_rate": 26.6,
+  "grad_rate_rank": 737,
+  "default_rate": 19.1,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10901",
+  "email": true
 }

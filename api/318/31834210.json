@@ -1,6 +1,6 @@
 {
   "facility_code": "31834210",
-  "institution": "CITY COLLEGE-MIAMI",
+  "institution": "City College-Miami",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 434539,
-  "grad_rate": 60.0,
-  "grad_rate_rank": 130,
-  "default_rate": 27.6,
-  "avg_stu_loan_debt": 16890,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 2
+  "grad_rate": 35.3,
+  "grad_rate_rank": 499,
+  "default_rate": 22.6,
+  "avg_stu_loan_debt": 19642,
+  "avg_stu_loan_debt_rank": 1183,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33156",
+  "email": true
 }

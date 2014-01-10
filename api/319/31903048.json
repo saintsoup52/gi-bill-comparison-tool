@@ -1,6 +1,6 @@
 {
   "facility_code": "31903048",
-  "institution": "ALDERSON BROADDUS UNIVERSITY",
+  "institution": "Alderson Broaddus University",
   "city": "Philippi",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 27,
   "cross": 237118,
-  "grad_rate": 48.9,
-  "grad_rate_rank": 929,
-  "default_rate": 10.2,
-  "avg_stu_loan_debt": 20043,
-  "avg_stu_loan_debt_rank": 1436,
-  "indicator_group": 1
+  "grad_rate": 42.1,
+  "grad_rate_rank": 1171,
+  "default_rate": 12.1,
+  "avg_stu_loan_debt": 18250,
+  "avg_stu_loan_debt_rank": 944,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26416",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32015522",
-  "institution": "GARDEN CITY HOSPITAL",
+  "institution": "Garden City Hospital",
   "city": "Garden City",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48135",
+  "email": false
 }

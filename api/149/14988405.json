@@ -1,6 +1,6 @@
 {
   "facility_code": "14988405",
-  "institution": "CERRO COSO COMMUNITY COLLEGE",
+  "institution": "Cerro Coso Community College",
   "city": "Ridgecrest",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 182,
   "cross": 111896,
-  "grad_rate": 19.2,
-  "grad_rate_rank": 888,
-  "default_rate": 17.8,
-  "avg_stu_loan_debt": 4625,
-  "avg_stu_loan_debt_rank": 239,
-  "indicator_group": 2
+  "grad_rate": 8.8,
+  "grad_rate_rank": 1322,
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 5527,
+  "avg_stu_loan_debt_rank": 291,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "93555",
+  "email": false
 }

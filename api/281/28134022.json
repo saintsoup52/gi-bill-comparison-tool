@@ -1,6 +1,6 @@
 {
   "facility_code": "28134022",
-  "institution": "LAWTON SCHOOL",
+  "institution": "Lawton School",
   "city": "Oak Park",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 379463,
-  "grad_rate": 82.1,
-  "grad_rate_rank": 541,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": 4016,
-  "avg_stu_loan_debt_rank": 679,
-  "indicator_group": 5
+  "grad_rate": 31.6,
+  "grad_rate_rank": 2189,
+  "default_rate": 22.8,
+  "avg_stu_loan_debt": 5163,
+  "avg_stu_loan_debt_rank": 257,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48237",
+  "email": true
 }

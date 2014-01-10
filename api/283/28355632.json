@@ -1,6 +1,6 @@
 {
   "facility_code": "28355632",
-  "institution": "AUSTIN'S SCHOOL OF SPA TECHNOLOGY",
+  "institution": "Austin'S School Of Spa Technology",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 188988,
-  "grad_rate": 41.5,
-  "grad_rate_rank": 2058,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 53.9,
+  "grad_rate_rank": 1842,
+  "default_rate": 14.9,
+  "avg_stu_loan_debt": 5812,
+  "avg_stu_loan_debt_rank": 396,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "12206",
+  "email": true
 }

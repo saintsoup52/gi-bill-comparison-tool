@@ -1,6 +1,6 @@
 {
   "facility_code": "21974235",
-  "institution": "AKRON INSTITUTE OF HERZING UNIVERSITY",
+  "institution": "Akron Institute Of Herzing University",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 200785,
-  "grad_rate": 60.5,
-  "grad_rate_rank": 127,
-  "default_rate": 13.1,
-  "avg_stu_loan_debt": 11399,
-  "avg_stu_loan_debt_rank": 937,
-  "indicator_group": 2
+  "grad_rate": 41.4,
+  "grad_rate_rank": 390,
+  "default_rate": 17.6,
+  "avg_stu_loan_debt": 15162,
+  "avg_stu_loan_debt_rank": 1019,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "44306",
+  "email": true
 }

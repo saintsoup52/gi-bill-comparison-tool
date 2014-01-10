@@ -1,6 +1,6 @@
 {
   "facility_code": "15572925",
-  "institution": "LEE'S SUMMIT NORTH HIGH SCHOOL",
+  "institution": "Lee'S Summit North High School",
   "city": "Lee'S Summit",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64063",
+  "email": false
 }

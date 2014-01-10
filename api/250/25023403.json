@@ -1,6 +1,6 @@
 {
   "facility_code": "25023403",
-  "institution": "HAIR ACADEMY OF SAFFORD THE",
+  "institution": "Hair Academy Of Safford The",
   "city": "Safford",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 105701,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 301,
-  "default_rate": 36.3,
-  "avg_stu_loan_debt": 7499,
-  "avg_stu_loan_debt_rank": 1206,
-  "indicator_group": 5
+  "grad_rate": 85.7,
+  "grad_rate_rank": 415,
+  "default_rate": 36.8,
+  "avg_stu_loan_debt": 7550,
+  "avg_stu_loan_debt_rank": 733,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85546",
+  "email": false
 }

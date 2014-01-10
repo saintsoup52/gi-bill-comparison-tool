@@ -1,6 +1,6 @@
 {
   "facility_code": "11007135",
-  "institution": "CENTRAL STATE UNIVERSITY",
+  "institution": "Central State University",
   "city": "Wilberforce",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 44,
   "cross": 201690,
-  "grad_rate": 24.2,
-  "grad_rate_rank": 1606,
-  "default_rate": 32.8,
-  "avg_stu_loan_debt": 18670,
-  "avg_stu_loan_debt_rank": 1172,
-  "indicator_group": 1
+  "grad_rate": 26.9,
+  "grad_rate_rank": 1596,
+  "default_rate": 31.2,
+  "avg_stu_loan_debt": 19000,
+  "avg_stu_loan_debt_rank": 1055,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "45384",
+  "email": true
 }

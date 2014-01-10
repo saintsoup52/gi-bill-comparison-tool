@@ -1,6 +1,6 @@
 {
   "facility_code": "24038443",
-  "institution": "CONCORDE CAREER COLLEGE DALLAS",
+  "institution": "Concorde Career College Dallas",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 33,
   "cross": 460181,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 15.1,
+  "grad_rate": 75.9,
+  "grad_rate_rank": 106,
+  "default_rate": 14.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "75243",
+  "email": false
 }

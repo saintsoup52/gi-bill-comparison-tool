@@ -1,6 +1,6 @@
 {
   "facility_code": "10073611",
-  "institution": "GEORGIA POWER COMPANY (GAINESVILLE)",
+  "institution": "Georgia Power Company (Gainesville)",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "30501",
+  "email": true
 }

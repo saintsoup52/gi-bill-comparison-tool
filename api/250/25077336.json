@@ -1,6 +1,6 @@
 {
   "facility_code": "25077336",
-  "institution": "JB'S HAIR DESIGN & BARBER COLLEGE",
+  "institution": "Jb'S Hair Design & Barber College",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "73139",
+  "email": false
 }

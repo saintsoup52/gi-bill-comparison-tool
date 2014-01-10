@@ -1,6 +1,6 @@
 {
   "facility_code": "25217915",
-  "institution": "FAUST INSTITUTE OF COSMETOLOGY",
+  "institution": "Faust Institute Of Cosmetology",
   "city": "Storm Lake",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 153339,
-  "grad_rate": 81.3,
-  "grad_rate_rank": 578,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 10186,
-  "avg_stu_loan_debt_rank": 2168,
-  "indicator_group": 5
+  "grad_rate": 71.0,
+  "grad_rate_rank": 1128,
+  "default_rate": 5.5,
+  "avg_stu_loan_debt": 9750,
+  "avg_stu_loan_debt_rank": 1478,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "50588",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15062521",
-  "institution": "US SENATE OFFICE OF J F KERRY-CHAP 31",
+  "institution": "Us Senate Office Of J F Kerry-Chap 31",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2114",
+  "email": "No (SCO)"
 }

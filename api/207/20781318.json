@@ -1,6 +1,6 @@
 {
   "facility_code": "20781318",
-  "institution": "NORTH SHORE SERVICE CENTER",
+  "institution": "North Shore Service Center",
   "city": "Covington",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70433",
+  "email": false
 }

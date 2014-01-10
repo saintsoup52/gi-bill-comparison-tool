@@ -1,6 +1,6 @@
 {
   "facility_code": "11001243",
-  "institution": "BAYLOR COLLEGE OF DENTISTRY TX A AND M HLTH SCI CTR",
+  "institution": "Baylor College Of Dentistry Tx A And M Hlth Sci Ctr",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 223223,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 4
+  "default_rate": 0.5,
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 4,
+  "salary": null,
+  "zip": "75246",
+  "email": false
 }

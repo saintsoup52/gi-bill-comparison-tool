@@ -1,6 +1,6 @@
 {
   "facility_code": "24803905",
-  "institution": "SAN JOAQUIN VALLEY COLLEGE (RANCHO CORDOVA)",
+  "institution": "San Joaquin Valley College (Rancho Cordova)",
   "city": "Rancho Cordova",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 448372,
-  "grad_rate": 50.9,
-  "grad_rate_rank": 214,
-  "default_rate": 18.4,
-  "avg_stu_loan_debt": 16565,
-  "avg_stu_loan_debt_rank": 1309,
-  "indicator_group": 2
+  "grad_rate": 75.6,
+  "grad_rate_rank": 59,
+  "default_rate": 25.6,
+  "avg_stu_loan_debt": 17900,
+  "avg_stu_loan_debt_rank": 1120,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "95670",
+  "email": false
 }

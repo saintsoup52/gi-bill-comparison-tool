@@ -1,6 +1,6 @@
 {
   "facility_code": "15044621",
-  "institution": "UPPER CAPE COD REGIONAL TECHNICAL SCHOOL",
+  "institution": "Upper Cape Cod Regional Technical School",
   "city": "Bourne",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 373711,
-  "grad_rate": 95.6,
-  "grad_rate_rank": 123,
-  "default_rate": 9.0,
+  "grad_rate": 84.7,
+  "grad_rate_rank": 447,
+  "default_rate": 18.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2532",
+  "email": true
 }

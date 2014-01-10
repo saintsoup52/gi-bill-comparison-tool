@@ -1,6 +1,6 @@
 {
   "facility_code": "28120047",
-  "institution": "BJ'S BEAUTY & BARBER COLLEGE -  (TACOMA)",
+  "institution": "Bj'S Beauty & Barber College -  (Tacoma)",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 236018,
-  "grad_rate": 69.3,
-  "grad_rate_rank": 1201,
-  "default_rate": 32.6,
-  "avg_stu_loan_debt": 7316,
-  "avg_stu_loan_debt_rank": 1193,
-  "indicator_group": 5
+  "grad_rate": 81.1,
+  "grad_rate_rank": 593,
+  "default_rate": 21.9,
+  "avg_stu_loan_debt": 7466,
+  "avg_stu_loan_debt_rank": 691,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "98409",
+  "email": true
 }

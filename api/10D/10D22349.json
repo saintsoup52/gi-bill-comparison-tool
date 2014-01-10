@@ -1,6 +1,6 @@
 {
   "facility_code": "10D22349",
-  "institution": "WISCONSIN DWD/DWS ()OB CENTER-HAYWARD)",
+  "institution": "Wisconsin Dwd/Dws ()Ob Center-Hayward)",
   "city": "Hayward",
   "state": "WI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "54843",
+  "email": false
 }

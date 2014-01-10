@@ -1,6 +1,6 @@
 {
   "facility_code": "10C16643",
-  "institution": "INTL UNION OF ELEVATOR CONSTRUCTORS 133",
+  "institution": "Intl Union Of Elevator Constructors 133",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78754",
+  "email": false
 }

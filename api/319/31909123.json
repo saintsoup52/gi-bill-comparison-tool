@@ -1,6 +1,6 @@
 {
   "facility_code": "31909123",
-  "institution": "ST CATHERINE UNIVERSITY OFFICE OF THE REGISTRAR",
+  "institution": "St Catherine University Office Of The Registrar",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 40,
   "cross": 175005,
-  "grad_rate": 65.4,
-  "grad_rate_rank": 424,
-  "default_rate": 4.7,
-  "avg_stu_loan_debt": 24489,
-  "avg_stu_loan_debt_rank": 1891,
-  "indicator_group": 1
+  "grad_rate": 59.1,
+  "grad_rate_rank": 589,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 24165,
+  "avg_stu_loan_debt_rank": 1654,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "55105",
+  "email": true
 }

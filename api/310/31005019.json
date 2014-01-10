@@ -1,6 +1,6 @@
 {
   "facility_code": "31005019",
-  "institution": "THE LANDING SCHOOL",
+  "institution": "The Landing School",
   "city": "Arundel",
   "state": "ME",
   "country": "USA",
@@ -11,8 +11,11 @@
   "cross": 161208,
   "grad_rate": 100.0,
   "grad_rate_rank": 1,
-  "default_rate": 0.0,
+  "default_rate": 6.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 459,
-  "indicator_group": 3
+  "avg_stu_loan_debt_rank": 361,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "4046",
+  "email": true
 }

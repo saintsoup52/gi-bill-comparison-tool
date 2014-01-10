@@ -1,6 +1,6 @@
 {
   "facility_code": "11806220",
-  "institution": "BOWIE STATE UNIVERSITY",
+  "institution": "Bowie State University",
   "city": "Bowie",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 238,
   "cross": 162007,
-  "grad_rate": 40.6,
-  "grad_rate_rank": 1207,
-  "default_rate": 11.0,
-  "avg_stu_loan_debt": 17125,
-  "avg_stu_loan_debt_rank": 965,
-  "indicator_group": 1
+  "grad_rate": 34.6,
+  "grad_rate_rank": 1402,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "20715",
+  "email": true
 }

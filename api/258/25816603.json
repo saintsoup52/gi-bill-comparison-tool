@@ -1,6 +1,6 @@
 {
   "facility_code": "25816603",
-  "institution": "INTERNATIONAL ACADEMY OF HAIR DESIGN - METRO CENTER",
+  "institution": "International Academy Of Hair Design - Metro Center",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85051",
+  "email": false
 }

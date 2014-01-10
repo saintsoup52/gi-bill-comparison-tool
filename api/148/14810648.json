@@ -1,6 +1,6 @@
 {
   "facility_code": "14810648",
-  "institution": "PIERPONT COMMUNITY AND TECHNICAL COLLEGE",
+  "institution": "Pierpont Community And Technical College",
   "city": "Fairmont",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 124,
   "cross": 443492,
-  "grad_rate": 11.8,
-  "grad_rate_rank": 1149,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8857,
-  "avg_stu_loan_debt_rank": 712,
-  "indicator_group": 2
+  "grad_rate": 13.9,
+  "grad_rate_rank": 1163,
+  "default_rate": 29.2,
+  "avg_stu_loan_debt": 8562,
+  "avg_stu_loan_debt_rank": 589,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "26554",
+  "email": true
 }

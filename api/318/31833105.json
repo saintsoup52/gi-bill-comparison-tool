@@ -1,6 +1,6 @@
 {
   "facility_code": "31833105",
-  "institution": "CALIFORNIA BAPTIST UNIVERSITY",
+  "institution": "California Baptist University",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 271,
   "cross": 110361,
-  "grad_rate": 55.2,
-  "grad_rate_rank": 703,
-  "default_rate": 8.1,
-  "avg_stu_loan_debt": 22051,
-  "avg_stu_loan_debt_rank": 1647,
-  "indicator_group": 1
+  "grad_rate": 58.9,
+  "grad_rate_rank": 599,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1513,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92504",
+  "email": false
 }

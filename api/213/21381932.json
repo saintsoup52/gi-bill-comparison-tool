@@ -1,6 +1,6 @@
 {
   "facility_code": "21381932",
-  "institution": "SWEDISH INSTITUTE",
+  "institution": "Swedish Institute",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 15,
   "cross": 196389,
-  "grad_rate": 73.3,
-  "grad_rate_rank": 59,
-  "default_rate": 8.0,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 1155,
-  "indicator_group": 2
+  "grad_rate": 92.1,
+  "grad_rate_rank": 11,
+  "default_rate": 9.6,
+  "avg_stu_loan_debt": 18735,
+  "avg_stu_loan_debt_rank": 1150,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "10001",
+  "email": true
 }

@@ -1,10 +1,10 @@
 {
   "facility_code": "11106474",
-  "institution": "UNIVERSITY OF EAST ANGLIA",
+  "institution": "University Of East Anglia",
   "city": "Norwich",
   "state": "United Kingdom",
   "country": "United Kingdom",
-  "bah": null,
+  "bah": 1429,
   "poe": null,
   "yr": null,
   "gibill": 3,
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": null,
+  "email": true
 }

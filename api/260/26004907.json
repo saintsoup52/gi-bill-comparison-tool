@@ -1,6 +1,6 @@
 {
   "facility_code": "26004907",
-  "institution": "STONE ACADEMY - WATERBURY",
+  "institution": "Stone Academy - Waterbury",
   "city": "Waterbury",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 413778,
-  "grad_rate": 64.5,
-  "grad_rate_rank": 1414,
-  "default_rate": 21.4,
-  "avg_stu_loan_debt": 11805,
-  "avg_stu_loan_debt_rank": 2305,
-  "indicator_group": 5
+  "grad_rate": 70.4,
+  "grad_rate_rank": 1156,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 11479,
+  "avg_stu_loan_debt_rank": 1635,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6705",
+  "email": true
 }

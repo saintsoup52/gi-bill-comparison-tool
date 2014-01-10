@@ -1,6 +1,6 @@
 {
   "facility_code": "15003145",
-  "institution": "VERMONT STATE POLICE OFFICE OF PROFESSIONAL DEVELOPMENT",
+  "institution": "Vermont State Police Office Of Professional Development",
   "city": "Pittsford",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5763",
+  "email": false
 }

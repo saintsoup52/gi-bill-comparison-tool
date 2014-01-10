@@ -1,6 +1,6 @@
 {
   "facility_code": "19010340",
-  "institution": "SOUTH CAROLINA VOCATIONAL REHABILITATION-BERKELEY/DORCHESTER (CH 31 ONLY)",
+  "institution": "South Carolina Vocational Rehabilitation-Berkeley/Dorchester (Ch 31 Only)",
   "city": "Moncks Corner",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29461",
+  "email": false
 }

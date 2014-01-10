@@ -1,6 +1,6 @@
 {
   "facility_code": "31904146",
-  "institution": "EASTERN MENNONITE UNIVERSITY",
+  "institution": "Eastern Mennonite University",
   "city": "Harrisonburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 19,
   "cross": 232043,
-  "grad_rate": 66.3,
-  "grad_rate_rank": 401,
-  "default_rate": 4.5,
-  "avg_stu_loan_debt": 17681,
-  "avg_stu_loan_debt_rank": 1044,
-  "indicator_group": 1
+  "grad_rate": 59.0,
+  "grad_rate_rank": 594,
+  "default_rate": 1.1,
+  "avg_stu_loan_debt": 17225,
+  "avg_stu_loan_debt_rank": 818,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "22802",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21061010",
-  "institution": "SOUTH UNIVERSITY - TAMPA",
+  "institution": "South University - Tampa",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": null,
   "cross": 449898,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 21.5,
-  "avg_stu_loan_debt": 9098,
-  "avg_stu_loan_debt_rank": 192,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 1873,
+  "default_rate": 23.0,
+  "avg_stu_loan_debt": 6463,
+  "avg_stu_loan_debt_rank": 58,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33614",
+  "email": true
 }

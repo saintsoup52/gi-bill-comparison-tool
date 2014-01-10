@@ -1,6 +1,6 @@
 {
   "facility_code": "15001602",
-  "institution": "BURCHELL HIGH SCHOOL",
+  "institution": "Burchell High School",
   "city": "Wasilla",
   "state": "AK",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99654",
+  "email": false
 }

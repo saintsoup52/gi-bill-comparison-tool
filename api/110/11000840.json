@@ -1,6 +1,6 @@
 {
   "facility_code": "11000840",
-  "institution": "LANDER UNIVERSITY",
+  "institution": "Lander University",
   "city": "Greenwood",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 144,
   "cross": 218229,
-  "grad_rate": 36.9,
-  "grad_rate_rank": 1328,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 15425,
-  "avg_stu_loan_debt_rank": 770,
-  "indicator_group": 1
+  "grad_rate": 40.5,
+  "grad_rate_rank": 1232,
+  "default_rate": 7.6,
+  "avg_stu_loan_debt": 15912,
+  "avg_stu_loan_debt_rank": 615,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29649",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11942138",
-  "institution": "CHEYNEY UNIVERSITY OF PA",
+  "institution": "Cheyney University Of Pa",
   "city": "Cheyney",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 40,
   "cross": 211608,
-  "grad_rate": 24.4,
-  "grad_rate_rank": 1602,
-  "default_rate": 23.2,
-  "avg_stu_loan_debt": 15000,
-  "avg_stu_loan_debt_rank": 724,
-  "indicator_group": 1
+  "grad_rate": 22.9,
+  "grad_rate_rank": 1671,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 20700,
+  "avg_stu_loan_debt_rank": 1282,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19319",
+  "email": true
 }

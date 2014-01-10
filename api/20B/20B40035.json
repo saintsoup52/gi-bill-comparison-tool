@@ -1,6 +1,6 @@
 {
   "facility_code": "20B40035",
-  "institution": "NED'S INC (31)",
+  "institution": "Ned'S Inc (31)",
   "city": "Sandusky",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "44870",
+  "email": "No (SCO)"
 }

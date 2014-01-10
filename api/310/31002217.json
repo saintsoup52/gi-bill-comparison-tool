@@ -1,6 +1,6 @@
 {
   "facility_code": "31002217",
-  "institution": "UNIVERSITY OF THE CUMBERLANDS",
+  "institution": "University Of The Cumberlands",
   "city": "Williamsburg",
   "state": "KY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 156541,
-  "grad_rate": 43.4,
-  "grad_rate_rank": 1113,
-  "default_rate": 11.4,
+  "grad_rate": 45.0,
+  "grad_rate_rank": 1065,
+  "default_rate": 11.3,
   "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "avg_stu_loan_debt_rank": 273,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "40769",
+  "email": true
 }

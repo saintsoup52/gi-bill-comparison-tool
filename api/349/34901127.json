@@ -1,6 +1,6 @@
 {
   "facility_code": "34901127",
-  "institution": "UNIVERSAL COLLEGE OF HEALING ARTS",
+  "institution": "Universal College Of Healing Arts",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 446598,
-  "grad_rate": 86.4,
-  "grad_rate_rank": 26,
-  "default_rate": 31.8,
-  "avg_stu_loan_debt": 11155,
-  "avg_stu_loan_debt_rank": 681,
-  "indicator_group": 3
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 16.6,
+  "avg_stu_loan_debt": 14977,
+  "avg_stu_loan_debt_rank": 661,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "68112",
+  "email": true
 }

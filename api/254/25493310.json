@@ -1,6 +1,6 @@
 {
   "facility_code": "25493310",
-  "institution": "HAIR DESIGN INSTITUTE - BOYNTON BEACH",
+  "institution": "Hair Design Institute - Boynton Beach",
   "city": "Boynton Beach",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 474933,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 14.1,
-  "avg_stu_loan_debt": 5657,
-  "avg_stu_loan_debt_rank": 919,
-  "indicator_group": 5
+  "default_rate": 9.1,
+  "avg_stu_loan_debt": 6481,
+  "avg_stu_loan_debt_rank": 534,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33436",
+  "email": true
 }

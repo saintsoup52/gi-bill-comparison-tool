@@ -1,6 +1,6 @@
 {
   "facility_code": "28069521",
-  "institution": "NEW ENGLAND HAIR ACADEMY",
+  "institution": "New England Hair Academy",
   "city": "Malden",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 373678,
-  "grad_rate": 93.8,
-  "grad_rate_rank": 166,
+  "grad_rate": 72.1,
+  "grad_rate_rank": 1068,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 10782,
-  "avg_stu_loan_debt_rank": 2220,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 7322,
+  "avg_stu_loan_debt_rank": 676,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "2148",
+  "email": true
 }

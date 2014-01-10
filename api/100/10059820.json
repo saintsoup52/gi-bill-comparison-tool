@@ -1,6 +1,6 @@
 {
   "facility_code": "10059820",
-  "institution": "PRINCE GEORGE'S COUNTY FIRE DEPARTMENT",
+  "institution": "Prince George'S County Fire Department",
   "city": "Cheltenham",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "20623",
+  "email": false
 }

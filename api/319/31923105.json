@@ -1,6 +1,6 @@
 {
   "facility_code": "31923105",
-  "institution": "HOPE INTERNATIONAL UNIVERSITY",
+  "institution": "Hope International University",
   "city": "Fullerton",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 120537,
-  "grad_rate": 32.2,
-  "grad_rate_rank": 1444,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 18250,
-  "avg_stu_loan_debt_rank": 1113,
-  "indicator_group": 1
+  "grad_rate": 39.8,
+  "grad_rate_rank": 1261,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 19650,
+  "avg_stu_loan_debt_rank": 1145,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "92831",
+  "email": false
 }

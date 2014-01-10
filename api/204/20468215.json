@@ -1,6 +1,6 @@
 {
   "facility_code": "20468215",
-  "institution": "URIAH ELECTRIC",
+  "institution": "Uriah Electric",
   "city": "Davenport",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "52804",
+  "email": false
 }

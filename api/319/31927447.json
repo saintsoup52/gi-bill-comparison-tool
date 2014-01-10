@@ -1,6 +1,6 @@
 {
   "facility_code": "31927447",
-  "institution": "TRINITY LUTHERAN COLLEGE",
+  "institution": "Trinity Lutheran College",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 9,
   "cross": 235769,
-  "grad_rate": 73.9,
-  "grad_rate_rank": 241,
-  "default_rate": 15.3,
-  "avg_stu_loan_debt": 15750,
-  "avg_stu_loan_debt_rank": 810,
-  "indicator_group": 1
+  "grad_rate": 40.0,
+  "grad_rate_rank": 1248,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "98201",
+  "email": true
 }

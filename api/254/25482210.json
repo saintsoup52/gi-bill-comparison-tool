@@ -1,6 +1,6 @@
 {
   "facility_code": "25482210",
-  "institution": "FLORIDA ACADEMY",
+  "institution": "Florida Academy",
   "city": "Ft. Myers",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 462035,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": null,
-  "avg_stu_loan_debt": 2531,
-  "avg_stu_loan_debt_rank": 533,
-  "indicator_group": 5
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 3167,
+  "avg_stu_loan_debt_rank": 59,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33966",
+  "email": true
 }

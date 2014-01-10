@@ -1,6 +1,6 @@
 {
   "facility_code": "249A2438",
-  "institution": "FORTIS INSTITUTE",
+  "institution": "Fortis Institute",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 90,
   "cross": 216418,
-  "grad_rate": 51.0,
-  "grad_rate_rank": 213,
-  "default_rate": 10.3,
+  "grad_rate": 45.4,
+  "grad_rate_rank": 333,
+  "default_rate": 12.4,
   "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 916,
-  "indicator_group": 2
+  "avg_stu_loan_debt_rank": 805,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "16506",
+  "email": true
 }

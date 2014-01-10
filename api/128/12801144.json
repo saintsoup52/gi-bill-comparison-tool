@@ -1,6 +1,6 @@
 {
   "facility_code": "12801144",
-  "institution": "UNIVERSITY OF UTAH HOSPITAL",
+  "institution": "University Of Utah Hospital",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "84132",
+  "email": true
 }

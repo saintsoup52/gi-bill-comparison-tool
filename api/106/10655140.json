@@ -1,6 +1,6 @@
 {
   "facility_code": "10655140",
-  "institution": "SC DEPARTMENT OF CORRECTIONS - SPECIAL INVESTIGATIONS UNIT",
+  "institution": "Sc Department Of Corrections - Special Investigations Unit",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29221",
+  "email": false
 }

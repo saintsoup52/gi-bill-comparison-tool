@@ -1,6 +1,6 @@
 {
   "facility_code": "20779118",
-  "institution": "NEW ORLEANS & BATON ROUGE ASBESTOS WORKERS JAC",
+  "institution": "New Orleans & Baton Rouge Asbestos Workers Jac",
   "city": "Kenner",
   "state": "LA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "70062",
+  "email": false
 }

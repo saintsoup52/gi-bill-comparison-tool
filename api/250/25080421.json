@@ -1,6 +1,6 @@
 {
   "facility_code": "25080421",
-  "institution": "SALTER SCHOOL-TEWKSBURY",
+  "institution": "Salter School-Tewksbury",
   "city": "Tewksbury",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 391564,
-  "grad_rate": 68.1,
-  "grad_rate_rank": 1250,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 8104,
-  "avg_stu_loan_debt_rank": 1402,
-  "indicator_group": 5
+  "grad_rate": 65.5,
+  "grad_rate_rank": 1405,
+  "default_rate": 11.5,
+  "avg_stu_loan_debt": 7184,
+  "avg_stu_loan_debt_rank": 656,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "1876",
+  "email": true
 }

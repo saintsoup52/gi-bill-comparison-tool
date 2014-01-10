@@ -1,6 +1,6 @@
 {
   "facility_code": "11801127",
-  "institution": "UNIVERSITY OF NEBRASKA AT LINCOLN",
+  "institution": "University Of Nebraska At Lincoln",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 710,
   "cross": 181464,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 385,
-  "default_rate": 3.7,
-  "avg_stu_loan_debt": 19001,
-  "avg_stu_loan_debt_rank": 1257,
-  "indicator_group": 1
+  "grad_rate": 64.6,
+  "grad_rate_rank": 443,
+  "default_rate": 4.7,
+  "avg_stu_loan_debt": 19272,
+  "avg_stu_loan_debt_rank": 1104,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "68588",
+  "email": false
 }

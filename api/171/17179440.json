@@ -1,6 +1,6 @@
 {
   "facility_code": "17179440",
-  "institution": "DUTCH FORK HIGH SCHOOL",
+  "institution": "Dutch Fork High School",
   "city": "Irmo",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29063",
+  "email": false
 }

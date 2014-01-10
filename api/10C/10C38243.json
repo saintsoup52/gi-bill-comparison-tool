@@ -1,6 +1,6 @@
 {
   "facility_code": "10C38243",
-  "institution": "BASTROP COUNTY ESD #1 FIRE DEPT",
+  "institution": "Bastrop County Esd #1 Fire Dept",
   "city": "Red Rock",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78662",
+  "email": false
 }

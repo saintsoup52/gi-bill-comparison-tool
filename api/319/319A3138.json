@@ -1,6 +1,6 @@
 {
   "facility_code": "319A3138",
-  "institution": "KEYSTONE COLLEGE",
+  "institution": "Keystone College",
   "city": "Laplume",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 64,
   "cross": 213303,
-  "grad_rate": 38.6,
-  "grad_rate_rank": 1281,
-  "default_rate": 12.9,
-  "avg_stu_loan_debt": 18497,
-  "avg_stu_loan_debt_rank": 1136,
-  "indicator_group": 1
+  "grad_rate": 44.7,
+  "grad_rate_rank": 1076,
+  "default_rate": 12.0,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "18440",
+  "email": false
 }

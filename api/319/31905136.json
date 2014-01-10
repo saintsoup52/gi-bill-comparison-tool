@@ -1,6 +1,6 @@
 {
   "facility_code": "31905136",
-  "institution": "OKLAHOMA WESLEYAN UNIVERSITY",
+  "institution": "Oklahoma Wesleyan University",
   "city": "Bartlesville",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 68,
   "cross": 206835,
-  "grad_rate": 45.5,
-  "grad_rate_rank": 1041,
-  "default_rate": 9.9,
-  "avg_stu_loan_debt": 20512,
-  "avg_stu_loan_debt_rank": 1489,
-  "indicator_group": 1
+  "grad_rate": 44.7,
+  "grad_rate_rank": 1076,
+  "default_rate": 13.5,
+  "avg_stu_loan_debt": 20378,
+  "avg_stu_loan_debt_rank": 1236,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "74006",
+  "email": true
 }

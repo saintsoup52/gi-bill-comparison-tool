@@ -1,6 +1,6 @@
 {
   "facility_code": "25171605",
-  "institution": "MARINELLO SCHOOLS OF BEAUTY (CONCORD)",
+  "institution": "Marinello Schools Of Beauty (Concord)",
   "city": "Concord",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 417132,
-  "grad_rate": 57.6,
-  "grad_rate_rank": 1689,
-  "default_rate": 6.6,
-  "avg_stu_loan_debt": 8204,
-  "avg_stu_loan_debt_rank": 1422,
-  "indicator_group": 5
+  "grad_rate": 51.5,
+  "grad_rate_rank": 1913,
+  "default_rate": 15.1,
+  "avg_stu_loan_debt": 9279,
+  "avg_stu_loan_debt_rank": 1034,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "94520",
+  "email": true
 }

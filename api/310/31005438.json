@@ -1,6 +1,6 @@
 {
   "facility_code": "31005438",
-  "institution": "THE UNIVERSITY OF THE ARTS",
+  "institution": "The University Of The Arts",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 30,
   "cross": 215105,
-  "grad_rate": 62.0,
-  "grad_rate_rank": 513,
-  "default_rate": 7.2,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate": 57.5,
+  "grad_rate_rank": 651,
+  "default_rate": 10.4,
+  "avg_stu_loan_debt": 27000,
+  "avg_stu_loan_debt_rank": 1868,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19102",
+  "email": true
 }

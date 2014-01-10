@@ -1,6 +1,6 @@
 {
   "facility_code": "18305138",
-  "institution": "DELAWARE COUNTY TECHNICAL SCHOOL MARPLE EDUCATION CENTER",
+  "institution": "Delaware County Technical School Marple Education Center",
   "city": "Broomall",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 430971,
-  "grad_rate": 62.9,
-  "grad_rate_rank": 1478,
-  "default_rate": 9.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 1554,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19008",
+  "email": true
 }

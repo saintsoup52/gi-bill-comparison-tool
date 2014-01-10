@@ -1,6 +1,6 @@
 {
   "facility_code": "11000149",
-  "institution": "UNIV OF WISCONSIN-MADISON",
+  "institution": "Univ Of Wisconsin-Madison",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 497,
   "cross": 240444,
-  "grad_rate": 82.0,
-  "grad_rate_rank": 125,
-  "default_rate": 1.4,
-  "avg_stu_loan_debt": 19897,
-  "avg_stu_loan_debt_rank": 1386,
-  "indicator_group": 1
+  "grad_rate": 81.8,
+  "grad_rate_rank": 131,
+  "default_rate": 1.6,
+  "avg_stu_loan_debt": 21000,
+  "avg_stu_loan_debt_rank": 1303,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "53706",
+  "email": true
 }

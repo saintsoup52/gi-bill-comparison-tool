@@ -1,6 +1,6 @@
 {
   "facility_code": "11946113",
-  "institution": "WESTERN ILLINOIS UNIVERSITY",
+  "institution": "Western Illinois University",
   "city": "Macomb",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 603,
   "cross": 149772,
-  "grad_rate": 53.4,
-  "grad_rate_rank": 764,
-  "default_rate": 10.7,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 54.4,
+  "grad_rate_rank": 755,
+  "default_rate": 7.7,
+  "avg_stu_loan_debt": 18900,
+  "avg_stu_loan_debt_rank": 1046,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "61455",
+  "email": true
 }

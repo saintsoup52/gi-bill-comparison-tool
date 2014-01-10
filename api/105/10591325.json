@@ -1,6 +1,6 @@
 {
   "facility_code": "10591325",
-  "institution": "CROSSROADS CORRECTIONAL CENTER",
+  "institution": "Crossroads Correctional Center",
   "city": "Cameron",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64429",
+  "email": false
 }

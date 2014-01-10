@@ -1,6 +1,6 @@
 {
   "facility_code": "24932025",
-  "institution": "BRYAN UNIVERSITY",
+  "institution": "Bryan University",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 31,
   "cross": 369516,
-  "grad_rate": 36.2,
-  "grad_rate_rank": 283,
-  "default_rate": 25.9,
-  "avg_stu_loan_debt": 11054,
-  "avg_stu_loan_debt_rank": 677,
-  "indicator_group": 3
+  "grad_rate": 45.2,
+  "grad_rate_rank": 336,
+  "default_rate": 31.4,
+  "avg_stu_loan_debt": 13679,
+  "avg_stu_loan_debt_rank": 933,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "65804",
+  "email": false
 }

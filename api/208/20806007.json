@@ -1,6 +1,6 @@
 {
   "facility_code": "20806007",
-  "institution": "TESCIS COMMUNICATIONS LLC",
+  "institution": "Tescis Communications Llc",
   "city": "Griswold",
   "state": "CT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "6351",
+  "email": false
 }

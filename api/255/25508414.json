@@ -1,6 +1,6 @@
 {
   "facility_code": "25508414",
-  "institution": "SAGE TECHNICAL SERVICE CDL TRAINING - MUNCIE",
+  "institution": "Sage Technical Service Cdl Training - Muncie",
   "city": "Muncie",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "47302",
+  "email": false
 }

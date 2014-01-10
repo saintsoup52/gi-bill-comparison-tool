@@ -1,6 +1,6 @@
 {
   "facility_code": "25595425",
-  "institution": "THE HAIR ACADEMY - 110",
+  "institution": "The Hair Academy - 110",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 448008,
-  "grad_rate": 57.7,
-  "grad_rate_rank": 1683,
-  "default_rate": 35.7,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 78.9,
+  "grad_rate_rank": 705,
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 11757,
+  "avg_stu_loan_debt_rank": 1740,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63501",
+  "email": false
 }

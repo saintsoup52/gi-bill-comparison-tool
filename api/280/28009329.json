@@ -1,6 +1,6 @@
 {
   "facility_code": "28009329",
-  "institution": "EMPIRE BEAUTY SCHOOL - LACONIA NH",
+  "institution": "Empire Beauty School - Laconia Nh",
   "city": "Laconia",
   "state": "NH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 182704,
-  "grad_rate": 88.9,
-  "grad_rate_rank": 301,
-  "default_rate": 19.8,
-  "avg_stu_loan_debt": 9205,
-  "avg_stu_loan_debt_rank": 1599,
-  "indicator_group": 5
+  "grad_rate": 60.0,
+  "grad_rate_rank": 1631,
+  "default_rate": 27.6,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "3246",
+  "email": true
 }

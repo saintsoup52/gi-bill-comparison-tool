@@ -1,6 +1,6 @@
 {
   "facility_code": "31000530",
-  "institution": "PRINCETON UNIVERSITY",
+  "institution": "Princeton University",
   "city": "Princeton",
   "state": "NJ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 186131,
-  "grad_rate": 95.5,
-  "grad_rate_rank": 19,
-  "default_rate": 2.2,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 96.0,
+  "grad_rate_rank": 12,
+  "default_rate": 2.7,
+  "avg_stu_loan_debt": 11500,
+  "avg_stu_loan_debt_rank": 256,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "8544",
+  "email": true
 }

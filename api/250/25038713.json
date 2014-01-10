@@ -1,6 +1,6 @@
 {
   "facility_code": "25038713",
-  "institution": "PIVOT POINT BEAUTY SCHOOL - BLOOMINGDALE",
+  "institution": "Pivot Point Beauty School - Bloomingdale",
   "city": "Bloomingdale",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 373216,
-  "grad_rate": 76.8,
-  "grad_rate_rank": 829,
-  "default_rate": 13.4,
-  "avg_stu_loan_debt": 12285,
-  "avg_stu_loan_debt_rank": 2368,
-  "indicator_group": 5
+  "grad_rate": 86.1,
+  "grad_rate_rank": 405,
+  "default_rate": 11.3,
+  "avg_stu_loan_debt": 11086,
+  "avg_stu_loan_debt_rank": 1617,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60108",
+  "email": true
 }

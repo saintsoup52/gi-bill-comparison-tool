@@ -1,6 +1,6 @@
 {
   "facility_code": "20021737",
-  "institution": "OREGON SW-WA GLAZIERS ARCHITECTURAL METAL & GLASSWORKERS JATC",
+  "institution": "Oregon Sw-Wa Glaziers Architectural Metal & Glassworkers Jatc",
   "city": "Gresham",
   "state": "OR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "97030",
+  "email": true
 }

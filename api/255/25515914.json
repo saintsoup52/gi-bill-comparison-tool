@@ -1,6 +1,6 @@
 {
   "facility_code": "25515914",
-  "institution": "ROGER'S ACADEMY OF HAIR DESIGN",
+  "institution": "Roger'S Academy Of Hair Design",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 152309,
-  "grad_rate": 73.0,
-  "grad_rate_rank": 1019,
-  "default_rate": 19.2,
-  "avg_stu_loan_debt": 4820,
-  "avg_stu_loan_debt_rank": 777,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 15.4,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "47712",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31900048",
-  "institution": "DAVIS & ELKINS COLLEGE",
+  "institution": "Davis & Elkins College",
   "city": "Elkins",
   "state": "WV",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 37,
   "cross": 237358,
-  "grad_rate": 36.0,
-  "grad_rate_rank": 1345,
-  "default_rate": 12.3,
-  "avg_stu_loan_debt": 13400,
-  "avg_stu_loan_debt_rank": 580,
-  "indicator_group": 1
+  "grad_rate": 48.4,
+  "grad_rate_rank": 948,
+  "default_rate": 17.9,
+  "avg_stu_loan_debt": 15125,
+  "avg_stu_loan_debt_rank": 558,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "26241",
+  "email": true
 }

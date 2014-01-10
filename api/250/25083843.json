@@ -1,6 +1,6 @@
 {
   "facility_code": "25083843",
-  "institution": "TEXAS INSTITUTE OF EQUINE DENTISTRY",
+  "institution": "Texas Institute Of Equine Dentistry",
   "city": "Weatherford",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "76088",
+  "email": false
 }

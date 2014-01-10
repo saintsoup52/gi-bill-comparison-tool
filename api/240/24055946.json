@@ -1,6 +1,6 @@
 {
   "facility_code": "24055946",
-  "institution": "SOUTHEAST CULINARY AND HOSPITALITY COLLEGE",
+  "institution": "Southeast Culinary And Hospitality College",
   "city": "Bristol",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 4,
   "cross": 451608,
-  "grad_rate": 63.6,
-  "grad_rate_rank": 104,
-  "default_rate": 33.3,
-  "avg_stu_loan_debt": 9090,
-  "avg_stu_loan_debt_rank": 726,
-  "indicator_group": 2
+  "grad_rate": 26.7,
+  "grad_rate_rank": 733,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 13878,
+  "avg_stu_loan_debt_rank": 945,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "24201",
+  "email": true
 }

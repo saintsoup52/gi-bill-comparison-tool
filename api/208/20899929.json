@@ -1,6 +1,6 @@
 {
   "facility_code": "20899929",
-  "institution": "MARTINEAU ELECTRIC INC.",
+  "institution": "Martineau Electric Inc.",
   "city": "Dover",
   "state": "NH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "3820",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31383032",
-  "institution": "D'YOUVILLE COLLEGE",
+  "institution": "D'Youville College",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 119,
   "cross": 190716,
-  "grad_rate": 41.4,
-  "grad_rate_rank": 1183,
-  "default_rate": 10.8,
-  "avg_stu_loan_debt": 20060,
-  "avg_stu_loan_debt_rank": 1438,
-  "indicator_group": 1
+  "grad_rate": 40.1,
+  "grad_rate_rank": 1246,
+  "default_rate": 12.3,
+  "avg_stu_loan_debt": 20325,
+  "avg_stu_loan_debt_rank": 1232,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14201",
+  "email": true
 }

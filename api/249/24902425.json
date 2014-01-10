@@ -1,6 +1,6 @@
 {
   "facility_code": "24902425",
-  "institution": "VATTEROTT COLLEGE-SPRINGFIELD",
+  "institution": "Vatterott College-Springfield",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 51,
   "cross": 404365,
-  "grad_rate": 59.5,
-  "grad_rate_rank": 137,
-  "default_rate": 25.5,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 815,
-  "indicator_group": 3
+  "grad_rate": 60.0,
+  "grad_rate_rank": 291,
+  "default_rate": 23.8,
+  "avg_stu_loan_debt": 19222,
+  "avg_stu_loan_debt_rank": 706,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "65807",
+  "email": true
 }

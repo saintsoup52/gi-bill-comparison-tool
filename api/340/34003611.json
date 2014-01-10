@@ -1,6 +1,6 @@
 {
   "facility_code": "34003611",
-  "institution": "OXFORD COLLEGE OF EMORY UNIVERSITY",
+  "institution": "Oxford College Of Emory University",
   "city": "Oxford",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 139658,
-  "grad_rate": 89.8,
-  "grad_rate_rank": 65,
-  "default_rate": 1.7,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 1224,
-  "indicator_group": 1
+  "grad_rate": 90.1,
+  "grad_rate_rank": 62,
+  "default_rate": 2.3,
+  "avg_stu_loan_debt": 20250,
+  "avg_stu_loan_debt_rank": 1223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30054",
+  "email": false
 }

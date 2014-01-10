@@ -1,6 +1,6 @@
 {
   "facility_code": "25161205",
-  "institution": "GNOMON SCHOOL OF VISUAL EFFECTS",
+  "institution": "Gnomon School Of Visual Effects",
   "city": "Hollywood",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 3,
   "cross": 449384,
-  "grad_rate": 100.0,
-  "grad_rate_rank": 1,
-  "default_rate": 6.0,
-  "avg_stu_loan_debt": 24166,
-  "avg_stu_loan_debt_rank": 2559,
-  "indicator_group": 5
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 5.2,
+  "avg_stu_loan_debt": 16500,
+  "avg_stu_loan_debt_rank": 1951,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "90038",
+  "email": true
 }

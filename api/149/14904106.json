@@ -1,6 +1,6 @@
 {
   "facility_code": "14904106",
-  "institution": "WESTERN COLORADO COMMUNITY COLLEGE",
+  "institution": "Western Colorado Community College",
   "city": "Grand Junction",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "81505",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32910146",
-  "institution": "SENTARA COLLEGE OF HEALTH SCIENCES",
+  "institution": "Sentara College Of Health Sciences",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 33,
   "cross": 232885,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 5.8,
-  "avg_stu_loan_debt": 16250,
-  "avg_stu_loan_debt_rank": 798,
-  "indicator_group": 3
+  "grad_rate": 77.2,
+  "grad_rate_rank": 91,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 651,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "23320",
+  "email": true
 }

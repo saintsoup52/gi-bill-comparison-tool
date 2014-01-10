@@ -1,6 +1,6 @@
 {
   "facility_code": "20A45504",
-  "institution": "VA MEDICAL CENTER HOSPITAL DIV",
+  "institution": "Va Medical Center Hospital Div",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72205",
+  "email": "No (SCO)"
 }

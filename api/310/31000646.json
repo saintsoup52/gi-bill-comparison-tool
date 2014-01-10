@@ -1,6 +1,6 @@
 {
   "facility_code": "31000646",
-  "institution": "LYNCHBURG COLLEGE",
+  "institution": "Lynchburg College",
   "city": "Lynchburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 80,
   "cross": 232609,
-  "grad_rate": 52.1,
-  "grad_rate_rank": 807,
-  "default_rate": 6.3,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 57.1,
+  "grad_rate_rank": 666,
+  "default_rate": 4.5,
+  "avg_stu_loan_debt": 22451,
+  "avg_stu_loan_debt_rank": 1463,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24501",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11927125",
-  "institution": "MISSOURI SOUTHERN STATE UNIVERSITY",
+  "institution": "Missouri Southern State University",
   "city": "Joplin",
   "state": "MO",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 296,
   "cross": 178341,
   "grad_rate": 33.0,
-  "grad_rate_rank": 1423,
-  "default_rate": 12.2,
-  "avg_stu_loan_debt": 11250,
-  "avg_stu_loan_debt_rank": 319,
-  "indicator_group": 1
+  "grad_rate_rank": 1451,
+  "default_rate": 14.1,
+  "avg_stu_loan_debt": 10800,
+  "avg_stu_loan_debt_rank": 215,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64801",
+  "email": true
 }

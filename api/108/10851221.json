@@ -1,6 +1,6 @@
 {
   "facility_code": "10851221",
-  "institution": "UNIVERSITY OF MASSACHUSETTS-DARTMOUTHDEPARTMENT OF PUBLIC SAFETY",
+  "institution": "University Of Massachusetts-Dartmouthdepartment Of Public Safety",
   "city": "Dartmouth",
   "state": "MA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "2747",
+  "email": true
 }

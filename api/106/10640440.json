@@ -1,6 +1,6 @@
 {
   "facility_code": "10640440",
-  "institution": "DORCHESTER COUNTY SHERIFFS DEPARTMENT",
+  "institution": "Dorchester County Sheriffs Department",
   "city": "St George",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29477",
+  "email": false
 }

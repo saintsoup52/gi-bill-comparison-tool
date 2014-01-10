@@ -1,6 +1,6 @@
 {
   "facility_code": "20W45338",
-  "institution": "LAWRUK MACHINE &  TOOL COMPANY INC",
+  "institution": "Lawruk Machine &  Tool Company Inc",
   "city": "Altoona",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "16602",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31101205",
-  "institution": "UNION INSTITUTE & UNIVERSITY",
+  "institution": "Union Institute & University",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 92,
   "cross": 206279,
-  "grad_rate": 9.1,
-  "grad_rate_rank": 1789,
-  "default_rate": 5.5,
-  "avg_stu_loan_debt": 18125,
-  "avg_stu_loan_debt_rank": 1101,
-  "indicator_group": 1
+  "grad_rate": 26.7,
+  "grad_rate_rank": 1603,
+  "default_rate": 7.5,
+  "avg_stu_loan_debt": 17240,
+  "avg_stu_loan_debt_rank": 819,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "95834",
+  "email": false
 }

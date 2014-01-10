@@ -1,6 +1,6 @@
 {
   "facility_code": "28020537",
-  "institution": "EAST WEST COLLEGE OF THE HEALING ARTS",
+  "institution": "East West College Of The Healing Arts",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 11,
   "cross": 208637,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 5.9,
+  "default_rate": 8.8,
   "avg_stu_loan_debt": 12160,
-  "avg_stu_loan_debt_rank": 2364,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1797,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "97232",
+  "email": true
 }

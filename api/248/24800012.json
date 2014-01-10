@@ -1,6 +1,6 @@
 {
   "facility_code": "24800012",
-  "institution": "STEVENS-HENAGER COLLEGE BOISE",
+  "institution": "Stevens-Henager College Boise",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 84,
   "cross": 460899,
-  "grad_rate": 32.8,
-  "grad_rate_rank": 461,
-  "default_rate": 24.7,
-  "avg_stu_loan_debt": 15741,
-  "avg_stu_loan_debt_rank": 1149,
-  "indicator_group": 2
+  "grad_rate": 46.4,
+  "grad_rate_rank": 317,
+  "default_rate": 34.1,
+  "avg_stu_loan_debt": 14750,
+  "avg_stu_loan_debt_rank": 974,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "83709",
+  "email": true
 }

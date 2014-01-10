@@ -1,6 +1,6 @@
 {
   "facility_code": "25057518",
-  "institution": "OMEGA INSTITUTE OF COSMETOLOGY",
+  "institution": "Omega Institute Of Cosmetology",
   "city": "Houma",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 439844,
-  "grad_rate": 86.4,
-  "grad_rate_rank": 382,
-  "default_rate": 25.0,
+  "grad_rate": 79.5,
+  "grad_rate_rank": 678,
+  "default_rate": 0.0,
   "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 845,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 309,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "70360",
+  "email": false
 }

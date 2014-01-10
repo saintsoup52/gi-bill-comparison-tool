@@ -1,6 +1,6 @@
 {
   "facility_code": "32000246",
-  "institution": "LYNCHBURG GENERAL HOSP SCH OF NRS",
+  "institution": "Lynchburg General Hosp Sch Of Nrs",
   "city": "Lynchburg",
   "state": "VA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 232618,
-  "grad_rate": 53.3,
-  "grad_rate_rank": 1830,
-  "default_rate": 7.8,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "grad_rate": 57.1,
+  "grad_rate_rank": 1731,
+  "default_rate": 2.0,
+  "avg_stu_loan_debt": 13624,
+  "avg_stu_loan_debt_rank": 1871,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "24501",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25149405",
-  "institution": "EVEREST COLLEGE-ONTARIO",
+  "institution": "Everest College-Ontario",
   "city": "Ontario",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 371265,
-  "grad_rate": 74.1,
-  "grad_rate_rank": 970,
-  "default_rate": 31.3,
+  "grad_rate": 75.5,
+  "grad_rate_rank": 893,
+  "default_rate": 19.3,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "91761",
+  "email": true
 }

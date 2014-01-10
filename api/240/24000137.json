@@ -1,6 +1,6 @@
 {
   "facility_code": "24000137",
-  "institution": "THE ART INSTITUTE OF PORTLAND",
+  "institution": "The Art Institute Of Portland",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 178,
   "cross": 208239,
-  "grad_rate": 35.3,
-  "grad_rate_rank": 1357,
-  "default_rate": 12.4,
-  "avg_stu_loan_debt": 21698,
-  "avg_stu_loan_debt_rank": 1608,
-  "indicator_group": 1
+  "grad_rate": 28.7,
+  "grad_rate_rank": 1561,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 22834,
+  "avg_stu_loan_debt_rank": 1504,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "97209",
+  "email": true
 }

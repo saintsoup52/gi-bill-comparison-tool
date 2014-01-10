@@ -1,6 +1,6 @@
 {
   "facility_code": "18090738",
-  "institution": "VENANGO TECHNOLOGY CENTER - PRACTICAL NURSING",
+  "institution": "Venango Technology Center - Practical Nursing",
   "city": "Oil City",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 5,
   "cross": 418524,
-  "grad_rate": 53.8,
-  "grad_rate_rank": 1815,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 12705,
-  "avg_stu_loan_debt_rank": 2396,
-  "indicator_group": 5
+  "grad_rate": 60.0,
+  "grad_rate_rank": 1631,
+  "default_rate": 10.0,
+  "avg_stu_loan_debt": 12794,
+  "avg_stu_loan_debt_rank": 1828,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "16301",
+  "email": false
 }

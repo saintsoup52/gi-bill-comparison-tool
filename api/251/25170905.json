@@ -1,6 +1,6 @@
 {
   "facility_code": "25170905",
-  "institution": "PAUL MITCHELL THE SCHOOL",
+  "institution": "Paul Mitchell The School",
   "city": "Santa Barbara",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 441274,
-  "grad_rate": 69.0,
-  "grad_rate_rank": 1211,
-  "default_rate": 10.5,
+  "grad_rate": 58.6,
+  "grad_rate_rank": 1684,
+  "default_rate": 18.8,
   "avg_stu_loan_debt": 10556,
-  "avg_stu_loan_debt_rank": 2196,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1562,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93101",
+  "email": false
 }

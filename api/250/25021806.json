@@ -1,6 +1,6 @@
 {
   "facility_code": "25021806",
-  "institution": "THE SALON PROFESSIONAL ACADEMY",
+  "institution": "The Salon Professional Academy",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 459295,
-  "grad_rate": 61.6,
-  "grad_rate_rank": 1530,
-  "default_rate": null,
-  "avg_stu_loan_debt": 6333,
-  "avg_stu_loan_debt_rank": 1008,
-  "indicator_group": 5
+  "grad_rate": 70.0,
+  "grad_rate_rank": 1175,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9250,
+  "avg_stu_loan_debt_rank": 1026,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80918",
+  "email": true
 }

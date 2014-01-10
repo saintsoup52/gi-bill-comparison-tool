@@ -1,6 +1,6 @@
 {
   "facility_code": "25057813",
-  "institution": "ILLINOIS SCHOOL OF HEALTH CAREERS",
+  "institution": "Illinois School Of Health Careers",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 411374,
-  "grad_rate": 57.4,
-  "grad_rate_rank": 1694,
-  "default_rate": 21.4,
+  "grad_rate": 59.0,
+  "grad_rate_rank": 1669,
+  "default_rate": 16.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60603",
+  "email": true
 }

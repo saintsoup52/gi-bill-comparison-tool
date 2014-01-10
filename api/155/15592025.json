@@ -1,6 +1,6 @@
 {
   "facility_code": "15592025",
-  "institution": "BROOKFIELD AREA CAREER CENTER",
+  "institution": "Brookfield Area Career Center",
   "city": "Brookfield",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "64628",
+  "email": false
 }

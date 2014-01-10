@@ -1,6 +1,6 @@
 {
   "facility_code": "25125405",
-  "institution": "CAREER CARE INSTITUTE (LANCASTER)",
+  "institution": "Career Care Institute (Lancaster)",
   "city": "Lancaster",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 32,
   "cross": 446118,
-  "grad_rate": 72.0,
-  "grad_rate_rank": 1081,
-  "default_rate": 26.1,
-  "avg_stu_loan_debt": 7600,
-  "avg_stu_loan_debt_rank": 1260,
-  "indicator_group": 5
+  "grad_rate": 78.6,
+  "grad_rate_rank": 720,
+  "default_rate": 28.2,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93534",
+  "email": false
 }

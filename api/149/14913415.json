@@ -1,6 +1,6 @@
 {
   "facility_code": "14913415",
-  "institution": "KIRKWOOD COMMUNITY COLLEGE",
+  "institution": "Kirkwood Community College",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 640,
   "cross": 153737,
-  "grad_rate": 22.0,
-  "grad_rate_rank": 796,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 8767,
-  "avg_stu_loan_debt_rank": 705,
-  "indicator_group": 2
+  "grad_rate": 20.1,
+  "grad_rate_rank": 933,
+  "default_rate": 22.9,
+  "avg_stu_loan_debt": 8622,
+  "avg_stu_loan_debt_rank": 595,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "52406",
+  "email": false
 }

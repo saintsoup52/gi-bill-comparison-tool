@@ -1,6 +1,6 @@
 {
   "facility_code": "25027303",
-  "institution": "HDS TRUCK DRIVING INSTITUTE",
+  "institution": "Hds Truck Driving Institute",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 102,
   "cross": 439668,
-  "grad_rate": 85.1,
-  "grad_rate_rank": 429,
-  "default_rate": 21.1,
+  "grad_rate": 94.8,
+  "grad_rate_rank": 153,
+  "default_rate": 34.8,
   "avg_stu_loan_debt": 6083,
-  "avg_stu_loan_debt_rank": 970,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 423,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "85731",
+  "email": false
 }

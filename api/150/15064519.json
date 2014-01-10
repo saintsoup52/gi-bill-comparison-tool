@@ -1,6 +1,6 @@
 {
   "facility_code": "15064519",
-  "institution": "WISCASSET HIGH SCHOOL (DAY PROGRAM)",
+  "institution": "Wiscasset High School (Day Program)",
   "city": "Wiscasset",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4578",
+  "email": false
 }

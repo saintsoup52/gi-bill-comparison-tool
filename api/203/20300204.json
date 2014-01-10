@@ -1,6 +1,6 @@
 {
   "facility_code": "20300204",
-  "institution": "NIGHTHAWK CUSTOM",
+  "institution": "Nighthawk Custom",
   "city": "Berryville",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72616",
+  "email": false
 }

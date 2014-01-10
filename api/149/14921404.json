@@ -1,6 +1,6 @@
 {
   "facility_code": "14921404",
-  "institution": "COLLEGE OF THE OUACHITAS",
+  "institution": "College Of The Ouachitas",
   "city": "Malvern",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 29,
   "cross": 107521,
-  "grad_rate": 29.4,
-  "grad_rate_rank": 346,
-  "default_rate": 17.9,
-  "avg_stu_loan_debt": 5750,
-  "avg_stu_loan_debt_rank": 222,
-  "indicator_group": 3
+  "grad_rate": 29.3,
+  "grad_rate_rank": 547,
+  "default_rate": 26.3,
+  "avg_stu_loan_debt": 4850,
+  "avg_stu_loan_debt_rank": 87,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "72104",
+  "email": false
 }

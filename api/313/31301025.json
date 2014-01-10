@@ -1,6 +1,6 @@
 {
   "facility_code": "31301025",
-  "institution": "ST. LOUIS UNIVERSITY SCHOOL OF MEDICINE",
+  "institution": "St. Louis University School Of Medicine",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 179159,
-  "grad_rate": 60.8,
-  "grad_rate_rank": 539,
-  "default_rate": 4.1,
-  "avg_stu_loan_debt": 22475,
-  "avg_stu_loan_debt_rank": 1704,
-  "indicator_group": 1
+  "grad_rate": 70.2,
+  "grad_rate_rank": 311,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 24750,
+  "avg_stu_loan_debt_rank": 1703,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63103",
+  "email": false
 }

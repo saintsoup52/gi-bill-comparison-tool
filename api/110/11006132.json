@@ -1,6 +1,6 @@
 {
   "facility_code": "11006132",
-  "institution": "BROOKLYN COLLEGE",
+  "institution": "Brooklyn College",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 216,
   "cross": 190549,
-  "grad_rate": 48.4,
-  "grad_rate_rank": 947,
-  "default_rate": 5.9,
-  "avg_stu_loan_debt": 10000,
-  "avg_stu_loan_debt_rank": 253,
-  "indicator_group": 1
+  "grad_rate": 53.8,
+  "grad_rate_rank": 779,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 10500,
+  "avg_stu_loan_debt_rank": 176,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "11210",
+  "email": true
 }

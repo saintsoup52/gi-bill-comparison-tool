@@ -1,6 +1,6 @@
 {
   "facility_code": "24907432",
-  "institution": "ASA INSTITUTE",
+  "institution": "Asa Institute",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 83,
   "cross": 404994,
-  "grad_rate": 31.0,
-  "grad_rate_rank": 503,
-  "default_rate": 37.3,
-  "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 755,
-  "indicator_group": 2
+  "grad_rate": 33.9,
+  "grad_rate_rank": 528,
+  "default_rate": 22.4,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 779,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "11201",
+  "email": true
 }

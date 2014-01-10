@@ -1,6 +1,6 @@
 {
   "facility_code": "10194022",
-  "institution": "15TH DISTRICT COURT PROBATION",
+  "institution": "15th District Court Probation",
   "city": "Ann Arbor",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48107",
+  "email": true
 }

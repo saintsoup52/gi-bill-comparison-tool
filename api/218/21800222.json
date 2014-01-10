@@ -1,6 +1,6 @@
 {
   "facility_code": "21800222",
-  "institution": "UNIVERSITY OF PHOENIX WEST MICHIGAN CAMPUS",
+  "institution": "University Of Phoenix West Michigan Campus",
   "city": "Walker",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 76,
   "cross": 438416,
-  "grad_rate": 7.1,
-  "grad_rate_rank": 1809,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 11750,
-  "avg_stu_loan_debt_rank": 347,
-  "indicator_group": 1
+  "grad_rate": 14.4,
+  "grad_rate_rank": 1787,
+  "default_rate": 26.0,
+  "avg_stu_loan_debt": 16081,
+  "avg_stu_loan_debt_rank": 637,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "49544",
+  "email": true
 }

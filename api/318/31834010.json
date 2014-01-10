@@ -1,6 +1,6 @@
 {
   "facility_code": "31834010",
-  "institution": "CITY COLLEGE - FT LAUDERDALE",
+  "institution": "City College - Ft Lauderdale",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 39,
   "cross": 244233,
-  "grad_rate": 57.9,
-  "grad_rate_rank": 154,
-  "default_rate": 27.6,
-  "avg_stu_loan_debt": 16890,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 2
+  "grad_rate": 38.0,
+  "grad_rate_rank": 443,
+  "default_rate": 22.6,
+  "avg_stu_loan_debt": 19642,
+  "avg_stu_loan_debt_rank": 1183,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "33309",
+  "email": true
 }

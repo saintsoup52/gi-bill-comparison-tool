@@ -1,6 +1,6 @@
 {
   "facility_code": "10N10032",
-  "institution": "UNIVERSITY POLICE SUNY OSWEGO",
+  "institution": "University Police Suny Oswego",
   "city": "Oswego",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "13126",
+  "email": false
 }

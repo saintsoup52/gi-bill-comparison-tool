@@ -1,6 +1,6 @@
 {
   "facility_code": "11381632",
-  "institution": "SUNY COLLEGE OF ENVIRONMENTAL SCIENCE & FORESTRY",
+  "institution": "Suny College Of Environmental Science & Forestry",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 47,
   "cross": 196103,
-  "grad_rate": 65.8,
-  "grad_rate_rank": 410,
-  "default_rate": 3.9,
-  "avg_stu_loan_debt": 17372,
-  "avg_stu_loan_debt_rank": 1000,
-  "indicator_group": 1
+  "grad_rate": 67.4,
+  "grad_rate_rank": 363,
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 19124,
+  "avg_stu_loan_debt_rank": 1088,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "13210",
+  "email": true
 }

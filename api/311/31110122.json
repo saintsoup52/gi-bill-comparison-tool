@@ -1,6 +1,6 @@
 {
   "facility_code": "31110122",
-  "institution": "WALSH COLLEGE OF ACCOUNTANCY AND BUSINESS ADMINISTRATION",
+  "institution": "Walsh College Of Accountancy And Business Administration",
   "city": "Troy",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 69,
   "cross": 172608,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 3.4,
-  "avg_stu_loan_debt": 14493,
-  "avg_stu_loan_debt_rank": 676,
-  "indicator_group": 1
+  "default_rate": 3.7,
+  "avg_stu_loan_debt": 13806,
+  "avg_stu_loan_debt_rank": 421,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "48007",
+  "email": true
 }

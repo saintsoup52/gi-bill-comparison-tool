@@ -1,6 +1,6 @@
 {
   "facility_code": "20010414",
-  "institution": "INDIANA KENTUCKY REGIONAL COUNCIL OF CARPENTERS WARSAW CAMPUS",
+  "institution": "Indiana Kentucky Regional Council Of Carpenters Warsaw Campus",
   "city": "Warsaw",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46582",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10658525",
-  "institution": "MISSOURI ARMY NATIONAL GUARD - BTRY. B (-) 1/128TH FA",
+  "institution": "Missouri Army National Guard - Btry. B (-) 1/128th Fa",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "63501",
+  "email": false
 }

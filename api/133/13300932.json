@@ -1,6 +1,6 @@
 {
   "facility_code": "13300932",
-  "institution": "SUNY COLLEGE AT FREDONIA",
+  "institution": "Suny College At Fredonia",
   "city": "Fredonia",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 88,
   "cross": 196158,
-  "grad_rate": 63.2,
-  "grad_rate_rank": 479,
-  "default_rate": 7.3,
-  "avg_stu_loan_debt": 18125,
-  "avg_stu_loan_debt_rank": 1101,
-  "indicator_group": 1
+  "grad_rate": 64.2,
+  "grad_rate_rank": 459,
+  "default_rate": 6.4,
+  "avg_stu_loan_debt": 19878,
+  "avg_stu_loan_debt_rank": 1172,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14063",
+  "email": false
 }

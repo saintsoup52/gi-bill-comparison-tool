@@ -1,6 +1,6 @@
 {
   "facility_code": "20D06533",
-  "institution": "C.T. WILSON CONSTRUCTION CO. INC.",
+  "institution": "C.T. Wilson Construction Co. Inc.",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "27702",
+  "email": true
 }

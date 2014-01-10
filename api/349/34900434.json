@@ -1,6 +1,6 @@
 {
   "facility_code": "34900434",
-  "institution": "UNITED TRIBES TECHNICAL COLLEGE",
+  "institution": "United Tribes Technical College",
   "city": "Bismarck",
   "state": "ND",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 200554,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 183,
-  "indicator_group": 3
+  "grad_rate": 14.3,
+  "grad_rate_rank": 1139,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 5350,
+  "avg_stu_loan_debt_rank": 210,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "58504",
+  "email": false
 }

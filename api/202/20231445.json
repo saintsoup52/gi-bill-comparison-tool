@@ -1,6 +1,6 @@
 {
   "facility_code": "20231445",
-  "institution": "PELLETIER PLUMBING AND HEATING",
+  "institution": "Pelletier Plumbing And Heating",
   "city": "Stockbridge",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5772",
+  "email": "No (SCO)"
 }

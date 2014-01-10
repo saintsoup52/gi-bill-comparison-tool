@@ -1,6 +1,6 @@
 {
   "facility_code": "18816530",
-  "institution": "MERCER COUNTY TECHNICAL SCHOOLS - ASSUNPINK CENTER",
+  "institution": "Mercer County Technical Schools - Assunpink Center",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8609",
+  "email": false
 }

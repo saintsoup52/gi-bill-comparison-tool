@@ -1,6 +1,6 @@
 {
   "facility_code": "31041243",
-  "institution": "LETOURNEAU UNIVERSITY HOUSTON",
+  "institution": "Letourneau University Houston",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 44,
   "cross": 226231,
-  "grad_rate": 50.3,
-  "grad_rate_rank": 870,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 24128,
-  "avg_stu_loan_debt_rank": 1871,
-  "indicator_group": 1
+  "grad_rate": 60.8,
+  "grad_rate_rank": 543,
+  "default_rate": 9.3,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "77024",
+  "email": false
 }

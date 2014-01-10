@@ -1,6 +1,6 @@
 {
   "facility_code": "34005821",
-  "institution": "BAY STATE COLLEGE",
+  "institution": "Bay State College",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 52,
   "cross": 164641,
-  "grad_rate": 22.4,
-  "grad_rate_rank": 783,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 12465,
-  "avg_stu_loan_debt_rank": 1004,
-  "indicator_group": 2
+  "grad_rate": 47.1,
+  "grad_rate_rank": 304,
+  "default_rate": 17.4,
+  "avg_stu_loan_debt": 17528,
+  "avg_stu_loan_debt_rank": 1113,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "2116",
+  "email": true
 }

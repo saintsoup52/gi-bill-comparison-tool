@@ -1,6 +1,6 @@
 {
   "facility_code": "25200316",
-  "institution": "HAYS ACADEMY OF HAIR DESIGN",
+  "institution": "Hays Academy Of Hair Design",
   "city": "Hays",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 155159,
-  "grad_rate": 25.0,
-  "grad_rate_rank": 2154,
-  "default_rate": 8.1,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 73.5,
+  "grad_rate_rank": 1008,
+  "default_rate": 12.5,
+  "avg_stu_loan_debt": 11340,
+  "avg_stu_loan_debt_rank": 1627,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "67601",
+  "email": false
 }

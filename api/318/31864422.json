@@ -1,6 +1,6 @@
 {
   "facility_code": "31864422",
-  "institution": "BAKER COLLEGE - AUBURN HILLS",
+  "institution": "Baker College - Auburn Hills",
   "city": "Auburn Hills",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 104,
   "cross": 404073,
-  "grad_rate": 12.6,
-  "grad_rate_rank": 1115,
-  "default_rate": 18.8,
-  "avg_stu_loan_debt": 10120,
-  "avg_stu_loan_debt_rank": 856,
-  "indicator_group": 2
+  "grad_rate": 12.2,
+  "grad_rate_rank": 1221,
+  "default_rate": 19.1,
+  "avg_stu_loan_debt": 11394,
+  "avg_stu_loan_debt_rank": 819,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "48326",
+  "email": true
 }

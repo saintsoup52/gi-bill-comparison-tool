@@ -1,6 +1,6 @@
 {
   "facility_code": "25104943",
-  "institution": "RIVER CITY SCH OF MASSAGE THERAPY WALZEM",
+  "institution": "River City Sch Of Massage Therapy Walzem",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "78218",
+  "email": false
 }

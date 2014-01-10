@@ -1,6 +1,6 @@
 {
   "facility_code": "26211264",
-  "institution": "TRAVEL INSTITUTE OF THE PACIFIC",
+  "institution": "Travel Institute Of The Pacific",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 23,
   "cross": 141945,
-  "grad_rate": 88.5,
-  "grad_rate_rank": 321,
-  "default_rate": 26.4,
-  "avg_stu_loan_debt": 7056,
-  "avg_stu_loan_debt_rank": 1156,
-  "indicator_group": 5
+  "grad_rate": 87.5,
+  "grad_rate_rank": 344,
+  "default_rate": 35.0,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "96814",
+  "email": false
 }

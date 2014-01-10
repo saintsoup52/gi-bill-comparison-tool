@@ -1,6 +1,6 @@
 {
   "facility_code": "25479210",
-  "institution": "FLORIDA EDUCATION INSTITUTE",
+  "institution": "Florida Education Institute",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 441423,
-  "grad_rate": 77.3,
-  "grad_rate_rank": 802,
-  "default_rate": 6.8,
+  "grad_rate": 76.3,
+  "grad_rate_rank": 849,
+  "default_rate": 13.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33144",
+  "email": false
 }

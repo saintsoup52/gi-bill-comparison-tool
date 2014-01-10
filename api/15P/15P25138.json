@@ -1,6 +1,6 @@
 {
   "facility_code": "15P25138",
-  "institution": "WARRIOR RUN HIGH SCHOOL",
+  "institution": "Warrior Run High School",
   "city": "Turbotville",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17772",
+  "email": true
 }

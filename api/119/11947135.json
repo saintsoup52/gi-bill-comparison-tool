@@ -1,6 +1,6 @@
 {
   "facility_code": "11947135",
-  "institution": "CLEVELAND STATE UNIVERSITY",
+  "institution": "Cleveland State University",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 539,
   "cross": 202134,
-  "grad_rate": 29.9,
-  "grad_rate_rank": 1501,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 16750,
-  "avg_stu_loan_debt_rank": 915,
-  "indicator_group": 1
+  "grad_rate": 33.6,
+  "grad_rate_rank": 1426,
+  "default_rate": 11.1,
+  "avg_stu_loan_debt": 18500,
+  "avg_stu_loan_debt_rank": 966,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "44115",
+  "email": false
 }

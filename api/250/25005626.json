@@ -1,6 +1,6 @@
 {
   "facility_code": "25005626",
-  "institution": "BOLD BEAUTY ACADEMY",
+  "institution": "Bold Beauty Academy",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 444316,
-  "grad_rate": 84.0,
-  "grad_rate_rank": 460,
-  "default_rate": 8.6,
-  "avg_stu_loan_debt": 10160,
-  "avg_stu_loan_debt_rank": 2163,
-  "indicator_group": 5
+  "grad_rate": 88.9,
+  "grad_rate_rank": 305,
+  "default_rate": 18.0,
+  "avg_stu_loan_debt": 9134,
+  "avg_stu_loan_debt_rank": 1016,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "59101",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20660030",
-  "institution": "BRICKLAYERS AND ALLIED CRAFTWORKERS LOCAL 2",
+  "institution": "Bricklayers And Allied Craftworkers Local 2",
   "city": "Bordentown",
   "state": "NJ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "8505",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14927401",
-  "institution": "H. COUNCILL TRENHOLM STATE TECHNICAL COLLEGE",
+  "institution": "H. Councill Trenholm State Technical College",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 227,
   "cross": 102313,
-  "grad_rate": 34.8,
-  "grad_rate_rank": 296,
+  "grad_rate": 34.1,
+  "grad_rate_rank": 507,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 3
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "36108",
+  "email": true
 }

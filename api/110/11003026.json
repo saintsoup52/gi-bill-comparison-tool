@@ -1,6 +1,6 @@
 {
   "facility_code": "11003026",
-  "institution": "MONTANA TECH OF THE UNIVERSITY OF MONTANA",
+  "institution": "Montana Tech Of The University Of Montana",
   "city": "Butte",
   "state": "MT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 158,
   "cross": 180416,
-  "grad_rate": 40.9,
-  "grad_rate_rank": 1200,
-  "default_rate": 6.7,
-  "avg_stu_loan_debt": 11459,
-  "avg_stu_loan_debt_rank": 332,
-  "indicator_group": 1
+  "grad_rate": 48.3,
+  "grad_rate_rank": 954,
+  "default_rate": 9.4,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 359,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "59701",
+  "email": true
 }

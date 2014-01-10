@@ -1,6 +1,6 @@
 {
   "facility_code": "20R03938",
-  "institution": "CRAIG A. MCCLEAN-ATTORNEY AT LAW",
+  "institution": "Craig A. Mcclean-Attorney At Law",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "15213",
+  "email": false
 }

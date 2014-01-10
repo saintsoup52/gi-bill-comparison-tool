@@ -1,6 +1,6 @@
 {
   "facility_code": "18519932",
-  "institution": "BOCES ERIE 2 CHAUTAUQUA-CATTARAUGUS",
+  "institution": "Boces Erie 2 Chautauqua-Cattaraugus",
   "city": "Angola",
   "state": "NY",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 7,
   "cross": 383525,
   "grad_rate": 78.6,
-  "grad_rate_rank": 721,
-  "default_rate": 26.3,
+  "grad_rate_rank": 720,
+  "default_rate": 23.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "14006",
+  "email": true
 }

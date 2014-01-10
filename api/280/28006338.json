@@ -1,6 +1,6 @@
 {
   "facility_code": "28006338",
-  "institution": "PENNSYLVANIA  ACADEMY OF COSMETOLOGY ARTS & SCIENCES",
+  "institution": "Pennsylvania  Academy Of Cosmetology Arts & Sciences",
   "city": "Dubois",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 214962,
-  "grad_rate": 77.6,
-  "grad_rate_rank": 786,
-  "default_rate": 14.8,
-  "avg_stu_loan_debt": 8300,
-  "avg_stu_loan_debt_rank": 1442,
-  "indicator_group": 5
+  "grad_rate": 75.0,
+  "grad_rate_rank": 905,
+  "default_rate": 18.9,
+  "avg_stu_loan_debt": 8700,
+  "avg_stu_loan_debt_rank": 936,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15801",
+  "email": false
 }

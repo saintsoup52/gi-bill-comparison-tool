@@ -1,6 +1,6 @@
 {
   "facility_code": "20J70638",
-  "institution": "B&R ELECTRICAL CONTRACTORS",
+  "institution": "B&R Electrical Contractors",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "17404",
+  "email": false
 }

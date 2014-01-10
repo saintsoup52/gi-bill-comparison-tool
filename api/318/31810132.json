@@ -1,6 +1,6 @@
 {
   "facility_code": "31810132",
-  "institution": "NYACK COLLEGE AND ALLIANCE THEOLOGICAL",
+  "institution": "Nyack College And Alliance Theological",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 194161,
-  "grad_rate": 36.3,
-  "grad_rate_rank": 1341,
-  "default_rate": 13.8,
-  "avg_stu_loan_debt": 19780,
-  "avg_stu_loan_debt_rank": 1372,
-  "indicator_group": 1
+  "grad_rate": 45.7,
+  "grad_rate_rank": 1042,
+  "default_rate": 15.8,
+  "avg_stu_loan_debt": 18750,
+  "avg_stu_loan_debt_rank": 1007,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "10013",
+  "email": false
 }

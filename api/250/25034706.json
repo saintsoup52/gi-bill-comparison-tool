@@ -1,6 +1,6 @@
 {
   "facility_code": "25034706",
-  "institution": "AVEDA INSTITUTE OF DENVER",
+  "institution": "Aveda Institute Of Denver",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 12,
   "cross": 459277,
-  "grad_rate": 86.3,
-  "grad_rate_rank": 386,
+  "grad_rate": 97.4,
+  "grad_rate_rank": 98,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": 7917,
-  "avg_stu_loan_debt_rank": 1332,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 12000,
+  "avg_stu_loan_debt_rank": 1750,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80202",
+  "email": true
 }

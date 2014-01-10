@@ -1,6 +1,6 @@
 {
   "facility_code": "35148422",
-  "institution": "HOPE NETWORK LANSING REHAB SERVICES - E. LANSING",
+  "institution": "Hope Network Lansing Rehab Services - E. Lansing",
   "city": "East Lansing",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "48823",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28078040",
-  "institution": "KENNETH SHULER SCHOOL OF COSMETOLOGY  GARNER'S FERRY",
+  "institution": "Kenneth Shuler School Of Cosmetology  Garner'S Ferry",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 445850,
-  "grad_rate": 54.7,
-  "grad_rate_rank": 1788,
-  "default_rate": 7.0,
-  "avg_stu_loan_debt": 8625,
-  "avg_stu_loan_debt_rank": 1501,
-  "indicator_group": 5
+  "grad_rate": 66.7,
+  "grad_rate_rank": 1331,
+  "default_rate": 13.7,
+  "avg_stu_loan_debt": 8639,
+  "avg_stu_loan_debt_rank": 927,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29209",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31020106",
-  "institution": "BEAR VALLEY BIBLE INSTITUTE OF DENVER",
+  "institution": "Bear Valley Bible Institute Of Denver",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "80227",
+  "email": false
 }

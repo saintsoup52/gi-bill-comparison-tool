@@ -1,6 +1,6 @@
 {
   "facility_code": "13980325",
-  "institution": "SOUTHEAST MISSOURI STATE UNIVERSITY",
+  "institution": "Southeast Missouri State University",
   "city": "Cape Girardeau",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 311,
   "cross": 179557,
-  "grad_rate": 46.3,
-  "grad_rate_rank": 1013,
-  "default_rate": 9.7,
-  "avg_stu_loan_debt": 14391,
-  "avg_stu_loan_debt_rank": 667,
-  "indicator_group": 1
+  "grad_rate": 46.1,
+  "grad_rate_rank": 1034,
+  "default_rate": 13.3,
+  "avg_stu_loan_debt": 15346,
+  "avg_stu_loan_debt_rank": 570,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "63701",
+  "email": false
 }

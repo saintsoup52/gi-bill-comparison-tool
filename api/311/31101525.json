@@ -1,6 +1,6 @@
 {
   "facility_code": "31101525",
-  "institution": "WESTMINSTER COLLEGE",
+  "institution": "Westminster College",
   "city": "Fulton",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 23,
   "cross": 179946,
-  "grad_rate": 63.1,
-  "grad_rate_rank": 484,
-  "default_rate": 4.8,
-  "avg_stu_loan_debt": 18141,
-  "avg_stu_loan_debt_rank": 1106,
-  "indicator_group": 1
+  "grad_rate": 70.1,
+  "grad_rate_rank": 312,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 23375,
+  "avg_stu_loan_debt_rank": 1564,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "65251",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "28205815",
-  "institution": "CAPRI COLLEGE COSMETOLOGY -  DUBUQUE",
+  "institution": "Capri College Cosmetology -  Dubuque",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 4,
   "cross": 153074,
-  "grad_rate": 72.5,
-  "grad_rate_rank": 1045,
-  "default_rate": 7.7,
-  "avg_stu_loan_debt": 7730,
-  "avg_stu_loan_debt_rank": 1298,
-  "indicator_group": 5
+  "grad_rate": 73.8,
+  "grad_rate_rank": 987,
+  "default_rate": 13.2,
+  "avg_stu_loan_debt": 7463,
+  "avg_stu_loan_debt_rank": 690,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "52004",
+  "email": false
 }

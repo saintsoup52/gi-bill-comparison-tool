@@ -1,6 +1,6 @@
 {
   "facility_code": "14981432",
-  "institution": "CORNING COMMUNITY COLLEGE",
+  "institution": "Corning Community College",
   "city": "Corning",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 209,
   "cross": 190442,
-  "grad_rate": 27.9,
-  "grad_rate_rank": 601,
-  "default_rate": 24.3,
-  "avg_stu_loan_debt": 8255,
-  "avg_stu_loan_debt_rank": 670,
-  "indicator_group": 2
+  "grad_rate": 25.7,
+  "grad_rate_rank": 762,
+  "default_rate": 29.8,
+  "avg_stu_loan_debt": 7530,
+  "avg_stu_loan_debt_rank": 517,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "14830",
+  "email": true
 }

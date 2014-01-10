@@ -1,6 +1,6 @@
 {
   "facility_code": "25121743",
-  "institution": "PROFESSIONAL CAREER TRAINING INST HOUSTON",
+  "institution": "Professional Career Training Inst Houston",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 10,
   "cross": 458016,
-  "grad_rate": null,
+  "grad_rate": 0.0,
   "grad_rate_rank": 0,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 3596,
-  "avg_stu_loan_debt_rank": 648,
-  "indicator_group": 5
+  "default_rate": 60.0,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "77090",
+  "email": false
 }

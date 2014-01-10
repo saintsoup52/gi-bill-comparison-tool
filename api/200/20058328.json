@@ -1,6 +1,6 @@
 {
   "facility_code": "20058328",
-  "institution": "RIVERSIDE HOTEL & CASINO (CH31)",
+  "institution": "Riverside Hotel & Casino (Ch31)",
   "city": "Laughlin",
   "state": "NV",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "89029",
+  "email": false
 }

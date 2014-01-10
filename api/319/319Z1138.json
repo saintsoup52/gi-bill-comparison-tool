@@ -1,6 +1,6 @@
 {
   "facility_code": "319Z1138",
-  "institution": "WIDENER UNIVERSITY",
+  "institution": "Widener University",
   "city": "Chester",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 87,
   "cross": 216852,
-  "grad_rate": 54.2,
-  "grad_rate_rank": 739,
-  "default_rate": 5.6,
-  "avg_stu_loan_debt": 24133,
-  "avg_stu_loan_debt_rank": 1872,
-  "indicator_group": 1
+  "grad_rate": 55.4,
+  "grad_rate_rank": 725,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 23991,
+  "avg_stu_loan_debt_rank": 1615,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "19013",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25055413",
-  "institution": "EVEREST COLLEGE - SKOKIE",
+  "institution": "Everest College - Skokie",
   "city": "Skokie",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 9,
   "cross": 171313,
-  "grad_rate": 69.3,
-  "grad_rate_rank": 1201,
-  "default_rate": 24.7,
+  "grad_rate": 70.4,
+  "grad_rate_rank": 1156,
+  "default_rate": 16.4,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60077",
+  "email": true
 }

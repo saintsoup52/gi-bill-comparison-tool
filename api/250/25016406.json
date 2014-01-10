@@ -1,6 +1,6 @@
 {
   "facility_code": "25016406",
-  "institution": "TONI & GUY HAIRDRESSING ACADEMY",
+  "institution": "Toni & Guy Hairdressing Academy",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 443289,
-  "grad_rate": 76.8,
-  "grad_rate_rank": 829,
-  "default_rate": 2.5,
-  "avg_stu_loan_debt": 12500,
-  "avg_stu_loan_debt_rank": 2382,
-  "indicator_group": 5
+  "grad_rate": 66.2,
+  "grad_rate_rank": 1377,
+  "default_rate": 6.6,
+  "avg_stu_loan_debt": 10556,
+  "avg_stu_loan_debt_rank": 1562,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "80918",
+  "email": true
 }

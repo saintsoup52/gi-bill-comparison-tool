@@ -1,6 +1,6 @@
 {
   "facility_code": "25200222",
-  "institution": "ROSS MEDICAL EDUCATION CENTER-LANSING",
+  "institution": "Ross Medical Education Center-Lansing",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 171988,
-  "grad_rate": 67.0,
-  "grad_rate_rank": 1289,
-  "default_rate": 27.5,
-  "avg_stu_loan_debt": 8847,
-  "avg_stu_loan_debt_rank": 1537,
-  "indicator_group": 5
+  "grad_rate": 70.0,
+  "grad_rate_rank": 1175,
+  "default_rate": 19.9,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48917",
+  "email": true
 }

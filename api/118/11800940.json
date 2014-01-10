@@ -1,6 +1,6 @@
 {
   "facility_code": "11800940",
-  "institution": "UNIVERSITY OF SOUTH CAROLINA - FT JACKSON",
+  "institution": "University Of South Carolina - Ft Jackson",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 218663,
-  "grad_rate": 70.2,
-  "grad_rate_rank": 298,
-  "default_rate": 3.0,
-  "avg_stu_loan_debt": 19861,
-  "avg_stu_loan_debt_rank": 1383,
-  "indicator_group": 1
+  "grad_rate": 72.4,
+  "grad_rate_rank": 278,
+  "default_rate": 3.8,
+  "avg_stu_loan_debt": 19995,
+  "avg_stu_loan_debt_rank": 1178,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "29208",
+  "email": "No (SCO)"
 }

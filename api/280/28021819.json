@@ -1,6 +1,6 @@
 {
   "facility_code": "28021819",
-  "institution": "MR. BERNARD'S SCHOOL OF HAIR FASHION - BANGOR",
+  "institution": "Mr. Bernard'S School Of Hair Fashion - Bangor",
   "city": "Bangor",
   "state": "ME",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 417576,
-  "grad_rate": 45.2,
-  "grad_rate_rank": 2005,
-  "default_rate": 15.2,
-  "avg_stu_loan_debt": 9833,
-  "avg_stu_loan_debt_rank": 2127,
-  "indicator_group": 5
+  "grad_rate": 50.7,
+  "grad_rate_rank": 1935,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 13000,
+  "avg_stu_loan_debt_rank": 1837,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "4401",
+  "email": false
 }

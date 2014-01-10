@@ -1,6 +1,6 @@
 {
   "facility_code": "14937413",
-  "institution": "ELGIN COMMUNITY COLLEGE",
+  "institution": "Elgin Community College",
   "city": "Elgin",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 256,
   "cross": 144944,
-  "grad_rate": 27.4,
-  "grad_rate_rank": 366,
-  "default_rate": 14.6,
-  "avg_stu_loan_debt": 4937,
-  "avg_stu_loan_debt_rank": 175,
-  "indicator_group": 3
+  "grad_rate": 30.2,
+  "grad_rate_rank": 543,
+  "default_rate": 19.3,
+  "avg_stu_loan_debt": 5250,
+  "avg_stu_loan_debt_rank": 105,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "60123",
+  "email": true
 }

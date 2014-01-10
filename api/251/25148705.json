@@ -1,6 +1,6 @@
 {
   "facility_code": "25148705",
-  "institution": "MANTECA TRAVEL SERVICE SCHOOL OF TRAVEL (CHP 31 ONLY)",
+  "institution": "Manteca Travel Service School Of Travel (Chp 31 Only)",
   "city": "Manteca",
   "state": "CA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "95336",
+  "email": "No (SCO)"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25148205",
-  "institution": "MILAN INSTITUTE (VISALIA)",
+  "institution": "Milan Institute (Visalia)",
   "city": "Visalia",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 112288,
-  "grad_rate": 71.3,
-  "grad_rate_rank": 1114,
-  "default_rate": 29.7,
+  "grad_rate": 74.3,
+  "grad_rate_rank": 962,
+  "default_rate": 28.1,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "93277",
+  "email": false
 }

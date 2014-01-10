@@ -1,6 +1,6 @@
 {
   "facility_code": "25802635",
-  "institution": "ROSS MEDICAL EDUCATION CENTER",
+  "institution": "Ross Medical Education Center",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 203234,
-  "grad_rate": 67.7,
-  "grad_rate_rank": 1262,
-  "default_rate": 11.1,
-  "avg_stu_loan_debt": 8939,
-  "avg_stu_loan_debt_rank": 1565,
-  "indicator_group": 5
+  "grad_rate": 76.7,
+  "grad_rate_rank": 829,
+  "default_rate": 18.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "45246",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11811321",
-  "institution": "UNIVERSITY OF MASSACHUSETTS LOWELL",
+  "institution": "University Of Massachusetts Lowell",
   "city": "Lowell",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 514,
   "cross": 166513,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 876,
-  "default_rate": 5.0,
-  "avg_stu_loan_debt": 16308,
-  "avg_stu_loan_debt_rank": 873,
-  "indicator_group": 1
+  "grad_rate": 53.8,
+  "grad_rate_rank": 779,
+  "default_rate": 7.9,
+  "avg_stu_loan_debt": 21038,
+  "avg_stu_loan_debt_rank": 1323,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "1854",
+  "email": true
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31016110",
-  "institution": "CLEARWATER CHRISTIAN COLLEGE",
+  "institution": "Clearwater Christian College",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 25,
   "cross": 133085,
-  "grad_rate": 54.4,
-  "grad_rate_rank": 733,
-  "default_rate": 5.1,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 548,
-  "indicator_group": 1
+  "grad_rate": 40.0,
+  "grad_rate_rank": 1248,
+  "default_rate": 6.1,
+  "avg_stu_loan_debt": 15000,
+  "avg_stu_loan_debt_rank": 522,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "33759",
+  "email": true
 }

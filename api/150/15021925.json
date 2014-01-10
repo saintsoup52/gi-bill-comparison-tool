@@ -1,6 +1,6 @@
 {
   "facility_code": "15021925",
-  "institution": "FRANKLIN TECHNOLOGY CENTER @ MSSU",
+  "institution": "Franklin Technology Center @ Mssu",
   "city": "Joplin",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 16,
   "cross": 409120,
-  "grad_rate": 78.4,
-  "grad_rate_rank": 735,
-  "default_rate": 20.4,
+  "grad_rate": 77.6,
+  "grad_rate_rank": 785,
+  "default_rate": 34.9,
   "avg_stu_loan_debt": 7600,
-  "avg_stu_loan_debt_rank": 1260,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 738,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "64801",
+  "email": true
 }

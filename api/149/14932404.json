@@ -1,6 +1,6 @@
 {
   "facility_code": "14932404",
-  "institution": "ARKANSAS NORTHEASTERN COLLEGE",
+  "institution": "Arkansas Northeastern College",
   "city": "Blytheville",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 90,
   "cross": 107327,
-  "grad_rate": 24.2,
-  "grad_rate_rank": 716,
-  "default_rate": 23.6,
-  "avg_stu_loan_debt": 5500,
-  "avg_stu_loan_debt_rank": 327,
-  "indicator_group": 2
+  "grad_rate": 17.7,
+  "grad_rate_rank": 659,
+  "default_rate": 23.4,
+  "avg_stu_loan_debt": 4906,
+  "avg_stu_loan_debt_rank": 91,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "72315",
+  "email": false
 }

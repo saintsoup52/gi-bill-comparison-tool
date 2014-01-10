@@ -1,6 +1,6 @@
 {
   "facility_code": "24000638",
-  "institution": "ANTONELLI INSTITUTE",
+  "institution": "Antonelli Institute",
   "city": "Erdenheim",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 3,
   "cross": 210890,
-  "grad_rate": 75.2,
-  "grad_rate_rank": 51,
-  "default_rate": 9.1,
-  "avg_stu_loan_debt": 21468,
-  "avg_stu_loan_debt_rank": 1436,
-  "indicator_group": 2
+  "grad_rate": 74.0,
+  "grad_rate_rank": 71,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 25206,
+  "avg_stu_loan_debt_rank": 1396,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "19038",
+  "email": true
 }

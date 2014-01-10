@@ -1,6 +1,6 @@
 {
   "facility_code": "10643140",
-  "institution": "SC DEPARTMENT OF MENTAL HEALTH PUBLIC SAFETY OPERATIONS",
+  "institution": "Sc Department Of Mental Health Public Safety Operations",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "29202",
+  "email": false
 }

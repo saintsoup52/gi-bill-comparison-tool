@@ -1,6 +1,6 @@
 {
   "facility_code": "25301508",
-  "institution": "ACADEMY OF MASSAGE AND BODYWORK LTD.",
+  "institution": "Academy Of Massage And Bodywork Ltd.",
   "city": "Bear",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 6,
   "cross": 451051,
-  "grad_rate": 75.0,
-  "grad_rate_rank": 909,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 5793,
-  "avg_stu_loan_debt_rank": 935,
-  "indicator_group": 5
+  "grad_rate": 100.0,
+  "grad_rate_rank": 1,
+  "default_rate": 27.5,
+  "avg_stu_loan_debt": 6333,
+  "avg_stu_loan_debt_rank": 452,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19701",
+  "email": true
 }

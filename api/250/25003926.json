@@ -1,6 +1,6 @@
 {
   "facility_code": "25003926",
-  "institution": "ROYAL TINE GUIDE AND PACKER SCHOOL",
+  "institution": "Royal Tine Guide And Packer School",
   "city": "Philipsburg",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59858",
+  "email": false
 }

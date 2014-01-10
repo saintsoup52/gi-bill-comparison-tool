@@ -1,6 +1,6 @@
 {
   "facility_code": "28078540",
-  "institution": "KENNETH SHULER SCHOOL OF COSMETOLOGY ROCK HILL",
+  "institution": "Kenneth Shuler School Of Cosmetology Rock Hill",
   "city": "Rock Hill",
   "state": "SC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 432117,
-  "grad_rate": 63.8,
-  "grad_rate_rank": 1441,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 8627,
-  "avg_stu_loan_debt_rank": 1505,
-  "indicator_group": 5
+  "grad_rate": 61.2,
+  "grad_rate_rank": 1589,
+  "default_rate": 20.5,
+  "avg_stu_loan_debt": 8640,
+  "avg_stu_loan_debt_rank": 930,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "29732",
+  "email": true
 }

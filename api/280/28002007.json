@@ -1,6 +1,6 @@
 {
   "facility_code": "28002007",
-  "institution": "MARINELLO SCHOOL OF BEAUTY - EAST HARTFORD",
+  "institution": "Marinello School Of Beauty - East Hartford",
   "city": "East Hartford",
   "state": "CT",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 128957,
-  "grad_rate": 36.5,
-  "grad_rate_rank": 2097,
-  "default_rate": 28.8,
-  "avg_stu_loan_debt": 8314,
-  "avg_stu_loan_debt_rank": 1447,
-  "indicator_group": 5
+  "grad_rate": 36.1,
+  "grad_rate_rank": 2150,
+  "default_rate": 25.7,
+  "avg_stu_loan_debt": 8361,
+  "avg_stu_loan_debt_rank": 875,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "6108",
+  "email": true
 }

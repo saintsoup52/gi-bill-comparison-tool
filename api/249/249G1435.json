@@ -1,6 +1,6 @@
 {
   "facility_code": "249G1435",
-  "institution": "NATIONAL INSTITUTE OF MASSOTHERAPY",
+  "institution": "National Institute Of Massotherapy",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 2,
   "cross": 412003,
-  "grad_rate": null,
-  "grad_rate_rank": 0,
-  "default_rate": 27.5,
-  "avg_stu_loan_debt": 6294,
-  "avg_stu_loan_debt_rank": 244,
-  "indicator_group": 3
+  "grad_rate": 54.9,
+  "grad_rate_rank": 352,
+  "default_rate": 30.7,
+  "avg_stu_loan_debt": 6895,
+  "avg_stu_loan_debt_rank": 191,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "44319",
+  "email": false
 }

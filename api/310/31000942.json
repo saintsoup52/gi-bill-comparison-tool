@@ -1,6 +1,6 @@
 {
   "facility_code": "31000942",
-  "institution": "MARYVILLE COLLEGE",
+  "institution": "Maryville College",
   "city": "Maryville",
   "state": "TN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 39,
   "cross": 220710,
-  "grad_rate": 54.1,
-  "grad_rate_rank": 744,
-  "default_rate": 9.3,
-  "avg_stu_loan_debt": 19500,
-  "avg_stu_loan_debt_rank": 1305,
-  "indicator_group": 1
+  "grad_rate": 53.7,
+  "grad_rate_rank": 786,
+  "default_rate": 8.8,
+  "avg_stu_loan_debt": 21625,
+  "avg_stu_loan_debt_rank": 1392,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "37804",
+  "email": false
 }

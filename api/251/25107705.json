@@ -1,6 +1,6 @@
 {
   "facility_code": "25107705",
-  "institution": "COMPUTER TUTOR BUSINESS & TECHNICAL INSTITUTE",
+  "institution": "Computer Tutor Business & Technical Institute",
   "city": "Modesto",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 444529,
-  "grad_rate": 87.7,
-  "grad_rate_rank": 338,
-  "default_rate": 18.1,
-  "avg_stu_loan_debt": 2550,
-  "avg_stu_loan_debt_rank": 535,
-  "indicator_group": 5
+  "grad_rate": 86.8,
+  "grad_rate_rank": 375,
+  "default_rate": 21.4,
+  "avg_stu_loan_debt": 4010,
+  "avg_stu_loan_debt_rank": 151,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "95356",
+  "email": false
 }

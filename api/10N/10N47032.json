@@ -1,6 +1,6 @@
 {
   "facility_code": "10N47032",
-  "institution": "NEW YORK STATE DOT - REGION 6 - KANONA BRIDGE MAINTENANCE SHOP",
+  "institution": "New York State Dot - Region 6 - Kanona Bridge Maintenance Shop",
   "city": "Bath",
   "state": "NY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "14810",
+  "email": true
 }

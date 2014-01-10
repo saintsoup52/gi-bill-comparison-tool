@@ -1,6 +1,6 @@
 {
   "facility_code": "25005920",
-  "institution": "AWARD BEAUTY SCHOOL OF HAGERSTOWN",
+  "institution": "Award Beauty School Of Hagerstown",
   "city": "Hagerstown",
   "state": "MD",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 161800,
-  "grad_rate": 50.0,
-  "grad_rate_rank": 1917,
-  "default_rate": 11.8,
+  "grad_rate": 55.7,
+  "grad_rate_rank": 1784,
+  "default_rate": 10.0,
   "avg_stu_loan_debt": 7500,
-  "avg_stu_loan_debt_rank": 1207,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 704,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "21740",
+  "email": false
 }

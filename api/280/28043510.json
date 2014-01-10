@@ -1,6 +1,6 @@
 {
   "facility_code": "28043510",
-  "institution": "MANHATTAN HAIRSTYLING ACADEMY",
+  "institution": "Manhattan Hairstyling Academy",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 135416,
-  "grad_rate": 58.7,
-  "grad_rate_rank": 1643,
-  "default_rate": 28.9,
-  "avg_stu_loan_debt": 8272,
-  "avg_stu_loan_debt_rank": 1437,
-  "indicator_group": 5
+  "grad_rate": 64.5,
+  "grad_rate_rank": 1450,
+  "default_rate": 39.4,
+  "avg_stu_loan_debt": 8075,
+  "avg_stu_loan_debt_rank": 838,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "33606",
+  "email": true
 }

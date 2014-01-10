@@ -1,6 +1,6 @@
 {
   "facility_code": "25065813",
-  "institution": "ETI SCHOOL OF SKILLED TRADES",
+  "institution": "Eti School Of Skilled Trades",
   "city": "Willowbrook",
   "state": "IL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 31,
   "cross": 244613,
-  "grad_rate": 82.6,
-  "grad_rate_rank": 516,
-  "default_rate": 15.6,
-  "avg_stu_loan_debt": 8611,
-  "avg_stu_loan_debt_rank": 1494,
-  "indicator_group": 5
+  "grad_rate": 80.2,
+  "grad_rate_rank": 630,
+  "default_rate": 12.7,
+  "avg_stu_loan_debt": 9500,
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "60527",
+  "email": true
 }

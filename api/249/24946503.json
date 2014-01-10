@@ -1,6 +1,6 @@
 {
   "facility_code": "24946503",
-  "institution": "FORTIS COLLEGE",
+  "institution": "Fortis College",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 15,
   "cross": 456180,
-  "grad_rate": 60.5,
-  "grad_rate_rank": 129,
-  "default_rate": 16.6,
-  "avg_stu_loan_debt": 10860,
-  "avg_stu_loan_debt_rank": 671,
-  "indicator_group": 3
+  "grad_rate": 64.3,
+  "grad_rate_rank": 247,
+  "default_rate": 16.0,
+  "avg_stu_loan_debt": 11294,
+  "avg_stu_loan_debt_rank": 573,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85006",
+  "email": false
 }

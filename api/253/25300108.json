@@ -1,6 +1,6 @@
 {
   "facility_code": "25300108",
-  "institution": "THE DELAWARE ACADEMY PAUL MITCHELL PARTNER SCHOOL",
+  "institution": "The Delaware Academy Paul Mitchell Partner School",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 7,
   "cross": 459301,
-  "grad_rate": 87.1,
-  "grad_rate_rank": 353,
-  "default_rate": null,
-  "avg_stu_loan_debt": 4750,
-  "avg_stu_loan_debt_rank": 753,
-  "indicator_group": 5
+  "grad_rate": 65.5,
+  "grad_rate_rank": 1405,
+  "default_rate": 0.0,
+  "avg_stu_loan_debt": 9666,
+  "avg_stu_loan_debt_rank": 1473,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "19702",
+  "email": false
 }

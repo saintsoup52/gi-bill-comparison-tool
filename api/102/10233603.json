@@ -1,6 +1,6 @@
 {
   "facility_code": "10233603",
-  "institution": "SIERRA VISTA RANGER DISTRICT (US FOREST SERVICE)",
+  "institution": "Sierra Vista Ranger District (Us Forest Service)",
   "city": "Hereford",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85615",
+  "email": false
 }

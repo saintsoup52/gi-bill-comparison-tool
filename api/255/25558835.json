@@ -1,6 +1,6 @@
 {
   "facility_code": "25558835",
-  "institution": "NEW HORIZONS CLC BLUE ASH",
+  "institution": "New Horizons Clc Blue Ash",
   "city": "Blue Ash",
   "state": "OH",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "45242",
+  "email": true
 }

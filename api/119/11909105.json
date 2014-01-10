@@ -1,6 +1,6 @@
 {
   "facility_code": "11909105",
-  "institution": "SONOMA STATE UNIVERSITY",
+  "institution": "Sonoma State University",
   "city": "Rohnert Park",
   "state": "CA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 130,
   "cross": 123572,
-  "grad_rate": 56.7,
-  "grad_rate_rank": 657,
-  "default_rate": 3.5,
-  "avg_stu_loan_debt": 18000,
-  "avg_stu_loan_debt_rank": 1081,
-  "indicator_group": 1
+  "grad_rate": 54.9,
+  "grad_rate_rank": 743,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 18281,
+  "avg_stu_loan_debt_rank": 953,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "94928",
+  "email": false
 }

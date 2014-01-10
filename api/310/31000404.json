@@ -1,6 +1,6 @@
 {
   "facility_code": "31000404",
-  "institution": "UNIVERSITY OF THE OZARKS",
+  "institution": "University Of The Ozarks",
   "city": "Clarksville",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 13,
   "cross": 107558,
-  "grad_rate": 46.4,
-  "grad_rate_rank": 1010,
-  "default_rate": 17.1,
-  "avg_stu_loan_debt": 9612,
-  "avg_stu_loan_debt_rank": 245,
-  "indicator_group": 1
+  "grad_rate": 47.6,
+  "grad_rate_rank": 980,
+  "default_rate": 8.9,
+  "avg_stu_loan_debt": 11000,
+  "avg_stu_loan_debt_rank": 223,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72830",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20204126",
-  "institution": "COUNTY MARKET ATTN: MEAT DEPT",
+  "institution": "County Market Attn: Meat Dept",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "59405",
+  "email": false
 }

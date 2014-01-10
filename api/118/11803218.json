@@ -1,6 +1,6 @@
 {
   "facility_code": "11803218",
-  "institution": "UNIVERSITY OF LOUISIANA AT MONROE",
+  "institution": "University Of Louisiana At Monroe",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 252,
   "cross": 159993,
-  "grad_rate": 33.0,
-  "grad_rate_rank": 1423,
-  "default_rate": 13.0,
-  "avg_stu_loan_debt": 12522,
-  "avg_stu_loan_debt_rank": 518,
-  "indicator_group": 1
+  "grad_rate": 36.5,
+  "grad_rate_rank": 1348,
+  "default_rate": 14.6,
+  "avg_stu_loan_debt": 12206,
+  "avg_stu_loan_debt_rank": 290,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "71209",
+  "email": false
 }

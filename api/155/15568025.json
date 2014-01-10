@@ -1,6 +1,6 @@
 {
   "facility_code": "15568025",
-  "institution": "SIKESTON CAREER AND TECHNOLOGY CENTER",
+  "institution": "Sikeston Career And Technology Center",
   "city": "Sikeston",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 1,
   "cross": 179238,
-  "grad_rate": 66.7,
-  "grad_rate_rank": 1297,
-  "default_rate": 14.2,
+  "grad_rate": 69.2,
+  "grad_rate_rank": 1217,
+  "default_rate": 19.2,
   "avg_stu_loan_debt": 9500,
-  "avg_stu_loan_debt_rank": 1663,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1075,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "63801",
+  "email": false
 }

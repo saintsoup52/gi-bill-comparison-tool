@@ -1,6 +1,6 @@
 {
   "facility_code": "29019714",
-  "institution": "WERNER ENTERPRISES - CHPATER 31",
+  "institution": "Werner Enterprises - Chpater 31",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "46225",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001316",
-  "institution": "UNIVERSITY OF MARY FT. RILEY KS",
+  "institution": "University Of Mary Ft. Riley Ks",
   "city": "Fort Riley",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 11,
   "cross": 200217,
-  "grad_rate": 51.5,
-  "grad_rate_rank": 827,
-  "default_rate": 3.8,
-  "avg_stu_loan_debt": 18208,
-  "avg_stu_loan_debt_rank": 1112,
-  "indicator_group": 1
+  "grad_rate": 20.1,
+  "grad_rate_rank": 1708,
+  "default_rate": 4.1,
+  "avg_stu_loan_debt": 17952,
+  "avg_stu_loan_debt_rank": 903,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66442",
+  "email": true
 }

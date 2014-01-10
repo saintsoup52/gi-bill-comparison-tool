@@ -1,6 +1,6 @@
 {
   "facility_code": "25014603",
-  "institution": "STILWELL'S LEARNING CENTER - CH31 ONLY",
+  "institution": "Stilwell'S Learning Center - Ch31 Only",
   "city": "Sierra Vista",
   "state": "AZ",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "85635",
+  "email": true
 }

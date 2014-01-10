@@ -1,6 +1,6 @@
 {
   "facility_code": "28152322",
-  "institution": "MICHIGAN COLLEGE OF BEAUTY - WATERFORD",
+  "institution": "Michigan College Of Beauty - Waterford",
   "city": "Waterford",
   "state": "MI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 170611,
-  "grad_rate": 73.5,
-  "grad_rate_rank": 994,
-  "default_rate": 2.3,
-  "avg_stu_loan_debt": 3729,
-  "avg_stu_loan_debt_rank": 658,
-  "indicator_group": 5
+  "grad_rate": 72.2,
+  "grad_rate_rank": 1062,
+  "default_rate": 10.7,
+  "avg_stu_loan_debt": 4062,
+  "avg_stu_loan_debt_rank": 153,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "48329",
+  "email": true
 }

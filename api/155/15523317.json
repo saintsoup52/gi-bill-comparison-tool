@@ -1,6 +1,6 @@
 {
   "facility_code": "15523317",
-  "institution": "BROWN CANCER CENTER - RADIATION THERAPY SCHOOL",
+  "institution": "Brown Cancer Center - Radiation Therapy School",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "40202",
+  "email": false
 }

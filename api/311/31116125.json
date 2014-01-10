@@ -1,6 +1,6 @@
 {
   "facility_code": "31116125",
-  "institution": "WILLIAM JEWELL COLLEGE - HARLAXTON",
+  "institution": "William Jewell College - Harlaxton",
   "city": "Liberty",
   "state": "MO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 179955,
-  "grad_rate": 62.9,
-  "grad_rate_rank": 491,
-  "default_rate": 4.4,
-  "avg_stu_loan_debt": 18750,
-  "avg_stu_loan_debt_rank": 1177,
-  "indicator_group": 1
+  "grad_rate": 69.0,
+  "grad_rate_rank": 325,
+  "default_rate": 5.8,
+  "avg_stu_loan_debt": 21618,
+  "avg_stu_loan_debt_rank": 1391,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "64068",
+  "email": false
 }

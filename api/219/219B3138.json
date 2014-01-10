@@ -1,6 +1,6 @@
 {
   "facility_code": "219B3138",
-  "institution": "DEVRY UNIVERSITY - KING OF PRUSSIA",
+  "institution": "Devry University - King Of Prussia",
   "city": "King Of Prussia",
   "state": "PA",
   "country": "USA",
@@ -8,11 +8,14 @@
   "poe": true,
   "yr": true,
   "gibill": 34,
-  "cross": 0,
+  "cross": 482608,
   "grad_rate": null,
   "grad_rate_rank": null,
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "19406",
+  "email": true
 }

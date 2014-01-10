@@ -1,6 +1,6 @@
 {
   "facility_code": "30442347",
-  "institution": "INLAND NORTHWEST MASONRY APPRENTICESHIP COMMITTEE",
+  "institution": "Inland Northwest Masonry Apprenticeship Committee",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "99202",
+  "email": true
 }

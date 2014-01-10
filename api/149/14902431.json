@@ -1,6 +1,6 @@
 {
   "facility_code": "14902431",
-  "institution": "NEW MEXICO MILITARY INSTITUTE",
+  "institution": "New Mexico Military Institute",
   "city": "Roswell",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 55,
   "cross": 187912,
-  "grad_rate": 27.7,
-  "grad_rate_rank": 605,
-  "default_rate": 25.0,
-  "avg_stu_loan_debt": 4265,
-  "avg_stu_loan_debt_rank": 198,
-  "indicator_group": 2
+  "grad_rate": 31.5,
+  "grad_rate_rank": 593,
+  "default_rate": 10.3,
+  "avg_stu_loan_debt": 5500,
+  "avg_stu_loan_debt_rank": 217,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "88201",
+  "email": true
 }

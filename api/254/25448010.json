@@ -1,6 +1,6 @@
 {
   "facility_code": "25448010",
-  "institution": "CAMBRIDGE INSTITUTE OF ALLIED HEALTH INC - ALTAMONTE SPRINGS",
+  "institution": "Cambridge Institute Of Allied Health Inc - Altamonte Springs",
   "city": "Altamonte Springs",
   "state": "FL",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 8,
   "cross": 446109,
-  "grad_rate": 75.8,
-  "grad_rate_rank": 879,
-  "default_rate": 35.0,
-  "avg_stu_loan_debt": 6669,
-  "avg_stu_loan_debt_rank": 1094,
-  "indicator_group": 5
+  "grad_rate": 78.4,
+  "grad_rate_rank": 736,
+  "default_rate": 33.3,
+  "avg_stu_loan_debt": 7600,
+  "avg_stu_loan_debt_rank": 738,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "32701",
+  "email": true
 }

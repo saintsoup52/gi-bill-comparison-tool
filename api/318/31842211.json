@@ -1,6 +1,6 @@
 {
   "facility_code": "31842211",
-  "institution": "SHORTER UNIVERSITY - (ATLANTA)",
+  "institution": "Shorter University - (Atlanta)",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 93,
   "cross": 448309,
-  "grad_rate": 21.8,
-  "grad_rate_rank": 1643,
-  "default_rate": 11.8,
-  "avg_stu_loan_debt": 20563,
-  "avg_stu_loan_debt_rank": 1492,
-  "indicator_group": 1
+  "grad_rate": 0.0,
+  "grad_rate_rank": 0,
+  "default_rate": 13.4,
+  "avg_stu_loan_debt": 23100,
+  "avg_stu_loan_debt_rank": 1542,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30067",
+  "email": true
 }

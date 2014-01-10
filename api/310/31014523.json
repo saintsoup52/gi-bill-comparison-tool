@@ -1,6 +1,6 @@
 {
   "facility_code": "31014523",
-  "institution": "BETHANY LUTHERAN COLLEGE",
+  "institution": "Bethany Lutheran College",
   "city": "Mankato",
   "state": "MN",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 12,
   "cross": 173142,
-  "grad_rate": 52.6,
-  "grad_rate_rank": 787,
-  "default_rate": 4.3,
-  "avg_stu_loan_debt": 17500,
-  "avg_stu_loan_debt_rank": 1007,
-  "indicator_group": 1
+  "grad_rate": 51.1,
+  "grad_rate_rank": 863,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 19750,
+  "avg_stu_loan_debt_rank": 1157,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "56001",
+  "email": false
 }

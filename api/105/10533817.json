@@ -1,6 +1,6 @@
 {
   "facility_code": "10533817",
-  "institution": "GREENUP COUNTY SHERIFF OFFICE",
+  "institution": "Greenup County Sheriff Office",
   "city": "Greenup",
   "state": "KY",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "41144",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18008036",
-  "institution": "TULSA TECHNOLOGY CENTER LEMLEY CAMPUS",
+  "institution": "Tulsa Technology Center Lemley Campus",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 21,
   "cross": 261375,
-  "grad_rate": 80.6,
-  "grad_rate_rank": 624,
+  "grad_rate": 76.2,
+  "grad_rate_rank": 853,
   "default_rate": 0.0,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": 1,
-  "indicator_group": 5
+  "avg_stu_loan_debt": 0,
+  "avg_stu_loan_debt_rank": 0,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "74147",
+  "email": true
 }

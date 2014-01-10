@@ -1,6 +1,6 @@
 {
   "facility_code": "11802231",
-  "institution": "NEW MEXICO STATE UNIVERSITY",
+  "institution": "New Mexico State University",
   "city": "Carlsbad",
   "state": "NM",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 58,
   "cross": 188003,
-  "grad_rate": 4.1,
-  "grad_rate_rank": 1300,
-  "default_rate": 15.0,
-  "avg_stu_loan_debt": 11017,
-  "avg_stu_loan_debt_rank": 906,
-  "indicator_group": 2
+  "grad_rate": 9.4,
+  "grad_rate_rank": 1311,
+  "default_rate": 18.5,
+  "avg_stu_loan_debt": 11791,
+  "avg_stu_loan_debt_rank": 836,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "88220",
+  "email": true
 }

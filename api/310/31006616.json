@@ -1,6 +1,6 @@
 {
   "facility_code": "31006616",
-  "institution": "CLEVELAND CHIROPRACTIC COLLEGE",
+  "institution": "Cleveland Chiropractic College",
   "city": "Overland Park",
   "state": "KS",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 17,
   "cross": 177038,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 1835,
-  "default_rate": 8.5,
-  "avg_stu_loan_debt": 11500,
-  "avg_stu_loan_debt_rank": 334,
-  "indicator_group": 1
+  "grad_rate": 66.7,
+  "grad_rate_rank": 382,
+  "default_rate": 6.9,
+  "avg_stu_loan_debt": 11750,
+  "avg_stu_loan_debt_rank": 267,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "66210",
+  "email": true
 }

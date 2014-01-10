@@ -1,6 +1,6 @@
 {
   "facility_code": "25062943",
-  "institution": "AVIATION INST OF MAINTENANCE DALLAS",
+  "institution": "Aviation Inst Of Maintenance Dallas",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 112,
   "cross": 441788,
-  "grad_rate": 58.5,
-  "grad_rate_rank": 1650,
-  "default_rate": 40.0,
-  "avg_stu_loan_debt": 19000,
-  "avg_stu_loan_debt_rank": 2527,
-  "indicator_group": 5
+  "grad_rate": 47.8,
+  "grad_rate_rank": 1986,
+  "default_rate": 39.1,
+  "avg_stu_loan_debt": 28575,
+  "avg_stu_loan_debt_rank": 2018,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "75062",
+  "email": false
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20186445",
-  "institution": "LOGAN AND HINES",
+  "institution": "Logan And Hines",
   "city": "Waitsfield",
   "state": "VT",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "5673",
+  "email": "No (SCO)"
 }

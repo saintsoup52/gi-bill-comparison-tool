@@ -1,6 +1,6 @@
 {
   "facility_code": "25035601",
-  "institution": "BR2C TRAINING CENTER FOR SPECIALIZED",
+  "institution": "Br2c Training Center For Specialized",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "35816",
+  "email": "No (SCO)"
 }

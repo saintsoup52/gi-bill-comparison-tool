@@ -1,6 +1,6 @@
 {
   "facility_code": "11917111",
-  "institution": "GEORGIA SOUTHERN UNIVERSITY",
+  "institution": "Georgia Southern University",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 817,
   "cross": 139931,
-  "grad_rate": 46.5,
-  "grad_rate_rank": 1003,
-  "default_rate": 7.4,
-  "avg_stu_loan_debt": 17156,
-  "avg_stu_loan_debt_rank": 972,
-  "indicator_group": 1
+  "grad_rate": 50.4,
+  "grad_rate_rank": 880,
+  "default_rate": 10.1,
+  "avg_stu_loan_debt": 16250,
+  "avg_stu_loan_debt_rank": 722,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "30460",
+  "email": true
 }

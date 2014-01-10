@@ -1,6 +1,6 @@
 {
   "facility_code": "31881132",
-  "institution": "CORNELL UNIVERSITY",
+  "institution": "Cornell University",
   "city": "Ithaca",
   "state": "NY",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 128,
   "cross": 190415,
-  "grad_rate": 93.5,
-  "grad_rate_rank": 29,
-  "default_rate": 1.6,
-  "avg_stu_loan_debt": 12000,
-  "avg_stu_loan_debt_rank": 431,
-  "indicator_group": 1
+  "grad_rate": 93.3,
+  "grad_rate_rank": 30,
+  "default_rate": 2.2,
+  "avg_stu_loan_debt": 12607,
+  "avg_stu_loan_debt_rank": 340,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "14853",
+  "email": true
 }

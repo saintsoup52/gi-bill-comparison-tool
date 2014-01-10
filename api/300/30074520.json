@@ -1,6 +1,6 @@
 {
   "facility_code": "30074520",
-  "institution": "LABORERS DISTRICT COUNCIL TRAINING FUND FOR BALTIMORE & VICINITY",
+  "institution": "Laborers District Council Training Fund For Baltimore & Vicinity",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "21229",
+  "email": "No (SCO)"
 }

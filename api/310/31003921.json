@@ -1,6 +1,6 @@
 {
   "facility_code": "31003921",
-  "institution": "BRANDEIS UNIVERSITY",
+  "institution": "Brandeis University",
   "city": "Waltham",
   "state": "MA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 21,
   "cross": 165015,
-  "grad_rate": 91.2,
-  "grad_rate_rank": 49,
-  "default_rate": 1.9,
-  "avg_stu_loan_debt": 23000,
-  "avg_stu_loan_debt_rank": 1741,
-  "indicator_group": 1
+  "grad_rate": 89.9,
+  "grad_rate_rank": 65,
+  "default_rate": 2.1,
+  "avg_stu_loan_debt": 25000,
+  "avg_stu_loan_debt_rank": 1712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "2453",
+  "email": true
 }

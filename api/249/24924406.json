@@ -1,6 +1,6 @@
 {
   "facility_code": "24924406",
-  "institution": "REDSTONE COLLEGE",
+  "institution": "Redstone College",
   "city": "Broomfield",
   "state": "CO",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 381,
   "cross": 126605,
-  "grad_rate": 61.8,
-  "grad_rate_rank": 116,
-  "default_rate": 15.9,
-  "avg_stu_loan_debt": 22068,
-  "avg_stu_loan_debt_rank": 1438,
-  "indicator_group": 2
+  "grad_rate": 62.6,
+  "grad_rate_rank": 147,
+  "default_rate": 14.3,
+  "avg_stu_loan_debt": 23000,
+  "avg_stu_loan_debt_rank": 1379,
+  "indicator_group": 2,
+  "salary": null,
+  "zip": "80021",
+  "email": true
 }

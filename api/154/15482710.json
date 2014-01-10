@@ -1,6 +1,6 @@
 {
   "facility_code": "15482710",
-  "institution": "SCHOOL DISTRICT OF INDIAN RIVER COUNTY ADULT & COMMUNITY EDUCATION",
+  "institution": "School District Of Indian River County Adult & Community Education",
   "city": "Vero Beach",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "32960",
+  "email": true
 }

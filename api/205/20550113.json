@@ -1,6 +1,6 @@
 {
   "facility_code": "20550113",
-  "institution": "CEMENT MASONS UNION LOCAL 502",
+  "institution": "Cement Masons Union Local 502",
   "city": "Bellwood",
   "state": "IL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "60104",
+  "email": false
 }

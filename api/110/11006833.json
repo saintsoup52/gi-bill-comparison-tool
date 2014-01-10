@@ -1,6 +1,6 @@
 {
   "facility_code": "11006833",
-  "institution": "ELIZABETH CITY STATE UNIVERSITY",
+  "institution": "Elizabeth City State University",
   "city": "Elizabeth City",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 149,
   "cross": 198507,
-  "grad_rate": 43.7,
-  "grad_rate_rank": 1105,
-  "default_rate": 16.8,
-  "avg_stu_loan_debt": 15738,
-  "avg_stu_loan_debt_rank": 809,
-  "indicator_group": 1
+  "grad_rate": 42.7,
+  "grad_rate_rank": 1153,
+  "default_rate": 22.1,
+  "avg_stu_loan_debt": 16157,
+  "avg_stu_loan_debt_rank": 712,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27909",
+  "email": true
 }

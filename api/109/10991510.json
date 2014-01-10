@@ -1,6 +1,6 @@
 {
   "facility_code": "10991510",
-  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY - ST PETERSBURG",
+  "institution": "Defense Contract Management Agency - St Petersburg",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "33702",
+  "email": false
 }

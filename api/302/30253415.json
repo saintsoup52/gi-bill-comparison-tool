@@ -1,6 +1,6 @@
 {
   "facility_code": "30253415",
-  "institution": "MASON CITY HARLEY DAVIDSON",
+  "institution": "Mason City Harley Davidson",
   "city": "Mason City",
   "state": "IA",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "50401",
+  "email": false
 }

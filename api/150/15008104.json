@@ -1,6 +1,6 @@
 {
   "facility_code": "15008104",
-  "institution": "FORT SMITH ADULT EDUCATION CENTER",
+  "institution": "Fort Smith Adult Education Center",
   "city": "Fort Smith",
   "state": "AR",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "72901",
+  "email": false
 }

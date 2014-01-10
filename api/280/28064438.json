@@ -1,6 +1,6 @@
 {
   "facility_code": "28064438",
-  "institution": "PENNSYLVANIA GUNSMITH SCHOOL",
+  "institution": "Pennsylvania Gunsmith School",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 22,
   "cross": 215008,
-  "grad_rate": 95.8,
-  "grad_rate_rank": 120,
-  "default_rate": 5.2,
+  "grad_rate": 86.5,
+  "grad_rate_rank": 390,
+  "default_rate": 9.5,
   "avg_stu_loan_debt": 20000,
-  "avg_stu_loan_debt_rank": 2536,
-  "indicator_group": 5
+  "avg_stu_loan_debt_rank": 1991,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "15202",
+  "email": false
 }

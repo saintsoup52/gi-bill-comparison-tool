@@ -1,6 +1,6 @@
 {
   "facility_code": "11906133",
-  "institution": "UNIVERSITY OF NORTH CAROLINA @ CHAPEL HILL",
+  "institution": "University Of North Carolina @ Chapel Hill",
   "city": "Chapel Hill",
   "state": "NC",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": true,
   "gibill": 424,
   "cross": 199120,
-  "grad_rate": 89.0,
-  "grad_rate_rank": 67,
-  "default_rate": 0.8,
-  "avg_stu_loan_debt": 17115,
-  "avg_stu_loan_debt_rank": 963,
-  "indicator_group": 1
+  "grad_rate": 89.4,
+  "grad_rate_rank": 73,
+  "default_rate": 1.6,
+  "avg_stu_loan_debt": 15622,
+  "avg_stu_loan_debt_rank": 593,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "27599",
+  "email": true
 }

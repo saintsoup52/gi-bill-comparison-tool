@@ -1,6 +1,6 @@
 {
   "facility_code": "25021449",
-  "institution": "THE WISCONSIN ACADEMY (TWA)",
+  "institution": "The Wisconsin Academy (Twa)",
   "city": "Peshtigo",
   "state": "WI",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 451653,
-  "grad_rate": 90.0,
-  "grad_rate_rank": 262,
-  "default_rate": 27.5,
-  "avg_stu_loan_debt": 13000,
-  "avg_stu_loan_debt_rank": 2407,
-  "indicator_group": 5
+  "grad_rate": 94.4,
+  "grad_rate_rank": 161,
+  "default_rate": 26.6,
+  "avg_stu_loan_debt": 10000,
+  "avg_stu_loan_debt_rank": 1523,
+  "indicator_group": 5,
+  "salary": null,
+  "zip": "54157",
+  "email": false
 }

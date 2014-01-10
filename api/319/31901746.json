@@ -1,6 +1,6 @@
 {
   "facility_code": "31901746",
-  "institution": "MARY BALDWIN COLLEGE",
+  "institution": "Mary Baldwin College",
   "city": "Staunton",
   "state": "VA",
   "country": "USA",
@@ -10,9 +10,12 @@
   "gibill": 66,
   "cross": 232672,
   "grad_rate": 49.4,
-  "grad_rate_rank": 913,
-  "default_rate": 6.4,
-  "avg_stu_loan_debt": 25000,
-  "avg_stu_loan_debt_rank": 1922,
-  "indicator_group": 1
+  "grad_rate_rank": 921,
+  "default_rate": 6.0,
+  "avg_stu_loan_debt": 20000,
+  "avg_stu_loan_debt_rank": 1179,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "24401",
+  "email": true
 }

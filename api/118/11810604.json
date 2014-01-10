@@ -1,6 +1,6 @@
 {
   "facility_code": "11810604",
-  "institution": "UALR WILLIAM H. BOWEN SCHOOL OF LAW",
+  "institution": "Ualr William H. Bowen School Of Law",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 19,
   "cross": 106245,
-  "grad_rate": 21.2,
-  "grad_rate_rank": 1654,
-  "default_rate": 14.7,
-  "avg_stu_loan_debt": 13880,
-  "avg_stu_loan_debt_rank": 621,
-  "indicator_group": 1
+  "grad_rate": 19.1,
+  "grad_rate_rank": 1727,
+  "default_rate": 15.6,
+  "avg_stu_loan_debt": 13692,
+  "avg_stu_loan_debt_rank": 415,
+  "indicator_group": 1,
+  "salary": null,
+  "zip": "72202",
+  "email": false
 }

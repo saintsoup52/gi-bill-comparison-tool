@@ -1,6 +1,6 @@
 {
   "facility_code": "15022419",
-  "institution": "SCARBOROUGH HIGH SCHOOL (DAY)",
+  "institution": "Scarborough High School (Day)",
   "city": "Scarborough",
   "state": "ME",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "4106",
+  "email": false
 }

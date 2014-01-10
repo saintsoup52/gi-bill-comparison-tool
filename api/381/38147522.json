@@ -1,6 +1,6 @@
 {
   "facility_code": "38147522",
-  "institution": "TRICO OPPORTUNITIES INC.",
+  "institution": "Trico Opportunities Inc.",
   "city": "Kingsford",
   "state": "MI",
   "country": "USA",
@@ -14,5 +14,8 @@
   "default_rate": null,
   "avg_stu_loan_debt": null,
   "avg_stu_loan_debt_rank": null,
-  "indicator_group": null
+  "indicator_group": null,
+  "salary": null,
+  "zip": "49801",
+  "email": false
 }

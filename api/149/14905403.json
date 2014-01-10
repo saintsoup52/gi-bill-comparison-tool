@@ -1,6 +1,6 @@
 {
   "facility_code": "14905403",
-  "institution": "SCOTTSDALE COMMUNITY COLLEGE",
+  "institution": "Scottsdale Community College",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -9,10 +9,13 @@
   "yr": null,
   "gibill": 394,
   "cross": 105747,
-  "grad_rate": 16.8,
-  "grad_rate_rank": 972,
-  "default_rate": 19.8,
-  "avg_stu_loan_debt": 5250,
-  "avg_stu_loan_debt_rank": 292,
-  "indicator_group": 2
+  "grad_rate": 17.2,
+  "grad_rate_rank": 664,
+  "default_rate": 15.7,
+  "avg_stu_loan_debt": 4579,
+  "avg_stu_loan_debt_rank": 72,
+  "indicator_group": 3,
+  "salary": null,
+  "zip": "85256",
+  "email": true
 }
