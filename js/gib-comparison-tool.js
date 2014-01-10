@@ -609,31 +609,31 @@ var GIBComparisonTool = function () {
     });
     
     // Load institution data
-    $.getJSON("api/institutions.json", function(data) {
+    $.getJSON("api/institutions.json", function (data) {
       
       for (var i = 0; i < data.length; i++) {
-        institutions.push({ facility_code: data[i][0], name: data[i][1] });
+        institutions.push({ value: data[i][0], label: data[i][1] });
       }
       
-      $('#institution-search').bind('change keyup', function() {
-        $('#institution-select').empty();
-        
-        if ($('#institution-search').val().length < 3) { return; }
-        
-        var results = search($('#institution-search').val(), 25);
-        
-        if (results == 0) {
-          $('#institution-select').append(
-            $('<option>').text("No Results").val('')
-          );
-        } else {
-          $.each(results, function (i) {
-            $('#institution-select').append(
-              $('<option>').text(results[i].name).val(results[i].facility_code)
-            );
-          });
+      $('#institution-search').autocomplete({
+        minLength: 3,
+        source: function (request, response) {
+          var results = $.ui.autocomplete.filter(institutions, request.term);
+          response(results.slice(0, 25));
+        },
+        select: function (event, ui) {
+          event.preventDefault();
+          $('#institution-search').val(ui.item.label);
+          formData.facility_code = ui.item.value;
+          GIBComparisonTool.update();
+          $('#veteran-indicators').show();
+          $('#school-indicators').show();
+          $('#employment').show();
+        },
+        focus: function (event, ui) {
+          event.preventDefault();
+          $('#institution-search').val(ui.item.label);
         }
-        
       });
       
     });
