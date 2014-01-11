@@ -796,7 +796,6 @@ var GIBComparisonTool = function () {
     $('#institution-select').hide();
     $('#veteran-indicators').hide();
     $('#school-indicators').hide();
-    $('#employment').hide();
     
     // Load institution data
     $.getJSON("api/institutions.json", function (data) {
@@ -818,7 +817,6 @@ var GIBComparisonTool = function () {
           GIBComparisonTool.update();
           $('#veteran-indicators').show();
           $('#school-indicators').show();
-          $('#employment').show();
         },
         focus: function (event, ui) {
           event.preventDefault();
