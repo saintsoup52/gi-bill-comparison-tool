@@ -809,7 +809,7 @@ var GIBComparisonTool = function () {
         minLength: 3,
         source: function (request, response) {
           var results = $.ui.autocomplete.filter(institutions, request.term);
-          response(results.slice(0, 25));
+          response(results.slice(0, 150));
         },
         select: function (event, ui) {
           event.preventDefault();
