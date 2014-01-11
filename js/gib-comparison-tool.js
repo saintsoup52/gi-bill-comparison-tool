@@ -275,7 +275,7 @@ var GIBComparisonTool = function () {
   var drawGraduationRate = function () {
     var gradMed, gradHigh, 
         gradRankMax, gradRankMed, gradRankHigh,
-        tier;
+        gradCategory;
     
     switch (institution.indicator_group) {
       case 1:
@@ -309,12 +309,18 @@ var GIBComparisonTool = function () {
     }
     
     if (institution.grad_rate >= gradHigh) {
-      tier = 'high';
+      gradCategory = 'high';
     } else if (institution.grad_rate >= gradMed) {
-      tier = 'medium';
+      gradCategory = 'medium';
     } else {
-      tier = 'low';
+      gradCategory = 'low';
     }
+    
+    var attr = "Graduation rate is " + gradCategory + ".";
+    $('#graduation-rates-chart').attr({
+      alt: attr,
+      title: attr
+    });
     
     var pt = institution.grad_rate_rank,
         el, ui, pos;
@@ -327,7 +333,7 @@ var GIBComparisonTool = function () {
     var xText = indent + 40;
     var yText = y + 15;
     
-    switch (tier) {
+    switch (gradCategory) {
       case 'high':
         el = { min: gradRankHigh, max: 1 };
         ui = { min: 190, max: 190 + w };
@@ -436,6 +442,13 @@ var GIBComparisonTool = function () {
    * Draw the loan default rates chart
    */
   var drawLoanDefaultRates = function () {
+    var attr = "Default rate is " + institution.default_rate +
+               "%, compared to the national average of " + CDRAVG + "%.";
+    $('#loan-default-rates-chart').attr({
+      alt: attr,
+      title: attr
+    });
+    
     $('#loan-default-rates-chart').empty();
     
     var canvas = Raphael('loan-default-rates-chart', 300, 200);
@@ -524,7 +537,7 @@ var GIBComparisonTool = function () {
   var drawMedianBorrowingChart = function () {
     var loanMed, loanHigh, 
         loanRankMax, loanRankMed, loanRankHigh,
-        tier;
+        loanCategory;
     
     switch (institution.indicator_group) {
       case 1:
@@ -558,17 +571,23 @@ var GIBComparisonTool = function () {
     }
     
     if (institution.avg_stu_loan_debt >= loanHigh) {
-      tier = 'high';
+      loanCategory = 'high';
     } else if (institution.avg_stu_loan_debt >= loanMed) {
-      tier = 'medium';
+      loanCategory = 'medium';
     } else {
-      tier = 'low';
+      loanCategory = 'low';
     }
+    
+    var attr = "Median Borrowing is " + loanCategory + ".";
+    $('#median-borrowing-chart').attr({
+      alt: attr,
+      title: attr
+    });
     
     var pt = institution.avg_stu_loan_debt_rank,
         el, ui, pos;
     
-    switch (tier) {
+    switch (loanCategory) {
       case 'high':
         el = { min: loanRankHigh, max: loanRankMax };
         ui = { min: 120, max: 180 };
@@ -747,6 +766,13 @@ var GIBComparisonTool = function () {
       $('#yr').html(institution.yr ? 'Yes' : 'No');
       $('#gibill').html(institution.gibill ? institution.gibill : 0);
       
+      // Show/hide the vocational rehab link
+      if (formData.cumulative_service == "service discharge") {
+        $('#voc-rehab').show();
+      } else {
+        $('#voc-rehab').hide();
+      }
+      
       if (calculated.institution_type == "OJT / Apprenticeship") {
         $('#online-classes').hide();
         $('#school-indicators').hide();
@@ -795,6 +821,7 @@ var GIBComparisonTool = function () {
     $('#spouse-active-duty-form').hide();
     $('#institution-select').hide();
     $('#veteran-indicators').hide();
+    $('#voc-rehab').hide();
     $('#school-indicators').hide();
     
     // Load institution data
