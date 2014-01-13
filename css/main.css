@@ -4,18 +4,22 @@ Main header text and background colors:
   orange => #C30
 */
 
+/* Overriding template base styles */
+
 h1, h2, h3 {
   color: #003F72;
-}
-
-#tier4innerContent img {
-  padding: 0;
 }
 
 sup {
   vertical-align: super;
   font-size: 60%;
 }
+
+#tier4innerContent img {
+  padding: 0;
+}
+
+/* Comparison Tool base styles */
 
 .comparison a {
   text-decoration: none;
@@ -24,12 +28,38 @@ sup {
 
 .comparison a:hover {
   text-decoration: underline;
-  color: #fff;
+  color: #990000;
+}
+
+.comparison h1 {
+  margin-bottom: 1em;
+  font-size: 25px;
+}
+
+.comparison h2 {
+  padding: 0;
+  font-size: 22px;
+}
+
+.comparison p {
+  padding: 0;
+  font-size: 16px;
+  color: #444;
 }
 
 .comparison img.info {
   margin-left: 10px;
 }
+
+.comparison span.space {
+  padding-right: 1em;
+}
+
+.comparison .clear {
+  clear: both;
+}
+
+/* Timeline */
 
 .comparison .timeline {
   width: 920px;
@@ -45,10 +75,10 @@ sup {
 
 .comparison .timeline .box {
   position: relative;
-  width: 125px;
-  vertical-align: top;
   display: inline-block;
   margin-right: 10px;
+  vertical-align: top;
+  width: 125px;
 }
 
 .comparison .timeline .box span {
@@ -60,9 +90,9 @@ sup {
 }
 
 .comparison .timeline .icon {
+  margin: 10px auto;
   width: 36px;
   height: 36px;
-  margin: 10px auto;
 }
 
 .comparison .timeline .icon:hover {
@@ -71,7 +101,6 @@ sup {
 
 .comparison .timeline .icon.explore {
   background-image: url('../img/explore.png');
-  z-index: 20;
 }
 
 .comparison .timeline .icon.compare {
@@ -95,27 +124,19 @@ sup {
   background-image: url('../img/employ.png');
 }
 
-.comparison h1 {
-  font-size: 25px;
-  margin-bottom: 1em;
-}
-
-.comparison h2 {
-  padding: 0;
-  font-size: 22px;
-}
-
-.comparison p {
-  color: #444;
-  font-size: 16px;
-  padding: 0;
-}
+/* Main Content */
 
 .comparison .heading {
   margin: 35px 0 25px 0;
   padding: 0;
   font-size: 16px;
   border-bottom: 2px solid #003F72;
+  border-radius: 5px;
+}
+
+.comparison .heading h3 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .comparison .heading.solid {
@@ -123,42 +144,65 @@ sup {
   border: none;
 }
 
-.comparison .heading.solid.navy {
-  background: #003F72;
+.comparison .heading.solid h3 {
+  padding: 0;
+  color: #fff;
 }
 
 .comparison .heading.solid.orange {
   background: #C30;
 }
 
-.comparison .heading.solid h3 {
-  color: #fff;
-  padding: 0;
+.comparison .heading.solid.navy {
+  background: #003F72;
+  margin-top: 10px;
+  font-style: italic;
 }
 
-.comparison .heading h3 {
+.comparison .heading.solid.navy a {
+  text-decoration: underline;
+  color: #fff;
+}
+
+.comparison .heading.solid.navy.table {
+  background: #003F72;
+  margin-top: 10px;
+  margin-bottom: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.comparison .heading span.source {
+  float: right;
+}
+
+.comparison .left-sidebar {
+  font-style: italic;
+  width: 150px;
+  float: left;
+  text-align: right;
+  position: absolute;
+}
+
+.comparison .left-sidebar h2 {
   margin: 0;
 }
 
-.comparison span.space {
-  padding-right: 1em;
+.comparison .right-content {
+  margin-left: 175px;
 }
 
 /* Forms */
 
 .comparison .form-group {
+  margin-right: 15px;
   margin-bottom: 15px;
-}
-
-.comparison .form-group.school-employer {}
-
-.comparison .form-group #institution-search {
-  width: 890px;
+  float: right;
 }
 
 .comparison .form-group label {
-  float: left;
   margin-right: 10px;
+  float: left;
   font-size: 16px;
   color: #444;
 }
@@ -172,119 +216,85 @@ sup {
 }
 
 .comparison .form-group input[type="radio"] {
+  margin-right: 10px;
   float: left;
-  margin-right: 15px;
   color: #444;
 }
 
 .comparison .form-group select {
   position: relative;
   top: -4px;
+  width: 275px;
   font-size: 16px;
   color: #444;
 }
 
 .comparison .form-group button {
-  font-size: 16px;
-  padding: 2px 10px;
   margin-right: 5px;
+  padding: 2px 10px;
+  font-size: 16px;
 }
 
-.comparison .clear {
-  clear: both;
+.comparison .form-group #institution-search {
+  width: 600px;
 }
 
 /* Tables */
 
 .comparison table {
-  font-size: 20px;
+  width: 100%;
+  font-size: 18px;
   background: #003F72;
-  width: 760px;
-  margin: 20px 0;
 }
 
-.comparison table a {
-  color: #fff;
+.comparison table.dark-background a {
   text-decoration: underline;
+  color: #fff;
 }
 
-.comparison table tr {}
+.comparison table.dark-background a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
 
 .comparison table th {
+  padding: 5px 25px;
+  width: 50%;
+  text-transform: none;
   font-family: sans-serif;
   color: #fff;
-  padding: 5px 25px;
   background: none;
-  text-transform: none;
-  width: 50%;
 }
 
 .comparison table th.normal {
   font-weight: normal;
 }
 
-.comparison table th.title {
-  font-size: 24px;
-  font-weight: bolder;
-  border-bottom: 1px solid #fff;
-}
-
-.comparison table th.title span.source {
-  float: right;
-}
-
 .comparison table td {
-  color: #fff;
   padding: 0 25px;
+  color: #fff;
 }
 
-.comparison .school-indicators-box {
-  text-align: center;
-  margin-bottom: 25px;
-}
-
-.comparison .school-indicators-box > div {
-  display: inline-block;
-  width: 350px;
-  vertical-align: middle;
-}
-
-.comparison .school-indicators-box .description {
-  text-align: left;
-}
-
-.comparison .about-this-school {
-  margin: 50px 0 10px 0;
-  text-align: center;
-  font-size: 12px;
-}
-
-.comparison .about-this-school a {
-  margin-right: 50px;
-}
-
-.comparison .about-this-school a:last-child {
-  margin-right: 0;
-}
+/* Benefit Estimator */
 
 .comparison #benefit-estimator {}
 
-.comparison #benefit-estimator table tbody {
-  background: #C30;
+.comparison #benefit-estimator table {
+  background: #C30 url('../img/dollar_sign.png') 3.5% 50% no-repeat;
 }
 
-.comparison #benefit-estimator th.title {
-  background: #003F72;
+.comparison #benefit-estimator table th {
+  padding-left: 100px;
 }
+
 .comparison #benefit-estimator th#institution { font-size: 30px; }
-.comparison #benefit-estimator th#location { font-size: 18px; }
+.comparison #benefit-estimator th#location {}
 .comparison #benefit-estimator th#type {
-  font-size: 18px;
   font-style: italic;
 }
 
-.comparison #benefit-estimator table.inactive tbody {
-  background: #808080;
+.comparison #benefit-estimator table.inactive {
+  background: #808080 url('../img/dollar_sign.png') 3.5% 50% no-repeat;
 }
 .comparison #benefit-estimator table.inactive th#institution,
 .comparison #benefit-estimator table.inactive th#location,
@@ -292,11 +302,28 @@ sup {
   display: none;
 }
 
+.comparison #benefit-estimator #voc-rehab {
+  font-style: normal;
+}
+
+/* Veteran Indicators */
+
 .comparison #veteran-indicators {}
 
-.comparison #veteran-indicators table tbody {
-  background: #43798D;
+.comparison #veteran-indicators table {
+  background: #43798D url('../img/medal.jpg') 90% 50% no-repeat;
 }
+
+.comparison #veteran-indicators table th {
+  padding-left: 100px;
+}
+
+.comparison #veteran-indicators img.yellow-ribbon {
+  width: 20px;
+  height: 20px;
+}
+
+/* School Indicators */
 
 .comparison #school-indicators {
   margin: 20px 0;
@@ -310,10 +337,46 @@ sup {
   background: #003F72;
 }
 
+.comparison #school-indicators table td {
+  padding: 0;
+}
+
+.comparison #school-indicators .box {
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.comparison #school-indicators .box > div {
+  display: inline-block;
+  vertical-align: middle;
+  width: 325px;
+}
+
+.comparison #school-indicators .box .description {
+  text-align: left;
+}
+
+/* About this School */
+
+.comparison .about-this-tool {
+  font-size: 16px;
+  text-align: center;
+}
+
+.comparison .about-this-tool a {
+  margin-right: 50px;
+}
+
+.comparison .about-this-tool a:last-child {
+  margin-right: 0;
+}
+
+/* School/employer search (jQuery UI) */
+
 .ui-autocomplete {
-  max-height: 200px;
-  overflow-y: auto;
   overflow-x: hidden;
+  overflow-y: auto;
+  max-height: 200px;
   background: #fff;
   border: 2px solid #003F72;
 }
