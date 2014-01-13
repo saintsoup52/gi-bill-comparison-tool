@@ -1,6 +1,6 @@
 {
   "facility_code": "20000923",
-  "institution": "Minneapolis Pipefitters Jac",
+  "institution": "MINNEAPOLIS PIPEFITTERS JAC",
   "city": "Brooklyn Park",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55428",
-  "email": false
+  "ope": null
 }

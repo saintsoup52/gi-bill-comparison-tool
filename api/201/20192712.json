@@ -1,6 +1,6 @@
 {
   "facility_code": "20192712",
-  "institution": "Brown Bus Company",
+  "institution": "BROWN BUS COMPANY",
   "city": "Nampa",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83686",
-  "email": false
+  "ope": null
 }

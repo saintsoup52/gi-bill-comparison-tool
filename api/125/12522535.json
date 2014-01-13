@@ -1,6 +1,6 @@
 {
   "facility_code": "12522535",
-  "institution": "Va Hospital",
+  "institution": "VA HOSPITAL",
   "city": "Chillicothe",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45601",
-  "email": false
+  "ope": null
 }

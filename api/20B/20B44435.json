@@ -1,6 +1,6 @@
 {
   "facility_code": "20B44435",
-  "institution": "Inland Division Of Gmc # 2 K",
+  "institution": "INLAND DIVISION OF GMC # 2 K",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45401",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10498746",
-  "institution": "Virginia State Police Area Office #4",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #4",
   "city": "Mineral",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23117",
-  "email": true
+  "ope": null
 }

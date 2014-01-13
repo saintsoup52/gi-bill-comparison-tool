@@ -1,6 +1,6 @@
 {
   "facility_code": "20A90206",
-  "institution": "Southern Peaks Regional Treatment Center",
+  "institution": "SOUTHERN PEAKS REGIONAL TREATMENT CENTER",
   "city": "Canon City",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81212",
-  "email": false
+  "ope": null
 }

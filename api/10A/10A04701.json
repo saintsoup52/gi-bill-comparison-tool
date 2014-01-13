@@ -1,6 +1,6 @@
 {
   "facility_code": "10A04701",
-  "institution": "Lee County Sheriffs Dept",
+  "institution": "LEE COUNTY SHERIFFS DEPT",
   "city": "Opelika",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36868",
-  "email": false
+  "ope": null
 }

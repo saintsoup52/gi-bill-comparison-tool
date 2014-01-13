@@ -1,6 +1,6 @@
 {
   "facility_code": "10866521",
-  "institution": "Pittsfield Police Department",
+  "institution": "PITTSFIELD POLICE DEPARTMENT",
   "city": "Pittsfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1201",
-  "email": true
+  "ope": null
 }

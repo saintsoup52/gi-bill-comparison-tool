@@ -1,6 +1,6 @@
 {
   "facility_code": "10094136",
-  "institution": "Ardmore Police Department",
+  "institution": "ARDMORE POLICE DEPARTMENT",
   "city": "Ardmore",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73401",
-  "email": false
+  "ope": null
 }

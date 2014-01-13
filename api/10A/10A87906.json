@@ -1,6 +1,6 @@
 {
   "facility_code": "10A87906",
-  "institution": "Westminster Police Department",
+  "institution": "WESTMINSTER POLICE DEPARTMENT",
   "city": "Westminster",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80031",
-  "email": true
+  "ope": null
 }

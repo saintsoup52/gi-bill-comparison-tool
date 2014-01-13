@@ -1,6 +1,6 @@
 {
   "facility_code": "10289204",
-  "institution": "Faa Little Rock Atct",
+  "institution": "FAA LITTLE ROCK ATCT",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72206",
-  "email": false
+  "ope": null
 }

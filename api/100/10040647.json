@@ -1,6 +1,6 @@
 {
   "facility_code": "10040647",
-  "institution": "Kent Fire Department Regional Fire Authority (Kfdrfa)",
+  "institution": "KENT FIRE DEPARTMENT REGIONAL FIRE AUTHORITY (KFDRFA)",
   "city": "Kent",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98031",
-  "email": true
+  "ope": null
 }

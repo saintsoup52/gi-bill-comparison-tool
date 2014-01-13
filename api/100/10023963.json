@@ -1,6 +1,6 @@
 {
   "facility_code": "10023963",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Arecibo",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "612",
-  "email": false
+  "ope": null
 }

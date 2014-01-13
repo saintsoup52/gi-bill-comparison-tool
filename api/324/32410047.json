@@ -1,6 +1,6 @@
 {
   "facility_code": "32410047",
-  "institution": "Sacred Heart Medical Center (Ch31 Only)",
+  "institution": "SACRED HEART MEDICAL CENTER (CH31 ONLY)",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99204",
-  "email": false
+  "ope": null
 }

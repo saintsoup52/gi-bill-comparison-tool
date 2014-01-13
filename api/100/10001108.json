@@ -1,6 +1,6 @@
 {
   "facility_code": "10001108",
-  "institution": "Ransome Cat",
+  "institution": "RANSOME CAT",
   "city": "Bear",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19701",
-  "email": true
+  "ope": null
 }

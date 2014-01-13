@@ -1,6 +1,6 @@
 {
   "facility_code": "25800205",
-  "institution": "New Horizons Clc (Ch 31) (Obsolete)",
+  "institution": "NEW HORIZONS CLC (CH 31) (OBSOLETE)",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93309",
-  "email": false
+  "ope": null
 }

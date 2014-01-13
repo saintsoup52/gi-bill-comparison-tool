@@ -1,6 +1,6 @@
 {
   "facility_code": "11101578",
-  "institution": "Sofia University",
+  "institution": "SOFIA UNIVERSITY",
   "city": "Sofia 1504",
   "state": "Bulgaria",
   "country": "Bulgaria",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

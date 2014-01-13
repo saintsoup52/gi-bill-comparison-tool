@@ -1,6 +1,6 @@
 {
   "facility_code": "19A00733",
-  "institution": "Center For Disease Control - Ch 31 Only",
+  "institution": "CENTER FOR DISEASE CONTROL - CH 31 ONLY",
   "city": "Rtp",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27709",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10634225",
-  "institution": "Berkeley Fire Dept.",
+  "institution": "BERKELEY FIRE DEPT.",
   "city": "Berkeley",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63134",
-  "email": false
+  "ope": null
 }

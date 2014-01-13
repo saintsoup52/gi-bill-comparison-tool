@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03801",
-  "institution": "Defense Contract Management Agency (Dcma)",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (DCMA)",
   "city": "Redstone Arsenal",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35898",
-  "email": false
+  "ope": null
 }

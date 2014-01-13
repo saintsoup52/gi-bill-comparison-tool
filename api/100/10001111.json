@@ -1,6 +1,6 @@
 {
   "facility_code": "10001111",
-  "institution": "Georgia Dept Of Revenue - Alcohol/Tobacco",
+  "institution": "GEORGIA DEPT OF REVENUE - ALCOHOL/TOBACCO",
   "city": "Douglas",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31533",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11803142",
-  "institution": "University Of Tennessee At Chattanooga",
+  "institution": "UNIVERSITY OF TENNESSEE AT CHATTANOOGA",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "37403",
-  "email": true
+  "ope": "00352900"
 }

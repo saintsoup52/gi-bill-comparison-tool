@@ -1,6 +1,6 @@
 {
   "facility_code": "10C34343",
-  "institution": "Us Marshal Service So Dist Of Tx Houston",
+  "institution": "US MARSHAL SERVICE SO DIST OF TX HOUSTON",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77002",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25054721",
-  "institution": "Skills",
+  "institution": "SKILLS",
   "city": "Amherst",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1002",
-  "email": false
+  "ope": null
 }

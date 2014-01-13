@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07011",
-  "institution": "Hancock State Prison",
+  "institution": "HANCOCK STATE PRISON",
   "city": "Sparta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31087",
-  "email": false
+  "ope": null
 }

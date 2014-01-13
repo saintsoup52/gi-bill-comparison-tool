@@ -1,6 +1,6 @@
 {
   "facility_code": "10606725",
-  "institution": "City Of Lockwood",
+  "institution": "CITY OF LOCKWOOD",
   "city": "Lockwood",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65682",
-  "email": false
+  "ope": null
 }

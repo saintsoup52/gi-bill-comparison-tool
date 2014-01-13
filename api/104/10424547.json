@@ -1,6 +1,6 @@
 {
   "facility_code": "10424547",
-  "institution": "Washington State Patrol-Communications Division",
+  "institution": "WASHINGTON STATE PATROL-COMMUNICATIONS DIVISION",
   "city": "Olympia",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98504",
-  "email": true
+  "ope": null
 }

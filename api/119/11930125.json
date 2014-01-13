@@ -1,6 +1,6 @@
 {
   "facility_code": "11930125",
-  "institution": "Missouri University Of Science And Technology",
+  "institution": "MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY",
   "city": "Rolla",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "65401",
-  "email": true
+  "ope": "00251700"
 }

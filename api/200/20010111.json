@@ -1,6 +1,6 @@
 {
   "facility_code": "20010111",
-  "institution": "Georgia Power Company-Metro Transmission Maint. Ctr (Tmc)",
+  "institution": "GEORGIA POWER COMPANY-METRO TRANSMISSION MAINT. CTR (TMC)",
   "city": "Conyers",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30012",
-  "email": false
+  "ope": null
 }

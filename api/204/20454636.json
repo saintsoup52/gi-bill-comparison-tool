@@ -1,6 +1,6 @@
 {
   "facility_code": "20454636",
-  "institution": "Holly",
+  "institution": "HOLLY",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74107",
-  "email": false
+  "ope": null
 }

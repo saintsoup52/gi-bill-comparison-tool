@@ -1,6 +1,6 @@
 {
   "facility_code": "20168620",
-  "institution": "La Ferme Restaurant",
+  "institution": "LA FERME RESTAURANT",
   "city": "Chevy Chase",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20815",
-  "email": false
+  "ope": null
 }

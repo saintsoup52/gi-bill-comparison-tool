@@ -1,6 +1,6 @@
 {
   "facility_code": "10489317",
-  "institution": "Berea Police Department",
+  "institution": "BEREA POLICE DEPARTMENT",
   "city": "Berea",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40403",
-  "email": false
+  "ope": null
 }

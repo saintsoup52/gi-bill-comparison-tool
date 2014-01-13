@@ -1,6 +1,6 @@
 {
   "facility_code": "31003035",
-  "institution": "Ohio Wesleyan University",
+  "institution": "OHIO WESLEYAN UNIVERSITY",
   "city": "Delaware",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "43015",
-  "email": true
+  "ope": "00310900"
 }

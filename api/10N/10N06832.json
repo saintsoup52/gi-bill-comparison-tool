@@ -1,6 +1,6 @@
 {
   "facility_code": "10N06832",
-  "institution": "Oneida County Sheriff'S Office",
+  "institution": "ONEIDA COUNTY SHERIFF'S OFFICE",
   "city": "Oriskany",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13424",
-  "email": true
+  "ope": null
 }

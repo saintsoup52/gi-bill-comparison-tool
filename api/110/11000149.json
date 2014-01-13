@@ -1,6 +1,6 @@
 {
   "facility_code": "11000149",
-  "institution": "Univ Of Wisconsin-Madison",
+  "institution": "UNIV OF WISCONSIN-MADISON",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53706",
-  "email": true
+  "ope": "00389500"
 }

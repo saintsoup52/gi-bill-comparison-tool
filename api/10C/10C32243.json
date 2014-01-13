@@ -1,6 +1,6 @@
 {
   "facility_code": "10C32243",
-  "institution": "Dhs Immigration & Customs Enforcement El Paso",
+  "institution": "DHS IMMIGRATION & CUSTOMS ENFORCEMENT EL PASO",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79912",
-  "email": false
+  "ope": null
 }

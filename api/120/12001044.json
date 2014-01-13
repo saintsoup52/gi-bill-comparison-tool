@@ -1,6 +1,6 @@
 {
   "facility_code": "12001044",
-  "institution": "Department Of Veterans Affairs Medical Center",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS MEDICAL CENTER",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84148",
-  "email": true
+  "ope": null
 }

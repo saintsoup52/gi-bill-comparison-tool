@@ -1,6 +1,6 @@
 {
   "facility_code": "10502815",
-  "institution": "Eldora Police Department",
+  "institution": "ELDORA POLICE DEPARTMENT",
   "city": "Eldora",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50627",
-  "email": false
+  "ope": null
 }

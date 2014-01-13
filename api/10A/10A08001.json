@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08001",
-  "institution": "Mt. Vernon Police Dept.",
+  "institution": "MT. VERNON POLICE DEPT.",
   "city": "Mt. Vernon",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36560",
-  "email": false
+  "ope": null
 }

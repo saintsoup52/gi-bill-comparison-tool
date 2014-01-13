@@ -1,6 +1,6 @@
 {
   "facility_code": "10010611",
-  "institution": "Lumpkin County Sheriff'S Office",
+  "institution": "LUMPKIN COUNTY SHERIFF'S OFFICE",
   "city": "Dahlonega",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30533",
-  "email": true
+  "ope": null
 }

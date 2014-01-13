@@ -1,6 +1,6 @@
 {
   "facility_code": "20D02638",
-  "institution": "Norfolk Southern Railroad",
+  "institution": "NORFOLK SOUTHERN RAILROAD",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17110",
-  "email": true
+  "ope": null
 }

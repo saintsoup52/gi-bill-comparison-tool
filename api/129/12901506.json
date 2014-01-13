@@ -1,6 +1,6 @@
 {
   "facility_code": "12901506",
-  "institution": "Denver Health Paramedic School",
+  "institution": "DENVER HEALTH PARAMEDIC SCHOOL",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80204",
-  "email": true
+  "ope": null
 }

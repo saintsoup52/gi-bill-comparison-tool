@@ -1,6 +1,6 @@
 {
   "facility_code": "20012211",
-  "institution": "Georgia Power Company - West Region - Columbus",
+  "institution": "GEORGIA POWER COMPANY - WEST REGION - COLUMBUS",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31902",
-  "email": false
+  "ope": null
 }

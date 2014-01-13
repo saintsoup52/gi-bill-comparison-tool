@@ -1,6 +1,6 @@
 {
   "facility_code": "10B99135",
-  "institution": "Dublin Division Of Police",
+  "institution": "DUBLIN DIVISION OF POLICE",
   "city": "Dublin",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43017",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10018433",
-  "institution": "Ncdoc - Gaston Correctional Center",
+  "institution": "NCDOC - GASTON CORRECTIONAL CENTER",
   "city": "Dallas",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28034",
-  "email": false
+  "ope": null
 }

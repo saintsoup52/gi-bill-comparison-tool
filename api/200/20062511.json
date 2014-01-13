@@ -1,6 +1,6 @@
 {
   "facility_code": "20062511",
-  "institution": "Georgia Power Company - Savannah",
+  "institution": "GEORGIA POWER COMPANY - SAVANNAH",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31405",
-  "email": true
+  "ope": null
 }

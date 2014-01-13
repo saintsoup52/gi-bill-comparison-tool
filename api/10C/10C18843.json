@@ -1,6 +1,6 @@
 {
   "facility_code": "10C18843",
-  "institution": "Faa Austin Aus",
+  "institution": "FAA AUSTIN AUS",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78719",
-  "email": false
+  "ope": null
 }

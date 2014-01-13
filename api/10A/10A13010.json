@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13010",
-  "institution": "Vaopc Pharmacy - Tallahassee",
+  "institution": "VAOPC PHARMACY - TALLAHASSEE",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32308",
-  "email": true
+  "ope": null
 }

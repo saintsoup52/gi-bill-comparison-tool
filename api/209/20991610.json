@@ -1,6 +1,6 @@
 {
   "facility_code": "20991610",
-  "institution": "Comcast",
+  "institution": "COMCAST",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32312",
-  "email": false
+  "ope": null
 }

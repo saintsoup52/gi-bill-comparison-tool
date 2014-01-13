@@ -1,6 +1,6 @@
 {
   "facility_code": "10052102",
-  "institution": "Us Army 59th Signal Battalion",
+  "institution": "US ARMY 59TH SIGNAL BATTALION",
   "city": "Fort Richardson",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99505",
-  "email": false
+  "ope": null
 }

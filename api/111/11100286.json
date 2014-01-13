@@ -1,6 +1,6 @@
 {
   "facility_code": "11100286",
-  "institution": "Universidad Autonoma De La Laguna",
+  "institution": "UNIVERSIDAD AUTONOMA DE LA LAGUNA",
   "city": "Torreon",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

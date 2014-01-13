@@ -1,6 +1,6 @@
 {
   "facility_code": "119D0110",
-  "institution": "South Florida State College",
+  "institution": "SOUTH FLORIDA STATE COLLEGE",
   "city": "Avon Park",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33825",
-  "email": true
+  "ope": null
 }

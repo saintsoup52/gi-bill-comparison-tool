@@ -1,6 +1,6 @@
 {
   "facility_code": "10445347",
-  "institution": "United States Bureau Of Reclamation Grand Coulee Dam",
+  "institution": "UNITED STATES BUREAU OF RECLAMATION GRAND COULEE DAM",
   "city": "Grand Coulee",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99133",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31100084",
-  "institution": "Istituto Europeo Di Design",
+  "institution": "ISTITUTO EUROPEO DI DESIGN",
   "city": "00182 Rome",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

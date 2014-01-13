@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10901",
-  "institution": "U.S. Equal Employment Opportunity Commission - Ch31",
+  "institution": "U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION - CH31",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35209",
-  "email": false
+  "ope": null
 }

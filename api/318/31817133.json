@@ -1,6 +1,6 @@
 {
   "facility_code": "31817133",
-  "institution": "Duke University School Of Medicine",
+  "institution": "DUKE UNIVERSITY SCHOOL OF MEDICINE",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "27710",
-  "email": true
+  "ope": "00292000"
 }

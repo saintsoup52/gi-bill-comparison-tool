@@ -1,6 +1,6 @@
 {
   "facility_code": "10168127",
-  "institution": "Lancaster County Sheriff Office",
+  "institution": "LANCASTER COUNTY SHERIFF OFFICE",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68508",
-  "email": false
+  "ope": null
 }

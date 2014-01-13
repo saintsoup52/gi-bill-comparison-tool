@@ -1,6 +1,6 @@
 {
   "facility_code": "10235303",
-  "institution": "U.S. Marshals Service - Yuma",
+  "institution": "U.S. MARSHALS SERVICE - YUMA",
   "city": "Yuma",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85364",
-  "email": false
+  "ope": null
 }

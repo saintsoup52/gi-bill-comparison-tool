@@ -1,6 +1,6 @@
 {
   "facility_code": "10551930",
-  "institution": "Borough Of Butler",
+  "institution": "BOROUGH OF BUTLER",
   "city": "Butler",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7405",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103D0205",
-  "institution": "Dept Of Veterans Affairs (Oakland Regional Office)",
+  "institution": "DEPT OF VETERANS AFFAIRS (OAKLAND REGIONAL OFFICE)",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94612",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20D20638",
-  "institution": "Jade Corporation",
+  "institution": "JADE CORPORATION",
   "city": "Huntingdon",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19006",
-  "email": false
+  "ope": null
 }

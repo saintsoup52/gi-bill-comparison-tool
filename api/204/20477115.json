@@ -1,6 +1,6 @@
 {
   "facility_code": "20477115",
-  "institution": "Scott County Sheriff'S Office",
+  "institution": "SCOTT COUNTY SHERIFF'S OFFICE",
   "city": "Davenport",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52801",
-  "email": false
+  "ope": null
 }

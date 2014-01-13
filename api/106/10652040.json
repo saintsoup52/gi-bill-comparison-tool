@@ -1,6 +1,6 @@
 {
   "facility_code": "10652040",
-  "institution": "Aiken County Detention Center",
+  "institution": "AIKEN COUNTY DETENTION CENTER",
   "city": "Aiken",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20841",
-  "email": false
+  "ope": null
 }

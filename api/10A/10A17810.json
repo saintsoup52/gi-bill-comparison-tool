@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17810",
-  "institution": "Defense Contract Auditing Agency",
+  "institution": "DEFENSE CONTRACT AUDITING AGENCY",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33762",
-  "email": true
+  "ope": null
 }

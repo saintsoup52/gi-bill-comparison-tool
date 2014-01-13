@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16032",
-  "institution": "Orangetown Police Department",
+  "institution": "ORANGETOWN POLICE DEPARTMENT",
   "city": "Orangeburg",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10962",
-  "email": false
+  "ope": null
 }

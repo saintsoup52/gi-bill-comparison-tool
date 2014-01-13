@@ -1,6 +1,6 @@
 {
   "facility_code": "31002321",
-  "institution": "Smith College",
+  "institution": "SMITH COLLEGE",
   "city": "Northampton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "1063",
-  "email": true
+  "ope": "00220900"
 }

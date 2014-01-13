@@ -1,6 +1,6 @@
 {
   "facility_code": "12112522",
-  "institution": "John D Dingell Va Medical Center",
+  "institution": "JOHN D DINGELL VA MEDICAL CENTER",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48201",
-  "email": false
+  "ope": null
 }

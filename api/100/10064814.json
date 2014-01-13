@@ -1,6 +1,6 @@
 {
   "facility_code": "10064814",
-  "institution": "Lapel Police Department",
+  "institution": "LAPEL POLICE DEPARTMENT",
   "city": "Lapel",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46051",
-  "email": false
+  "ope": null
 }

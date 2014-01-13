@@ -1,6 +1,6 @@
 {
   "facility_code": "20234519",
-  "institution": "Phillip Morris Usa",
+  "institution": "PHILLIP MORRIS USA",
   "city": "Berwick",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3901",
-  "email": true
+  "ope": null
 }

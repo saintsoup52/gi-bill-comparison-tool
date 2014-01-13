@@ -1,6 +1,6 @@
 {
   "facility_code": "10Z53805",
-  "institution": "San Diego Trolley Inc. Jatc",
+  "institution": "SAN DIEGO TROLLEY INC. JATC",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92101",
-  "email": false
+  "ope": null
 }

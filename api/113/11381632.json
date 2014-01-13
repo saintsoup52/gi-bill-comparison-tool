@@ -1,6 +1,6 @@
 {
   "facility_code": "11381632",
-  "institution": "Suny College Of Environmental Science & Forestry",
+  "institution": "SUNY COLLEGE OF ENVIRONMENTAL SCIENCE & FORESTRY",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "13210",
-  "email": true
+  "ope": "00285100"
 }

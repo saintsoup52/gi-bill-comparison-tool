@@ -1,6 +1,6 @@
 {
   "facility_code": "102B6405",
-  "institution": "Faa- Santa Rosa Atct",
+  "institution": "FAA- SANTA ROSA ATCT",
   "city": "Santa Rosa",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95403",
-  "email": true
+  "ope": null
 }

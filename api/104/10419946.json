@@ -1,6 +1,6 @@
 {
   "facility_code": "10419946",
-  "institution": "The Hamptons/Nasa Steam Plant",
+  "institution": "THE HAMPTONS/NASA STEAM PLANT",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23666",
-  "email": true
+  "ope": null
 }

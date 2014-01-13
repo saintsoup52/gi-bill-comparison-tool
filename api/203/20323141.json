@@ -1,6 +1,6 @@
 {
   "facility_code": "20323141",
-  "institution": "Waddell & Reed",
+  "institution": "WADDELL & REED",
   "city": "Rapid City",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57702",
-  "email": false
+  "ope": null
 }

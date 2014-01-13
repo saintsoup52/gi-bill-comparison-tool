@@ -1,6 +1,6 @@
 {
   "facility_code": "26001707",
-  "institution": "Ridley-Lowell New London Campus",
+  "institution": "RIDLEY-LOWELL NEW LONDON CAMPUS",
   "city": "New London",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "6320",
-  "email": true
+  "ope": "02112300"
 }

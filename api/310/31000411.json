@@ -1,6 +1,6 @@
 {
   "facility_code": "31000411",
-  "institution": "Brenau University",
+  "institution": "BRENAU UNIVERSITY",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30501",
-  "email": true
+  "ope": "00155600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35010914",
-  "institution": "Ymca",
+  "institution": "YMCA",
   "city": "Muncie",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47305",
-  "email": false
+  "ope": null
 }

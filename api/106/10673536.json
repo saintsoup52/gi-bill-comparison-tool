@@ -1,6 +1,6 @@
 {
   "facility_code": "10673536",
-  "institution": "Owasso Police Department",
+  "institution": "OWASSO POLICE DEPARTMENT",
   "city": "Owasso",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74055",
-  "email": false
+  "ope": null
 }

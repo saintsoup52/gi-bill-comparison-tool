@@ -1,6 +1,6 @@
 {
   "facility_code": "10987110",
-  "institution": "Wauchula Police Department",
+  "institution": "WAUCHULA POLICE DEPARTMENT",
   "city": "Wauchula",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33873",
-  "email": false
+  "ope": null
 }

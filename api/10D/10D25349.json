@@ -1,6 +1,6 @@
 {
   "facility_code": "10D25349",
-  "institution": "Us Dept Of Interior/Bureau Of Land Management",
+  "institution": "US DEPT OF INTERIOR/BUREAU OF LAND MANAGEMENT",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53202",
-  "email": false
+  "ope": null
 }

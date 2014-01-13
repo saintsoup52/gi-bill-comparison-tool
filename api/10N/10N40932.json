@@ -1,6 +1,6 @@
 {
   "facility_code": "10N40932",
-  "institution": "Macarthur Airport",
+  "institution": "MACARTHUR AIRPORT",
   "city": "Ronkonkoma",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11779",
-  "email": false
+  "ope": null
 }

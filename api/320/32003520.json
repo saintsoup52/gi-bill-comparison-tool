@@ -1,6 +1,6 @@
 {
   "facility_code": "32003520",
-  "institution": "Maryland General Hospital",
+  "institution": "MARYLAND GENERAL HOSPITAL",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21201",
-  "email": false
+  "ope": "00578300"
 }

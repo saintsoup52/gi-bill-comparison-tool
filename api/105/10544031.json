@@ -1,6 +1,6 @@
 {
   "facility_code": "10544031",
-  "institution": "Usda Animal & Plant Health Investigative Service",
+  "institution": "USDA ANIMAL & PLANT HEALTH INVESTIGATIVE SERVICE",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87109",
-  "email": false
+  "ope": null
 }

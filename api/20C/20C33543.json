@@ -1,6 +1,6 @@
 {
   "facility_code": "20C33543",
-  "institution": "The Dog Spa",
+  "institution": "THE DOG SPA",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79119",
-  "email": false
+  "ope": null
 }

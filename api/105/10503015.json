@@ -1,6 +1,6 @@
 {
   "facility_code": "10503015",
-  "institution": "Spencer Police Department",
+  "institution": "SPENCER POLICE DEPARTMENT",
   "city": "Spencer",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "51301",
-  "email": false
+  "ope": null
 }

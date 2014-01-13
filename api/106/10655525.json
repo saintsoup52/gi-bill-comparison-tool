@@ -1,6 +1,6 @@
 {
   "facility_code": "10655525",
-  "institution": "Lee'S Summit Fire Dept.",
+  "institution": "LEE'S SUMMIT FIRE DEPT.",
   "city": "Lee'S Summit",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64063",
-  "email": false
+  "ope": null
 }

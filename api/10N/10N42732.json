@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42732",
-  "institution": "New York State Division Of Parole- Utica Area Office",
+  "institution": "NEW YORK STATE DIVISION OF PAROLE- UTICA AREA OFFICE",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13501",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D19738",
-  "institution": "Hampden Township Police Dept",
+  "institution": "HAMPDEN TOWNSHIP POLICE DEPT",
   "city": "Mechanicsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17070",
-  "email": false
+  "ope": null
 }

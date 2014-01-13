@@ -1,6 +1,6 @@
 {
   "facility_code": "10C18043",
-  "institution": "Faa Houston Tracon Atc",
+  "institution": "FAA HOUSTON TRACON ATC",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77032",
-  "email": true
+  "ope": null
 }

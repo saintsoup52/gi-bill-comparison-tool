@@ -1,6 +1,6 @@
 {
   "facility_code": "102B9905",
-  "institution": "City Of Galt Police Department",
+  "institution": "CITY OF GALT POLICE DEPARTMENT",
   "city": "Galt",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95632",
-  "email": false
+  "ope": null
 }

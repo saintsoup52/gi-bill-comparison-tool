@@ -1,6 +1,6 @@
 {
   "facility_code": "20C97633",
-  "institution": "Iuec Local 80",
+  "institution": "IUEC LOCAL 80",
   "city": "Hillsborough",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27278",
-  "email": true
+  "ope": null
 }

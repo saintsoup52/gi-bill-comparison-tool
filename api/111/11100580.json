@@ -1,6 +1,6 @@
 {
   "facility_code": "11100580",
-  "institution": "Carl Von Ossietzky Universitat",
+  "institution": "CARL VON OSSIETZKY UNIVERSITAT",
   "city": "Oldenburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

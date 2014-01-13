@@ -1,6 +1,6 @@
 {
   "facility_code": "11100670",
-  "institution": "University Of Queensland",
+  "institution": "UNIVERSITY OF QUEENSLAND",
   "city": "Brisbane",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

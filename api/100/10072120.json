@@ -1,6 +1,6 @@
 {
   "facility_code": "10072120",
-  "institution": "Maryland Transportation Authority Police",
+  "institution": "MARYLAND TRANSPORTATION AUTHORITY POLICE",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21222",
-  "email": false
+  "ope": null
 }

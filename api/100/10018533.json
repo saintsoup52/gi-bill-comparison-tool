@@ -1,6 +1,6 @@
 {
   "facility_code": "10018533",
-  "institution": "Ncdoc - Piedmont Correctional Institution",
+  "institution": "NCDOC - PIEDMONT CORRECTIONAL INSTITUTION",
   "city": "Salisbury",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28147",
-  "email": false
+  "ope": null
 }

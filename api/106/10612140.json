@@ -1,6 +1,6 @@
 {
   "facility_code": "10612140",
-  "institution": "Anderson County Detention Center",
+  "institution": "ANDERSON COUNTY DETENTION CENTER",
   "city": "Anderson",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29625",
-  "email": true
+  "ope": null
 }

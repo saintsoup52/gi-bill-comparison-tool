@@ -1,6 +1,6 @@
 {
   "facility_code": "10001502",
-  "institution": "University Of Fairbanks (Vr&C) (Ch31)",
+  "institution": "UNIVERSITY OF FAIRBANKS (VR&C) (CH31)",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99775",
-  "email": false
+  "ope": null
 }

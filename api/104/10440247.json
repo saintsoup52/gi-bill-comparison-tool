@@ -1,6 +1,6 @@
 {
   "facility_code": "10440247",
-  "institution": "Faa Seattle Tower",
+  "institution": "FAA SEATTLE TOWER",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98158",
-  "email": true
+  "ope": null
 }

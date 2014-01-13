@@ -1,6 +1,6 @@
 {
   "facility_code": "10C30743",
-  "institution": "Faa Abilene System Support Center",
+  "institution": "FAA ABILENE SYSTEM SUPPORT CENTER",
   "city": "Abilene",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79602",
-  "email": false
+  "ope": null
 }

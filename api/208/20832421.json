@@ -1,6 +1,6 @@
 {
   "facility_code": "20832421",
-  "institution": "Pipes And Drains",
+  "institution": "PIPES AND DRAINS",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2110",
-  "email": false
+  "ope": null
 }

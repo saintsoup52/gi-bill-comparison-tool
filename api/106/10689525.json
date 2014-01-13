@@ -1,6 +1,6 @@
 {
   "facility_code": "10689525",
-  "institution": "Republic Police Department",
+  "institution": "REPUBLIC POLICE DEPARTMENT",
   "city": "Republic",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65738",
-  "email": false
+  "ope": null
 }

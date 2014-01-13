@@ -1,6 +1,6 @@
 {
   "facility_code": "21000280",
-  "institution": "Klinikum Der Stadt Mannheim",
+  "institution": "KLINIKUM DER STADT MANNHEIM",
   "city": "6800 Mannheim 1",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

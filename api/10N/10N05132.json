@@ -1,6 +1,6 @@
 {
   "facility_code": "10N05132",
-  "institution": "Niagara Falls Afb Fire Department",
+  "institution": "NIAGARA FALLS AFB FIRE DEPARTMENT",
   "city": "Niagara Falls",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14304",
-  "email": true
+  "ope": null
 }

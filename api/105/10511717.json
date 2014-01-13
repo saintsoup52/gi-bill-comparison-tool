@@ -1,6 +1,6 @@
 {
   "facility_code": "10511717",
-  "institution": "Springfield Police Department",
+  "institution": "SPRINGFIELD POLICE DEPARTMENT",
   "city": "Springfield",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40046",
-  "email": false
+  "ope": null
 }

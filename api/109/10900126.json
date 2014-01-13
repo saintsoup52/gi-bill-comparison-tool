@@ -1,6 +1,6 @@
 {
   "facility_code": "10900126",
-  "institution": "Missoula Va Community Based Outpatient Clinic",
+  "institution": "MISSOULA VA COMMUNITY BASED OUTPATIENT CLINIC",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59808",
-  "email": false
+  "ope": null
 }

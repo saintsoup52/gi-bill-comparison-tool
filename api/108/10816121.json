@@ -1,6 +1,6 @@
 {
   "facility_code": "10816121",
-  "institution": "Medford Police Department",
+  "institution": "MEDFORD POLICE DEPARTMENT",
   "city": "Medford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2155",
-  "email": false
+  "ope": null
 }

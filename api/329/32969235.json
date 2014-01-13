@@ -1,6 +1,6 @@
 {
   "facility_code": "32969235",
-  "institution": "Aultman Hospital",
+  "institution": "AULTMAN HOSPITAL",
   "city": "Canton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "44710",
-  "email": false
+  "ope": "00648700"
 }

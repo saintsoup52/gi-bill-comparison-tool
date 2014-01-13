@@ -1,6 +1,6 @@
 {
   "facility_code": "20D14033",
-  "institution": "Dow Corning",
+  "institution": "DOW CORNING",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27407",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20001218",
-  "institution": "Baton Rouge Pipetrades J.A.C.",
+  "institution": "BATON ROUGE PIPETRADES J.A.C.",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70805",
-  "email": false
+  "ope": null
 }

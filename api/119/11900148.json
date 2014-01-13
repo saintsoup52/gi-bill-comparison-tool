@@ -1,6 +1,6 @@
 {
   "facility_code": "11900148",
-  "institution": "West Virginia State University",
+  "institution": "WEST VIRGINIA STATE UNIVERSITY",
   "city": "Institute",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "25112",
-  "email": true
+  "ope": "00382600"
 }

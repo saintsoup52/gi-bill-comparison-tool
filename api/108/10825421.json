@@ -1,6 +1,6 @@
 {
   "facility_code": "10825421",
-  "institution": "Randolph Fire Department",
+  "institution": "RANDOLPH FIRE DEPARTMENT",
   "city": "Randolph",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2368",
-  "email": false
+  "ope": null
 }

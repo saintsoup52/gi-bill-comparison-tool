@@ -1,6 +1,6 @@
 {
   "facility_code": "10018425",
-  "institution": "Springfield Police Department",
+  "institution": "SPRINGFIELD POLICE DEPARTMENT",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65807",
-  "email": true
+  "ope": null
 }

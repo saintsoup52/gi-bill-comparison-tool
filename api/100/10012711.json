@@ -1,6 +1,6 @@
 {
   "facility_code": "10012711",
-  "institution": "Effingham County Sheriffs Office",
+  "institution": "EFFINGHAM COUNTY SHERIFFS OFFICE",
   "city": "Springfield",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31329",
-  "email": false
+  "ope": null
 }

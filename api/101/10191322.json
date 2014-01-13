@@ -1,6 +1,6 @@
 {
   "facility_code": "10191322",
-  "institution": "Faa Air Traffic Control Tower Oakland County Int'L Airport",
+  "institution": "FAA AIR TRAFFIC CONTROL TOWER OAKLAND COUNTY INT'L AIRPORT",
   "city": "Waterford",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48327",
-  "email": true
+  "ope": null
 }

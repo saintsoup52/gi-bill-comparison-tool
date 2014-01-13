@@ -1,6 +1,6 @@
 {
   "facility_code": "10505030",
-  "institution": "Cherry Hill Police Department",
+  "institution": "CHERRY HILL POLICE DEPARTMENT",
   "city": "Cherry Hill",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8002",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10069111",
-  "institution": "Darien Police Department",
+  "institution": "DARIEN POLICE DEPARTMENT",
   "city": "Darien",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31305",
-  "email": true
+  "ope": null
 }

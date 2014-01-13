@@ -1,6 +1,6 @@
 {
   "facility_code": "10105028",
-  "institution": "North Las Vegas Municipal Court (Ch31)",
+  "institution": "NORTH LAS VEGAS MUNICIPAL COURT (CH31)",
   "city": "North Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89030",
-  "email": false
+  "ope": null
 }

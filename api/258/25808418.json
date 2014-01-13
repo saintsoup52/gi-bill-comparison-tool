@@ -1,6 +1,6 @@
 {
   "facility_code": "25808418",
-  "institution": "Sewerage And Water Board (S&Wb) (Ch31)",
+  "institution": "SEWERAGE AND WATER BOARD (S&WB) (CH31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70125",
-  "email": false
+  "ope": null
 }

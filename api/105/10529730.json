@@ -1,6 +1,6 @@
 {
   "facility_code": "10529730",
-  "institution": "South Orange Police Department",
+  "institution": "SOUTH ORANGE POLICE DEPARTMENT",
   "city": "South Orange",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7079",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10057814",
-  "institution": "South Bend Fire Department",
+  "institution": "SOUTH BEND FIRE DEPARTMENT",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46601",
-  "email": false
+  "ope": null
 }

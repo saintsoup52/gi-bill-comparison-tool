@@ -1,6 +1,6 @@
 {
   "facility_code": "102B2205",
-  "institution": "Faa- Gillespie Field Atct",
+  "institution": "FAA- GILLESPIE FIELD ATCT",
   "city": "El Cajon",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92020",
-  "email": false
+  "ope": null
 }

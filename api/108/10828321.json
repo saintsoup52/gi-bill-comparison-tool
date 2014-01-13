@@ -1,6 +1,6 @@
 {
   "facility_code": "10828321",
-  "institution": "Marlboro Fire Department",
+  "institution": "MARLBORO FIRE DEPARTMENT",
   "city": "Marlboro",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1752",
-  "email": false
+  "ope": null
 }

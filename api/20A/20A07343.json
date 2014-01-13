@@ -1,6 +1,6 @@
 {
   "facility_code": "20A07343",
-  "institution": "Exxon Mobil Chemical Company Baytown Olefins Plant",
+  "institution": "EXXON MOBIL CHEMICAL COMPANY BAYTOWN OLEFINS PLANT",
   "city": "Baytown",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77520",
-  "email": false
+  "ope": null
 }

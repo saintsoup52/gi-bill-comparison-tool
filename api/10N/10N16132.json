@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16132",
-  "institution": "Marcellus Police Department",
+  "institution": "MARCELLUS POLICE DEPARTMENT",
   "city": "Marcellus",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13108",
-  "email": false
+  "ope": null
 }

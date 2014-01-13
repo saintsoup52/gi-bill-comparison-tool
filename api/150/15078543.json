@@ -1,6 +1,6 @@
 {
   "facility_code": "15078543",
-  "institution": "Tx A And M Engr Ext Sv Intl Unexpld Ord Prog",
+  "institution": "TX A AND M ENGR EXT SV INTL UNEXPLD ORD PROG",
   "city": "Bryan",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77807",
-  "email": false
+  "ope": null
 }

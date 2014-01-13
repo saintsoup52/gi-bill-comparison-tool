@@ -1,6 +1,6 @@
 {
   "facility_code": "10686225",
-  "institution": "United States Postal Service",
+  "institution": "UNITED STATES POSTAL SERVICE",
   "city": "Belton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64012",
-  "email": false
+  "ope": null
 }

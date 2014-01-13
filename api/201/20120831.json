@@ -1,6 +1,6 @@
 {
   "facility_code": "20120831",
-  "institution": "Public Service Co. Reeves Station",
+  "institution": "PUBLIC SERVICE CO. REEVES STATION",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87113",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10508117",
-  "institution": "Ky State Probation & Parole Office District 10",
+  "institution": "KY STATE PROBATION & PAROLE OFFICE DISTRICT 10",
   "city": "London",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40741",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20000502",
-  "institution": "Fairbanks Area Carpenters Apprenticeship",
+  "institution": "FAIRBANKS AREA CARPENTERS APPRENTICESHIP",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99701",
-  "email": false
+  "ope": null
 }

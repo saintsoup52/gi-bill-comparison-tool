@@ -1,6 +1,6 @@
 {
   "facility_code": "10506342",
-  "institution": "Tennessee Valley Authority - Soddy Daisy",
+  "institution": "TENNESSEE VALLEY AUTHORITY - SODDY DAISY",
   "city": "Soddy-Daisy",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37384",
-  "email": false
+  "ope": null
 }

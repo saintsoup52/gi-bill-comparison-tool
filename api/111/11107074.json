@@ -1,6 +1,6 @@
 {
   "facility_code": "11107074",
-  "institution": "University College Dublin",
+  "institution": "UNIVERSITY COLLEGE DUBLIN",
   "city": "Belfield",
   "state": "Ireland",
   "country": "Ireland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

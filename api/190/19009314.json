@@ -1,6 +1,6 @@
 {
   "facility_code": "19009314",
-  "institution": "City Of Fort Wayne",
+  "institution": "CITY OF FORT WAYNE",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46802",
-  "email": false
+  "ope": null
 }

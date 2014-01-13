@@ -1,6 +1,6 @@
 {
   "facility_code": "11200478",
-  "institution": "Universidade Catolica Portuguesa",
+  "institution": "UNIVERSIDADE CATOLICA PORTUGUESA",
   "city": "Lisboa",
   "state": "Portugal",
   "country": "Portugal",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

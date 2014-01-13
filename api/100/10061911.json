@@ -1,6 +1,6 @@
 {
   "facility_code": "10061911",
-  "institution": "Federal Correctional Institutiion",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTIION",
   "city": "Jesup",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31599",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10008037",
-  "institution": "City Of Sherwood - Police Department",
+  "institution": "CITY OF SHERWOOD - POLICE DEPARTMENT",
   "city": "Sherwood",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97140",
-  "email": true
+  "ope": null
 }

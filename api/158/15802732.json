@@ -1,6 +1,6 @@
 {
   "facility_code": "15802732",
-  "institution": "Long Island Eoc - Farmingdale Unit",
+  "institution": "LONG ISLAND EOC - FARMINGDALE UNIT",
   "city": "Farmingdale",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11735",
-  "email": true
+  "ope": null
 }

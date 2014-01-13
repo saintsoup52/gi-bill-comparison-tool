@@ -1,6 +1,6 @@
 {
   "facility_code": "10B99035",
-  "institution": "Va Ambulatory Care Center",
+  "institution": "VA AMBULATORY CARE CENTER",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43219",
-  "email": true
+  "ope": null
 }

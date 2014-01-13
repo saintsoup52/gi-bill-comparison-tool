@@ -1,6 +1,6 @@
 {
   "facility_code": "10577130",
-  "institution": "City Of Salem Police Department",
+  "institution": "CITY OF SALEM POLICE DEPARTMENT",
   "city": "Salem",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8079",
-  "email": true
+  "ope": null
 }

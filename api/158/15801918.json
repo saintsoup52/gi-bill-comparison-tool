@@ -1,6 +1,6 @@
 {
   "facility_code": "15801918",
-  "institution": "East Baton Rouge Parish Emergency Med Services",
+  "institution": "EAST BATON ROUGE PARISH EMERGENCY MED SERVICES",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70806",
-  "email": false
+  "ope": null
 }

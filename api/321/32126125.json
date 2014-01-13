@@ -1,6 +1,6 @@
 {
   "facility_code": "32126125",
-  "institution": "North Kansas City Hospital",
+  "institution": "NORTH KANSAS CITY HOSPITAL",
   "city": "N. Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64116",
-  "email": false
+  "ope": null
 }

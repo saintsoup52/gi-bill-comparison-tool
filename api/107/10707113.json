@@ -1,6 +1,6 @@
 {
   "facility_code": "10707113",
-  "institution": "College Of Dupage Police Department",
+  "institution": "COLLEGE OF DUPAGE POLICE DEPARTMENT",
   "city": "Glen Ellyn",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60137",
-  "email": true
+  "ope": null
 }

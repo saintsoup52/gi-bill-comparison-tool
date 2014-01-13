@@ -1,6 +1,6 @@
 {
   "facility_code": "20D04449",
-  "institution": "Dwd/Dwe Iowa County Job Center",
+  "institution": "DWD/DWE IOWA COUNTY JOB CENTER",
   "city": "Dodgeville",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53533",
-  "email": false
+  "ope": null
 }

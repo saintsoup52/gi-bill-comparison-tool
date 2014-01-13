@@ -1,6 +1,6 @@
 {
   "facility_code": "10403146",
-  "institution": "Virginia State Police Area Office #34",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #34",
   "city": "Courtland",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23837",
-  "email": true
+  "ope": null
 }

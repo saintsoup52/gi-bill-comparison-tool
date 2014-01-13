@@ -1,6 +1,6 @@
 {
   "facility_code": "11200780",
-  "institution": "Baden-Wurttemberg Cooperative",
+  "institution": "BADEN-WURTTEMBERG COOPERATIVE",
   "city": "Ravensburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

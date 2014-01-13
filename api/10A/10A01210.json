@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01210",
-  "institution": "Worknet Pinellas - Clearwater",
+  "institution": "WORKNET PINELLAS - CLEARWATER",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33761",
-  "email": false
+  "ope": null
 }

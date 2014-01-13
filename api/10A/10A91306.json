@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91306",
-  "institution": "Cdc - La Vista/San Carlos Correctional Facility",
+  "institution": "CDC - LA VISTA/SAN CARLOS CORRECTIONAL FACILITY",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81003",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14200275",
-  "institution": "Cegep John Abbott College",
+  "institution": "CEGEP JOHN ABBOTT COLLEGE",
   "city": "Sainte-Anne-De-Bellevue",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

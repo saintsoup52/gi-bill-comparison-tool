@@ -1,6 +1,6 @@
 {
   "facility_code": "10N33232",
-  "institution": "New York City Dept. Of Corrections - George Motchan",
+  "institution": "NEW YORK CITY DEPT. OF CORRECTIONS - GEORGE MOTCHAN",
   "city": "East Elmhurst",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11370",
-  "email": true
+  "ope": null
 }

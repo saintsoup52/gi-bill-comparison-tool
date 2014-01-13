@@ -1,6 +1,6 @@
 {
   "facility_code": "10A92006",
-  "institution": "Fort Collins Police Department",
+  "institution": "FORT COLLINS POLICE DEPARTMENT",
   "city": "Ft. Collins",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80522",
-  "email": true
+  "ope": null
 }

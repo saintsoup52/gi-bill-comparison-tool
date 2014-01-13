@@ -1,6 +1,6 @@
 {
   "facility_code": "103B9505",
-  "institution": "City Of San Diego Street Division (Chapter 31 Only)",
+  "institution": "CITY OF SAN DIEGO STREET DIVISION (CHAPTER 31 ONLY)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92105",
-  "email": false
+  "ope": null
 }

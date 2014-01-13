@@ -1,6 +1,6 @@
 {
   "facility_code": "25202020",
-  "institution": "Digital Corporation (Chapter 31 Only)",
+  "institution": "DIGITAL CORPORATION (CHAPTER 31 ONLY)",
   "city": "Silver Spring",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20910",
-  "email": false
+  "ope": null
 }

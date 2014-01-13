@@ -1,6 +1,6 @@
 {
   "facility_code": "10423147",
-  "institution": "Moses Lake Police Department",
+  "institution": "MOSES LAKE POLICE DEPARTMENT",
   "city": "Moses Lake",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98837",
-  "email": true
+  "ope": null
 }

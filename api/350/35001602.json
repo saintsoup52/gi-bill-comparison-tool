@@ -1,6 +1,6 @@
 {
   "facility_code": "35001602",
-  "institution": "Center For Employment Education",
+  "institution": "CENTER FOR EMPLOYMENT EDUCATION",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99503",
-  "email": true
+  "ope": null
 }

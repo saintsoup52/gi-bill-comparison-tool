@@ -1,6 +1,6 @@
 {
   "facility_code": "31001419",
-  "institution": "Thomas College",
+  "institution": "THOMAS COLLEGE",
   "city": "Waterville",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4901",
-  "email": false
+  "ope": "00205200"
 }

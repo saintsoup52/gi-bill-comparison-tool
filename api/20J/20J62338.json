@@ -1,6 +1,6 @@
 {
   "facility_code": "20J62338",
-  "institution": "R R Donnelley & Sons Co (Greenfield Rd)",
+  "institution": "R R DONNELLEY & SONS CO (GREENFIELD RD)",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17601",
-  "email": true
+  "ope": null
 }

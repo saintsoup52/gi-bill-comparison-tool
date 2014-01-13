@@ -1,6 +1,6 @@
 {
   "facility_code": "10080614",
-  "institution": "Jeffersonville Police Department",
+  "institution": "JEFFERSONVILLE POLICE DEPARTMENT",
   "city": "Jeffersonville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47130",
-  "email": true
+  "ope": null
 }

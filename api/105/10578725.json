@@ -1,6 +1,6 @@
 {
   "facility_code": "10578725",
-  "institution": "Chillicothe Correctional Center",
+  "institution": "CHILLICOTHE CORRECTIONAL CENTER",
   "city": "Chillicothe",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64601",
-  "email": false
+  "ope": null
 }

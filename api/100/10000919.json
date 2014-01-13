@@ -1,6 +1,6 @@
 {
   "facility_code": "10000919",
-  "institution": "Portland Air Traffic Tower",
+  "institution": "PORTLAND AIR TRAFFIC TOWER",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4102",
-  "email": false
+  "ope": null
 }

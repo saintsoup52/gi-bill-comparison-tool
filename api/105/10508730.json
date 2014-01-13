@@ -1,6 +1,6 @@
 {
   "facility_code": "10508730",
-  "institution": "Elmwood Park Police Department",
+  "institution": "ELMWOOD PARK POLICE DEPARTMENT",
   "city": "Elmwood Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7407",
-  "email": false
+  "ope": null
 }

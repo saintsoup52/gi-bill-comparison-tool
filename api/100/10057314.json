@@ -1,6 +1,6 @@
 {
   "facility_code": "10057314",
-  "institution": "East Chicago Police Department",
+  "institution": "EAST CHICAGO POLICE DEPARTMENT",
   "city": "East Chicago",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46312",
-  "email": false
+  "ope": null
 }

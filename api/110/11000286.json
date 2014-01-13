@@ -1,6 +1,6 @@
 {
   "facility_code": "11000286",
-  "institution": "Instituto Allende",
+  "institution": "INSTITUTO ALLENDE",
   "city": "San Miguel De Allende",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

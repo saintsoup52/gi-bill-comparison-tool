@@ -1,6 +1,6 @@
 {
   "facility_code": "102B2505",
-  "institution": "Faa- Montgomery Field Atct",
+  "institution": "FAA- MONTGOMERY FIELD ATCT",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92123",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32835132",
-  "institution": "Sisters Of Charity Hospital",
+  "institution": "SISTERS OF CHARITY HOSPITAL",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14214",
-  "email": true
+  "ope": null
 }

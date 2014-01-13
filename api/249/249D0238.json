@@ -1,6 +1,6 @@
 {
   "facility_code": "249D0238",
-  "institution": "Sanford Brown Institute",
+  "institution": "SANFORD BROWN INSTITUTE",
   "city": "Trevose",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "19053",
-  "email": true
+  "ope": "02116001"
 }

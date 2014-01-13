@@ -1,6 +1,6 @@
 {
   "facility_code": "10603125",
-  "institution": "Joplin City Jail",
+  "institution": "JOPLIN CITY JAIL",
   "city": "Joplin",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64801",
-  "email": false
+  "ope": null
 }

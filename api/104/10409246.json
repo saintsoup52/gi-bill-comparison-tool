@@ -1,6 +1,6 @@
 {
   "facility_code": "10409246",
-  "institution": "Portsmouth Police Dept",
+  "institution": "PORTSMOUTH POLICE DEPT",
   "city": "Portsmouth",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23704",
-  "email": true
+  "ope": null
 }

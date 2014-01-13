@@ -1,6 +1,6 @@
 {
   "facility_code": "10W44838",
-  "institution": "Erie County Prison",
+  "institution": "ERIE COUNTY PRISON",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16503",
-  "email": true
+  "ope": null
 }

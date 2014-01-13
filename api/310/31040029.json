@@ -1,6 +1,6 @@
 {
   "facility_code": "31040029",
-  "institution": "University Of New Hampshire School Of Law",
+  "institution": "UNIVERSITY OF NEW HAMPSHIRE SCHOOL OF LAW",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3301",
-  "email": true
+  "ope": null
 }

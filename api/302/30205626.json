@@ -1,6 +1,6 @@
 {
   "facility_code": "30205626",
-  "institution": "Acme Asphalt",
+  "institution": "ACME ASPHALT",
   "city": "Anaconda",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59711",
-  "email": false
+  "ope": null
 }

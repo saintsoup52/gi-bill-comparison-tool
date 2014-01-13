@@ -1,6 +1,6 @@
 {
   "facility_code": "10608013",
-  "institution": "Williamson County Sheriffs Office",
+  "institution": "WILLIAMSON COUNTY SHERIFFS OFFICE",
   "city": "Marion",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62959",
-  "email": true
+  "ope": null
 }

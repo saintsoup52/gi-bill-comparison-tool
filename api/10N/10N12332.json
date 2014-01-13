@@ -1,6 +1,6 @@
 {
   "facility_code": "10N12332",
-  "institution": "Montgomery County Sheriff'S Office",
+  "institution": "MONTGOMERY COUNTY SHERIFF'S OFFICE",
   "city": "Fultonville",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12072",
-  "email": false
+  "ope": null
 }

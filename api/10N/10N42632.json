@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42632",
-  "institution": "Nypd Transit District 33 Transit Boro Bklyn",
+  "institution": "NYPD TRANSIT DISTRICT 33 TRANSIT BORO BKLYN",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11233",
-  "email": false
+  "ope": null
 }

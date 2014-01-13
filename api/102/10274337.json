@@ -1,6 +1,6 @@
 {
   "facility_code": "10274337",
-  "institution": "Benton County Sheriffs Office",
+  "institution": "BENTON COUNTY SHERIFFS OFFICE",
   "city": "Corvallis",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97330",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000585",
-  "institution": "Meiji Gakuin University",
+  "institution": "MEIJI GAKUIN UNIVERSITY",
   "city": "Yokohama",
   "state": "Japan",
   "country": "Japan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

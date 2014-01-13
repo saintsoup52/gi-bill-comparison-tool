@@ -1,6 +1,6 @@
 {
   "facility_code": "31953401",
-  "institution": "Faulkner University - Montgomery",
+  "institution": "FAULKNER UNIVERSITY - MONTGOMERY",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36109",
-  "email": true
+  "ope": "00100300"
 }

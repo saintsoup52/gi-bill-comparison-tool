@@ -1,6 +1,6 @@
 {
   "facility_code": "12803242",
-  "institution": "University Of Tennessee Medical Center At Knoxville",
+  "institution": "UNIVERSITY OF TENNESSEE MEDICAL CENTER AT KNOXVILLE",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37920",
-  "email": true
+  "ope": null
 }

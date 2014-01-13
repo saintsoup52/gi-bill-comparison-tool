@@ -1,6 +1,6 @@
 {
   "facility_code": "32050221",
-  "institution": "Massachusetts General Hospital",
+  "institution": "MASSACHUSETTS GENERAL HOSPITAL",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "2114",
-  "email": true
+  "ope": "02137200"
 }

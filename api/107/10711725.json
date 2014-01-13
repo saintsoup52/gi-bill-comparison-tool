@@ -1,6 +1,6 @@
 {
   "facility_code": "10711725",
-  "institution": "Missouri Capital Police",
+  "institution": "MISSOURI CAPITAL POLICE",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65101",
-  "email": true
+  "ope": null
 }

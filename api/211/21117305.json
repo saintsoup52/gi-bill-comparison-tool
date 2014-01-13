@@ -1,6 +1,6 @@
 {
   "facility_code": "21117305",
-  "institution": "University Of East-West Medicine",
+  "institution": "UNIVERSITY OF EAST-WEST MEDICINE",
   "city": "Sunnyvale",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94085",
-  "email": true
+  "ope": null
 }

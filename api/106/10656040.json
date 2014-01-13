@@ -1,6 +1,6 @@
 {
   "facility_code": "10656040",
-  "institution": "Federal Correctional Institution - Bennettsville",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - BENNETTSVILLE",
   "city": "Bennettsville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29512",
-  "email": true
+  "ope": null
 }

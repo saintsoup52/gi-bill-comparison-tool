@@ -1,6 +1,6 @@
 {
   "facility_code": "10010944",
-  "institution": "Us Army Corp Of Engineers Utah Resident Office (Ch 31)",
+  "institution": "US ARMY CORP OF ENGINEERS UTAH RESIDENT OFFICE (CH 31)",
   "city": "Hill Air Force Base",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84056",
-  "email": false
+  "ope": null
 }

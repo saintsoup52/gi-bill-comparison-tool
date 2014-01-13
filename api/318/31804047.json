@@ -1,6 +1,6 @@
 {
   "facility_code": "31804047",
-  "institution": "University Of Puget Sound",
+  "institution": "UNIVERSITY OF PUGET SOUND",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "98416",
-  "email": true
+  "ope": "00379700"
 }

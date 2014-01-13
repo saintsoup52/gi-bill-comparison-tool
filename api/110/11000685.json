@@ -1,6 +1,6 @@
 {
   "facility_code": "11000685",
-  "institution": "Akita International University",
+  "institution": "AKITA INTERNATIONAL UNIVERSITY",
   "city": "Akita-City",
   "state": "Japan",
   "country": "Japan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

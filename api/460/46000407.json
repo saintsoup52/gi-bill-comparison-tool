@@ -1,6 +1,6 @@
 {
   "facility_code": "46000407",
-  "institution": "Connecticut Bar Examining Committee",
+  "institution": "CONNECTICUT BAR EXAMINING COMMITTEE",
   "city": "Hartford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6106",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C14743",
-  "institution": "Education Services Office",
+  "institution": "EDUCATION SERVICES OFFICE",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78703",
-  "email": false
+  "ope": null
 }

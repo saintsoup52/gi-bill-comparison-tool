@@ -1,6 +1,6 @@
 {
   "facility_code": "31101292",
-  "institution": "Universidad De Chile",
+  "institution": "UNIVERSIDAD DE CHILE",
   "city": "Santiago",
   "state": "Chile",
   "country": "Chile",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

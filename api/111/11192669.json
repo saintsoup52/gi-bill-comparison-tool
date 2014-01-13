@@ -1,6 +1,6 @@
 {
   "facility_code": "11192669",
-  "institution": "Mahidol University",
+  "institution": "MAHIDOL UNIVERSITY",
   "city": "Nakhon Pathom",
   "state": "Thailand",
   "country": "Thailand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

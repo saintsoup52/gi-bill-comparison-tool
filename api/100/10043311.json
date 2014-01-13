@@ -1,6 +1,6 @@
 {
   "facility_code": "10043311",
-  "institution": "Powder Springs Police Department",
+  "institution": "POWDER SPRINGS POLICE DEPARTMENT",
   "city": "Powder Springs",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30127",
-  "email": true
+  "ope": null
 }

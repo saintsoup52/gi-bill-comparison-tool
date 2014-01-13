@@ -1,6 +1,6 @@
 {
   "facility_code": "103C4705",
-  "institution": "San Diego Police Dept Family Justice Center (Ch31 Only)",
+  "institution": "SAN DIEGO POLICE DEPT FAMILY JUSTICE CENTER (CH31 ONLY)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92101",
-  "email": false
+  "ope": null
 }

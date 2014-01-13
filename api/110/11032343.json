@@ -1,6 +1,6 @@
 {
   "facility_code": "11032343",
-  "institution": "Education Service Center Region 06",
+  "institution": "EDUCATION SERVICE CENTER REGION 06",
   "city": "Huntsville",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77340",
-  "email": false
+  "ope": null
 }

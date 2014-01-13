@@ -1,6 +1,6 @@
 {
   "facility_code": "10C31343",
-  "institution": "Dhs Immigration & Customs Enforcement Houston",
+  "institution": "DHS IMMIGRATION & CUSTOMS ENFORCEMENT HOUSTON",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77032",
-  "email": false
+  "ope": null
 }

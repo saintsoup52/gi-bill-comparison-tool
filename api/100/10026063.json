@@ -1,6 +1,6 @@
 {
   "facility_code": "10026063",
-  "institution": "*Ch 31 Only* Us Probation Office",
+  "institution": "*CH 31 ONLY* US PROBATION OFFICE",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "918",
-  "email": false
+  "ope": null
 }

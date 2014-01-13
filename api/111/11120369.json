@@ -1,6 +1,6 @@
 {
   "facility_code": "11120369",
-  "institution": "National Taiwan University",
+  "institution": "NATIONAL TAIWAN UNIVERSITY",
   "city": "Taipei",
   "state": "Taiwan",
   "country": "Taiwan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

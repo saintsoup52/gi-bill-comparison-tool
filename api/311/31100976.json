@@ -1,6 +1,6 @@
 {
   "facility_code": "31100976",
-  "institution": "Universidad Catolica De Honduras",
+  "institution": "UNIVERSIDAD CATOLICA DE HONDURAS",
   "city": "El Seminario 1154",
   "state": "Honduras",
   "country": "Honduras",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

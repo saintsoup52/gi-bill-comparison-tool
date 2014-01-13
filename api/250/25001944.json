@@ -1,6 +1,6 @@
 {
   "facility_code": "25001944",
-  "institution": "Rtec Inc. (Ch 31)",
+  "institution": "RTEC INC. (CH 31)",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84415",
-  "email": false
+  "ope": null
 }

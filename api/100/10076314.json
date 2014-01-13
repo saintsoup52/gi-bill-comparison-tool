@@ -1,6 +1,6 @@
 {
   "facility_code": "10076314",
-  "institution": "South Whitley Police Department",
+  "institution": "SOUTH WHITLEY POLICE DEPARTMENT",
   "city": "South Whitley",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46787",
-  "email": false
+  "ope": null
 }

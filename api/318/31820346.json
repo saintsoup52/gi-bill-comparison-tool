@@ -1,6 +1,6 @@
 {
   "facility_code": "31820346",
-  "institution": "Embry-Riddle Aeronautical Univ Langley Afb",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV LANGLEY AFB",
   "city": "Langley Afb",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23665",
-  "email": true
+  "ope": "00147962"
 }

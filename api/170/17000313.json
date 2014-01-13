@@ -1,6 +1,6 @@
 {
   "facility_code": "17000313",
-  "institution": "Liberty High School",
+  "institution": "LIBERTY HIGH SCHOOL",
   "city": "Liberty",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62347",
-  "email": false
+  "ope": null
 }

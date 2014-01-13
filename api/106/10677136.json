@@ -1,6 +1,6 @@
 {
   "facility_code": "10677136",
-  "institution": "Stonewall Police Dept",
+  "institution": "STONEWALL POLICE DEPT",
   "city": "Stonewall",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74871",
-  "email": false
+  "ope": null
 }

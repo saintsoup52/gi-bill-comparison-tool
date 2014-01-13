@@ -1,6 +1,6 @@
 {
   "facility_code": "20474515",
-  "institution": "Software Engineering Services",
+  "institution": "SOFTWARE ENGINEERING SERVICES",
   "city": "West Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50266",
-  "email": false
+  "ope": null
 }

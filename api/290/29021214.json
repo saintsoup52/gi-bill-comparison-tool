@@ -1,6 +1,6 @@
 {
   "facility_code": "29021214",
-  "institution": "St. John'S Health System - Ch. 31",
+  "institution": "ST. JOHN'S HEALTH SYSTEM - CH. 31",
   "city": "Anderson",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46016",
-  "email": false
+  "ope": null
 }

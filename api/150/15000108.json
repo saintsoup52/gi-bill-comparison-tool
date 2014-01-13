@@ -1,6 +1,6 @@
 {
   "facility_code": "15000108",
-  "institution": "New Castle County Police Academy",
+  "institution": "NEW CASTLE COUNTY POLICE ACADEMY",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19713",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10118331",
-  "institution": "Usda Farmers Home Administration (Ch31)",
+  "institution": "USDA FARMERS HOME ADMINISTRATION (CH31)",
   "city": "Albuquerque,",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87102",
-  "email": false
+  "ope": null
 }

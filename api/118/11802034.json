@@ -1,6 +1,6 @@
 {
   "facility_code": "11802034",
-  "institution": "University Of North Dakota - Grand Forks",
+  "institution": "UNIVERSITY OF NORTH DAKOTA - GRAND FORKS",
   "city": "Grand Forks",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "58202",
-  "email": false
+  "ope": "00300500"
 }

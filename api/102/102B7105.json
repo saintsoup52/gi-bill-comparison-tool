@@ -1,6 +1,6 @@
 {
   "facility_code": "102B7105",
-  "institution": "Redding Police Department",
+  "institution": "REDDING POLICE DEPARTMENT",
   "city": "Redding",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96001",
-  "email": false
+  "ope": null
 }

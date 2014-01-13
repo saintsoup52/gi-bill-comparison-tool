@@ -1,6 +1,6 @@
 {
   "facility_code": "10080018",
-  "institution": "St. Tammany Fire Training Academy",
+  "institution": "ST. TAMMANY FIRE TRAINING ACADEMY",
   "city": "Slidell",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70460",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10988810",
-  "institution": "Riviera Beach Police Department",
+  "institution": "RIVIERA BEACH POLICE DEPARTMENT",
   "city": "Riviera Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33404",
-  "email": false
+  "ope": null
 }

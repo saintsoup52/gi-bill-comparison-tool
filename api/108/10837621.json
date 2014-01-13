@@ -1,6 +1,6 @@
 {
   "facility_code": "10837621",
-  "institution": "Bourne Fire Department",
+  "institution": "BOURNE FIRE DEPARTMENT",
   "city": "Buzzard Bay",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2532",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10540731",
-  "institution": "White Sands Missile Range Police Dept.",
+  "institution": "WHITE SANDS MISSILE RANGE POLICE DEPT.",
   "city": "Wsmr",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88002",
-  "email": false
+  "ope": null
 }

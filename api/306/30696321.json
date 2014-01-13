@@ -1,6 +1,6 @@
 {
   "facility_code": "30696321",
-  "institution": "Military Order Of The Purple Heart",
+  "institution": "MILITARY ORDER OF THE PURPLE HEART",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2203",
-  "email": false
+  "ope": null
 }

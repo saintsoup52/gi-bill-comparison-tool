@@ -1,6 +1,6 @@
 {
   "facility_code": "20121031",
-  "institution": "Public Service Co. Afton Station",
+  "institution": "PUBLIC SERVICE CO. AFTON STATION",
   "city": "La Mesa",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88044",
-  "email": false
+  "ope": null
 }

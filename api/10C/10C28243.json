@@ -1,6 +1,6 @@
 {
   "facility_code": "10C28243",
-  "institution": "Field Maintenance Shop 30",
+  "institution": "FIELD MAINTENANCE SHOP 30",
   "city": "Temple",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76502",
-  "email": false
+  "ope": null
 }

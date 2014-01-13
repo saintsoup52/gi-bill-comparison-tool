@@ -1,6 +1,6 @@
 {
   "facility_code": "10008749",
-  "institution": "Wisconsin Department Of Administration",
+  "institution": "WISCONSIN DEPARTMENT OF ADMINISTRATION",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53707",
-  "email": false
+  "ope": null
 }

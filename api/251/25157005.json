@@ -1,6 +1,6 @@
 {
   "facility_code": "25157005",
-  "institution": "Associated Training Services (Chapter 31 Only)",
+  "institution": "ASSOCIATED TRAINING SERVICES (CHAPTER 31 ONLY)",
   "city": "Victorville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92392",
-  "email": false
+  "ope": null
 }

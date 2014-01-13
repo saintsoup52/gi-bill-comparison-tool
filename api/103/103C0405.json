@@ -1,6 +1,6 @@
 {
   "facility_code": "103C0405",
-  "institution": "Social Security Administration (El Cajon)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (EL CAJON)",
   "city": "El Cajon",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92020",
-  "email": false
+  "ope": null
 }

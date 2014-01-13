@@ -1,6 +1,6 @@
 {
   "facility_code": "32007530",
-  "institution": "Palisades Medical Center",
+  "institution": "PALISADES MEDICAL CENTER",
   "city": "North Bergen",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7047",
-  "email": true
+  "ope": null
 }

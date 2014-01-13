@@ -1,6 +1,6 @@
 {
   "facility_code": "20018416",
-  "institution": "Wichita Electrical Jatc",
+  "institution": "WICHITA ELECTRICAL JATC",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67203",
-  "email": false
+  "ope": null
 }

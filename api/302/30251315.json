@@ -1,6 +1,6 @@
 {
   "facility_code": "30251315",
-  "institution": "Johnson County Sheriff'S Office",
+  "institution": "JOHNSON COUNTY SHERIFF'S OFFICE",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52244",
-  "email": false
+  "ope": null
 }

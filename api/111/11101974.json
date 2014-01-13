@@ -1,6 +1,6 @@
 {
   "facility_code": "11101974",
-  "institution": "University Of Brighton",
+  "institution": "UNIVERSITY OF BRIGHTON",
   "city": "Brighton",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103B3005",
-  "institution": "San Diego Community College District Police Dept.",
+  "institution": "SAN DIEGO COMMUNITY COLLEGE DISTRICT POLICE DEPT.",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92108",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10708713",
-  "institution": "Desoto Police Department",
+  "institution": "DESOTO POLICE DEPARTMENT",
   "city": "Desoto",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62924",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32912538",
-  "institution": "Wilkes-Barre General Hospital - Previously(Wyoming Valley Health Care Systems)",
+  "institution": "WILKES-BARRE GENERAL HOSPITAL - PREVIOUSLY(WYOMING VALLEY HEALTH CARE SYSTEMS)",
   "city": "Wilkes-Barre",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18764",
-  "email": true
+  "ope": null
 }

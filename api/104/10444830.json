@@ -1,6 +1,6 @@
 {
   "facility_code": "10444830",
-  "institution": "Warren Township Police Department",
+  "institution": "WARREN TOWNSHIP POLICE DEPARTMENT",
   "city": "Warren",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7059",
-  "email": false
+  "ope": null
 }

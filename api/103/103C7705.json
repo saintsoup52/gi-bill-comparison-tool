@@ -1,6 +1,6 @@
 {
   "facility_code": "103C7705",
-  "institution": "Faa- Flight Inspection Operations Group",
+  "institution": "FAA- FLIGHT INSPECTION OPERATIONS GROUP",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95837",
-  "email": false
+  "ope": null
 }

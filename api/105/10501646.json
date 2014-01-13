@@ -1,6 +1,6 @@
 {
   "facility_code": "10501646",
-  "institution": "Us Department Of Homeland Security-Immigration And Customs Enforcement",
+  "institution": "US DEPARTMENT OF HOMELAND SECURITY-IMMIGRATION AND CUSTOMS ENFORCEMENT",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23236",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20062842",
-  "institution": "Babcock & Wilcox Technical Services Y-12 Llc",
+  "institution": "BABCOCK & WILCOX TECHNICAL SERVICES Y-12 LLC",
   "city": "Oak Ridge",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37831",
-  "email": false
+  "ope": null
 }

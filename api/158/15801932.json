@@ -1,6 +1,6 @@
 {
   "facility_code": "15801932",
-  "institution": "New York City Fire Department Fire Academy",
+  "institution": "NEW YORK CITY FIRE DEPARTMENT FIRE ACADEMY",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10035",
-  "email": true
+  "ope": null
 }

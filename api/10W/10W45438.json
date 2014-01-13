@@ -1,6 +1,6 @@
 {
   "facility_code": "10W45438",
-  "institution": "Blair County Prison",
+  "institution": "BLAIR COUNTY PRISON",
   "city": "Hollidaysburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16648",
-  "email": true
+  "ope": null
 }

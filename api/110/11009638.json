@@ -1,6 +1,6 @@
 {
   "facility_code": "11009638",
-  "institution": "Kutztown University",
+  "institution": "KUTZTOWN UNIVERSITY",
   "city": "Kutztown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19530",
-  "email": true
+  "ope": "00332200"
 }

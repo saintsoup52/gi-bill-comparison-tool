@@ -1,6 +1,6 @@
 {
   "facility_code": "10454436",
-  "institution": "Edmond Police Department",
+  "institution": "EDMOND POLICE DEPARTMENT",
   "city": "Edmond",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73034",
-  "email": false
+  "ope": null
 }

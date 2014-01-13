@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03710",
-  "institution": "Federal Aviation Admin (Faa) Vero Beach Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) VERO BEACH TOWER",
   "city": "Vero Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32960",
-  "email": true
+  "ope": null
 }

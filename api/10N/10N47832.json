@@ -1,6 +1,6 @@
 {
   "facility_code": "10N47832",
-  "institution": "Niagara County Sheriff'S Office",
+  "institution": "NIAGARA COUNTY SHERIFF'S OFFICE",
   "city": "Lockport",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14095",
-  "email": true
+  "ope": null
 }

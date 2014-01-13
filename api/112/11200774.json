@@ -1,6 +1,6 @@
 {
   "facility_code": "11200774",
-  "institution": "University Of Bath",
+  "institution": "UNIVERSITY OF BATH",
   "city": "Bath",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

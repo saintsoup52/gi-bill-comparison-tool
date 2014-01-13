@@ -1,6 +1,6 @@
 {
   "facility_code": "25002340",
-  "institution": "Associated Training Services Of South Carolina",
+  "institution": "ASSOCIATED TRAINING SERVICES OF SOUTH CAROLINA",
   "city": "Pelzer",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29669",
-  "email": true
+  "ope": null
 }

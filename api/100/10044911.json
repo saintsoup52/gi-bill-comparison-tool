@@ -1,6 +1,6 @@
 {
   "facility_code": "10044911",
-  "institution": "Toccoa Police Department",
+  "institution": "TOCCOA POLICE DEPARTMENT",
   "city": "Toccoa",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30577",
-  "email": true
+  "ope": null
 }

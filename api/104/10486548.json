@@ -1,6 +1,6 @@
 {
   "facility_code": "10486548",
-  "institution": "Aep Marmet Training Center",
+  "institution": "AEP MARMET TRAINING CENTER",
   "city": "Marmet",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25315",
-  "email": true
+  "ope": null
 }

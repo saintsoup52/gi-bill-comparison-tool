@@ -1,6 +1,6 @@
 {
   "facility_code": "10486948",
-  "institution": "United States Marshal Service",
+  "institution": "UNITED STATES MARSHAL SERVICE",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25301",
-  "email": true
+  "ope": null
 }

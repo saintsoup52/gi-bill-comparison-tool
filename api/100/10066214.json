@@ -1,6 +1,6 @@
 {
   "facility_code": "10066214",
-  "institution": "West Terre Haute Police Department",
+  "institution": "WEST TERRE HAUTE POLICE DEPARTMENT",
   "city": "West Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47885",
-  "email": false
+  "ope": null
 }

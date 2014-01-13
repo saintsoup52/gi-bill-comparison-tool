@@ -1,6 +1,6 @@
 {
   "facility_code": "10227703",
-  "institution": "Federal Correctional Institution - Phoenix",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - PHOENIX",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85086",
-  "email": false
+  "ope": null
 }

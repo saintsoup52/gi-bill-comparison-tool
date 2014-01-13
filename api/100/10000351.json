@@ -1,6 +1,6 @@
 {
   "facility_code": "10000351",
-  "institution": "Us Army Medical Research Mat",
+  "institution": "US ARMY MEDICAL RESEARCH MAT",
   "city": null,
   "state": null,
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "9138",
-  "email": true
+  "ope": null
 }

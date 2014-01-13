@@ -1,6 +1,6 @@
 {
   "facility_code": "10450347",
-  "institution": "Lynnwood Fire Department",
+  "institution": "LYNNWOOD FIRE DEPARTMENT",
   "city": "Lynnwood",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98046",
-  "email": true
+  "ope": null
 }

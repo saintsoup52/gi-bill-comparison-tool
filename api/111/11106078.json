@@ -1,6 +1,6 @@
 {
   "facility_code": "11106078",
-  "institution": "Universitatea Babes-Bolyai",
+  "institution": "UNIVERSITATEA BABES-BOLYAI",
   "city": "Cluj-Napoca",
   "state": "Romania",
   "country": "Romania",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

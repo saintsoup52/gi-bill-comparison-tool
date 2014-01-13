@@ -1,6 +1,6 @@
 {
   "facility_code": "15Z00020",
-  "institution": "Towson Central Region Small Business Development Center (Towson University)",
+  "institution": "TOWSON CENTRAL REGION SMALL BUSINESS DEVELOPMENT CENTER (TOWSON UNIVERSITY)",
   "city": "Towson",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21252",
-  "email": false
+  "ope": null
 }

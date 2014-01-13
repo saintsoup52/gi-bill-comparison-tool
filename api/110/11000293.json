@@ -1,6 +1,6 @@
 {
   "facility_code": "11000293",
-  "institution": "Lund University",
+  "institution": "LUND UNIVERSITY",
   "city": "Lund",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

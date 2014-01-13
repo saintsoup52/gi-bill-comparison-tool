@@ -1,6 +1,6 @@
 {
   "facility_code": "20507317",
-  "institution": "Norfolk Southern Railroad",
+  "institution": "NORFOLK SOUTHERN RAILROAD",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40212",
-  "email": true
+  "ope": null
 }

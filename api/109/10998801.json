@@ -1,6 +1,6 @@
 {
   "facility_code": "10998801",
-  "institution": "City Of Auburn",
+  "institution": "CITY OF AUBURN",
   "city": "Auburn",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36830",
-  "email": true
+  "ope": null
 }

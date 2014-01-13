@@ -1,6 +1,6 @@
 {
   "facility_code": "10409546",
-  "institution": "Virginia State Police Area Office #2",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #2",
   "city": "Warsaw",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22572",
-  "email": false
+  "ope": null
 }

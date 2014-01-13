@@ -1,6 +1,6 @@
 {
   "facility_code": "15000312",
-  "institution": "Capital High School",
+  "institution": "CAPITAL HIGH SCHOOL",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83704",
-  "email": false
+  "ope": null
 }

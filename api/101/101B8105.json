@@ -1,6 +1,6 @@
 {
   "facility_code": "101B8105",
-  "institution": "City Of Chico (Chapter 31)",
+  "institution": "CITY OF CHICO (CHAPTER 31)",
   "city": "Chico",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95926",
-  "email": false
+  "ope": null
 }

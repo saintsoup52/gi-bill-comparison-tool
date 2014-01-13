@@ -1,6 +1,6 @@
 {
   "facility_code": "11800126",
-  "institution": "University Of Montana-Missoula",
+  "institution": "UNIVERSITY OF MONTANA-MISSOULA",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "59812",
-  "email": true
+  "ope": "00253600"
 }

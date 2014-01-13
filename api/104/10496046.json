@@ -1,6 +1,6 @@
 {
   "facility_code": "10496046",
-  "institution": "Newport News Fire Dept",
+  "institution": "NEWPORT NEWS FIRE DEPT",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23603",
-  "email": true
+  "ope": null
 }

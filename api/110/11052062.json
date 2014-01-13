@@ -1,6 +1,6 @@
 {
   "facility_code": "11052062",
-  "institution": "Polytechnic University Of The Philippines",
+  "institution": "POLYTECHNIC UNIVERSITY OF THE PHILIPPINES",
   "city": "Manila",
   "state": "Philippines",
   "country": "Philippines",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

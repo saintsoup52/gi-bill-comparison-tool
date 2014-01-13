@@ -1,6 +1,6 @@
 {
   "facility_code": "10496317",
-  "institution": "Lynch Police Department",
+  "institution": "LYNCH POLICE DEPARTMENT",
   "city": "Lynch",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40855",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B34322",
-  "institution": "Ford Motor Company Rawsonville Plant (App)",
+  "institution": "FORD MOTOR COMPANY RAWSONVILLE PLANT (APP)",
   "city": "Ypsilanti",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48197",
-  "email": true
+  "ope": null
 }

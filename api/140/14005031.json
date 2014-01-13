@@ -1,6 +1,6 @@
 {
   "facility_code": "14005031",
-  "institution": "Central Texas College Holloman Afb",
+  "institution": "CENTRAL TEXAS COLLEGE HOLLOMAN AFB",
   "city": "Holloman Afb",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "88330",
-  "email": true
+  "ope": "00400307"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10509617",
-  "institution": "Somerset Police Department",
+  "institution": "SOMERSET POLICE DEPARTMENT",
   "city": "Somerset",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42501",
-  "email": false
+  "ope": null
 }

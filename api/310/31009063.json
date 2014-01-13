@@ -1,6 +1,6 @@
 {
   "facility_code": "31009063",
-  "institution": "Universidad Adventista De Las Antillas",
+  "institution": "UNIVERSIDAD ADVENTISTA DE LAS ANTILLAS",
   "city": "Mayaguez",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "681",
-  "email": true
+  "ope": "00501900"
 }

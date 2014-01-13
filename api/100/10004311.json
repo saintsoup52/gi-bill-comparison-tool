@@ -1,6 +1,6 @@
 {
   "facility_code": "10004311",
-  "institution": "Hall County Correctional Institute",
+  "institution": "HALL COUNTY CORRECTIONAL INSTITUTE",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30507",
-  "email": true
+  "ope": null
 }

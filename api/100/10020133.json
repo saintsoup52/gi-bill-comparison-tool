@@ -1,6 +1,6 @@
 {
   "facility_code": "10020133",
-  "institution": "New Hanover County Sheriff'S Office",
+  "institution": "NEW HANOVER COUNTY SHERIFF'S OFFICE",
   "city": "Castle Hayne",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28429",
-  "email": true
+  "ope": null
 }

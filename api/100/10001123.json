@@ -1,6 +1,6 @@
 {
   "facility_code": "10001123",
-  "institution": "County Veterans Service Office",
+  "institution": "COUNTY VETERANS SERVICE OFFICE",
   "city": "Owatonna",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55060",
-  "email": false
+  "ope": null
 }

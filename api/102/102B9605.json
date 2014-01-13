@@ -1,6 +1,6 @@
 {
   "facility_code": "102B9605",
-  "institution": "High Desert State Prison",
+  "institution": "HIGH DESERT STATE PRISON",
   "city": "Susanville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96127",
-  "email": false
+  "ope": null
 }

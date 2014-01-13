@@ -1,6 +1,6 @@
 {
   "facility_code": "11000592",
-  "institution": "University De Caldas",
+  "institution": "UNIVERSITY DE CALDAS",
   "city": "Manizales",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

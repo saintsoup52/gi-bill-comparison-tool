@@ -1,6 +1,6 @@
 {
   "facility_code": "20661030",
-  "institution": "Primerica",
+  "institution": "PRIMERICA",
   "city": "Brick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8723",
-  "email": false
+  "ope": null
 }

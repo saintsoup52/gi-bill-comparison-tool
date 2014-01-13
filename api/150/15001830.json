@@ -1,6 +1,6 @@
 {
   "facility_code": "15001830",
-  "institution": "Cape May County Police Academy",
+  "institution": "CAPE MAY COUNTY POLICE ACADEMY",
   "city": "Cape May Court House",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8210",
-  "email": true
+  "ope": null
 }

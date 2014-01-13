@@ -1,6 +1,6 @@
 {
   "facility_code": "10705913",
-  "institution": "Evergreen Park Police Department",
+  "institution": "EVERGREEN PARK POLICE DEPARTMENT",
   "city": "Evergreen Park",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60805",
-  "email": true
+  "ope": null
 }

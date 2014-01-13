@@ -1,6 +1,6 @@
 {
   "facility_code": "103B0205",
-  "institution": "Salinas Valley State Prison",
+  "institution": "SALINAS VALLEY STATE PRISON",
   "city": "Soledad",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93960",
-  "email": false
+  "ope": null
 }

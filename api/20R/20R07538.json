@@ -1,6 +1,6 @@
 {
   "facility_code": "20R07538",
-  "institution": "Pure Sil",
+  "institution": "PURE SIL",
   "city": "Bradford",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16701",
-  "email": false
+  "ope": null
 }

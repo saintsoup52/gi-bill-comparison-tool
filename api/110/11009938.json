@@ -1,6 +1,6 @@
 {
   "facility_code": "11009938",
-  "institution": "Millersville University Of Pa",
+  "institution": "MILLERSVILLE UNIVERSITY OF PA",
   "city": "Millersville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "17551",
-  "email": true
+  "ope": "00332500"
 }

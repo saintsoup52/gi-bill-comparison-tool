@@ -1,6 +1,6 @@
 {
   "facility_code": "29179403",
-  "institution": "Airtek",
+  "institution": "AIRTEK",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85281",
-  "email": false
+  "ope": null
 }

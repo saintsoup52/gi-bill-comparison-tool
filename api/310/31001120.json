@@ -1,6 +1,6 @@
 {
   "facility_code": "31001120",
-  "institution": "St Marys Seminary And University Sch Of Theology",
+  "institution": "ST MARYS SEMINARY AND UNIVERSITY SCH OF THEOLOGY",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21210",
-  "email": true
+  "ope": "00209600"
 }

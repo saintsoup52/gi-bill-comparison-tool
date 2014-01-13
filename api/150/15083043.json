@@ -1,6 +1,6 @@
 {
   "facility_code": "15083043",
-  "institution": "Houston Independent School Dist",
+  "institution": "HOUSTON INDEPENDENT SCHOOL DIST",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77006",
-  "email": false
+  "ope": null
 }

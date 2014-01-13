@@ -1,6 +1,6 @@
 {
   "facility_code": "20039111",
-  "institution": "Georgia Power Company - Athens",
+  "institution": "GEORGIA POWER COMPANY - ATHENS",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30607",
-  "email": true
+  "ope": null
 }

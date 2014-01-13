@@ -1,6 +1,6 @@
 {
   "facility_code": "10A19011",
-  "institution": "Georgia Bureau Of Investigation - Region 12 (Eastman)",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION - REGION 12 (EASTMAN)",
   "city": "Eastman",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31023",
-  "email": false
+  "ope": null
 }

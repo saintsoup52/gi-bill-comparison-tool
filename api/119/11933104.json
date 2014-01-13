@@ -1,6 +1,6 @@
 {
   "facility_code": "11933104",
-  "institution": "University Of Arkansas At Monticello",
+  "institution": "UNIVERSITY OF ARKANSAS AT MONTICELLO",
   "city": "Monticello",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "71656",
-  "email": false
+  "ope": "00108500"
 }

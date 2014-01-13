@@ -1,6 +1,6 @@
 {
   "facility_code": "10682429",
-  "institution": "Chesterfield Police Department",
+  "institution": "CHESTERFIELD POLICE DEPARTMENT",
   "city": "Chesterfield",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3443",
-  "email": false
+  "ope": null
 }

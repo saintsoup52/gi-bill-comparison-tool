@@ -1,6 +1,6 @@
 {
   "facility_code": "10670425",
-  "institution": "Willard Police Department",
+  "institution": "WILLARD POLICE DEPARTMENT",
   "city": "Willard",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65781",
-  "email": false
+  "ope": null
 }

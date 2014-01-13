@@ -1,6 +1,6 @@
 {
   "facility_code": "10299847",
-  "institution": "Tacoma Police Department",
+  "institution": "TACOMA POLICE DEPARTMENT",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98409",
-  "email": true
+  "ope": null
 }

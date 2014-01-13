@@ -1,6 +1,6 @@
 {
   "facility_code": "25011519",
-  "institution": "Tri-County Ems",
+  "institution": "TRI-COUNTY EMS",
   "city": "Lewiston",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4240",
-  "email": false
+  "ope": null
 }

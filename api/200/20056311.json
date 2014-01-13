@@ -1,6 +1,6 @@
 {
   "facility_code": "20056311",
-  "institution": "Mcdonalds Hamburgers",
+  "institution": "MCDONALDS HAMBURGERS",
   "city": "Bogart",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30622",
-  "email": true
+  "ope": null
 }

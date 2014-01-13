@@ -1,6 +1,6 @@
 {
   "facility_code": "15003111",
-  "institution": "Woodland High School",
+  "institution": "WOODLAND HIGH SCHOOL",
   "city": "Stockbridge",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30281",
-  "email": true
+  "ope": null
 }

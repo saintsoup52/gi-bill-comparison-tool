@@ -1,6 +1,6 @@
 {
   "facility_code": "20506817",
-  "institution": "Eon-Usa",
+  "institution": "EON-USA",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40241",
-  "email": false
+  "ope": null
 }

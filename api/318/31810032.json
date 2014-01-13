@@ -1,6 +1,6 @@
 {
   "facility_code": "31810032",
-  "institution": "Nyack College",
+  "institution": "NYACK COLLEGE",
   "city": "Nyack",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10960",
-  "email": true
+  "ope": "00279000"
 }

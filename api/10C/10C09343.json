@@ -1,6 +1,6 @@
 {
   "facility_code": "10C09343",
-  "institution": "Tx Hwy Patrol Reg 4 Tx Dept Of Public Safety San Angelo",
+  "institution": "TX HWY PATROL REG 4 TX DEPT OF PUBLIC SAFETY SAN ANGELO",
   "city": "San Angelo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76904",
-  "email": false
+  "ope": null
 }

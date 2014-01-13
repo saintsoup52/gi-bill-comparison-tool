@@ -1,6 +1,6 @@
 {
   "facility_code": "10030933",
-  "institution": "Town Of Selma Utility Department (Ec)",
+  "institution": "TOWN OF SELMA UTILITY DEPARTMENT (EC)",
   "city": "Selma",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27576",
-  "email": true
+  "ope": null
 }

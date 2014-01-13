@@ -1,6 +1,6 @@
 {
   "facility_code": "10A19211",
-  "institution": "Georgia Bureau Of Investigation - Macon Reg Drug Enforcement Office",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION - MACON REG DRUG ENFORCEMENT OFFICE",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31201",
-  "email": false
+  "ope": null
 }

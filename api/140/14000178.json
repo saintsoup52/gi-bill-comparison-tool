@@ -1,6 +1,6 @@
 {
   "facility_code": "14000178",
-  "institution": "Kea - Copenhagen School",
+  "institution": "KEA - COPENHAGEN SCHOOL",
   "city": "Kobenhavn N",
   "state": "Denmark",
   "country": "Denmark",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

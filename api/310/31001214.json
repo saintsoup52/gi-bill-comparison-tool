@@ -1,6 +1,6 @@
 {
   "facility_code": "31001214",
-  "institution": "Manchester University",
+  "institution": "MANCHESTER UNIVERSITY",
   "city": "North Manchester",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46962",
-  "email": false
+  "ope": "00182000"
 }

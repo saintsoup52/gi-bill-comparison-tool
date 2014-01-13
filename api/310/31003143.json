@@ -1,6 +1,6 @@
 {
   "facility_code": "31003143",
-  "institution": "Embry Riddle Aeronautical University Houston Resident Center",
+  "institution": "EMBRY RIDDLE AERONAUTICAL UNIVERSITY HOUSTON RESIDENT CENTER",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77062",
-  "email": true
+  "ope": "00147900"
 }

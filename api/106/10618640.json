@@ -1,6 +1,6 @@
 {
   "facility_code": "10618640",
-  "institution": "Clemson University Police Department",
+  "institution": "CLEMSON UNIVERSITY POLICE DEPARTMENT",
   "city": "Clemson",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29634",
-  "email": false
+  "ope": null
 }

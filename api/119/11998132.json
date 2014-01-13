@@ -1,6 +1,6 @@
 {
   "facility_code": "11998132",
-  "institution": "Suny College At Old Westbury",
+  "institution": "SUNY COLLEGE AT OLD WESTBURY",
   "city": "Old Westbury",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "11568",
-  "email": true
+  "ope": "00710900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20063042",
-  "institution": "Burlington Northern & Santa Fe Railway Company",
+  "institution": "BURLINGTON NORTHERN & SANTA FE RAILWAY COMPANY",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38118",
-  "email": false
+  "ope": null
 }

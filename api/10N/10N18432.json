@@ -1,6 +1,6 @@
 {
   "facility_code": "10N18432",
-  "institution": "New York State Park Police - Palisades",
+  "institution": "NEW YORK STATE PARK POLICE - PALISADES",
   "city": "Bear Mountain",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10911",
-  "email": true
+  "ope": null
 }

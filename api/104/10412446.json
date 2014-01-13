@@ -1,6 +1,6 @@
 {
   "facility_code": "10412446",
-  "institution": "Roanoke County Sheriff'S Office",
+  "institution": "ROANOKE COUNTY SHERIFF'S OFFICE",
   "city": "Salem",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24153",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10673725",
-  "institution": "Brtrc",
+  "institution": "BRTRC",
   "city": "St. Robert",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65584",
-  "email": false
+  "ope": null
 }

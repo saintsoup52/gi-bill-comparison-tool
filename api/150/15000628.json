@@ -1,6 +1,6 @@
 {
   "facility_code": "15000628",
-  "institution": "Department Of Public Safety Division Training Academy",
+  "institution": "DEPARTMENT OF PUBLIC SAFETY DIVISION TRAINING ACADEMY",
   "city": "Carson City",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89701",
-  "email": true
+  "ope": null
 }

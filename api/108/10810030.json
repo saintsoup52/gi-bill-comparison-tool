@@ -1,6 +1,6 @@
 {
   "facility_code": "10810030",
-  "institution": "Albert C. Wagner Correctional Facility",
+  "institution": "ALBERT C. WAGNER CORRECTIONAL FACILITY",
   "city": "Bordentown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8505",
-  "email": true
+  "ope": null
 }

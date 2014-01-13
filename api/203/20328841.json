@@ -1,6 +1,6 @@
 {
   "facility_code": "20328841",
-  "institution": "3m",
+  "institution": "3M",
   "city": "Aberdeen",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57401",
-  "email": false
+  "ope": null
 }

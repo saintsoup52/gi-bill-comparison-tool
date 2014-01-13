@@ -1,6 +1,6 @@
 {
   "facility_code": "10065011",
-  "institution": "Southwest Georgia Regional Airport",
+  "institution": "SOUTHWEST GEORGIA REGIONAL AIRPORT",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31701",
-  "email": true
+  "ope": null
 }

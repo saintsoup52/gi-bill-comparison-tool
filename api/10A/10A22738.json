@@ -1,6 +1,6 @@
 {
   "facility_code": "10A22738",
-  "institution": "Dept Of Corrections Sci Fayette",
+  "institution": "DEPT OF CORRECTIONS SCI FAYETTE",
   "city": "Labelle",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15450",
-  "email": true
+  "ope": null
 }

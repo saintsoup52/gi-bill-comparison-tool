@@ -1,6 +1,6 @@
 {
   "facility_code": "10579725",
-  "institution": "Tipton Correctional Center",
+  "institution": "TIPTON CORRECTIONAL CENTER",
   "city": "Tipton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65081",
-  "email": false
+  "ope": null
 }

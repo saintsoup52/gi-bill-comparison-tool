@@ -1,6 +1,6 @@
 {
   "facility_code": "10205016",
-  "institution": "Morris County Sheriff'S Office",
+  "institution": "MORRIS COUNTY SHERIFF'S OFFICE",
   "city": "Council Grove",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66846",
-  "email": false
+  "ope": null
 }

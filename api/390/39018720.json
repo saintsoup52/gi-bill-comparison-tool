@@ -1,6 +1,6 @@
 {
   "facility_code": "39018720",
-  "institution": "Vsp (Chapter 31 Only)",
+  "institution": "VSP (CHAPTER 31 ONLY)",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21215",
-  "email": false
+  "ope": null
 }

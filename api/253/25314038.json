@@ -1,6 +1,6 @@
 {
   "facility_code": "25314038",
-  "institution": "Aaa School Of Trucking",
+  "institution": "AAA SCHOOL OF TRUCKING",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19125",
-  "email": true
+  "ope": null
 }

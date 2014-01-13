@@ -1,6 +1,6 @@
 {
   "facility_code": "11019943",
-  "institution": "University Of Texas Of The Permian Basin",
+  "institution": "UNIVERSITY OF TEXAS OF THE PERMIAN BASIN",
   "city": "Odessa",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "79762",
-  "email": false
+  "ope": "00993000"
 }

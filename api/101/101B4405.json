@@ -1,6 +1,6 @@
 {
   "facility_code": "101B4405",
-  "institution": "California Highway Patrol (South Los Angeles Area)",
+  "institution": "CALIFORNIA HIGHWAY PATROL (SOUTH LOS ANGELES AREA)",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90502",
-  "email": false
+  "ope": null
 }

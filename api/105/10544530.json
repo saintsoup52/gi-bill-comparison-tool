@@ -1,6 +1,6 @@
 {
   "facility_code": "10544530",
-  "institution": "Pompton Lakes Police Department",
+  "institution": "POMPTON LAKES POLICE DEPARTMENT",
   "city": "Pompton Lakes",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7442",
-  "email": false
+  "ope": null
 }

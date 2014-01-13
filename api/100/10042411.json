@@ -1,6 +1,6 @@
 {
   "facility_code": "10042411",
-  "institution": "Georgia Department Of Labor (Gainesville)",
+  "institution": "GEORGIA DEPARTMENT OF LABOR (GAINESVILLE)",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30504",
-  "email": false
+  "ope": null
 }

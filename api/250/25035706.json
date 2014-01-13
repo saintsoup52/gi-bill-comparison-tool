@@ -1,6 +1,6 @@
 {
   "facility_code": "25035706",
-  "institution": "Jeppesen",
+  "institution": "JEPPESEN",
   "city": "Englewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80122",
-  "email": true
+  "ope": null
 }

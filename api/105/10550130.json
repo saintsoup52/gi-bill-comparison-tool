@@ -1,6 +1,6 @@
 {
   "facility_code": "10550130",
-  "institution": "Palisades Park Police Department",
+  "institution": "PALISADES PARK POLICE DEPARTMENT",
   "city": "Palisades Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7650",
-  "email": false
+  "ope": null
 }

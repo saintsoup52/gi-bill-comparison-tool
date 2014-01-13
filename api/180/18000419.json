@@ -1,6 +1,6 @@
 {
   "facility_code": "18000419",
-  "institution": "Maine Conservation Corps",
+  "institution": "MAINE CONSERVATION CORPS",
   "city": "Augusta",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4333",
-  "email": true
+  "ope": null
 }

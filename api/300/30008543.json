@@ -1,6 +1,6 @@
 {
   "facility_code": "30008543",
-  "institution": "Exxon Mobile Company Usa",
+  "institution": "EXXON MOBILE COMPANY USA",
   "city": "Baytown",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77520",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20593313",
-  "institution": "Aurora Air Traffic Control Tower",
+  "institution": "AURORA AIR TRAFFIC CONTROL TOWER",
   "city": "Sugar Grove",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60554",
-  "email": true
+  "ope": null
 }

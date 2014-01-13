@@ -1,6 +1,6 @@
 {
   "facility_code": "103B3105",
-  "institution": "Ironwood State Prison",
+  "institution": "IRONWOOD STATE PRISON",
   "city": "Blythe",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92225",
-  "email": false
+  "ope": null
 }

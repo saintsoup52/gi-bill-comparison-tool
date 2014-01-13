@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00901",
-  "institution": "Alabama Department Of Public Safety Dothan Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY DOTHAN POST",
   "city": "Dothan",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36303",
-  "email": true
+  "ope": null
 }

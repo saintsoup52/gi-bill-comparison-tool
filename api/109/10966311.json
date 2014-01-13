@@ -1,6 +1,6 @@
 {
   "facility_code": "10966311",
-  "institution": "Coastal State Prison",
+  "institution": "COASTAL STATE PRISON",
   "city": "Garden City",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31418",
-  "email": false
+  "ope": null
 }

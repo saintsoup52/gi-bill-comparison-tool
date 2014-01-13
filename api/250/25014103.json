@@ -1,6 +1,6 @@
 {
   "facility_code": "25014103",
-  "institution": "New Horizons Clc - Tucson",
+  "institution": "NEW HORIZONS CLC - TUCSON",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85715",
-  "email": true
+  "ope": null
 }

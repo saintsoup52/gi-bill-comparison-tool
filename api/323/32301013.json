@@ -1,6 +1,6 @@
 {
   "facility_code": "32301013",
-  "institution": "Resurrection University",
+  "institution": "RESURRECTION UNIVERSITY",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60622",
-  "email": true
+  "ope": "02214100"
 }

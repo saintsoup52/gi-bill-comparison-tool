@@ -1,6 +1,6 @@
 {
   "facility_code": "19012706",
-  "institution": "Department Of The Interior National Business Center",
+  "institution": "DEPARTMENT OF THE INTERIOR NATIONAL BUSINESS CENTER",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80235",
-  "email": false
+  "ope": null
 }

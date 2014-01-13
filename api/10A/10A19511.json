@@ -1,6 +1,6 @@
 {
   "facility_code": "10A19511",
-  "institution": "Savannah Regional Youth Detention Center",
+  "institution": "SAVANNAH REGIONAL YOUTH DETENTION CENTER",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31405",
-  "email": true
+  "ope": null
 }

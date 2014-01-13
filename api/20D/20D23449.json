@@ -1,6 +1,6 @@
 {
   "facility_code": "20D23449",
-  "institution": "Intertmet",
+  "institution": "INTERTMET",
   "city": "Sturtevant",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53177",
-  "email": false
+  "ope": null
 }

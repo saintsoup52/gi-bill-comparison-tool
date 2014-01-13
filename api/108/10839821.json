@@ -1,6 +1,6 @@
 {
   "facility_code": "10839821",
-  "institution": "Suffolk County House Of Correction",
+  "institution": "SUFFOLK COUNTY HOUSE OF CORRECTION",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2118",
-  "email": false
+  "ope": null
 }

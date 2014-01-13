@@ -1,6 +1,6 @@
 {
   "facility_code": "35009714",
-  "institution": "Riverview Hospital",
+  "institution": "RIVERVIEW HOSPITAL",
   "city": "Noblesville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46060",
-  "email": false
+  "ope": null
 }

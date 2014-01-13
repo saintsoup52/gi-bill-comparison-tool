@@ -1,6 +1,6 @@
 {
   "facility_code": "21013723",
-  "institution": "Walden University        Veterans Affairs Office",
+  "institution": "WALDEN UNIVERSITY        VETERANS AFFAIRS OFFICE",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "55401",
-  "email": false
+  "ope": "02504200"
 }

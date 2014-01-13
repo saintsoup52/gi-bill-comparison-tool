@@ -1,6 +1,6 @@
 {
   "facility_code": "20580140",
-  "institution": "Capitol Complex Police Sled",
+  "institution": "CAPITOL COMPLEX POLICE SLED",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29211",
-  "email": false
+  "ope": null
 }

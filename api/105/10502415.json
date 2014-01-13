@@ -1,6 +1,6 @@
 {
   "facility_code": "10502415",
-  "institution": "Johnston Police Department",
+  "institution": "JOHNSTON POLICE DEPARTMENT",
   "city": "Johnston",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50131",
-  "email": true
+  "ope": null
 }

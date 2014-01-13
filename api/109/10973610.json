@@ -1,6 +1,6 @@
 {
   "facility_code": "10973610",
-  "institution": "Hillsborough County Sheriff'S Office",
+  "institution": "HILLSBOROUGH COUNTY SHERIFF'S OFFICE",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33601",
-  "email": true
+  "ope": null
 }

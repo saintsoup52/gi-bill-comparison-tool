@@ -1,6 +1,6 @@
 {
   "facility_code": "10709713",
-  "institution": "Franklin Park Police Department",
+  "institution": "FRANKLIN PARK POLICE DEPARTMENT",
   "city": "Franklin Park",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60131",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10988010",
-  "institution": "Fort Lauderdale Police Department",
+  "institution": "FORT LAUDERDALE POLICE DEPARTMENT",
   "city": "Fort Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33312",
-  "email": true
+  "ope": null
 }

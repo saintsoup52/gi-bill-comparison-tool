@@ -1,6 +1,6 @@
 {
   "facility_code": "102B4305",
-  "institution": "Faa- Santa Barbara Tower",
+  "institution": "FAA- SANTA BARBARA TOWER",
   "city": "Goleta",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93117",
-  "email": true
+  "ope": null
 }

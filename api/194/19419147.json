@@ -1,6 +1,6 @@
 {
   "facility_code": "19419147",
-  "institution": "Washington Veterans Home @ Retsil (Ch 31 Only)",
+  "institution": "WASHINGTON VETERANS HOME @ RETSIL (CH 31 ONLY)",
   "city": "Retsil",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98378",
-  "email": true
+  "ope": null
 }

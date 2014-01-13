@@ -1,6 +1,6 @@
 {
   "facility_code": "10550540",
-  "institution": "Civilian Personnel Department",
+  "institution": "CIVILIAN PERSONNEL DEPARTMENT",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29904",
-  "email": false
+  "ope": null
 }

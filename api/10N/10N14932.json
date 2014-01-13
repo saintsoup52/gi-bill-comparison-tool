@@ -1,6 +1,6 @@
 {
   "facility_code": "10N14932",
-  "institution": "Jamestown Police Department",
+  "institution": "JAMESTOWN POLICE DEPARTMENT",
   "city": "Jamestown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14701",
-  "email": false
+  "ope": null
 }

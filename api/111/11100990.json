@@ -1,6 +1,6 @@
 {
   "facility_code": "11100990",
-  "institution": "Medical University Of Bialystok",
+  "institution": "MEDICAL UNIVERSITY OF BIALYSTOK",
   "city": "Bialystok",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

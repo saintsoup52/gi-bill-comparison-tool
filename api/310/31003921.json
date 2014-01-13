@@ -1,6 +1,6 @@
 {
   "facility_code": "31003921",
-  "institution": "Brandeis University",
+  "institution": "BRANDEIS UNIVERSITY",
   "city": "Waltham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2453",
-  "email": true
+  "ope": "00213300"
 }

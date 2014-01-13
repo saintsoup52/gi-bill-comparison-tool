@@ -1,6 +1,6 @@
 {
   "facility_code": "10839421",
-  "institution": "Fitchburg Fire Department",
+  "institution": "FITCHBURG FIRE DEPARTMENT",
   "city": "Fitchburg",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1420",
-  "email": false
+  "ope": null
 }

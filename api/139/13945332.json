@@ -1,6 +1,6 @@
 {
   "facility_code": "13945332",
-  "institution": "Suny College At Plattsburgh",
+  "institution": "SUNY COLLEGE AT PLATTSBURGH",
   "city": "Plattsburgh",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "12901",
-  "email": true
+  "ope": "00284900"
 }

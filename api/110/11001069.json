@@ -1,6 +1,6 @@
 {
   "facility_code": "11001069",
-  "institution": "National Cheng Kung University",
+  "institution": "NATIONAL CHENG KUNG UNIVERSITY",
   "city": "Tainan City 701",
   "state": "Taiwan",
   "country": "Taiwan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

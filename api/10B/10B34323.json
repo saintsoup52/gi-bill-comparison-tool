@@ -1,6 +1,6 @@
 {
   "facility_code": "10B34323",
-  "institution": "Mn Dept Of Veterans Affairs",
+  "institution": "MN DEPT OF VETERANS AFFAIRS",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55155",
-  "email": false
+  "ope": null
 }

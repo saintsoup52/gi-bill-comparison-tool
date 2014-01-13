@@ -1,6 +1,6 @@
 {
   "facility_code": "10589330",
-  "institution": "Brielle Police Department",
+  "institution": "BRIELLE POLICE DEPARTMENT",
   "city": "Brielle",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8730",
-  "email": true
+  "ope": null
 }

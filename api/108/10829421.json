@@ -1,6 +1,6 @@
 {
   "facility_code": "10829421",
-  "institution": "Quincy Fire Department",
+  "institution": "QUINCY FIRE DEPARTMENT",
   "city": "Quincy",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2169",
-  "email": true
+  "ope": null
 }

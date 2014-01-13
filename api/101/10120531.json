@@ -1,6 +1,6 @@
 {
   "facility_code": "10120531",
-  "institution": "Santa Fe Fire Department",
+  "institution": "SANTA FE FIRE DEPARTMENT",
   "city": "Santa Fe",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87504",
-  "email": true
+  "ope": null
 }

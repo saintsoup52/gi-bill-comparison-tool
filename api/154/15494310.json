@@ -1,6 +1,6 @@
 {
   "facility_code": "15494310",
-  "institution": "Bay Pines Va Healthcare System",
+  "institution": "BAY PINES VA HEALTHCARE SYSTEM",
   "city": "Bay Pines",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33744",
-  "email": true
+  "ope": null
 }

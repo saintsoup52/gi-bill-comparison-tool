@@ -1,6 +1,6 @@
 {
   "facility_code": "15037046",
-  "institution": "Virginia Dept Of Game & Inland Fisheries",
+  "institution": "VIRGINIA DEPT OF GAME & INLAND FISHERIES",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23230",
-  "email": true
+  "ope": null
 }

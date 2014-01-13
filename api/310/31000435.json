@@ -1,6 +1,6 @@
 {
   "facility_code": "31000435",
-  "institution": "Bluffton University",
+  "institution": "BLUFFTON UNIVERSITY",
   "city": "Bluffton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "45817",
-  "email": true
+  "ope": "00301600"
 }

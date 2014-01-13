@@ -1,6 +1,6 @@
 {
   "facility_code": "10489117",
-  "institution": "Nicholasville Police Department",
+  "institution": "NICHOLASVILLE POLICE DEPARTMENT",
   "city": "Nicholasville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40356",
-  "email": false
+  "ope": null
 }

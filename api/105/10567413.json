@@ -1,6 +1,6 @@
 {
   "facility_code": "10567413",
-  "institution": "Western Il Correctional Center",
+  "institution": "WESTERN IL CORRECTIONAL CENTER",
   "city": "Mt Sterling",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62359",
-  "email": false
+  "ope": null
 }

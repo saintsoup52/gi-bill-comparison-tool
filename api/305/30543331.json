@@ -1,6 +1,6 @@
 {
   "facility_code": "30543331",
-  "institution": "Tresco Inc.",
+  "institution": "TRESCO INC.",
   "city": "Las Cruces",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88005",
-  "email": false
+  "ope": null
 }

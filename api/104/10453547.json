@@ -1,6 +1,6 @@
 {
   "facility_code": "10453547",
-  "institution": "Tukwila Fire Department",
+  "institution": "TUKWILA FIRE DEPARTMENT",
   "city": "Tukwila",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98188",
-  "email": true
+  "ope": null
 }

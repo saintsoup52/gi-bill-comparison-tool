@@ -1,6 +1,6 @@
 {
   "facility_code": "10100828",
-  "institution": "Va Medical Center -Outpatient Ctr (Ch31)",
+  "institution": "VA MEDICAL CENTER -OUTPATIENT CTR (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89117",
-  "email": false
+  "ope": null
 }

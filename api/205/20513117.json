@@ -1,6 +1,6 @@
 {
   "facility_code": "20513117",
-  "institution": "Hickman-Fulton Recc",
+  "institution": "HICKMAN-FULTON RECC",
   "city": "Hickman",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42050",
-  "email": false
+  "ope": null
 }

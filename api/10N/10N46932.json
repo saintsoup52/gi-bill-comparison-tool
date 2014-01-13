@@ -1,6 +1,6 @@
 {
   "facility_code": "10N46932",
-  "institution": "Town Of Orchard Park Police Department",
+  "institution": "TOWN OF ORCHARD PARK POLICE DEPARTMENT",
   "city": "Orchard Park",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14127",
-  "email": true
+  "ope": null
 }

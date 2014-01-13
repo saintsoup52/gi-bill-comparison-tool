@@ -1,6 +1,6 @@
 {
   "facility_code": "20001426",
-  "institution": "De Electric",
+  "institution": "DE ELECTRIC",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59718",
-  "email": true
+  "ope": null
 }

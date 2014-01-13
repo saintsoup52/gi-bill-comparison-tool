@@ -1,6 +1,6 @@
 {
   "facility_code": "21000292",
-  "institution": "Universidade Anhembi Morumbi",
+  "institution": "UNIVERSIDADE ANHEMBI MORUMBI",
   "city": "Centro Sao Paulo",
   "state": "Brazil",
   "country": "Brazil",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

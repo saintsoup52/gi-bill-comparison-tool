@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02611",
-  "institution": "Cartersville - Rec Dept. City Of",
+  "institution": "CARTERSVILLE - REC DEPT. CITY OF",
   "city": "Cartersville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30120",
-  "email": false
+  "ope": null
 }

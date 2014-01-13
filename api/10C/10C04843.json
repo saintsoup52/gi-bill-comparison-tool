@@ -1,6 +1,6 @@
 {
   "facility_code": "10C04843",
-  "institution": "Austin Fire Dept Ojt",
+  "institution": "AUSTIN FIRE DEPT OJT",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78744",
-  "email": false
+  "ope": null
 }

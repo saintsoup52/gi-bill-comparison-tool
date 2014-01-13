@@ -1,6 +1,6 @@
 {
   "facility_code": "11001733",
-  "institution": "University Of North Carolina @ Greensboro",
+  "institution": "UNIVERSITY OF NORTH CAROLINA @ GREENSBORO",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "27402",
-  "email": true
+  "ope": "00297600"
 }

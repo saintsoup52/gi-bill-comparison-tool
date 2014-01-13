@@ -1,6 +1,6 @@
 {
   "facility_code": "18001426",
-  "institution": "Montana Law Enforcement Academy",
+  "institution": "MONTANA LAW ENFORCEMENT ACADEMY",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59602",
-  "email": true
+  "ope": null
 }

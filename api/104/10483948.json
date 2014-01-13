@@ -1,6 +1,6 @@
 {
   "facility_code": "10483948",
-  "institution": "South Charleston Fire Department",
+  "institution": "SOUTH CHARLESTON FIRE DEPARTMENT",
   "city": "South Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25303",
-  "email": true
+  "ope": null
 }

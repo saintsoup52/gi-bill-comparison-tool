@@ -1,6 +1,6 @@
 {
   "facility_code": "20667925",
-  "institution": "Unilever",
+  "institution": "UNILEVER",
   "city": "Independence",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64055",
-  "email": false
+  "ope": null
 }

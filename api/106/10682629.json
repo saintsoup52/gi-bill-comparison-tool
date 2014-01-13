@@ -1,6 +1,6 @@
 {
   "facility_code": "10682629",
-  "institution": "Allenstown Police Department",
+  "institution": "ALLENSTOWN POLICE DEPARTMENT",
   "city": "Allenstown",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3275",
-  "email": false
+  "ope": null
 }

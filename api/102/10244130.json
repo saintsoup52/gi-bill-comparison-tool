@@ -1,6 +1,6 @@
 {
   "facility_code": "10244130",
-  "institution": "Millburn Fire Department",
+  "institution": "MILLBURN FIRE DEPARTMENT",
   "city": "Millburn",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7041",
-  "email": false
+  "ope": null
 }

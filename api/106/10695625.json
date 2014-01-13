@@ -1,6 +1,6 @@
 {
   "facility_code": "10695625",
-  "institution": "Us Army Corp Of Engineers Lock & Dam 24",
+  "institution": "US ARMY CORP OF ENGINEERS LOCK & DAM 24",
   "city": "Clarksville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63336",
-  "email": false
+  "ope": null
 }

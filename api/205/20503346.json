@@ -1,6 +1,6 @@
 {
   "facility_code": "20503346",
-  "institution": "Northrop Grumman Newport News",
+  "institution": "NORTHROP GRUMMAN NEWPORT NEWS",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23607",
-  "email": false
+  "ope": null
 }

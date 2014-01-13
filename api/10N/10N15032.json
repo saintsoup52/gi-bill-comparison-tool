@@ -1,6 +1,6 @@
 {
   "facility_code": "10N15032",
-  "institution": "Town Of New Windsor Police Department",
+  "institution": "TOWN OF NEW WINDSOR POLICE DEPARTMENT",
   "city": "New Windsor",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12553",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35012506",
-  "institution": "Planned Parenthood Of The Rocky Mountains",
+  "institution": "PLANNED PARENTHOOD OF THE ROCKY MOUNTAINS",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80010",
-  "email": false
+  "ope": null
 }

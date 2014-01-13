@@ -1,6 +1,6 @@
 {
   "facility_code": "10700413",
-  "institution": "Warrenville Police Department",
+  "institution": "WARRENVILLE POLICE DEPARTMENT",
   "city": "Warrenville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60555",
-  "email": false
+  "ope": null
 }

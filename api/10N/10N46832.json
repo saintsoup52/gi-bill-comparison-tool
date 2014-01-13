@@ -1,6 +1,6 @@
 {
   "facility_code": "10N46832",
-  "institution": "Ridge Road Fire District",
+  "institution": "RIDGE ROAD FIRE DISTRICT",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14626",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B62135",
-  "institution": "City Of Lakewood Division Of Police (K)",
+  "institution": "CITY OF LAKEWOOD DIVISION OF POLICE (K)",
   "city": "Lakewood",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44107",
-  "email": false
+  "ope": null
 }

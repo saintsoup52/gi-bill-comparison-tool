@@ -1,6 +1,6 @@
 {
   "facility_code": "20N20132",
-  "institution": "Ambulatory Surgery Center Of Brooklyn",
+  "institution": "AMBULATORY SURGERY CENTER OF BROOKLYN",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11232",
-  "email": false
+  "ope": null
 }

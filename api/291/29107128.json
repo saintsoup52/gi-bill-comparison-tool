@@ -1,6 +1,6 @@
 {
   "facility_code": "29107128",
-  "institution": "Data Plus Communications (Ch31)",
+  "institution": "DATA PLUS COMMUNICATIONS (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89120",
-  "email": false
+  "ope": null
 }

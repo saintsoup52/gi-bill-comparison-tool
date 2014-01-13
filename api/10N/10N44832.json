@@ -1,6 +1,6 @@
 {
   "facility_code": "10N44832",
-  "institution": "New York State Department Of Labor - The Workplace - Watertown",
+  "institution": "NEW YORK STATE DEPARTMENT OF LABOR - THE WORKPLACE - WATERTOWN",
   "city": "Watertown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13601",
-  "email": true
+  "ope": null
 }

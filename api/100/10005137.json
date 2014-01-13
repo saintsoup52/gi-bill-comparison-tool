@@ -1,6 +1,6 @@
 {
   "facility_code": "10005137",
-  "institution": "Gresham Police Department",
+  "institution": "GRESHAM POLICE DEPARTMENT",
   "city": "Gresham",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97030",
-  "email": true
+  "ope": null
 }

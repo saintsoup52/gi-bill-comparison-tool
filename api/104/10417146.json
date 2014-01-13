@@ -1,6 +1,6 @@
 {
   "facility_code": "10417146",
-  "institution": "Accomack County Sheriff'S Office",
+  "institution": "ACCOMACK COUNTY SHERIFF'S OFFICE",
   "city": "Accomac",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23301",
-  "email": true
+  "ope": null
 }

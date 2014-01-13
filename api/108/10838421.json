@@ -1,6 +1,6 @@
 {
   "facility_code": "10838421",
-  "institution": "Upton Police Department",
+  "institution": "UPTON POLICE DEPARTMENT",
   "city": "Upton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1568",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10579125",
-  "institution": "Missouri Eastern Correctional Center",
+  "institution": "MISSOURI EASTERN CORRECTIONAL CENTER",
   "city": "Pacific",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63069",
-  "email": false
+  "ope": null
 }

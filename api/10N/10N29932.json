@@ -1,6 +1,6 @@
 {
   "facility_code": "10N29932",
-  "institution": "New York State Department Of Transportation - Utica 2",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - UTICA 2",
   "city": "Utica",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13501",
-  "email": true
+  "ope": null
 }

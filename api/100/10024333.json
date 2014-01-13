@@ -1,6 +1,6 @@
 {
   "facility_code": "10024333",
-  "institution": "Federal Aviation Admin (Faa) Tracon/Tower Fayetteville",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TRACON/TOWER FAYETTEVILLE",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28306",
-  "email": true
+  "ope": null
 }

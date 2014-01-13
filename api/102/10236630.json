@@ -1,6 +1,6 @@
 {
   "facility_code": "10236630",
-  "institution": "Elizabeth Fire Department",
+  "institution": "ELIZABETH FIRE DEPARTMENT",
   "city": "Elizabeth",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7208",
-  "email": true
+  "ope": null
 }

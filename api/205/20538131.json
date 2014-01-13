@@ -1,6 +1,6 @@
 {
   "facility_code": "20538131",
-  "institution": "Bret Haworth (Ch31)",
+  "institution": "BRET HAWORTH (CH31)",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87110",
-  "email": false
+  "ope": null
 }

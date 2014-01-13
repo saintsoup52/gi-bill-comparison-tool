@@ -1,6 +1,6 @@
 {
   "facility_code": "10192822",
-  "institution": "Faa Federal Aviation Administration-Traverse City",
+  "institution": "FAA FEDERAL AVIATION ADMINISTRATION-TRAVERSE CITY",
   "city": "Traverse City",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49686",
-  "email": false
+  "ope": null
 }

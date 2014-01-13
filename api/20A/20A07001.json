@@ -1,6 +1,6 @@
 {
   "facility_code": "20A07001",
-  "institution": "Bentley Pontiac Gmc",
+  "institution": "BENTLEY PONTIAC GMC",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35805",
-  "email": true
+  "ope": null
 }

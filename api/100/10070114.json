@@ -1,6 +1,6 @@
 {
   "facility_code": "10070114",
-  "institution": "Frankfort Police Department",
+  "institution": "FRANKFORT POLICE DEPARTMENT",
   "city": "Frankfort",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46041",
-  "email": false
+  "ope": null
 }

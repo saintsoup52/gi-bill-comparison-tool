@@ -1,6 +1,6 @@
 {
   "facility_code": "10470848",
-  "institution": "Wheeling Fire Department",
+  "institution": "WHEELING FIRE DEPARTMENT",
   "city": "Wheeling",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26003",
-  "email": true
+  "ope": null
 }

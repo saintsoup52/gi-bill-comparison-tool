@@ -1,6 +1,6 @@
 {
   "facility_code": "15Y00046",
-  "institution": "The Veterans Corporation",
+  "institution": "THE VETERANS CORPORATION",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22134",
-  "email": false
+  "ope": null
 }

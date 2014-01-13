@@ -1,6 +1,6 @@
 {
   "facility_code": "20041902",
-  "institution": "Ema Inc",
+  "institution": "EMA INC",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99518",
-  "email": false
+  "ope": null
 }

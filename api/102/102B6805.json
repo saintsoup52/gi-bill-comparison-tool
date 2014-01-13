@@ -1,6 +1,6 @@
 {
   "facility_code": "102B6805",
-  "institution": "Mercy Hospital Of Bakersfield",
+  "institution": "MERCY HOSPITAL OF BAKERSFIELD",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93301",
-  "email": false
+  "ope": null
 }

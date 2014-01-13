@@ -1,6 +1,6 @@
 {
   "facility_code": "10967210",
-  "institution": "Manatee County Sheriff'S Office",
+  "institution": "MANATEE COUNTY SHERIFF'S OFFICE",
   "city": "Bradenton",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34205",
-  "email": true
+  "ope": null
 }

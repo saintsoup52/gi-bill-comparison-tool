@@ -1,6 +1,6 @@
 {
   "facility_code": "31504505",
-  "institution": "La Sierra University",
+  "institution": "LA SIERRA UNIVERSITY",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92515",
-  "email": true
+  "ope": "00121500"
 }

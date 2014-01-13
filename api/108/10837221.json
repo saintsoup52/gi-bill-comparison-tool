@@ -1,6 +1,6 @@
 {
   "facility_code": "10837221",
-  "institution": "Nantucket Police Department",
+  "institution": "NANTUCKET POLICE DEPARTMENT",
   "city": "Nantucket",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2554",
-  "email": false
+  "ope": null
 }

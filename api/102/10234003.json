@@ -1,6 +1,6 @@
 {
   "facility_code": "10234003",
-  "institution": "Faa Phoenix Sky Harbor System Support Center Navigation/Comm/Environmental",
+  "institution": "FAA PHOENIX SKY HARBOR SYSTEM SUPPORT CENTER NAVIGATION/COMM/ENVIRONMENTAL",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85034",
-  "email": true
+  "ope": null
 }

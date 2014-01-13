@@ -1,6 +1,6 @@
 {
   "facility_code": "10410146",
-  "institution": "Virginia Beach Sheriff'S Office",
+  "institution": "VIRGINIA BEACH SHERIFF'S OFFICE",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23451",
-  "email": true
+  "ope": null
 }

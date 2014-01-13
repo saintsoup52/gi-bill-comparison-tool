@@ -1,6 +1,6 @@
 {
   "facility_code": "10019033",
-  "institution": "Ncdoc - Lanesboro Correctional Institution",
+  "institution": "NCDOC - LANESBORO CORRECTIONAL INSTITUTION",
   "city": "Polkton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28135",
-  "email": true
+  "ope": null
 }

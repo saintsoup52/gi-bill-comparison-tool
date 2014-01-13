@@ -1,6 +1,6 @@
 {
   "facility_code": "102B0405",
-  "institution": "Customs And Border Protection",
+  "institution": "CUSTOMS AND BORDER PROTECTION",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90831",
-  "email": true
+  "ope": null
 }

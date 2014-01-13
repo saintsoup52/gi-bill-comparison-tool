@@ -1,6 +1,6 @@
 {
   "facility_code": "10295646",
-  "institution": "Loudoun County Sheriff'S Office",
+  "institution": "LOUDOUN COUNTY SHERIFF'S OFFICE",
   "city": "Leesburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20175",
-  "email": true
+  "ope": null
 }

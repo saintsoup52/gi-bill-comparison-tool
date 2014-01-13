@@ -1,6 +1,6 @@
 {
   "facility_code": "10D06338",
-  "institution": "Pennsylvania Fish And Boat Commission",
+  "institution": "PENNSYLVANIA FISH AND BOAT COMMISSION",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17106",
-  "email": false
+  "ope": null
 }

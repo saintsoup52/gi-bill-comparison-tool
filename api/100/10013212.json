@@ -1,6 +1,6 @@
 {
   "facility_code": "10013212",
-  "institution": "Washington County Sheriff'S Office",
+  "institution": "WASHINGTON COUNTY SHERIFF'S OFFICE",
   "city": "Weiser",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83672",
-  "email": false
+  "ope": null
 }

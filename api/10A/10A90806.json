@@ -1,6 +1,6 @@
 {
   "facility_code": "10A90806",
-  "institution": "City Of Colorado Springs Fleet Maintenance",
+  "institution": "CITY OF COLORADO SPRINGS FLEET MAINTENANCE",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80901",
-  "email": false
+  "ope": null
 }

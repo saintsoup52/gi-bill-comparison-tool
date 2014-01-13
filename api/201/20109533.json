@@ -1,6 +1,6 @@
 {
   "facility_code": "20109533",
-  "institution": "E. I. Dupont De Nemours & Company",
+  "institution": "E. I. DUPONT DE NEMOURS & COMPANY",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28712",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15010313",
-  "institution": "Warsaw High School",
+  "institution": "WARSAW HIGH SCHOOL",
   "city": "Warsaw",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62379",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C10143",
-  "institution": "Baker Atlas",
+  "institution": "BAKER ATLAS",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77073",
-  "email": false
+  "ope": null
 }

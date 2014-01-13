@@ -1,6 +1,6 @@
 {
   "facility_code": "25579225",
-  "institution": "New Horizons Clc St Louis",
+  "institution": "NEW HORIZONS CLC ST LOUIS",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63114",
-  "email": true
+  "ope": null
 }

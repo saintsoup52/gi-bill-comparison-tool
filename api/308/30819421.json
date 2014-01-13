@@ -1,6 +1,6 @@
 {
   "facility_code": "30819421",
-  "institution": "Plumbers And Pipefitters' Union Jatc 104",
+  "institution": "PLUMBERS AND PIPEFITTERS' UNION JATC 104",
   "city": "Chicopee",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1013",
-  "email": true
+  "ope": null
 }

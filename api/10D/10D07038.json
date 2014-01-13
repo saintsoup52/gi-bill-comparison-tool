@@ -1,6 +1,6 @@
 {
   "facility_code": "10D07038",
-  "institution": "Department Of Labor & Industry Scranton Job Ctr",
+  "institution": "DEPARTMENT OF LABOR & INDUSTRY SCRANTON JOB CTR",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18504",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10009233",
-  "institution": "Wilmington Fire Department",
+  "institution": "WILMINGTON FIRE DEPARTMENT",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28402",
-  "email": true
+  "ope": null
 }

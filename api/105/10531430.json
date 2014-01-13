@@ -1,6 +1,6 @@
 {
   "facility_code": "10531430",
-  "institution": "Monroe Township Police Department",
+  "institution": "MONROE TOWNSHIP POLICE DEPARTMENT",
   "city": "Williamstown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8094",
-  "email": true
+  "ope": null
 }

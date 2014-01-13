@@ -1,6 +1,6 @@
 {
   "facility_code": "20451803",
-  "institution": "Community Information & Referral (Chapter 31 Only)",
+  "institution": "COMMUNITY INFORMATION & REFERRAL (CHAPTER 31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85004",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20779518",
-  "institution": "Entergy Operations-River Bend Station",
+  "institution": "ENTERGY OPERATIONS-RIVER BEND STATION",
   "city": "St. Francisville",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70775",
-  "email": false
+  "ope": null
 }

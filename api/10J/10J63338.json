@@ -1,6 +1,6 @@
 {
   "facility_code": "10J63338",
-  "institution": "Snyder County Prison",
+  "institution": "SNYDER COUNTY PRISON",
   "city": "Selinsgrove",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17870",
-  "email": false
+  "ope": null
 }

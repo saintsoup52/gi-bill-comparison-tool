@@ -1,6 +1,6 @@
 {
   "facility_code": "10591113",
-  "institution": "Fairfield Police Dept.",
+  "institution": "FAIRFIELD POLICE DEPT.",
   "city": "Fairfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62837",
-  "email": false
+  "ope": null
 }

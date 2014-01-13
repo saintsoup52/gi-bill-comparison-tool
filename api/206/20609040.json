@@ -1,6 +1,6 @@
 {
   "facility_code": "20609040",
-  "institution": "Leath Correctional Institution",
+  "institution": "LEATH CORRECTIONAL INSTITUTION",
   "city": "Greenwood",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29646",
-  "email": false
+  "ope": null
 }

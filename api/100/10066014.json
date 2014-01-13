@@ -1,6 +1,6 @@
 {
   "facility_code": "10066014",
-  "institution": "New Albany Police Department",
+  "institution": "NEW ALBANY POLICE DEPARTMENT",
   "city": "New Albany",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47150",
-  "email": true
+  "ope": null
 }

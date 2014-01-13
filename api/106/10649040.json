@@ -1,6 +1,6 @@
 {
   "facility_code": "10649040",
-  "institution": "Va Medical Center Dorn (Ch31)",
+  "institution": "VA MEDICAL CENTER DORN (CH31)",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29209",
-  "email": false
+  "ope": null
 }

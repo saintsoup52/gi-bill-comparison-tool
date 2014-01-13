@@ -1,6 +1,6 @@
 {
   "facility_code": "17631332",
-  "institution": "Poughkeepsie High School",
+  "institution": "POUGHKEEPSIE HIGH SCHOOL",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12603",
-  "email": false
+  "ope": null
 }

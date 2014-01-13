@@ -1,6 +1,6 @@
 {
   "facility_code": "10996721",
-  "institution": "Woburn Fire Department",
+  "institution": "WOBURN FIRE DEPARTMENT",
   "city": "Woburn",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1801",
-  "email": false
+  "ope": null
 }

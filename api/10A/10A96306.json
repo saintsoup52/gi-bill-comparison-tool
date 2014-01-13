@@ -1,6 +1,6 @@
 {
   "facility_code": "10A96306",
-  "institution": "Littleton Police Department",
+  "institution": "LITTLETON POLICE DEPARTMENT",
   "city": "Littleton",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80120",
-  "email": true
+  "ope": null
 }

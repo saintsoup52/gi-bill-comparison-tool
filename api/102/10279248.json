@@ -1,6 +1,6 @@
 {
   "facility_code": "10279248",
-  "institution": "Federal Correctional Institute",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTE",
   "city": "Beaver",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25813",
-  "email": true
+  "ope": null
 }

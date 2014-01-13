@@ -1,6 +1,6 @@
 {
   "facility_code": "30209203",
-  "institution": "Luke Air Force Base (Chapter 31 Only)",
+  "institution": "LUKE AIR FORCE BASE (CHAPTER 31 ONLY)",
   "city": "Glendale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85309",
-  "email": false
+  "ope": null
 }

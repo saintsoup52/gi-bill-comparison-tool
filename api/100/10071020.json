@@ -1,6 +1,6 @@
 {
   "facility_code": "10071020",
-  "institution": "National Security Agency",
+  "institution": "NATIONAL SECURITY AGENCY",
   "city": "Ft George G Meade",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20755",
-  "email": false
+  "ope": null
 }

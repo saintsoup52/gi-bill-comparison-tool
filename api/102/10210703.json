@@ -1,6 +1,6 @@
 {
   "facility_code": "10210703",
-  "institution": "Phoenix Fire Department",
+  "institution": "PHOENIX FIRE DEPARTMENT",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85009",
-  "email": true
+  "ope": null
 }

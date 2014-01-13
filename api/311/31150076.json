@@ -1,6 +1,6 @@
 {
   "facility_code": "31150076",
-  "institution": "Universidad Americana",
+  "institution": "UNIVERSIDAD AMERICANA",
   "city": "Managua",
   "state": "Nicaragua",
   "country": "Nicaragua",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

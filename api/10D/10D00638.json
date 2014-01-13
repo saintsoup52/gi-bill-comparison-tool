@@ -1,6 +1,6 @@
 {
   "facility_code": "10D00638",
-  "institution": "Department Of Labor And Industry - Pottsville",
+  "institution": "DEPARTMENT OF LABOR AND INDUSTRY - POTTSVILLE",
   "city": "Pottsville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17901",
-  "email": true
+  "ope": null
 }

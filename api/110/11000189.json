@@ -1,6 +1,6 @@
 {
   "facility_code": "11000189",
-  "institution": "Univ Tecnologica De Panama",
+  "institution": "UNIV TECNOLOGICA DE PANAMA",
   "city": "Bethania",
   "state": "Panama",
   "country": "Panama",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

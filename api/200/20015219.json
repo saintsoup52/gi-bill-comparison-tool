@@ -1,6 +1,6 @@
 {
   "facility_code": "20015219",
-  "institution": "Local 517 Carpenters & Joiners",
+  "institution": "LOCAL 517 CARPENTERS & JOINERS",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4101",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20300047",
-  "institution": "Morris-Bates Mortuary       (Ch31)",
+  "institution": "MORRIS-BATES MORTUARY       (CH31)",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98405",
-  "email": false
+  "ope": null
 }

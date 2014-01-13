@@ -1,6 +1,6 @@
 {
   "facility_code": "10029733",
-  "institution": "Lee County Sheriff Office",
+  "institution": "LEE COUNTY SHERIFF OFFICE",
   "city": "Sanford",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27331",
-  "email": false
+  "ope": null
 }

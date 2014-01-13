@@ -1,6 +1,6 @@
 {
   "facility_code": "20557113",
-  "institution": "Bureau Service Company",
+  "institution": "BUREAU SERVICE COMPANY",
   "city": "Princeton",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61356",
-  "email": false
+  "ope": null
 }

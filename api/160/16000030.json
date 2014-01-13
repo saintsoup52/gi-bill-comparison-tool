@@ -1,6 +1,6 @@
 {
   "facility_code": "16000030",
-  "institution": "Cherry Hill Adult School",
+  "institution": "CHERRY HILL ADULT SCHOOL",
   "city": "Cherry Hill",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8003",
-  "email": false
+  "ope": null
 }

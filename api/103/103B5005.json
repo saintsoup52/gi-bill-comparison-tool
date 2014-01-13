@@ -1,6 +1,6 @@
 {
   "facility_code": "103B5005",
-  "institution": "Los Angeles County Metropolitan Transportation Authority",
+  "institution": "LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90012",
-  "email": false
+  "ope": null
 }

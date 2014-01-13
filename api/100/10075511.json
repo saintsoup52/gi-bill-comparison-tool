@@ -1,6 +1,6 @@
 {
   "facility_code": "10075511",
-  "institution": "Georgia State Patrol - Post 51",
+  "institution": "GEORGIA STATE PATROL - POST 51",
   "city": "Duluth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30096",
-  "email": true
+  "ope": null
 }

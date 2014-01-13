@@ -1,6 +1,6 @@
 {
   "facility_code": "20631125",
-  "institution": "Starting Usa Corporation",
+  "institution": "STARTING USA CORPORATION",
   "city": "Poplar Bluff",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63901",
-  "email": false
+  "ope": null
 }

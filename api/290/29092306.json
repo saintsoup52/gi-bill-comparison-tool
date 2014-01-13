@@ -1,6 +1,6 @@
 {
   "facility_code": "29092306",
-  "institution": "Colorado Flight Center",
+  "institution": "COLORADO FLIGHT CENTER",
   "city": "Grand Junction",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81506",
-  "email": false
+  "ope": null
 }

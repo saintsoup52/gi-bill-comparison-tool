@@ -1,6 +1,6 @@
 {
   "facility_code": "10676836",
-  "institution": "Oklahoma State Penitentiary",
+  "institution": "OKLAHOMA STATE PENITENTIARY",
   "city": "Mcalester",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74501",
-  "email": false
+  "ope": null
 }

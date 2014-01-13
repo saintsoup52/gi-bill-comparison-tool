@@ -1,6 +1,6 @@
 {
   "facility_code": "103B4605",
-  "institution": "Chuckawalla Valley State Prison",
+  "institution": "CHUCKAWALLA VALLEY STATE PRISON",
   "city": "Blythe",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92226",
-  "email": true
+  "ope": null
 }

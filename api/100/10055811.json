@@ -1,6 +1,6 @@
 {
   "facility_code": "10055811",
-  "institution": "Cleveland Police Department",
+  "institution": "CLEVELAND POLICE DEPARTMENT",
   "city": "Cleveland",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30258",
-  "email": false
+  "ope": null
 }

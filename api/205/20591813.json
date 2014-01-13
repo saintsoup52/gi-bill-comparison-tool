@@ -1,6 +1,6 @@
 {
   "facility_code": "20591813",
-  "institution": "Federal Aviation Administration  Dupage Air Traffic Control Tower (Dpa Atct)",
+  "institution": "FEDERAL AVIATION ADMINISTRATION  DUPAGE AIR TRAFFIC CONTROL TOWER (DPA ATCT)",
   "city": "West Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60185",
-  "email": true
+  "ope": null
 }

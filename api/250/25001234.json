@@ -1,6 +1,6 @@
 {
   "facility_code": "25001234",
-  "institution": "The Network Center Inc.",
+  "institution": "THE NETWORK CENTER INC.",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58103",
-  "email": false
+  "ope": null
 }

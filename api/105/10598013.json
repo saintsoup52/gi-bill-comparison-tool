@@ -1,6 +1,6 @@
 {
   "facility_code": "10598013",
-  "institution": "Lasalle County Sheriff'S Office",
+  "institution": "LASALLE COUNTY SHERIFF'S OFFICE",
   "city": "Ottawa",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61350",
-  "email": true
+  "ope": null
 }

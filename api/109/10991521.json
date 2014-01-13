@@ -1,6 +1,6 @@
 {
   "facility_code": "10991521",
-  "institution": "Melrose Police Department",
+  "institution": "MELROSE POLICE DEPARTMENT",
   "city": "Melrose",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2176",
-  "email": true
+  "ope": null
 }

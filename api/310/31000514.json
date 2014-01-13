@@ -1,6 +1,6 @@
 {
   "facility_code": "31000514",
-  "institution": "Indiana Institute Of Technology - Fort Wayne",
+  "institution": "INDIANA INSTITUTE OF TECHNOLOGY - FORT WAYNE",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46803",
-  "email": true
+  "ope": "00180500"
 }

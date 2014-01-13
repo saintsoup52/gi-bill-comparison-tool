@@ -1,6 +1,6 @@
 {
   "facility_code": "11100269",
-  "institution": "The Hebrew University Of Jerusalem",
+  "institution": "THE HEBREW UNIVERSITY OF JERUSALEM",
   "city": "Jerusalem",
   "state": "Israel (Jerusalem)",
   "country": "Israel (Jerusalem)",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10830421",
-  "institution": "New Bedford Fire Department",
+  "institution": "NEW BEDFORD FIRE DEPARTMENT",
   "city": "New Bedford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2740",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10529430",
-  "institution": "South Brunswick Police Department",
+  "institution": "SOUTH BRUNSWICK POLICE DEPARTMENT",
   "city": "Monmouth Junction",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8852",
-  "email": false
+  "ope": null
 }

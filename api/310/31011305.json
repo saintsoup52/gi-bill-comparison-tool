@@ -1,6 +1,6 @@
 {
   "facility_code": "31011305",
-  "institution": "Hebrew Union College-Jewish Institute Of Religion",
+  "institution": "HEBREW UNION COLLEGE-JEWISH INSTITUTE OF RELIGION",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "90007",
-  "email": true
+  "ope": "00405402"
 }

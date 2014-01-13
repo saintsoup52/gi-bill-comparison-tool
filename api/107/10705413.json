@@ -1,6 +1,6 @@
 {
   "facility_code": "10705413",
-  "institution": "Dhs/ Nppd/ Fps",
+  "institution": "DHS/ NPPD/ FPS",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60604",
-  "email": false
+  "ope": null
 }

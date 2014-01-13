@@ -1,6 +1,6 @@
 {
   "facility_code": "10B79735",
-  "institution": "Galion Police Department",
+  "institution": "GALION POLICE DEPARTMENT",
   "city": "Galion",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44833",
-  "email": false
+  "ope": null
 }

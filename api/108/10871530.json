@@ -1,6 +1,6 @@
 {
   "facility_code": "10871530",
-  "institution": "Camden County Correctional Facility",
+  "institution": "CAMDEN COUNTY CORRECTIONAL FACILITY",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8103",
-  "email": true
+  "ope": null
 }

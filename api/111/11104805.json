@@ -1,6 +1,6 @@
 {
   "facility_code": "11104805",
-  "institution": "San Diego State University College Of Extended Studies",
+  "institution": "SAN DIEGO STATE UNIVERSITY COLLEGE OF EXTENDED STUDIES",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92182",
-  "email": true
+  "ope": "00115100"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20021314",
-  "institution": "International Union Of Operating Engineers Loc.103",
+  "institution": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOC.103",
   "city": "Anderson",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46017",
-  "email": false
+  "ope": null
 }

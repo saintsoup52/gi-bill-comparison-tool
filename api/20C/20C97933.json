@@ -1,6 +1,6 @@
 {
   "facility_code": "20C97933",
-  "institution": "Local 135 Elevator Constructors Jac",
+  "institution": "LOCAL 135 ELEVATOR CONSTRUCTORS JAC",
   "city": "Concord",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28027",
-  "email": true
+  "ope": null
 }

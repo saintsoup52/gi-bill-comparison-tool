@@ -1,6 +1,6 @@
 {
   "facility_code": "10060914",
-  "institution": "Paoli Police Department",
+  "institution": "PAOLI POLICE DEPARTMENT",
   "city": "Paoli",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47454",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000874",
-  "institution": "Edinburgh College Of Art",
+  "institution": "EDINBURGH COLLEGE OF ART",
   "city": "Edinburgh",
   "state": "Scotland",
   "country": "Scotland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

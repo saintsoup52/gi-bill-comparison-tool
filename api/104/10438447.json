@@ -1,6 +1,6 @@
 {
   "facility_code": "10438447",
-  "institution": "City Of Marysville Police Department",
+  "institution": "CITY OF MARYSVILLE POLICE DEPARTMENT",
   "city": "Marysville",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98223",
-  "email": true
+  "ope": null
 }

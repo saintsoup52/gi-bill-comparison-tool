@@ -1,6 +1,6 @@
 {
   "facility_code": "10961101",
-  "institution": "(Chapter 31)Va Medical Center",
+  "institution": "(CHAPTER 31)VA MEDICAL CENTER",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36091",
-  "email": false
+  "ope": null
 }

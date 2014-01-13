@@ -1,6 +1,6 @@
 {
   "facility_code": "15000820",
-  "institution": "City Of Frederick Police Academy",
+  "institution": "CITY OF FREDERICK POLICE ACADEMY",
   "city": "Frederick",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21701",
-  "email": true
+  "ope": null
 }

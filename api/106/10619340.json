@@ -1,6 +1,6 @@
 {
   "facility_code": "10619340",
-  "institution": "Womens Shock Incarceration Unit",
+  "institution": "WOMENS SHOCK INCARCERATION UNIT",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29210",
-  "email": false
+  "ope": null
 }

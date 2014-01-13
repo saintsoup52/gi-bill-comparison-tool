@@ -1,6 +1,6 @@
 {
   "facility_code": "103C1305",
-  "institution": "Social Security Administration (Ventura)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (VENTURA)",
   "city": "Ventura",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93003",
-  "email": false
+  "ope": null
 }

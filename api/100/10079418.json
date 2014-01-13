@@ -1,6 +1,6 @@
 {
   "facility_code": "10079418",
-  "institution": "Faa - Lake Charles Atct (Lch)",
+  "institution": "FAA - LAKE CHARLES ATCT (LCH)",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70605",
-  "email": true
+  "ope": null
 }

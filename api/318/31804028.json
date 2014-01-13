@@ -1,6 +1,6 @@
 {
   "facility_code": "31804028",
-  "institution": "Embry-Riddle Aeronautical Univ Nellis Afb",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV NELLIS AFB",
   "city": "Nellis Afb",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89191",
-  "email": true
+  "ope": "00147982"
 }

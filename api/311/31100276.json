@@ -1,6 +1,6 @@
 {
   "facility_code": "31100276",
-  "institution": "Universidad Autonoma De Centro America (Costa Rica)",
+  "institution": "UNIVERSIDAD AUTONOMA DE CENTRO AMERICA (COSTA RICA)",
   "city": "San Jose",
   "state": "Costa Rica",
   "country": "Costa Rica",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

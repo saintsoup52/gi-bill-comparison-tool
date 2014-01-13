@@ -1,6 +1,6 @@
 {
   "facility_code": "10465915",
-  "institution": "Storm Lake Police Department",
+  "institution": "STORM LAKE POLICE DEPARTMENT",
   "city": "Storm Lake",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50588",
-  "email": false
+  "ope": null
 }

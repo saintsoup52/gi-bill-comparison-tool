@@ -1,6 +1,6 @@
 {
   "facility_code": "10037211",
-  "institution": "Dublin Police Department",
+  "institution": "DUBLIN POLICE DEPARTMENT",
   "city": "Dublin",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31040",
-  "email": false
+  "ope": null
 }

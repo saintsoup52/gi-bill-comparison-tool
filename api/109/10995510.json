@@ -1,6 +1,6 @@
 {
   "facility_code": "10995510",
-  "institution": "Miami Dade Police Department",
+  "institution": "MIAMI DADE POLICE DEPARTMENT",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33178",
-  "email": false
+  "ope": null
 }

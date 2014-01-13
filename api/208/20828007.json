@@ -1,6 +1,6 @@
 {
   "facility_code": "20828007",
-  "institution": "Aaa Electric Service Llc",
+  "institution": "AAA ELECTRIC SERVICE LLC",
   "city": "Branford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6405",
-  "email": false
+  "ope": null
 }

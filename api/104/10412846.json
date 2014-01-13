@@ -1,6 +1,6 @@
 {
   "facility_code": "10412846",
-  "institution": "Stafford Diversion Ctr",
+  "institution": "STAFFORD DIVERSION CTR",
   "city": "Stafford",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22554",
-  "email": false
+  "ope": null
 }

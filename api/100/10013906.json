@@ -1,6 +1,6 @@
 {
   "facility_code": "10013906",
-  "institution": "Airman & Family Readiness Center",
+  "institution": "AIRMAN & FAMILY READINESS CENTER",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80011",
-  "email": false
+  "ope": null
 }

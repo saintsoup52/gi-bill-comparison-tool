@@ -1,6 +1,6 @@
 {
   "facility_code": "10N35532",
-  "institution": "New York City Dept. Of Corrections - Vernon Bain Center",
+  "institution": "NEW YORK CITY DEPT. OF CORRECTIONS - VERNON BAIN CENTER",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10474",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000145",
-  "institution": "Bennington College",
+  "institution": "BENNINGTON COLLEGE",
   "city": "Bennington",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "5201",
-  "email": true
+  "ope": "00368200"
 }

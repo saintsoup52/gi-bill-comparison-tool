@@ -1,6 +1,6 @@
 {
   "facility_code": "10029833",
-  "institution": "Us Department Of Homeland Security ~ Ice",
+  "institution": "US DEPARTMENT OF HOMELAND SECURITY ~ ICE",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28217",
-  "email": true
+  "ope": null
 }

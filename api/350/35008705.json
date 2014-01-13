@@ -1,6 +1,6 @@
 {
   "facility_code": "35008705",
-  "institution": "Center For Employment Training (San Jose)",
+  "institution": "CENTER FOR EMPLOYMENT TRAINING (SAN JOSE)",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "95110",
-  "email": false
+  "ope": "02332831"
 }

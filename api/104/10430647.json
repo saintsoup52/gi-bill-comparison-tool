@@ -1,6 +1,6 @@
 {
   "facility_code": "10430647",
-  "institution": "Olympia Police Department - Corrections",
+  "institution": "OLYMPIA POLICE DEPARTMENT - CORRECTIONS",
   "city": "Olympia",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98507",
-  "email": true
+  "ope": null
 }

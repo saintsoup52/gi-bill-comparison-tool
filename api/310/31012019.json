@@ -1,6 +1,6 @@
 {
   "facility_code": "31012019",
-  "institution": "Colby College",
+  "institution": "COLBY COLLEGE",
   "city": "Waterville",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4901",
-  "email": false
+  "ope": "00203900"
 }

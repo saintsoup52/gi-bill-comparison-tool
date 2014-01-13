@@ -1,6 +1,6 @@
 {
   "facility_code": "10012933",
-  "institution": "Ncdoc - Nc Correctional Institution For Women",
+  "institution": "NCDOC - NC CORRECTIONAL INSTITUTION FOR WOMEN",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27699",
-  "email": true
+  "ope": null
 }

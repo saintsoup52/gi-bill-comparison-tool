@@ -1,6 +1,6 @@
 {
   "facility_code": "158A0032",
-  "institution": "Cuny On The Concourse",
+  "institution": "CUNY ON THE CONCOURSE",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10468",
-  "email": false
+  "ope": null
 }

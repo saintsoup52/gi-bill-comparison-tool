@@ -1,6 +1,6 @@
 {
   "facility_code": "10069414",
-  "institution": "Mitchell Police Department",
+  "institution": "MITCHELL POLICE DEPARTMENT",
   "city": "Mitchell",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47446",
-  "email": false
+  "ope": null
 }

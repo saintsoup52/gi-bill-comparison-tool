@@ -1,6 +1,6 @@
 {
   "facility_code": "19000109",
-  "institution": "Small Business Administration",
+  "institution": "SMALL BUSINESS ADMINISTRATION",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20416",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25011630",
-  "institution": "Institute Of Logistical Management",
+  "institution": "INSTITUTE OF LOGISTICAL MANAGEMENT",
   "city": "Burlington",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8016",
-  "email": true
+  "ope": null
 }

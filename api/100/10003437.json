@@ -1,6 +1,6 @@
 {
   "facility_code": "10003437",
-  "institution": "Washington County Sheriff'S Office",
+  "institution": "WASHINGTON COUNTY SHERIFF'S OFFICE",
   "city": "Hillsboro",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97123",
-  "email": true
+  "ope": null
 }

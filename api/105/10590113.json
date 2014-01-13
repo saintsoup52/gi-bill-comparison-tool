@@ -1,6 +1,6 @@
 {
   "facility_code": "10590113",
-  "institution": "Northlake Police Department",
+  "institution": "NORTHLAKE POLICE DEPARTMENT",
   "city": "Northlake",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60164",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14100173",
-  "institution": "Haute De Ecole De Bruxelles",
+  "institution": "HAUTE DE ECOLE DE BRUXELLES",
   "city": "Brussells",
   "state": "Belgium",
   "country": "Belgium",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

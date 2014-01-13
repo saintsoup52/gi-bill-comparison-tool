@@ -1,6 +1,6 @@
 {
   "facility_code": "20540631",
-  "institution": "Bio-Medical Equipment Services (Ch31)",
+  "institution": "BIO-MEDICAL EQUIPMENT SERVICES (CH31)",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87120",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11201874",
-  "institution": "Staffordshire University",
+  "institution": "STAFFORDSHIRE UNIVERSITY",
   "city": "Stoke-On-Trent",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

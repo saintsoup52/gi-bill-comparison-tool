@@ -1,6 +1,6 @@
 {
   "facility_code": "32003142",
-  "institution": "Wellmont Holston Valley Medical Center",
+  "institution": "WELLMONT HOLSTON VALLEY MEDICAL CENTER",
   "city": "Kingsport",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37660",
-  "email": false
+  "ope": null
 }

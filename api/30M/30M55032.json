@@ -1,6 +1,6 @@
 {
   "facility_code": "30M55032",
-  "institution": "Local One Elevator Constructors",
+  "institution": "LOCAL ONE ELEVATOR CONSTRUCTORS",
   "city": "Long Island City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11101",
-  "email": true
+  "ope": null
 }

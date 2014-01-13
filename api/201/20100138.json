@@ -1,6 +1,6 @@
 {
   "facility_code": "20100138",
-  "institution": "American Mortals",
+  "institution": "AMERICAN MORTALS",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": true
+  "ope": null
 }

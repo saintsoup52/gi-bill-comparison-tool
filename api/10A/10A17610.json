@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17610",
-  "institution": "Federal Aviation Admin (Faa) Artcc Miami District Office (Ch31 Npwe/Ojt)",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) ARTCC MIAMI DISTRICT OFFICE (CH31 NPWE/OJT)",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33166",
-  "email": true
+  "ope": null
 }

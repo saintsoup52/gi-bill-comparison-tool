@@ -1,6 +1,6 @@
 {
   "facility_code": "17028231",
-  "institution": "Los Lunas High School",
+  "institution": "LOS LUNAS HIGH SCHOOL",
   "city": "Los Lunas",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87031",
-  "email": false
+  "ope": null
 }

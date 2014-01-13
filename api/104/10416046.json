@@ -1,6 +1,6 @@
 {
   "facility_code": "10416046",
-  "institution": "Faa Felker Army Airfield",
+  "institution": "FAA FELKER ARMY AIRFIELD",
   "city": "Ft Eustis",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23604",
-  "email": true
+  "ope": null
 }

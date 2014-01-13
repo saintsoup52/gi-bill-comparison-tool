@@ -1,6 +1,6 @@
 {
   "facility_code": "103B9205",
-  "institution": "Puget Sound Naval Shipyard & Intermediate Maintenance Facility (San Diego)",
+  "institution": "PUGET SOUND NAVAL SHIPYARD & INTERMEDIATE MAINTENANCE FACILITY (SAN DIEGO)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92135",
-  "email": false
+  "ope": null
 }

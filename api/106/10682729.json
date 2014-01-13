@@ -1,6 +1,6 @@
 {
   "facility_code": "10682729",
-  "institution": "Vba Regional Office Department Of Veteran Affairs",
+  "institution": "VBA REGIONAL OFFICE DEPARTMENT OF VETERAN AFFAIRS",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3101",
-  "email": true
+  "ope": null
 }

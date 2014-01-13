@@ -1,6 +1,6 @@
 {
   "facility_code": "20711125",
-  "institution": "Blastco",
+  "institution": "BLASTCO",
   "city": "Wentzville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63385",
-  "email": true
+  "ope": null
 }

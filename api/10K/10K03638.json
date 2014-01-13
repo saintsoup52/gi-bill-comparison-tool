@@ -1,6 +1,6 @@
 {
   "facility_code": "10K03638",
-  "institution": "Pennsylvania State Police - Troop M - Fogelsville",
+  "institution": "PENNSYLVANIA STATE POLICE - TROOP M - FOGELSVILLE",
   "city": "Breinigsville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18031",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "12000196",
-  "institution": "Saba University School Of Medicine",
+  "institution": "SABA UNIVERSITY SCHOOL OF MEDICINE",
   "city": "Saba",
   "state": "Netherlands Antilles",
   "country": "Netherlands Antilles",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "12901106",
-  "institution": "Denver Health Medical Center - Residency In Emergency Medicine",
+  "institution": "DENVER HEALTH MEDICAL CENTER - RESIDENCY IN EMERGENCY MEDICINE",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80204",
-  "email": true
+  "ope": null
 }

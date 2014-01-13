@@ -1,6 +1,6 @@
 {
   "facility_code": "20000423",
-  "institution": "St Paul Electrical Jac",
+  "institution": "ST PAUL ELECTRICAL JAC",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55106",
-  "email": false
+  "ope": null
 }

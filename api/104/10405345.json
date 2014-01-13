@@ -1,6 +1,6 @@
 {
   "facility_code": "10405345",
-  "institution": "City Of Montpelier Police Department",
+  "institution": "CITY OF MONTPELIER POLICE DEPARTMENT",
   "city": "Montpelier",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5602",
-  "email": true
+  "ope": null
 }

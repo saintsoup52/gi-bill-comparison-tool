@@ -1,6 +1,6 @@
 {
   "facility_code": "10830221",
-  "institution": "Peabody Police Department",
+  "institution": "PEABODY POLICE DEPARTMENT",
   "city": "Peabody",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1960",
-  "email": true
+  "ope": null
 }

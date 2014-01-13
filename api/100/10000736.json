@@ -1,6 +1,6 @@
 {
   "facility_code": "10000736",
-  "institution": "Chickasha Police Dept",
+  "institution": "CHICKASHA POLICE DEPT",
   "city": "Chickasha",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73018",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30324413",
-  "institution": "Champaign-Urbana Jatc Local #601",
+  "institution": "CHAMPAIGN-URBANA JATC LOCAL #601",
   "city": "Champaign",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61826",
-  "email": false
+  "ope": null
 }

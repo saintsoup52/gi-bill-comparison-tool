@@ -1,6 +1,6 @@
 {
   "facility_code": "31037232",
-  "institution": "Rensselaer Polytechnic Institute",
+  "institution": "RENSSELAER POLYTECHNIC INSTITUTE",
   "city": "Troy",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "12180",
-  "email": true
+  "ope": "00280300"
 }

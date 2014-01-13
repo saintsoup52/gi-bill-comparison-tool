@@ -1,6 +1,6 @@
 {
   "facility_code": "10R19238",
-  "institution": "Faa- Air Traffic Control Tower- Allegheny County Airport",
+  "institution": "FAA- AIR TRAFFIC CONTROL TOWER- ALLEGHENY COUNTY AIRPORT",
   "city": "West Mifflin",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15122",
-  "email": true
+  "ope": null
 }

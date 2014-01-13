@@ -1,6 +1,6 @@
 {
   "facility_code": "20165344",
-  "institution": "Eid Inc.",
+  "institution": "EID INC.",
   "city": "West Haven",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84401",
-  "email": false
+  "ope": null
 }

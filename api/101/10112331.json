@@ -1,6 +1,6 @@
 {
   "facility_code": "10112331",
-  "institution": "Central Nm Correctional Facility",
+  "institution": "CENTRAL NM CORRECTIONAL FACILITY",
   "city": "Los Lunas",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87106",
-  "email": false
+  "ope": null
 }

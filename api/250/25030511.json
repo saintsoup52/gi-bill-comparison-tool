@@ -1,6 +1,6 @@
 {
   "facility_code": "25030511",
-  "institution": "Loganville High School",
+  "institution": "LOGANVILLE HIGH SCHOOL",
   "city": "Loganville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30052",
-  "email": true
+  "ope": null
 }

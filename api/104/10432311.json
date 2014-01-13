@@ -1,6 +1,6 @@
 {
   "facility_code": "10432311",
-  "institution": "Dallas Police And Fire Dept. City Of",
+  "institution": "DALLAS POLICE AND FIRE DEPT. CITY OF",
   "city": "Dallas",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30132",
-  "email": false
+  "ope": null
 }

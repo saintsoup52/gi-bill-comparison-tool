@@ -1,6 +1,6 @@
 {
   "facility_code": "10B32823",
-  "institution": "Faa Duluth Air Traffic Control Tower",
+  "institution": "FAA DULUTH AIR TRAFFIC CONTROL TOWER",
   "city": "Duluth",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55811",
-  "email": false
+  "ope": null
 }

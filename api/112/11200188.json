@@ -1,6 +1,6 @@
 {
   "facility_code": "11200188",
-  "institution": "Sor-Trondelag University College",
+  "institution": "SOR-TRONDELAG UNIVERSITY COLLEGE",
   "city": "Trondheim",
   "state": "Norway",
   "country": "Norway",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

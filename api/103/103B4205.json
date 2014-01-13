@@ -1,6 +1,6 @@
 {
   "facility_code": "103B4205",
-  "institution": "Borrego Springs Fire District",
+  "institution": "BORREGO SPRINGS FIRE DISTRICT",
   "city": "Borrego Springs",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92004",
-  "email": false
+  "ope": null
 }

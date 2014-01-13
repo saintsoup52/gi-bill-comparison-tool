@@ -1,6 +1,6 @@
 {
   "facility_code": "11900120",
-  "institution": "University Of Baltimore",
+  "institution": "UNIVERSITY OF BALTIMORE",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21201",
-  "email": false
+  "ope": "00210200"
 }

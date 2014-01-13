@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06311",
-  "institution": "Lowndes County Sheriff'S Department",
+  "institution": "LOWNDES COUNTY SHERIFF'S DEPARTMENT",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31601",
-  "email": false
+  "ope": null
 }

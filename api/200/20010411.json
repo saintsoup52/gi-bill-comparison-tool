@@ -1,6 +1,6 @@
 {
   "facility_code": "20010411",
-  "institution": "New England Financial",
+  "institution": "NEW ENGLAND FINANCIAL",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31401",
-  "email": false
+  "ope": null
 }

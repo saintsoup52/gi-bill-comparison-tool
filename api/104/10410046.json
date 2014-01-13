@@ -1,6 +1,6 @@
 {
   "facility_code": "10410046",
-  "institution": "Powhatan Correctional Center",
+  "institution": "POWHATAN CORRECTIONAL CENTER",
   "city": "State Farm",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23160",
-  "email": true
+  "ope": null
 }

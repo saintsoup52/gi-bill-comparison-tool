@@ -1,6 +1,6 @@
 {
   "facility_code": "11905124",
-  "institution": "Jackson State University",
+  "institution": "JACKSON STATE UNIVERSITY",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "39217",
-  "email": false
+  "ope": "00241000"
 }

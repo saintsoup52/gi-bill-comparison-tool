@@ -1,6 +1,6 @@
 {
   "facility_code": "10827721",
-  "institution": "Boston Police Department/Academy",
+  "institution": "BOSTON POLICE DEPARTMENT/ACADEMY",
   "city": "Hyde Park",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2136",
-  "email": false
+  "ope": null
 }

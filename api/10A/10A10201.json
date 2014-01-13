@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10201",
-  "institution": "Vamc - Montgomery",
+  "institution": "VAMC - MONTGOMERY",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36109",
-  "email": false
+  "ope": null
 }

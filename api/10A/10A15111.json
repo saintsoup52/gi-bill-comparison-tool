@@ -1,6 +1,6 @@
 {
   "facility_code": "10A15111",
-  "institution": "Dept Of Family & Children Services   (Ch 31 Only)",
+  "institution": "DEPT OF FAMILY & CHILDREN SERVICES   (CH 31 ONLY)",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30603",
-  "email": false
+  "ope": null
 }

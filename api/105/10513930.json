@@ -1,6 +1,6 @@
 {
   "facility_code": "10513930",
-  "institution": "Highlands Police Department",
+  "institution": "HIGHLANDS POLICE DEPARTMENT",
   "city": "Highlands",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7732",
-  "email": false
+  "ope": null
 }

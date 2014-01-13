@@ -1,6 +1,6 @@
 {
   "facility_code": "10234703",
-  "institution": "Arizona Dept Of Veteran Services - Tucson",
+  "institution": "ARIZONA DEPT OF VETERAN SERVICES - TUCSON",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85712",
-  "email": false
+  "ope": null
 }

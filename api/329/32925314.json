@@ -1,6 +1,6 @@
 {
   "facility_code": "32925314",
-  "institution": "St. Vincent Health/St. Joseph Hospital",
+  "institution": "ST. VINCENT HEALTH/ST. JOSEPH HOSPITAL",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46260",
-  "email": true
+  "ope": null
 }

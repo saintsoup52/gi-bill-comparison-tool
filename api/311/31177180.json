@@ -1,6 +1,6 @@
 {
   "facility_code": "31177180",
-  "institution": "Technische Universitat Dresden",
+  "institution": "TECHNISCHE UNIVERSITAT DRESDEN",
   "city": "01069 Dresden",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

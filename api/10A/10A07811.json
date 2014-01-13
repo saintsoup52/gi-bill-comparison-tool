@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07811",
-  "institution": "Dwight D. Eisenhower Hospital",
+  "institution": "DWIGHT D. EISENHOWER HOSPITAL",
   "city": "Fort Gordon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30905",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10973111",
-  "institution": "Cleveland Water Purification Dept City Of",
+  "institution": "CLEVELAND WATER PURIFICATION DEPT CITY OF",
   "city": "Cleveland",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30528",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15003115",
-  "institution": "Hempstead High School",
+  "institution": "HEMPSTEAD HIGH SCHOOL",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52002",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10231303",
-  "institution": "City Of Mesa (Chapter 31 Only)",
+  "institution": "CITY OF MESA (CHAPTER 31 ONLY)",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85204",
-  "email": false
+  "ope": null
 }

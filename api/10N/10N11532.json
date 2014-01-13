@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11532",
-  "institution": "Green Haven Correctional Facility",
+  "institution": "GREEN HAVEN CORRECTIONAL FACILITY",
   "city": "Stormville",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12582",
-  "email": true
+  "ope": null
 }

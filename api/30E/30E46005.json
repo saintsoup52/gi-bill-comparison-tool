@@ -1,6 +1,6 @@
 {
   "facility_code": "30E46005",
-  "institution": "California-Nevada Jatc",
+  "institution": "CALIFORNIA-NEVADA JATC",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92509",
-  "email": true
+  "ope": null
 }

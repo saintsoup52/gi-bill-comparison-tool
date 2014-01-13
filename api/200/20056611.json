@@ -1,6 +1,6 @@
 {
   "facility_code": "20056611",
-  "institution": "Georgia Power Company - Plant Yates",
+  "institution": "GEORGIA POWER COMPANY - PLANT YATES",
   "city": "Newnan",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30263",
-  "email": true
+  "ope": null
 }

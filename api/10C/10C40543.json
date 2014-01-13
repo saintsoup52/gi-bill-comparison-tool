@@ -1,6 +1,6 @@
 {
   "facility_code": "10C40543",
-  "institution": "Faa Houston Tracon I90 Nav Com",
+  "institution": "FAA HOUSTON TRACON I90 NAV COM",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77032",
-  "email": false
+  "ope": null
 }

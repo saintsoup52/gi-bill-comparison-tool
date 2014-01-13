@@ -1,6 +1,6 @@
 {
   "facility_code": "15201011",
-  "institution": "Cartersville High School",
+  "institution": "CARTERSVILLE HIGH SCHOOL",
   "city": "Cartersville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30120",
-  "email": true
+  "ope": null
 }

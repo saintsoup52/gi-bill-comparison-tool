@@ -1,6 +1,6 @@
 {
   "facility_code": "11177999",
-  "institution": "Unitec Institute Of Technology",
+  "institution": "UNITEC INSTITUTE OF TECHNOLOGY",
   "city": "Auckland",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

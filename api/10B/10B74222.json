@@ -1,6 +1,6 @@
 {
   "facility_code": "10B74222",
-  "institution": "Social Security Admin. Detroit/Teleservice",
+  "institution": "SOCIAL SECURITY ADMIN. DETROIT/TELESERVICE",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48226",
-  "email": false
+  "ope": null
 }

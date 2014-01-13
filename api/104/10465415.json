@@ -1,6 +1,6 @@
 {
   "facility_code": "10465415",
-  "institution": "Des Moines Fire Department",
+  "institution": "DES MOINES FIRE DEPARTMENT",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50309",
-  "email": false
+  "ope": null
 }

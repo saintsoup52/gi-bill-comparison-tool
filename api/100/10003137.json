@@ -1,6 +1,6 @@
 {
   "facility_code": "10003137",
-  "institution": "Us Army Corps Of Engineers (Walla Walla District)",
+  "institution": "US ARMY CORPS OF ENGINEERS (WALLA WALLA DISTRICT)",
   "city": "Umatilla",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97882",
-  "email": true
+  "ope": null
 }

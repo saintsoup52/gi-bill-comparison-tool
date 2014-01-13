@@ -1,6 +1,6 @@
 {
   "facility_code": "10813421",
-  "institution": "Holyoke Fire Dept",
+  "institution": "HOLYOKE FIRE DEPT",
   "city": "Holyoke",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1040",
-  "email": true
+  "ope": null
 }

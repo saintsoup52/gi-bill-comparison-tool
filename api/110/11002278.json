@@ -1,6 +1,6 @@
 {
   "facility_code": "11002278",
-  "institution": "University Of Bern",
+  "institution": "UNIVERSITY OF BERN",
   "city": "3012 Bern",
   "state": "Switzerland",
   "country": "Switzerland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

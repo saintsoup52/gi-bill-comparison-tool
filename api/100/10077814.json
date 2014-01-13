@@ -1,6 +1,6 @@
 {
   "facility_code": "10077814",
-  "institution": "Federal Aviation Administration - South Bend Airport Traffic Control Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION - SOUTH BEND AIRPORT TRAFFIC CONTROL TOWER",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46628",
-  "email": false
+  "ope": null
 }

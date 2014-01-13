@@ -1,6 +1,6 @@
 {
   "facility_code": "10191222",
-  "institution": "Faa Air Traffic Control Tower Detroit Metro Airport",
+  "institution": "FAA AIR TRAFFIC CONTROL TOWER DETROIT METRO AIRPORT",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48242",
-  "email": true
+  "ope": null
 }

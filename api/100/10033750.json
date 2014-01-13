@@ -1,6 +1,6 @@
 {
   "facility_code": "10033750",
-  "institution": "Town Of Wheatland",
+  "institution": "TOWN OF WHEATLAND",
   "city": "Wheatland",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82201",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25020503",
-  "institution": "Inspect-It 1st (Ch31-Only)",
+  "institution": "INSPECT-IT 1ST (CH31-ONLY)",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85255",
-  "email": false
+  "ope": null
 }

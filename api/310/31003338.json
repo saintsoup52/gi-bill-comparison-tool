@@ -1,6 +1,6 @@
 {
   "facility_code": "31003338",
-  "institution": "Rosemont College",
+  "institution": "ROSEMONT COLLEGE",
   "city": "Rosemont",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19010",
-  "email": true
+  "ope": "00336000"
 }

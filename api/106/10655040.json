@@ -1,6 +1,6 @@
 {
   "facility_code": "10655040",
-  "institution": "Florence Police Department",
+  "institution": "FLORENCE POLICE DEPARTMENT",
   "city": "Florence",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29501",
-  "email": false
+  "ope": null
 }

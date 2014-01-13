@@ -1,6 +1,6 @@
 {
   "facility_code": "10N15832",
-  "institution": "Greene Correctional Facility",
+  "institution": "GREENE CORRECTIONAL FACILITY",
   "city": "Coxsackie",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12051",
-  "email": false
+  "ope": null
 }

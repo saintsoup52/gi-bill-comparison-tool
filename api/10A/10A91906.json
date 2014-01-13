@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91906",
-  "institution": "Gilcrest Police Department",
+  "institution": "GILCREST POLICE DEPARTMENT",
   "city": "Gilcrest",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80550",
-  "email": false
+  "ope": null
 }

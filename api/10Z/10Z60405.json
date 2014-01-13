@@ -1,6 +1,6 @@
 {
   "facility_code": "10Z60405",
-  "institution": "City Of Riverside Public Utilities Dept.",
+  "institution": "CITY OF RIVERSIDE PUBLIC UTILITIES DEPT.",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92522",
-  "email": false
+  "ope": null
 }

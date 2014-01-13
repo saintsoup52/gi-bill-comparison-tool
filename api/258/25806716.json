@@ -1,6 +1,6 @@
 {
   "facility_code": "25806716",
-  "institution": "Wichita Technical Institute - Topeka Campus",
+  "institution": "WICHITA TECHNICAL INSTITUTE - TOPEKA CAMPUS",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "66609",
-  "email": true
+  "ope": "01050302"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11800818",
-  "institution": "Lsu Computer Rehabilitation Program (Ch 31)",
+  "institution": "LSU COMPUTER REHABILITATION PROGRAM (CH 31)",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70803",
-  "email": false
+  "ope": "00201000"
 }

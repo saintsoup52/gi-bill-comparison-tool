@@ -1,6 +1,6 @@
 {
   "facility_code": "10503330",
-  "institution": "Bordentown Township Police Department",
+  "institution": "BORDENTOWN TOWNSHIP POLICE DEPARTMENT",
   "city": "Bordentown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8505",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10301530",
-  "institution": "Lincoln Park Police Department",
+  "institution": "LINCOLN PARK POLICE DEPARTMENT",
   "city": "Lincoln Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7035",
-  "email": true
+  "ope": null
 }

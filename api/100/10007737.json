@@ -1,6 +1,6 @@
 {
   "facility_code": "10007737",
-  "institution": "Troutdale Police Department",
+  "institution": "TROUTDALE POLICE DEPARTMENT",
   "city": "Troutdale",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97060",
-  "email": true
+  "ope": null
 }

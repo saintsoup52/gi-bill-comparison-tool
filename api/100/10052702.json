@@ -1,6 +1,6 @@
 {
   "facility_code": "10052702",
-  "institution": "Faa Merril Tower - Merril Field Airport",
+  "institution": "FAA MERRIL TOWER - MERRIL FIELD AIRPORT",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": false
+  "ope": null
 }

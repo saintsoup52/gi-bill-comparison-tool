@@ -1,6 +1,6 @@
 {
   "facility_code": "10069914",
-  "institution": "South Bend Police Department",
+  "institution": "SOUTH BEND POLICE DEPARTMENT",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46601",
-  "email": false
+  "ope": null
 }

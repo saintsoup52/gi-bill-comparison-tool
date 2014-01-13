@@ -1,6 +1,6 @@
 {
   "facility_code": "10011112",
-  "institution": "Canyon County Sheriff'S Office",
+  "institution": "CANYON COUNTY SHERIFF'S OFFICE",
   "city": "Caldwell",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83605",
-  "email": true
+  "ope": null
 }

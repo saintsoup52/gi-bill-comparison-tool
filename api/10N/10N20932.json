@@ -1,6 +1,6 @@
 {
   "facility_code": "10N20932",
-  "institution": "New York Police Dept. - School Safety Div. - Staten Island Command",
+  "institution": "NEW YORK POLICE DEPT. - SCHOOL SAFETY DIV. - STATEN ISLAND COMMAND",
   "city": "Staten Island",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10301",
-  "email": false
+  "ope": null
 }

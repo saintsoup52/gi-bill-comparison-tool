@@ -1,6 +1,6 @@
 {
   "facility_code": "10727011",
-  "institution": "Cobb County Sheriff'S Department",
+  "institution": "COBB COUNTY SHERIFF'S DEPARTMENT",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30090",
-  "email": true
+  "ope": null
 }

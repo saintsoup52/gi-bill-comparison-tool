@@ -1,6 +1,6 @@
 {
   "facility_code": "20106240",
-  "institution": "Parris Island Fire Rescue Division",
+  "institution": "PARRIS ISLAND FIRE RESCUE DIVISION",
   "city": "Parris Island",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29905",
-  "email": false
+  "ope": null
 }

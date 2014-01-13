@@ -1,6 +1,6 @@
 {
   "facility_code": "10651740",
-  "institution": "Batesburg-Leesville Police Department",
+  "institution": "BATESBURG-LEESVILLE POLICE DEPARTMENT",
   "city": "Batesburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29006",
-  "email": false
+  "ope": null
 }

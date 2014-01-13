@@ -1,6 +1,6 @@
 {
   "facility_code": "20158730",
-  "institution": "Carpenters Local-121",
+  "institution": "CARPENTERS LOCAL-121",
   "city": "Vineland",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8360",
-  "email": false
+  "ope": null
 }

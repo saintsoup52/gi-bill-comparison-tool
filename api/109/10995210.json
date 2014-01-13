@@ -1,6 +1,6 @@
 {
   "facility_code": "10995210",
-  "institution": "Orange County Sheriff'S Office",
+  "institution": "ORANGE COUNTY SHERIFF'S OFFICE",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32804",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10105928",
-  "institution": "North Las Vegas Police Department",
+  "institution": "NORTH LAS VEGAS POLICE DEPARTMENT",
   "city": "North Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89030",
-  "email": true
+  "ope": null
 }

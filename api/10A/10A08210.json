@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08210",
-  "institution": "Mount Dora Police Department",
+  "institution": "MOUNT DORA POLICE DEPARTMENT",
   "city": "Mount Dora",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32757",
-  "email": true
+  "ope": null
 }

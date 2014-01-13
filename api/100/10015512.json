@@ -1,6 +1,6 @@
 {
   "facility_code": "10015512",
-  "institution": "Shoshone County Sheriff",
+  "institution": "SHOSHONE COUNTY SHERIFF",
   "city": "Wallace",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83873",
-  "email": true
+  "ope": null
 }

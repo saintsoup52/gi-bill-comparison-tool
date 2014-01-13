@@ -1,6 +1,6 @@
 {
   "facility_code": "10022519",
-  "institution": "Togus Regional Office Department Of Veteran Affairs",
+  "institution": "TOGUS REGIONAL OFFICE DEPARTMENT OF VETERAN AFFAIRS",
   "city": "Togus",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4330",
-  "email": true
+  "ope": null
 }

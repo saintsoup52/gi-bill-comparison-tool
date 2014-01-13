@@ -1,6 +1,6 @@
 {
   "facility_code": "10012133",
-  "institution": "Ncdoc - Sampson Correctional Institution",
+  "institution": "NCDOC - SAMPSON CORRECTIONAL INSTITUTION",
   "city": "Clinton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28329",
-  "email": true
+  "ope": null
 }

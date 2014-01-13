@@ -1,6 +1,6 @@
 {
   "facility_code": "11001374",
-  "institution": "Cranfield University",
+  "institution": "CRANFIELD UNIVERSITY",
   "city": "Bedfordshire",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10021511",
-  "institution": "Georgia State Patrol - Post 31 (Valdosta)",
+  "institution": "GEORGIA STATE PATROL - POST 31 (VALDOSTA)",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31601",
-  "email": false
+  "ope": null
 }

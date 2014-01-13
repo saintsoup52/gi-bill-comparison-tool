@@ -1,6 +1,6 @@
 {
   "facility_code": "10535730",
-  "institution": "Winslow Township Police Department",
+  "institution": "WINSLOW TOWNSHIP POLICE DEPARTMENT",
   "city": "Braddock",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8037",
-  "email": false
+  "ope": null
 }

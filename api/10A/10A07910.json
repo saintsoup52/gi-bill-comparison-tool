@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07910",
-  "institution": "Polk County Sheriff'S Office",
+  "institution": "POLK COUNTY SHERIFF'S OFFICE",
   "city": "Winter Haven",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33880",
-  "email": false
+  "ope": null
 }

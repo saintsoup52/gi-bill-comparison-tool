@@ -1,6 +1,6 @@
 {
   "facility_code": "20B13023",
-  "institution": "Xcel Energy Monticello Tc",
+  "institution": "XCEL ENERGY MONTICELLO TC",
   "city": "Monticello",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55362",
-  "email": false
+  "ope": null
 }

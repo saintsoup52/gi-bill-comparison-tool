@@ -1,6 +1,6 @@
 {
   "facility_code": "18030238",
-  "institution": "Pa State Police Southwest Trng Ctr (Greensburg)",
+  "institution": "PA STATE POLICE SOUTHWEST TRNG CTR (GREENSBURG)",
   "city": "Greensburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15601",
-  "email": true
+  "ope": null
 }

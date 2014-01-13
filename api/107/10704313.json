@@ -1,6 +1,6 @@
 {
   "facility_code": "10704313",
-  "institution": "Glenview Fire Department",
+  "institution": "GLENVIEW FIRE DEPARTMENT",
   "city": "Glenview",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60025",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11006763",
-  "institution": "Centro De Estudios Avanzados Puerto Rico Y El Caribe",
+  "institution": "CENTRO DE ESTUDIOS AVANZADOS PUERTO RICO Y EL CARIBE",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "902",
-  "email": true
+  "ope": "02166000"
 }

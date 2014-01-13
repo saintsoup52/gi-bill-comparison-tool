@@ -1,6 +1,6 @@
 {
   "facility_code": "11801327",
-  "institution": "University Of Nebraska Medical Center",
+  "institution": "UNIVERSITY OF NEBRASKA MEDICAL CENTER",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "68198",
-  "email": false
+  "ope": "00689500"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10479848",
-  "institution": "City Of Huntington",
+  "institution": "CITY OF HUNTINGTON",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25701",
-  "email": false
+  "ope": null
 }

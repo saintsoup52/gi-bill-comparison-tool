@@ -1,6 +1,6 @@
 {
   "facility_code": "20G57905",
-  "institution": "Disabled American Veterans Ch31",
+  "institution": "DISABLED AMERICAN VETERANS CH31",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92108",
-  "email": false
+  "ope": null
 }

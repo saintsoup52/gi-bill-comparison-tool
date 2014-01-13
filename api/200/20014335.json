@@ -1,6 +1,6 @@
 {
   "facility_code": "20014335",
-  "institution": "Ford Motor Co (Sharonville Plant)  K",
+  "institution": "FORD MOTOR CO (SHARONVILLE PLANT)  K",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45241",
-  "email": false
+  "ope": null
 }

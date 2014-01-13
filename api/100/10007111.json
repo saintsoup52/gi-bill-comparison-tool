@@ -1,6 +1,6 @@
 {
   "facility_code": "10007111",
-  "institution": "Gwinnett Regional Youth Detention Center",
+  "institution": "GWINNETT REGIONAL YOUTH DETENTION CENTER",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30043",
-  "email": false
+  "ope": null
 }

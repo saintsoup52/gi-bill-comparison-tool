@@ -1,6 +1,6 @@
 {
   "facility_code": "31802205",
-  "institution": "University Of La Verne (San Luis Obispo)",
+  "institution": "UNIVERSITY OF LA VERNE (SAN LUIS OBISPO)",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93401",
-  "email": false
+  "ope": "00121612"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10117039",
-  "institution": "Providence Fire Department",
+  "institution": "PROVIDENCE FIRE DEPARTMENT",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2907",
-  "email": false
+  "ope": null
 }

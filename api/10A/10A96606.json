@@ -1,6 +1,6 @@
 {
   "facility_code": "10A96606",
-  "institution": "City Of Delta",
+  "institution": "CITY OF DELTA",
   "city": "Delta",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81416",
-  "email": true
+  "ope": null
 }

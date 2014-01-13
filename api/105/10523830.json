@@ -1,6 +1,6 @@
 {
   "facility_code": "10523830",
-  "institution": "Pennsville Police Department",
+  "institution": "PENNSVILLE POLICE DEPARTMENT",
   "city": "Pennsville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8070",
-  "email": false
+  "ope": null
 }

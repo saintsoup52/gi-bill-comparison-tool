@@ -1,6 +1,6 @@
 {
   "facility_code": "10003312",
-  "institution": "Grangeville Police Department",
+  "institution": "GRANGEVILLE POLICE DEPARTMENT",
   "city": "Grangeville",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83530",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000974",
-  "institution": "University Of Lincoln",
+  "institution": "UNIVERSITY OF LINCOLN",
   "city": "Lincoln",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

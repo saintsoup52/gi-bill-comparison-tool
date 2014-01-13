@@ -1,6 +1,6 @@
 {
   "facility_code": "12000105",
-  "institution": "Santa Maria Va Medical Clinic (Ch 31 Only)",
+  "institution": "SANTA MARIA VA MEDICAL CLINIC (CH 31 ONLY)",
   "city": "Santa Maria",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93454",
-  "email": false
+  "ope": null
 }

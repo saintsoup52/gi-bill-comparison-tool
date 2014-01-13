@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02311",
-  "institution": "Metro Transitional Center",
+  "institution": "METRO TRANSITIONAL CENTER",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30316",
-  "email": false
+  "ope": null
 }

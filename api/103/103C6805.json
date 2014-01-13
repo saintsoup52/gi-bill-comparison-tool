@@ -1,6 +1,6 @@
 {
   "facility_code": "103C6805",
-  "institution": "County Of Riverside Mental Health Div (Ch31 Only)",
+  "institution": "COUNTY OF RIVERSIDE MENTAL HEALTH DIV (CH31 ONLY)",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92507",
-  "email": false
+  "ope": null
 }

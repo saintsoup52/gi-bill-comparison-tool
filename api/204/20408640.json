@@ -1,6 +1,6 @@
 {
   "facility_code": "20408640",
-  "institution": "Us Dept Of The Army Facilities Eng Pro Of App",
+  "institution": "US DEPT OF THE ARMY FACILITIES ENG PRO OF APP",
   "city": "Fort Jackson",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29207",
-  "email": false
+  "ope": null
 }

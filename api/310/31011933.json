@@ -1,6 +1,6 @@
 {
   "facility_code": "31011933",
-  "institution": "Boston University/Mcas New River/Mcb Camp Lejeune",
+  "institution": "BOSTON UNIVERSITY/MCAS NEW RIVER/MCB CAMP LEJEUNE",
   "city": "Camp Lejeune Mcb",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "28547",
-  "email": true
+  "ope": "00213013"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A15411",
-  "institution": "Liberty County Sheriff'S Office",
+  "institution": "LIBERTY COUNTY SHERIFF'S OFFICE",
   "city": "Hinesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31313",
-  "email": false
+  "ope": null
 }

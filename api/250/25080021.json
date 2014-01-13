@@ -1,6 +1,6 @@
 {
   "facility_code": "25080021",
-  "institution": "E. I. N. E. (Electrology Institute Of New England)",
+  "institution": "E. I. N. E. (ELECTROLOGY INSTITUTE OF NEW ENGLAND)",
   "city": "Tewksbury",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "1876",
-  "email": true
+  "ope": "03859300"
 }

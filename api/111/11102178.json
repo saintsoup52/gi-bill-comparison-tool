@@ -1,6 +1,6 @@
 {
   "facility_code": "11102178",
-  "institution": "Ben Gurion University Of The Negev",
+  "institution": "BEN GURION UNIVERSITY OF THE NEGEV",
   "city": "Beer Sheva 84105",
   "state": "Israel (Tel Aviv)",
   "country": "Israel (Tel Aviv)",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

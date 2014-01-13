@@ -1,6 +1,6 @@
 {
   "facility_code": "11001240",
-  "institution": "The Citadel",
+  "institution": "THE CITADEL",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29409",
-  "email": true
+  "ope": "00342300"
 }

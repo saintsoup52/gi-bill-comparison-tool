@@ -1,6 +1,6 @@
 {
   "facility_code": "10145947",
-  "institution": "City Of Lacey - Police Department",
+  "institution": "CITY OF LACEY - POLICE DEPARTMENT",
   "city": "Lacey",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98509",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10594630",
-  "institution": "Passaic County Sheriff'S Department",
+  "institution": "PASSAIC COUNTY SHERIFF'S DEPARTMENT",
   "city": "Paterson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7501",
-  "email": true
+  "ope": null
 }

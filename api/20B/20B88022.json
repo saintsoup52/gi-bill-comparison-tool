@@ -1,6 +1,6 @@
 {
   "facility_code": "20B88022",
-  "institution": "General Machine Services",
+  "institution": "GENERAL MACHINE SERVICES",
   "city": "Saginaw",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48601",
-  "email": true
+  "ope": null
 }

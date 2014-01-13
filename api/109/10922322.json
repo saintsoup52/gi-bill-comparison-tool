@@ -1,6 +1,6 @@
 {
   "facility_code": "10922322",
-  "institution": "Detroit Police Department",
+  "institution": "DETROIT POLICE DEPARTMENT",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48208",
-  "email": true
+  "ope": null
 }

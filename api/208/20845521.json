@@ -1,6 +1,6 @@
 {
   "facility_code": "20845521",
-  "institution": "Natick Police Department",
+  "institution": "NATICK POLICE DEPARTMENT",
   "city": "Natick",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1760",
-  "email": true
+  "ope": null
 }

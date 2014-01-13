@@ -1,6 +1,6 @@
 {
   "facility_code": "10652740",
-  "institution": "Greenwood Police Department",
+  "institution": "GREENWOOD POLICE DEPARTMENT",
   "city": "Greenwood",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29646",
-  "email": false
+  "ope": null
 }

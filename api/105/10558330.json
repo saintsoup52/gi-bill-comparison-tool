@@ -1,6 +1,6 @@
 {
   "facility_code": "10558330",
-  "institution": "Us Army Garrison",
+  "institution": "US ARMY GARRISON",
   "city": "Fort Monmouth",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7703",
-  "email": false
+  "ope": null
 }

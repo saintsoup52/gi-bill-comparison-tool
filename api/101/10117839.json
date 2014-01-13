@@ -1,6 +1,6 @@
 {
   "facility_code": "10117839",
-  "institution": "Warren Police Department",
+  "institution": "WARREN POLICE DEPARTMENT",
   "city": "Warren",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2885",
-  "email": false
+  "ope": null
 }

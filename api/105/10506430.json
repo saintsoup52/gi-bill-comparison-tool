@@ -1,6 +1,6 @@
 {
   "facility_code": "10506430",
-  "institution": "Dumont Police Department",
+  "institution": "DUMONT POLICE DEPARTMENT",
   "city": "Dumont",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7628",
-  "email": false
+  "ope": null
 }

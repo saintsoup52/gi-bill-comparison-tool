@@ -1,6 +1,6 @@
 {
   "facility_code": "11001678",
-  "institution": "Helsinki Metropolia Uas",
+  "institution": "HELSINKI METROPOLIA UAS",
   "city": "Metropolia",
   "state": "Finland",
   "country": "Finland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

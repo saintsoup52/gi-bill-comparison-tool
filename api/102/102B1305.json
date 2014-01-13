@@ -1,6 +1,6 @@
 {
   "facility_code": "102B1305",
-  "institution": "Marine Corps Air Station Miramar  Air Traffic Control",
+  "institution": "MARINE CORPS AIR STATION MIRAMAR  AIR TRAFFIC CONTROL",
   "city": "Mcas Miramar",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92145",
-  "email": false
+  "ope": null
 }

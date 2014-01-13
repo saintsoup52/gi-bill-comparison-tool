@@ -1,6 +1,6 @@
 {
   "facility_code": "31100168",
-  "institution": "University Of The Witwatersrand",
+  "institution": "UNIVERSITY OF THE WITWATERSRAND",
   "city": "Wits 2050",
   "state": "South Africa",
   "country": "South Africa",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

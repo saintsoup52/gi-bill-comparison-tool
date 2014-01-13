@@ -1,6 +1,6 @@
 {
   "facility_code": "10130930",
-  "institution": "Glen Ridge Police Department",
+  "institution": "GLEN RIDGE POLICE DEPARTMENT",
   "city": "Glen Ridge",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7028",
-  "email": false
+  "ope": null
 }

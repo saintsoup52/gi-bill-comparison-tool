@@ -1,6 +1,6 @@
 {
   "facility_code": "20003803",
-  "institution": "Arizona Public Service Company Jac",
+  "institution": "ARIZONA PUBLIC SERVICE COMPANY JAC",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85021",
-  "email": false
+  "ope": null
 }

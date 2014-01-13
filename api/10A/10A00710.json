@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00710",
-  "institution": "City Of Clearwater Police Department",
+  "institution": "CITY OF CLEARWATER POLICE DEPARTMENT",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33765",
-  "email": false
+  "ope": null
 }

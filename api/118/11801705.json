@@ -1,6 +1,6 @@
 {
   "facility_code": "11801705",
-  "institution": "University Of California Los Angeles",
+  "institution": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90024",
-  "email": true
+  "ope": "00131500"
 }

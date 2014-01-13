@@ -1,6 +1,6 @@
 {
   "facility_code": "10301326",
-  "institution": "Federal Aviation Administration (Faa)Helena Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA)HELENA TOWER",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59601",
-  "email": true
+  "ope": null
 }

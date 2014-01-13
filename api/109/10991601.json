@@ -1,6 +1,6 @@
 {
   "facility_code": "10991601",
-  "institution": "Leeds Police Department",
+  "institution": "LEEDS POLICE DEPARTMENT",
   "city": "Leeds",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35094",
-  "email": true
+  "ope": null
 }

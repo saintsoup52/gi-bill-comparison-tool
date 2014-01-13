@@ -1,6 +1,6 @@
 {
   "facility_code": "20062642",
-  "institution": "Lee Company",
+  "institution": "LEE COMPANY",
   "city": "Franklin",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37067",
-  "email": false
+  "ope": null
 }

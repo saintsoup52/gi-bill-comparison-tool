@@ -1,6 +1,6 @@
 {
   "facility_code": "10B34723",
-  "institution": "Dept Of Homeland Security Immigration & Customs Enforcement",
+  "institution": "DEPT OF HOMELAND SECURITY IMMIGRATION & CUSTOMS ENFORCEMENT",
   "city": "Bloomington",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55425",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20543723",
-  "institution": "Burlington Northern & Santa Fe - North Town",
+  "institution": "BURLINGTON NORTHERN & SANTA FE - NORTH TOWN",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55421",
-  "email": false
+  "ope": null
 }

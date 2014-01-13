@@ -1,6 +1,6 @@
 {
   "facility_code": "10682329",
-  "institution": "New Hampshire Employment Security (Voc Rehab)",
+  "institution": "NEW HAMPSHIRE EMPLOYMENT SECURITY (VOC REHAB)",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3302",
-  "email": false
+  "ope": null
 }

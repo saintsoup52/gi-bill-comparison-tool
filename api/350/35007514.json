@@ -1,6 +1,6 @@
 {
   "facility_code": "35007514",
-  "institution": "Employment Services",
+  "institution": "EMPLOYMENT SERVICES",
   "city": "Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47804",
-  "email": false
+  "ope": null
 }

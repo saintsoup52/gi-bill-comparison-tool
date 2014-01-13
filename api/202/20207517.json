@@ -1,6 +1,6 @@
 {
   "facility_code": "20207517",
-  "institution": "Louisville Electrical Jatc",
+  "institution": "LOUISVILLE ELECTRICAL JATC",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40213",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15011105",
-  "institution": "Contra Costa County Law Enforcement Training Center",
+  "institution": "CONTRA COSTA COUNTY LAW ENFORCEMENT TRAINING CENTER",
   "city": "Pittsburg",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94565",
-  "email": false
+  "ope": null
 }

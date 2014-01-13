@@ -1,6 +1,6 @@
 {
   "facility_code": "11810204",
-  "institution": "University Of Arkansas Medical Sciences College Of Medicine",
+  "institution": "UNIVERSITY OF ARKANSAS MEDICAL SCIENCES COLLEGE OF MEDICINE",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72205",
-  "email": false
+  "ope": "00110907"
 }

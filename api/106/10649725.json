@@ -1,6 +1,6 @@
 {
   "facility_code": "10649725",
-  "institution": "Belton Fire Dept.",
+  "institution": "BELTON FIRE DEPT.",
   "city": "Belton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64012",
-  "email": false
+  "ope": null
 }

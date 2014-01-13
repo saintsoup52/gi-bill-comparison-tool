@@ -1,6 +1,6 @@
 {
   "facility_code": "11200070",
-  "institution": "University Of South Australia",
+  "institution": "UNIVERSITY OF SOUTH AUSTRALIA",
   "city": "Adelaide",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

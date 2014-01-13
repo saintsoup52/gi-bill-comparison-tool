@@ -1,6 +1,6 @@
 {
   "facility_code": "20N23032",
-  "institution": "Edlund Mfg Co Inc",
+  "institution": "EDLUND MFG CO INC",
   "city": "East Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13057",
-  "email": false
+  "ope": null
 }

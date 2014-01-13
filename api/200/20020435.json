@@ -1,6 +1,6 @@
 {
   "facility_code": "20020435",
-  "institution": "Gm-Parma Plant",
+  "institution": "GM-PARMA PLANT",
   "city": "Parma",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44130",
-  "email": false
+  "ope": null
 }

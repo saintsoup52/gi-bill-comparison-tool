@@ -1,6 +1,6 @@
 {
   "facility_code": "20B12623",
-  "institution": "The Bergquist Company",
+  "institution": "THE BERGQUIST COMPANY",
   "city": "Chanhassen",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55317",
-  "email": true
+  "ope": null
 }

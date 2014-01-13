@@ -1,6 +1,6 @@
 {
   "facility_code": "11001378",
-  "institution": "University Of Malta",
+  "institution": "UNIVERSITY OF MALTA",
   "city": "Msida Msd 2080",
   "state": "Malta",
   "country": "Malta",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

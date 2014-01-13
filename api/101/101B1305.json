@@ -1,6 +1,6 @@
 {
   "facility_code": "101B1305",
-  "institution": "Fresno Police Department",
+  "institution": "FRESNO POLICE DEPARTMENT",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93721",
-  "email": false
+  "ope": null
 }

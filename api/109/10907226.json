@@ -1,6 +1,6 @@
 {
   "facility_code": "10907226",
-  "institution": "Great Falls Police Department",
+  "institution": "GREAT FALLS POLICE DEPARTMENT",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59403",
-  "email": true
+  "ope": null
 }

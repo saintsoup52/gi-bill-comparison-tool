@@ -1,6 +1,6 @@
 {
   "facility_code": "11107005",
-  "institution": "California State University-Monterey Bay",
+  "institution": "CALIFORNIA STATE UNIVERSITY-MONTEREY BAY",
   "city": "Seaside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93955",
-  "email": false
+  "ope": "03260300"
 }

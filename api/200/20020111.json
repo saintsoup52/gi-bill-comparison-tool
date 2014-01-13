@@ -1,6 +1,6 @@
 {
   "facility_code": "20020111",
-  "institution": "Old Dominion Freight Lines",
+  "institution": "OLD DOMINION FREIGHT LINES",
   "city": "Conley",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30288",
-  "email": false
+  "ope": null
 }

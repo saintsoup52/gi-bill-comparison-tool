@@ -1,6 +1,6 @@
 {
   "facility_code": "20216910",
-  "institution": "City Of Ocala Police Department",
+  "institution": "CITY OF OCALA POLICE DEPARTMENT",
   "city": "Ocala",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34471",
-  "email": false
+  "ope": null
 }

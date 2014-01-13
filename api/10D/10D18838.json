@@ -1,6 +1,6 @@
 {
   "facility_code": "10D18838",
-  "institution": "Berks County Prison",
+  "institution": "BERKS COUNTY PRISON",
   "city": "Leesport",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19533",
-  "email": true
+  "ope": null
 }

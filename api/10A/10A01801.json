@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01801",
-  "institution": "Us Army Corps Of Engineers Walter F. George Hydroelectric Plant",
+  "institution": "US ARMY CORPS OF ENGINEERS WALTER F. GEORGE HYDROELECTRIC PLANT",
   "city": "Shorterville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36373",
-  "email": false
+  "ope": null
 }

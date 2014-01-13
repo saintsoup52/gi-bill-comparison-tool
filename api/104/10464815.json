@@ -1,6 +1,6 @@
 {
   "facility_code": "10464815",
-  "institution": "Iowa State Patrol-Post 16",
+  "institution": "IOWA STATE PATROL-POST 16",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50319",
-  "email": false
+  "ope": null
 }

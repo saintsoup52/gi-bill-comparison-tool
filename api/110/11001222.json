@@ -1,6 +1,6 @@
 {
   "facility_code": "11001222",
-  "institution": "Grand Valley State University",
+  "institution": "GRAND VALLEY STATE UNIVERSITY",
   "city": "Allendale",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49401",
-  "email": true
+  "ope": "00226800"
 }

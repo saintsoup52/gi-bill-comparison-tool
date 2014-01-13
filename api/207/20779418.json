@@ -1,6 +1,6 @@
 {
   "facility_code": "20779418",
-  "institution": "Waterford 3 Ses",
+  "institution": "WATERFORD 3 SES",
   "city": "Killona",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70057",
-  "email": true
+  "ope": null
 }

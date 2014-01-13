@@ -1,6 +1,6 @@
 {
   "facility_code": "29003506",
-  "institution": "Flies By Guy",
+  "institution": "FLIES BY GUY",
   "city": "Buena Vista",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81211",
-  "email": false
+  "ope": null
 }

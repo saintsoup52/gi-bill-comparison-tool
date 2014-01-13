@@ -1,6 +1,6 @@
 {
   "facility_code": "10N15532",
-  "institution": "Rotterdam Police Department",
+  "institution": "ROTTERDAM POLICE DEPARTMENT",
   "city": "Rotterdam",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12306",
-  "email": false
+  "ope": null
 }

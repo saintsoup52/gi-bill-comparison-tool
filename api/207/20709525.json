@@ -1,6 +1,6 @@
 {
   "facility_code": "20709525",
-  "institution": "Production Products",
+  "institution": "PRODUCTION PRODUCTS",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63138",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A82406",
-  "institution": "Cdc - Buena Vista Correctional Complex",
+  "institution": "CDC - BUENA VISTA CORRECTIONAL COMPLEX",
   "city": "Buena Vista",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81211",
-  "email": true
+  "ope": null
 }

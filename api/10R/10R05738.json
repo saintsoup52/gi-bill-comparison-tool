@@ -1,6 +1,6 @@
 {
   "facility_code": "10R05738",
-  "institution": "Military Entrance Processing Station",
+  "institution": "MILITARY ENTRANCE PROCESSING STATION",
   "city": "1000 Liberty Avenue",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "email": false
+  "ope": null
 }

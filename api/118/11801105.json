@@ -1,6 +1,6 @@
 {
   "facility_code": "11801105",
-  "institution": "University Of California Riverside Extension",
+  "institution": "UNIVERSITY OF CALIFORNIA RIVERSIDE EXTENSION",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92507",
-  "email": true
+  "ope": "00131600"
 }

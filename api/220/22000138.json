@@ -1,6 +1,6 @@
 {
   "facility_code": "22000138",
-  "institution": "Temple Children'S Medical Center",
+  "institution": "TEMPLE CHILDREN'S MEDICAL CENTER",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19140",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10052902",
-  "institution": "Us Fish And Wildlife Service Ole",
+  "institution": "US FISH AND WILDLIFE SERVICE OLE",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99701",
-  "email": false
+  "ope": null
 }

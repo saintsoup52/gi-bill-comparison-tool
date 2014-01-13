@@ -1,6 +1,6 @@
 {
   "facility_code": "10053011",
-  "institution": "Us Marksmanship Unit",
+  "institution": "US MARKSMANSHIP UNIT",
   "city": "Ft Benning",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31905",
-  "email": true
+  "ope": null
 }

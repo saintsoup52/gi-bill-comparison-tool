@@ -1,6 +1,6 @@
 {
   "facility_code": "31200092",
-  "institution": "University Ibmec",
+  "institution": "UNIVERSITY IBMEC",
   "city": "Minas Gerais",
   "state": "Brazil",
   "country": "Brazil",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

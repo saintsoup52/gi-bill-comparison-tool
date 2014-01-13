@@ -1,6 +1,6 @@
 {
   "facility_code": "20C84949",
-  "institution": "Tci Inc",
+  "institution": "TCI INC",
   "city": "La Crosse",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54603",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32054010",
-  "institution": "Orlando Regional Healthcare System",
+  "institution": "ORLANDO REGIONAL HEALTHCARE SYSTEM",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32806",
-  "email": false
+  "ope": null
 }

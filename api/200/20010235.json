@@ -1,6 +1,6 @@
 {
   "facility_code": "20010235",
-  "institution": "Whirlpool Corp Clyde Div K",
+  "institution": "WHIRLPOOL CORP CLYDE DIV K",
   "city": "Clyde",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43410",
-  "email": false
+  "ope": null
 }

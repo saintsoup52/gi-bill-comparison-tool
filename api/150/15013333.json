@@ -1,6 +1,6 @@
 {
   "facility_code": "15013333",
-  "institution": "Hickory Ridge High School",
+  "institution": "HICKORY RIDGE HIGH SCHOOL",
   "city": "Harrisburg",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28075",
-  "email": true
+  "ope": null
 }

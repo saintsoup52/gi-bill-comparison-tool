@@ -1,6 +1,6 @@
 {
   "facility_code": "10839221",
-  "institution": "Revere Police Department",
+  "institution": "REVERE POLICE DEPARTMENT",
   "city": "Revere",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2151",
-  "email": false
+  "ope": null
 }

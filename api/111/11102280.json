@@ -1,6 +1,6 @@
 {
   "facility_code": "11102280",
-  "institution": "University Of Mannheim / Mannheim Business School",
+  "institution": "UNIVERSITY OF MANNHEIM / MANNHEIM BUSINESS SCHOOL",
   "city": "69131 Mannheim",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

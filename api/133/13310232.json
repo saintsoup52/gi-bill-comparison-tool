@@ -1,6 +1,6 @@
 {
   "facility_code": "13310232",
-  "institution": "Suny College At Potsdam",
+  "institution": "SUNY COLLEGE AT POTSDAM",
   "city": "Potsdam",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "13676",
-  "email": true
+  "ope": "00285000"
 }

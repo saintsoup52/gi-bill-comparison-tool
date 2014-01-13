@@ -1,6 +1,6 @@
 {
   "facility_code": "20591313",
-  "institution": "Exelon Dresden Generating Station",
+  "institution": "EXELON DRESDEN GENERATING STATION",
   "city": "Morris",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60450",
-  "email": true
+  "ope": null
 }

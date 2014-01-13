@@ -1,6 +1,6 @@
 {
   "facility_code": "10497817",
-  "institution": "Guthrie Police Department",
+  "institution": "GUTHRIE POLICE DEPARTMENT",
   "city": "Guthrie",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42234",
-  "email": false
+  "ope": null
 }

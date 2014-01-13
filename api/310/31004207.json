@@ -1,6 +1,6 @@
 {
   "facility_code": "31004207",
-  "institution": "The Graduate Institute",
+  "institution": "THE GRADUATE INSTITUTE",
   "city": "Bethany",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6524",
-  "email": true
+  "ope": null
 }

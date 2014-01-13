@@ -1,6 +1,6 @@
 {
   "facility_code": "15130843",
-  "institution": "Univ Of Texas Austin Health Info Tech",
+  "institution": "UNIV OF TEXAS AUSTIN HEALTH INFO TECH",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78712",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10623625",
-  "institution": "Trenton Fire Dept.",
+  "institution": "TRENTON FIRE DEPT.",
   "city": "Trenton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64683",
-  "email": false
+  "ope": null
 }

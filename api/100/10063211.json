@@ -1,6 +1,6 @@
 {
   "facility_code": "10063211",
-  "institution": "Federal Aviation Administration (Faa) - Columbus Atct",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - COLUMBUS ATCT",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31909",
-  "email": true
+  "ope": null
 }

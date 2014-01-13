@@ -1,6 +1,6 @@
 {
   "facility_code": "11911530",
-  "institution": "Rutgers Center For Continuing Professional Development",
+  "institution": "RUTGERS CENTER FOR CONTINUING PROFESSIONAL DEVELOPMENT",
   "city": "New Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8901",
-  "email": true
+  "ope": "00262900"
 }

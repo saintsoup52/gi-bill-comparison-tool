@@ -1,6 +1,6 @@
 {
   "facility_code": "10057711",
-  "institution": "U. S. Fish & Wildlife Service",
+  "institution": "U. S. FISH & WILDLIFE SERVICE",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30345",
-  "email": false
+  "ope": null
 }

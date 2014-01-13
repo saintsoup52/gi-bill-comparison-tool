@@ -1,6 +1,6 @@
 {
   "facility_code": "10010327",
-  "institution": "Us Dept Of Veterans Affairs - Lincoln",
+  "institution": "US DEPT OF VETERANS AFFAIRS - LINCOLN",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68501",
-  "email": true
+  "ope": null
 }

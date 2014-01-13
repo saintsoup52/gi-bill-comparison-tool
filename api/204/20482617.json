@@ -1,6 +1,6 @@
 {
   "facility_code": "20482617",
-  "institution": "Louisville Gas & Electric Company",
+  "institution": "LOUISVILLE GAS & ELECTRIC COMPANY",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40214",
-  "email": true
+  "ope": null
 }

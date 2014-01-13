@@ -1,6 +1,6 @@
 {
   "facility_code": "20039611",
-  "institution": "Wal-Mart Dc 6061",
+  "institution": "WAL-MART DC 6061",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30458",
-  "email": false
+  "ope": null
 }

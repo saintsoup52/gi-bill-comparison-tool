@@ -1,6 +1,6 @@
 {
   "facility_code": "10430747",
-  "institution": "Eastern Washington University Police Department",
+  "institution": "EASTERN WASHINGTON UNIVERSITY POLICE DEPARTMENT",
   "city": "Cheney",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99004",
-  "email": true
+  "ope": null
 }

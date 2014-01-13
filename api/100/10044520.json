@@ -1,6 +1,6 @@
 {
   "facility_code": "10044520",
-  "institution": "Goddard Space Flight Center-Nasa",
+  "institution": "GODDARD SPACE FLIGHT CENTER-NASA",
   "city": "Greenbelt",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20771",
-  "email": false
+  "ope": null
 }

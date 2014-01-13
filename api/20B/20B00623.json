@@ -1,6 +1,6 @@
 {
   "facility_code": "20B00623",
-  "institution": "Duluth Messabe & Iron Range Rr",
+  "institution": "DULUTH MESSABE & IRON RANGE RR",
   "city": "Duluth",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55807",
-  "email": false
+  "ope": null
 }

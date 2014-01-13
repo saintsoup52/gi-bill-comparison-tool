@@ -1,6 +1,6 @@
 {
   "facility_code": "10R06538",
-  "institution": "Va Medical Center Univ Dr",
+  "institution": "VA MEDICAL CENTER UNIV DR",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15240",
-  "email": false
+  "ope": null
 }

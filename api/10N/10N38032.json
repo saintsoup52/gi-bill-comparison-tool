@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38032",
-  "institution": "Elmira Correctional Facility",
+  "institution": "ELMIRA CORRECTIONAL FACILITY",
   "city": "Elmira",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14902",
-  "email": false
+  "ope": null
 }

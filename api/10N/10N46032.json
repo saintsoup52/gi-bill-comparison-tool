@@ -1,6 +1,6 @@
 {
   "facility_code": "10N46032",
-  "institution": "Faa Rochester System Support Center (Ssc)(84db)",
+  "institution": "FAA ROCHESTER SYSTEM SUPPORT CENTER (SSC)(84DB)",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14624",
-  "email": true
+  "ope": null
 }

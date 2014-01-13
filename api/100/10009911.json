@@ -1,6 +1,6 @@
 {
   "facility_code": "10009911",
-  "institution": "Decatur County Sheriff'S Office",
+  "institution": "DECATUR COUNTY SHERIFF'S OFFICE",
   "city": "Bainbridge",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39817",
-  "email": true
+  "ope": null
 }

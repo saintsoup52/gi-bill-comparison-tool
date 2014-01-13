@@ -1,6 +1,6 @@
 {
   "facility_code": "10570213",
-  "institution": "Normal Police Department",
+  "institution": "NORMAL POLICE DEPARTMENT",
   "city": "Normal",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61761",
-  "email": true
+  "ope": null
 }

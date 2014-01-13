@@ -1,6 +1,6 @@
 {
   "facility_code": "10811430",
-  "institution": "State Of New Jersey Department Of Corrections",
+  "institution": "STATE OF NEW JERSEY DEPARTMENT OF CORRECTIONS",
   "city": "Sea Girt",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8750",
-  "email": true
+  "ope": null
 }

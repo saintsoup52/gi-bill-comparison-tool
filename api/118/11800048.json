@@ -1,6 +1,6 @@
 {
   "facility_code": "11800048",
-  "institution": "West Virginia University",
+  "institution": "WEST VIRGINIA UNIVERSITY",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "26506",
-  "email": true
+  "ope": "00382700"
 }

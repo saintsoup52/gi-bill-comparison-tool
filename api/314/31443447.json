@@ -1,6 +1,6 @@
 {
   "facility_code": "31443447",
-  "institution": "Pacific Northwest University Of Health Sciences",
+  "institution": "PACIFIC NORTHWEST UNIVERSITY OF HEALTH SCIENCES",
   "city": "Yakima",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "98901",
-  "email": true
+  "ope": "04130500"
 }

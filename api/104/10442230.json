@@ -1,6 +1,6 @@
 {
   "facility_code": "10442230",
-  "institution": "Franklin Township Police Department",
+  "institution": "FRANKLIN TOWNSHIP POLICE DEPARTMENT",
   "city": "Somerset",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8873",
-  "email": true
+  "ope": null
 }

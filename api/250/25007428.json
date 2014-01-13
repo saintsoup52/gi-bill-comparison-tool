@@ -1,6 +1,6 @@
 {
   "facility_code": "25007428",
-  "institution": "New Horizons Reno (Ch 31)",
+  "institution": "NEW HORIZONS RENO (CH 31)",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89511",
-  "email": false
+  "ope": null
 }

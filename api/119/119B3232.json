@@ -1,6 +1,6 @@
 {
   "facility_code": "119B3232",
-  "institution": "Suny Albany",
+  "institution": "SUNY ALBANY",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "12222",
-  "email": true
+  "ope": "00283500"
 }

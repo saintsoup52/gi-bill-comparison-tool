@@ -1,6 +1,6 @@
 {
   "facility_code": "11201080",
-  "institution": "Christian Albrechts Universita",
+  "institution": "CHRISTIAN ALBRECHTS UNIVERSITA",
   "city": "Kiel",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N45632",
-  "institution": "New York State Department Of Transportation - Region 6 Bridge Maintenance(Ojt)",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - REGION 6 BRIDGE MAINTENANCE(OJT)",
   "city": "Horseheads",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13845",
-  "email": true
+  "ope": null
 }

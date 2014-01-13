@@ -1,6 +1,6 @@
 {
   "facility_code": "11000168",
-  "institution": "University Of Cape Town",
+  "institution": "UNIVERSITY OF CAPE TOWN",
   "city": "Rondebosch",
   "state": "South Africa",
   "country": "South Africa",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

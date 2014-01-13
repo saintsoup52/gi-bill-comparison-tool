@@ -1,6 +1,6 @@
 {
   "facility_code": "15022013",
-  "institution": "Bolingbrook High School",
+  "institution": "BOLINGBROOK HIGH SCHOOL",
   "city": "Bolingbrook",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60440",
-  "email": true
+  "ope": null
 }

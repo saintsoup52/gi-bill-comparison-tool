@@ -1,6 +1,6 @@
 {
   "facility_code": "25001040",
-  "institution": "New Horizons Greenville (Ch 31)",
+  "institution": "NEW HORIZONS GREENVILLE (CH 31)",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29615",
-  "email": false
+  "ope": null
 }

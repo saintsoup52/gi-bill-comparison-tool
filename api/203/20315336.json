@@ -1,6 +1,6 @@
 {
   "facility_code": "20315336",
-  "institution": "Napco",
+  "institution": "NAPCO",
   "city": "Muskogee",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74401",
-  "email": "No (SCO)"
+  "ope": null
 }

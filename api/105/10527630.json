@@ -1,6 +1,6 @@
 {
   "facility_code": "10527630",
-  "institution": "Riverdale Police Department",
+  "institution": "RIVERDALE POLICE DEPARTMENT",
   "city": "Riverdale",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7457",
-  "email": false
+  "ope": null
 }

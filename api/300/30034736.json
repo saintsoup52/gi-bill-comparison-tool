@@ -1,6 +1,6 @@
 {
   "facility_code": "30034736",
-  "institution": "Emergency Medical Services Authority - Tulsa",
+  "institution": "EMERGENCY MEDICAL SERVICES AUTHORITY - TULSA",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74106",
-  "email": false
+  "ope": null
 }

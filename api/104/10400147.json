@@ -1,6 +1,6 @@
 {
   "facility_code": "10400147",
-  "institution": "Benton County Sheriff'S Office",
+  "institution": "BENTON COUNTY SHERIFF'S OFFICE",
   "city": "Kennewick",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99336",
-  "email": true
+  "ope": null
 }

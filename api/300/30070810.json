@@ -1,6 +1,6 @@
 {
   "facility_code": "30070810",
-  "institution": "Tampa Millwrights Jac",
+  "institution": "TAMPA MILLWRIGHTS JAC",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33610",
-  "email": true
+  "ope": null
 }

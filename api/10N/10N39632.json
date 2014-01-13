@@ -1,6 +1,6 @@
 {
   "facility_code": "10N39632",
-  "institution": "Nypd - Housing Borough Brooklyn Irt",
+  "institution": "NYPD - HOUSING BOROUGH BROOKLYN IRT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11206",
-  "email": false
+  "ope": null
 }

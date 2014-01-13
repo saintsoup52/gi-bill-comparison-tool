@@ -1,6 +1,6 @@
 {
   "facility_code": "10110864",
-  "institution": "Federal Detention Center",
+  "institution": "FEDERAL DETENTION CENTER",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96820",
-  "email": false
+  "ope": null
 }

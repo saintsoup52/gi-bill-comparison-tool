@@ -1,6 +1,6 @@
 {
   "facility_code": "15001615",
-  "institution": "Keokuk High School",
+  "institution": "KEOKUK HIGH SCHOOL",
   "city": "Keokuk",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52632",
-  "email": false
+  "ope": null
 }

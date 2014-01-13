@@ -1,6 +1,6 @@
 {
   "facility_code": "10608813",
-  "institution": "Illinois State Police District #1",
+  "institution": "ILLINOIS STATE POLICE DISTRICT #1",
   "city": "Sterling",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61081",
-  "email": false
+  "ope": null
 }

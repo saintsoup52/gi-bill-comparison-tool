@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5405",
-  "institution": "Calaveras County Sheriff'S Department",
+  "institution": "CALAVERAS COUNTY SHERIFF'S DEPARTMENT",
   "city": "San Andreas",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95249",
-  "email": false
+  "ope": null
 }

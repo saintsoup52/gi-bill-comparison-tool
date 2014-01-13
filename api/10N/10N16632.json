@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16632",
-  "institution": "Nassau County Police Department - 7th Precinct",
+  "institution": "NASSAU COUNTY POLICE DEPARTMENT - 7TH PRECINCT",
   "city": "Seaford",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11783",
-  "email": false
+  "ope": null
 }

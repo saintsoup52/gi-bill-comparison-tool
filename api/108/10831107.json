@@ -1,6 +1,6 @@
 {
   "facility_code": "10831107",
-  "institution": "Federal Aviation Administration-Bradley Airport",
+  "institution": "FEDERAL AVIATION ADMINISTRATION-BRADLEY AIRPORT",
   "city": "Windsor Locks",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6096",
-  "email": true
+  "ope": null
 }

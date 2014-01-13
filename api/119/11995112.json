@@ -1,6 +1,6 @@
 {
   "facility_code": "11995112",
-  "institution": "Idaho State University",
+  "institution": "IDAHO STATE UNIVERSITY",
   "city": "Pocatello",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "83209",
-  "email": true
+  "ope": "00162000"
 }

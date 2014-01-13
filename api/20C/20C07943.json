@@ -1,6 +1,6 @@
 {
   "facility_code": "20C07943",
-  "institution": "Alon Usa",
+  "institution": "ALON USA",
   "city": "Big Spring",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79721",
-  "email": false
+  "ope": null
 }

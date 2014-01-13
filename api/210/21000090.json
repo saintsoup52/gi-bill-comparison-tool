@@ -1,6 +1,6 @@
 {
   "facility_code": "21000090",
-  "institution": "Wyzsza Szkola Komunikacji I Zarzadzania",
+  "institution": "WYZSZA SZKOLA KOMUNIKACJI I ZARZADZANIA",
   "city": "Poznan",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

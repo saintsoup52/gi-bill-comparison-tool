@@ -1,6 +1,6 @@
 {
   "facility_code": "11006133",
-  "institution": "University Of North Carolina @ Wilmington",
+  "institution": "UNIVERSITY OF NORTH CAROLINA @ WILMINGTON",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "28403",
-  "email": true
+  "ope": "00298400"
 }

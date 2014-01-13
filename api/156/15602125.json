@@ -1,6 +1,6 @@
 {
   "facility_code": "15602125",
-  "institution": "Ava/Douglas Cty Emergency Management",
+  "institution": "AVA/DOUGLAS CTY EMERGENCY MANAGEMENT",
   "city": "Ava",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65608",
-  "email": false
+  "ope": null
 }

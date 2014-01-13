@@ -1,6 +1,6 @@
 {
   "facility_code": "25417047",
-  "institution": "Bar Bri Of Washington / And Of Oregon(Ch 31 Only)",
+  "institution": "BAR BRI OF WASHINGTON / AND OF OREGON(CH 31 ONLY)",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98112",
-  "email": true
+  "ope": null
 }

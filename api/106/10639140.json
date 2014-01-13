@@ -1,6 +1,6 @@
 {
   "facility_code": "10639140",
-  "institution": "Spartanburg Public Safety Department",
+  "institution": "SPARTANBURG PUBLIC SAFETY DEPARTMENT",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29306",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10439747",
-  "institution": "Lakewood Police Department",
+  "institution": "LAKEWOOD POLICE DEPARTMENT",
   "city": "Lakewood",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98499",
-  "email": true
+  "ope": null
 }

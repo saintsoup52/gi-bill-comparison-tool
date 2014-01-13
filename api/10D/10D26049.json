@@ -1,6 +1,6 @@
 {
   "facility_code": "10D26049",
-  "institution": "Dwd/Det Green Bay Job Service",
+  "institution": "DWD/DET GREEN BAY JOB SERVICE",
   "city": "Green Bay",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54301",
-  "email": false
+  "ope": null
 }

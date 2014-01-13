@@ -1,6 +1,6 @@
 {
   "facility_code": "10063511",
-  "institution": "Federal Aviation Administration (Faa) - Savannah Tracon/ Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - SAVANNAH TRACON/ TOWER",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31408",
-  "email": true
+  "ope": null
 }

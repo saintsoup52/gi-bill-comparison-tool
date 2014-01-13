@@ -1,6 +1,6 @@
 {
   "facility_code": "10P43238",
-  "institution": "Pennsylvania State Police Troop K Skippack",
+  "institution": "PENNSYLVANIA STATE POLICE TROOP K SKIPPACK",
   "city": "Schwenksville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19473",
-  "email": true
+  "ope": null
 }

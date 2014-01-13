@@ -1,6 +1,6 @@
 {
   "facility_code": "10582113",
-  "institution": "Mundelein Police Department",
+  "institution": "MUNDELEIN POLICE DEPARTMENT",
   "city": "Mundelein",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60060",
-  "email": true
+  "ope": null
 }

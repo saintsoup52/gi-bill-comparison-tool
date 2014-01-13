@@ -1,6 +1,6 @@
 {
   "facility_code": "10A90006",
-  "institution": "Denver Fire Dept/Rocky Mountain Fire Academy",
+  "institution": "DENVER FIRE DEPT/ROCKY MOUNTAIN FIRE ACADEMY",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80216",
-  "email": true
+  "ope": null
 }

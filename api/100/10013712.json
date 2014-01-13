@@ -1,6 +1,6 @@
 {
   "facility_code": "10013712",
-  "institution": "Jerome County Sheriff",
+  "institution": "JEROME COUNTY SHERIFF",
   "city": "Jerome",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83338",
-  "email": false
+  "ope": null
 }

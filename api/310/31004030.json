@@ -1,6 +1,6 @@
 {
   "facility_code": "31004030",
-  "institution": "Stevens Institute Of Technology",
+  "institution": "STEVENS INSTITUTE OF TECHNOLOGY",
   "city": "Hoboken",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7030",
-  "email": true
+  "ope": "00263900"
 }

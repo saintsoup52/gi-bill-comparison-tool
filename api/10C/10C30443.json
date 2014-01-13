@@ -1,6 +1,6 @@
 {
   "facility_code": "10C30443",
-  "institution": "Us Customs And Border Protection Port Isabel",
+  "institution": "US CUSTOMS AND BORDER PROTECTION PORT ISABEL",
   "city": "Port Isabel",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78578",
-  "email": false
+  "ope": null
 }

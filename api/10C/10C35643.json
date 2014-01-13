@@ -1,6 +1,6 @@
 {
   "facility_code": "10C35643",
-  "institution": "Nppd Federal Protective Service",
+  "institution": "NPPD FEDERAL PROTECTIVE SERVICE",
   "city": "Grand Prairie",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75050",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20006219",
-  "institution": "Local 496 Ironworkers",
+  "institution": "LOCAL 496 IRONWORKERS",
   "city": "Clinton",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4937",
-  "email": false
+  "ope": null
 }

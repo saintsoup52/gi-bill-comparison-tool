@@ -1,6 +1,6 @@
 {
   "facility_code": "17001113",
-  "institution": "Galatia High School",
+  "institution": "GALATIA HIGH SCHOOL",
   "city": "Galatia",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62935",
-  "email": false
+  "ope": null
 }

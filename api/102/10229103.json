@@ -1,6 +1,6 @@
 {
   "facility_code": "10229103",
-  "institution": "Faa Phoenix Air Traffic Control Tower",
+  "institution": "FAA PHOENIX AIR TRAFFIC CONTROL TOWER",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85034",
-  "email": false
+  "ope": null
 }

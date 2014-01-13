@@ -1,6 +1,6 @@
 {
   "facility_code": "10514530",
-  "institution": "Hillside Police Department",
+  "institution": "HILLSIDE POLICE DEPARTMENT",
   "city": "Hillside",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7205",
-  "email": false
+  "ope": null
 }

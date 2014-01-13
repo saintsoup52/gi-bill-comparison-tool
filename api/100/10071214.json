@@ -1,6 +1,6 @@
 {
   "facility_code": "10071214",
-  "institution": "Sellersburg Police Department",
+  "institution": "SELLERSBURG POLICE DEPARTMENT",
   "city": "Sellersburg",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47172",
-  "email": false
+  "ope": null
 }

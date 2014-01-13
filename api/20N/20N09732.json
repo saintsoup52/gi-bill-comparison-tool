@@ -1,6 +1,6 @@
 {
   "facility_code": "20N09732",
-  "institution": "84 Lumber - Binghamton",
+  "institution": "84 LUMBER - BINGHAMTON",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13904",
-  "email": false
+  "ope": null
 }

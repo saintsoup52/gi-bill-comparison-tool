@@ -1,6 +1,6 @@
 {
   "facility_code": "10236403",
-  "institution": "Gila County Sheriff Department",
+  "institution": "GILA COUNTY SHERIFF DEPARTMENT",
   "city": "Globe",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85501",
-  "email": true
+  "ope": null
 }

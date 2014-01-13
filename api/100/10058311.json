@@ -1,6 +1,6 @@
 {
   "facility_code": "10058311",
-  "institution": "Stewart Detention Center",
+  "institution": "STEWART DETENTION CENTER",
   "city": "Lumpkin",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31815",
-  "email": true
+  "ope": null
 }

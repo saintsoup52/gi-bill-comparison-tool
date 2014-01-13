@@ -1,6 +1,6 @@
 {
   "facility_code": "30252415",
-  "institution": "Waterloo Fire And Rescue",
+  "institution": "WATERLOO FIRE AND RESCUE",
   "city": "Waterloo",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50703",
-  "email": true
+  "ope": null
 }

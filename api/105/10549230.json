@@ -1,6 +1,6 @@
 {
   "facility_code": "10549230",
-  "institution": "Sayreville Police Department",
+  "institution": "SAYREVILLE POLICE DEPARTMENT",
   "city": "Sayreville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8872",
-  "email": false
+  "ope": null
 }

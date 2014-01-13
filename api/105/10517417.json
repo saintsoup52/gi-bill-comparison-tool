@@ -1,6 +1,6 @@
 {
   "facility_code": "10517417",
-  "institution": "Us Dept Housing & Urban Dev Hud",
+  "institution": "US DEPT HOUSING & URBAN DEV HUD",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40202",
-  "email": false
+  "ope": null
 }

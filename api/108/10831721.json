@@ -1,6 +1,6 @@
 {
   "facility_code": "10831721",
-  "institution": "Massachusetts National Guard Field Maintenance Shop #2",
+  "institution": "MASSACHUSETTS NATIONAL GUARD FIELD MAINTENANCE SHOP #2",
   "city": "Westfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1085",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000390",
-  "institution": "University Of Gdansk",
+  "institution": "UNIVERSITY OF GDANSK",
   "city": "Ul Armii",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32837632",
-  "institution": "Cornell University-Joan & Sanford I. Weill Medical College New York Hospital",
+  "institution": "CORNELL UNIVERSITY-JOAN & SANFORD I. WEILL MEDICAL COLLEGE NEW YORK HOSPITAL",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "10021",
-  "email": true
+  "ope": "00271101"
 }

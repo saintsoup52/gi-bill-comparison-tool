@@ -1,6 +1,6 @@
 {
   "facility_code": "10542331",
-  "institution": "Usda Forest Service (Ch31)",
+  "institution": "USDA FOREST SERVICE (CH31)",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87109",
-  "email": true
+  "ope": null
 }

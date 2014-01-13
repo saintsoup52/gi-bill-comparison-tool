@@ -1,6 +1,6 @@
 {
   "facility_code": "10515630",
-  "institution": "Jersey City Police Department",
+  "institution": "JERSEY CITY POLICE DEPARTMENT",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7306",
-  "email": false
+  "ope": null
 }

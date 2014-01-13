@@ -1,6 +1,6 @@
 {
   "facility_code": "10499346",
-  "institution": "Vinton Police Department",
+  "institution": "VINTON POLICE DEPARTMENT",
   "city": "Vinton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24179",
-  "email": true
+  "ope": null
 }

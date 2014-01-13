@@ -1,6 +1,6 @@
 {
   "facility_code": "10B35223",
-  "institution": "Minnesota Department Of Natural Resources",
+  "institution": "MINNESOTA DEPARTMENT OF NATURAL RESOURCES",
   "city": "Little Falls",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56345",
-  "email": true
+  "ope": null
 }

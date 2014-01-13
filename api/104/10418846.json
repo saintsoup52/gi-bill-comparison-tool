@@ -1,6 +1,6 @@
 {
   "facility_code": "10418846",
-  "institution": "Norfolk Sheriff'S Office",
+  "institution": "NORFOLK SHERIFF'S OFFICE",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23510",
-  "email": true
+  "ope": null
 }

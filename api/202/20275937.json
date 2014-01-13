@@ -1,6 +1,6 @@
 {
   "facility_code": "20275937",
-  "institution": "Burns-Hines Tatc - Ma 7010",
+  "institution": "BURNS-HINES TATC - MA 7010",
   "city": "Baker City",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97814",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A05901",
-  "institution": "Federal Aviation Admin (Faa)- Birmingham Int'L Airport",
+  "institution": "FEDERAL AVIATION ADMIN (FAA)- BIRMINGHAM INT'L AIRPORT",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35212",
-  "email": true
+  "ope": null
 }

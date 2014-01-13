@@ -1,6 +1,6 @@
 {
   "facility_code": "10J56438",
-  "institution": "Department Of Corrections - Camp Hill",
+  "institution": "DEPARTMENT OF CORRECTIONS - CAMP HILL",
   "city": "Camp Hill",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17001",
-  "email": true
+  "ope": null
 }

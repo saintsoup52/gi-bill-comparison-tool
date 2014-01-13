@@ -1,6 +1,6 @@
 {
   "facility_code": "25033506",
-  "institution": "International Wine Guild",
+  "institution": "INTERNATIONAL WINE GUILD",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80202",
-  "email": true
+  "ope": null
 }

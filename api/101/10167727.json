@@ -1,6 +1,6 @@
 {
   "facility_code": "10167727",
-  "institution": "Vha Nebraska-Western Iowa Hcs",
+  "institution": "VHA NEBRASKA-WESTERN IOWA HCS",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68105",
-  "email": true
+  "ope": null
 }

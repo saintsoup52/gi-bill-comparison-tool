@@ -1,6 +1,6 @@
 {
   "facility_code": "15003130",
-  "institution": "Paterson Police Academy",
+  "institution": "PATERSON POLICE ACADEMY",
   "city": "Paterson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7501",
-  "email": false
+  "ope": null
 }

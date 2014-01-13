@@ -1,6 +1,6 @@
 {
   "facility_code": "10999930",
-  "institution": "Dcma Springfield",
+  "institution": "DCMA SPRINGFIELD",
   "city": "Picatinny Arsenal",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7457",
-  "email": true
+  "ope": null
 }

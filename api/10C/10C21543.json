@@ -1,6 +1,6 @@
 {
   "facility_code": "10C21543",
-  "institution": "Health And Human Services Office Dallas",
+  "institution": "HEALTH AND HUMAN SERVICES OFFICE DALLAS",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75202",
-  "email": false
+  "ope": null
 }

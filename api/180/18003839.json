@@ -1,6 +1,6 @@
 {
   "facility_code": "18003839",
-  "institution": "Providence Fire Dept Training School",
+  "institution": "PROVIDENCE FIRE DEPT TRAINING SCHOOL",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2907",
-  "email": true
+  "ope": null
 }

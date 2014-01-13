@@ -1,6 +1,6 @@
 {
   "facility_code": "32008535",
-  "institution": "Summa Health System Akron City Hospital",
+  "institution": "SUMMA HEALTH SYSTEM AKRON CITY HOSPITAL",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44304",
-  "email": false
+  "ope": "00509000"
 }

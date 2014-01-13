@@ -1,6 +1,6 @@
 {
   "facility_code": "25005305",
-  "institution": "Advanced Security Institute (Chap 31)",
+  "institution": "ADVANCED SECURITY INSTITUTE (CHAP 31)",
   "city": "West Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95691",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10054245",
-  "institution": "Springfield Police Dept",
+  "institution": "SPRINGFIELD POLICE DEPT",
   "city": "Springfield",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5156",
-  "email": "No (SCO)"
+  "ope": null
 }

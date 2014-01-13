@@ -1,6 +1,6 @@
 {
   "facility_code": "10B85935",
-  "institution": "City Of Westerville Electric Division (K)",
+  "institution": "CITY OF WESTERVILLE ELECTRIC DIVISION (K)",
   "city": "Westerville",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43081",
-  "email": false
+  "ope": null
 }

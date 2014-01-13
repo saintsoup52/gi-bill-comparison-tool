@@ -1,6 +1,6 @@
 {
   "facility_code": "11513535",
-  "institution": "The Ohio State University",
+  "institution": "THE OHIO STATE UNIVERSITY",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "43210",
-  "email": true
+  "ope": "00309000"
 }

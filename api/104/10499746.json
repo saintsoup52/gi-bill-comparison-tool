@@ -1,6 +1,6 @@
 {
   "facility_code": "10499746",
-  "institution": "Defense Information Systems Agency",
+  "institution": "DEFENSE INFORMATION SYSTEMS AGENCY",
   "city": "Arlington",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22204",
-  "email": true
+  "ope": null
 }

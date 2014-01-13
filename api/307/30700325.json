@@ -1,6 +1,6 @@
 {
   "facility_code": "30700325",
-  "institution": "St. Anthony'S Medical Center",
+  "institution": "ST. ANTHONY'S MEDICAL CENTER",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63128",
-  "email": false
+  "ope": null
 }

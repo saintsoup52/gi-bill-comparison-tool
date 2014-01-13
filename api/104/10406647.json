@@ -1,6 +1,6 @@
 {
   "facility_code": "10406647",
-  "institution": "Pend Oreille County Sheriff'S Office",
+  "institution": "PEND OREILLE COUNTY SHERIFF'S OFFICE",
   "city": "Newport",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99156",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15628532",
-  "institution": "Oneida County Correctional Facility",
+  "institution": "ONEIDA COUNTY CORRECTIONAL FACILITY",
   "city": "Oriskany",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13424",
-  "email": false
+  "ope": null
 }

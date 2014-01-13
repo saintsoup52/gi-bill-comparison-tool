@@ -1,6 +1,6 @@
 {
   "facility_code": "32983538",
-  "institution": "Upmc Northwest Medical Center",
+  "institution": "UPMC NORTHWEST MEDICAL CENTER",
   "city": "Seneca",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16346",
-  "email": false
+  "ope": null
 }

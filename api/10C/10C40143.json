@@ -1,6 +1,6 @@
 {
   "facility_code": "10C40143",
-  "institution": "Faa System Service Center San Antonio",
+  "institution": "FAA SYSTEM SERVICE CENTER SAN ANTONIO",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78216",
-  "email": false
+  "ope": null
 }

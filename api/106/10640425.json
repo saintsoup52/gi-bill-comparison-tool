@@ -1,6 +1,6 @@
 {
   "facility_code": "10640425",
-  "institution": "Kirksville Police Dept.",
+  "institution": "KIRKSVILLE POLICE DEPT.",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63501",
-  "email": false
+  "ope": null
 }

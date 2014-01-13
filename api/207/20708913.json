@@ -1,6 +1,6 @@
 {
   "facility_code": "20708913",
-  "institution": "(Sbm) Sterling Business Machines Inc",
+  "institution": "(SBM) STERLING BUSINESS MACHINES INC",
   "city": "Sterling",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61081",
-  "email": false
+  "ope": null
 }

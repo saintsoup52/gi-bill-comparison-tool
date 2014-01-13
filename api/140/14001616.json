@@ -1,6 +1,6 @@
 {
   "facility_code": "14001616",
-  "institution": "Colby Community College",
+  "institution": "COLBY COMMUNITY COLLEGE",
   "city": "Colby",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "67701",
-  "email": true
+  "ope": "00191100"
 }

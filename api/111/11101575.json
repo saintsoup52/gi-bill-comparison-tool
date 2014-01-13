@@ -1,6 +1,6 @@
 {
   "facility_code": "11101575",
-  "institution": "University Of Toronto",
+  "institution": "UNIVERSITY OF TORONTO",
   "city": "Toronto",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

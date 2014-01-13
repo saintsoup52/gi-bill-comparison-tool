@@ -1,6 +1,6 @@
 {
   "facility_code": "10N43732",
-  "institution": "New York State Police Troop F",
+  "institution": "NEW YORK STATE POLICE TROOP F",
   "city": "Middletown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10940",
-  "email": true
+  "ope": null
 }

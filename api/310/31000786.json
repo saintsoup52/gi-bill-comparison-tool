@@ -1,6 +1,6 @@
 {
   "facility_code": "31000786",
-  "institution": "Tecnologico De Monterrey",
+  "institution": "TECNOLOGICO DE MONTERREY",
   "city": "Xochitepec",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

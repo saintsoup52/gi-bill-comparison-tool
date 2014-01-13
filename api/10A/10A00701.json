@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00701",
-  "institution": "Alabama Department Of Public Safety Decatur Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY DECATUR POST",
   "city": "Decatur",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35603",
-  "email": false
+  "ope": null
 }

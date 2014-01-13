@@ -1,6 +1,6 @@
 {
   "facility_code": "31000338",
-  "institution": "Allegheny College",
+  "institution": "ALLEGHENY COLLEGE",
   "city": "Meadville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "16335",
-  "email": true
+  "ope": "00323000"
 }

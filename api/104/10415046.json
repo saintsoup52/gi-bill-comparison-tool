@@ -1,6 +1,6 @@
 {
   "facility_code": "10415046",
-  "institution": "Faa Richmond Air Traffic Control Tower",
+  "institution": "FAA RICHMOND AIR TRAFFIC CONTROL TOWER",
   "city": "Richmond Int'L Airport",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23250",
-  "email": true
+  "ope": null
 }

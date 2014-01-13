@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07610",
-  "institution": "Ormond Beach Police Department",
+  "institution": "ORMOND BEACH POLICE DEPARTMENT",
   "city": "Ormond Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32174",
-  "email": true
+  "ope": null
 }

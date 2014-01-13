@@ -1,6 +1,6 @@
 {
   "facility_code": "10D23249",
-  "institution": "City Of Menasha Police Department",
+  "institution": "CITY OF MENASHA POLICE DEPARTMENT",
   "city": "Menasha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54952",
-  "email": false
+  "ope": null
 }

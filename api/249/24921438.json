@@ -1,6 +1,6 @@
 {
   "facility_code": "24921438",
-  "institution": "The Art Institute Of Philadelphia",
+  "institution": "THE ART INSTITUTE OF PHILADELPHIA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19103",
-  "email": true
+  "ope": "00835000"
 }

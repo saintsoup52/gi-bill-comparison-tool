@@ -1,6 +1,6 @@
 {
   "facility_code": "10001136",
-  "institution": "Federal Correctional Institution",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION",
   "city": "El Reno",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73036",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10994110",
-  "institution": "New Smyrna Beach Police Department",
+  "institution": "NEW SMYRNA BEACH POLICE DEPARTMENT",
   "city": "New Smyrna Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32168",
-  "email": false
+  "ope": null
 }

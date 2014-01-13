@@ -1,6 +1,6 @@
 {
   "facility_code": "11000870",
-  "institution": "University Of Western Australia",
+  "institution": "UNIVERSITY OF WESTERN AUSTRALIA",
   "city": "Crawley",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

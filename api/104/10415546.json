@@ -1,6 +1,6 @@
 {
   "facility_code": "10415546",
-  "institution": "Faa Atct Dulles International Airport",
+  "institution": "FAA ATCT DULLES INTERNATIONAL AIRPORT",
   "city": "Chantilly",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20151",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10016033",
-  "institution": "Ncdoc - Wilkes Correctional Center",
+  "institution": "NCDOC - WILKES CORRECTIONAL CENTER",
   "city": "North Wilkesboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28659",
-  "email": false
+  "ope": null
 }

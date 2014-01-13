@@ -1,6 +1,6 @@
 {
   "facility_code": "31806110",
-  "institution": "Embry-Riddle Aeronautical Univ - Daytona Beach",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV - DAYTONA BEACH",
   "city": "Daytona Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32114",
-  "email": true
+  "ope": "00147900"
 }

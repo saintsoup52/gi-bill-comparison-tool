@@ -1,6 +1,6 @@
 {
   "facility_code": "101B2005",
-  "institution": "County Of San Bernardino",
+  "institution": "COUNTY OF SAN BERNARDINO",
   "city": "San Bernardino",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92415",
-  "email": false
+  "ope": null
 }

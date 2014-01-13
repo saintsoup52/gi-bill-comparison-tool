@@ -1,6 +1,6 @@
 {
   "facility_code": "15001611",
-  "institution": "Warren Technical School",
+  "institution": "WARREN TECHNICAL SCHOOL",
   "city": "Chamblee",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30341",
-  "email": false
+  "ope": null
 }

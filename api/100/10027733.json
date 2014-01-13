@@ -1,6 +1,6 @@
 {
   "facility_code": "10027733",
-  "institution": "Burlington Police Department",
+  "institution": "BURLINGTON POLICE DEPARTMENT",
   "city": "Burlington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27215",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10022433",
-  "institution": "Winston Salem Fire Department",
+  "institution": "WINSTON SALEM FIRE DEPARTMENT",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27102",
-  "email": true
+  "ope": null
 }

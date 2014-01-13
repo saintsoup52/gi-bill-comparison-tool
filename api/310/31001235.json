@@ -1,6 +1,6 @@
 {
   "facility_code": "31001235",
-  "institution": "Franklin University",
+  "institution": "FRANKLIN UNIVERSITY",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "43215",
-  "email": true
+  "ope": "00304600"
 }

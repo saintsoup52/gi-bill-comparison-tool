@@ -1,6 +1,6 @@
 {
   "facility_code": "10B34423",
-  "institution": "Mn Dept Of Veterans Affairs- Fort Snelling",
+  "institution": "MN DEPT OF VETERANS AFFAIRS- FORT SNELLING",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55111",
-  "email": false
+  "ope": null
 }

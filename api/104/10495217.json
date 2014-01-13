@@ -1,6 +1,6 @@
 {
   "facility_code": "10495217",
-  "institution": "Edmonton Police Department",
+  "institution": "EDMONTON POLICE DEPARTMENT",
   "city": "Edmonton",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42129",
-  "email": false
+  "ope": null
 }

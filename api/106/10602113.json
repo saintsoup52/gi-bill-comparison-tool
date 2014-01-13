@@ -1,6 +1,6 @@
 {
   "facility_code": "10602113",
-  "institution": "Richland County Sheriff Department",
+  "institution": "RICHLAND COUNTY SHERIFF DEPARTMENT",
   "city": "Olney",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62450",
-  "email": false
+  "ope": null
 }

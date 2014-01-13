@@ -1,6 +1,6 @@
 {
   "facility_code": "10551030",
-  "institution": "Morris County Correctional Center",
+  "institution": "MORRIS COUNTY CORRECTIONAL CENTER",
   "city": "Morris Township",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7960",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000278",
-  "institution": "Riga Technical University",
+  "institution": "RIGA TECHNICAL UNIVERSITY",
   "city": "Lv-1658 Riga",
   "state": "Latvia",
   "country": "Latvia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

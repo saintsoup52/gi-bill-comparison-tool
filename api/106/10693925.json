@@ -1,6 +1,6 @@
 {
   "facility_code": "10693925",
-  "institution": "Truman Dam",
+  "institution": "TRUMAN DAM",
   "city": "Warsaw",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65355",
-  "email": false
+  "ope": null
 }

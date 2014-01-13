@@ -1,6 +1,6 @@
 {
   "facility_code": "10D06038",
-  "institution": "Defense Logistic Agency - Dhrc-N New Cumberland Army Depot",
+  "institution": "DEFENSE LOGISTIC AGENCY - DHRC-N NEW CUMBERLAND ARMY DEPOT",
   "city": "New Cumberland",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17070",
-  "email": true
+  "ope": null
 }

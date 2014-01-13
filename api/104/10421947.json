@@ -1,6 +1,6 @@
 {
   "facility_code": "10421947",
-  "institution": "Clallam County Sheriff'S Department",
+  "institution": "CLALLAM COUNTY SHERIFF'S DEPARTMENT",
   "city": "Port Angeles",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98362",
-  "email": true
+  "ope": null
 }

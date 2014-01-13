@@ -1,6 +1,6 @@
 {
   "facility_code": "25164005",
-  "institution": "America At Work (Chapter 31 Only)",
+  "institution": "AMERICA AT WORK (CHAPTER 31 ONLY)",
   "city": "Mather",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95655",
-  "email": false
+  "ope": null
 }

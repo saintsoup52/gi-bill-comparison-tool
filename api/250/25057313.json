@@ -1,6 +1,6 @@
 {
   "facility_code": "25057313",
-  "institution": "First Institute",
+  "institution": "FIRST INSTITUTE",
   "city": "Crystal Lake",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "60014",
-  "email": true
+  "ope": "02584900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10700713",
-  "institution": "Hickory Hills Police Department",
+  "institution": "HICKORY HILLS POLICE DEPARTMENT",
   "city": "Hickory Hills",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60457",
-  "email": false
+  "ope": null
 }

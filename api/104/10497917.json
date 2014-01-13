@@ -1,6 +1,6 @@
 {
   "facility_code": "10497917",
-  "institution": "Department For Employment Services",
+  "institution": "DEPARTMENT FOR EMPLOYMENT SERVICES",
   "city": "Somerset",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42502",
-  "email": false
+  "ope": null
 }

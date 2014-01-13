@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42032",
-  "institution": "Nypd Transit District 12 Transit Borough Bronx",
+  "institution": "NYPD TRANSIT DISTRICT 12 TRANSIT BOROUGH BRONX",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10460",
-  "email": false
+  "ope": null
 }

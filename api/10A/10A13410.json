@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13410",
-  "institution": "Internal Revenue Service - Ft Myers",
+  "institution": "INTERNAL REVENUE SERVICE - FT MYERS",
   "city": "Ft. Myers",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33916",
-  "email": true
+  "ope": null
 }

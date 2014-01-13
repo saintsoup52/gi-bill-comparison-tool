@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00310",
-  "institution": "Sebring Police Department",
+  "institution": "SEBRING POLICE DEPARTMENT",
   "city": "Sebring",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33870",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20076740",
-  "institution": "Local Loan Co",
+  "institution": "LOCAL LOAN CO",
   "city": "North Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29406",
-  "email": false
+  "ope": null
 }

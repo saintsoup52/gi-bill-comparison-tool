@@ -1,6 +1,6 @@
 {
   "facility_code": "10130034",
-  "institution": "New Town Police Department",
+  "institution": "NEW TOWN POLICE DEPARTMENT",
   "city": "New Town",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58763",
-  "email": false
+  "ope": null
 }

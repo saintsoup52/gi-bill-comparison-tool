@@ -1,6 +1,6 @@
 {
   "facility_code": "10077314",
-  "institution": "Ball State University Police Department",
+  "institution": "BALL STATE UNIVERSITY POLICE DEPARTMENT",
   "city": "Muncie",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47306",
-  "email": false
+  "ope": null
 }

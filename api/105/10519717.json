@@ -1,6 +1,6 @@
 {
   "facility_code": "10519717",
-  "institution": "Faa Lexington Systems Support Center",
+  "institution": "FAA LEXINGTON SYSTEMS SUPPORT CENTER",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40510",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20122131",
-  "institution": "Wal-Mart Distribution Center",
+  "institution": "WAL-MART DISTRIBUTION CENTER",
   "city": "Los Lunas",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87031",
-  "email": false
+  "ope": null
 }

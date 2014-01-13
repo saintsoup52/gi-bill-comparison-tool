@@ -1,6 +1,6 @@
 {
   "facility_code": "10715025",
-  "institution": "Support Services Division",
+  "institution": "SUPPORT SERVICES DIVISION",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63103",
-  "email": false
+  "ope": null
 }

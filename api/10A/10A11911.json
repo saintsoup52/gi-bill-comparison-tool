@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11911",
-  "institution": "Marta Police Department",
+  "institution": "MARTA POLICE DEPARTMENT",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30324",
-  "email": true
+  "ope": null
 }

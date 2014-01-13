@@ -1,6 +1,6 @@
 {
   "facility_code": "11000770",
-  "institution": "Univ Of Southern Queensland",
+  "institution": "UNIV OF SOUTHERN QUEENSLAND",
   "city": "Toowoomba",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

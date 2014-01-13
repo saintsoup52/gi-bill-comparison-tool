@@ -1,6 +1,6 @@
 {
   "facility_code": "31000879",
-  "institution": "American University Of Paris",
+  "institution": "AMERICAN UNIVERSITY OF PARIS",
   "city": "Paris",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

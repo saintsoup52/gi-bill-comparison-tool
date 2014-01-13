@@ -1,6 +1,6 @@
 {
   "facility_code": "15012605",
-  "institution": "California Department Of Corrections & Rehabilitation",
+  "institution": "CALIFORNIA DEPARTMENT OF CORRECTIONS & REHABILITATION",
   "city": "Galt",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95632",
-  "email": false
+  "ope": null
 }

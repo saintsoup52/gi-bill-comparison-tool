@@ -1,6 +1,6 @@
 {
   "facility_code": "10022049",
-  "institution": "Bangor Municipal Utility",
+  "institution": "BANGOR MUNICIPAL UTILITY",
   "city": "Bangor",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54614",
-  "email": false
+  "ope": null
 }

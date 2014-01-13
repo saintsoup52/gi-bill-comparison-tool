@@ -1,6 +1,6 @@
 {
   "facility_code": "10037611",
-  "institution": "Stone Mountain Police Department",
+  "institution": "STONE MOUNTAIN POLICE DEPARTMENT",
   "city": "Stone Mountain",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30083",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10579913",
-  "institution": "Oak Forest Police Department",
+  "institution": "OAK FOREST POLICE DEPARTMENT",
   "city": "Oak Forest",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60452",
-  "email": true
+  "ope": null
 }

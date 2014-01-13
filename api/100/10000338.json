@@ -1,6 +1,6 @@
 {
   "facility_code": "10000338",
-  "institution": "Veterans Health Administration (Hj Hines)",
+  "institution": "VETERANS HEALTH ADMINISTRATION (HJ HINES)",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15215",
-  "email": false
+  "ope": null
 }

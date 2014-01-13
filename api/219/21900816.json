@@ -1,6 +1,6 @@
 {
   "facility_code": "21900816",
-  "institution": "Bryan University",
+  "institution": "BRYAN UNIVERSITY",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66604",
-  "email": true
+  "ope": null
 }

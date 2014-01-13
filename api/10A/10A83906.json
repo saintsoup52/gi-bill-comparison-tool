@@ -1,6 +1,6 @@
 {
   "facility_code": "10A83906",
-  "institution": "Cdc - Colorado Department Of Corrections Denver Complex",
+  "institution": "CDC - COLORADO DEPARTMENT OF CORRECTIONS DENVER COMPLEX",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80239",
-  "email": true
+  "ope": null
 }

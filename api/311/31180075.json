@@ -1,6 +1,6 @@
 {
   "facility_code": "31180075",
-  "institution": "Universite Du Quebec A Hull",
+  "institution": "UNIVERSITE DU QUEBEC A HULL",
   "city": "Hull",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

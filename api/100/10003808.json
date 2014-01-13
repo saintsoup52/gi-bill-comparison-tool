@@ -1,6 +1,6 @@
 {
   "facility_code": "10003808",
-  "institution": "Blades Police Department",
+  "institution": "BLADES POLICE DEPARTMENT",
   "city": "Blades",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19973",
-  "email": true
+  "ope": null
 }

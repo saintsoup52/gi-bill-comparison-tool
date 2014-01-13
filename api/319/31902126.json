@@ -1,6 +1,6 @@
 {
   "facility_code": "31902126",
-  "institution": "Embry-Riddle Aeronautical Univ Malmstrom Afb",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV MALMSTROM AFB",
   "city": "Malmstrom Afb",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59402",
-  "email": true
+  "ope": "00147943"
 }

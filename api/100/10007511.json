@@ -1,6 +1,6 @@
 {
   "facility_code": "10007511",
-  "institution": "Dekalb Regional Youth Detention Center",
+  "institution": "DEKALB REGIONAL YOUTH DETENTION CENTER",
   "city": "Decatur",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30034",
-  "email": false
+  "ope": null
 }

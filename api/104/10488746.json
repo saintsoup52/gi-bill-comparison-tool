@@ -1,6 +1,6 @@
 {
   "facility_code": "10488746",
-  "institution": "Harrisonburg Police Department",
+  "institution": "HARRISONBURG POLICE DEPARTMENT",
   "city": "Harrisonburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22801",
-  "email": false
+  "ope": null
 }

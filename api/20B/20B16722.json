@@ -1,6 +1,6 @@
 {
   "facility_code": "20B16722",
-  "institution": "Boc-Kalamazoo",
+  "institution": "BOC-KALAMAZOO",
   "city": "Kalamazoo",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49001",
-  "email": false
+  "ope": null
 }

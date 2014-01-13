@@ -1,6 +1,6 @@
 {
   "facility_code": "20642825",
-  "institution": "Doe Run Company",
+  "institution": "DOE RUN COMPANY",
   "city": "Herculaneum",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63048",
-  "email": false
+  "ope": null
 }

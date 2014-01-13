@@ -1,6 +1,6 @@
 {
   "facility_code": "102B1505",
-  "institution": "Faa- Los Angeles Air Traffic Control Center (Artcc)",
+  "institution": "FAA- LOS ANGELES AIR TRAFFIC CONTROL CENTER (ARTCC)",
   "city": "Palmdale",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93550",
-  "email": false
+  "ope": null
 }

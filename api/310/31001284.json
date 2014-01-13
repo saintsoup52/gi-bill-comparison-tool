@@ -1,6 +1,6 @@
 {
   "facility_code": "31001284",
-  "institution": "Universita Degli Studi Di Palermo",
+  "institution": "UNIVERSITA DEGLI STUDI DI PALERMO",
   "city": "Palermo",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

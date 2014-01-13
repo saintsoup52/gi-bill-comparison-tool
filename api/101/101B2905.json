@@ -1,6 +1,6 @@
 {
   "facility_code": "101B2905",
-  "institution": "Santa Barbara Police Department",
+  "institution": "SANTA BARBARA POLICE DEPARTMENT",
   "city": "Santa Barbara",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93101",
-  "email": true
+  "ope": null
 }

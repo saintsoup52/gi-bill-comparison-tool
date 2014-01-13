@@ -1,6 +1,6 @@
 {
   "facility_code": "10A78706",
-  "institution": "Colorado Women'S Correctional Facility",
+  "institution": "COLORADO WOMEN'S CORRECTIONAL FACILITY",
   "city": "Canon City",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81215",
-  "email": false
+  "ope": null
 }

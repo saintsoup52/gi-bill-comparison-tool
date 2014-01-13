@@ -1,6 +1,6 @@
 {
   "facility_code": "31000811",
-  "institution": "Lagrange College",
+  "institution": "LAGRANGE COLLEGE",
   "city": "Lagrange",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30240",
-  "email": true
+  "ope": "00157800"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10037511",
-  "institution": "Bibb County Sheriff'S Department",
+  "institution": "BIBB COUNTY SHERIFF'S DEPARTMENT",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31202",
-  "email": false
+  "ope": null
 }

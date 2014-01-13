@@ -1,6 +1,6 @@
 {
   "facility_code": "11800218",
-  "institution": "Louisiana State University - Law Ctr.",
+  "institution": "LOUISIANA STATE UNIVERSITY - LAW CTR.",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70803",
-  "email": true
+  "ope": "00201000"
 }

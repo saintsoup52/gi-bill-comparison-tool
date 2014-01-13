@@ -1,6 +1,6 @@
 {
   "facility_code": "20001011",
-  "institution": "Tel Tech Paging (Ch 31)",
+  "institution": "TEL TECH PAGING (CH 31)",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31903",
-  "email": "No (SCO)"
+  "ope": null
 }

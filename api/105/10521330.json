@@ -1,6 +1,6 @@
 {
   "facility_code": "10521330",
-  "institution": "Nutley Police Department",
+  "institution": "NUTLEY POLICE DEPARTMENT",
   "city": "Nutley",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7110",
-  "email": false
+  "ope": null
 }

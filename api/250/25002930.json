@@ -1,6 +1,6 @@
 {
   "facility_code": "25002930",
-  "institution": "Paterson Technical Insitute",
+  "institution": "PATERSON TECHNICAL INSITUTE",
   "city": "Paterson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7505",
-  "email": false
+  "ope": null
 }

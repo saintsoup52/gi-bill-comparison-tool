@@ -1,6 +1,6 @@
 {
   "facility_code": "10008337",
-  "institution": "Forest Grove Fire And Rescue",
+  "institution": "FOREST GROVE FIRE AND RESCUE",
   "city": "Forest Grove",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97116",
-  "email": true
+  "ope": null
 }

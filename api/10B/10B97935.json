@@ -1,6 +1,6 @@
 {
   "facility_code": "10B97935",
-  "institution": "Williams County Veterans Service Office",
+  "institution": "WILLIAMS COUNTY VETERANS SERVICE OFFICE",
   "city": "Bryan",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43506",
-  "email": true
+  "ope": null
 }

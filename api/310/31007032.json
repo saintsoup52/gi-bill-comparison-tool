@@ -1,6 +1,6 @@
 {
   "facility_code": "31007032",
-  "institution": "Pratt Institute - Brooklyn",
+  "institution": "PRATT INSTITUTE - BROOKLYN",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "11205",
-  "email": true
+  "ope": "00279800"
 }

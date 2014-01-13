@@ -1,6 +1,6 @@
 {
   "facility_code": "31940113",
-  "institution": "School Of The Art Institute Of Chicago",
+  "institution": "SCHOOL OF THE ART INSTITUTE OF CHICAGO",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60603",
-  "email": true
+  "ope": "00175300"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "101B2105",
-  "institution": "Hemet Police Department",
+  "institution": "HEMET POLICE DEPARTMENT",
   "city": "Hemet",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92543",
-  "email": false
+  "ope": null
 }

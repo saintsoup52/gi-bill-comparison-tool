@@ -1,6 +1,6 @@
 {
   "facility_code": "10634925",
-  "institution": "Aurora Police Department",
+  "institution": "AURORA POLICE DEPARTMENT",
   "city": "Aurora",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65605",
-  "email": false
+  "ope": null
 }

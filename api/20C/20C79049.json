@@ -1,6 +1,6 @@
 {
   "facility_code": "20C79049",
-  "institution": "Appleton Electric Company",
+  "institution": "APPLETON ELECTRIC COMPANY",
   "city": "South Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53172",
-  "email": false
+  "ope": null
 }

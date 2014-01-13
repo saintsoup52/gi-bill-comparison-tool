@@ -1,6 +1,6 @@
 {
   "facility_code": "10993110",
-  "institution": "Lakeland Police Department",
+  "institution": "LAKELAND POLICE DEPARTMENT",
   "city": "Lakeland",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33801",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10247930",
-  "institution": "Westwood Police Department",
+  "institution": "WESTWOOD POLICE DEPARTMENT",
   "city": "Westwood",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7675",
-  "email": true
+  "ope": null
 }

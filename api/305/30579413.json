@@ -1,6 +1,6 @@
 {
   "facility_code": "30579413",
-  "institution": "Conocophillips",
+  "institution": "CONOCOPHILLIPS",
   "city": "Roxana",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62084",
-  "email": true
+  "ope": null
 }

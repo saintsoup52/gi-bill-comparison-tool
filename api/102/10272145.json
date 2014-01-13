@@ -1,6 +1,6 @@
 {
   "facility_code": "10272145",
-  "institution": "Morristown Police Department",
+  "institution": "MORRISTOWN POLICE DEPARTMENT",
   "city": "Morristown",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5661",
-  "email": false
+  "ope": null
 }

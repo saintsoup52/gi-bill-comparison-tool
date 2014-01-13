@@ -1,6 +1,6 @@
 {
   "facility_code": "11101775",
-  "institution": "University Of Manitoba",
+  "institution": "UNIVERSITY OF MANITOBA",
   "city": "Winnipeg",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

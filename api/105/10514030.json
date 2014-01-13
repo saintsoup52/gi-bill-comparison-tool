@@ -1,6 +1,6 @@
 {
   "facility_code": "10514030",
-  "institution": "Little Egg Harbor Police Department",
+  "institution": "LITTLE EGG HARBOR POLICE DEPARTMENT",
   "city": "Little Egg Harbor",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8087",
-  "email": false
+  "ope": null
 }

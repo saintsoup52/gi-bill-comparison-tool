@@ -1,6 +1,6 @@
 {
   "facility_code": "31903224",
-  "institution": "Embry-Riddle Aero Univ - Columbus",
+  "institution": "EMBRY-RIDDLE AERO UNIV - COLUMBUS",
   "city": "Columbus Afb",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39170",
-  "email": false
+  "ope": null
 }

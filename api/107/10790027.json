@@ -1,6 +1,6 @@
 {
   "facility_code": "10790027",
-  "institution": "Us Army Corps Of Engineers",
+  "institution": "US ARMY CORPS OF ENGINEERS",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68102",
-  "email": false
+  "ope": null
 }

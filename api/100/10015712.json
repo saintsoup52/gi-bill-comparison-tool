@@ -1,6 +1,6 @@
 {
   "facility_code": "10015712",
-  "institution": "Id Dept. Of Juvenile Corrections - Boise",
+  "institution": "ID DEPT. OF JUVENILE CORRECTIONS - BOISE",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83720",
-  "email": true
+  "ope": null
 }

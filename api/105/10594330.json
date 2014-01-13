@@ -1,6 +1,6 @@
 {
   "facility_code": "10594330",
-  "institution": "Woodland Park Police Department",
+  "institution": "WOODLAND PARK POLICE DEPARTMENT",
   "city": "Woodland Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7424",
-  "email": false
+  "ope": null
 }

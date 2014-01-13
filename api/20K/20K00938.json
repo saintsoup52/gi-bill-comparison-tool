@@ -1,6 +1,6 @@
 {
   "facility_code": "20K00938",
-  "institution": "Worden-Shewell",
+  "institution": "WORDEN-SHEWELL",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17403",
-  "email": true
+  "ope": null
 }

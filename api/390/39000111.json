@@ -1,6 +1,6 @@
 {
   "facility_code": "39000111",
-  "institution": "Shepherd Center [Chapter 31 Only]",
+  "institution": "SHEPHERD CENTER [CHAPTER 31 ONLY]",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30309",
-  "email": "No (SCO)"
+  "ope": null
 }

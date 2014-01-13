@@ -1,6 +1,6 @@
 {
   "facility_code": "102B4605",
-  "institution": "Santa Barbara County Sheriff'S Department",
+  "institution": "SANTA BARBARA COUNTY SHERIFF'S DEPARTMENT",
   "city": "Santa Barbara",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93160",
-  "email": true
+  "ope": null
 }

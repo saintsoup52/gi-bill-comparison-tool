@@ -1,6 +1,6 @@
 {
   "facility_code": "10026463",
-  "institution": "Va Outpatient Clinic Ponce",
+  "institution": "VA OUTPATIENT CLINIC PONCE",
   "city": "Ponce",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "716",
-  "email": false
+  "ope": null
 }

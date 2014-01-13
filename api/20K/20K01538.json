@@ -1,6 +1,6 @@
 {
   "facility_code": "20K01538",
-  "institution": "Office Service Company",
+  "institution": "OFFICE SERVICE COMPANY",
   "city": "Reading",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19605",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10414947",
-  "institution": "Federal Aviation Administration (Ch31)",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (CH31)",
   "city": "Renton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98055",
-  "email": false
+  "ope": null
 }

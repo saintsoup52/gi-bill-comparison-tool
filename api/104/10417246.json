@@ -1,6 +1,6 @@
 {
   "facility_code": "10417246",
-  "institution": "Fbi Police East Station",
+  "institution": "FBI POLICE EAST STATION",
   "city": "Quantico",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22135",
-  "email": true
+  "ope": null
 }

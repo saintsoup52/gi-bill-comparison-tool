@@ -1,6 +1,6 @@
 {
   "facility_code": "10409847",
-  "institution": "Kennewick Police Department",
+  "institution": "KENNEWICK POLICE DEPARTMENT",
   "city": "Kennewick",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99336",
-  "email": true
+  "ope": null
 }

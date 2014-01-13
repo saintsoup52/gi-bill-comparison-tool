@@ -1,6 +1,6 @@
 {
   "facility_code": "25801332",
-  "institution": "New Horizons Clc Of Ny",
+  "institution": "NEW HORIZONS CLC OF NY",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10017",
-  "email": true
+  "ope": null
 }

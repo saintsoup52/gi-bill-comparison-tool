@@ -1,6 +1,6 @@
 {
   "facility_code": "11505001",
-  "institution": "Jacksonville State University",
+  "institution": "JACKSONVILLE STATE UNIVERSITY",
   "city": "Jacksonville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36265",
-  "email": true
+  "ope": "00102000"
 }

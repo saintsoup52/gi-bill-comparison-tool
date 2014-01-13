@@ -1,6 +1,6 @@
 {
   "facility_code": "10417546",
-  "institution": "Lynchburg Police Department",
+  "institution": "LYNCHBURG POLICE DEPARTMENT",
   "city": "Lynchburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24504",
-  "email": true
+  "ope": null
 }

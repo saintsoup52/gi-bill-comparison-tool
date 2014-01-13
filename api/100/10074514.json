@@ -1,6 +1,6 @@
 {
   "facility_code": "10074514",
-  "institution": "Indiana Department Of Veterans Affairs",
+  "institution": "INDIANA DEPARTMENT OF VETERANS AFFAIRS",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46204",
-  "email": false
+  "ope": null
 }

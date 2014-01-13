@@ -1,6 +1,6 @@
 {
   "facility_code": "10563413",
-  "institution": "Decatur Fire Department",
+  "institution": "DECATUR FIRE DEPARTMENT",
   "city": "Decatur",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62526",
-  "email": false
+  "ope": null
 }

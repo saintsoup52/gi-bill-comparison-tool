@@ -1,6 +1,6 @@
 {
   "facility_code": "10004137",
-  "institution": "Bend Police Department",
+  "institution": "BEND POLICE DEPARTMENT",
   "city": "Bend",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97701",
-  "email": true
+  "ope": null
 }

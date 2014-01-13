@@ -1,6 +1,6 @@
 {
   "facility_code": "10489017",
-  "institution": "Logan County Sheriff Department",
+  "institution": "LOGAN COUNTY SHERIFF DEPARTMENT",
   "city": "Russellville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42276",
-  "email": false
+  "ope": null
 }

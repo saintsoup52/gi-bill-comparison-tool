@@ -1,6 +1,6 @@
 {
   "facility_code": "10111464",
-  "institution": "Faa Honolulu Control Facility",
+  "institution": "FAA HONOLULU CONTROL FACILITY",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96720",
-  "email": true
+  "ope": null
 }

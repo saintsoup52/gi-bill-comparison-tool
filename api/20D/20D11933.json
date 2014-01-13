@@ -1,6 +1,6 @@
 {
   "facility_code": "20D11933",
-  "institution": "Unc Wilmington University Police Department",
+  "institution": "UNC WILMINGTON UNIVERSITY POLICE DEPARTMENT",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28403",
-  "email": true
+  "ope": null
 }

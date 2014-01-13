@@ -1,6 +1,6 @@
 {
   "facility_code": "20475215",
-  "institution": "University Of Iowa Police Department",
+  "institution": "UNIVERSITY OF IOWA POLICE DEPARTMENT",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52242",
-  "email": true
+  "ope": null
 }

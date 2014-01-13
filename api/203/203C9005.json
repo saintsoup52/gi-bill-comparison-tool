@@ -1,6 +1,6 @@
 {
   "facility_code": "203C9005",
-  "institution": "Southern California Edison (Big Creek)",
+  "institution": "SOUTHERN CALIFORNIA EDISON (BIG CREEK)",
   "city": "Big Creek",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93605",
-  "email": false
+  "ope": null
 }

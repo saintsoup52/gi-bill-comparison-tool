@@ -1,6 +1,6 @@
 {
   "facility_code": "10550107",
-  "institution": "Va Medical Center West Haven",
+  "institution": "VA MEDICAL CENTER WEST HAVEN",
   "city": "West Haven",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6516",
-  "email": false
+  "ope": null
 }

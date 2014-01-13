@@ -1,6 +1,6 @@
 {
   "facility_code": "10166827",
-  "institution": "Federal Aviation Admin (Faa) - Omaha Epley Airport",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) - OMAHA EPLEY AIRPORT",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68110",
-  "email": false
+  "ope": null
 }

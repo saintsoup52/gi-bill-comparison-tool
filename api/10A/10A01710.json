@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01710",
-  "institution": "Orange County Fire Rescue Communications Center",
+  "institution": "ORANGE COUNTY FIRE RESCUE COMMUNICATIONS CENTER",
   "city": "Winter Park",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32793",
-  "email": false
+  "ope": null
 }

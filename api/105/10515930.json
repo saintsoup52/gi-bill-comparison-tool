@@ -1,6 +1,6 @@
 {
   "facility_code": "10515930",
-  "institution": "Milltown Police Department",
+  "institution": "MILLTOWN POLICE DEPARTMENT",
   "city": "Milltown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8850",
-  "email": false
+  "ope": null
 }

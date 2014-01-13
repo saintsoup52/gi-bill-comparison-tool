@@ -1,6 +1,6 @@
 {
   "facility_code": "20005711",
-  "institution": "Currey & Company",
+  "institution": "CURREY & COMPANY",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30340",
-  "email": false
+  "ope": null
 }

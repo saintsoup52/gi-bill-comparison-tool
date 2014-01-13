@@ -1,6 +1,6 @@
 {
   "facility_code": "10549130",
-  "institution": "Deptford Township Police Department",
+  "institution": "DEPTFORD TOWNSHIP POLICE DEPARTMENT",
   "city": "Deptford",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8096",
-  "email": true
+  "ope": null
 }

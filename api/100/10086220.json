@@ -1,6 +1,6 @@
 {
   "facility_code": "10086220",
-  "institution": "Montgomery County Government Dept Of Police",
+  "institution": "MONTGOMERY COUNTY GOVERNMENT DEPT OF POLICE",
   "city": "Rockville",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20850",
-  "email": "No (SCO)"
+  "ope": null
 }

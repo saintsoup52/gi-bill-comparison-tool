@@ -1,6 +1,6 @@
 {
   "facility_code": "25139405",
-  "institution": "Contractors State License Center (Chapter 31)",
+  "institution": "CONTRACTORS STATE LICENSE CENTER (CHAPTER 31)",
   "city": "Burbank",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91506",
-  "email": false
+  "ope": null
 }

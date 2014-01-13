@@ -1,6 +1,6 @@
 {
   "facility_code": "10055311",
-  "institution": "City Of Savannah - Water Quality Control",
+  "institution": "CITY OF SAVANNAH - WATER QUALITY CONTROL",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31404",
-  "email": false
+  "ope": null
 }

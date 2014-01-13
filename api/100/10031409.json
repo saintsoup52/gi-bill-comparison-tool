@@ -1,6 +1,6 @@
 {
   "facility_code": "10031409",
-  "institution": "Pretrial Services Agency For The District Of Columbia",
+  "institution": "PRETRIAL SERVICES AGENCY FOR THE DISTRICT OF COLUMBIA",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20004",
-  "email": false
+  "ope": null
 }

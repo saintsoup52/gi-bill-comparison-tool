@@ -1,6 +1,6 @@
 {
   "facility_code": "10D22349",
-  "institution": "Wisconsin Dwd/Dws ()Ob Center-Hayward)",
+  "institution": "WISCONSIN DWD/DWS ()OB CENTER-HAYWARD)",
   "city": "Hayward",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54843",
-  "email": false
+  "ope": null
 }

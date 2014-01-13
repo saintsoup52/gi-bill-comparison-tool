@@ -1,6 +1,6 @@
 {
   "facility_code": "30W89705",
-  "institution": "So Calif/Los Angeles Cty Painters & Decorators Jac",
+  "institution": "SO CALIF/LOS ANGELES CTY PAINTERS & DECORATORS JAC",
   "city": "City Of Commerce",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90040",
-  "email": false
+  "ope": null
 }

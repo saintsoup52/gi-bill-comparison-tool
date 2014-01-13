@@ -1,6 +1,6 @@
 {
   "facility_code": "10064511",
-  "institution": "City Of Fairburn Fire Department",
+  "institution": "CITY OF FAIRBURN FIRE DEPARTMENT",
   "city": "Fairburn",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30213",
-  "email": true
+  "ope": null
 }

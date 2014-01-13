@@ -1,6 +1,6 @@
 {
   "facility_code": "10P05005",
-  "institution": "State Of California Employment Dev Dept",
+  "institution": "STATE OF CALIFORNIA EMPLOYMENT DEV DEPT",
   "city": "Capitola",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95010",
-  "email": false
+  "ope": null
 }

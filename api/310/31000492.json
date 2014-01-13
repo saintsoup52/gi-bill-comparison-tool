@@ -1,6 +1,6 @@
 {
   "facility_code": "31000492",
-  "institution": "Universidad De Lima",
+  "institution": "UNIVERSIDAD DE LIMA",
   "city": "Lima",
   "state": "Peru",
   "country": "Peru",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

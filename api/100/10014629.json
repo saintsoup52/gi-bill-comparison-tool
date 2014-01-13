@@ -1,6 +1,6 @@
 {
   "facility_code": "10014629",
-  "institution": "Dover Police Dept",
+  "institution": "DOVER POLICE DEPT",
   "city": "Dover",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3820",
-  "email": false
+  "ope": null
 }

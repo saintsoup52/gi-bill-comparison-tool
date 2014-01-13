@@ -1,6 +1,6 @@
 {
   "facility_code": "19033409",
-  "institution": "Irs - Cfo Cpic",
+  "institution": "IRS - CFO CPIC",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20002",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31156876",
-  "institution": "Universidad Iberoamericana",
+  "institution": "UNIVERSIDAD IBEROAMERICANA",
   "city": "Santo Domingo",
   "state": "Dominican Republic",
   "country": "Dominican Republic",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10595013",
-  "institution": "Illinois State Police District #9",
+  "institution": "ILLINOIS STATE POLICE DISTRICT #9",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62712",
-  "email": false
+  "ope": null
 }

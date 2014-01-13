@@ -1,6 +1,6 @@
 {
   "facility_code": "30010920",
-  "institution": "Baltimore Bricklayers Jatc",
+  "institution": "BALTIMORE BRICKLAYERS JATC",
   "city": "Towson",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21204",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10021949",
-  "institution": "Usda-Farm Service Agency",
+  "institution": "USDA-FARM SERVICE AGENCY",
   "city": "Fond Du Lac",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54935",
-  "email": false
+  "ope": null
 }

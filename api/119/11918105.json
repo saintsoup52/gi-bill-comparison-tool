@@ -1,6 +1,6 @@
 {
   "facility_code": "11918105",
-  "institution": "California State University-Northridge",
+  "institution": "CALIFORNIA STATE UNIVERSITY-NORTHRIDGE",
   "city": "Northridge",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "91330",
-  "email": false
+  "ope": "00115300"
 }

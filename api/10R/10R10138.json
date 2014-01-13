@@ -1,6 +1,6 @@
 {
   "facility_code": "10R10138",
-  "institution": "Universtiy Of Pittsburgh Office Of Veterans Services",
+  "institution": "UNIVERSTIY OF PITTSBURGH OFFICE OF VETERANS SERVICES",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15260",
-  "email": true
+  "ope": null
 }

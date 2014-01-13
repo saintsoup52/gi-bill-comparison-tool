@@ -1,6 +1,6 @@
 {
   "facility_code": "31901038",
-  "institution": "University Health Center Of Pittsburgh",
+  "institution": "UNIVERSITY HEALTH CENTER OF PITTSBURGH",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15213",
-  "email": true
+  "ope": "02169800"
 }

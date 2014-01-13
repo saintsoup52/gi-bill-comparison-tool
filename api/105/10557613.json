@@ -1,6 +1,6 @@
 {
   "facility_code": "10557613",
-  "institution": "East St Louis Veterans Center",
+  "institution": "EAST ST LOUIS VETERANS CENTER",
   "city": "East St. Louis",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62203",
-  "email": false
+  "ope": null
 }

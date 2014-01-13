@@ -1,6 +1,6 @@
 {
   "facility_code": "10701325",
-  "institution": "Missouri Army National Guard-Fms#8",
+  "institution": "MISSOURI ARMY NATIONAL GUARD-FMS#8",
   "city": "Mexico",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65265",
-  "email": false
+  "ope": null
 }

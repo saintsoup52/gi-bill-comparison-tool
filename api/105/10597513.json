@@ -1,6 +1,6 @@
 {
   "facility_code": "10597513",
-  "institution": "Shelby County Sheriff Office",
+  "institution": "SHELBY COUNTY SHERIFF OFFICE",
   "city": "Shelbyville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62565",
-  "email": true
+  "ope": null
 }

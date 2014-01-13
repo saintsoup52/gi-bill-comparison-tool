@@ -1,6 +1,6 @@
 {
   "facility_code": "31111579",
-  "institution": "Universite Rennes 2 - Haute-Bretagne",
+  "institution": "UNIVERSITE RENNES 2 - HAUTE-BRETAGNE",
   "city": "Cs 24307",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

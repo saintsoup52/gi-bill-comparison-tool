@@ -1,6 +1,6 @@
 {
   "facility_code": "10B33323",
-  "institution": "Faa St Paul Downtown Airport",
+  "institution": "FAA ST PAUL DOWNTOWN AIRPORT",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55107",
-  "email": false
+  "ope": null
 }

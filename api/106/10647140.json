@@ -1,6 +1,6 @@
 {
   "facility_code": "10647140",
-  "institution": "Williston Police Department",
+  "institution": "WILLISTON POLICE DEPARTMENT",
   "city": "Williston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29853",
-  "email": false
+  "ope": null
 }

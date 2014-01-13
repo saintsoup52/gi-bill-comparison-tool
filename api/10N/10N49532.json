@@ -1,6 +1,6 @@
 {
   "facility_code": "10N49532",
-  "institution": "Village Of Depew Police Department",
+  "institution": "VILLAGE OF DEPEW POLICE DEPARTMENT",
   "city": "Depew",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14043",
-  "email": true
+  "ope": null
 }

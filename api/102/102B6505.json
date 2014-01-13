@@ -1,6 +1,6 @@
 {
   "facility_code": "102B6505",
-  "institution": "Faa- Stockton Air Traffic Control Tower",
+  "institution": "FAA- STOCKTON AIR TRAFFIC CONTROL TOWER",
   "city": "Stockton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95206",
-  "email": false
+  "ope": null
 }

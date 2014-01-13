@@ -1,6 +1,6 @@
 {
   "facility_code": "10458815",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50310",
-  "email": false
+  "ope": null
 }

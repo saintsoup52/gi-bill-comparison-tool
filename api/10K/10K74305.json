@@ -1,6 +1,6 @@
 {
   "facility_code": "10K74305",
-  "institution": "Santa Cruz County Sheriff'S Office",
+  "institution": "SANTA CRUZ COUNTY SHERIFF'S OFFICE",
   "city": "Santa Cruz",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95060",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10752811",
-  "institution": "Buchanan Police Department",
+  "institution": "BUCHANAN POLICE DEPARTMENT",
   "city": "Buchanan",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30113",
-  "email": false
+  "ope": null
 }

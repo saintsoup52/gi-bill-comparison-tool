@@ -1,6 +1,6 @@
 {
   "facility_code": "20834421",
-  "institution": "Boston Red Sox",
+  "institution": "BOSTON RED SOX",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2215",
-  "email": false
+  "ope": null
 }

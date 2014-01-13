@@ -1,6 +1,6 @@
 {
   "facility_code": "20071840",
-  "institution": "Myrtle Beach Police Dept",
+  "institution": "MYRTLE BEACH POLICE DEPT",
   "city": "Myrtle Beach",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29577",
-  "email": false
+  "ope": null
 }

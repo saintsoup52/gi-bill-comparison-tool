@@ -1,6 +1,6 @@
 {
   "facility_code": "25004602",
-  "institution": "Ced Solutions Llc",
+  "institution": "CED SOLUTIONS LLC",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": false
+  "ope": null
 }

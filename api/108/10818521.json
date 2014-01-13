@@ -1,6 +1,6 @@
 {
   "facility_code": "10818521",
-  "institution": "Fall River Fire Department",
+  "institution": "FALL RIVER FIRE DEPARTMENT",
   "city": "Fall River",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2720",
-  "email": true
+  "ope": null
 }

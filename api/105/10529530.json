@@ -1,6 +1,6 @@
 {
   "facility_code": "10529530",
-  "institution": "Summit Police Department",
+  "institution": "SUMMIT POLICE DEPARTMENT",
   "city": "Summit",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7901",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30008909",
-  "institution": "Chesapeake And Potomac Telephone Co",
+  "institution": "CHESAPEAKE AND POTOMAC TELEPHONE CO",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20005",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11806020",
-  "institution": "Drexel University (Apg)",
+  "institution": "DREXEL UNIVERSITY (APG)",
   "city": "Aberdeen Proving Ground",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21010",
-  "email": false
+  "ope": "00325600"
 }

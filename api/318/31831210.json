@@ -1,6 +1,6 @@
 {
   "facility_code": "31831210",
-  "institution": "Universidad Del Este-Miramar",
+  "institution": "UNIVERSIDAD DEL ESTE-MIRAMAR",
   "city": "Miramar",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "33025",
-  "email": true
+  "ope": "00394100"
 }

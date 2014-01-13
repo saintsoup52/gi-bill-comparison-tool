@@ -1,6 +1,6 @@
 {
   "facility_code": "11100684",
-  "institution": "Universit Degli Studi Roma Tre",
+  "institution": "UNIVERSIT DEGLI STUDI ROMA TRE",
   "city": "Rome",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20060711",
-  "institution": "Georgia Corrections Industries Food Dist Unit",
+  "institution": "GEORGIA CORRECTIONS INDUSTRIES FOOD DIST UNIT",
   "city": "Milledgeville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31059",
-  "email": true
+  "ope": null
 }

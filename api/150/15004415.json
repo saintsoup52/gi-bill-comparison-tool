@@ -1,6 +1,6 @@
 {
   "facility_code": "15004415",
-  "institution": "Colo-Nesco High School",
+  "institution": "COLO-NESCO HIGH SCHOOL",
   "city": "Colo",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50056",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11632",
-  "institution": "Sullivan Correctional Facility",
+  "institution": "SULLIVAN CORRECTIONAL FACILITY",
   "city": "Fallsburg",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12733",
-  "email": false
+  "ope": null
 }

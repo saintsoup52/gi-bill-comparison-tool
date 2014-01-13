@@ -1,6 +1,6 @@
 {
   "facility_code": "20051625",
-  "institution": "Central Electric Company",
+  "institution": "CENTRAL ELECTRIC COMPANY",
   "city": "Fulton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65251",
-  "email": false
+  "ope": null
 }

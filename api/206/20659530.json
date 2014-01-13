@@ -1,6 +1,6 @@
 {
   "facility_code": "20659530",
-  "institution": "Gavan-Graham",
+  "institution": "GAVAN-GRAHAM",
   "city": "Union",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7083",
-  "email": false
+  "ope": null
 }

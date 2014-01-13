@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09610",
-  "institution": "Federal Aviation Admin (Faa) Tampa System Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TAMPA SYSTEM SUPPORT CENTER",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33607",
-  "email": true
+  "ope": null
 }

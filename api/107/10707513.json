@@ -1,6 +1,6 @@
 {
   "facility_code": "10707513",
-  "institution": "North Chicago Fire Department",
+  "institution": "NORTH CHICAGO FIRE DEPARTMENT",
   "city": "North Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60064",
-  "email": true
+  "ope": null
 }

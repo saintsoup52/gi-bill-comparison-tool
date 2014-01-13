@@ -1,6 +1,6 @@
 {
   "facility_code": "25080221",
-  "institution": "Institute For Emergency Medical Education",
+  "institution": "INSTITUTE FOR EMERGENCY MEDICAL EDUCATION",
   "city": "Bourne",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2532",
-  "email": false
+  "ope": null
 }

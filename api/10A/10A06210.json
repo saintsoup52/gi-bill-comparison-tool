@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06210",
-  "institution": "Va Joint Ambulatory Care Clinic",
+  "institution": "VA JOINT AMBULATORY CARE CLINIC",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32507",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "26000129",
-  "institution": "New York Life",
+  "institution": "NEW YORK LIFE",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3101",
-  "email": false
+  "ope": null
 }

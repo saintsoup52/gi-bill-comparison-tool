@@ -1,6 +1,6 @@
 {
   "facility_code": "32901108",
-  "institution": "Christiana Care Health System (Wilmington)",
+  "institution": "CHRISTIANA CARE HEALTH SYSTEM (WILMINGTON)",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19801",
-  "email": false
+  "ope": null
 }

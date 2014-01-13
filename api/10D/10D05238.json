@@ -1,6 +1,6 @@
 {
   "facility_code": "10D05238",
-  "institution": "Allentown Tower",
+  "institution": "ALLENTOWN TOWER",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18109",
-  "email": true
+  "ope": null
 }

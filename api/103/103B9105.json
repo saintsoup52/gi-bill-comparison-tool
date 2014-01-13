@@ -1,6 +1,6 @@
 {
   "facility_code": "103B9105",
-  "institution": "Social Security Administration (Morongo Basin)(Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (MORONGO BASIN)(CH31 ONLY)",
   "city": "Yucca Valley",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92284",
-  "email": false
+  "ope": null
 }

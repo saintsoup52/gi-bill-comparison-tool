@@ -1,6 +1,6 @@
 {
   "facility_code": "11800219",
-  "institution": "University Of Southern Maine",
+  "institution": "UNIVERSITY OF SOUTHERN MAINE",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4104",
-  "email": true
+  "ope": "00205400"
 }

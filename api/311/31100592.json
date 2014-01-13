@@ -1,6 +1,6 @@
 {
   "facility_code": "31100592",
-  "institution": "Universidad San Francisco De Quito",
+  "institution": "UNIVERSIDAD SAN FRANCISCO DE QUITO",
   "city": "Quito",
   "state": "Ecuador",
   "country": "Ecuador",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

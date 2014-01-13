@@ -1,6 +1,6 @@
 {
   "facility_code": "10010933",
-  "institution": "Wake County Sheriff'S Office",
+  "institution": "WAKE COUNTY SHERIFF'S OFFICE",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27602",
-  "email": true
+  "ope": null
 }

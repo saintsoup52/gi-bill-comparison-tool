@@ -1,6 +1,6 @@
 {
   "facility_code": "35552232",
-  "institution": "New York Military Academy",
+  "institution": "NEW YORK MILITARY ACADEMY",
   "city": "Cornwall-On-Hudson",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12520",
-  "email": false
+  "ope": null
 }

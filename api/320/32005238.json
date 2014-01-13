@@ -1,6 +1,6 @@
 {
   "facility_code": "32005238",
-  "institution": "Delaware Valley Hospital",
+  "institution": "DELAWARE VALLEY HOSPITAL",
   "city": "Langhorne",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19047",
-  "email": false
+  "ope": null
 }

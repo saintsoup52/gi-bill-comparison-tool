@@ -1,6 +1,6 @@
 {
   "facility_code": "10N25032",
-  "institution": "New York City Police Dept. - 63rd Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 63RD PRECINCT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11210",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20022011",
-  "institution": "Medical Center Of Central Georgia-Police Department",
+  "institution": "MEDICAL CENTER OF CENTRAL GEORGIA-POLICE DEPARTMENT",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31201",
-  "email": false
+  "ope": null
 }

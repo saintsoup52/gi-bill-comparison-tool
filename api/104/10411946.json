@@ -1,6 +1,6 @@
 {
   "facility_code": "10411946",
-  "institution": "Bland Correctional Ctr",
+  "institution": "BLAND CORRECTIONAL CTR",
   "city": "Bland",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24315",
-  "email": true
+  "ope": null
 }

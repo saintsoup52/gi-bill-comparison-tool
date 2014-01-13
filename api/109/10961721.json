@@ -1,6 +1,6 @@
 {
   "facility_code": "10961721",
-  "institution": "Gloucester Police Department",
+  "institution": "GLOUCESTER POLICE DEPARTMENT",
   "city": "Gloucester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2150",
-  "email": true
+  "ope": null
 }

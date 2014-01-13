@@ -1,6 +1,6 @@
 {
   "facility_code": "10441547",
-  "institution": "Bellingham Fire Department",
+  "institution": "BELLINGHAM FIRE DEPARTMENT",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98225",
-  "email": true
+  "ope": null
 }

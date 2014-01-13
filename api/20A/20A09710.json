@@ -1,6 +1,6 @@
 {
   "facility_code": "20A09710",
-  "institution": "Tpc Sawgrass",
+  "institution": "TPC SAWGRASS",
   "city": "Ponte Vedra Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32082",
-  "email": true
+  "ope": null
 }

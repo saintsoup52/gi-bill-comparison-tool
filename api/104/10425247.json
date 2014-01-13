@@ -1,6 +1,6 @@
 {
   "facility_code": "10425247",
-  "institution": "Puget Sound Naval Shipyard & Inter. Maint. Facility",
+  "institution": "PUGET SOUND NAVAL SHIPYARD & INTER. MAINT. FACILITY",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98314",
-  "email": true
+  "ope": null
 }

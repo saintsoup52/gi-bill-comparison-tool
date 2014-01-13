@@ -1,6 +1,6 @@
 {
   "facility_code": "10570830",
-  "institution": "Egg Harbor City Police Department",
+  "institution": "EGG HARBOR CITY POLICE DEPARTMENT",
   "city": "Egg Harbor City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8215",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10581213",
-  "institution": "Elgin Police Department",
+  "institution": "ELGIN POLICE DEPARTMENT",
   "city": "Elgin",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60120",
-  "email": false
+  "ope": null
 }

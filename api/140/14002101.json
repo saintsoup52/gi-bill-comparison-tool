@@ -1,6 +1,6 @@
 {
   "facility_code": "14002101",
-  "institution": "Northeast Alabama C.C.",
+  "institution": "NORTHEAST ALABAMA C.C.",
   "city": "Rainsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "35986",
-  "email": true
+  "ope": "00103100"
 }

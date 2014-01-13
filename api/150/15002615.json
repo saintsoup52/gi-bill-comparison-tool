@@ -1,6 +1,6 @@
 {
   "facility_code": "15002615",
-  "institution": "West High School",
+  "institution": "WEST HIGH SCHOOL",
   "city": "Sioux City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "51103",
-  "email": false
+  "ope": null
 }

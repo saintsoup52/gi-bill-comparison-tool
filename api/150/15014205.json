@@ -1,6 +1,6 @@
 {
   "facility_code": "15014205",
-  "institution": "Quickstart (Ch 31 Only)",
+  "institution": "QUICKSTART (CH 31 ONLY)",
   "city": "Irvine",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92606",
-  "email": false
+  "ope": null
 }

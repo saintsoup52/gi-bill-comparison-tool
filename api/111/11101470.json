@@ -1,6 +1,6 @@
 {
   "facility_code": "11101470",
-  "institution": "Monash University",
+  "institution": "MONASH UNIVERSITY",
   "city": "Clayton",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

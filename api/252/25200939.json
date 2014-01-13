@@ -1,6 +1,6 @@
 {
   "facility_code": "25200939",
-  "institution": "Fab Academy",
+  "institution": "FAB ACADEMY",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2906",
-  "email": true
+  "ope": null
 }

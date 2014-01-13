@@ -1,6 +1,6 @@
 {
   "facility_code": "10202938",
-  "institution": "Lancaster City Bureau Of Fire",
+  "institution": "LANCASTER CITY BUREAU OF FIRE",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17603",
-  "email": true
+  "ope": null
 }

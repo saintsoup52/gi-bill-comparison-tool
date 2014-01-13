@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95006",
-  "institution": "Dhs U.S. Immigration & Customs Enforcement (Ice) Office Of Investigations (Oi)",
+  "institution": "DHS U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE) OFFICE OF INVESTIGATIONS (OI)",
   "city": "Englewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80111",
-  "email": true
+  "ope": null
 }

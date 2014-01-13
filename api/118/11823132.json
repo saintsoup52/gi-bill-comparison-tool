@@ -1,6 +1,6 @@
 {
   "facility_code": "11823132",
-  "institution": "Medgar Evers College",
+  "institution": "MEDGAR EVERS COLLEGE",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "11225",
-  "email": true
+  "ope": "01009700"
 }

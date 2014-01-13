@@ -1,6 +1,6 @@
 {
   "facility_code": "10018833",
-  "institution": "Ncdoc - Caldwell Correctional Center",
+  "institution": "NCDOC - CALDWELL CORRECTIONAL CENTER",
   "city": "Lenoir",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28645",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10019203",
-  "institution": "City Of Phoenix Police Dept",
+  "institution": "CITY OF PHOENIX POLICE DEPT",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85003",
-  "email": true
+  "ope": null
 }

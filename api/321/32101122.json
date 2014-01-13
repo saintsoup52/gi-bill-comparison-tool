@@ -1,6 +1,6 @@
 {
   "facility_code": "32101122",
-  "institution": "Henry Ford Macomb Hospital - Warren Campus",
+  "institution": "HENRY FORD MACOMB HOSPITAL - WARREN CAMPUS",
   "city": "Warren",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48089",
-  "email": true
+  "ope": null
 }

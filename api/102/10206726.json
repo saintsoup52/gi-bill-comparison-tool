@@ -1,6 +1,6 @@
 {
   "facility_code": "10206726",
-  "institution": "Dept Of Health & Human Services",
+  "institution": "DEPT OF HEALTH & HUMAN SERVICES",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59620",
-  "email": false
+  "ope": null
 }

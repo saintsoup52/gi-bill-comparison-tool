@@ -1,6 +1,6 @@
 {
   "facility_code": "10700525",
-  "institution": "Fredericktown Police Department",
+  "institution": "FREDERICKTOWN POLICE DEPARTMENT",
   "city": "Fredericktown",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63645",
-  "email": false
+  "ope": null
 }

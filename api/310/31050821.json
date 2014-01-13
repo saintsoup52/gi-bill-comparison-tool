@@ -1,6 +1,6 @@
 {
   "facility_code": "31050821",
-  "institution": "Mgh Institute Of Health Professions",
+  "institution": "MGH INSTITUTE OF HEALTH PROFESSIONS",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2129",
-  "email": true
+  "ope": "02231600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20287347",
-  "institution": "Southland Corporation",
+  "institution": "SOUTHLAND CORPORATION",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98188",
-  "email": false
+  "ope": null
 }

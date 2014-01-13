@@ -1,6 +1,6 @@
 {
   "facility_code": "10B90835",
-  "institution": "Wright Patterson Air Force Base (Ch 31)",
+  "institution": "WRIGHT PATTERSON AIR FORCE BASE (CH 31)",
   "city": "Wpafb",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45433",
-  "email": "No (SCO)"
+  "ope": null
 }

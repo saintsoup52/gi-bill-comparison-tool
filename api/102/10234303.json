@@ -1,6 +1,6 @@
 {
   "facility_code": "10234303",
-  "institution": "Northwest Fire District",
+  "institution": "NORTHWEST FIRE DISTRICT",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85743",
-  "email": false
+  "ope": null
 }

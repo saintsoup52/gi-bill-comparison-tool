@@ -1,6 +1,6 @@
 {
   "facility_code": "10008812",
-  "institution": "City Of Orofino",
+  "institution": "CITY OF OROFINO",
   "city": "Orofino",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83544",
-  "email": false
+  "ope": null
 }

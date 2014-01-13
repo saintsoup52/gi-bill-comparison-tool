@@ -1,6 +1,6 @@
 {
   "facility_code": "10227503",
-  "institution": "Federal Correctional Complex - Tucson",
+  "institution": "FEDERAL CORRECTIONAL COMPLEX - TUCSON",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85706",
-  "email": true
+  "ope": null
 }

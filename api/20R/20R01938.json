@@ -1,6 +1,6 @@
 {
   "facility_code": "20R01938",
-  "institution": "Fenoc Beaver Valley Power Station",
+  "institution": "FENOC BEAVER VALLEY POWER STATION",
   "city": "Shippingport, Pa",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15077",
-  "email": true
+  "ope": null
 }

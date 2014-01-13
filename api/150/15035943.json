@@ -1,6 +1,6 @@
 {
   "facility_code": "15035943",
-  "institution": "El Paso Police Training Academy",
+  "institution": "EL PASO POLICE TRAINING ACADEMY",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79930",
-  "email": false
+  "ope": null
 }

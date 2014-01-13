@@ -1,6 +1,6 @@
 {
   "facility_code": "10B62335",
-  "institution": "Olmsted Falls Police Department (G)",
+  "institution": "OLMSTED FALLS POLICE DEPARTMENT (G)",
   "city": "Olmsted Falls",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44138",
-  "email": false
+  "ope": null
 }

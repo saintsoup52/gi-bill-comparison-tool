@@ -1,6 +1,6 @@
 {
   "facility_code": "20W59338",
-  "institution": "Bridges",
+  "institution": "BRIDGES",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15233",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11300169",
-  "institution": "East China University Of Science And Technology",
+  "institution": "EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
   "city": "Shanghai",
   "state": "China",
   "country": "China",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

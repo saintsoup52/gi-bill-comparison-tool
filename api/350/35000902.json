@@ -1,6 +1,6 @@
 {
   "facility_code": "35000902",
-  "institution": "Alaska Vocational Institute - Serrc",
+  "institution": "ALASKA VOCATIONAL INSTITUTE - SERRC",
   "city": "Juneau",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99801",
-  "email": false
+  "ope": null
 }

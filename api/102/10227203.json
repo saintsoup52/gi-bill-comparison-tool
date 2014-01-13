@@ -1,6 +1,6 @@
 {
   "facility_code": "10227203",
-  "institution": "Maricopa Fire Department",
+  "institution": "MARICOPA FIRE DEPARTMENT",
   "city": "Maricopa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85239",
-  "email": false
+  "ope": null
 }

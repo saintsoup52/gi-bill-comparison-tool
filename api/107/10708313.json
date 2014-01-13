@@ -1,6 +1,6 @@
 {
   "facility_code": "10708313",
-  "institution": "Silvis Police Department",
+  "institution": "SILVIS POLICE DEPARTMENT",
   "city": "Silvis",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61282",
-  "email": true
+  "ope": null
 }

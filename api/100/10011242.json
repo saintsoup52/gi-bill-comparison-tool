@@ -1,6 +1,6 @@
 {
   "facility_code": "10011242",
-  "institution": "U.S. Department Of Veteran Affairs - Williams C Tallent Outpatient Clinic",
+  "institution": "U.S. DEPARTMENT OF VETERAN AFFAIRS - WILLIAMS C TALLENT OUTPATIENT CLINIC",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37919",
-  "email": false
+  "ope": null
 }

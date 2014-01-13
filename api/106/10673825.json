@@ -1,6 +1,6 @@
 {
   "facility_code": "10673825",
-  "institution": "Cameron Police Department",
+  "institution": "CAMERON POLICE DEPARTMENT",
   "city": "Cameron",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64429",
-  "email": false
+  "ope": null
 }

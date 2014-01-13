@@ -1,6 +1,6 @@
 {
   "facility_code": "19007114",
-  "institution": "Ihets - Chapter 31",
+  "institution": "IHETS - CHAPTER 31",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46202",
-  "email": false
+  "ope": null
 }

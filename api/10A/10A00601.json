@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00601",
-  "institution": "Alabama Department Of Public Safety Evergreen Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY EVERGREEN POST",
   "city": "Evergreen",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36401",
-  "email": false
+  "ope": null
 }

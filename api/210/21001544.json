@@ -1,6 +1,6 @@
 {
   "facility_code": "21001544",
-  "institution": "The Art Institute Of Salt Lake City",
+  "institution": "THE ART INSTITUTE OF SALT LAKE CITY",
   "city": "Draper",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "84020",
-  "email": true
+  "ope": "04051305"
 }

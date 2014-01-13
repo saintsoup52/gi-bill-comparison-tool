@@ -1,6 +1,6 @@
 {
   "facility_code": "10N30032",
-  "institution": "New York City Police Dept. - 108th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 108TH PRECINCT",
   "city": "Long Island City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11101",
-  "email": false
+  "ope": null
 }

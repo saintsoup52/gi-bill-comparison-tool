@@ -1,6 +1,6 @@
 {
   "facility_code": "102B9105",
-  "institution": "Humboldt County Sheriff'S Office",
+  "institution": "HUMBOLDT COUNTY SHERIFF'S OFFICE",
   "city": "Eureka",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95501",
-  "email": false
+  "ope": null
 }

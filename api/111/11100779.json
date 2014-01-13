@@ -1,6 +1,6 @@
 {
   "facility_code": "11100779",
-  "institution": "Universite Pantheon - Assas",
+  "institution": "UNIVERSITE PANTHEON - ASSAS",
   "city": "Paris",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

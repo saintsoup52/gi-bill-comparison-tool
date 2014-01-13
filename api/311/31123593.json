@@ -1,6 +1,6 @@
 {
   "facility_code": "31123593",
-  "institution": "Kungl Tekniska Hogskolan (Kth) (The Royal Institute Of Technology)",
+  "institution": "KUNGL TEKNISKA HOGSKOLAN (KTH) (THE ROYAL INSTITUTE OF TECHNOLOGY)",
   "city": "44 Stockholm",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

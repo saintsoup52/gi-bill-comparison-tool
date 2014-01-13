@@ -1,6 +1,6 @@
 {
   "facility_code": "31906120",
-  "institution": "Loyola University Maryland",
+  "institution": "LOYOLA UNIVERSITY MARYLAND",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21210",
-  "email": true
+  "ope": "00207800"
 }

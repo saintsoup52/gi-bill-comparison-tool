@@ -1,6 +1,6 @@
 {
   "facility_code": "20910126",
-  "institution": "Burlington Northern Santa Fe Railroad",
+  "institution": "BURLINGTON NORTHERN SANTA FE RAILROAD",
   "city": "Havre",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59501",
-  "email": false
+  "ope": null
 }

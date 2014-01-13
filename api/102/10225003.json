@@ -1,6 +1,6 @@
 {
   "facility_code": "10225003",
-  "institution": "University Of Arizona - Human Resources (Ch31)",
+  "institution": "UNIVERSITY OF ARIZONA - HUMAN RESOURCES (CH31)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85721",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20001026",
-  "institution": "Sheridan Electric Coop",
+  "institution": "SHERIDAN ELECTRIC COOP",
   "city": "Medicine Lake",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59247",
-  "email": true
+  "ope": null
 }

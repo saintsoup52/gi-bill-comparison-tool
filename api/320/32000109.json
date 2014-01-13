@@ -1,6 +1,6 @@
 {
   "facility_code": "32000109",
-  "institution": "Howard University Hospital",
+  "institution": "HOWARD UNIVERSITY HOSPITAL",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20060",
-  "email": false
+  "ope": null
 }

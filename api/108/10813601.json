@@ -1,6 +1,6 @@
 {
   "facility_code": "10813601",
-  "institution": "National Weather Service",
+  "institution": "NATIONAL WEATHER SERVICE",
   "city": "Brent",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35034",
-  "email": "No (SCO)"
+  "ope": null
 }

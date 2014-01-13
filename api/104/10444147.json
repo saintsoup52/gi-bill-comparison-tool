@@ -1,6 +1,6 @@
 {
   "facility_code": "10444147",
-  "institution": "Us Marshals Service - Seattle",
+  "institution": "US MARSHALS SERVICE - SEATTLE",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98101",
-  "email": true
+  "ope": null
 }

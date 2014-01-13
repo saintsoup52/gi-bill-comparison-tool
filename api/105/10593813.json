@@ -1,6 +1,6 @@
 {
   "facility_code": "10593813",
-  "institution": "Park Forest Fire Department",
+  "institution": "PARK FOREST FIRE DEPARTMENT",
   "city": "Park Forest",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60466",
-  "email": true
+  "ope": null
 }

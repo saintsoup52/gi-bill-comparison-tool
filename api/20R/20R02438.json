@@ -1,6 +1,6 @@
 {
   "facility_code": "20R02438",
-  "institution": "Bakerhughes",
+  "institution": "BAKERHUGHES",
   "city": "Morrisdale",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16858",
-  "email": false
+  "ope": null
 }

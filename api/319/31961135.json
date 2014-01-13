@@ -1,6 +1,6 @@
 {
   "facility_code": "31961135",
-  "institution": "Athenaeum Of Ohio",
+  "institution": "ATHENAEUM OF OHIO",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45230",
-  "email": true
+  "ope": "00301300"
 }

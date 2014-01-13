@@ -1,6 +1,6 @@
 {
   "facility_code": "10C19443",
-  "institution": "Faa Waco Regional Act",
+  "institution": "FAA WACO REGIONAL ACT",
   "city": "Waco",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76708",
-  "email": true
+  "ope": null
 }

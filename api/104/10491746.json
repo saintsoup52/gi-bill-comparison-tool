@@ -1,6 +1,6 @@
 {
   "facility_code": "10491746",
-  "institution": "Fairfax County Fire & Rescue Dept",
+  "institution": "FAIRFAX COUNTY FIRE & RESCUE DEPT",
   "city": "Fairfax",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22030",
-  "email": true
+  "ope": null
 }

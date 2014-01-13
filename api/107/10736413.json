@@ -1,6 +1,6 @@
 {
   "facility_code": "10736413",
-  "institution": "Illinois Dept Of Trans Dist 4",
+  "institution": "ILLINOIS DEPT OF TRANS DIST 4",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61602",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10669725",
-  "institution": "Us Dept Of Veterans Affairs - Vce",
+  "institution": "US DEPT OF VETERANS AFFAIRS - VCE",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63103",
-  "email": false
+  "ope": null
 }

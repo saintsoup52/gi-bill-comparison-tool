@@ -1,6 +1,6 @@
 {
   "facility_code": "10830621",
-  "institution": "Arlington Fire Department",
+  "institution": "ARLINGTON FIRE DEPARTMENT",
   "city": "Arlington",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2474",
-  "email": false
+  "ope": null
 }

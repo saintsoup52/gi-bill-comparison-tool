@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95906",
-  "institution": "University Of Northern Colorado - Police Department",
+  "institution": "UNIVERSITY OF NORTHERN COLORADO - POLICE DEPARTMENT",
   "city": "Greeley",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80639",
-  "email": true
+  "ope": null
 }

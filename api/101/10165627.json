@@ -1,6 +1,6 @@
 {
   "facility_code": "10165627",
-  "institution": "**U.S. Geological Survey",
+  "institution": "**U.S. GEOLOGICAL SURVEY",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68508",
-  "email": false
+  "ope": null
 }

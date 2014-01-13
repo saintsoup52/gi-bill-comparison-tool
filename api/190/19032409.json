@@ -1,6 +1,6 @@
 {
   "facility_code": "19032409",
-  "institution": "Department Of The Navy",
+  "institution": "DEPARTMENT OF THE NAVY",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20350",
-  "email": false
+  "ope": null
 }

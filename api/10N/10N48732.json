@@ -1,6 +1,6 @@
 {
   "facility_code": "10N48732",
-  "institution": "Town Of Tonawanda Police Department",
+  "institution": "TOWN OF TONAWANDA POLICE DEPARTMENT",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14223",
-  "email": true
+  "ope": null
 }

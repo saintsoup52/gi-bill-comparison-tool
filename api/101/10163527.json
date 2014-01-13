@@ -1,6 +1,6 @@
 {
   "facility_code": "10163527",
-  "institution": "Scottsbluff Police Department",
+  "institution": "SCOTTSBLUFF POLICE DEPARTMENT",
   "city": "Scottsbluff",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "69361",
-  "email": true
+  "ope": null
 }

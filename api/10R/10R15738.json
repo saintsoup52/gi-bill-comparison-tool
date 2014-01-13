@@ -1,6 +1,6 @@
 {
   "facility_code": "10R15738",
-  "institution": "Girard Boro Police Dept",
+  "institution": "GIRARD BORO POLICE DEPT",
   "city": "Girard",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16417",
-  "email": false
+  "ope": null
 }

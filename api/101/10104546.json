@@ -1,6 +1,6 @@
 {
   "facility_code": "10104546",
-  "institution": "Fire Dist 3 Naval Air Station Oceana Fire Dept",
+  "institution": "FIRE DIST 3 NAVAL AIR STATION OCEANA FIRE DEPT",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23460",
-  "email": true
+  "ope": null
 }

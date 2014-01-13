@@ -1,6 +1,6 @@
 {
   "facility_code": "10226003",
-  "institution": "Arizona Dept Of Veterans Services - Phoenix",
+  "institution": "ARIZONA DEPT OF VETERANS SERVICES - PHOENIX",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85012",
-  "email": false
+  "ope": null
 }

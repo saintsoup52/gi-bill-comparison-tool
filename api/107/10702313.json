@@ -1,6 +1,6 @@
 {
   "facility_code": "10702313",
-  "institution": "Flossmoor Police Department",
+  "institution": "FLOSSMOOR POLICE DEPARTMENT",
   "city": "Flossmoor",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60422",
-  "email": false
+  "ope": null
 }

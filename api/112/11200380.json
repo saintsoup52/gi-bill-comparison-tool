@@ -1,6 +1,6 @@
 {
   "facility_code": "11200380",
-  "institution": "Hamburg University Of Applied Sciences",
+  "institution": "HAMBURG UNIVERSITY OF APPLIED SCIENCES",
   "city": "Hamburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

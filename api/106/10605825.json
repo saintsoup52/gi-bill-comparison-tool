@@ -1,6 +1,6 @@
 {
   "facility_code": "10605825",
-  "institution": "Chillicothe Police Dept.",
+  "institution": "CHILLICOTHE POLICE DEPT.",
   "city": "Chillicothe",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64601",
-  "email": false
+  "ope": null
 }

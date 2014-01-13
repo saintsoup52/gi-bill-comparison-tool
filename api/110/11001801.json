@@ -1,6 +1,6 @@
 {
   "facility_code": "11001801",
-  "institution": "University Of Alabama At Birmingham",
+  "institution": "UNIVERSITY OF ALABAMA AT BIRMINGHAM",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35294",
-  "email": true
+  "ope": "00105200"
 }

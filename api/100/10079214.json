@@ -1,6 +1,6 @@
 {
   "facility_code": "10079214",
-  "institution": "Brownstown Police Department",
+  "institution": "BROWNSTOWN POLICE DEPARTMENT",
   "city": "Brownstown",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47220",
-  "email": false
+  "ope": null
 }

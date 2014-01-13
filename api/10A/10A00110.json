@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00110",
-  "institution": "Escambia County Sheriff'S Office",
+  "institution": "ESCAMBIA COUNTY SHERIFF'S OFFICE",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32501",
-  "email": true
+  "ope": null
 }

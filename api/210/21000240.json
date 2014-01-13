@@ -1,6 +1,6 @@
 {
   "facility_code": "21000240",
-  "institution": "The Art Institute Of Charleston",
+  "institution": "THE ART INSTITUTE OF CHARLESTON",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29401",
-  "email": true
+  "ope": "00927004"
 }

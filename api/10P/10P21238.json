@@ -1,6 +1,6 @@
 {
   "facility_code": "10P21238",
-  "institution": "Pennsylvania Capitol Police",
+  "institution": "PENNSYLVANIA CAPITOL POLICE",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17125",
-  "email": true
+  "ope": null
 }

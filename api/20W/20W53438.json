@@ -1,6 +1,6 @@
 {
   "facility_code": "20W53438",
-  "institution": "Verizon Communications (Johnstown)",
+  "institution": "VERIZON COMMUNICATIONS (JOHNSTOWN)",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15901",
-  "email": false
+  "ope": null
 }

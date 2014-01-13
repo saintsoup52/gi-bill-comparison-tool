@@ -1,6 +1,6 @@
 {
   "facility_code": "20781418",
-  "institution": "Iuec Local #16",
+  "institution": "IUEC LOCAL #16",
   "city": "Metairie",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70002",
-  "email": true
+  "ope": null
 }

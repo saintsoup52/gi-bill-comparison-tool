@@ -1,6 +1,6 @@
 {
   "facility_code": "103C7505",
-  "institution": "El Dorado County Sheriff'S Office",
+  "institution": "EL DORADO COUNTY SHERIFF'S OFFICE",
   "city": "Placerville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95667",
-  "email": false
+  "ope": null
 }

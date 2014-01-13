@@ -1,6 +1,6 @@
 {
   "facility_code": "10A88306",
-  "institution": "Colorado Springs Fire Department",
+  "institution": "COLORADO SPRINGS FIRE DEPARTMENT",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80910",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11832",
-  "institution": "Sing Sing Correctional Facility",
+  "institution": "SING SING CORRECTIONAL FACILITY",
   "city": "Ossining",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10562",
-  "email": false
+  "ope": null
 }

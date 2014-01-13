@@ -1,6 +1,6 @@
 {
   "facility_code": "30647725",
-  "institution": "Union Pacific Railroad",
+  "institution": "UNION PACIFIC RAILROAD",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64120",
-  "email": false
+  "ope": null
 }

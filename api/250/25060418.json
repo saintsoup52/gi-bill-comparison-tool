@@ -1,6 +1,6 @@
 {
   "facility_code": "25060418",
-  "institution": "Louisiana Institute Of Massage Therapy",
+  "institution": "LOUISIANA INSTITUTE OF MASSAGE THERAPY",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70605",
-  "email": true
+  "ope": null
 }

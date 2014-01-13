@@ -1,6 +1,6 @@
 {
   "facility_code": "10446647",
-  "institution": "Everett Police Department",
+  "institution": "EVERETT POLICE DEPARTMENT",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98201",
-  "email": true
+  "ope": null
 }

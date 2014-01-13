@@ -1,6 +1,6 @@
 {
   "facility_code": "10065711",
-  "institution": "Georgia Dept. Of Human Resources (Fatherhood Unit)",
+  "institution": "GEORGIA DEPT. OF HUMAN RESOURCES (FATHERHOOD UNIT)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30303",
-  "email": true
+  "ope": null
 }

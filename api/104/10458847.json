@@ -1,6 +1,6 @@
 {
   "facility_code": "10458847",
-  "institution": "City Of Bainbridge Island Police Department",
+  "institution": "CITY OF BAINBRIDGE ISLAND POLICE DEPARTMENT",
   "city": "Bainbridge Island",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98110",
-  "email": true
+  "ope": null
 }

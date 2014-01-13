@@ -1,6 +1,6 @@
 {
   "facility_code": "19191422",
-  "institution": "State Of Michigan - Dit Client Service Center",
+  "institution": "STATE OF MICHIGAN - DIT CLIENT SERVICE CENTER",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48933",
-  "email": false
+  "ope": null
 }

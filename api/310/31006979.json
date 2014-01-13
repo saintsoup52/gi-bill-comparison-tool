@@ -1,6 +1,6 @@
 {
   "facility_code": "31006979",
-  "institution": "Ecole Normale De Musique De Paris Alfred Cortot",
+  "institution": "ECOLE NORMALE DE MUSIQUE DE PARIS ALFRED CORTOT",
   "city": "75017 Paris",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

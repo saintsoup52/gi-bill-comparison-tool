@@ -1,6 +1,6 @@
 {
   "facility_code": "11916137",
-  "institution": "Oregon State University",
+  "institution": "OREGON STATE UNIVERSITY",
   "city": "Corvallis",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "97331",
-  "email": true
+  "ope": "00321000"
 }

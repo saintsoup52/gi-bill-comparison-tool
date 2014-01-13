@@ -1,6 +1,6 @@
 {
   "facility_code": "10582213",
-  "institution": "Illinois State Police District Chicago",
+  "institution": "ILLINOIS STATE POLICE DISTRICT CHICAGO",
   "city": "Des Plaines",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60016",
-  "email": true
+  "ope": null
 }

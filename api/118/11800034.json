@@ -1,6 +1,6 @@
 {
   "facility_code": "11800034",
-  "institution": "North Dakota State University",
+  "institution": "NORTH DAKOTA STATE UNIVERSITY",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "58108",
-  "email": false
+  "ope": "00299700"
 }

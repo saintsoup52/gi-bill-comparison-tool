@@ -1,6 +1,6 @@
 {
   "facility_code": "10080914",
-  "institution": "Federal Aviation Administration System Support Center",
+  "institution": "FEDERAL AVIATION ADMINISTRATION SYSTEM SUPPORT CENTER",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46628",
-  "email": false
+  "ope": null
 }

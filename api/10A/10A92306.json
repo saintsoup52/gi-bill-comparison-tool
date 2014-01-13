@@ -1,6 +1,6 @@
 {
   "facility_code": "10A92306",
-  "institution": "Faa - Denver International Airport - Denver Atct",
+  "institution": "FAA - DENVER INTERNATIONAL AIRPORT - DENVER ATCT",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80249",
-  "email": true
+  "ope": null
 }

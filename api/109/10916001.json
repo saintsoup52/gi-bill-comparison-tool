@@ -1,6 +1,6 @@
 {
   "facility_code": "10916001",
-  "institution": "Montgomery Police Dept",
+  "institution": "MONTGOMERY POLICE DEPT",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36130",
-  "email": true
+  "ope": null
 }

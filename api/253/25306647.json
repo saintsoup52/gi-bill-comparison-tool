@@ -1,6 +1,6 @@
 {
   "facility_code": "25306647",
-  "institution": "Pavco Flight Center",
+  "institution": "PAVCO FLIGHT CENTER",
   "city": "Gig Harbor",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98335",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D05938",
-  "institution": "Department Of Health Education & Welfare",
+  "institution": "DEPARTMENT OF HEALTH EDUCATION & WELFARE",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": false
+  "ope": null
 }

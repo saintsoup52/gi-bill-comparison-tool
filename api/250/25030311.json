@@ -1,6 +1,6 @@
 {
   "facility_code": "25030311",
-  "institution": "Pegasus Air Llc",
+  "institution": "PEGASUS AIR LLC",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30461",
-  "email": true
+  "ope": null
 }

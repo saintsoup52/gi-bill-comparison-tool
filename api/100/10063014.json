@@ -1,6 +1,6 @@
 {
   "facility_code": "10063014",
-  "institution": "Crawfordsville Police Department",
+  "institution": "CRAWFORDSVILLE POLICE DEPARTMENT",
   "city": "Crawfordsville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47933",
-  "email": true
+  "ope": null
 }

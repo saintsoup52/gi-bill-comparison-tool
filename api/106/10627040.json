@@ -1,6 +1,6 @@
 {
   "facility_code": "10627040",
-  "institution": "Hardeeville Police Department",
+  "institution": "HARDEEVILLE POLICE DEPARTMENT",
   "city": "Hardeeville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29927",
-  "email": false
+  "ope": null
 }

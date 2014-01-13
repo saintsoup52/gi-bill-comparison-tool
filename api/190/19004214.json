@@ -1,6 +1,6 @@
 {
   "facility_code": "19004214",
-  "institution": "Danville National Guard Armory",
+  "institution": "DANVILLE NATIONAL GUARD ARMORY",
   "city": "Danville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46122",
-  "email": false
+  "ope": null
 }

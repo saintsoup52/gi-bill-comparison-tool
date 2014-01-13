@@ -1,6 +1,6 @@
 {
   "facility_code": "20523114",
-  "institution": "American Electric Power",
+  "institution": "AMERICAN ELECTRIC POWER",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46809",
-  "email": true
+  "ope": null
 }

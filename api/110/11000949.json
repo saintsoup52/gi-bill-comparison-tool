@@ -1,6 +1,6 @@
 {
   "facility_code": "11000949",
-  "institution": "Univ Of Wisc-Superior",
+  "institution": "UNIV OF WISC-SUPERIOR",
   "city": "Superior",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "54880",
-  "email": true
+  "ope": "00392500"
 }

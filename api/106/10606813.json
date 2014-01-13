@@ -1,6 +1,6 @@
 {
   "facility_code": "10606813",
-  "institution": "Sycamore Police Department",
+  "institution": "SYCAMORE POLICE DEPARTMENT",
   "city": "Sycamore",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60178",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10190720",
-  "institution": "U.S. Secret Service",
+  "institution": "U.S. SECRET SERVICE",
   "city": "Laurel",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20708",
-  "email": true
+  "ope": null
 }

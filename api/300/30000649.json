@@ -1,6 +1,6 @@
 {
   "facility_code": "30000649",
-  "institution": "Wisconsin Operating Engineers Jac",
+  "institution": "WISCONSIN OPERATING ENGINEERS JAC",
   "city": "Coloma",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54930",
-  "email": false
+  "ope": null
 }

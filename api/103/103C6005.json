@@ -1,6 +1,6 @@
 {
   "facility_code": "103C6005",
-  "institution": "Dept Of Veterans Affairs Palo Alto Audiology Clinic (Ch31 Only)",
+  "institution": "DEPT OF VETERANS AFFAIRS PALO ALTO AUDIOLOGY CLINIC (CH31 ONLY)",
   "city": "Palo Alto",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94304",
-  "email": false
+  "ope": null
 }

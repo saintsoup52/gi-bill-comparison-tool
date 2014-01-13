@@ -1,6 +1,6 @@
 {
   "facility_code": "11104075",
-  "institution": "Univ Of Prince Edward Island",
+  "institution": "UNIV OF PRINCE EDWARD ISLAND",
   "city": "Charlottetown",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

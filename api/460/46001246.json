@@ -1,6 +1,6 @@
 {
   "facility_code": "46001246",
-  "institution": "Association Of Government Accountants",
+  "institution": "ASSOCIATION OF GOVERNMENT ACCOUNTANTS",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22301",
-  "email": true
+  "ope": null
 }

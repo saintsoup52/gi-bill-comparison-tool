@@ -1,6 +1,6 @@
 {
   "facility_code": "10204216",
-  "institution": "Jackson County Sheriff'S Office",
+  "institution": "JACKSON COUNTY SHERIFF'S OFFICE",
   "city": "Holton",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66436",
-  "email": false
+  "ope": null
 }

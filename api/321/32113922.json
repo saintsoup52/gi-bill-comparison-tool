@@ -1,6 +1,6 @@
 {
   "facility_code": "32113922",
-  "institution": "St. John Detroit Riverview Hosptial",
+  "institution": "ST. JOHN DETROIT RIVERVIEW HOSPTIAL",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48214",
-  "email": false
+  "ope": null
 }

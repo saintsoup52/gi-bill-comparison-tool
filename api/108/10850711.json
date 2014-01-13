@@ -1,6 +1,6 @@
 {
   "facility_code": "10850711",
-  "institution": "Roswell Police Department",
+  "institution": "ROSWELL POLICE DEPARTMENT",
   "city": "Roswell",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30075",
-  "email": true
+  "ope": null
 }

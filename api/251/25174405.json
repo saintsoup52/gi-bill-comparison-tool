@@ -1,6 +1,6 @@
 {
   "facility_code": "25174405",
-  "institution": "Westec (Ch31 Only)",
+  "institution": "WESTEC (CH31 ONLY)",
   "city": "Shafter",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93263",
-  "email": false
+  "ope": null
 }

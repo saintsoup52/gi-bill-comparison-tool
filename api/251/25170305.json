@@ -1,6 +1,6 @@
 {
   "facility_code": "25170305",
-  "institution": "Mobile Equipment Company (Ch31 Only)",
+  "institution": "MOBILE EQUIPMENT COMPANY (CH31 ONLY)",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93308",
-  "email": false
+  "ope": null
 }

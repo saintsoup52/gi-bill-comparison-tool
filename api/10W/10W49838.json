@@ -1,6 +1,6 @@
 {
   "facility_code": "10W49838",
-  "institution": "Huntingdon County Prison",
+  "institution": "HUNTINGDON COUNTY PRISON",
   "city": "Huntingdon",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16652",
-  "email": true
+  "ope": null
 }

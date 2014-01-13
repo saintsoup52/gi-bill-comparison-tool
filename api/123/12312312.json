@@ -1,6 +1,6 @@
 {
   "facility_code": "12312312",
-  "institution": "John C Styles",
+  "institution": "JOHN C STYLES",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60443",
-  "email": "No (SCO)"
+  "ope": null
 }

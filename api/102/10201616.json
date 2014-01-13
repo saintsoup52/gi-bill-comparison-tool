@@ -1,6 +1,6 @@
 {
   "facility_code": "10201616",
-  "institution": "Kansas Highway Patrol Troop B",
+  "institution": "KANSAS HIGHWAY PATROL TROOP B",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66606",
-  "email": false
+  "ope": null
 }

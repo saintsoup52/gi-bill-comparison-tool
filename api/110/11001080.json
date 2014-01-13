@@ -1,6 +1,6 @@
 {
   "facility_code": "11001080",
-  "institution": "Rheinische-Westfaelische Technische Hochschule",
+  "institution": "RHEINISCHE-WESTFAELISCHE TECHNISCHE HOCHSCHULE",
   "city": "Aachen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N04632",
-  "institution": "Ray Brook Federal Correctional Institution",
+  "institution": "RAY BROOK FEDERAL CORRECTIONAL INSTITUTION",
   "city": "Ray Brook",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12977",
-  "email": true
+  "ope": null
 }

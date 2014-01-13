@@ -1,6 +1,6 @@
 {
   "facility_code": "25182105",
-  "institution": "My Beauty & Barber College",
+  "institution": "MY BEAUTY & BARBER COLLEGE",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95758",
-  "email": true
+  "ope": null
 }

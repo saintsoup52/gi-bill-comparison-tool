@@ -1,6 +1,6 @@
 {
   "facility_code": "10033547",
-  "institution": "Everett Fire Department",
+  "institution": "EVERETT FIRE DEPARTMENT",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98201",
-  "email": false
+  "ope": null
 }

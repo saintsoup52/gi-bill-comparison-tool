@@ -1,6 +1,6 @@
 {
   "facility_code": "10A97006",
-  "institution": "City Of Craig Police Department",
+  "institution": "CITY OF CRAIG POLICE DEPARTMENT",
   "city": "Craig",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81625",
-  "email": false
+  "ope": null
 }

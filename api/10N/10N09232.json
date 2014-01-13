@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09232",
-  "institution": "Saratoga Springs Fire Department",
+  "institution": "SARATOGA SPRINGS FIRE DEPARTMENT",
   "city": "Saratoga Springs",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12866",
-  "email": false
+  "ope": null
 }

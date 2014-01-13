@@ -1,6 +1,6 @@
 {
   "facility_code": "15015138",
-  "institution": "Chester County Department Of Emergency Services",
+  "institution": "CHESTER COUNTY DEPARTMENT OF EMERGENCY SERVICES",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19380",
-  "email": false
+  "ope": null
 }

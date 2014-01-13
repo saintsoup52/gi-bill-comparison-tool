@@ -1,6 +1,6 @@
 {
   "facility_code": "31101192",
-  "institution": "Universidade Do Vale Do Itajai",
+  "institution": "UNIVERSIDADE DO VALE DO ITAJAI",
   "city": "Itajai",
   "state": "Brazil",
   "country": "Brazil",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

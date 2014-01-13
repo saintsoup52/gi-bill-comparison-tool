@@ -1,6 +1,6 @@
 {
   "facility_code": "10047311",
-  "institution": "Polk County Sheriff'S Department",
+  "institution": "POLK COUNTY SHERIFF'S DEPARTMENT",
   "city": "Cedartown",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30125",
-  "email": false
+  "ope": null
 }

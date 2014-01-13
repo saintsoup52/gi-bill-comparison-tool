@@ -1,6 +1,6 @@
 {
   "facility_code": "31947138",
-  "institution": "Drexel/Mcp Hahnemann University (Broad St)",
+  "institution": "DREXEL/MCP HAHNEMANN UNIVERSITY (BROAD ST)",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19102",
-  "email": true
+  "ope": "00325602"
 }

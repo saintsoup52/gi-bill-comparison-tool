@@ -1,6 +1,6 @@
 {
   "facility_code": "10000138",
-  "institution": "Veterans Health Administration (Vamc-Highland Drive Pittsburgh)",
+  "institution": "VETERANS HEALTH ADMINISTRATION (VAMC-HIGHLAND DRIVE PITTSBURGH)",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15206",
-  "email": false
+  "ope": null
 }

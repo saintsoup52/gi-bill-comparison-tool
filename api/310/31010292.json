@@ -1,6 +1,6 @@
 {
   "facility_code": "31010292",
-  "institution": "Univ Peruana De Ciencias Aplic",
+  "institution": "UNIV PERUANA DE CIENCIAS APLIC",
   "city": "Monterrico",
   "state": "Peru",
   "country": "Peru",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

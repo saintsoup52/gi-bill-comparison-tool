@@ -1,6 +1,6 @@
 {
   "facility_code": "31013505",
-  "institution": "Springfield College",
+  "institution": "SPRINGFIELD COLLEGE",
   "city": "Tustin",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92780",
-  "email": false
+  "ope": null
 }

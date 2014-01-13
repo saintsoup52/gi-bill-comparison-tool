@@ -1,6 +1,6 @@
 {
   "facility_code": "11000575",
-  "institution": "Mount St. Vincent University",
+  "institution": "MOUNT ST. VINCENT UNIVERSITY",
   "city": "Halifax",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

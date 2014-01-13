@@ -1,6 +1,6 @@
 {
   "facility_code": "10A98223",
-  "institution": "Minnesota Pollution Control Agency",
+  "institution": "MINNESOTA POLLUTION CONTROL AGENCY",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55155",
-  "email": false
+  "ope": null
 }

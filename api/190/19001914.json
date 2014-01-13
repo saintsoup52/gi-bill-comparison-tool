@@ -1,6 +1,6 @@
 {
   "facility_code": "19001914",
-  "institution": "Gary Health Unit",
+  "institution": "GARY HEALTH UNIT",
   "city": "Gary",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46402",
-  "email": false
+  "ope": null
 }

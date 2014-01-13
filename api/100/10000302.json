@@ -1,6 +1,6 @@
 {
   "facility_code": "10000302",
-  "institution": "State Of Alaska - Department Of Corrections",
+  "institution": "STATE OF ALASKA - DEPARTMENT OF CORRECTIONS",
   "city": "Palmer",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99645",
-  "email": true
+  "ope": null
 }

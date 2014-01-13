@@ -1,6 +1,6 @@
 {
   "facility_code": "18065121",
-  "institution": "Springfield Police Department Academy & Training Division",
+  "institution": "SPRINGFIELD POLICE DEPARTMENT ACADEMY & TRAINING DIVISION",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1104",
-  "email": true
+  "ope": null
 }

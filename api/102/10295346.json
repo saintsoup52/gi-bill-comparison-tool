@@ -1,6 +1,6 @@
 {
   "facility_code": "10295346",
-  "institution": "Roanoke County Police Department",
+  "institution": "ROANOKE COUNTY POLICE DEPARTMENT",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24019",
-  "email": true
+  "ope": null
 }

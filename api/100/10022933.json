@@ -1,6 +1,6 @@
 {
   "facility_code": "10022933",
-  "institution": "Emerald Isle Police Department",
+  "institution": "EMERALD ISLE POLICE DEPARTMENT",
   "city": "Emerald Isle",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28594",
-  "email": true
+  "ope": null
 }

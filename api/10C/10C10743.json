@@ -1,6 +1,6 @@
 {
   "facility_code": "10C10743",
-  "institution": "City Of Odessa",
+  "institution": "CITY OF ODESSA",
   "city": "Odessa",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79760",
-  "email": true
+  "ope": null
 }

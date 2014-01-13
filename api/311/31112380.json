@@ -1,6 +1,6 @@
 {
   "facility_code": "31112380",
-  "institution": "Fachhochschule Wiesbaden",
+  "institution": "FACHHOCHSCHULE WIESBADEN",
   "city": "Wiesbaden",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10020233",
-  "institution": "N.C. Employment Security Commission (Ch31)",
+  "institution": "N.C. EMPLOYMENT SECURITY COMMISSION (CH31)",
   "city": "Lauringburg",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28352",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11010238",
-  "institution": "West Chester University Of Pa",
+  "institution": "WEST CHESTER UNIVERSITY OF PA",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19383",
-  "email": true
+  "ope": "00332800"
 }

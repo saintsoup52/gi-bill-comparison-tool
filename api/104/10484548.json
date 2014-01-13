@@ -1,6 +1,6 @@
 {
   "facility_code": "10484548",
-  "institution": "Faa Clarksburg Tower Ckb Atct  Faa Air Traffic Controller",
+  "institution": "FAA CLARKSBURG TOWER CKB ATCT  FAA AIR TRAFFIC CONTROLLER",
   "city": "Bridgeport",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26330",
-  "email": true
+  "ope": null
 }

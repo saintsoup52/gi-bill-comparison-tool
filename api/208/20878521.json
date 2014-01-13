@@ -1,6 +1,6 @@
 {
   "facility_code": "20878521",
-  "institution": "Dcsma Raytheon Ids",
+  "institution": "DCSMA RAYTHEON IDS",
   "city": "Andover",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1810",
-  "email": true
+  "ope": null
 }

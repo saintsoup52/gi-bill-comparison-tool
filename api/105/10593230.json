@@ -1,6 +1,6 @@
 {
   "facility_code": "10593230",
-  "institution": "William Paterson University Police Department",
+  "institution": "WILLIAM PATERSON UNIVERSITY POLICE DEPARTMENT",
   "city": "Wayne",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7470",
-  "email": false
+  "ope": null
 }

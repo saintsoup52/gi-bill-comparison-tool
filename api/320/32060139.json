@@ -1,6 +1,6 @@
 {
   "facility_code": "32060139",
-  "institution": "Memorial Hospital Of Rhode Island",
+  "institution": "MEMORIAL HOSPITAL OF RHODE ISLAND",
   "city": "Pawtucket",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2860",
-  "email": true
+  "ope": null
 }

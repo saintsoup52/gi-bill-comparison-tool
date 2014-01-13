@@ -1,6 +1,6 @@
 {
   "facility_code": "10032819",
-  "institution": "Togus Medical Center Department Of Veteran Affairs",
+  "institution": "TOGUS MEDICAL CENTER DEPARTMENT OF VETERAN AFFAIRS",
   "city": "Augusta",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4330",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30M56432",
-  "institution": "Cornell University Police Department",
+  "institution": "CORNELL UNIVERSITY POLICE DEPARTMENT",
   "city": "Ithaca",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14855",
-  "email": false
+  "ope": null
 }

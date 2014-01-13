@@ -1,6 +1,6 @@
 {
   "facility_code": "25093043",
-  "institution": "Mesilla Valley Trng Inst",
+  "institution": "MESILLA VALLEY TRNG INST",
   "city": "Canutillo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79835",
-  "email": false
+  "ope": null
 }

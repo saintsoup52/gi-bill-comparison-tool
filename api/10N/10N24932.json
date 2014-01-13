@@ -1,6 +1,6 @@
 {
   "facility_code": "10N24932",
-  "institution": "New York City Police Dept. - 70th Precinct (Patrol Borough Brooklyn South)",
+  "institution": "NEW YORK CITY POLICE DEPT. - 70TH PRECINCT (PATROL BOROUGH BROOKLYN SOUTH)",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11230",
-  "email": true
+  "ope": null
 }

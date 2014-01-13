@@ -1,6 +1,6 @@
 {
   "facility_code": "10A88906",
-  "institution": "Cdc - Trinidad Correctional Facility",
+  "institution": "CDC - TRINIDAD CORRECTIONAL FACILITY",
   "city": "Trinidad",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81082",
-  "email": false
+  "ope": null
 }

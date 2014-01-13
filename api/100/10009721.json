@@ -1,6 +1,6 @@
 {
   "facility_code": "10009721",
-  "institution": "Andover Police Department",
+  "institution": "ANDOVER POLICE DEPARTMENT",
   "city": "Andover",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1810",
-  "email": true
+  "ope": null
 }

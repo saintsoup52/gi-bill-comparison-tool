@@ -1,6 +1,6 @@
 {
   "facility_code": "10D19038",
-  "institution": "Easton  Police Department",
+  "institution": "EASTON  POLICE DEPARTMENT",
   "city": "Easton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18042",
-  "email": false
+  "ope": null
 }

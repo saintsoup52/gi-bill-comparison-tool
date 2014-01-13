@@ -1,6 +1,6 @@
 {
   "facility_code": "10D17238",
-  "institution": "Northeast Career Link",
+  "institution": "NORTHEAST CAREER LINK",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19114",
-  "email": true
+  "ope": null
 }

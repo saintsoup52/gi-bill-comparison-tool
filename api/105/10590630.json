@@ -1,6 +1,6 @@
 {
   "facility_code": "10590630",
-  "institution": "Pseg Power Llc Mercer Generating Station",
+  "institution": "PSEG POWER LLC MERCER GENERATING STATION",
   "city": "Hamilton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8611",
-  "email": false
+  "ope": null
 }

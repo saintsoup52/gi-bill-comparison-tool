@@ -1,6 +1,6 @@
 {
   "facility_code": "10N36932",
-  "institution": "Customs And Border Protection - New York City",
+  "institution": "CUSTOMS AND BORDER PROTECTION - NEW YORK CITY",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10119",
-  "email": true
+  "ope": null
 }

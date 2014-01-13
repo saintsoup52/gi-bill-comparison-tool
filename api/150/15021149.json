@@ -1,6 +1,6 @@
 {
   "facility_code": "15021149",
-  "institution": "Milwaukee Police Academy (Mpa)",
+  "institution": "MILWAUKEE POLICE ACADEMY (MPA)",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53209",
-  "email": true
+  "ope": null
 }

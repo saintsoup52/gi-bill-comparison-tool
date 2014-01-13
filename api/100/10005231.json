@@ -1,6 +1,6 @@
 {
   "facility_code": "10005231",
-  "institution": "Los Alamos Scientific Lab Univ Of Calif",
+  "institution": "LOS ALAMOS SCIENTIFIC LAB UNIV OF CALIF",
   "city": "Los Alamos",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87545",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10002911",
-  "institution": "Georgia State Patrol - Post 06 (Gainesville)",
+  "institution": "GEORGIA STATE PATROL - POST 06 (GAINESVILLE)",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30506",
-  "email": true
+  "ope": null
 }

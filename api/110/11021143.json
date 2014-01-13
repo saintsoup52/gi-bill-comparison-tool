@@ -1,6 +1,6 @@
 {
   "facility_code": "11021143",
-  "institution": "Texas A And M University Texarkana",
+  "institution": "TEXAS A AND M UNIVERSITY TEXARKANA",
   "city": "Texarkana",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "75503",
-  "email": false
+  "ope": "03170300"
 }

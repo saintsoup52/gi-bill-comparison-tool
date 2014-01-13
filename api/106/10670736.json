@@ -1,6 +1,6 @@
 {
   "facility_code": "10670736",
-  "institution": "Waynoka Police Department (Withdrawn Eff 5/31/09)",
+  "institution": "WAYNOKA POLICE DEPARTMENT (WITHDRAWN EFF 5/31/09)",
   "city": "Waynoka",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73860",
-  "email": false
+  "ope": null
 }

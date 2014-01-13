@@ -1,6 +1,6 @@
 {
   "facility_code": "10606313",
-  "institution": "East Peoria Police Department",
+  "institution": "EAST PEORIA POLICE DEPARTMENT",
   "city": "East Peoria",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61611",
-  "email": false
+  "ope": null
 }

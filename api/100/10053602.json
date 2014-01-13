@@ -1,6 +1,6 @@
 {
   "facility_code": "10053602",
-  "institution": "Faa Bethel Systems Support System",
+  "institution": "FAA BETHEL SYSTEMS SUPPORT SYSTEM",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99577",
-  "email": false
+  "ope": null
 }

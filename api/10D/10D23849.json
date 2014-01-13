@@ -1,6 +1,6 @@
 {
   "facility_code": "10D23849",
-  "institution": "Eau Claire Job Service",
+  "institution": "EAU CLAIRE JOB SERVICE",
   "city": "Eau Claire",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54703",
-  "email": false
+  "ope": null
 }

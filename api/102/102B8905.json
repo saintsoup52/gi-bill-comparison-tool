@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8905",
-  "institution": "United States Marshals Service (Northern District Of California)",
+  "institution": "UNITED STATES MARSHALS SERVICE (NORTHERN DISTRICT OF CALIFORNIA)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94102",
-  "email": false
+  "ope": null
 }

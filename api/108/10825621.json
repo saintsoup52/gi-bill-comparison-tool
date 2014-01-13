@@ -1,6 +1,6 @@
 {
   "facility_code": "10825621",
-  "institution": "Stoneham Fire Department",
+  "institution": "STONEHAM FIRE DEPARTMENT",
   "city": "Stoneham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2180",
-  "email": false
+  "ope": null
 }

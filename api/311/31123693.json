@@ -1,6 +1,6 @@
 {
   "facility_code": "31123693",
-  "institution": "Swedish University Of Agricultural Sciences",
+  "institution": "SWEDISH UNIVERSITY OF AGRICULTURAL SCIENCES",
   "city": "Se-75007 Uppsala",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

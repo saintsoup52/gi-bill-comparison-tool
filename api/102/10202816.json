@@ -1,6 +1,6 @@
 {
   "facility_code": "10202816",
-  "institution": "Olathe Police Department",
+  "institution": "OLATHE POLICE DEPARTMENT",
   "city": "Olathe",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66061",
-  "email": false
+  "ope": null
 }

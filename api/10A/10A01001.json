@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01001",
-  "institution": "Alabama Department Of Public Safety Tuscaloosa Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY TUSCALOOSA POST",
   "city": "Tuscaloosa",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35405",
-  "email": true
+  "ope": null
 }

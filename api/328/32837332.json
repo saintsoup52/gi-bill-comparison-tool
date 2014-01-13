@@ -1,6 +1,6 @@
 {
   "facility_code": "32837332",
-  "institution": "St. Barnabas Hospital Dept Of Radiology",
+  "institution": "ST. BARNABAS HOSPITAL DEPT OF RADIOLOGY",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10457",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10629625",
-  "institution": "Blue Springs Police Dept.",
+  "institution": "BLUE SPRINGS POLICE DEPT.",
   "city": "Blue Springs",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64015",
-  "email": false
+  "ope": null
 }

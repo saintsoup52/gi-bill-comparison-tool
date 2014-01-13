@@ -1,6 +1,6 @@
 {
   "facility_code": "102B7305",
-  "institution": "Social Security Administration (San Luis Obispo)(Ch 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (SAN LUIS OBISPO)(CH 31 ONLY)",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93401",
-  "email": false
+  "ope": null
 }

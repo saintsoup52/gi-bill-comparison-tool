@@ -1,6 +1,6 @@
 {
   "facility_code": "10N20032",
-  "institution": "Nypd - 77th Precinct",
+  "institution": "NYPD - 77TH PRECINCT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11213",
-  "email": true
+  "ope": null
 }

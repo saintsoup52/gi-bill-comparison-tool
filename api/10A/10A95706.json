@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95706",
-  "institution": "Cdc - Rifle Correctional Facility",
+  "institution": "CDC - RIFLE CORRECTIONAL FACILITY",
   "city": "Rifle",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81650",
-  "email": true
+  "ope": null
 }

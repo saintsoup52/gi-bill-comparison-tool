@@ -1,6 +1,6 @@
 {
   "facility_code": "11100179",
-  "institution": "Institut National Des Sciences Appliquees De Lyon",
+  "institution": "INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON",
   "city": "69621 Villeurbanne Cedex",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

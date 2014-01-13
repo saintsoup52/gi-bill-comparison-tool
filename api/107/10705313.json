@@ -1,6 +1,6 @@
 {
   "facility_code": "10705313",
-  "institution": "Lake County Sheriffs Office",
+  "institution": "LAKE COUNTY SHERIFFS OFFICE",
   "city": "Waukegan",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60085",
-  "email": false
+  "ope": null
 }

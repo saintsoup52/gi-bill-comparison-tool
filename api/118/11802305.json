@@ -1,6 +1,6 @@
 {
   "facility_code": "11802305",
-  "institution": "University Of California San Diego",
+  "institution": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
   "city": "La Jolla",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92093",
-  "email": true
+  "ope": "00131700"
 }

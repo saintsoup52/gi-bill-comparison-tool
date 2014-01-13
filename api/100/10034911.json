@@ -1,6 +1,6 @@
 {
   "facility_code": "10034911",
-  "institution": "Georgia State Patrol - Post 02 (Lagrange)",
+  "institution": "GEORGIA STATE PATROL - POST 02 (LAGRANGE)",
   "city": "Lagrange",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30240",
-  "email": false
+  "ope": null
 }

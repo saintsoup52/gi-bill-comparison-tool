@@ -1,6 +1,6 @@
 {
   "facility_code": "10C19043",
-  "institution": "Faa El Paso Elp",
+  "institution": "FAA EL PASO ELP",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79925",
-  "email": true
+  "ope": null
 }

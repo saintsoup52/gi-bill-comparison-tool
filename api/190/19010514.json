@@ -1,6 +1,6 @@
 {
   "facility_code": "19010514",
-  "institution": "City Of Bedford",
+  "institution": "CITY OF BEDFORD",
   "city": "Bedford",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47421",
-  "email": false
+  "ope": null
 }

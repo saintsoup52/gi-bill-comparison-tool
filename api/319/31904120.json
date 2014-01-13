@@ -1,6 +1,6 @@
 {
   "facility_code": "31904120",
-  "institution": "Maryland Institute College Of Art",
+  "institution": "MARYLAND INSTITUTE COLLEGE OF ART",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21217",
-  "email": true
+  "ope": "00208000"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25180005",
-  "institution": "Milan Institute",
+  "institution": "MILAN INSTITUTE",
   "city": "La Quinta",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92253",
-  "email": true
+  "ope": null
 }

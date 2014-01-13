@@ -1,6 +1,6 @@
 {
   "facility_code": "10571013",
-  "institution": "Illinois State Police Dist. #15",
+  "institution": "ILLINOIS STATE POLICE DIST. #15",
   "city": "Downers Grove",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60515",
-  "email": true
+  "ope": null
 }

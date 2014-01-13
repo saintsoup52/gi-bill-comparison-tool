@@ -1,6 +1,6 @@
 {
   "facility_code": "10515330",
-  "institution": "Jackson Township Police Department",
+  "institution": "JACKSON TOWNSHIP POLICE DEPARTMENT",
   "city": "Jackson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8527",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10J62038",
-  "institution": "Columbia County Prison",
+  "institution": "COLUMBIA COUNTY PRISON",
   "city": "Bloomsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17815",
-  "email": false
+  "ope": null
 }

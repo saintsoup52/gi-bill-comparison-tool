@@ -1,6 +1,6 @@
 {
   "facility_code": "10515317",
-  "institution": "Faa Bowman Air Traffic Control Tower",
+  "institution": "FAA BOWMAN AIR TRAFFIC CONTROL TOWER",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40205",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11103074",
-  "institution": "University Of Bolton",
+  "institution": "UNIVERSITY OF BOLTON",
   "city": "Bolton",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

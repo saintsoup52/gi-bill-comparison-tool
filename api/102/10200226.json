@@ -1,6 +1,6 @@
 {
   "facility_code": "10200226",
-  "institution": "Big Horn County Sheriff'S Department",
+  "institution": "BIG HORN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Hardin",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59034",
-  "email": true
+  "ope": null
 }

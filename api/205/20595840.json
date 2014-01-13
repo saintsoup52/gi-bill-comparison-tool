@@ -1,6 +1,6 @@
 {
   "facility_code": "20595840",
-  "institution": "Sumter-Lee Regional Detention Center",
+  "institution": "SUMTER-LEE REGIONAL DETENTION CENTER",
   "city": "Sumter",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29153",
-  "email": false
+  "ope": null
 }

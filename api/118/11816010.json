@@ -1,6 +1,6 @@
 {
   "facility_code": "11816010",
-  "institution": "Florida State University",
+  "institution": "FLORIDA STATE UNIVERSITY",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32306",
-  "email": true
+  "ope": "00148900"
 }

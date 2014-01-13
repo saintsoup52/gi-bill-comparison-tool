@@ -1,6 +1,6 @@
 {
   "facility_code": "10070520",
-  "institution": "Bwi Fire And Rescue Department",
+  "institution": "BWI FIRE AND RESCUE DEPARTMENT",
   "city": "Bwi Airport",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21240",
-  "email": true
+  "ope": null
 }

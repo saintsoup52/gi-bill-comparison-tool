@@ -1,6 +1,6 @@
 {
   "facility_code": "10A20111",
-  "institution": "Georgia State Patrol - Post 03 (Cartersville)",
+  "institution": "GEORGIA STATE PATROL - POST 03 (CARTERSVILLE)",
   "city": "Cartersville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30120",
-  "email": false
+  "ope": null
 }

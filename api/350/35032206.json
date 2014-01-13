@@ -1,6 +1,6 @@
 {
   "facility_code": "35032206",
-  "institution": "Rocky Mountain Biological Laboratory",
+  "institution": "ROCKY MOUNTAIN BIOLOGICAL LABORATORY",
   "city": "Crested Butte",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81224",
-  "email": false
+  "ope": null
 }

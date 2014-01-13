@@ -1,6 +1,6 @@
 {
   "facility_code": "20053902",
-  "institution": "Homer Electric",
+  "institution": "HOMER ELECTRIC",
   "city": "Homer",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99603",
-  "email": false
+  "ope": null
 }

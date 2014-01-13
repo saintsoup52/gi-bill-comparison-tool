@@ -1,6 +1,6 @@
 {
   "facility_code": "10034050",
-  "institution": "National Park Service - Yellowstone National Park",
+  "institution": "NATIONAL PARK SERVICE - YELLOWSTONE NATIONAL PARK",
   "city": "Yellowstone National Park",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82190",
-  "email": false
+  "ope": null
 }

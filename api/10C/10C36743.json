@@ -1,6 +1,6 @@
 {
   "facility_code": "10C36743",
-  "institution": "Drug Enforcement Agency",
+  "institution": "DRUG ENFORCEMENT AGENCY",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79912",
-  "email": false
+  "ope": null
 }

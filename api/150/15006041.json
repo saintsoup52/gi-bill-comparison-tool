@@ -1,6 +1,6 @@
 {
   "facility_code": "15006041",
-  "institution": "Joe Foss School",
+  "institution": "JOE FOSS SCHOOL",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57103",
-  "email": false
+  "ope": null
 }

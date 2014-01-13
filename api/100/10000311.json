@@ -1,6 +1,6 @@
 {
   "facility_code": "10000311",
-  "institution": "State Board Of Pardons & Paroles District #51",
+  "institution": "STATE BOARD OF PARDONS & PAROLES DISTRICT #51",
   "city": "Cordele",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31010",
-  "email": false
+  "ope": null
 }

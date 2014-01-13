@@ -1,6 +1,6 @@
 {
   "facility_code": "10624025",
-  "institution": "Rolla Fire Department",
+  "institution": "ROLLA FIRE DEPARTMENT",
   "city": "Rolla",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65401",
-  "email": false
+  "ope": null
 }

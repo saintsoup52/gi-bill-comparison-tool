@@ -1,6 +1,6 @@
 {
   "facility_code": "11002222",
-  "institution": "Saginaw Valley State University",
+  "institution": "SAGINAW VALLEY STATE UNIVERSITY",
   "city": "University Center",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "48710",
-  "email": true
+  "ope": "00231400"
 }

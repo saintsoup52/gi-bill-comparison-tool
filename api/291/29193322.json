@@ -1,6 +1,6 @@
 {
   "facility_code": "29193322",
-  "institution": "Mary Jane Ward",
+  "institution": "MARY JANE WARD",
   "city": "St Clair Shores",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48080",
-  "email": true
+  "ope": null
 }

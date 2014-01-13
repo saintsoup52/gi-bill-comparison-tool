@@ -1,6 +1,6 @@
 {
   "facility_code": "18088438",
-  "institution": "Allentown Police Academy",
+  "institution": "ALLENTOWN POLICE ACADEMY",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18103",
-  "email": true
+  "ope": null
 }

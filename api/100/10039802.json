@@ -1,6 +1,6 @@
 {
   "facility_code": "10039802",
-  "institution": "Ofc Of Civilian Personnel Ft Richardson",
+  "institution": "OFC OF CIVILIAN PERSONNEL FT RICHARDSON",
   "city": "Ft Richardson",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99505",
-  "email": false
+  "ope": null
 }

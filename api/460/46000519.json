@@ -1,6 +1,6 @@
 {
   "facility_code": "46000519",
-  "institution": "Maine Electricians' Examining Board",
+  "institution": "MAINE ELECTRICIANS' EXAMINING BOARD",
   "city": "Augusta",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4330",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21960105",
-  "institution": "Southern California Institute Of Technology",
+  "institution": "SOUTHERN CALIFORNIA INSTITUTE OF TECHNOLOGY",
   "city": "Anaheim",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "92801",
-  "email": false
+  "ope": "03113600"
 }

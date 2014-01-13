@@ -1,6 +1,6 @@
 {
   "facility_code": "19012106",
-  "institution": "U.S. Department Of Education",
+  "institution": "U.S. DEPARTMENT OF EDUCATION",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80204",
-  "email": false
+  "ope": null
 }

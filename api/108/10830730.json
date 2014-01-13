@@ -1,6 +1,6 @@
 {
   "facility_code": "10830730",
-  "institution": "Allaire State Park",
+  "institution": "ALLAIRE STATE PARK",
   "city": "Farmingdale",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7727",
-  "email": true
+  "ope": null
 }

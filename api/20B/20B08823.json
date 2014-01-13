@@ -1,6 +1,6 @@
 {
   "facility_code": "20B08823",
-  "institution": "A2n Inc.",
+  "institution": "A2N INC.",
   "city": "Brooklyn Park",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55429",
-  "email": false
+  "ope": null
 }

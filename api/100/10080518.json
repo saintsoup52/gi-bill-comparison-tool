@@ -1,6 +1,6 @@
 {
   "facility_code": "10080518",
-  "institution": "Carencro Police Department",
+  "institution": "CARENCRO POLICE DEPARTMENT",
   "city": "Carencro",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70520",
-  "email": false
+  "ope": null
 }

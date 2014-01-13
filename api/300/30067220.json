@@ -1,6 +1,6 @@
 {
   "facility_code": "30067220",
-  "institution": "Waco Inc",
+  "institution": "WACO INC",
   "city": "White Plains",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20695",
-  "email": false
+  "ope": null
 }

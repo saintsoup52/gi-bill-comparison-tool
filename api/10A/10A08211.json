@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08211",
-  "institution": "Columbia County Sheriff'S Department",
+  "institution": "COLUMBIA COUNTY SHERIFF'S DEPARTMENT",
   "city": "Appling",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30802",
-  "email": false
+  "ope": null
 }

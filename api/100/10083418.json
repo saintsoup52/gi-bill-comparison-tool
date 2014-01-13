@@ -1,6 +1,6 @@
 {
   "facility_code": "10083418",
-  "institution": "Federal Correctional Complex - Oakdale",
+  "institution": "FEDERAL CORRECTIONAL COMPLEX - OAKDALE",
   "city": "Oakdale",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71463",
-  "email": true
+  "ope": null
 }

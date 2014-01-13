@@ -1,6 +1,6 @@
 {
   "facility_code": "10C31443",
-  "institution": "Federal Protective Service El Paso",
+  "institution": "FEDERAL PROTECTIVE SERVICE EL PASO",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79901",
-  "email": false
+  "ope": null
 }

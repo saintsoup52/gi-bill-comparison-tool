@@ -1,6 +1,6 @@
 {
   "facility_code": "10231703",
-  "institution": "St. John'S Police Department",
+  "institution": "ST. JOHN'S POLICE DEPARTMENT",
   "city": "St. Johns",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85936",
-  "email": false
+  "ope": null
 }

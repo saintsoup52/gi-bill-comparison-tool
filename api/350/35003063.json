@@ -1,6 +1,6 @@
 {
   "facility_code": "35003063",
-  "institution": "Aspira Inc. De Puerto Rico",
+  "institution": "ASPIRA INC. DE PUERTO RICO",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "929",
-  "email": true
+  "ope": "04030300"
 }

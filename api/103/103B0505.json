@@ -1,6 +1,6 @@
 {
   "facility_code": "103B0505",
-  "institution": "Correctional Training Facility (Ctf- Soledad)",
+  "institution": "CORRECTIONAL TRAINING FACILITY (CTF- SOLEDAD)",
   "city": "Soledad",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93960",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000368",
-  "institution": "University Of Johannesburg",
+  "institution": "UNIVERSITY OF JOHANNESBURG",
   "city": "Johannesburg",
   "state": "South Africa",
   "country": "South Africa",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

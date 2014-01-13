@@ -1,6 +1,6 @@
 {
   "facility_code": "10499846",
-  "institution": "Dulles South",
+  "institution": "DULLES SOUTH",
   "city": "Chantilly",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20152",
-  "email": true
+  "ope": null
 }

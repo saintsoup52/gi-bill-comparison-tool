@@ -1,6 +1,6 @@
 {
   "facility_code": "13115025",
-  "institution": "Missouri State University-West Plains",
+  "institution": "MISSOURI STATE UNIVERSITY-WEST PLAINS",
   "city": "West Plains",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "65775",
-  "email": true
+  "ope": "03106000"
 }

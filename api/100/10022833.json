@@ -1,6 +1,6 @@
 {
   "facility_code": "10022833",
-  "institution": "City Of Durham Public Works Department",
+  "institution": "CITY OF DURHAM PUBLIC WORKS DEPARTMENT",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27707",
-  "email": true
+  "ope": null
 }

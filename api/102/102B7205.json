@@ -1,6 +1,6 @@
 {
   "facility_code": "102B7205",
-  "institution": "Pleasant Valley State Prison",
+  "institution": "PLEASANT VALLEY STATE PRISON",
   "city": "Coalinga",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93210",
-  "email": false
+  "ope": null
 }

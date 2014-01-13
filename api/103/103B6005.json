@@ -1,6 +1,6 @@
 {
   "facility_code": "103B6005",
-  "institution": "Marine Corps Police Department",
+  "institution": "MARINE CORPS POLICE DEPARTMENT",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92145",
-  "email": false
+  "ope": null
 }

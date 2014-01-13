@@ -1,6 +1,6 @@
 {
   "facility_code": "15034906",
-  "institution": "South High School",
+  "institution": "SOUTH HIGH SCHOOL",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80210",
-  "email": true
+  "ope": null
 }

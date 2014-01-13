@@ -1,6 +1,6 @@
 {
   "facility_code": "10301030",
-  "institution": "Va Oupatient Clinic (James J. Howard)",
+  "institution": "VA OUPATIENT CLINIC (JAMES J. HOWARD)",
   "city": "Brick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8724",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10033511",
-  "institution": "Lilburn Police Department",
+  "institution": "LILBURN POLICE DEPARTMENT",
   "city": "Lilburn",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30047",
-  "email": false
+  "ope": null
 }

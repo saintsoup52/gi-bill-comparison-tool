@@ -1,6 +1,6 @@
 {
   "facility_code": "11001349",
-  "institution": "University Of Wisconsin-Green Bay",
+  "institution": "UNIVERSITY OF WISCONSIN-GREEN BAY",
   "city": "Green Bay",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "54311",
-  "email": false
+  "ope": "00389900"
 }

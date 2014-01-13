@@ -1,6 +1,6 @@
 {
   "facility_code": "10674036",
-  "institution": "Us Army Corps Of Engineers",
+  "institution": "US ARMY CORPS OF ENGINEERS",
   "city": "Ponca City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74064",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "12403947",
-  "institution": "Regional Epilepsy Center  (Ch31)",
+  "institution": "REGIONAL EPILEPSY CENTER  (CH31)",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98104",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10000329",
-  "institution": "Manchester Airport Traffic Control Tower",
+  "institution": "MANCHESTER AIRPORT TRAFFIC CONTROL TOWER",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3103",
-  "email": true
+  "ope": null
 }

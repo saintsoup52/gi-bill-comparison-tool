@@ -1,6 +1,6 @@
 {
   "facility_code": "20039211",
-  "institution": "Safa Llc",
+  "institution": "SAFA LLC",
   "city": "Lagrange",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30240",
-  "email": false
+  "ope": null
 }

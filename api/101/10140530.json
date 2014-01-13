@@ -1,6 +1,6 @@
 {
   "facility_code": "10140530",
-  "institution": "Palmyra Police Department",
+  "institution": "PALMYRA POLICE DEPARTMENT",
   "city": "Palmyra",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8065",
-  "email": true
+  "ope": null
 }

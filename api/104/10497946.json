@@ -1,6 +1,6 @@
 {
   "facility_code": "10497946",
-  "institution": "Department Of State Police (Area 38 - Clifton Forge)",
+  "institution": "DEPARTMENT OF STATE POLICE (AREA 38 - CLIFTON FORGE)",
   "city": "Covington",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24426",
-  "email": true
+  "ope": null
 }

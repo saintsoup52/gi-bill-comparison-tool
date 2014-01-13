@@ -1,6 +1,6 @@
 {
   "facility_code": "10356511",
-  "institution": "Lee Arrendale State Prison",
+  "institution": "LEE ARRENDALE STATE PRISON",
   "city": "Alto",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30596",
-  "email": true
+  "ope": null
 }

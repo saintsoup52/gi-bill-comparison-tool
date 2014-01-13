@@ -1,6 +1,6 @@
 {
   "facility_code": "10033219",
-  "institution": "Maine Military Authority (Dvem)",
+  "institution": "MAINE MILITARY AUTHORITY (DVEM)",
   "city": "Limestone",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4750",
-  "email": true
+  "ope": null
 }

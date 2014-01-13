@@ -1,6 +1,6 @@
 {
   "facility_code": "10411646",
-  "institution": "Town Of Herndon Police Department",
+  "institution": "TOWN OF HERNDON POLICE DEPARTMENT",
   "city": "Chantilly",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20151",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11801920",
-  "institution": "University Of Maryland Eastern Shore",
+  "institution": "UNIVERSITY OF MARYLAND EASTERN SHORE",
   "city": "Princess Anne",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21853",
-  "email": true
+  "ope": "00210600"
 }

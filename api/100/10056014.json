@@ -1,6 +1,6 @@
 {
   "facility_code": "10056014",
-  "institution": "Indiana State Excise Police",
+  "institution": "INDIANA STATE EXCISE POLICE",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46204",
-  "email": false
+  "ope": null
 }

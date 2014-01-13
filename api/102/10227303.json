@@ -1,6 +1,6 @@
 {
   "facility_code": "10227303",
-  "institution": "Customs And Border Protection - Tucson Sector",
+  "institution": "CUSTOMS AND BORDER PROTECTION - TUCSON SECTOR",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85711",
-  "email": false
+  "ope": null
 }

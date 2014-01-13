@@ -1,6 +1,6 @@
 {
   "facility_code": "11802118",
-  "institution": "Lsu Health Sciences Center - New Orleans",
+  "institution": "LSU HEALTH SCIENCES CENTER - NEW ORLEANS",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70112",
-  "email": false
+  "ope": "00201400"
 }

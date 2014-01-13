@@ -1,6 +1,6 @@
 {
   "facility_code": "11200880",
-  "institution": "Hochschule Fur Musik & Theater",
+  "institution": "HOCHSCHULE FUR MUSIK & THEATER",
   "city": "Munchen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

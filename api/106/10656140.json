@@ -1,6 +1,6 @@
 {
   "facility_code": "10656140",
-  "institution": "Federal Aviation Administration (Faa) Charleston Airport",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) CHARLESTON AIRPORT",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29406",
-  "email": true
+  "ope": null
 }

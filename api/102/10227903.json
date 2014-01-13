@@ -1,6 +1,6 @@
 {
   "facility_code": "10227903",
-  "institution": "Buckeye Police Department",
+  "institution": "BUCKEYE POLICE DEPARTMENT",
   "city": "Buckeye",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85326",
-  "email": true
+  "ope": null
 }

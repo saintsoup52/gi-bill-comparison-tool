@@ -1,6 +1,6 @@
 {
   "facility_code": "25000229",
-  "institution": "Mcgregor Institute Of Ems",
+  "institution": "MCGREGOR INSTITUTE OF EMS",
   "city": "Durham",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3824",
-  "email": true
+  "ope": null
 }

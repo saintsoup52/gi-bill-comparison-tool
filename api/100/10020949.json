@@ -1,6 +1,6 @@
 {
   "facility_code": "10020949",
-  "institution": "Department Of Workforce Dev-Oshkosh Job Service Office",
+  "institution": "DEPARTMENT OF WORKFORCE DEV-OSHKOSH JOB SERVICE OFFICE",
   "city": "Oshkosh",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54901",
-  "email": false
+  "ope": null
 }

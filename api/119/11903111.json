@@ -1,6 +1,6 @@
 {
   "facility_code": "11903111",
-  "institution": "Savannah State University",
+  "institution": "SAVANNAH STATE UNIVERSITY",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "31404",
-  "email": true
+  "ope": "00159000"
 }

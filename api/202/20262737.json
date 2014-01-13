@@ -1,6 +1,6 @@
 {
   "facility_code": "20262737",
-  "institution": "Area 1 Hvac Jatc",
+  "institution": "AREA 1 HVAC JATC",
   "city": "Beaverton",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97008",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10638725",
-  "institution": "El Dorado Springs Police Dept.",
+  "institution": "EL DORADO SPRINGS POLICE DEPT.",
   "city": "El Dorado Springs",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64744",
-  "email": false
+  "ope": null
 }

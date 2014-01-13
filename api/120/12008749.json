@@ -1,6 +1,6 @@
 {
   "facility_code": "12008749",
-  "institution": "Va Medical Center Zablocki (Dental Residencies)",
+  "institution": "VA MEDICAL CENTER ZABLOCKI (DENTAL RESIDENCIES)",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53295",
-  "email": false
+  "ope": null
 }

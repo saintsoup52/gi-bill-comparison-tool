@@ -1,6 +1,6 @@
 {
   "facility_code": "20628440",
-  "institution": "Engineering Test Services",
+  "institution": "ENGINEERING TEST SERVICES",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29405",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32800222",
-  "institution": "Botsford Hospital",
+  "institution": "BOTSFORD HOSPITAL",
   "city": "Farmington Hills",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48336",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31005438",
-  "institution": "The University Of The Arts",
+  "institution": "THE UNIVERSITY OF THE ARTS",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19102",
-  "email": true
+  "ope": "00335000"
 }

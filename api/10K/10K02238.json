@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02238",
-  "institution": "Maneheim Township Police Department",
+  "institution": "MANEHEIM TOWNSHIP POLICE DEPARTMENT",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17601",
-  "email": true
+  "ope": null
 }

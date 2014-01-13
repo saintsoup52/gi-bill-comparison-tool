@@ -1,6 +1,6 @@
 {
   "facility_code": "11801345",
-  "institution": "Fletcher Allen Health Care/College Of Medicine",
+  "institution": "FLETCHER ALLEN HEALTH CARE/COLLEGE OF MEDICINE",
   "city": "Burlington",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5401",
-  "email": true
+  "ope": null
 }

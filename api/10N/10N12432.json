@@ -1,6 +1,6 @@
 {
   "facility_code": "10N12432",
-  "institution": "Bedford Hills Correctional Facility",
+  "institution": "BEDFORD HILLS CORRECTIONAL FACILITY",
   "city": "Bedford Hills",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10507",
-  "email": true
+  "ope": null
 }

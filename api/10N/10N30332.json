@@ -1,6 +1,6 @@
 {
   "facility_code": "10N30332",
-  "institution": "New York City Police Dept. - 122nd Satellite Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 122ND SATELLITE PRECINCT",
   "city": "Staten Island",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10314",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10J75438",
-  "institution": "Luzerne County Corrections Facility",
+  "institution": "LUZERNE COUNTY CORRECTIONS FACILITY",
   "city": "Wilkes Barre",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18702",
-  "email": false
+  "ope": null
 }

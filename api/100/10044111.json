@@ -1,6 +1,6 @@
 {
   "facility_code": "10044111",
-  "institution": "City Of Avondale Estates",
+  "institution": "CITY OF AVONDALE ESTATES",
   "city": "Avondale Estates",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30002",
-  "email": false
+  "ope": null
 }

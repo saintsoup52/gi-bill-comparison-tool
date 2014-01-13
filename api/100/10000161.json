@@ -1,6 +1,6 @@
 {
   "facility_code": "10000161",
-  "institution": "Panama Canal Co",
+  "institution": "PANAMA CANAL CO",
   "city": "Balboa",
   "state": "Panama",
   "country": "Panama",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

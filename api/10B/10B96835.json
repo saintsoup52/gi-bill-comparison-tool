@@ -1,6 +1,6 @@
 {
   "facility_code": "10B96835",
-  "institution": "Blue Ash Police Department",
+  "institution": "BLUE ASH POLICE DEPARTMENT",
   "city": "Blue Ash",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45242",
-  "email": true
+  "ope": null
 }

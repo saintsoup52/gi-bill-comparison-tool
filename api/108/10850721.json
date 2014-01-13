@@ -1,6 +1,6 @@
 {
   "facility_code": "10850721",
-  "institution": "Faa/Dept Of Transportation Boston Air Traffic Boston Control Tower Ma",
+  "institution": "FAA/DEPT OF TRANSPORTATION BOSTON AIR TRAFFIC BOSTON CONTROL TOWER MA",
   "city": "East Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2128",
-  "email": true
+  "ope": null
 }

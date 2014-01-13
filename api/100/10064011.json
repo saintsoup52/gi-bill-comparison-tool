@@ -1,6 +1,6 @@
 {
   "facility_code": "10064011",
-  "institution": "Sandy Springs Fire Rescue",
+  "institution": "SANDY SPRINGS FIRE RESCUE",
   "city": "Sandy Springs",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30350",
-  "email": true
+  "ope": null
 }

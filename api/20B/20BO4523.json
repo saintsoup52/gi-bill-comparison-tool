@@ -1,6 +1,6 @@
 {
   "facility_code": "20BO4523",
-  "institution": "Us West",
+  "institution": "US WEST",
   "city": "Wayzata",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55391",
-  "email": false
+  "ope": null
 }

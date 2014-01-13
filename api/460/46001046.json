@@ -1,6 +1,6 @@
 {
   "facility_code": "46001046",
-  "institution": "Cfa Institute",
+  "institution": "CFA INSTITUTE",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22903",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10230030",
-  "institution": "Asbury Park Fire Department",
+  "institution": "ASBURY PARK FIRE DEPARTMENT",
   "city": "Asbury Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7712",
-  "email": false
+  "ope": null
 }

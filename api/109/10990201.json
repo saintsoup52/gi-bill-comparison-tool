@@ -1,6 +1,6 @@
 {
   "facility_code": "10990201",
-  "institution": "(W/D)Va Medical Center Nutrition & Food Service (120) (Withdrawn)",
+  "institution": "(W/D)VA MEDICAL CENTER NUTRITION & FOOD SERVICE (120) (WITHDRAWN)",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36109",
-  "email": false
+  "ope": null
 }

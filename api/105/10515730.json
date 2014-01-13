@@ -1,6 +1,6 @@
 {
   "facility_code": "10515730",
-  "institution": "Jefferson Township Police Department",
+  "institution": "JEFFERSON TOWNSHIP POLICE DEPARTMENT",
   "city": "Lake Hopatcong",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7849",
-  "email": false
+  "ope": null
 }

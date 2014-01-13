@@ -1,6 +1,6 @@
 {
   "facility_code": "10P02132",
-  "institution": "Southampton Town Police Department",
+  "institution": "SOUTHAMPTON TOWN POLICE DEPARTMENT",
   "city": "Hampton Bays",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11946",
-  "email": false
+  "ope": null
 }

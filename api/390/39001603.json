@@ -1,6 +1,6 @@
 {
   "facility_code": "39001603",
-  "institution": "Technology Access Center Of Tucson Inc. (Ch31 Only)",
+  "institution": "TECHNOLOGY ACCESS CENTER OF TUCSON INC. (CH31 ONLY)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85732",
-  "email": false
+  "ope": null
 }

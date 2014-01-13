@@ -1,6 +1,6 @@
 {
   "facility_code": "10023633",
-  "institution": "Huntersville Police Department",
+  "institution": "HUNTERSVILLE POLICE DEPARTMENT",
   "city": "Huntersville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28070",
-  "email": true
+  "ope": null
 }

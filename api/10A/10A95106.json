@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95106",
-  "institution": "Faa - Denver Oep District Office",
+  "institution": "FAA - DENVER OEP DISTRICT OFFICE",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80249",
-  "email": true
+  "ope": null
 }

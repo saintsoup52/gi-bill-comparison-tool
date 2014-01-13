@@ -1,6 +1,6 @@
 {
   "facility_code": "25128705",
-  "institution": "T.E.S.T. Ndt Inc.",
+  "institution": "T.E.S.T. NDT INC.",
   "city": "Brea",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92821",
-  "email": false
+  "ope": null
 }

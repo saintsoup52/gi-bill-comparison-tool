@@ -1,6 +1,6 @@
 {
   "facility_code": "10079414",
-  "institution": "Fairmount Police Department",
+  "institution": "FAIRMOUNT POLICE DEPARTMENT",
   "city": "Fairmount",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46928",
-  "email": true
+  "ope": null
 }

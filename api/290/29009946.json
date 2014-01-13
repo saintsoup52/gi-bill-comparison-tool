@@ -1,6 +1,6 @@
 {
   "facility_code": "29009946",
-  "institution": "Iam Cares",
+  "institution": "IAM CARES",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23502",
-  "email": false
+  "ope": null
 }

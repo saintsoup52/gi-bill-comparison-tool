@@ -1,6 +1,6 @@
 {
   "facility_code": "10078314",
-  "institution": "Federal Aviation Administration - Evansville Air Traffic Control Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION - EVANSVILLE AIR TRAFFIC CONTROL TOWER",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47725",
-  "email": true
+  "ope": null
 }

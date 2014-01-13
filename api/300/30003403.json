@@ -1,6 +1,6 @@
 {
   "facility_code": "30003403",
-  "institution": "Arizona Sheet Metal Jatc",
+  "institution": "ARIZONA SHEET METAL JATC",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85034",
-  "email": false
+  "ope": null
 }

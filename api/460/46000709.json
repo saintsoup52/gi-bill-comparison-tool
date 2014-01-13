@@ -1,6 +1,6 @@
 {
   "facility_code": "46000709",
-  "institution": "Federal Aviation Administration",
+  "institution": "FEDERAL AVIATION ADMINISTRATION",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20591",
-  "email": false
+  "ope": null
 }

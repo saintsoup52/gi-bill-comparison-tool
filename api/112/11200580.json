@@ -1,6 +1,6 @@
 {
   "facility_code": "11200580",
-  "institution": "University Of Duisburg - Essen",
+  "institution": "UNIVERSITY OF DUISBURG - ESSEN",
   "city": "Duisburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

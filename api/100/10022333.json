@@ -1,6 +1,6 @@
 {
   "facility_code": "10022333",
-  "institution": "City Of Rocky Mount Utilities Department",
+  "institution": "CITY OF ROCKY MOUNT UTILITIES DEPARTMENT",
   "city": "Rocky Mount",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27802",
-  "email": true
+  "ope": null
 }

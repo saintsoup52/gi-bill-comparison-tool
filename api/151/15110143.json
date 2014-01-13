@@ -1,6 +1,6 @@
 {
   "facility_code": "15110143",
-  "institution": "Richardson Fire Dept Basic Fire Supression",
+  "institution": "RICHARDSON FIRE DEPT BASIC FIRE SUPRESSION",
   "city": "Richardson",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75082",
-  "email": false
+  "ope": null
 }

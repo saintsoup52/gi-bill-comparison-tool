@@ -1,6 +1,6 @@
 {
   "facility_code": "10507930",
-  "institution": "Edgewater Park Police Department",
+  "institution": "EDGEWATER PARK POLICE DEPARTMENT",
   "city": "Edgewater Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8010",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C13743",
-  "institution": "Federal Prison Camp",
+  "institution": "FEDERAL PRISON CAMP",
   "city": "Bryan",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77806",
-  "email": false
+  "ope": null
 }

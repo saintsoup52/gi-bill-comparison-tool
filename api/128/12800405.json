@@ -1,6 +1,6 @@
 {
   "facility_code": "12800405",
-  "institution": "La County Usc Medical Center",
+  "institution": "LA COUNTY USC MEDICAL CENTER",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90033",
-  "email": false
+  "ope": null
 }

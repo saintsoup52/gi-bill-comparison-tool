@@ -1,6 +1,6 @@
 {
   "facility_code": "10077014",
-  "institution": "Rochester Police Department",
+  "institution": "ROCHESTER POLICE DEPARTMENT",
   "city": "Rochester",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46975",
-  "email": false
+  "ope": null
 }

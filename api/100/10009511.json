@@ -1,6 +1,6 @@
 {
   "facility_code": "10009511",
-  "institution": "Georgia State Patrol - Post 28 (Jasper)",
+  "institution": "GEORGIA STATE PATROL - POST 28 (JASPER)",
   "city": "Jasper",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30143",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09210",
-  "institution": "Federal Aviation Admin (Faa) Pensacola Radar Systems Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) PENSACOLA RADAR SYSTEMS SUPPORT CENTER",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32504",
-  "email": true
+  "ope": null
 }

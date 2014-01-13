@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09732",
-  "institution": "Us Marshals Service - Syracuse",
+  "institution": "US MARSHALS SERVICE - SYRACUSE",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13261",
-  "email": false
+  "ope": null
 }

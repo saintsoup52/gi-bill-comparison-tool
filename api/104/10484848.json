@@ -1,6 +1,6 @@
 {
   "facility_code": "10484848",
-  "institution": "Wvu Facilities Management ~ Morgantown",
+  "institution": "WVU FACILITIES MANAGEMENT ~ MORGANTOWN",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26506",
-  "email": true
+  "ope": null
 }

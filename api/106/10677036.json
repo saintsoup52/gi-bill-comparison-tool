@@ -1,6 +1,6 @@
 {
   "facility_code": "10677036",
-  "institution": "Nowata Police Department",
+  "institution": "NOWATA POLICE DEPARTMENT",
   "city": "Nowata",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74048",
-  "email": false
+  "ope": null
 }

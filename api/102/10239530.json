@@ -1,6 +1,6 @@
 {
   "facility_code": "10239530",
-  "institution": "Orange Fire Department",
+  "institution": "ORANGE FIRE DEPARTMENT",
   "city": "Orange",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7050",
-  "email": false
+  "ope": null
 }

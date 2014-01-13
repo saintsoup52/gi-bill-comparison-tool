@@ -1,6 +1,6 @@
 {
   "facility_code": "10014006",
-  "institution": "Mesa County Sheriff'S Office",
+  "institution": "MESA COUNTY SHERIFF'S OFFICE",
   "city": "Grand Junction",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81501",
-  "email": true
+  "ope": null
 }

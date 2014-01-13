@@ -1,6 +1,6 @@
 {
   "facility_code": "10436847",
-  "institution": "Kitsap County Corrections",
+  "institution": "KITSAP COUNTY CORRECTIONS",
   "city": "Port Orchard",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98366",
-  "email": true
+  "ope": null
 }

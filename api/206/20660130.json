@@ -1,6 +1,6 @@
 {
   "facility_code": "20660130",
-  "institution": "Valero-Paulsboro Refinery",
+  "institution": "VALERO-PAULSBORO REFINERY",
   "city": "Paulsboro",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8066",
-  "email": true
+  "ope": null
 }

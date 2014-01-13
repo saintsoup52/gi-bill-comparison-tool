@@ -1,6 +1,6 @@
 {
   "facility_code": "10701625",
-  "institution": "Mo Army Nat Guard-Jfmo-Dis-S0",
+  "institution": "MO ARMY NAT GUARD-JFMO-DIS-S0",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65101",
-  "email": false
+  "ope": null
 }

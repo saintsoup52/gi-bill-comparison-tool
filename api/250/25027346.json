@@ -1,6 +1,6 @@
 {
   "facility_code": "25027346",
-  "institution": "Comp Usa",
+  "institution": "COMP USA",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22304",
-  "email": false
+  "ope": null
 }

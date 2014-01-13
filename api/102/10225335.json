@@ -1,6 +1,6 @@
 {
   "facility_code": "10225335",
-  "institution": "Akron Police Department  G",
+  "institution": "AKRON POLICE DEPARTMENT  G",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44308",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A16510",
-  "institution": "Internal Revenue Service - St. Petersburg",
+  "institution": "INTERNAL REVENUE SERVICE - ST. PETERSBURG",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33702",
-  "email": false
+  "ope": null
 }

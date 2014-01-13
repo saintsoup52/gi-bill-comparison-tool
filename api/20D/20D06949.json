@@ -1,6 +1,6 @@
 {
   "facility_code": "20D06949",
-  "institution": "Wisconsin Electric Power Substation",
+  "institution": "WISCONSIN ELECTRIC POWER SUBSTATION",
   "city": "Appleton",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54915",
-  "email": false
+  "ope": null
 }

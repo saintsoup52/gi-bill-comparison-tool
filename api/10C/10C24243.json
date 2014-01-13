@@ -1,6 +1,6 @@
 {
   "facility_code": "10C24243",
-  "institution": "City Of Big Spring-Police Department",
+  "institution": "CITY OF BIG SPRING-POLICE DEPARTMENT",
   "city": "Big Spring",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79720",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10166127",
-  "institution": "Gering Police Department",
+  "institution": "GERING POLICE DEPARTMENT",
   "city": "Gering",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "69341",
-  "email": false
+  "ope": null
 }

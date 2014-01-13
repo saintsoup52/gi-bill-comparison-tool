@@ -1,6 +1,6 @@
 {
   "facility_code": "11000199",
-  "institution": "Massey University",
+  "institution": "MASSEY UNIVERSITY",
   "city": "Palmerston North",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

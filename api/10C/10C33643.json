@@ -1,6 +1,6 @@
 {
   "facility_code": "10C33643",
-  "institution": "City Of Belton Police Department",
+  "institution": "CITY OF BELTON POLICE DEPARTMENT",
   "city": "Belton",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76513",
-  "email": false
+  "ope": null
 }

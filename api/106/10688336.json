@@ -1,6 +1,6 @@
 {
   "facility_code": "10688336",
-  "institution": "Mcalester Police Department",
+  "institution": "MCALESTER POLICE DEPARTMENT",
   "city": "Mcalester",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74501",
-  "email": false
+  "ope": null
 }

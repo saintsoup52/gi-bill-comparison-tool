@@ -1,6 +1,6 @@
 {
   "facility_code": "10A84206",
-  "institution": "Cdc - Limon Correctional Facility",
+  "institution": "CDC - LIMON CORRECTIONAL FACILITY",
   "city": "Limon",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80826",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "102B2105",
-  "institution": "Faa- San Francisco Air Traffic Control Tower",
+  "institution": "FAA- SAN FRANCISCO AIR TRAFFIC CONTROL TOWER",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94128",
-  "email": false
+  "ope": null
 }

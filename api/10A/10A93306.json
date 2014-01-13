@@ -1,6 +1,6 @@
 {
   "facility_code": "10A93306",
-  "institution": "Usda Forest Service",
+  "institution": "USDA FOREST SERVICE",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81008",
-  "email": false
+  "ope": null
 }

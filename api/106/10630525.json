@@ -1,6 +1,6 @@
 {
   "facility_code": "10630525",
-  "institution": "Fulton Fire Dept.",
+  "institution": "FULTON FIRE DEPT.",
   "city": "Fulton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65251",
-  "email": false
+  "ope": null
 }

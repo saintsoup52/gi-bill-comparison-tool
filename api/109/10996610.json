@@ -1,6 +1,6 @@
 {
   "facility_code": "10996610",
-  "institution": "Clermont Police Department",
+  "institution": "CLERMONT POLICE DEPARTMENT",
   "city": "Clermont",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34711",
-  "email": true
+  "ope": null
 }

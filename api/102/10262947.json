@@ -1,6 +1,6 @@
 {
   "facility_code": "10262947",
-  "institution": "Va Medical Center (Ch31)",
+  "institution": "VA MEDICAL CENTER (CH31)",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98108",
-  "email": false
+  "ope": null
 }

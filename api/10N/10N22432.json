@@ -1,6 +1,6 @@
 {
   "facility_code": "10N22432",
-  "institution": "City Of Cortland Police Department",
+  "institution": "CITY OF CORTLAND POLICE DEPARTMENT",
   "city": "Cortland",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13045",
-  "email": false
+  "ope": null
 }

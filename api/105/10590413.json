@@ -1,6 +1,6 @@
 {
   "facility_code": "10590413",
-  "institution": "Illinois State Police District #10",
+  "institution": "ILLINOIS STATE POLICE DISTRICT #10",
   "city": "Pesotum",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61863",
-  "email": false
+  "ope": null
 }

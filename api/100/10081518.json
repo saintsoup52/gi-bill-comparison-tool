@@ -1,6 +1,6 @@
 {
   "facility_code": "10081518",
-  "institution": "Northeast Louisiana War Veterans Home (Ch31)",
+  "institution": "NORTHEAST LOUISIANA WAR VETERANS HOME (CH31)",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71203",
-  "email": true
+  "ope": null
 }

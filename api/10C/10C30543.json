@@ -1,6 +1,6 @@
 {
   "facility_code": "10C30543",
-  "institution": "Us Nuclear Reg Comm Nrc Reg Iv",
+  "institution": "US NUCLEAR REG COMM NRC REG IV",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76011",
-  "email": false
+  "ope": null
 }

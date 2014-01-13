@@ -1,6 +1,6 @@
 {
   "facility_code": "10007242",
-  "institution": "Franklin City Police Department",
+  "institution": "FRANKLIN CITY POLICE DEPARTMENT",
   "city": "Franklin",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37065",
-  "email": false
+  "ope": null
 }

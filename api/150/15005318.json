@@ -1,6 +1,6 @@
 {
   "facility_code": "15005318",
-  "institution": "Gretna Police Department Training Acad",
+  "institution": "GRETNA POLICE DEPARTMENT TRAINING ACAD",
   "city": "Gretna",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70053",
-  "email": true
+  "ope": null
 }

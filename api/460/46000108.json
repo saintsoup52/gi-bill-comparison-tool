@@ -1,6 +1,6 @@
 {
   "facility_code": "46000108",
-  "institution": "Board Of Bar Examiners Of The Delaware Supreme Court",
+  "institution": "BOARD OF BAR EXAMINERS OF THE DELAWARE SUPREME COURT",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19801",
-  "email": true
+  "ope": null
 }

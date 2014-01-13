@@ -1,6 +1,6 @@
 {
   "facility_code": "10N37032",
-  "institution": "Disabled American Veterans",
+  "institution": "DISABLED AMERICAN VETERANS",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14202",
-  "email": false
+  "ope": null
 }

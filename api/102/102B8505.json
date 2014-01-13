@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8505",
-  "institution": "Barstow Veterans Home (Chapter 31 Only)",
+  "institution": "BARSTOW VETERANS HOME (CHAPTER 31 ONLY)",
   "city": "Barstow",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92311",
-  "email": false
+  "ope": null
 }

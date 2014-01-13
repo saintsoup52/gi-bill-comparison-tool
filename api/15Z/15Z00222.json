@@ -1,6 +1,6 @@
 {
   "facility_code": "15Z00222",
-  "institution": "Sbtdc Region 7 @ Grand Valley State University",
+  "institution": "SBTDC REGION 7 @ GRAND VALLEY STATE UNIVERSITY",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49504",
-  "email": false
+  "ope": null
 }

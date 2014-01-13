@@ -1,6 +1,6 @@
 {
   "facility_code": "10486348",
-  "institution": "Department Of Treasury - Internal Revenue Service",
+  "institution": "DEPARTMENT OF TREASURY - INTERNAL REVENUE SERVICE",
   "city": "Beckley",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25801",
-  "email": true
+  "ope": null
 }

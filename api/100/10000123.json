@@ -1,6 +1,6 @@
 {
   "facility_code": "10000123",
-  "institution": "Usda Farm Service Agency",
+  "institution": "USDA FARM SERVICE AGENCY",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55901",
-  "email": "No (SCO)"
+  "ope": null
 }

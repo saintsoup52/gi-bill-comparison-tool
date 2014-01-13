@@ -1,6 +1,6 @@
 {
   "facility_code": "20K03638",
-  "institution": "Susquehanna View Apartments",
+  "institution": "SUSQUEHANNA VIEW APARTMENTS",
   "city": "Camp Hill",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17011",
-  "email": true
+  "ope": null
 }

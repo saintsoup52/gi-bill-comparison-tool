@@ -1,6 +1,6 @@
 {
   "facility_code": "20016811",
-  "institution": "Georgia Power Company-Athens Tmc",
+  "institution": "GEORGIA POWER COMPANY-ATHENS TMC",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30601",
-  "email": false
+  "ope": null
 }

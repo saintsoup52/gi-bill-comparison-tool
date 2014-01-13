@@ -1,6 +1,6 @@
 {
   "facility_code": "11901129",
-  "institution": "Keene State College",
+  "institution": "KEENE STATE COLLEGE",
   "city": "Keene",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "3435",
-  "email": false
+  "ope": "00259000"
 }

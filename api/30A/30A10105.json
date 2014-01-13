@@ -1,6 +1,6 @@
 {
   "facility_code": "30A10105",
-  "institution": "Santa Clara County Electrical Trades Jatc",
+  "institution": "SANTA CLARA COUNTY ELECTRICAL TRADES JATC",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95112",
-  "email": true
+  "ope": null
 }

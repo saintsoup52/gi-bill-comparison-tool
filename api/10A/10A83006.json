@@ -1,6 +1,6 @@
 {
   "facility_code": "10A83006",
-  "institution": "Cdc - Arkansas Valley Correctional Facility",
+  "institution": "CDC - ARKANSAS VALLEY CORRECTIONAL FACILITY",
   "city": "Crowley",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81034",
-  "email": false
+  "ope": null
 }

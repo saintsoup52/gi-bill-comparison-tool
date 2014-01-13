@@ -1,6 +1,6 @@
 {
   "facility_code": "28574432",
-  "institution": "Abc Learning Center",
+  "institution": "ABC LEARNING CENTER",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11237",
-  "email": false
+  "ope": null
 }

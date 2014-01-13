@@ -1,6 +1,6 @@
 {
   "facility_code": "10166727",
-  "institution": "Federal Aviation Admin (Faa) - Lincoln Atct",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) - LINCOLN ATCT",
   "city": "Lincon",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68524",
-  "email": true
+  "ope": null
 }

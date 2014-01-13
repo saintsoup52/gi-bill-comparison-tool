@@ -1,6 +1,6 @@
 {
   "facility_code": "10836521",
-  "institution": "Stoughton Fire Department",
+  "institution": "STOUGHTON FIRE DEPARTMENT",
   "city": "Stoughton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2072",
-  "email": false
+  "ope": null
 }

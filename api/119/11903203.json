@@ -1,6 +1,6 @@
 {
   "facility_code": "11903203",
-  "institution": "University Of Arizona College Of Medicine",
+  "institution": "UNIVERSITY OF ARIZONA COLLEGE OF MEDICINE",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "85724",
-  "email": false
+  "ope": "00108300"
 }

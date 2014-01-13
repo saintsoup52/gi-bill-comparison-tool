@@ -1,6 +1,6 @@
 {
   "facility_code": "10027633",
-  "institution": "Veterans Health Administration (Vamc Salisbury)Currently Only Ch31",
+  "institution": "VETERANS HEALTH ADMINISTRATION (VAMC SALISBURY)CURRENTLY ONLY CH31",
   "city": "Salisbury",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28144",
-  "email": false
+  "ope": null
 }

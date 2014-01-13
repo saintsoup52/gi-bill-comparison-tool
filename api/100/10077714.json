@@ -1,6 +1,6 @@
 {
   "facility_code": "10077714",
-  "institution": "Federal Aviation Administration - Fort Wayne Air Traffic Control Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION - FORT WAYNE AIR TRAFFIC CONTROL TOWER",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46809",
-  "email": false
+  "ope": null
 }

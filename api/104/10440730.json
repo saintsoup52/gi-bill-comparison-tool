@@ -1,6 +1,6 @@
 {
   "facility_code": "10440730",
-  "institution": "Oakland Police Department",
+  "institution": "OAKLAND POLICE DEPARTMENT",
   "city": "Oakland",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7436",
-  "email": false
+  "ope": null
 }

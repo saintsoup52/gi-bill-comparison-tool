@@ -1,6 +1,6 @@
 {
   "facility_code": "10076214",
-  "institution": "Warsaw Police Department",
+  "institution": "WARSAW POLICE DEPARTMENT",
   "city": "Warsaw",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46581",
-  "email": false
+  "ope": null
 }

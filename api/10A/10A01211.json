@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01211",
-  "institution": "Dodge County Sheriff'S Department",
+  "institution": "DODGE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Eastman",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31023",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10411746",
-  "institution": "Augusta Correctional Center",
+  "institution": "AUGUSTA CORRECTIONAL CENTER",
   "city": "Craigsville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24430",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10223503",
-  "institution": "Peoria Police Department",
+  "institution": "PEORIA POLICE DEPARTMENT",
   "city": "Peoria",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85345",
-  "email": false
+  "ope": null
 }

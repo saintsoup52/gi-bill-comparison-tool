@@ -1,6 +1,6 @@
 {
   "facility_code": "329B1138",
-  "institution": "Lehigh Valley Health Network Division Of Education",
+  "institution": "LEHIGH VALLEY HEALTH NETWORK DIVISION OF EDUCATION",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18103",
-  "email": true
+  "ope": null
 }

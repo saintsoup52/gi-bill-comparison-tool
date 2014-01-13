@@ -1,6 +1,6 @@
 {
   "facility_code": "10500915",
-  "institution": "Us Corps Of Engineers",
+  "institution": "US CORPS OF ENGINEERS",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52001",
-  "email": false
+  "ope": null
 }

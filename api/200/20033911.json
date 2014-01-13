@@ -1,6 +1,6 @@
 {
   "facility_code": "20033911",
-  "institution": "Lci-Sssc Inc.  Ft Gordon",
+  "institution": "LCI-SSSC INC.  FT GORDON",
   "city": "Ft Gordon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30905",
-  "email": false
+  "ope": null
 }

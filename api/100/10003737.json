@@ -1,6 +1,6 @@
 {
   "facility_code": "10003737",
-  "institution": "Bureau Of Alcohol Tobacco Firearms & Explosives (Portland)",
+  "institution": "BUREAU OF ALCOHOL TOBACCO FIREARMS & EXPLOSIVES (PORTLAND)",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97232",
-  "email": true
+  "ope": null
 }

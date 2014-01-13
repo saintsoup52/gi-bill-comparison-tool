@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11332",
-  "institution": "Woodbourne Correctional Facility",
+  "institution": "WOODBOURNE CORRECTIONAL FACILITY",
   "city": "Woodbourne",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12788",
-  "email": true
+  "ope": null
 }

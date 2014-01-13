@@ -1,6 +1,6 @@
 {
   "facility_code": "31000569",
-  "institution": "American Univ Of Central Asia",
+  "institution": "AMERICAN UNIV OF CENTRAL ASIA",
   "city": "Bishkek City",
   "state": "Kyrgyzstan",
   "country": "Kyrgyzstan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

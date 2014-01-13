@@ -1,6 +1,6 @@
 {
   "facility_code": "10509524",
-  "institution": "Va Medical Center (Ch31)",
+  "institution": "VA MEDICAL CENTER (CH31)",
   "city": "Biloxi",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39501",
-  "email": "No (SCO)"
+  "ope": null
 }

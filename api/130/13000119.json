@@ -1,6 +1,6 @@
 {
   "facility_code": "13000119",
-  "institution": "University Of Maine At Farmington",
+  "institution": "UNIVERSITY OF MAINE AT FARMINGTON",
   "city": "Farmington",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4938",
-  "email": true
+  "ope": "00204000"
 }

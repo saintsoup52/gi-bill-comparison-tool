@@ -1,6 +1,6 @@
 {
   "facility_code": "31100171",
-  "institution": "Universitat Salzburg",
+  "institution": "UNIVERSITAT SALZBURG",
   "city": "A-5020 Salzburg,",
   "state": "Austria",
   "country": "Austria",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

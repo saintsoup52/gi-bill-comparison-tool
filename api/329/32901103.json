@@ -1,6 +1,6 @@
 {
   "facility_code": "32901103",
-  "institution": "Banner Good Samaritan Medical Center",
+  "institution": "BANNER GOOD SAMARITAN MEDICAL CENTER",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85006",
-  "email": false
+  "ope": null
 }

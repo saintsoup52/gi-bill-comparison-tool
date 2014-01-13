@@ -1,6 +1,6 @@
 {
   "facility_code": "10300847",
-  "institution": "Yakima Police Department",
+  "institution": "YAKIMA POLICE DEPARTMENT",
   "city": "Yakima",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98901",
-  "email": true
+  "ope": null
 }

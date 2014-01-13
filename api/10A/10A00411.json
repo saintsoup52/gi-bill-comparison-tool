@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00411",
-  "institution": "Forsyth County Sheriff'S Office",
+  "institution": "FORSYTH COUNTY SHERIFF'S OFFICE",
   "city": "Cumming",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31029",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10071814",
-  "institution": "Ellettsville Police Department",
+  "institution": "ELLETTSVILLE POLICE DEPARTMENT",
   "city": "Ellettsville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47429",
-  "email": false
+  "ope": null
 }

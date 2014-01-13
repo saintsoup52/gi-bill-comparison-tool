@@ -1,6 +1,6 @@
 {
   "facility_code": "20593213",
-  "institution": "Chicago Executive Air Traffic Control Tower",
+  "institution": "CHICAGO EXECUTIVE AIR TRAFFIC CONTROL TOWER",
   "city": "Wheeling",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60090",
-  "email": true
+  "ope": null
 }

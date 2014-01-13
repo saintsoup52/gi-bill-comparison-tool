@@ -1,6 +1,6 @@
 {
   "facility_code": "28021619",
-  "institution": "Aaa - Advanced Computers",
+  "institution": "AAA - ADVANCED COMPUTERS",
   "city": "Emden",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4958",
-  "email": false
+  "ope": null
 }

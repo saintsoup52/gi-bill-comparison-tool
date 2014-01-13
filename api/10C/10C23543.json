@@ -1,6 +1,6 @@
 {
   "facility_code": "10C23543",
-  "institution": "Internal Revenue Service",
+  "institution": "INTERNAL REVENUE SERVICE",
   "city": "Farmers Branch",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75244",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103B7605",
-  "institution": "Social Security Administration (Oceanside)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (OCEANSIDE)",
   "city": "Oceanside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92054",
-  "email": false
+  "ope": null
 }

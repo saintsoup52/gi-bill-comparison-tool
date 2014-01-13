@@ -1,6 +1,6 @@
 {
   "facility_code": "34802301",
-  "institution": "Faulkner University - Huntsville",
+  "institution": "FAULKNER UNIVERSITY - HUNTSVILLE",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35805",
-  "email": true
+  "ope": "00100303"
 }

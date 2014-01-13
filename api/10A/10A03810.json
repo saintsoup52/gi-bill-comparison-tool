@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03810",
-  "institution": "Federal Aviation Admin (Faa) Jacksonville Artcc (En Route Center)Hilliardfl",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) JACKSONVILLE ARTCC (EN ROUTE CENTER)HILLIARDFL",
   "city": "Hillard",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32046",
-  "email": true
+  "ope": null
 }

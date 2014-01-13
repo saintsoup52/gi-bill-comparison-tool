@@ -1,6 +1,6 @@
 {
   "facility_code": "10070311",
-  "institution": "Cobb County Medical Examiner'S Office",
+  "institution": "COBB COUNTY MEDICAL EXAMINER'S OFFICE",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30060",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31200078",
-  "institution": "Lesley University",
+  "institution": "LESLEY UNIVERSITY",
   "city": "Netanya",
   "state": "Israel (Tel Aviv)",
   "country": "Israel (Tel Aviv)",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": "00216000"
 }

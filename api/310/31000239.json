@@ -1,6 +1,6 @@
 {
   "facility_code": "31000239",
-  "institution": "Providence College",
+  "institution": "PROVIDENCE COLLEGE",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2918",
-  "email": true
+  "ope": "00340600"
 }

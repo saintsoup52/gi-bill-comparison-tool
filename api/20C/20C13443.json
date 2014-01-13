@@ -1,6 +1,6 @@
 {
   "facility_code": "20C13443",
-  "institution": "Usm Inc",
+  "institution": "USM INC",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77034",
-  "email": false
+  "ope": null
 }

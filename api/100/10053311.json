@@ -1,6 +1,6 @@
 {
   "facility_code": "10053311",
-  "institution": "Defense Contract Management Agency (Marietta)",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (MARIETTA)",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30063",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C07343",
-  "institution": "Entergy Helbig Trng Ctr",
+  "institution": "ENTERGY HELBIG TRNG CTR",
   "city": "Beaumont",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77708",
-  "email": false
+  "ope": null
 }

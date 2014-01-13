@@ -1,6 +1,6 @@
 {
   "facility_code": "103B0805",
-  "institution": "Centinela State Prison",
+  "institution": "CENTINELA STATE PRISON",
   "city": "Imperial",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92251",
-  "email": true
+  "ope": null
 }

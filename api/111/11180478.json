@@ -1,6 +1,6 @@
 {
   "facility_code": "11180478",
-  "institution": "The University Of Pablo De Olavide Of Seville",
+  "institution": "THE UNIVERSITY OF PABLO DE OLAVIDE OF SEVILLE",
   "city": "Sevilla",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

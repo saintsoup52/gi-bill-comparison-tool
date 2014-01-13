@@ -1,6 +1,6 @@
 {
   "facility_code": "20107526",
-  "institution": "Mullan Station",
+  "institution": "MULLAN STATION",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59808",
-  "email": false
+  "ope": null
 }

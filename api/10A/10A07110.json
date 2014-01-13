@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07110",
-  "institution": "U.S. Customs & Border Protection - Miami Air & Marine Branch",
+  "institution": "U.S. CUSTOMS & BORDER PROTECTION - MIAMI AIR & MARINE BRANCH",
   "city": "Homestead Arb",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33039",
-  "email": true
+  "ope": null
 }

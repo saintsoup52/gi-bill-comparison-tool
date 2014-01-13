@@ -1,6 +1,6 @@
 {
   "facility_code": "10621525",
-  "institution": "Kansas City Fire Dept.",
+  "institution": "KANSAS CITY FIRE DEPT.",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64120",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C38443",
-  "institution": "Faa Dal Atss",
+  "institution": "FAA DAL ATSS",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75235",
-  "email": false
+  "ope": null
 }

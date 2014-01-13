@@ -1,6 +1,6 @@
 {
   "facility_code": "31802320",
-  "institution": "Johns Hopkins University School Of Medicine",
+  "institution": "JOHNS HOPKINS UNIVERSITY SCHOOL OF MEDICINE",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21205",
-  "email": true
+  "ope": "00207706"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25005130",
-  "institution": "American Training School For Medical Professionals",
+  "institution": "AMERICAN TRAINING SCHOOL FOR MEDICAL PROFESSIONALS",
   "city": "West New York",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7093",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10209126",
-  "institution": "Kalispell Police Department",
+  "institution": "KALISPELL POLICE DEPARTMENT",
   "city": "Kalispell",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59903",
-  "email": false
+  "ope": null
 }

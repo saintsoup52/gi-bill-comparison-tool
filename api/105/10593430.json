@@ -1,6 +1,6 @@
 {
   "facility_code": "10593430",
-  "institution": "Randolph Police Department",
+  "institution": "RANDOLPH POLICE DEPARTMENT",
   "city": "Randolph",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7869",
-  "email": true
+  "ope": null
 }

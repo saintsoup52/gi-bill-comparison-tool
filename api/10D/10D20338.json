@@ -1,6 +1,6 @@
 {
   "facility_code": "10D20338",
-  "institution": "Va Medical Center - Coatesville",
+  "institution": "VA MEDICAL CENTER - COATESVILLE",
   "city": "Coatesville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19320",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000686",
-  "institution": "Universidad Del Valle De Mexico S.C.",
+  "institution": "UNIVERSIDAD DEL VALLE DE MEXICO S.C.",
   "city": "Zapopan",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

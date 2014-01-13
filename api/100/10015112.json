@@ -1,6 +1,6 @@
 {
   "facility_code": "10015112",
-  "institution": "Franklin County Sheriff",
+  "institution": "FRANKLIN COUNTY SHERIFF",
   "city": "Preston",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83263",
-  "email": false
+  "ope": null
 }

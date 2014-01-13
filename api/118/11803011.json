@@ -1,6 +1,6 @@
 {
   "facility_code": "11803011",
-  "institution": "University Of Georgia",
+  "institution": "UNIVERSITY OF GEORGIA",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30602",
-  "email": true
+  "ope": "00159800"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10593730",
-  "institution": "Lyndhurst Police Department",
+  "institution": "LYNDHURST POLICE DEPARTMENT",
   "city": "Lyndhurst",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7071",
-  "email": false
+  "ope": null
 }

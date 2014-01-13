@@ -1,6 +1,6 @@
 {
   "facility_code": "13960125",
-  "institution": "Missouri State University",
+  "institution": "MISSOURI STATE UNIVERSITY",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "65804",
-  "email": false
+  "ope": "00250300"
 }

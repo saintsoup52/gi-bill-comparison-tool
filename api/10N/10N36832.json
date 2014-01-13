@@ -1,6 +1,6 @@
 {
   "facility_code": "10N36832",
-  "institution": "U.S. Customs And Border Protection - Buffalo Field Office",
+  "institution": "U.S. CUSTOMS AND BORDER PROTECTION - BUFFALO FIELD OFFICE",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14225",
-  "email": true
+  "ope": null
 }

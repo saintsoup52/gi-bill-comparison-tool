@@ -1,6 +1,6 @@
 {
   "facility_code": "10005537",
-  "institution": "Faa Hillsboro Tower",
+  "institution": "FAA HILLSBORO TOWER",
   "city": "Hillsboro",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97124",
-  "email": true
+  "ope": null
 }

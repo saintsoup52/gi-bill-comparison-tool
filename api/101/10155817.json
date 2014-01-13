@@ -1,6 +1,6 @@
 {
   "facility_code": "10155817",
-  "institution": "Louisville Metro Police Department",
+  "institution": "LOUISVILLE METRO POLICE DEPARTMENT",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40208",
-  "email": true
+  "ope": null
 }

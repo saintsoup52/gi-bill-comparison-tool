@@ -1,6 +1,6 @@
 {
   "facility_code": "10481048",
-  "institution": "Anthony Correctional Center",
+  "institution": "ANTHONY CORRECTIONAL CENTER",
   "city": "White Sulphur Springs",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24986",
-  "email": false
+  "ope": null
 }

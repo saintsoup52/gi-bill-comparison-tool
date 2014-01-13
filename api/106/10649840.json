@@ -1,6 +1,6 @@
 {
   "facility_code": "10649840",
-  "institution": "Laurens Police Department",
+  "institution": "LAURENS POLICE DEPARTMENT",
   "city": "Laurens",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29360",
-  "email": false
+  "ope": null
 }

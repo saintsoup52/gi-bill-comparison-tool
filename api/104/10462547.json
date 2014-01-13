@@ -1,6 +1,6 @@
 {
   "facility_code": "10462547",
-  "institution": "Department Of Veterans Affairs @ Seattle Ro",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS @ SEATTLE RO",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98174",
-  "email": true
+  "ope": null
 }

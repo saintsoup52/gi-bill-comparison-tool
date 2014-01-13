@@ -1,6 +1,6 @@
 {
   "facility_code": "20489617",
-  "institution": "Operating Engineers Local 181",
+  "institution": "OPERATING ENGINEERS LOCAL 181",
   "city": "Boston",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40107",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10607213",
-  "institution": "Elmhurst Police Department",
+  "institution": "ELMHURST POLICE DEPARTMENT",
   "city": "Elmhurst",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60126",
-  "email": false
+  "ope": null
 }

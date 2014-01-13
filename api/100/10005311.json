@@ -1,6 +1,6 @@
 {
   "facility_code": "10005311",
-  "institution": "White County Sheriff'S Department",
+  "institution": "WHITE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Cleveland",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30528",
-  "email": false
+  "ope": null
 }

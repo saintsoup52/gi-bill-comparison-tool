@@ -1,6 +1,6 @@
 {
   "facility_code": "10995701",
-  "institution": "Huntsville Utilities",
+  "institution": "HUNTSVILLE UTILITIES",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35804",
-  "email": false
+  "ope": null
 }

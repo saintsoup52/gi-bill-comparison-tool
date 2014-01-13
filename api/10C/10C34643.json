@@ -1,6 +1,6 @@
 {
   "facility_code": "10C34643",
-  "institution": "Us Army South",
+  "institution": "US ARMY SOUTH",
   "city": "Fort Sam Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78234",
-  "email": false
+  "ope": null
 }

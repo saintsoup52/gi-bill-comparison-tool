@@ -1,6 +1,6 @@
 {
   "facility_code": "10490617",
-  "institution": "Mayfield Police Department",
+  "institution": "MAYFIELD POLICE DEPARTMENT",
   "city": "Mayfield",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42066",
-  "email": false
+  "ope": null
 }

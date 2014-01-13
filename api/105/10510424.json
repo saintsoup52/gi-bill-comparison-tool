@@ -1,6 +1,6 @@
 {
   "facility_code": "10510424",
-  "institution": "Federal Aviation Administration (Faa)- Gulfport Biloxi Int'L Airport",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA)- GULFPORT BILOXI INT'L AIRPORT",
   "city": "Gulfport",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39501",
-  "email": true
+  "ope": null
 }

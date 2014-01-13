@@ -1,6 +1,6 @@
 {
   "facility_code": "10463047",
-  "institution": "U.S. Coast Guard Sector Puget Sound Wa",
+  "institution": "U.S. COAST GUARD SECTOR PUGET SOUND WA",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98134",
-  "email": true
+  "ope": null
 }

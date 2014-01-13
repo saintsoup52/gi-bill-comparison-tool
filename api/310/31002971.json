@@ -1,6 +1,6 @@
 {
   "facility_code": "31002971",
-  "institution": "Center For International Legal Studies",
+  "institution": "CENTER FOR INTERNATIONAL LEGAL STUDIES",
   "city": "Salzburg",
   "state": "Austria",
   "country": "Austria",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

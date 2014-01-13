@@ -1,6 +1,6 @@
 {
   "facility_code": "31904111",
-  "institution": "Emory University  Registrar'S Office",
+  "institution": "EMORY UNIVERSITY  REGISTRAR'S OFFICE",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30322",
-  "email": true
+  "ope": "00156400"
 }

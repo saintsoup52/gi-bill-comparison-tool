@@ -1,6 +1,6 @@
 {
   "facility_code": "11813110",
-  "institution": "Southern Illinois Univ Carbondale - Nas Pensacola",
+  "institution": "SOUTHERN ILLINOIS UNIV CARBONDALE - NAS PENSACOLA",
   "city": "Nas Pensacola",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32508",
-  "email": true
+  "ope": "00175875"
 }

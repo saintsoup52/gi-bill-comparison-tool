@@ -1,6 +1,6 @@
 {
   "facility_code": "10055711",
-  "institution": "Georgia Department Of Human Resources - District V",
+  "institution": "GEORGIA DEPARTMENT OF HUMAN RESOURCES - DISTRICT V",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31201",
-  "email": false
+  "ope": null
 }

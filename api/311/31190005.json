@@ -1,6 +1,6 @@
 {
   "facility_code": "31190005",
-  "institution": "Dominican University Of California",
+  "institution": "DOMINICAN UNIVERSITY OF CALIFORNIA",
   "city": "San Rafael",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94901",
-  "email": true
+  "ope": "00119600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "102B1805",
-  "institution": "Faa- Oakland Tower",
+  "institution": "FAA- OAKLAND TOWER",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94621",
-  "email": false
+  "ope": null
 }

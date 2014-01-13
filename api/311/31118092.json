@@ -1,6 +1,6 @@
 {
   "facility_code": "31118092",
-  "institution": "Universidad Tecnologica Equinoccial",
+  "institution": "UNIVERSIDAD TECNOLOGICA EQUINOCCIAL",
   "city": "Quito",
   "state": "Ecuador",
   "country": "Ecuador",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

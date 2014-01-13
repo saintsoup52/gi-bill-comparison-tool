@@ -1,6 +1,6 @@
 {
   "facility_code": "32004720",
-  "institution": "Maryland General Hospital School Of Radiologic Technology",
+  "institution": "MARYLAND GENERAL HOSPITAL SCHOOL OF RADIOLOGIC TECHNOLOGY",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21201",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10590230",
-  "institution": "Bridgewater Police Department",
+  "institution": "BRIDGEWATER POLICE DEPARTMENT",
   "city": "Bridgewater",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8807",
-  "email": false
+  "ope": null
 }

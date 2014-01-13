@@ -1,6 +1,6 @@
 {
   "facility_code": "32030138",
-  "institution": "Wills Eye Hospital",
+  "institution": "WILLS EYE HOSPITAL",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19107",
-  "email": false
+  "ope": null
 }

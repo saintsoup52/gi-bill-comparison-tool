@@ -1,6 +1,6 @@
 {
   "facility_code": "10165611",
-  "institution": "Floyd County Police Dept",
+  "institution": "FLOYD COUNTY POLICE DEPT",
   "city": "Rome",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30161",
-  "email": false
+  "ope": null
 }

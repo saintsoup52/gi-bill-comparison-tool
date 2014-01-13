@@ -1,6 +1,6 @@
 {
   "facility_code": "20595713",
-  "institution": "Ameren Ip-Jacksonville",
+  "institution": "AMEREN IP-JACKSONVILLE",
   "city": "Jacksonville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62650",
-  "email": false
+  "ope": null
 }

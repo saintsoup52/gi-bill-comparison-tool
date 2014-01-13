@@ -1,6 +1,6 @@
 {
   "facility_code": "10552130",
-  "institution": "Old Bridge Police Department",
+  "institution": "OLD BRIDGE POLICE DEPARTMENT",
   "city": "Old Bridge",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8857",
-  "email": false
+  "ope": null
 }

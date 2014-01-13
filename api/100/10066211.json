@@ -1,6 +1,6 @@
 {
   "facility_code": "10066211",
-  "institution": "Morven Police Department",
+  "institution": "MORVEN POLICE DEPARTMENT",
   "city": "Morven",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31638",
-  "email": false
+  "ope": null
 }

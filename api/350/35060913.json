@@ -1,6 +1,6 @@
 {
   "facility_code": "35060913",
-  "institution": "Delasalle Institute H.S.",
+  "institution": "DELASALLE INSTITUTE H.S.",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60616",
-  "email": true
+  "ope": null
 }

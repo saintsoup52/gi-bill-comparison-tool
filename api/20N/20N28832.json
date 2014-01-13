@@ -1,6 +1,6 @@
 {
   "facility_code": "20N28832",
-  "institution": "National Grid (Stow)",
+  "institution": "NATIONAL GRID (STOW)",
   "city": "Ashville",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14710",
-  "email": true
+  "ope": null
 }

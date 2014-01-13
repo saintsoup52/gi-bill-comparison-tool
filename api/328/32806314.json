@@ -1,6 +1,6 @@
 {
   "facility_code": "32806314",
-  "institution": "Harrison County Hospital",
+  "institution": "HARRISON COUNTY HOSPITAL",
   "city": "Corydon",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47112",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10021033",
-  "institution": "North Carolina State Bureau Of Investigations",
+  "institution": "NORTH CAROLINA STATE BUREAU OF INVESTIGATIONS",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27626",
-  "email": true
+  "ope": null
 }

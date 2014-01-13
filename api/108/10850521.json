@@ -1,6 +1,6 @@
 {
   "facility_code": "10850521",
-  "institution": "Us Customs And Border Protection Boston Ma Field Office",
+  "institution": "US CUSTOMS AND BORDER PROTECTION BOSTON MA FIELD OFFICE",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2222",
-  "email": true
+  "ope": null
 }

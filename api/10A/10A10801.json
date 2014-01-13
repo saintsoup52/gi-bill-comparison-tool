@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10801",
-  "institution": "Weldteck Testing Labs",
+  "institution": "WELDTECK TESTING LABS",
   "city": "West Oxford",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36203",
-  "email": false
+  "ope": null
 }

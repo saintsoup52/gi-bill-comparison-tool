@@ -1,6 +1,6 @@
 {
   "facility_code": "10573413",
-  "institution": "Mchenry County Sheriff'S Office",
+  "institution": "MCHENRY COUNTY SHERIFF'S OFFICE",
   "city": "Woodstock",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60098",
-  "email": true
+  "ope": null
 }

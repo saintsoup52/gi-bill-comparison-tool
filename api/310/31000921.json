@@ -1,6 +1,6 @@
 {
   "facility_code": "31000921",
-  "institution": "College Of The Holy Cross",
+  "institution": "COLLEGE OF THE HOLY CROSS",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "1610",
-  "email": true
+  "ope": "00214100"
 }

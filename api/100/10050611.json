@@ -1,6 +1,6 @@
 {
   "facility_code": "10050611",
-  "institution": "City Of Douglas Fire Department",
+  "institution": "CITY OF DOUGLAS FIRE DEPARTMENT",
   "city": "Douglas",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31533",
-  "email": false
+  "ope": null
 }

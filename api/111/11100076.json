@@ -1,6 +1,6 @@
 {
   "facility_code": "11100076",
-  "institution": "Universidad Nacional Autonoma De Honduras",
+  "institution": "UNIVERSIDAD NACIONAL AUTONOMA DE HONDURAS",
   "city": "Tegucigalpa",
   "state": "Honduras",
   "country": "Honduras",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

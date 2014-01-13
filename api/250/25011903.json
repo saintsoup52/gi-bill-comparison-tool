@@ -1,6 +1,6 @@
 {
   "facility_code": "25011903",
-  "institution": "Perry Rehabilitation Center (Ch31 Only)",
+  "institution": "PERRY REHABILITATION CENTER (CH31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85008",
-  "email": false
+  "ope": null
 }

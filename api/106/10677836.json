@@ -1,6 +1,6 @@
 {
   "facility_code": "10677836",
-  "institution": "Chattanooga Police Department",
+  "institution": "CHATTANOOGA POLICE DEPARTMENT",
   "city": "Chattanooga Ok",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73528",
-  "email": false
+  "ope": null
 }

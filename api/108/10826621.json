@@ -1,6 +1,6 @@
 {
   "facility_code": "10826621",
-  "institution": "Springfield Fire Department",
+  "institution": "SPRINGFIELD FIRE DEPARTMENT",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1105",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "19001214",
-  "institution": "Indiana National Guard Armory Valparaiso",
+  "institution": "INDIANA NATIONAL GUARD ARMORY VALPARAISO",
   "city": "Valparaiso",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46383",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N26432",
-  "institution": "Nypd-Transit Bureau-Citiwide Impact Task Force",
+  "institution": "NYPD-TRANSIT BUREAU-CITIWIDE IMPACT TASK FORCE",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11201",
-  "email": true
+  "ope": null
 }

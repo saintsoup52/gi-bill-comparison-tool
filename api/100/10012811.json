@@ -1,6 +1,6 @@
 {
   "facility_code": "10012811",
-  "institution": "Effingham County Prison",
+  "institution": "EFFINGHAM COUNTY PRISON",
   "city": "Springfield",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31329",
-  "email": false
+  "ope": null
 }

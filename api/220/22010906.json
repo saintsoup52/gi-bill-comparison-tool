@@ -1,6 +1,6 @@
 {
   "facility_code": "22010906",
-  "institution": "Rocky Vista University",
+  "institution": "ROCKY VISTA UNIVERSITY",
   "city": "Parker",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80134",
-  "email": true
+  "ope": null
 }

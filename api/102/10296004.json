@@ -1,6 +1,6 @@
 {
   "facility_code": "10296004",
-  "institution": "Arkansas Deparment Of Community Corrections Area 7",
+  "institution": "ARKANSAS DEPARMENT OF COMMUNITY CORRECTIONS AREA 7",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72205",
-  "email": true
+  "ope": null
 }

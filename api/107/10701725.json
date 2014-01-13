@@ -1,6 +1,6 @@
 {
   "facility_code": "10701725",
-  "institution": "Ozark Fire Department",
+  "institution": "OZARK FIRE DEPARTMENT",
   "city": "Ozark",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65721",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30005014",
-  "institution": "Sheet Metal Workers Loc#20 Appr./Trng. Trust",
+  "institution": "SHEET METAL WORKERS LOC#20 APPR./TRNG. TRUST",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46205",
-  "email": false
+  "ope": null
 }

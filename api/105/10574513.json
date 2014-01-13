@@ -1,6 +1,6 @@
 {
   "facility_code": "10574513",
-  "institution": "Champaign Fire Department",
+  "institution": "CHAMPAIGN FIRE DEPARTMENT",
   "city": "Champaign",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61820",
-  "email": false
+  "ope": null
 }

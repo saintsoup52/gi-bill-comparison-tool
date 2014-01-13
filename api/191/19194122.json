@@ -1,6 +1,6 @@
 {
   "facility_code": "19194122",
-  "institution": "Allegan County",
+  "institution": "ALLEGAN COUNTY",
   "city": "Allegan",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49010",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10403546",
-  "institution": "Falls Church Police Dept",
+  "institution": "FALLS CHURCH POLICE DEPT",
   "city": "Falls Church",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22046",
-  "email": false
+  "ope": null
 }

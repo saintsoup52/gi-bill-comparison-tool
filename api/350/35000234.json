@@ -1,6 +1,6 @@
 {
   "facility_code": "35000234",
-  "institution": "St. Alexius Medical Center",
+  "institution": "ST. ALEXIUS MEDICAL CENTER",
   "city": "Bismarck",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58501",
-  "email": true
+  "ope": null
 }

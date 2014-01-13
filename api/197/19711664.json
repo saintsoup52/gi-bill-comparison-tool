@@ -1,6 +1,6 @@
 {
   "facility_code": "19711664",
-  "institution": "Social Security Administration (Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (CH31 ONLY)",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96850",
-  "email": false
+  "ope": null
 }

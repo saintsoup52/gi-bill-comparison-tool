@@ -1,6 +1,6 @@
 {
   "facility_code": "10450447",
-  "institution": "Lummi Nation Police Department",
+  "institution": "LUMMI NATION POLICE DEPARTMENT",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98226",
-  "email": true
+  "ope": null
 }

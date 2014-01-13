@@ -1,6 +1,6 @@
 {
   "facility_code": "20444803",
-  "institution": "Trans-Matic Manufacturing Company",
+  "institution": "TRANS-MATIC MANUFACTURING COMPANY",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85283",
-  "email": false
+  "ope": null
 }

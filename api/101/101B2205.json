@@ -1,6 +1,6 @@
 {
   "facility_code": "101B2205",
-  "institution": "California Highway Patrol-Marin Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL-MARIN AREA",
   "city": "Corte Madera",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94925",
-  "email": false
+  "ope": null
 }

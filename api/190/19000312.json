@@ -1,6 +1,6 @@
 {
   "facility_code": "19000312",
-  "institution": "The Arc Inc. (Ch 31)",
+  "institution": "THE ARC INC. (CH 31)",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83701",
-  "email": false
+  "ope": null
 }

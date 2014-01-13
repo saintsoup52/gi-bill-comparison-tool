@@ -1,6 +1,6 @@
 {
   "facility_code": "10055136",
-  "institution": "Tulsa County Sheriff'S Office",
+  "institution": "TULSA COUNTY SHERIFF'S OFFICE",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74103",
-  "email": true
+  "ope": null
 }

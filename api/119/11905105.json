@@ -1,6 +1,6 @@
 {
   "facility_code": "11905105",
-  "institution": "University Of California- Santa Barbara",
+  "institution": "UNIVERSITY OF CALIFORNIA- SANTA BARBARA",
   "city": "Santa Barbara",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93106",
-  "email": false
+  "ope": "00132000"
 }

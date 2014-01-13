@@ -1,6 +1,6 @@
 {
   "facility_code": "103B2805",
-  "institution": "California State University Stanislaus(Stockton)(Ch31 Only)",
+  "institution": "CALIFORNIA STATE UNIVERSITY STANISLAUS(STOCKTON)(CH31 ONLY)",
   "city": "Stockton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95202",
-  "email": false
+  "ope": null
 }

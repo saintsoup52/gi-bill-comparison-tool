@@ -1,6 +1,6 @@
 {
   "facility_code": "10A04610",
-  "institution": "Margate Police Department",
+  "institution": "MARGATE POLICE DEPARTMENT",
   "city": "Margate",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33063",
-  "email": true
+  "ope": null
 }

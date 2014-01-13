@@ -1,6 +1,6 @@
 {
   "facility_code": "31100999",
-  "institution": "University Of Otago",
+  "institution": "UNIVERSITY OF OTAGO",
   "city": "Dunedin",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

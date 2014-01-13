@@ -1,6 +1,6 @@
 {
   "facility_code": "25115105",
-  "institution": "Pima Medical Institute (Ch 31 Only)",
+  "institution": "PIMA MEDICAL INSTITUTE (CH 31 ONLY)",
   "city": "Chula Vista",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91910",
-  "email": false
+  "ope": null
 }

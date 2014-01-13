@@ -1,6 +1,6 @@
 {
   "facility_code": "20814321",
-  "institution": "Westfield Police Dept.",
+  "institution": "WESTFIELD POLICE DEPT.",
   "city": "Westfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1085",
-  "email": true
+  "ope": null
 }

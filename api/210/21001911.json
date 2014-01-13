@@ -1,6 +1,6 @@
 {
   "facility_code": "21001911",
-  "institution": "University Of Atlanta",
+  "institution": "UNIVERSITY OF ATLANTA",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30360",
-  "email": true
+  "ope": null
 }

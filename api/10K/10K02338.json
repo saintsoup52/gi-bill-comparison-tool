@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02338",
-  "institution": "Defense Supply Center - Mechanicsburg",
+  "institution": "DEFENSE SUPPLY CENTER - MECHANICSBURG",
   "city": "Mechanicsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17055",
-  "email": true
+  "ope": null
 }

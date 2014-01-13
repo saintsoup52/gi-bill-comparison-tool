@@ -1,6 +1,6 @@
 {
   "facility_code": "31000218",
-  "institution": "Centenary College",
+  "institution": "CENTENARY COLLEGE",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71134",
-  "email": false
+  "ope": "00200300"
 }

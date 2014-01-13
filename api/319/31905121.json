@@ -1,6 +1,6 @@
 {
   "facility_code": "31905121",
-  "institution": "Bentley University",
+  "institution": "BENTLEY UNIVERSITY",
   "city": "Waltham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2452",
-  "email": false
+  "ope": "00212400"
 }

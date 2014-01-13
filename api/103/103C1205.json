@@ -1,6 +1,6 @@
 {
   "facility_code": "103C1205",
-  "institution": "Dept Of Veterans Affairs (Oakland)(Ch31 Only)",
+  "institution": "DEPT OF VETERANS AFFAIRS (OAKLAND)(CH31 ONLY)",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94612",
-  "email": false
+  "ope": null
 }

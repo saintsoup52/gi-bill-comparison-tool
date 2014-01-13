@@ -1,6 +1,6 @@
 {
   "facility_code": "10413046",
-  "institution": "James City County Fire Dept",
+  "institution": "JAMES CITY COUNTY FIRE DEPT",
   "city": "Wiliamsburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23185",
-  "email": true
+  "ope": null
 }

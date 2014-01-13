@@ -1,6 +1,6 @@
 {
   "facility_code": "10226503",
-  "institution": "Federal Correctional Institution - Safford",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - SAFFORD",
   "city": "Safford",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85546",
-  "email": false
+  "ope": null
 }

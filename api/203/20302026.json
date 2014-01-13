@@ -1,6 +1,6 @@
 {
   "facility_code": "20302026",
-  "institution": "Nemont",
+  "institution": "NEMONT",
   "city": "Scobey",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59263",
-  "email": false
+  "ope": null
 }

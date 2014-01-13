@@ -1,6 +1,6 @@
 {
   "facility_code": "10552530",
-  "institution": "Dover Police Department",
+  "institution": "DOVER POLICE DEPARTMENT",
   "city": "Dover",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7801",
-  "email": true
+  "ope": null
 }

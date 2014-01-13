@@ -1,6 +1,6 @@
 {
   "facility_code": "10428048",
-  "institution": "Wv Division Of Human Services",
+  "institution": "WV DIVISION OF HUMAN SERVICES",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25304",
-  "email": false
+  "ope": null
 }

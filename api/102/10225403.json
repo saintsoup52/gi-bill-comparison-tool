@@ -1,6 +1,6 @@
 {
   "facility_code": "10225403",
-  "institution": "Ades Employment Security Administration (Ch31)",
+  "institution": "ADES EMPLOYMENT SECURITY ADMINISTRATION (CH31)",
   "city": "Casa Grande",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85222",
-  "email": false
+  "ope": null
 }

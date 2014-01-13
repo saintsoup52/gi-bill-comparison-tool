@@ -1,6 +1,6 @@
 {
   "facility_code": "10703613",
-  "institution": "Wilmette Police Department",
+  "institution": "WILMETTE POLICE DEPARTMENT",
   "city": "Wilmette",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60091",
-  "email": false
+  "ope": null
 }

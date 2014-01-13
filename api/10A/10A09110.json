@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09110",
-  "institution": "Federal Aviation Admin (Faa) Orlando Int'L Ssc - Technical Operations",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) ORLANDO INT'L SSC - TECHNICAL OPERATIONS",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32827",
-  "email": true
+  "ope": null
 }

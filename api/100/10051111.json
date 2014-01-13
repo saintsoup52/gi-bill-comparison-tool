@@ -1,6 +1,6 @@
 {
   "facility_code": "10051111",
-  "institution": "City Of Adairsville",
+  "institution": "CITY OF ADAIRSVILLE",
   "city": "Adairsville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30103",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "19015122",
-  "institution": "State Of Michigan Department Of Corrections",
+  "institution": "STATE OF MICHIGAN DEPARTMENT OF CORRECTIONS",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48909",
-  "email": false
+  "ope": null
 }

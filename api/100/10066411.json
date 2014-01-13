@@ -1,6 +1,6 @@
 {
   "facility_code": "10066411",
-  "institution": "Augusta Richmond County Fire Dept",
+  "institution": "AUGUSTA RICHMOND COUNTY FIRE DEPT",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30906",
-  "email": false
+  "ope": null
 }

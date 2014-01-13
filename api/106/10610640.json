@@ -1,6 +1,6 @@
 {
   "facility_code": "10610640",
-  "institution": "Harleyville Police Dept",
+  "institution": "HARLEYVILLE POLICE DEPT",
   "city": "Harleyville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29448",
-  "email": false
+  "ope": null
 }

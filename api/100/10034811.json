@@ -1,6 +1,6 @@
 {
   "facility_code": "10034811",
-  "institution": "Georgia State Patrol - Post 47 (Forest Park)",
+  "institution": "GEORGIA STATE PATROL - POST 47 (FOREST PARK)",
   "city": "Forest Park",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30269",
-  "email": true
+  "ope": null
 }

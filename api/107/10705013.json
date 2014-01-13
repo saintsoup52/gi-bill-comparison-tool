@@ -1,6 +1,6 @@
 {
   "facility_code": "10705013",
-  "institution": "Grundy County Sheriff",
+  "institution": "GRUNDY COUNTY SHERIFF",
   "city": "Morris",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60450",
-  "email": true
+  "ope": null
 }

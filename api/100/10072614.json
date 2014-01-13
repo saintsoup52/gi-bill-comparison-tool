@@ -1,6 +1,6 @@
 {
   "facility_code": "10072614",
-  "institution": "Charlestown Police Department",
+  "institution": "CHARLESTOWN POLICE DEPARTMENT",
   "city": "Charlestown",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47111",
-  "email": false
+  "ope": null
 }

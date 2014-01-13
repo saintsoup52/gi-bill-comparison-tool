@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06810",
-  "institution": "Dept Of The Army Program Exec Offc Simulation Trng Instrumentation (Doapeostri)",
+  "institution": "DEPT OF THE ARMY PROGRAM EXEC OFFC SIMULATION TRNG INSTRUMENTATION (DOAPEOSTRI)",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32826",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10431647",
-  "institution": "Snohomish County Sheriff'S Office - Corrections Bureau",
+  "institution": "SNOHOMISH COUNTY SHERIFF'S OFFICE - CORRECTIONS BUREAU",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98201",
-  "email": true
+  "ope": null
 }

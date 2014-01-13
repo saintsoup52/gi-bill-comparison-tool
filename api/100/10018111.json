@@ -1,6 +1,6 @@
 {
   "facility_code": "10018111",
-  "institution": "Madison County Sheriff'S Department",
+  "institution": "MADISON COUNTY SHERIFF'S DEPARTMENT",
   "city": "Danielsville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30633",
-  "email": false
+  "ope": null
 }

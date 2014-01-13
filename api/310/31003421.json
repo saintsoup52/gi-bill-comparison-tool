@@ -1,6 +1,6 @@
 {
   "facility_code": "31003421",
-  "institution": "Merrimack College",
+  "institution": "MERRIMACK COLLEGE",
   "city": "North Andover",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "1845",
-  "email": true
+  "ope": "00212000"
 }

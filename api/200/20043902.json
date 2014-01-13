@@ -1,6 +1,6 @@
 {
   "facility_code": "20043902",
-  "institution": "Aero Map U.S. (Ch31)",
+  "institution": "AERO MAP U.S. (CH31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99508",
-  "email": false
+  "ope": null
 }

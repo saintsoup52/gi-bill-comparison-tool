@@ -1,6 +1,6 @@
 {
   "facility_code": "10006011",
-  "institution": "Georgia State Patrol - Post 12 (Thomasville)",
+  "institution": "GEORGIA STATE PATROL - POST 12 (THOMASVILLE)",
   "city": "Thomasville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31792",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10589230",
-  "institution": "City Of Plainfield Police Division",
+  "institution": "CITY OF PLAINFIELD POLICE DIVISION",
   "city": "Plainfield",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7060",
-  "email": true
+  "ope": null
 }

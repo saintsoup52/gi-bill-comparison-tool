@@ -1,6 +1,6 @@
 {
   "facility_code": "13000227",
-  "institution": "University Of Nebraska At Kearney",
+  "institution": "UNIVERSITY OF NEBRASKA AT KEARNEY",
   "city": "Kearney",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "68849",
-  "email": true
+  "ope": "00255100"
 }

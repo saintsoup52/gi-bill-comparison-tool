@@ -1,6 +1,6 @@
 {
   "facility_code": "10992411",
-  "institution": "Dodge State Prison",
+  "institution": "DODGE STATE PRISON",
   "city": "Chester",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31012",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C09643",
-  "institution": "Tx Hwy Patrol Dist 3c Tx Dept Of Public Safety Corpus",
+  "institution": "TX HWY PATROL DIST 3C TX DEPT OF PUBLIC SAFETY CORPUS",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78416",
-  "email": false
+  "ope": null
 }

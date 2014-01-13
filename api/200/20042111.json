@@ -1,6 +1,6 @@
 {
   "facility_code": "20042111",
-  "institution": "B&H Electronics",
+  "institution": "B&H ELECTRONICS",
   "city": "Nashville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31639",
-  "email": false
+  "ope": null
 }

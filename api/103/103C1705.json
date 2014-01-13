@@ -1,6 +1,6 @@
 {
   "facility_code": "103C1705",
-  "institution": "State Of California Edd(Inglewood)(Ch31 Only)",
+  "institution": "STATE OF CALIFORNIA EDD(INGLEWOOD)(CH31 ONLY)",
   "city": "Inglewood",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90301",
-  "email": false
+  "ope": null
 }

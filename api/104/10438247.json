@@ -1,6 +1,6 @@
 {
   "facility_code": "10438247",
-  "institution": "U. S. Department Of Homeland Security Customs And Border Protection",
+  "institution": "U. S. DEPARTMENT OF HOMELAND SECURITY CUSTOMS AND BORDER PROTECTION",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98104",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10R19138",
-  "institution": "Faa - Air Traffic Control Tower - Erie International Airport",
+  "institution": "FAA - AIR TRAFFIC CONTROL TOWER - ERIE INTERNATIONAL AIRPORT",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16505",
-  "email": false
+  "ope": null
 }

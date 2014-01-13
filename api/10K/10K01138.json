@@ -1,6 +1,6 @@
 {
   "facility_code": "10K01138",
-  "institution": "Pa State Police Troop H - York",
+  "institution": "PA STATE POLICE TROOP H - YORK",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17403",
-  "email": false
+  "ope": null
 }

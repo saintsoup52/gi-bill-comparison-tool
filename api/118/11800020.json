@@ -1,6 +1,6 @@
 {
   "facility_code": "11800020",
-  "institution": "University Of Maryland College Park Campus",
+  "institution": "UNIVERSITY OF MARYLAND COLLEGE PARK CAMPUS",
   "city": "College Park",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20742",
-  "email": true
+  "ope": "00210300"
 }

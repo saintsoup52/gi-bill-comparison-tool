@@ -1,6 +1,6 @@
 {
   "facility_code": "30209503",
-  "institution": "Carondelet (St. Mary'S Hospital)  Chapter 31 Only",
+  "institution": "CARONDELET (ST. MARY'S HOSPITAL)  CHAPTER 31 ONLY",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85710",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02638",
-  "institution": "Pennsylvania State Police - Troop K - Philadelphia",
+  "institution": "PENNSYLVANIA STATE POLICE - TROOP K - PHILADELPHIA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19131",
-  "email": true
+  "ope": null
 }

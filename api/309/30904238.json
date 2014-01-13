@@ -1,6 +1,6 @@
 {
   "facility_code": "30904238",
-  "institution": "Geisinger Medical Center",
+  "institution": "GEISINGER MEDICAL CENTER",
   "city": "Danville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17822",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20057528",
-  "institution": "Abc Of Southern Nevada",
+  "institution": "ABC OF SOUTHERN NEVADA",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89146",
-  "email": false
+  "ope": null
 }

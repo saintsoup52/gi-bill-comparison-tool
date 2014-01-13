@@ -1,6 +1,6 @@
 {
   "facility_code": "30Z59005",
-  "institution": "San Diego Sheet Metal Jatc",
+  "institution": "SAN DIEGO SHEET METAL JATC",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92120",
-  "email": true
+  "ope": null
 }

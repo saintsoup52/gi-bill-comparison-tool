@@ -1,6 +1,6 @@
 {
   "facility_code": "20007411",
-  "institution": "Augusta Carpenters Jac",
+  "institution": "AUGUSTA CARPENTERS JAC",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30907",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "101B9605",
-  "institution": "Los Alamitos Aaf- Air Traffic Control",
+  "institution": "LOS ALAMITOS AAF- AIR TRAFFIC CONTROL",
   "city": "Los Alamitos",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90720",
-  "email": false
+  "ope": null
 }

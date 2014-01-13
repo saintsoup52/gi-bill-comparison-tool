@@ -1,6 +1,6 @@
 {
   "facility_code": "10518517",
-  "institution": "Carrollton Police Department",
+  "institution": "CARROLLTON POLICE DEPARTMENT",
   "city": "Carrollton",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41008",
-  "email": false
+  "ope": null
 }

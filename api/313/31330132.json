@@ -1,6 +1,6 @@
 {
   "facility_code": "31330132",
-  "institution": "Clarkson University",
+  "institution": "CLARKSON UNIVERSITY",
   "city": "Potsdam",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "13699",
-  "email": true
+  "ope": "00269900"
 }

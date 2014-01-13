@@ -1,6 +1,6 @@
 {
   "facility_code": "10D00338",
-  "institution": "Defense Contract Management Agency",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19116",
-  "email": true
+  "ope": null
 }

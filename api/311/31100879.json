@@ -1,6 +1,6 @@
 {
   "facility_code": "31100879",
-  "institution": "Bourdeaux Wine Inter Wine Inst",
+  "institution": "BOURDEAUX WINE INTER WINE INST",
   "city": "Bourdeaux",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

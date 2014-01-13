@@ -1,6 +1,6 @@
 {
   "facility_code": "10516730",
-  "institution": "Lower Township Police Department",
+  "institution": "LOWER TOWNSHIP POLICE DEPARTMENT",
   "city": "Erma",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8204",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "101B7605",
-  "institution": "Long Beach Police Department",
+  "institution": "LONG BEACH POLICE DEPARTMENT",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90808",
-  "email": true
+  "ope": null
 }

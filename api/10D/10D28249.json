@@ -1,6 +1,6 @@
 {
   "facility_code": "10D28249",
-  "institution": "Social Security Administration - Oshkosh",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - OSHKOSH",
   "city": "Oshkosh",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54901",
-  "email": false
+  "ope": null
 }

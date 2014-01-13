@@ -1,6 +1,6 @@
 {
   "facility_code": "10233503",
-  "institution": "El Mirage Fire Department",
+  "institution": "EL MIRAGE FIRE DEPARTMENT",
   "city": "El Mirage",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85335",
-  "email": false
+  "ope": null
 }

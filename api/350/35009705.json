@@ -1,6 +1,6 @@
 {
   "facility_code": "35009705",
-  "institution": "Center For Employment Training (El Centro)",
+  "institution": "CENTER FOR EMPLOYMENT TRAINING (EL CENTRO)",
   "city": "El Centro",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92243",
-  "email": true
+  "ope": null
 }

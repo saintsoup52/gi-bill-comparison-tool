@@ -1,6 +1,6 @@
 {
   "facility_code": "11120269",
-  "institution": "Nanjing University",
+  "institution": "NANJING UNIVERSITY",
   "city": "Nanjing City",
   "state": "China",
   "country": "China",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

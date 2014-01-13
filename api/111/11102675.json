@@ -1,6 +1,6 @@
 {
   "facility_code": "11102675",
-  "institution": "Simon Fraser University",
+  "institution": "SIMON FRASER UNIVERSITY",
   "city": "Burnaby",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

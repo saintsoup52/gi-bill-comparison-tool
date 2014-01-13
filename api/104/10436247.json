@@ -1,6 +1,6 @@
 {
   "facility_code": "10436247",
-  "institution": "Chelan County Sheriff'S Office",
+  "institution": "CHELAN COUNTY SHERIFF'S OFFICE",
   "city": "Wenatchee",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98801",
-  "email": true
+  "ope": null
 }

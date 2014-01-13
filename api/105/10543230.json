@@ -1,6 +1,6 @@
 {
   "facility_code": "10543230",
-  "institution": "Veterans Center",
+  "institution": "VETERANS CENTER",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8625",
-  "email": false
+  "ope": null
 }

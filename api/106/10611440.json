@@ -1,6 +1,6 @@
 {
   "facility_code": "10611440",
-  "institution": "Sumter Police Department",
+  "institution": "SUMTER POLICE DEPARTMENT",
   "city": "Sumter",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29150",
-  "email": false
+  "ope": null
 }

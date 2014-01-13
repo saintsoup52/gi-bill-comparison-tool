@@ -1,6 +1,6 @@
 {
   "facility_code": "10080218",
-  "institution": "U.S. Customs & Border Protection - Hammond",
+  "institution": "U.S. CUSTOMS & BORDER PROTECTION - HAMMOND",
   "city": "Hammond",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70401",
-  "email": true
+  "ope": null
 }

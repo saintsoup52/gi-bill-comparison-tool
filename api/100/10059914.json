@@ -1,6 +1,6 @@
 {
   "facility_code": "10059914",
-  "institution": "Lawrence Police Department",
+  "institution": "LAWRENCE POLICE DEPARTMENT",
   "city": "Lawrence",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46226",
-  "email": false
+  "ope": null
 }

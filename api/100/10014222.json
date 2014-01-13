@@ -1,6 +1,6 @@
 {
   "facility_code": "10014222",
-  "institution": "U.S. Military Entrance Processing Command",
+  "institution": "U.S. MILITARY ENTRANCE PROCESSING COMMAND",
   "city": "East Lansing",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48910",
-  "email": "No (SCO)"
+  "ope": null
 }

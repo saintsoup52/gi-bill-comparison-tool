@@ -1,6 +1,6 @@
 {
   "facility_code": "10598813",
-  "institution": "Glenview Police Department",
+  "institution": "GLENVIEW POLICE DEPARTMENT",
   "city": "Glenview",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60026",
-  "email": true
+  "ope": null
 }

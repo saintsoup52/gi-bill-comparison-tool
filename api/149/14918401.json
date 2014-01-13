@@ -1,6 +1,6 @@
 {
   "facility_code": "14918401",
-  "institution": "John C. Calhoun State C.C.",
+  "institution": "JOHN C. CALHOUN STATE C.C.",
   "city": "Decatur",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "35609",
-  "email": true
+  "ope": "00101300"
 }

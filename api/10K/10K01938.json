@@ -1,6 +1,6 @@
 {
   "facility_code": "10K01938",
-  "institution": "U.S. Census Bureau",
+  "institution": "U.S. CENSUS BUREAU",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": true
+  "ope": null
 }

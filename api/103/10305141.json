@@ -1,6 +1,6 @@
 {
   "facility_code": "10305141",
-  "institution": "Pierre Police Department",
+  "institution": "PIERRE POLICE DEPARTMENT",
   "city": "Pierre",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57501",
-  "email": false
+  "ope": null
 }

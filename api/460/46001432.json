@@ -1,6 +1,6 @@
 {
   "facility_code": "46001432",
-  "institution": "International Municipal Signal Association (Imsa)",
+  "institution": "INTERNATIONAL MUNICIPAL SIGNAL ASSOCIATION (IMSA)",
   "city": "Newark",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14513",
-  "email": true
+  "ope": null
 }

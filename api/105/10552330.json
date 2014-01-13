@@ -1,6 +1,6 @@
 {
   "facility_code": "10552330",
-  "institution": "Greenwich Township Police Department",
+  "institution": "GREENWICH TOWNSHIP POLICE DEPARTMENT",
   "city": "Greenwich Township",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8886",
-  "email": false
+  "ope": null
 }

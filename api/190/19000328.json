@@ -1,6 +1,6 @@
 {
   "facility_code": "19000328",
-  "institution": "Family Resource Center (Ch31)",
+  "institution": "FAMILY RESOURCE CENTER (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89109",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10302047",
-  "institution": "Thurston County Sheriff",
+  "institution": "THURSTON COUNTY SHERIFF",
   "city": "Olympia",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98502",
-  "email": false
+  "ope": null
 }

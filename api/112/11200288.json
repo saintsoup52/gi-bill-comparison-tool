@@ -1,6 +1,6 @@
 {
   "facility_code": "11200288",
-  "institution": "Norwegian Academy Of Music",
+  "institution": "NORWEGIAN ACADEMY OF MUSIC",
   "city": "Oslo",
   "state": "Norway",
   "country": "Norway",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

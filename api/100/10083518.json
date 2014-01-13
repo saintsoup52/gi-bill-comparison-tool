@@ -1,6 +1,6 @@
 {
   "facility_code": "10083518",
-  "institution": "Veterans Health Administration -Alexandria",
+  "institution": "VETERANS HEALTH ADMINISTRATION -ALEXANDRIA",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71306",
-  "email": false
+  "ope": null
 }

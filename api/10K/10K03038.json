@@ -1,6 +1,6 @@
 {
   "facility_code": "10K03038",
-  "institution": "Pennsylvania State Police - Troop G - Philipsburg",
+  "institution": "PENNSYLVANIA STATE POLICE - TROOP G - PHILIPSBURG",
   "city": "Philipsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16866",
-  "email": true
+  "ope": null
 }

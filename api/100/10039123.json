@@ -1,6 +1,6 @@
 {
   "facility_code": "10039123",
-  "institution": "Rochester Public Utilities",
+  "institution": "ROCHESTER PUBLIC UTILITIES",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55906",
-  "email": false
+  "ope": null
 }

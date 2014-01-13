@@ -1,6 +1,6 @@
 {
   "facility_code": "10023763",
-  "institution": "Us Department Of Homeland Security (Ch 31)",
+  "institution": "US DEPARTMENT OF HOMELAND SECURITY (CH 31)",
   "city": "Aguadilla",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "603",
-  "email": false
+  "ope": null
 }

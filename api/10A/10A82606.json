@@ -1,6 +1,6 @@
 {
   "facility_code": "10A82606",
-  "institution": "Federal Correctional Institution - Englewood",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - ENGLEWOOD",
   "city": "Englewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80123",
-  "email": false
+  "ope": null
 }

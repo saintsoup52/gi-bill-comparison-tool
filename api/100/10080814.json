@@ -1,6 +1,6 @@
 {
   "facility_code": "10080814",
-  "institution": "North Salem Police Department",
+  "institution": "NORTH SALEM POLICE DEPARTMENT",
   "city": "North Salem",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46165",
-  "email": false
+  "ope": null
 }

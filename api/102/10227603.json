@@ -1,6 +1,6 @@
 {
   "facility_code": "10227603",
-  "institution": "Phoenix Military Entrance Processing Station",
+  "institution": "PHOENIX MILITARY ENTRANCE PROCESSING STATION",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85004",
-  "email": true
+  "ope": null
 }

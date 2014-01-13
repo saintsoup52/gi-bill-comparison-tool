@@ -1,6 +1,6 @@
 {
   "facility_code": "15053421",
-  "institution": "Braintree High School",
+  "institution": "BRAINTREE HIGH SCHOOL",
   "city": "Braintree",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2184",
-  "email": false
+  "ope": null
 }

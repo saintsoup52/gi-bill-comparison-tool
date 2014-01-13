@@ -1,6 +1,6 @@
 {
   "facility_code": "11106474",
-  "institution": "University Of East Anglia",
+  "institution": "UNIVERSITY OF EAST ANGLIA",
   "city": "Norwich",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

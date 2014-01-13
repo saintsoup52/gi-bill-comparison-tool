@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02010",
-  "institution": "Federal Aviation Admin (Faa) Ft. Pierce Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) FT. PIERCE TOWER",
   "city": "Ft, Pierce",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34946",
-  "email": false
+  "ope": null
 }

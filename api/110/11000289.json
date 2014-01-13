@@ -1,6 +1,6 @@
 {
   "facility_code": "11000289",
-  "institution": "Universidad Del Istmo",
+  "institution": "UNIVERSIDAD DEL ISTMO",
   "city": "Panama City",
   "state": "Panama",
   "country": "Panama",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

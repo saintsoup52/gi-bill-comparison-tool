@@ -1,6 +1,6 @@
 {
   "facility_code": "10699225",
-  "institution": "United States Marshal Service",
+  "institution": "UNITED STATES MARSHAL SERVICE",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64106",
-  "email": false
+  "ope": null
 }

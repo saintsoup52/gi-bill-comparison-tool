@@ -1,6 +1,6 @@
 {
   "facility_code": "10646840",
-  "institution": "Marion County Detention Center",
+  "institution": "MARION COUNTY DETENTION CENTER",
   "city": "Mullins",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29576",
-  "email": false
+  "ope": null
 }

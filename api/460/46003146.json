@@ -1,6 +1,6 @@
 {
   "facility_code": "46003146",
-  "institution": "National Institute For Automotive Svc Excellence",
+  "institution": "NATIONAL INSTITUTE FOR AUTOMOTIVE SVC EXCELLENCE",
   "city": "Leesburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20175",
-  "email": true
+  "ope": null
 }

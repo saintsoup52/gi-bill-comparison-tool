@@ -1,6 +1,6 @@
 {
   "facility_code": "21987013",
-  "institution": "Strayer University -Aurora Campus",
+  "institution": "STRAYER UNIVERSITY -AURORA CAMPUS",
   "city": "Aurora",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60506",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11104005",
-  "institution": "Naval Postgraduate School",
+  "institution": "NAVAL POSTGRADUATE SCHOOL",
   "city": "Monterey",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93943",
-  "email": true
+  "ope": "00131000"
 }

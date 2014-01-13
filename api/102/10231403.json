@@ -1,6 +1,6 @@
 {
   "facility_code": "10231403",
-  "institution": "Bureau Of Land Management (Chapter 31 Only)",
+  "institution": "BUREAU OF LAND MANAGEMENT (CHAPTER 31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85051",
-  "email": false
+  "ope": null
 }

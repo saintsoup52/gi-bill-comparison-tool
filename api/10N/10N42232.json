@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42232",
-  "institution": "Nypd Transit District 11",
+  "institution": "NYPD TRANSIT DISTRICT 11",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10460",
-  "email": false
+  "ope": null
 }

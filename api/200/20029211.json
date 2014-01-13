@@ -1,6 +1,6 @@
 {
   "facility_code": "20029211",
-  "institution": "Itt Technical Institute (Ojt)",
+  "institution": "ITT TECHNICAL INSTITUTE (OJT)",
   "city": "Duluth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30097",
-  "email": false
+  "ope": null
 }

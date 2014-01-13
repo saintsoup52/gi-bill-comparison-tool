@@ -1,6 +1,6 @@
 {
   "facility_code": "12810146",
-  "institution": "Univ Of Va Health Systems Medical Staff & Residency Office",
+  "institution": "UNIV OF VA HEALTH SYSTEMS MEDICAL STAFF & RESIDENCY OFFICE",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22908",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14200375",
-  "institution": "Sault College",
+  "institution": "SAULT COLLEGE",
   "city": "Sault Ste. Marie",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

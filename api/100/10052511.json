@@ -1,6 +1,6 @@
 {
   "facility_code": "10052511",
-  "institution": "Savannah-Chatham Metropolitan Police Department",
+  "institution": "SAVANNAH-CHATHAM METROPOLITAN POLICE DEPARTMENT",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31405",
-  "email": false
+  "ope": null
 }

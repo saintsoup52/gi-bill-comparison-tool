@@ -1,6 +1,6 @@
 {
   "facility_code": "10058014",
-  "institution": "Griffith Police Department",
+  "institution": "GRIFFITH POLICE DEPARTMENT",
   "city": "Griffith",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46319",
-  "email": false
+  "ope": null
 }

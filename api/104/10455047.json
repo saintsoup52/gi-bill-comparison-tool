@@ -1,6 +1,6 @@
 {
   "facility_code": "10455047",
-  "institution": "South Correctional Entity (Score Jail)",
+  "institution": "SOUTH CORRECTIONAL ENTITY (SCORE JAIL)",
   "city": "Des Moines",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98198",
-  "email": true
+  "ope": null
 }

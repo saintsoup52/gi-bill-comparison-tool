@@ -1,6 +1,6 @@
 {
   "facility_code": "15000212",
-  "institution": "Boise High School",
+  "institution": "BOISE HIGH SCHOOL",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83702",
-  "email": false
+  "ope": null
 }

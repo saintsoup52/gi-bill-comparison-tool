@@ -1,6 +1,6 @@
 {
   "facility_code": "20540831",
-  "institution": "Operating Engineers Local 953",
+  "institution": "OPERATING ENGINEERS LOCAL 953",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87119",
-  "email": false
+  "ope": null
 }

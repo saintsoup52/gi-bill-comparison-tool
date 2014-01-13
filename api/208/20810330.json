@@ -1,6 +1,6 @@
 {
   "facility_code": "20810330",
-  "institution": "Verizon",
+  "institution": "VERIZON",
   "city": "Cherry Hill",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8034",
-  "email": false
+  "ope": null
 }

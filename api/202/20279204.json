@@ -1,6 +1,6 @@
 {
   "facility_code": "20279204",
-  "institution": "Fayetteville Police Dpt",
+  "institution": "FAYETTEVILLE POLICE DPT",
   "city": "Fayetteville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72702",
-  "email": false
+  "ope": null
 }

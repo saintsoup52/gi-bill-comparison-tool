@@ -1,6 +1,6 @@
 {
   "facility_code": "10403446",
-  "institution": "Roanoke City Police Deptartment",
+  "institution": "ROANOKE CITY POLICE DEPTARTMENT",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24016",
-  "email": true
+  "ope": null
 }

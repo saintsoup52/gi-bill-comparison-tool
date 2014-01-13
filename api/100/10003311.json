@@ -1,6 +1,6 @@
 {
   "facility_code": "10003311",
-  "institution": "Georgia State Patrol - Post 08 (Madison)",
+  "institution": "GEORGIA STATE PATROL - POST 08 (MADISON)",
   "city": "Madison",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30650",
-  "email": false
+  "ope": null
 }

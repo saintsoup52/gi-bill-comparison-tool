@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02038",
-  "institution": "Department Of Homeland Security -  Us Immigration And Customs Enforcement",
+  "institution": "DEPARTMENT OF HOMELAND SECURITY -  US IMMIGRATION AND CUSTOMS ENFORCEMENT",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": true
+  "ope": null
 }

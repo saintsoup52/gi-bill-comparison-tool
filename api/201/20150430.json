@@ -1,6 +1,6 @@
 {
   "facility_code": "20150430",
-  "institution": "Sheet Metal Workers Local 25",
+  "institution": "SHEET METAL WORKERS LOCAL 25",
   "city": "Carlstadt",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7072",
-  "email": true
+  "ope": null
 }

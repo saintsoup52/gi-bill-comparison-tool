@@ -1,6 +1,6 @@
 {
   "facility_code": "25105543",
-  "institution": "Mars Intl Training Inst",
+  "institution": "MARS INTL TRAINING INST",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76006",
-  "email": true
+  "ope": null
 }

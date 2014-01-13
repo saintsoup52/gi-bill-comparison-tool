@@ -1,6 +1,6 @@
 {
   "facility_code": "10870930",
-  "institution": "Faa Ac Radar/Arts/Navigation/Communications/Environmental System Support Center",
+  "institution": "FAA AC RADAR/ARTS/NAVIGATION/COMMUNICATIONS/ENVIRONMENTAL SYSTEM SUPPORT CENTER",
   "city": "Atlantic City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8405",
-  "email": false
+  "ope": null
 }

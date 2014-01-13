@@ -1,6 +1,6 @@
 {
   "facility_code": "25010102",
-  "institution": "Alaska Institute Of Business & Technology",
+  "institution": "ALASKA INSTITUTE OF BUSINESS & TECHNOLOGY",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99508",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10598513",
-  "institution": "Monmouth Police Department",
+  "institution": "MONMOUTH POLICE DEPARTMENT",
   "city": "Monmouth",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61462",
-  "email": true
+  "ope": null
 }

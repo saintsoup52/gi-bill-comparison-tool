@@ -1,6 +1,6 @@
 {
   "facility_code": "20052038",
-  "institution": "Sheet Metal Workers Intl Asso Lu #12",
+  "institution": "SHEET METAL WORKERS INTL ASSO LU #12",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15238",
-  "email": true
+  "ope": null
 }

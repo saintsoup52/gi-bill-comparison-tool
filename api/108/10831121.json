@@ -1,6 +1,6 @@
 {
   "facility_code": "10831121",
-  "institution": "Needham Fire Department",
+  "institution": "NEEDHAM FIRE DEPARTMENT",
   "city": "Needham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2492",
-  "email": true
+  "ope": null
 }

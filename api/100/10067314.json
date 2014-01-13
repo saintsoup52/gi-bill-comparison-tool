@@ -1,6 +1,6 @@
 {
   "facility_code": "10067314",
-  "institution": "Hendricks County Sheriff'S Department",
+  "institution": "HENDRICKS COUNTY SHERIFF'S DEPARTMENT",
   "city": "Danville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46122",
-  "email": false
+  "ope": null
 }

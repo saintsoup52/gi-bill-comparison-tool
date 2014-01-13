@@ -1,6 +1,6 @@
 {
   "facility_code": "20C89533",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28301",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10500207",
-  "institution": "Veterans Administration Regional Office/Hartford Ct",
+  "institution": "VETERANS ADMINISTRATION REGIONAL OFFICE/HARTFORD CT",
   "city": "Newington",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6131",
-  "email": true
+  "ope": null
 }

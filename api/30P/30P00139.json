@@ -1,6 +1,6 @@
 {
   "facility_code": "30P00139",
-  "institution": "Navsta Newport Rhode Island Fire Department",
+  "institution": "NAVSTA NEWPORT RHODE ISLAND FIRE DEPARTMENT",
   "city": "Newport",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2841",
-  "email": true
+  "ope": null
 }

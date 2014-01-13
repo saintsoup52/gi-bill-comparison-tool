@@ -1,6 +1,6 @@
 {
   "facility_code": "10N36432",
-  "institution": "New York City Police Dept. - Queens South Task Force",
+  "institution": "NEW YORK CITY POLICE DEPT. - QUEENS SOUTH TASK FORCE",
   "city": "Rosedale",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11422",
-  "email": false
+  "ope": null
 }

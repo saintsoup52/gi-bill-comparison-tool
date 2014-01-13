@@ -1,6 +1,6 @@
 {
   "facility_code": "11000670",
-  "institution": "Box Hill Institute",
+  "institution": "BOX HILL INSTITUTE",
   "city": "Box Hill",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

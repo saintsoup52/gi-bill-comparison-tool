@@ -1,6 +1,6 @@
 {
   "facility_code": "10C19343",
-  "institution": "Faa Dallas Tracon D10",
+  "institution": "FAA DALLAS TRACON D10",
   "city": "Dfw",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75261",
-  "email": true
+  "ope": null
 }

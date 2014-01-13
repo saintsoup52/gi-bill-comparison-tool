@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08301",
-  "institution": "Homewood Police Department",
+  "institution": "HOMEWOOD POLICE DEPARTMENT",
   "city": "Homewood",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35209",
-  "email": true
+  "ope": null
 }

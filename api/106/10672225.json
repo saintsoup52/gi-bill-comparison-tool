@@ -1,6 +1,6 @@
 {
   "facility_code": "10672225",
-  "institution": "University Of Missouri Health Care",
+  "institution": "UNIVERSITY OF MISSOURI HEALTH CARE",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65212",
-  "email": false
+  "ope": null
 }

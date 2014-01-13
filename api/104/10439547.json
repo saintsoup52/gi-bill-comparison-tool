@@ -1,6 +1,6 @@
 {
   "facility_code": "10439547",
-  "institution": "Port Of Port Townsend-Ch 31 Only",
+  "institution": "PORT OF PORT TOWNSEND-CH 31 ONLY",
   "city": "Port Townsend",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98368",
-  "email": false
+  "ope": null
 }

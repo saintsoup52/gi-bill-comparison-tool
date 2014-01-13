@@ -1,6 +1,6 @@
 {
   "facility_code": "20291704",
-  "institution": "Searcy Police Dpt",
+  "institution": "SEARCY POLICE DPT",
   "city": "Searcy",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72143",
-  "email": false
+  "ope": null
 }

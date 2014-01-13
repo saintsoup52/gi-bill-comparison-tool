@@ -1,6 +1,6 @@
 {
   "facility_code": "10826521",
-  "institution": "Danvers Fire Department",
+  "institution": "DANVERS FIRE DEPARTMENT",
   "city": "Danvers",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1923",
-  "email": true
+  "ope": null
 }

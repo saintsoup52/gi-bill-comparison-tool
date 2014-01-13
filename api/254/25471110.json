@@ -1,6 +1,6 @@
 {
   "facility_code": "25471110",
-  "institution": "Bicsi",
+  "institution": "BICSI",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33637",
-  "email": "No (SCO)"
+  "ope": null
 }

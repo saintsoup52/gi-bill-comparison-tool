@@ -1,6 +1,6 @@
 {
   "facility_code": "31000889",
-  "institution": "International University",
+  "institution": "INTERNATIONAL UNIVERSITY",
   "city": "Panama City",
   "state": "Panama",
   "country": "Panama",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103B1705",
-  "institution": "Social Security Administration(West La)(Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(WEST LA)(CH31 ONLY)",
   "city": "West Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90064",
-  "email": false
+  "ope": null
 }

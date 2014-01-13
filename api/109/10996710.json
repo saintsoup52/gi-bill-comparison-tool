@@ -1,6 +1,6 @@
 {
   "facility_code": "10996710",
-  "institution": "Broward Sheriff'S Office Institute For Criminal Justice Studies (Ojt)",
+  "institution": "BROWARD SHERIFF'S OFFICE INSTITUTE FOR CRIMINAL JUSTICE STUDIES (OJT)",
   "city": "Ft. Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33312",
-  "email": true
+  "ope": null
 }

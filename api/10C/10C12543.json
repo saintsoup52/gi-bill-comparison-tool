@@ -1,6 +1,6 @@
 {
   "facility_code": "10C12543",
-  "institution": "Federal Detention Center",
+  "institution": "FEDERAL DETENTION CENTER",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77052",
-  "email": false
+  "ope": null
 }

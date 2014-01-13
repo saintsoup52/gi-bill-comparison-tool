@@ -1,6 +1,6 @@
 {
   "facility_code": "10N43932",
-  "institution": "New York State Police - Troop K",
+  "institution": "NEW YORK STATE POLICE - TROOP K",
   "city": "Salt Point",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12578",
-  "email": true
+  "ope": null
 }

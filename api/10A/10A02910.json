@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02910",
-  "institution": "Federal Aviation Admin (Faa) Pensacola Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) PENSACOLA TOWER",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32503",
-  "email": true
+  "ope": null
 }

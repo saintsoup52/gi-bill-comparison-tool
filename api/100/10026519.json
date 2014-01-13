@@ -1,6 +1,6 @@
 {
   "facility_code": "10026519",
-  "institution": "Lewiston Police Department",
+  "institution": "LEWISTON POLICE DEPARTMENT",
   "city": "Lewiston",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4240",
-  "email": false
+  "ope": null
 }

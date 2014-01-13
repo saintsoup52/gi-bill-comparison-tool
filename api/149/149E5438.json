@@ -1,6 +1,6 @@
 {
   "facility_code": "149E5438",
-  "institution": "Community College Of Philadelphia",
+  "institution": "COMMUNITY COLLEGE OF PHILADELPHIA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "19130",
-  "email": true
+  "ope": "00324900"
 }

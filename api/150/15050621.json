@@ -1,6 +1,6 @@
 {
   "facility_code": "15050621",
-  "institution": "Somerville Center For Adult Learning Experiences (Scale)",
+  "institution": "SOMERVILLE CENTER FOR ADULT LEARNING EXPERIENCES (SCALE)",
   "city": "Somerville",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2144",
-  "email": false
+  "ope": null
 }

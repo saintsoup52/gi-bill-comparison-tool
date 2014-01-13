@@ -1,6 +1,6 @@
 {
   "facility_code": "10100126",
-  "institution": "Gallatin County Sherriff'S Office",
+  "institution": "GALLATIN COUNTY SHERRIFF'S OFFICE",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59715",
-  "email": true
+  "ope": null
 }

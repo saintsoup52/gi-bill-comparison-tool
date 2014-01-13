@@ -1,6 +1,6 @@
 {
   "facility_code": "10007544",
-  "institution": "Us Federal Reserve Bank Salt Lake City Branch App",
+  "institution": "US FEDERAL RESERVE BANK SALT LAKE CITY BRANCH APP",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84111",
-  "email": false
+  "ope": null
 }

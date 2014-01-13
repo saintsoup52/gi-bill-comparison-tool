@@ -1,6 +1,6 @@
 {
   "facility_code": "10602713",
-  "institution": "Villa Park Police Department",
+  "institution": "VILLA PARK POLICE DEPARTMENT",
   "city": "Villa Park",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60181",
-  "email": true
+  "ope": null
 }

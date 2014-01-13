@@ -1,6 +1,6 @@
 {
   "facility_code": "15200022",
-  "institution": "University Of South Dakota And Compass Point",
+  "institution": "UNIVERSITY OF SOUTH DAKOTA AND COMPASS POINT",
   "city": "Walker",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49534",
-  "email": true
+  "ope": null
 }

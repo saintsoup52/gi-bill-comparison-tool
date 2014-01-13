@@ -1,6 +1,6 @@
 {
   "facility_code": "10N12532",
-  "institution": "Wayne County Sheriff'S Office",
+  "institution": "WAYNE COUNTY SHERIFF'S OFFICE",
   "city": "Lyons",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14489",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20A95006",
-  "institution": "Public Service Company Of Colorado (Xcel)",
+  "institution": "PUBLIC SERVICE COMPANY OF COLORADO (XCEL)",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80204",
-  "email": true
+  "ope": null
 }

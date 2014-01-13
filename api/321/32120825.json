@@ -1,6 +1,6 @@
 {
   "facility_code": "32120825",
-  "institution": "St. Luke'S Hospital/Umkc School Of Medicine",
+  "institution": "ST. LUKE'S HOSPITAL/UMKC SCHOOL OF MEDICINE",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64111",
-  "email": false
+  "ope": null
 }

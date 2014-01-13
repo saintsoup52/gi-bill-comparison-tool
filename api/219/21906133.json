@@ -1,6 +1,6 @@
 {
   "facility_code": "21906133",
-  "institution": "South University",
+  "institution": "SOUTH UNIVERSITY",
   "city": "High Point",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27265",
-  "email": true
+  "ope": null
 }

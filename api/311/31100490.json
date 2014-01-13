@@ -1,6 +1,6 @@
 {
   "facility_code": "31100490",
-  "institution": "Gdansk University Of Technology",
+  "institution": "GDANSK UNIVERSITY OF TECHNOLOGY",
   "city": "80-952 Gdansk",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

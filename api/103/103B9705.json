@@ -1,6 +1,6 @@
 {
   "facility_code": "103B9705",
-  "institution": "Dept Of Homeland Security/ Immigration & Customs Enforcement (Ice)",
+  "institution": "DEPT OF HOMELAND SECURITY/ IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)",
   "city": "Laguna Niguel",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92677",
-  "email": false
+  "ope": null
 }

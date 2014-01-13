@@ -1,6 +1,6 @@
 {
   "facility_code": "11001040",
-  "institution": "Troy University (Sumter)",
+  "institution": "TROY UNIVERSITY (SUMTER)",
   "city": "Sumter",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29150",
-  "email": false
+  "ope": "00104765"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103B0405",
-  "institution": "Social Security Administration (Santa Barbara)(Chapter 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (SANTA BARBARA)(CHAPTER 31 ONLY)",
   "city": "Santa Barbara",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93101",
-  "email": false
+  "ope": null
 }

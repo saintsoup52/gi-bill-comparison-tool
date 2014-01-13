@@ -1,6 +1,6 @@
 {
   "facility_code": "10713325",
-  "institution": "Daviess County Sheriff Office",
+  "institution": "DAVIESS COUNTY SHERIFF OFFICE",
   "city": "Gallatin",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64640",
-  "email": false
+  "ope": null
 }

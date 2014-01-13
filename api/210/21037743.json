@@ -1,6 +1,6 @@
 {
   "facility_code": "21037743",
-  "institution": "Act San Antonio",
+  "institution": "ACT SAN ANTONIO",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78230",
-  "email": false
+  "ope": null
 }

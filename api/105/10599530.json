@@ -1,6 +1,6 @@
 {
   "facility_code": "10599530",
-  "institution": "New Brunswick Fire Department",
+  "institution": "NEW BRUNSWICK FIRE DEPARTMENT",
   "city": "New Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8901",
-  "email": true
+  "ope": null
 }

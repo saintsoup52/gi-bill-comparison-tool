@@ -1,6 +1,6 @@
 {
   "facility_code": "10536330",
-  "institution": "Woodlynne Police Department",
+  "institution": "WOODLYNNE POLICE DEPARTMENT",
   "city": "Woodlynne",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8107",
-  "email": false
+  "ope": null
 }

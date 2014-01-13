@@ -1,6 +1,6 @@
 {
   "facility_code": "20516227",
-  "institution": "Archer Daniels Midland Company",
+  "institution": "ARCHER DANIELS MIDLAND COMPANY",
   "city": "Columbus",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68601",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10429513",
-  "institution": "Us Naval Training Center",
+  "institution": "US NAVAL TRAINING CENTER",
   "city": "Great Lakes",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60088",
-  "email": false
+  "ope": null
 }

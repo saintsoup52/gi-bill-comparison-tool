@@ -1,6 +1,6 @@
 {
   "facility_code": "20530714",
-  "institution": "Remy Inc.",
+  "institution": "REMY INC.",
   "city": "Anderson",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46013",
-  "email": false
+  "ope": null
 }

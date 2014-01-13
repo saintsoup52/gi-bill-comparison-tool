@@ -1,6 +1,6 @@
 {
   "facility_code": "10566630",
-  "institution": "Carneys Point Police Department",
+  "institution": "CARNEYS POINT POLICE DEPARTMENT",
   "city": "Carneys Point",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8069",
-  "email": false
+  "ope": null
 }

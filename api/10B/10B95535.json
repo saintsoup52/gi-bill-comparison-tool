@@ -1,6 +1,6 @@
 {
   "facility_code": "10B95535",
-  "institution": "Gahanna Division Of Police",
+  "institution": "GAHANNA DIVISION OF POLICE",
   "city": "Gahanna",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43230",
-  "email": false
+  "ope": null
 }

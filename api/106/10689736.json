@@ -1,6 +1,6 @@
 {
   "facility_code": "10689736",
-  "institution": "Geary Police Department",
+  "institution": "GEARY POLICE DEPARTMENT",
   "city": "Geary",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73040",
-  "email": false
+  "ope": null
 }

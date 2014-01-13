@@ -1,6 +1,6 @@
 {
   "facility_code": "10586613",
-  "institution": "Illinois State Police-Ullin",
+  "institution": "ILLINOIS STATE POLICE-ULLIN",
   "city": "Ullin",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62992",
-  "email": false
+  "ope": null
 }

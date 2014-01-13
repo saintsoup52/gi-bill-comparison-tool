@@ -1,6 +1,6 @@
 {
   "facility_code": "10409846",
-  "institution": "Indian Creek Correctional Center",
+  "institution": "INDIAN CREEK CORRECTIONAL CENTER",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23328",
-  "email": true
+  "ope": null
 }

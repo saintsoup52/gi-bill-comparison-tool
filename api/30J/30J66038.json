@@ -1,6 +1,6 @@
 {
   "facility_code": "30J66038",
-  "institution": "Ibew Loc #686 Hazleton Jatc",
+  "institution": "IBEW LOC #686 HAZLETON JATC",
   "city": "Hazleton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18201",
-  "email": false
+  "ope": null
 }

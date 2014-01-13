@@ -1,6 +1,6 @@
 {
   "facility_code": "10961621",
-  "institution": "Falmouth Fire Department",
+  "institution": "FALMOUTH FIRE DEPARTMENT",
   "city": "Falmouth",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2540",
-  "email": true
+  "ope": null
 }

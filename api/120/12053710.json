@@ -1,6 +1,6 @@
 {
   "facility_code": "12053710",
-  "institution": "James A. Haley Va Hospital",
+  "institution": "JAMES A. HALEY VA HOSPITAL",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33612",
-  "email": true
+  "ope": null
 }

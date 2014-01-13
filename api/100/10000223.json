@@ -1,6 +1,6 @@
 {
   "facility_code": "10000223",
-  "institution": "Ssa - Office Of Adjudication & Review",
+  "institution": "SSA - OFFICE OF ADJUDICATION & REVIEW",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55401",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N17632",
-  "institution": "Fort Edward Police Department",
+  "institution": "FORT EDWARD POLICE DEPARTMENT",
   "city": "Fort Edward",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12828",
-  "email": false
+  "ope": null
 }

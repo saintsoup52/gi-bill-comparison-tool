@@ -1,6 +1,6 @@
 {
   "facility_code": "31003920",
-  "institution": "Ner Israel Rabbinical College",
+  "institution": "NER ISRAEL RABBINICAL COLLEGE",
   "city": "Balto",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21208",
-  "email": false
+  "ope": "00208700"
 }

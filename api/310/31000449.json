@@ -1,6 +1,6 @@
 {
   "facility_code": "31000449",
-  "institution": "Marquette University",
+  "institution": "MARQUETTE UNIVERSITY",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53233",
-  "email": true
+  "ope": "00386300"
 }

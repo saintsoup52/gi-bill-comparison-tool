@@ -1,6 +1,6 @@
 {
   "facility_code": "46005446",
-  "institution": "Tech 2000 Inc",
+  "institution": "TECH 2000 INC",
   "city": "Herndon",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20170",
-  "email": true
+  "ope": null
 }

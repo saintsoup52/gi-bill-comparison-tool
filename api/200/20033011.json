@@ -1,6 +1,6 @@
 {
   "facility_code": "20033011",
-  "institution": "O'Charley'S Restaurant",
+  "institution": "O'CHARLEY'S RESTAURANT",
   "city": "Conyers",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30012",
-  "email": false
+  "ope": null
 }

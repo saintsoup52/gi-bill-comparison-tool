@@ -1,6 +1,6 @@
 {
   "facility_code": "20208126",
-  "institution": "Beartooth Ford",
+  "institution": "BEARTOOTH FORD",
   "city": "Columbus",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59019",
-  "email": true
+  "ope": null
 }

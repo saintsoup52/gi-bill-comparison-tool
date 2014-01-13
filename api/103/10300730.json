@@ -1,6 +1,6 @@
 {
   "facility_code": "10300730",
-  "institution": "Us Department Of Veterans Affairs",
+  "institution": "US DEPARTMENT OF VETERANS AFFAIRS",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7102",
-  "email": true
+  "ope": null
 }

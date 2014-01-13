@@ -1,6 +1,6 @@
 {
   "facility_code": "10682029",
-  "institution": "Rochester Police Department",
+  "institution": "ROCHESTER POLICE DEPARTMENT",
   "city": "Rochester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3867",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10229503",
-  "institution": "Faa Tucson Tracon",
+  "institution": "FAA TUCSON TRACON",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85708",
-  "email": false
+  "ope": null
 }

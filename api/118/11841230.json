@@ -1,6 +1,6 @@
 {
   "facility_code": "11841230",
-  "institution": "Rutgers The State University School Of Public Health - Piscataway",
+  "institution": "RUTGERS THE STATE UNIVERSITY SCHOOL OF PUBLIC HEALTH - PISCATAWAY",
   "city": "Piscataway",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8854",
-  "email": true
+  "ope": "00262902"
 }

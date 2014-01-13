@@ -1,6 +1,6 @@
 {
   "facility_code": "31000920",
-  "institution": "St Johns College",
+  "institution": "ST JOHNS COLLEGE",
   "city": "Annapolis",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21401",
-  "email": true
+  "ope": "00209200"
 }

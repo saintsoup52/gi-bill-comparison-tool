@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5205",
-  "institution": "California Highway Patrol (Gilroy)",
+  "institution": "CALIFORNIA HIGHWAY PATROL (GILROY)",
   "city": "Gilroy",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95020",
-  "email": false
+  "ope": null
 }

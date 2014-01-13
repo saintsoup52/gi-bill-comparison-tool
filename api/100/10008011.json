@@ -1,6 +1,6 @@
 {
   "facility_code": "10008011",
-  "institution": "Dalton Regional Youth Detention Center",
+  "institution": "DALTON REGIONAL YOUTH DETENTION CENTER",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30719",
-  "email": false
+  "ope": null
 }

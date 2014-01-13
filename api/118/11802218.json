@@ -1,6 +1,6 @@
 {
   "facility_code": "11802218",
-  "institution": "Lsu Health Sciences Center - Shreveport",
+  "institution": "LSU HEALTH SCIENCES CENTER - SHREVEPORT",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71130",
-  "email": true
+  "ope": "00806700"
 }

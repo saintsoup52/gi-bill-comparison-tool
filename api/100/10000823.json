@@ -1,6 +1,6 @@
 {
   "facility_code": "10000823",
-  "institution": "Nicollet County Veterans Service Office",
+  "institution": "NICOLLET COUNTY VETERANS SERVICE OFFICE",
   "city": "St Peter",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56082",
-  "email": false
+  "ope": null
 }

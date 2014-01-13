@@ -1,6 +1,6 @@
 {
   "facility_code": "10P01732",
-  "institution": "Nypd Midtown North Precinct - 18th Precinct",
+  "institution": "NYPD MIDTOWN NORTH PRECINCT - 18TH PRECINCT",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10019",
-  "email": false
+  "ope": null
 }

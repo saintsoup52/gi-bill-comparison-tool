@@ -1,6 +1,6 @@
 {
   "facility_code": "31000781",
-  "institution": "Deree College",
+  "institution": "DEREE COLLEGE",
   "city": "Athens",
   "state": "Greece",
   "country": "Greece",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

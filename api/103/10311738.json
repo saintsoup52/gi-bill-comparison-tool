@@ -1,6 +1,6 @@
 {
   "facility_code": "10311738",
-  "institution": "Pottstown Police Department",
+  "institution": "POTTSTOWN POLICE DEPARTMENT",
   "city": "Pottstown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19464",
-  "email": true
+  "ope": null
 }

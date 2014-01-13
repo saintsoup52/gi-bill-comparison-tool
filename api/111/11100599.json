@@ -1,6 +1,6 @@
 {
   "facility_code": "11100599",
-  "institution": "Victoria Univ Of Wellington",
+  "institution": "VICTORIA UNIV OF WELLINGTON",
   "city": "Wellington",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

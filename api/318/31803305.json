@@ -1,6 +1,6 @@
 {
   "facility_code": "31803305",
-  "institution": "University Of La Verne (Irvine)",
+  "institution": "UNIVERSITY OF LA VERNE (IRVINE)",
   "city": "Irvine",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92606",
-  "email": true
+  "ope": "00121604"
 }

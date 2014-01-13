@@ -1,6 +1,6 @@
 {
   "facility_code": "10566313",
-  "institution": "Illinois Department Of Corrections-Sheridan",
+  "institution": "ILLINOIS DEPARTMENT OF CORRECTIONS-SHERIDAN",
   "city": "Sheridan",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60551",
-  "email": false
+  "ope": null
 }

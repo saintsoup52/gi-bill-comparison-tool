@@ -1,6 +1,6 @@
 {
   "facility_code": "11822113",
-  "institution": "University Of Illinois At Chicago",
+  "institution": "UNIVERSITY OF ILLINOIS AT CHICAGO",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60607",
-  "email": true
+  "ope": "00177600"
 }

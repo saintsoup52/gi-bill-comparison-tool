@@ -1,6 +1,6 @@
 {
   "facility_code": "10248411",
-  "institution": "Moultrie Police Department",
+  "institution": "MOULTRIE POLICE DEPARTMENT",
   "city": "Moultrie",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31776",
-  "email": true
+  "ope": null
 }

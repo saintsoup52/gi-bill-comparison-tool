@@ -1,6 +1,6 @@
 {
   "facility_code": "10D26949",
-  "institution": "Dwd/Det Janesville Job Service",
+  "institution": "DWD/DET JANESVILLE JOB SERVICE",
   "city": "Janesville",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53546",
-  "email": false
+  "ope": null
 }

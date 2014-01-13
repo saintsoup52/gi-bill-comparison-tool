@@ -1,6 +1,6 @@
 {
   "facility_code": "102B2405",
-  "institution": "Faa- Long Beach Tower",
+  "institution": "FAA- LONG BEACH TOWER",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90806",
-  "email": false
+  "ope": null
 }

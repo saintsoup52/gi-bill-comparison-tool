@@ -1,6 +1,6 @@
 {
   "facility_code": "10N19032",
-  "institution": "Nypd - 73rd Precinct",
+  "institution": "NYPD - 73RD PRECINCT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11212",
-  "email": false
+  "ope": null
 }

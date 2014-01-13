@@ -1,6 +1,6 @@
 {
   "facility_code": "20600025",
-  "institution": "Fabtech Inc.",
+  "institution": "FABTECH INC.",
   "city": "Lee'S Summit",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64086",
-  "email": false
+  "ope": null
 }

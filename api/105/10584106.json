@@ -1,6 +1,6 @@
 {
   "facility_code": "10584106",
-  "institution": "Jefferson County Sheriff'S Office",
+  "institution": "JEFFERSON COUNTY SHERIFF'S OFFICE",
   "city": "Golden",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80401",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11200778",
-  "institution": "Technion - Israel Inst Of Tech",
+  "institution": "TECHNION - ISRAEL INST OF TECH",
   "city": "Haifa",
   "state": "Israel (Tel Aviv)",
   "country": "Israel (Tel Aviv)",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

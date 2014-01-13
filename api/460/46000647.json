@@ -1,6 +1,6 @@
 {
   "facility_code": "46000647",
-  "institution": "Microsoft Corporation",
+  "institution": "MICROSOFT CORPORATION",
   "city": "Redmond",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98052",
-  "email": true
+  "ope": null
 }

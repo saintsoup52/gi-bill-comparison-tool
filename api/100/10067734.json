@@ -1,6 +1,6 @@
 {
   "facility_code": "10067734",
-  "institution": "North Dakota State Highway Patrol",
+  "institution": "NORTH DAKOTA STATE HIGHWAY PATROL",
   "city": "Bismarck",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58505",
-  "email": false
+  "ope": null
 }

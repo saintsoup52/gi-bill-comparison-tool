@@ -1,6 +1,6 @@
 {
   "facility_code": "14800045",
-  "institution": "Community College Of Vermont",
+  "institution": "COMMUNITY COLLEGE OF VERMONT",
   "city": "Montpelier",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "5601",
-  "email": true
+  "ope": "01116707"
 }

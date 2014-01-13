@@ -1,6 +1,6 @@
 {
   "facility_code": "12801644",
-  "institution": "U Of U Healthcare - Dept Of Radiology (Ch 31)",
+  "institution": "U OF U HEALTHCARE - DEPT OF RADIOLOGY (CH 31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84132",
-  "email": false
+  "ope": null
 }

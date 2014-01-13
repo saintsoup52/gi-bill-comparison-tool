@@ -1,6 +1,6 @@
 {
   "facility_code": "19012806",
-  "institution": "Network Enterprise Center Fort Carson",
+  "institution": "NETWORK ENTERPRISE CENTER FORT CARSON",
   "city": "Ft Carson",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80913",
-  "email": false
+  "ope": null
 }

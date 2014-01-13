@@ -1,6 +1,6 @@
 {
   "facility_code": "25870521",
-  "institution": "Northeast Technical Institute",
+  "institution": "NORTHEAST TECHNICAL INSTITUTE",
   "city": "Haverhill",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1830",
-  "email": true
+  "ope": null
 }

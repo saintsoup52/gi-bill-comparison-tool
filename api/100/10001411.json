@@ -1,6 +1,6 @@
 {
   "facility_code": "10001411",
-  "institution": "Eastman Regional Youth Detention Center",
+  "institution": "EASTMAN REGIONAL YOUTH DETENTION CENTER",
   "city": "Eastman",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31023",
-  "email": false
+  "ope": null
 }

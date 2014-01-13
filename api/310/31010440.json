@@ -1,6 +1,6 @@
 {
   "facility_code": "31010440",
-  "institution": "Embry-Riddle Aeronautical University Greenville",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY GREENVILLE",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29607",
-  "email": true
+  "ope": "00147900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11002078",
-  "institution": "Erasmus University Rotterdam",
+  "institution": "ERASMUS UNIVERSITY ROTTERDAM",
   "city": "Dr Rotterdam",
   "state": "Netherlands",
   "country": "Netherlands",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

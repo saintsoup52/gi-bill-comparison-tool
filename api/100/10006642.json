@@ -1,6 +1,6 @@
 {
   "facility_code": "10006642",
-  "institution": "Va Medical Center Memphis Prosthetics Dept - Chapter 31 Only",
+  "institution": "VA MEDICAL CENTER MEMPHIS PROSTHETICS DEPT - CHAPTER 31 ONLY",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38104",
-  "email": false
+  "ope": null
 }

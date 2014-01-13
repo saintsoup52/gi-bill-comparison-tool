@@ -1,6 +1,6 @@
 {
   "facility_code": "20002228",
-  "institution": "Southern Nevada Operating Engineers Jatc",
+  "institution": "SOUTHERN NEVADA OPERATING ENGINEERS JATC",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89115",
-  "email": true
+  "ope": null
 }

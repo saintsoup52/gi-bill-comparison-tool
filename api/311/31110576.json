@@ -1,6 +1,6 @@
 {
   "facility_code": "31110576",
-  "institution": "Universidad Americana - Costa",
+  "institution": "UNIVERSIDAD AMERICANA - COSTA",
   "city": "San Jose",
   "state": "Costa Rica",
   "country": "Costa Rica",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

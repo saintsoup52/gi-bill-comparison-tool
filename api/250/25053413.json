@@ -1,6 +1,6 @@
 {
   "facility_code": "25053413",
-  "institution": "Veterans Center",
+  "institution": "VETERANS CENTER",
   "city": "Rockford",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61108",
-  "email": false
+  "ope": null
 }

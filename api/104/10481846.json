@@ -1,6 +1,6 @@
 {
   "facility_code": "10481846",
-  "institution": "Henrico County Div Of Police",
+  "institution": "HENRICO COUNTY DIV OF POLICE",
   "city": "Henrico",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23294",
-  "email": true
+  "ope": null
 }

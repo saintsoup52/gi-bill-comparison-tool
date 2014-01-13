@@ -1,6 +1,6 @@
 {
   "facility_code": "10649340",
-  "institution": "Liberty Police Department",
+  "institution": "LIBERTY POLICE DEPARTMENT",
   "city": "Liberty",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29657",
-  "email": false
+  "ope": null
 }

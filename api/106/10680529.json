@@ -1,6 +1,6 @@
 {
   "facility_code": "10680529",
-  "institution": "Manchester Police Department",
+  "institution": "MANCHESTER POLICE DEPARTMENT",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3101",
-  "email": true
+  "ope": null
 }

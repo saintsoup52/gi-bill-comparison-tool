@@ -1,6 +1,6 @@
 {
   "facility_code": "10052802",
-  "institution": "Faa Fairbanks Tower",
+  "institution": "FAA FAIRBANKS TOWER",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99709",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10014563",
-  "institution": "Us Army Fort Buchanan",
+  "institution": "US ARMY FORT BUCHANAN",
   "city": "Ft Buchanan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "934",
-  "email": false
+  "ope": null
 }

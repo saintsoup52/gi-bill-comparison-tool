@@ -1,6 +1,6 @@
 {
   "facility_code": "25177005",
-  "institution": "Softtech",
+  "institution": "SOFTTECH",
   "city": "El Cerrito",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94530",
-  "email": true
+  "ope": null
 }

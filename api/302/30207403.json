@@ -1,6 +1,6 @@
 {
   "facility_code": "30207403",
-  "institution": "Tucson Electrical Ja&Tp",
+  "institution": "TUCSON ELECTRICAL JA&TP",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85705",
-  "email": true
+  "ope": null
 }

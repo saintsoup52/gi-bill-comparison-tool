@@ -1,6 +1,6 @@
 {
   "facility_code": "10083118",
-  "institution": "Dhs -- Immigration & Customs Enforcement",
+  "institution": "DHS -- IMMIGRATION & CUSTOMS ENFORCEMENT",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70113",
-  "email": true
+  "ope": null
 }

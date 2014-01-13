@@ -1,6 +1,6 @@
 {
   "facility_code": "25117805",
-  "institution": "Learnet Academy",
+  "institution": "LEARNET ACADEMY",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90020",
-  "email": true
+  "ope": "NONE"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10009411",
-  "institution": "Georgia State Patrol - Post 32 (Athens)",
+  "institution": "GEORGIA STATE PATROL - POST 32 (ATHENS)",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30601",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10023236",
-  "institution": "Ponca City Police Department",
+  "institution": "PONCA CITY POLICE DEPARTMENT",
   "city": "Ponca City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74601",
-  "email": false
+  "ope": null
 }

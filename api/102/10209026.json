@@ -1,6 +1,6 @@
 {
   "facility_code": "10209026",
-  "institution": "Poplar City Police Department",
+  "institution": "POPLAR CITY POLICE DEPARTMENT",
   "city": "Poplar",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59255",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001978",
-  "institution": "University Of Pecs",
+  "institution": "UNIVERSITY OF PECS",
   "city": "Szigeti Ut 12",
   "state": "Hungary",
   "country": "Hungary",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

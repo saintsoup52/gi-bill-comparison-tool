@@ -1,6 +1,6 @@
 {
   "facility_code": "25098643",
-  "institution": "The Inst Of Natural Healing Sci",
+  "institution": "THE INST OF NATURAL HEALING SCI",
   "city": "Colleyville",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76034",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10850921",
-  "institution": "South Hadley Fire District #2",
+  "institution": "SOUTH HADLEY FIRE DISTRICT #2",
   "city": "South Hadley",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1075",
-  "email": true
+  "ope": null
 }

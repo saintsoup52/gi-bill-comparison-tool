@@ -1,6 +1,6 @@
 {
   "facility_code": "10070314",
-  "institution": "Decatur County Remc",
+  "institution": "DECATUR COUNTY REMC",
   "city": "Greensburg",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47240",
-  "email": false
+  "ope": null
 }

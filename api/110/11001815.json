@@ -1,6 +1,6 @@
 {
   "facility_code": "11001815",
-  "institution": "University Of Iowa",
+  "institution": "UNIVERSITY OF IOWA",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "52242",
-  "email": false
+  "ope": "00189200"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38832",
-  "institution": "Town Of Newcastle Highway Department",
+  "institution": "TOWN OF NEWCASTLE HIGHWAY DEPARTMENT",
   "city": "Chappaqua",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10514",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001878",
-  "institution": "Hogeschool Van Amsterdam",
+  "institution": "HOGESCHOOL VAN AMSTERDAM",
   "city": "Amsterdam",
   "state": "Netherlands",
   "country": "Netherlands",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

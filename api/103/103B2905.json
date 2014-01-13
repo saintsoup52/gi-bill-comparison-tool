@@ -1,6 +1,6 @@
 {
   "facility_code": "103B2905",
-  "institution": "Customs And Border Protection San Diego Air & Marine Branch",
+  "institution": "CUSTOMS AND BORDER PROTECTION SAN DIEGO AIR & MARINE BRANCH",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92135",
-  "email": false
+  "ope": null
 }

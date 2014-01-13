@@ -1,6 +1,6 @@
 {
   "facility_code": "10501017",
-  "institution": "Eastern Kentucky Correctional Complex",
+  "institution": "EASTERN KENTUCKY CORRECTIONAL COMPLEX",
   "city": "West Liberty",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41472",
-  "email": false
+  "ope": null
 }

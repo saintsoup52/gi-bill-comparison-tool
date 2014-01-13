@@ -1,6 +1,6 @@
 {
   "facility_code": "10504217",
-  "institution": "Kentucky Department For Veterans Affairs",
+  "institution": "KENTUCKY DEPARTMENT FOR VETERANS AFFAIRS",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40202",
-  "email": false
+  "ope": null
 }

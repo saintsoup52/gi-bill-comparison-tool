@@ -1,6 +1,6 @@
 {
   "facility_code": "32000146",
-  "institution": "Danville Regional Medical Ctr Sch Of Health Professions",
+  "institution": "DANVILLE REGIONAL MEDICAL CTR SCH OF HEALTH PROFESSIONS",
   "city": "Danville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "24541",
-  "email": true
+  "ope": "02111600"
 }

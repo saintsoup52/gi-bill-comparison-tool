@@ -1,6 +1,6 @@
 {
   "facility_code": "11100284",
-  "institution": "Universita Delgi Studi Di Trento",
+  "institution": "UNIVERSITA DELGI STUDI DI TRENTO",
   "city": "38100 Trento",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

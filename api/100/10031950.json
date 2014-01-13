@@ -1,6 +1,6 @@
 {
   "facility_code": "10031950",
-  "institution": "Laramie County Sheriffs Department",
+  "institution": "LARAMIE COUNTY SHERIFFS DEPARTMENT",
   "city": "Cheyenne",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82001",
-  "email": false
+  "ope": null
 }

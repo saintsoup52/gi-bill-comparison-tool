@@ -1,6 +1,6 @@
 {
   "facility_code": "10510624",
-  "institution": "Federal Aviation Administration (Faa)- Jackson Int'L Airport",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA)- JACKSON INT'L AIRPORT",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39208",
-  "email": true
+  "ope": null
 }

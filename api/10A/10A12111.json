@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12111",
-  "institution": "Sumter County Correctional Institution",
+  "institution": "SUMTER COUNTY CORRECTIONAL INSTITUTION",
   "city": "Americus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31709",
-  "email": false
+  "ope": null
 }

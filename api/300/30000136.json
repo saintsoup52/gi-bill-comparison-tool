@@ -1,6 +1,6 @@
 {
   "facility_code": "30000136",
-  "institution": "Emergency Medical Services Authority",
+  "institution": "EMERGENCY MEDICAL SERVICES AUTHORITY",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73103",
-  "email": false
+  "ope": null
 }

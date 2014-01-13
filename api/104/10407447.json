@@ -1,6 +1,6 @@
 {
   "facility_code": "10407447",
-  "institution": "Social Security Administration - Yakima (Ch31)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - YAKIMA (CH31)",
   "city": "Yakima",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98902",
-  "email": false
+  "ope": null
 }

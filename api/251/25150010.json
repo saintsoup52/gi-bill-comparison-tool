@@ -1,6 +1,6 @@
 {
   "facility_code": "25150010",
-  "institution": "Bonita Springs School",
+  "institution": "BONITA SPRINGS SCHOOL",
   "city": "Bonita Springs",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34135",
-  "email": false
+  "ope": null
 }

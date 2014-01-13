@@ -1,6 +1,6 @@
 {
   "facility_code": "20001823",
-  "institution": "Metro Lathers Jac",
+  "institution": "METRO LATHERS JAC",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55101",
-  "email": false
+  "ope": null
 }

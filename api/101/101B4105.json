@@ -1,6 +1,6 @@
 {
   "facility_code": "101B4105",
-  "institution": "California Highway Patrol (Santa Ana)",
+  "institution": "CALIFORNIA HIGHWAY PATROL (SANTA ANA)",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92705",
-  "email": false
+  "ope": null
 }

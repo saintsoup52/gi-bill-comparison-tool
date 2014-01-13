@@ -1,6 +1,6 @@
 {
   "facility_code": "10074214",
-  "institution": "Bedford Police Department",
+  "institution": "BEDFORD POLICE DEPARTMENT",
   "city": "Bedford",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47421",
-  "email": true
+  "ope": null
 }

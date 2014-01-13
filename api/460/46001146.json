@@ -1,6 +1,6 @@
 {
   "facility_code": "46001146",
-  "institution": "Association Of Clinical Research Professionals",
+  "institution": "ASSOCIATION OF CLINICAL RESEARCH PROFESSIONALS",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22314",
-  "email": true
+  "ope": null
 }

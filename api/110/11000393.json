@@ -1,6 +1,6 @@
 {
   "facility_code": "11000393",
-  "institution": "Malardalens Hogskola (University)",
+  "institution": "MALARDALENS HOGSKOLA (UNIVERSITY)",
   "city": "721 23 Vasteras",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

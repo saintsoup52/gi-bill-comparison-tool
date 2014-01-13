@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42432",
-  "institution": "East Hampton Town Police",
+  "institution": "EAST HAMPTON TOWN POLICE",
   "city": "East Hampton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11937",
-  "email": false
+  "ope": null
 }

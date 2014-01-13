@@ -1,6 +1,6 @@
 {
   "facility_code": "10014233",
-  "institution": "Ncdoc - Buncombe Correctional Center",
+  "institution": "NCDOC - BUNCOMBE CORRECTIONAL CENTER",
   "city": "Asheville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28814",
-  "email": true
+  "ope": null
 }

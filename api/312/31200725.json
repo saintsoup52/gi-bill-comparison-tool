@@ -1,6 +1,6 @@
 {
   "facility_code": "31200725",
-  "institution": "Kirksville College Of Osteopathic Medicine",
+  "institution": "KIRKSVILLE COLLEGE OF OSTEOPATHIC MEDICINE",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63501",
-  "email": true
+  "ope": null
 }

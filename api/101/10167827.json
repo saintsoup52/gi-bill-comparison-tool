@@ -1,6 +1,6 @@
 {
   "facility_code": "10167827",
-  "institution": "City Of Norfolk",
+  "institution": "CITY OF NORFOLK",
   "city": "Norfolk",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68701",
-  "email": true
+  "ope": null
 }

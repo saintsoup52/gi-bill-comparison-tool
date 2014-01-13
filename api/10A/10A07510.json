@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07510",
-  "institution": "Dale Mabry Advanced Wastewater Treatment Plant",
+  "institution": "DALE MABRY ADVANCED WASTEWATER TREATMENT PLANT",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33624",
-  "email": true
+  "ope": null
 }

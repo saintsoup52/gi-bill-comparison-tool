@@ -1,6 +1,6 @@
 {
   "facility_code": "20060911",
-  "institution": "Suniva Inc.",
+  "institution": "SUNIVA INC.",
   "city": "Norcross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30092",
-  "email": true
+  "ope": null
 }

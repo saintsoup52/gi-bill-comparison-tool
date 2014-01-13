@@ -1,6 +1,6 @@
 {
   "facility_code": "25049921",
-  "institution": "Teamworks",
+  "institution": "TEAMWORKS",
   "city": "Vineyard Haven",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2568",
-  "email": false
+  "ope": null
 }

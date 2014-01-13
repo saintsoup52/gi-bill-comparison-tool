@@ -1,6 +1,6 @@
 {
   "facility_code": "20C05243",
-  "institution": "Financial Support Svc",
+  "institution": "FINANCIAL SUPPORT SVC",
   "city": "Sweeney",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77480",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10994310",
-  "institution": "Oviedo Police Department",
+  "institution": "OVIEDO POLICE DEPARTMENT",
   "city": "Oviedo",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32765",
-  "email": false
+  "ope": null
 }

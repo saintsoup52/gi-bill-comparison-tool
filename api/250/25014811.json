@@ -1,6 +1,6 @@
 {
   "facility_code": "25014811",
-  "institution": "Center Of Industry And Technology",
+  "institution": "CENTER OF INDUSTRY AND TECHNOLOGY",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30336",
-  "email": true
+  "ope": null
 }

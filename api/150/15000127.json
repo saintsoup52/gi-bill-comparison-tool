@@ -1,6 +1,6 @@
 {
   "facility_code": "15000127",
-  "institution": "Lemay Flight Training Center",
+  "institution": "LEMAY FLIGHT TRAINING CENTER",
   "city": "Offutt Afb",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68113",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15100305",
-  "institution": "Hanford Adult School",
+  "institution": "HANFORD ADULT SCHOOL",
   "city": "Hanford",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93230",
-  "email": true
+  "ope": null
 }

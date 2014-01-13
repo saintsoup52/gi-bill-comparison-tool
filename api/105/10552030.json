@@ -1,6 +1,6 @@
 {
   "facility_code": "10552030",
-  "institution": "Englewood Cliffs Police Department",
+  "institution": "ENGLEWOOD CLIFFS POLICE DEPARTMENT",
   "city": "Englewood Cliffs",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7632",
-  "email": false
+  "ope": null
 }

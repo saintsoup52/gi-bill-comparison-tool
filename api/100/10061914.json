@@ -1,6 +1,6 @@
 {
   "facility_code": "10061914",
-  "institution": "Mentone Police Department",
+  "institution": "MENTONE POLICE DEPARTMENT",
   "city": "Mentone",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46539",
-  "email": false
+  "ope": null
 }

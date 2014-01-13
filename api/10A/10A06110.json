@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06110",
-  "institution": "West Melbourne Police Department",
+  "institution": "WEST MELBOURNE POLICE DEPARTMENT",
   "city": "West Melbourne",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32904",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10707913",
-  "institution": "Lagrange Police Department",
+  "institution": "LAGRANGE POLICE DEPARTMENT",
   "city": "Lagrange",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60525",
-  "email": true
+  "ope": null
 }

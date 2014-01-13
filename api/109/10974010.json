@@ -1,6 +1,6 @@
 {
   "facility_code": "10974010",
-  "institution": "Federal Correctional Complex - Coleman",
+  "institution": "FEDERAL CORRECTIONAL COMPLEX - COLEMAN",
   "city": "Coleman",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33521",
-  "email": true
+  "ope": null
 }

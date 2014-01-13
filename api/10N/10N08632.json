@@ -1,6 +1,6 @@
 {
   "facility_code": "10N08632",
-  "institution": "Schenectady Police Department",
+  "institution": "SCHENECTADY POLICE DEPARTMENT",
   "city": "Schenectady",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12305",
-  "email": false
+  "ope": null
 }

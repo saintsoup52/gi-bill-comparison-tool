@@ -1,6 +1,6 @@
 {
   "facility_code": "10467215",
-  "institution": "Davenport Police Department",
+  "institution": "DAVENPORT POLICE DEPARTMENT",
   "city": "Davenport",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52801",
-  "email": false
+  "ope": null
 }

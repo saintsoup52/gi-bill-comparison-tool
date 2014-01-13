@@ -1,6 +1,6 @@
 {
   "facility_code": "19000130",
-  "institution": "Internal Revenue Services",
+  "institution": "INTERNAL REVENUE SERVICES",
   "city": "Edison",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8817",
-  "email": false
+  "ope": null
 }

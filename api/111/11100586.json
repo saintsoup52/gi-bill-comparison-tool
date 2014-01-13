@@ -1,6 +1,6 @@
 {
   "facility_code": "11100586",
-  "institution": "Universidad Del Valle De Atemajac La Piedad",
+  "institution": "UNIVERSIDAD DEL VALLE DE ATEMAJAC LA PIEDAD",
   "city": "59300 La Piedad",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

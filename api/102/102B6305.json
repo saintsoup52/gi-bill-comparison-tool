@@ -1,6 +1,6 @@
 {
   "facility_code": "102B6305",
-  "institution": "Faa- Santa Monica Atct",
+  "institution": "FAA- SANTA MONICA ATCT",
   "city": "Santa Monica",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90405",
-  "email": false
+  "ope": null
 }

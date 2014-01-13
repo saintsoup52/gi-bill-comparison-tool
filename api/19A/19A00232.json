@@ -1,6 +1,6 @@
 {
   "facility_code": "19A00232",
-  "institution": "Center For Assistive Technology",
+  "institution": "CENTER FOR ASSISTIVE TECHNOLOGY",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14214",
-  "email": false
+  "ope": null
 }

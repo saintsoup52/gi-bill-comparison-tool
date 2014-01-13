@@ -1,6 +1,6 @@
 {
   "facility_code": "10C00338",
-  "institution": "United State Probation Office",
+  "institution": "UNITED STATE PROBATION OFFICE",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17101",
-  "email": true
+  "ope": null
 }

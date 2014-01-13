@@ -1,6 +1,6 @@
 {
   "facility_code": "20637740",
-  "institution": "Sce&G - Vc Summer Nuclear Power Station",
+  "institution": "SCE&G - VC SUMMER NUCLEAR POWER STATION",
   "city": "Jenkinsville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29065",
-  "email": true
+  "ope": null
 }

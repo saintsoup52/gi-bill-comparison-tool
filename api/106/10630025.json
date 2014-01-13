@@ -1,6 +1,6 @@
 {
   "facility_code": "10630025",
-  "institution": "Perry County Sheriff'S Dept.",
+  "institution": "PERRY COUNTY SHERIFF'S DEPT.",
   "city": "Perryville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63775",
-  "email": false
+  "ope": null
 }

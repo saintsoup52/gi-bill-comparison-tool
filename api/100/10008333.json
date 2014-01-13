@@ -1,6 +1,6 @@
 {
   "facility_code": "10008333",
-  "institution": "Fire And Emergency Services Division",
+  "institution": "FIRE AND EMERGENCY SERVICES DIVISION",
   "city": "Camp Lejeune",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28547",
-  "email": true
+  "ope": null
 }

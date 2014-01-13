@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02310",
-  "institution": "Federal Aviation Admin (Faa) Jacksonville Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) JACKSONVILLE TRACON/TOWER",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32229",
-  "email": true
+  "ope": null
 }

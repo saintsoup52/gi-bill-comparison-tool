@@ -1,6 +1,6 @@
 {
   "facility_code": "20500248",
-  "institution": "Ball Corporation",
+  "institution": "BALL CORPORATION",
   "city": "Weirton",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26062",
-  "email": true
+  "ope": null
 }

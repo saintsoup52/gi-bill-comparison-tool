@@ -1,6 +1,6 @@
 {
   "facility_code": "11200980",
-  "institution": "Universitat Trier",
+  "institution": "UNIVERSITAT TRIER",
   "city": "Trier",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

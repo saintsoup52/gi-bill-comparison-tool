@@ -1,6 +1,6 @@
 {
   "facility_code": "21193122",
-  "institution": "Gerber Products Company",
+  "institution": "GERBER PRODUCTS COMPANY",
   "city": "Fremont",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49413",
-  "email": true
+  "ope": null
 }

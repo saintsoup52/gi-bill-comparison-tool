@@ -1,6 +1,6 @@
 {
   "facility_code": "25009529",
-  "institution": "Lrghealthcare",
+  "institution": "LRGHEALTHCARE",
   "city": "Laconia",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3246",
-  "email": true
+  "ope": null
 }

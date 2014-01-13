@@ -1,6 +1,6 @@
 {
   "facility_code": "25181205",
-  "institution": "Career Development Institute Inc. (Los Angeles)",
+  "institution": "CAREER DEVELOPMENT INSTITUTE INC. (LOS ANGELES)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90035",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12611",
-  "institution": "Muscogee County Prison",
+  "institution": "MUSCOGEE COUNTY PRISON",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31907",
-  "email": false
+  "ope": null
 }

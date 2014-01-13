@@ -1,6 +1,6 @@
 {
   "facility_code": "10605813",
-  "institution": "Bethalto Police Department",
+  "institution": "BETHALTO POLICE DEPARTMENT",
   "city": "Bethalto",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62010",
-  "email": false
+  "ope": null
 }

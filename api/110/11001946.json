@@ -1,6 +1,6 @@
 {
   "facility_code": "11001946",
-  "institution": "Radford University - Registrar",
+  "institution": "RADFORD UNIVERSITY - REGISTRAR",
   "city": "Radford",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "24142",
-  "email": true
+  "ope": "00373200"
 }

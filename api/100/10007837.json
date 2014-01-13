@@ -1,6 +1,6 @@
 {
   "facility_code": "10007837",
-  "institution": "Veterans Administration Regional Office",
+  "institution": "VETERANS ADMINISTRATION REGIONAL OFFICE",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97204",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35555235",
-  "institution": "St Paul High School",
+  "institution": "ST PAUL HIGH SCHOOL",
   "city": "Norwalk",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44857",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B02023",
-  "institution": "Burlington Northern & Santa Fe-Little Falls",
+  "institution": "BURLINGTON NORTHERN & SANTA FE-LITTLE FALLS",
   "city": "Little Falls",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56345",
-  "email": false
+  "ope": null
 }

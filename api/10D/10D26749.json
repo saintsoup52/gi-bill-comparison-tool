@@ -1,6 +1,6 @@
 {
   "facility_code": "10D26749",
-  "institution": "Columbia County Sheriff'S Office",
+  "institution": "COLUMBIA COUNTY SHERIFF'S OFFICE",
   "city": "Portage",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53954",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10403046",
-  "institution": "Virginia State Police Area Office #47",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #47",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23320",
-  "email": false
+  "ope": null
 }

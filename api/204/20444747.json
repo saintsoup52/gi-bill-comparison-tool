@@ -1,6 +1,6 @@
 {
   "facility_code": "20444747",
-  "institution": "Burlington Northern Santa Fe - Seattle Signal Appren.",
+  "institution": "BURLINGTON NORTHERN SANTA FE - SEATTLE SIGNAL APPREN.",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98134",
-  "email": true
+  "ope": null
 }

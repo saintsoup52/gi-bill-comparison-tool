@@ -1,6 +1,6 @@
 {
   "facility_code": "31803205",
-  "institution": "University Of La Verne (Burbank)",
+  "institution": "UNIVERSITY OF LA VERNE (BURBANK)",
   "city": "Burbank",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "91505",
-  "email": false
+  "ope": "00121605"
 }

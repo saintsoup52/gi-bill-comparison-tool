@@ -1,6 +1,6 @@
 {
   "facility_code": "10497146",
-  "institution": "Virginia Beach Police Dept",
+  "institution": "VIRGINIA BEACH POLICE DEPT",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23451",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10010036",
-  "institution": "Oklahoma City Police Department",
+  "institution": "OKLAHOMA CITY POLICE DEPARTMENT",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73102",
-  "email": false
+  "ope": null
 }

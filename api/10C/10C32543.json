@@ -1,6 +1,6 @@
 {
   "facility_code": "10C32543",
-  "institution": "Faa Atss Midland",
+  "institution": "FAA ATSS MIDLAND",
   "city": "Midland",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79706",
-  "email": false
+  "ope": null
 }

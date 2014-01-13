@@ -1,6 +1,6 @@
 {
   "facility_code": "20530040",
-  "institution": "Stevens Electric Company",
+  "institution": "STEVENS ELECTRIC COMPANY",
   "city": "Conway",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29526",
-  "email": false
+  "ope": null
 }

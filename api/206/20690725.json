@@ -1,6 +1,6 @@
 {
   "facility_code": "20690725",
-  "institution": "Joe'S Barber Shop",
+  "institution": "JOE'S BARBER SHOP",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64110",
-  "email": false
+  "ope": null
 }

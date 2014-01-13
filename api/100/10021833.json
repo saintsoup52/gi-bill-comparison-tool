@@ -1,6 +1,6 @@
 {
   "facility_code": "10021833",
-  "institution": "City Of Raleigh/Raleigh Police Department",
+  "institution": "CITY OF RALEIGH/RALEIGH POLICE DEPARTMENT",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27616",
-  "email": true
+  "ope": null
 }

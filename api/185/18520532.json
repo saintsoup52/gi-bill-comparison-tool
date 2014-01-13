@@ -1,6 +1,6 @@
 {
   "facility_code": "18520532",
-  "institution": "Boces Orange-Ulster",
+  "institution": "BOCES ORANGE-ULSTER",
   "city": "Goshen",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "10924",
-  "email": false
+  "ope": "02124000"
 }

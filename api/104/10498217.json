@@ -1,6 +1,6 @@
 {
   "facility_code": "10498217",
-  "institution": "Dawson Springs Police Department",
+  "institution": "DAWSON SPRINGS POLICE DEPARTMENT",
   "city": "Dawson Springs",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42408",
-  "email": false
+  "ope": null
 }

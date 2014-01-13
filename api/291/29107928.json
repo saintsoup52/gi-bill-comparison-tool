@@ -1,6 +1,6 @@
 {
   "facility_code": "29107928",
-  "institution": "St Rose Dominican Hospital (Ch31)",
+  "institution": "ST ROSE DOMINICAN HOSPITAL (CH31)",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89015",
-  "email": false
+  "ope": null
 }

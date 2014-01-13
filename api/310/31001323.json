@@ -1,6 +1,6 @@
 {
   "facility_code": "31001323",
-  "institution": "St Marys University Of Minnesota",
+  "institution": "ST MARYS UNIVERSITY OF MINNESOTA",
   "city": "Winona",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "55987",
-  "email": false
+  "ope": "00238000"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10678529",
-  "institution": "Newton Police Department",
+  "institution": "NEWTON POLICE DEPARTMENT",
   "city": "Newton",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3858",
-  "email": false
+  "ope": null
 }

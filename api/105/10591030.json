@@ -1,6 +1,6 @@
 {
   "facility_code": "10591030",
-  "institution": "Point Pleasant Boro Police Department",
+  "institution": "POINT PLEASANT BORO POLICE DEPARTMENT",
   "city": "Point Pleasant Boro",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8742",
-  "email": false
+  "ope": null
 }

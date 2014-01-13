@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91606",
-  "institution": "U.S. Customs & Border Protection",
+  "institution": "U.S. CUSTOMS & BORDER PROTECTION",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80249",
-  "email": true
+  "ope": null
 }

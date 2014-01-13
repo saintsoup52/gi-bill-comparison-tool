@@ -1,6 +1,6 @@
 {
   "facility_code": "10009611",
-  "institution": "Georgia State Patrol - Post 46 (Conyers)",
+  "institution": "GEORGIA STATE PATROL - POST 46 (CONYERS)",
   "city": "Conyers",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30094",
-  "email": false
+  "ope": null
 }

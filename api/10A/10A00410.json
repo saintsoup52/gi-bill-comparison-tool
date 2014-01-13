@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00410",
-  "institution": "Federal Correctional Institution - Miami",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - MIAMI",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33177",
-  "email": true
+  "ope": null
 }

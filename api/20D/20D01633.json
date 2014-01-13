@@ -1,6 +1,6 @@
 {
   "facility_code": "20D01633",
-  "institution": "Pcs Phosphate",
+  "institution": "PCS PHOSPHATE",
   "city": "Aurora",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27806",
-  "email": true
+  "ope": null
 }

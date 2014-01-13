@@ -1,6 +1,6 @@
 {
   "facility_code": "11104405",
-  "institution": "University Of California Santa Cruz Extension",
+  "institution": "UNIVERSITY OF CALIFORNIA SANTA CRUZ EXTENSION",
   "city": "Santa Clara",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95054",
-  "email": true
+  "ope": "00132100"
 }

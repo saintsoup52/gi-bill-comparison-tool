@@ -1,6 +1,6 @@
 {
   "facility_code": "11900146",
-  "institution": "Old Dominion University",
+  "institution": "OLD DOMINION UNIVERSITY",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "23529",
-  "email": true
+  "ope": "00372800"
 }

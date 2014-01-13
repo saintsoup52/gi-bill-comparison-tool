@@ -1,6 +1,6 @@
 {
   "facility_code": "11100899",
-  "institution": "Auckland University Of Technology",
+  "institution": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
   "city": "Auckland",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

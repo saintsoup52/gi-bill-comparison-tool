@@ -1,6 +1,6 @@
 {
   "facility_code": "10999910",
-  "institution": "Town Of Davie Human Resources Management",
+  "institution": "TOWN OF DAVIE HUMAN RESOURCES MANAGEMENT",
   "city": "Davie",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33314",
-  "email": true
+  "ope": null
 }

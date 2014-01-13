@@ -1,6 +1,6 @@
 {
   "facility_code": "11801128",
-  "institution": "University Of Nevada Las Vegas",
+  "institution": "UNIVERSITY OF NEVADA LAS VEGAS",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "89154",
-  "email": true
+  "ope": "00256900"
 }

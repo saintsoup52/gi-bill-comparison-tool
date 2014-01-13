@@ -1,6 +1,6 @@
 {
   "facility_code": "35000108",
-  "institution": "Desu Flight School",
+  "institution": "DESU FLIGHT SCHOOL",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19904",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10018233",
-  "institution": "Ncdoc - New Hanover Correctional Center",
+  "institution": "NCDOC - NEW HANOVER CORRECTIONAL CENTER",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28402",
-  "email": true
+  "ope": null
 }

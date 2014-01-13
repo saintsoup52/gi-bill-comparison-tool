@@ -1,6 +1,6 @@
 {
   "facility_code": "25019203",
-  "institution": "Knowledgenet (Ch31 Only)",
+  "institution": "KNOWLEDGENET (CH31 ONLY)",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85254",
-  "email": false
+  "ope": null
 }

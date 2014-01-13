@@ -1,6 +1,6 @@
 {
   "facility_code": "10698725",
-  "institution": "North Kansas City Fire Department",
+  "institution": "NORTH KANSAS CITY FIRE DEPARTMENT",
   "city": "North Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64116",
-  "email": true
+  "ope": null
 }

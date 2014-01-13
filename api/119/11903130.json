@@ -1,6 +1,6 @@
 {
   "facility_code": "11903130",
-  "institution": "Rowan University",
+  "institution": "ROWAN UNIVERSITY",
   "city": "Glassboro",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8028",
-  "email": true
+  "ope": "00260900"
 }

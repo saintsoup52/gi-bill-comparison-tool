@@ -1,6 +1,6 @@
 {
   "facility_code": "103C6905",
-  "institution": "Dept Of Veterans Affairs (Chico)(Ch31 Only)",
+  "institution": "DEPT OF VETERANS AFFAIRS (CHICO)(CH31 ONLY)",
   "city": "Chico",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95973",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001192",
-  "institution": "Universidad De Los Andes",
+  "institution": "UNIVERSIDAD DE LOS ANDES",
   "city": "Bogota",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

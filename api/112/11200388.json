@@ -1,6 +1,6 @@
 {
   "facility_code": "11200388",
-  "institution": "University Of Agder",
+  "institution": "UNIVERSITY OF AGDER",
   "city": "Kristiansand",
   "state": "Norway",
   "country": "Norway",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

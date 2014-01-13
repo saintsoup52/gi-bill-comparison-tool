@@ -1,6 +1,6 @@
 {
   "facility_code": "31000129",
-  "institution": "Dartmouth College",
+  "institution": "DARTMOUTH COLLEGE",
   "city": "Hanover",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "3755",
-  "email": true
+  "ope": "00257300"
 }

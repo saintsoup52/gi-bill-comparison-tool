@@ -1,6 +1,6 @@
 {
   "facility_code": "10452536",
-  "institution": "Va Regional Office",
+  "institution": "VA REGIONAL OFFICE",
   "city": "Muskogee",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74402",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10451447",
-  "institution": "Vamc - Bremerton Cboc - Ch 31 Only",
+  "institution": "VAMC - BREMERTON CBOC - CH 31 ONLY",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98312",
-  "email": true
+  "ope": null
 }

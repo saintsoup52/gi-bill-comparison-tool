@@ -1,6 +1,6 @@
 {
   "facility_code": "30308747",
-  "institution": "Disabled American Veterans Ch31",
+  "institution": "DISABLED AMERICAN VETERANS CH31",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98174",
-  "email": false
+  "ope": null
 }

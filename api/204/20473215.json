@@ -1,6 +1,6 @@
 {
   "facility_code": "20473215",
-  "institution": "Anamosa State Penitentiary",
+  "institution": "ANAMOSA STATE PENITENTIARY",
   "city": "Anamosa",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52205",
-  "email": false
+  "ope": null
 }

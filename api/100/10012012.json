@@ -1,6 +1,6 @@
 {
   "facility_code": "10012012",
-  "institution": "Nampa Fire Department",
+  "institution": "NAMPA FIRE DEPARTMENT",
   "city": "Nampa",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83651",
-  "email": false
+  "ope": null
 }

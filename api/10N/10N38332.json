@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38332",
-  "institution": "Monterey Shock Incarceration Correctional Facility",
+  "institution": "MONTEREY SHOCK INCARCERATION CORRECTIONAL FACILITY",
   "city": "Beaver Dams",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14812",
-  "email": true
+  "ope": null
 }

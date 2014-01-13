@@ -1,6 +1,6 @@
 {
   "facility_code": "11100679",
-  "institution": "Universite Pierre Et Marie Curie",
+  "institution": "UNIVERSITE PIERRE ET MARIE CURIE",
   "city": "Paris Cedex 05",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

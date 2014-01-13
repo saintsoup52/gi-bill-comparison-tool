@@ -1,6 +1,6 @@
 {
   "facility_code": "10472435",
-  "institution": "Tallmadge Police Department   G",
+  "institution": "TALLMADGE POLICE DEPARTMENT   G",
   "city": "Tallmadge",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44278",
-  "email": false
+  "ope": null
 }

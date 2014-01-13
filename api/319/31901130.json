@@ -1,6 +1,6 @@
 {
   "facility_code": "31901130",
-  "institution": "College Of Saint Elizabeth",
+  "institution": "COLLEGE OF SAINT ELIZABETH",
   "city": "Morristown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7960",
-  "email": true
+  "ope": "00260000"
 }

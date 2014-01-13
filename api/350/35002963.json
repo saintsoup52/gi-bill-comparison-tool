@@ -1,6 +1,6 @@
 {
   "facility_code": "35002963",
-  "institution": "Colegio Educativo Tecnologico Industrial (Ceti)",
+  "institution": "COLEGIO EDUCATIVO TECNOLOGICO INDUSTRIAL (CETI)",
   "city": "Arecibo",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "613",
-  "email": true
+  "ope": "03452300"
 }

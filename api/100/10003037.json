@@ -1,6 +1,6 @@
 {
   "facility_code": "10003037",
-  "institution": "Oregon Department Of Corrections",
+  "institution": "OREGON DEPARTMENT OF CORRECTIONS",
   "city": "Salem",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97302",
-  "email": true
+  "ope": null
 }

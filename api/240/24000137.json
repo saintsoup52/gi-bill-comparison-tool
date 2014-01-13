@@ -1,6 +1,6 @@
 {
   "facility_code": "24000137",
-  "institution": "The Art Institute Of Portland",
+  "institution": "THE ART INSTITUTE OF PORTLAND",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "97209",
-  "email": true
+  "ope": "00781900"
 }

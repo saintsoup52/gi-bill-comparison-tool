@@ -1,6 +1,6 @@
 {
   "facility_code": "103C2805",
-  "institution": "Dla Disposition Services (Ch31 Only)",
+  "institution": "DLA DISPOSITION SERVICES (CH31 ONLY)",
   "city": "French Camp",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95231",
-  "email": false
+  "ope": null
 }

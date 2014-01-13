@@ -1,6 +1,6 @@
 {
   "facility_code": "25050436",
-  "institution": "Center Of Professional Studies",
+  "institution": "CENTER OF PROFESSIONAL STUDIES",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74145",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31100984",
-  "institution": "Universita L. Bocconi (Sda Bocconi University)",
+  "institution": "UNIVERSITA L. BOCCONI (SDA BOCCONI UNIVERSITY)",
   "city": "Milan",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

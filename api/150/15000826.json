@@ -1,6 +1,6 @@
 {
   "facility_code": "15000826",
-  "institution": "Montana State University (Msu) Farrier School",
+  "institution": "MONTANA STATE UNIVERSITY (MSU) FARRIER SCHOOL",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "59717",
-  "email": true
+  "ope": "00253200"
 }

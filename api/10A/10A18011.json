@@ -1,6 +1,6 @@
 {
   "facility_code": "10A18011",
-  "institution": "Georgia Bureau Of Investigation - Savannah Reg Drug Enforcement Unit",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION - SAVANNAH REG DRUG ENFORCEMENT UNIT",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31419",
-  "email": false
+  "ope": null
 }

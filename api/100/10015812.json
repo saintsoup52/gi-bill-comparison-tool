@@ -1,6 +1,6 @@
 {
   "facility_code": "10015812",
-  "institution": "Faa - Boise Tower",
+  "institution": "FAA - BOISE TOWER",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83705",
-  "email": false
+  "ope": null
 }

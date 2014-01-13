@@ -1,6 +1,6 @@
 {
   "facility_code": "20186512",
-  "institution": "Rme Inc.",
+  "institution": "RME INC.",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83703",
-  "email": false
+  "ope": null
 }

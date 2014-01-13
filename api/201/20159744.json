@@ -1,6 +1,6 @@
 {
   "facility_code": "20159744",
-  "institution": "Utah Transit Authority",
+  "institution": "UTAH TRANSIT AUTHORITY",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84123",
-  "email": true
+  "ope": null
 }

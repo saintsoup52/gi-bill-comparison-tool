@@ -1,6 +1,6 @@
 {
   "facility_code": "10040311",
-  "institution": "Brunswick Police Department",
+  "institution": "BRUNSWICK POLICE DEPARTMENT",
   "city": "Brunswick",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31520",
-  "email": true
+  "ope": null
 }

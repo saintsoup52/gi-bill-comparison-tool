@@ -1,6 +1,6 @@
 {
   "facility_code": "10501530",
-  "institution": "Bayonne Police Department",
+  "institution": "BAYONNE POLICE DEPARTMENT",
   "city": "Bayonne",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7002",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10191822",
-  "institution": "Faa Air Traffic Control Tower Lansing",
+  "institution": "FAA AIR TRAFFIC CONTROL TOWER LANSING",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48906",
-  "email": true
+  "ope": null
 }

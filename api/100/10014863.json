@@ -1,6 +1,6 @@
 {
   "facility_code": "10014863",
-  "institution": "Instituto De Cultura De Pr-Ponce",
+  "institution": "INSTITUTO DE CULTURA DE PR-PONCE",
   "city": "Ponce",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "733",
-  "email": false
+  "ope": null
 }

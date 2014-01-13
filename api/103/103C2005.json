@@ -1,6 +1,6 @@
 {
   "facility_code": "103C2005",
-  "institution": "Social Security Administration  (Teleservice Center)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION  (TELESERVICE CENTER)",
   "city": "Salinas",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93906",
-  "email": false
+  "ope": null
 }

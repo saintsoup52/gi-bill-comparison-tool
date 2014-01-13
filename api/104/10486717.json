@@ -1,6 +1,6 @@
 {
   "facility_code": "10486717",
-  "institution": "Jeffersontown Police Department",
+  "institution": "JEFFERSONTOWN POLICE DEPARTMENT",
   "city": "Jeffersontown",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40299",
-  "email": false
+  "ope": null
 }

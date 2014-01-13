@@ -1,6 +1,6 @@
 {
   "facility_code": "10004211",
-  "institution": "Tallapoosa Police Department",
+  "institution": "TALLAPOOSA POLICE DEPARTMENT",
   "city": "Tallapoosa",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30176",
-  "email": false
+  "ope": null
 }

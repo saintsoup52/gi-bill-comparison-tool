@@ -1,6 +1,6 @@
 {
   "facility_code": "11000190",
-  "institution": "Poznan University Of Medical Sciences",
+  "institution": "POZNAN UNIVERSITY OF MEDICAL SCIENCES",
   "city": " Poznan",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

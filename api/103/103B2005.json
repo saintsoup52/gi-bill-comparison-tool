@@ -1,6 +1,6 @@
 {
   "facility_code": "103B2005",
-  "institution": "California Highway Patrol- Ventura Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL- VENTURA AREA",
   "city": "Ventura",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93003",
-  "email": false
+  "ope": null
 }

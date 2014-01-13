@@ -1,6 +1,6 @@
 {
   "facility_code": "20C70249",
-  "institution": "Siemens Power Corporation",
+  "institution": "SIEMENS POWER CORPORATION",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53214",
-  "email": false
+  "ope": null
 }

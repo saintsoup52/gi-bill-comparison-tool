@@ -1,6 +1,6 @@
 {
   "facility_code": "11802042",
-  "institution": "University Of Tennessee At Knoxville",
+  "institution": "UNIVERSITY OF TENNESSEE AT KNOXVILLE",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "37996",
-  "email": true
+  "ope": "00353000"
 }

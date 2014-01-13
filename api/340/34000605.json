@@ -1,6 +1,6 @@
 {
   "facility_code": "34000605",
-  "institution": "Los Angeles Ort College (Van Nuys)",
+  "institution": "LOS ANGELES ORT COLLEGE (VAN NUYS)",
   "city": "Van Nuys",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91411",
-  "email": false
+  "ope": null
 }

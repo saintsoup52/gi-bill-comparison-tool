@@ -1,6 +1,6 @@
 {
   "facility_code": "30993001",
-  "institution": "Sheet Metal Workers Jac 48",
+  "institution": "SHEET METAL WORKERS JAC 48",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35234",
-  "email": true
+  "ope": null
 }

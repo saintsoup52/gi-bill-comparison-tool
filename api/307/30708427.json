@@ -1,6 +1,6 @@
 {
   "facility_code": "30708427",
-  "institution": "Union Pacific Railroad-Omaha",
+  "institution": "UNION PACIFIC RAILROAD-OMAHA",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68179",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10053902",
-  "institution": "Fairbanks Police Department",
+  "institution": "FAIRBANKS POLICE DEPARTMENT",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99701",
-  "email": true
+  "ope": null
 }

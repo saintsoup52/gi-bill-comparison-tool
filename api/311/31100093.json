@@ -1,6 +1,6 @@
 {
   "facility_code": "31100093",
-  "institution": "Stockholm School Of Economics",
+  "institution": "STOCKHOLM SCHOOL OF ECONOMICS",
   "city": "S-113 83 Stockholm",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

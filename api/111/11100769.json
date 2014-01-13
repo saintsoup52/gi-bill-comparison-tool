@@ -1,6 +1,6 @@
 {
   "facility_code": "11100769",
-  "institution": "University Of Hong Kong",
+  "institution": "UNIVERSITY OF HONG KONG",
   "city": ".",
   "state": "Hong Kong",
   "country": "Hong Kong",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

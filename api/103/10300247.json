@@ -1,6 +1,6 @@
 {
   "facility_code": "10300247",
-  "institution": "City Of Yelm               (Ch31)",
+  "institution": "CITY OF YELM               (CH31)",
   "city": "Yelm",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98597",
-  "email": false
+  "ope": null
 }

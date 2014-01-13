@@ -1,6 +1,6 @@
 {
   "facility_code": "102B2005",
-  "institution": "Faa- John Wayne Atct",
+  "institution": "FAA- JOHN WAYNE ATCT",
   "city": "Costa Mesa",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92626",
-  "email": false
+  "ope": null
 }

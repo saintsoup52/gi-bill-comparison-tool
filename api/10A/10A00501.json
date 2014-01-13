@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00501",
-  "institution": "Alabama Department Of Public Safety Mobile Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY MOBILE POST",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36693",
-  "email": false
+  "ope": null
 }

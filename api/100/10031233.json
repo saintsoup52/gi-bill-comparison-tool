@@ -1,6 +1,6 @@
 {
   "facility_code": "10031233",
-  "institution": "High Point Police Department",
+  "institution": "HIGH POINT POLICE DEPARTMENT",
   "city": "High Point",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27260",
-  "email": true
+  "ope": null
 }

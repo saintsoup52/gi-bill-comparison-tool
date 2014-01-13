@@ -1,6 +1,6 @@
 {
   "facility_code": "10842530",
-  "institution": "Springfield Police Department",
+  "institution": "SPRINGFIELD POLICE DEPARTMENT",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7081",
-  "email": true
+  "ope": null
 }

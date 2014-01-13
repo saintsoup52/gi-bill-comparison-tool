@@ -1,6 +1,6 @@
 {
   "facility_code": "18102030",
-  "institution": "Morris County Vocational Technical School",
+  "institution": "MORRIS COUNTY VOCATIONAL TECHNICAL SCHOOL",
   "city": "Denville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "7834",
-  "email": true
+  "ope": "01152300"
 }

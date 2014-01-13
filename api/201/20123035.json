@@ -1,6 +1,6 @@
 {
   "facility_code": "20123035",
-  "institution": "Glastic Corporation The K",
+  "institution": "GLASTIC CORPORATION THE K",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44121",
-  "email": false
+  "ope": null
 }

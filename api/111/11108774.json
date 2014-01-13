@@ -1,6 +1,6 @@
 {
   "facility_code": "11108774",
-  "institution": "University Of Manchester",
+  "institution": "UNIVERSITY OF MANCHESTER",
   "city": "Manchester",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

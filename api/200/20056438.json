@@ -1,6 +1,6 @@
 {
   "facility_code": "20056438",
-  "institution": "Westinghouse Electric Company",
+  "institution": "WESTINGHOUSE ELECTRIC COMPANY",
   "city": "Madison",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15663",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "39001803",
-  "institution": "Meta Services Inc. (Ch31 Only)",
+  "institution": "META SERVICES INC. (CH31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85006",
-  "email": false
+  "ope": null
 }

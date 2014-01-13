@@ -1,6 +1,6 @@
 {
   "facility_code": "10580211",
-  "institution": "Dalton Fire Department",
+  "institution": "DALTON FIRE DEPARTMENT",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30720",
-  "email": false
+  "ope": null
 }

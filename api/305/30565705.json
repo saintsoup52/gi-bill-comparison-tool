@@ -1,6 +1,6 @@
 {
   "facility_code": "30565705",
-  "institution": "Los Angeles County Electrical Jac And Ed Tng Trust",
+  "institution": "LOS ANGELES COUNTY ELECTRICAL JAC AND ED TNG TRUST",
   "city": "City Of Commerce",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90040",
-  "email": true
+  "ope": null
 }

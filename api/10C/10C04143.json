@@ -1,6 +1,6 @@
 {
   "facility_code": "10C04143",
-  "institution": "Gatesville Police Dept",
+  "institution": "GATESVILLE POLICE DEPT",
   "city": "Gatesville",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76528",
-  "email": false
+  "ope": null
 }

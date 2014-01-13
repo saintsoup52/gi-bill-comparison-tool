@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38932",
-  "institution": "New York State Division Of Parole - Auburn",
+  "institution": "NEW YORK STATE DIVISION OF PAROLE - AUBURN",
   "city": "Auburn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13021",
-  "email": true
+  "ope": null
 }

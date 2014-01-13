@@ -1,6 +1,6 @@
 {
   "facility_code": "20044002",
-  "institution": "A & M Rv Center (Ch31)",
+  "institution": "A & M RV CENTER (CH31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": false
+  "ope": null
 }

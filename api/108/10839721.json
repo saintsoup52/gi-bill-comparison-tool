@@ -1,6 +1,6 @@
 {
   "facility_code": "10839721",
-  "institution": "Wakefield Fire Department",
+  "institution": "WAKEFIELD FIRE DEPARTMENT",
   "city": "Wakefield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1880",
-  "email": true
+  "ope": null
 }

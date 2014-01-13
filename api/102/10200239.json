@@ -1,6 +1,6 @@
 {
   "facility_code": "10200239",
-  "institution": "Providence Air Traffic Control Tower",
+  "institution": "PROVIDENCE AIR TRAFFIC CONTROL TOWER",
   "city": "Warwick",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2886",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10165027",
-  "institution": "Cooper Nuclear Station",
+  "institution": "COOPER NUCLEAR STATION",
   "city": "Brownville",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68321",
-  "email": false
+  "ope": null
 }

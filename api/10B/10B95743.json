@@ -1,6 +1,6 @@
 {
   "facility_code": "10B95743",
-  "institution": "Us Office Of Personnel Management",
+  "institution": "US OFFICE OF PERSONNEL MANAGEMENT",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75242",
-  "email": false
+  "ope": null
 }

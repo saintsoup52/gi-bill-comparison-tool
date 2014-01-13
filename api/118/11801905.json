@@ -1,6 +1,6 @@
 {
   "facility_code": "11801905",
-  "institution": "California State University-Los Angeles",
+  "institution": "CALIFORNIA STATE UNIVERSITY-LOS ANGELES",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90032",
-  "email": true
+  "ope": "00114000"
 }

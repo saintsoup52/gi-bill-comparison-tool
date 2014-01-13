@@ -1,6 +1,6 @@
 {
   "facility_code": "10011250",
-  "institution": "Cheyenne Police Dept",
+  "institution": "CHEYENNE POLICE DEPT",
   "city": "Cheyenne",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82001",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10Z73605",
-  "institution": "City Of Torrance Police Dept.",
+  "institution": "CITY OF TORRANCE POLICE DEPT.",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90503",
-  "email": false
+  "ope": null
 }

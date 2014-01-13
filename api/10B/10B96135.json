@@ -1,6 +1,6 @@
 {
   "facility_code": "10B96135",
-  "institution": "Defense Contract Management Agency",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY",
   "city": "Wright-Patterson Afb",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45433",
-  "email": false
+  "ope": null
 }

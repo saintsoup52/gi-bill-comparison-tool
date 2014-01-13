@@ -1,6 +1,6 @@
 {
   "facility_code": "31150005",
-  "institution": "Notre Dame De Namur University",
+  "institution": "NOTRE DAME DE NAMUR UNIVERSITY",
   "city": "Belmont",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94002",
-  "email": false
+  "ope": "00117900"
 }

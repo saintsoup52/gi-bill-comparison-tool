@@ -1,6 +1,6 @@
 {
   "facility_code": "12800205",
-  "institution": "La County Usc Medical Center (Radiology)",
+  "institution": "LA COUNTY USC MEDICAL CENTER (RADIOLOGY)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90033",
-  "email": false
+  "ope": "00132800"
 }

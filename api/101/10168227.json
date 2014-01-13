@@ -1,6 +1,6 @@
 {
   "facility_code": "10168227",
-  "institution": "United States Marshal Service - Omaha",
+  "institution": "UNITED STATES MARSHAL SERVICE - OMAHA",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68102",
-  "email": false
+  "ope": null
 }

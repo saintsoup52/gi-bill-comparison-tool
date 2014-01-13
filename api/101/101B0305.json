@@ -1,6 +1,6 @@
 {
   "facility_code": "101B0305",
-  "institution": "City Of South Gate Police Dept",
+  "institution": "CITY OF SOUTH GATE POLICE DEPT",
   "city": "South Gate",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90280",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10019733",
-  "institution": "Ncdoc - Mountain View Correctional Institution",
+  "institution": "NCDOC - MOUNTAIN VIEW CORRECTIONAL INSTITUTION",
   "city": "Spruce Pine",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28777",
-  "email": true
+  "ope": null
 }

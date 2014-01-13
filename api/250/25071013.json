@@ -1,6 +1,6 @@
 {
   "facility_code": "25071013",
-  "institution": "Infosec Institute",
+  "institution": "INFOSEC INSTITUTE",
   "city": "Elmwood Park",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60707",
-  "email": false
+  "ope": null
 }

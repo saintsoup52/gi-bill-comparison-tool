@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5605",
-  "institution": "Federal Bureau Of Reclamation (Mid Pacific Region)",
+  "institution": "FEDERAL BUREAU OF RECLAMATION (MID PACIFIC REGION)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95825",
-  "email": false
+  "ope": null
 }

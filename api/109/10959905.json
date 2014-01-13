@@ -1,6 +1,6 @@
 {
   "facility_code": "10959905",
-  "institution": "San Bernardino County Sheriff'S Department",
+  "institution": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
   "city": "San Bernardino",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92427",
-  "email": false
+  "ope": null
 }

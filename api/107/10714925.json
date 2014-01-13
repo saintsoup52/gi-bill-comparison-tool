@@ -1,6 +1,6 @@
 {
   "facility_code": "10714925",
-  "institution": "Velda City Police Department",
+  "institution": "VELDA CITY POLICE DEPARTMENT",
   "city": "Velda City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63121",
-  "email": true
+  "ope": null
 }

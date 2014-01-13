@@ -1,6 +1,6 @@
 {
   "facility_code": "22054610",
-  "institution": "Larkin Community Hospital",
+  "institution": "LARKIN COMMUNITY HOSPITAL",
   "city": "South Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33143",
-  "email": true
+  "ope": null
 }

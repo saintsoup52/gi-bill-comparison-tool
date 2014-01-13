@@ -1,6 +1,6 @@
 {
   "facility_code": "10C41943",
-  "institution": "Dickinson Police Department",
+  "institution": "DICKINSON POLICE DEPARTMENT",
   "city": "Dickinson",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77539",
-  "email": false
+  "ope": null
 }

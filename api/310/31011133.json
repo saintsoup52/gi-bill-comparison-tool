@@ -1,6 +1,6 @@
 {
   "facility_code": "31011133",
-  "institution": "Boston University/Mcas Cherry Point",
+  "institution": "BOSTON UNIVERSITY/MCAS CHERRY POINT",
   "city": "Havelock",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "28532",
-  "email": true
+  "ope": "00213014"
 }

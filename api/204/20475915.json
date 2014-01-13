@@ -1,6 +1,6 @@
 {
   "facility_code": "20475915",
-  "institution": "City Of Waterloo - Police Department",
+  "institution": "CITY OF WATERLOO - POLICE DEPARTMENT",
   "city": "Waterloo",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50703",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11964125",
-  "institution": "University Of Missouri - St Louis",
+  "institution": "UNIVERSITY OF MISSOURI - ST LOUIS",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "63121",
-  "email": true
+  "ope": "00251900"
 }

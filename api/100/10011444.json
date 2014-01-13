@@ -1,6 +1,6 @@
 {
   "facility_code": "10011444",
-  "institution": "Us Military Entrance Processing Station (Ch 31)",
+  "institution": "US MILITARY ENTRANCE PROCESSING STATION (CH 31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84119",
-  "email": false
+  "ope": null
 }

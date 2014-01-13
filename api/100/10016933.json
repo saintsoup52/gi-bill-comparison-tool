@@ -1,6 +1,6 @@
 {
   "facility_code": "10016933",
-  "institution": "Ncdoc - Lumberton Correctional Institution",
+  "institution": "NCDOC - LUMBERTON CORRECTIONAL INSTITUTION",
   "city": "Lumberton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28359",
-  "email": true
+  "ope": null
 }

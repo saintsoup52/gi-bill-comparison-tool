@@ -1,6 +1,6 @@
 {
   "facility_code": "10C18143",
-  "institution": "Faa Beaumont Bpt",
+  "institution": "FAA BEAUMONT BPT",
   "city": "Beaumont",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77705",
-  "email": false
+  "ope": null
 }

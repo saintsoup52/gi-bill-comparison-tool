@@ -1,6 +1,6 @@
 {
   "facility_code": "35000238",
-  "institution": "Chester County Oic - West Chester",
+  "institution": "CHESTER COUNTY OIC - WEST CHESTER",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19382",
-  "email": false
+  "ope": null
 }

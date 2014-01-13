@@ -1,6 +1,6 @@
 {
   "facility_code": "46005146",
-  "institution": "United States Patent And Trademark Office",
+  "institution": "UNITED STATES PATENT AND TRADEMARK OFFICE",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22313",
-  "email": true
+  "ope": null
 }

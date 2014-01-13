@@ -1,6 +1,6 @@
 {
   "facility_code": "12100648",
-  "institution": "Charleston Area Medical Center",
+  "institution": "CHARLESTON AREA MEDICAL CENTER",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25304",
-  "email": true
+  "ope": null
 }

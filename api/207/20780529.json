@@ -1,6 +1,6 @@
 {
   "facility_code": "20780529",
-  "institution": "Town Of Epping",
+  "institution": "TOWN OF EPPING",
   "city": "Epping",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3042",
-  "email": false
+  "ope": null
 }

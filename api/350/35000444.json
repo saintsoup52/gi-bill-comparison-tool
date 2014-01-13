@@ -1,6 +1,6 @@
 {
   "facility_code": "35000444",
-  "institution": "American Red Cross (Ch31)",
+  "institution": "AMERICAN RED CROSS (CH31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84110",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31100776",
-  "institution": "Universidad Alma Mater",
+  "institution": "UNIVERSIDAD ALMA MATER",
   "city": "La Uruca,",
   "state": "Costa Rica",
   "country": "Costa Rica",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

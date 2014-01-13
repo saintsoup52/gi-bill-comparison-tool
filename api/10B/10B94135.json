@@ -1,6 +1,6 @@
 {
   "facility_code": "10B94135",
-  "institution": "Cleveland Artcc",
+  "institution": "CLEVELAND ARTCC",
   "city": "Oberlin",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44074",
-  "email": true
+  "ope": null
 }

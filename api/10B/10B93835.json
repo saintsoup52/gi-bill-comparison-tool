@@ -1,6 +1,6 @@
 {
   "facility_code": "10B93835",
-  "institution": "Mansfield-Lahm Airport",
+  "institution": "MANSFIELD-LAHM AIRPORT",
   "city": "Mansfield",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44903",
-  "email": false
+  "ope": null
 }

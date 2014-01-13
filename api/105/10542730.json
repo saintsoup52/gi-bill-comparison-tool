@@ -1,6 +1,6 @@
 {
   "facility_code": "10542730",
-  "institution": "Hamilton Township Police Department",
+  "institution": "HAMILTON TOWNSHIP POLICE DEPARTMENT",
   "city": "Hamilton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8619",
-  "email": false
+  "ope": null
 }

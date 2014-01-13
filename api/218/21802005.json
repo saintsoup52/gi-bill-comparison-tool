@@ -1,6 +1,6 @@
 {
   "facility_code": "21802005",
-  "institution": "The Art Institute Of California-Los Angeles",
+  "institution": "THE ART INSTITUTE OF CALIFORNIA-LOS ANGELES",
   "city": "Santa Monica",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90405",
-  "email": true
+  "ope": "02179941"
 }

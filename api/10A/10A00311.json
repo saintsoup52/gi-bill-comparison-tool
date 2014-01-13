@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00311",
-  "institution": "Valdosta Police Department",
+  "institution": "VALDOSTA POLICE DEPARTMENT",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31601",
-  "email": true
+  "ope": null
 }

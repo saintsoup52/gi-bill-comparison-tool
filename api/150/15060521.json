@@ -1,6 +1,6 @@
 {
   "facility_code": "15060521",
-  "institution": "Northeast Metropolitan Regional Vocational School",
+  "institution": "NORTHEAST METROPOLITAN REGIONAL VOCATIONAL SCHOOL",
   "city": "Wakefield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1880",
-  "email": true
+  "ope": null
 }

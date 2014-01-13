@@ -1,6 +1,6 @@
 {
   "facility_code": "20197412",
-  "institution": "Idaho National Laboratory Research Development (Inl)",
+  "institution": "IDAHO NATIONAL LABORATORY RESEARCH DEVELOPMENT (INL)",
   "city": "Idaho Falls",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83415",
-  "email": false
+  "ope": null
 }

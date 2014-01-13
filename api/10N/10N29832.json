@@ -1,6 +1,6 @@
 {
   "facility_code": "10N29832",
-  "institution": "Mta Police Dept. - District 3",
+  "institution": "MTA POLICE DEPT. - DISTRICT 3",
   "city": "Jamaica",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11435",
-  "email": true
+  "ope": null
 }

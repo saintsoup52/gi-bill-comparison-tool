@@ -1,6 +1,6 @@
 {
   "facility_code": "10405145",
-  "institution": "Town Of Hartford Police Department",
+  "institution": "TOWN OF HARTFORD POLICE DEPARTMENT",
   "city": "White River Junction",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5001",
-  "email": true
+  "ope": null
 }

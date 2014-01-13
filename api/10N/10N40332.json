@@ -1,6 +1,6 @@
 {
   "facility_code": "10N40332",
-  "institution": "Faa - Albany International Airport",
+  "institution": "FAA - ALBANY INTERNATIONAL AIRPORT",
   "city": "Latham",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12110",
-  "email": true
+  "ope": null
 }

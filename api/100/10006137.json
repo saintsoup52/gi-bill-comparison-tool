@@ -1,6 +1,6 @@
 {
   "facility_code": "10006137",
-  "institution": "Douglas County Sheriff'S Office",
+  "institution": "DOUGLAS COUNTY SHERIFF'S OFFICE",
   "city": "Roseburg",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97470",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15012114",
-  "institution": "Hammond High School",
+  "institution": "HAMMOND HIGH SCHOOL",
   "city": "Hammond",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46320",
-  "email": true
+  "ope": null
 }

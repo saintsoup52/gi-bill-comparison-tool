@@ -1,6 +1,6 @@
 {
   "facility_code": "29000412",
-  "institution": "Human Resources Corp. (Ch 31)",
+  "institution": "HUMAN RESOURCES CORP. (CH 31)",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83702",
-  "email": false
+  "ope": null
 }

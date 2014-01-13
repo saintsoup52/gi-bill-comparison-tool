@@ -1,6 +1,6 @@
 {
   "facility_code": "10063114",
-  "institution": "Andrews Police Department",
+  "institution": "ANDREWS POLICE DEPARTMENT",
   "city": "Andrews",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46702",
-  "email": false
+  "ope": null
 }

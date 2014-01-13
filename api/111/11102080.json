@@ -1,6 +1,6 @@
 {
   "facility_code": "11102080",
-  "institution": "University Of Heidelberg",
+  "institution": "UNIVERSITY OF HEIDELBERG",
   "city": "Heidelberg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

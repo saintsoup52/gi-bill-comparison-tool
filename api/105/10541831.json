@@ -1,6 +1,6 @@
 {
   "facility_code": "10541831",
-  "institution": "Faa Roswell Terminal Atct",
+  "institution": "FAA ROSWELL TERMINAL ATCT",
   "city": "Roswell",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88202",
-  "email": true
+  "ope": null
 }

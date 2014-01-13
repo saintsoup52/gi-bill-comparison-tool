@@ -1,6 +1,6 @@
 {
   "facility_code": "15000444",
-  "institution": "Riverton High School",
+  "institution": "RIVERTON HIGH SCHOOL",
   "city": "Riverton",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84065",
-  "email": false
+  "ope": null
 }

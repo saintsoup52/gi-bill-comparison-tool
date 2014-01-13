@@ -1,6 +1,6 @@
 {
   "facility_code": "20003428",
-  "institution": "Sheet Metal Workers Jac",
+  "institution": "SHEET METAL WORKERS JAC",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89104",
-  "email": true
+  "ope": null
 }

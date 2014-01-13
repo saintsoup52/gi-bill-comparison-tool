@@ -1,6 +1,6 @@
 {
   "facility_code": "10201116",
-  "institution": "Larned Correctional Mental Health Facility",
+  "institution": "LARNED CORRECTIONAL MENTAL HEALTH FACILITY",
   "city": "Larned",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67550",
-  "email": false
+  "ope": null
 }

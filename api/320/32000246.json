@@ -1,6 +1,6 @@
 {
   "facility_code": "32000246",
-  "institution": "Lynchburg General Hosp Sch Of Nrs",
+  "institution": "LYNCHBURG GENERAL HOSP SCH OF NRS",
   "city": "Lynchburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "24501",
-  "email": false
+  "ope": "02175800"
 }

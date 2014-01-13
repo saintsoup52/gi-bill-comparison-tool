@@ -1,6 +1,6 @@
 {
   "facility_code": "101B8305",
-  "institution": "San Jose Police Department- City Of San Jose",
+  "institution": "SAN JOSE POLICE DEPARTMENT- CITY OF SAN JOSE",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95110",
-  "email": false
+  "ope": null
 }

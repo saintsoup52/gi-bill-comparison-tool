@@ -1,6 +1,6 @@
 {
   "facility_code": "10074047",
-  "institution": "King County Sheriff'S Office",
+  "institution": "KING COUNTY SHERIFF'S OFFICE",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98104",
-  "email": true
+  "ope": null
 }

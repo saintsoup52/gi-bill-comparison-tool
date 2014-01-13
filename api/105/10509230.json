@@ -1,6 +1,6 @@
 {
   "facility_code": "10509230",
-  "institution": "East Orange Police Department",
+  "institution": "EAST ORANGE POLICE DEPARTMENT",
   "city": "East Orange",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7017",
-  "email": false
+  "ope": null
 }

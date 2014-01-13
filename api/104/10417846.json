@@ -1,6 +1,6 @@
 {
   "facility_code": "10417846",
-  "institution": "City Of Newport News",
+  "institution": "CITY OF NEWPORT NEWS",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23606",
-  "email": true
+  "ope": null
 }

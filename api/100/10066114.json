@@ -1,6 +1,6 @@
 {
   "facility_code": "10066114",
-  "institution": "Georgetown Police Department",
+  "institution": "GEORGETOWN POLICE DEPARTMENT",
   "city": "Georgetown",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47122",
-  "email": false
+  "ope": null
 }

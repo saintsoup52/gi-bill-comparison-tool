@@ -1,6 +1,6 @@
 {
   "facility_code": "10495317",
-  "institution": "Liberty Police Department",
+  "institution": "LIBERTY POLICE DEPARTMENT",
   "city": "Liberty",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42539",
-  "email": false
+  "ope": null
 }

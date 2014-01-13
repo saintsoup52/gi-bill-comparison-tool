@@ -1,6 +1,6 @@
 {
   "facility_code": "10491346",
-  "institution": "Arlington County Police Department",
+  "institution": "ARLINGTON COUNTY POLICE DEPARTMENT",
   "city": "Arlington",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22201",
-  "email": false
+  "ope": null
 }

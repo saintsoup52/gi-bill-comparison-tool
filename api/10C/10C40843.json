@@ -1,6 +1,6 @@
 {
   "facility_code": "10C40843",
-  "institution": "Equal Employment Opportunity Commission",
+  "institution": "EQUAL EMPLOYMENT OPPORTUNITY COMMISSION",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75202",
-  "email": false
+  "ope": null
 }

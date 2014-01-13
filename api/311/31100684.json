@@ -1,6 +1,6 @@
 {
   "facility_code": "31100684",
-  "institution": "University Of Verona",
+  "institution": "UNIVERSITY OF VERONA",
   "city": "37122 Verona",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

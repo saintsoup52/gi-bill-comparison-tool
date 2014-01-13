@@ -1,6 +1,6 @@
 {
   "facility_code": "15007007",
-  "institution": "New Canaan High School",
+  "institution": "NEW CANAAN HIGH SCHOOL",
   "city": "New Canaan",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6840",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "39186623",
-  "institution": "Accessability",
+  "institution": "ACCESSABILITY",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55413",
-  "email": false
+  "ope": null
 }

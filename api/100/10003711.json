@@ -1,6 +1,6 @@
 {
   "facility_code": "10003711",
-  "institution": "Griffin Spalding Narcotics Task Force",
+  "institution": "GRIFFIN SPALDING NARCOTICS TASK FORCE",
   "city": "Griffin",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30224",
-  "email": false
+  "ope": null
 }

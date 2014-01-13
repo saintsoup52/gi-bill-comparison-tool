@@ -1,6 +1,6 @@
 {
   "facility_code": "35833838",
-  "institution": "Sbdc Univ Of Scranton",
+  "institution": "SBDC UNIV OF SCRANTON",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18510",
-  "email": false
+  "ope": null
 }

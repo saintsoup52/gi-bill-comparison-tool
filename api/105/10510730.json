@@ -1,6 +1,6 @@
 {
   "facility_code": "10510730",
-  "institution": "Galloway Police Department",
+  "institution": "GALLOWAY POLICE DEPARTMENT",
   "city": "Galloway",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8205",
-  "email": false
+  "ope": null
 }

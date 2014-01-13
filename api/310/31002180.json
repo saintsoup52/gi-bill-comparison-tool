@@ -1,6 +1,6 @@
 {
   "facility_code": "31002180",
-  "institution": "Freie Universitat Berlin",
+  "institution": "FREIE UNIVERSITAT BERLIN",
   "city": "Berlin",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

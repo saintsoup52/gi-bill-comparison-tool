@@ -1,6 +1,6 @@
 {
   "facility_code": "24800105",
-  "institution": "San Joaquin Valley College (Fresno)",
+  "institution": "SAN JOAQUIN VALLEY COLLEGE (FRESNO)",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "93710",
-  "email": false
+  "ope": "02120701"
 }

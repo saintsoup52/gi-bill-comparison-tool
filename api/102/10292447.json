@@ -1,6 +1,6 @@
 {
   "facility_code": "10292447",
-  "institution": "Washington State Dva             (Ch31)",
+  "institution": "WASHINGTON STATE DVA             (CH31)",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98312",
-  "email": false
+  "ope": null
 }

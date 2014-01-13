@@ -1,6 +1,6 @@
 {
   "facility_code": "10D05638",
-  "institution": "Wilkes Barre Tower",
+  "institution": "WILKES BARRE TOWER",
   "city": "Avocoa",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16641",
-  "email": true
+  "ope": null
 }

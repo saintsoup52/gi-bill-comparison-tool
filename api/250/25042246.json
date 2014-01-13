@@ -1,6 +1,6 @@
 {
   "facility_code": "25042246",
-  "institution": "3soft Usa",
+  "institution": "3SOFT USA",
   "city": "Vienna",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22180",
-  "email": true
+  "ope": null
 }

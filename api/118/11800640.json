@@ -1,6 +1,6 @@
 {
   "facility_code": "11800640",
-  "institution": "Trident/Musc Family Residency Program",
+  "institution": "TRIDENT/MUSC FAMILY RESIDENCY PROGRAM",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29406",
-  "email": true
+  "ope": null
 }

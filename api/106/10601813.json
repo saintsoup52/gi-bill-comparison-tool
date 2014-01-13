@@ -1,6 +1,6 @@
 {
   "facility_code": "10601813",
-  "institution": "Richton Park Police Department",
+  "institution": "RICHTON PARK POLICE DEPARTMENT",
   "city": "Richton Park",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60471",
-  "email": false
+  "ope": null
 }

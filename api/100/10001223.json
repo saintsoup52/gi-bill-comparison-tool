@@ -1,6 +1,6 @@
 {
   "facility_code": "10001223",
-  "institution": "Mpls Vamc-Nutrition & Food Svc",
+  "institution": "MPLS VAMC-NUTRITION & FOOD SVC",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55417",
-  "email": false
+  "ope": null
 }

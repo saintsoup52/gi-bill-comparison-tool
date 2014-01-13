@@ -1,6 +1,6 @@
 {
   "facility_code": "11001306",
-  "institution": "Colorado School Of Mines",
+  "institution": "COLORADO SCHOOL OF MINES",
   "city": "Golden",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80401",
-  "email": true
+  "ope": "00134800"
 }

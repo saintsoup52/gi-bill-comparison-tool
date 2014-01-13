@@ -1,6 +1,6 @@
 {
   "facility_code": "10664525",
-  "institution": "Macon Police Dept.",
+  "institution": "MACON POLICE DEPT.",
   "city": "Macon",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63552",
-  "email": false
+  "ope": null
 }

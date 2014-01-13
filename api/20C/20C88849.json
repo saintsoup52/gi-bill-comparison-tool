@@ -1,6 +1,6 @@
 {
   "facility_code": "20C88849",
-  "institution": "Bob'S Plumbing And Heating",
+  "institution": "BOB'S PLUMBING AND HEATING",
   "city": "Amherst",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54406",
-  "email": false
+  "ope": null
 }

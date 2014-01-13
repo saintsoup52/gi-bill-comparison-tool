@@ -1,6 +1,6 @@
 {
   "facility_code": "31000402",
-  "institution": "Embry-Riddle Aeronautical Univ Elmendorf Afb",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV ELMENDORF AFB",
   "city": "Jber-Richardson",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99505",
-  "email": true
+  "ope": "00147930"
 }

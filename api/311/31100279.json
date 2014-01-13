@@ -1,6 +1,6 @@
 {
   "facility_code": "31100279",
-  "institution": "Universite De Paris 7 - Denis Diderot",
+  "institution": "UNIVERSITE DE PARIS 7 - DENIS DIDEROT",
   "city": "75251 Paris Cedex 05",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

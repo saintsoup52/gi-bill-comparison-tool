@@ -1,6 +1,6 @@
 {
   "facility_code": "32010020",
-  "institution": "Suburban Hospital",
+  "institution": "SUBURBAN HOSPITAL",
   "city": "Bethesda         109",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20814",
-  "email": "No (SCO)"
+  "ope": null
 }

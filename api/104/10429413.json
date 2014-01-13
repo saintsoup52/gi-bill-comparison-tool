@@ -1,6 +1,6 @@
 {
   "facility_code": "10429413",
-  "institution": "Us Naval Air Station (Office Of The Fire Chief)",
+  "institution": "US NAVAL AIR STATION (OFFICE OF THE FIRE CHIEF)",
   "city": "Glenview",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60026",
-  "email": false
+  "ope": null
 }

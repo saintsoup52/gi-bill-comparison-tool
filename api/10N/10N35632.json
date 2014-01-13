@@ -1,6 +1,6 @@
 {
   "facility_code": "10N35632",
-  "institution": "Binghamton City Fire Department",
+  "institution": "BINGHAMTON CITY FIRE DEPARTMENT",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13901",
-  "email": false
+  "ope": null
 }

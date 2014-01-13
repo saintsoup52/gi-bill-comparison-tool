@@ -1,6 +1,6 @@
 {
   "facility_code": "10063811",
-  "institution": "Metter Police Department",
+  "institution": "METTER POLICE DEPARTMENT",
   "city": "Metter",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30429",
-  "email": false
+  "ope": null
 }

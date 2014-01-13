@@ -1,6 +1,6 @@
 {
   "facility_code": "11802205",
-  "institution": "California State University-Sacramento-College Of Cont Ed",
+  "institution": "CALIFORNIA STATE UNIVERSITY-SACRAMENTO-COLLEGE OF CONT ED",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95819",
-  "email": true
+  "ope": "00115000"
 }

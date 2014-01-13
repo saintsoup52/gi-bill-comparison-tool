@@ -1,6 +1,6 @@
 {
   "facility_code": "10834921",
-  "institution": "New Bedford Police Department",
+  "institution": "NEW BEDFORD POLICE DEPARTMENT",
   "city": "New Bedford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2740",
-  "email": true
+  "ope": null
 }

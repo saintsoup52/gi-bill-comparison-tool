@@ -1,6 +1,6 @@
 {
   "facility_code": "10538231",
-  "institution": "New Mexico Army National Guard (Ch31)",
+  "institution": "NEW MEXICO ARMY NATIONAL GUARD (CH31)",
   "city": "Rio Ranch",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87124",
-  "email": false
+  "ope": null
 }

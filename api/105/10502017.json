@@ -1,6 +1,6 @@
 {
   "facility_code": "10502017",
-  "institution": "Murray Police Department",
+  "institution": "MURRAY POLICE DEPARTMENT",
   "city": "Murray",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42071",
-  "email": false
+  "ope": null
 }

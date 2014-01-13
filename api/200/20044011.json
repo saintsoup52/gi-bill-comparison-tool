@@ -1,6 +1,6 @@
 {
   "facility_code": "20044011",
-  "institution": "Rail Link (Garden City)",
+  "institution": "RAIL LINK (GARDEN CITY)",
   "city": "Garden City",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31408",
-  "email": true
+  "ope": null
 }

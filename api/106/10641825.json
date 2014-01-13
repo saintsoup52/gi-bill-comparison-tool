@@ -1,6 +1,6 @@
 {
   "facility_code": "10641825",
-  "institution": "Platte City Police Dept.",
+  "institution": "PLATTE CITY POLICE DEPT.",
   "city": "Platte City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64079",
-  "email": false
+  "ope": null
 }

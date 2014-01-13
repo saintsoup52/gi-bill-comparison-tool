@@ -1,6 +1,6 @@
 {
   "facility_code": "10065514",
-  "institution": "Hartford City Police Department",
+  "institution": "HARTFORD CITY POLICE DEPARTMENT",
   "city": "Hartford City",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47348",
-  "email": false
+  "ope": null
 }

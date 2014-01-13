@@ -1,6 +1,6 @@
 {
   "facility_code": "32011620",
-  "institution": "University Of Maryland Medical System Corporation",
+  "institution": "UNIVERSITY OF MARYLAND MEDICAL SYSTEM CORPORATION",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21201",
-  "email": false
+  "ope": null
 }

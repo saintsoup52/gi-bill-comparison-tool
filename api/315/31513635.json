@@ -1,6 +1,6 @@
 {
   "facility_code": "31513635",
-  "institution": "Case Western Reserve University",
+  "institution": "CASE WESTERN RESERVE UNIVERSITY",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "44106",
-  "email": true
+  "ope": "00302400"
 }

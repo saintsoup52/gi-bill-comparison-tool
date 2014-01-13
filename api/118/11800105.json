@@ -1,6 +1,6 @@
 {
   "facility_code": "11800105",
-  "institution": "University Of California  Irvine",
+  "institution": "UNIVERSITY OF CALIFORNIA  IRVINE",
   "city": "Irvine",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92697",
-  "email": false
+  "ope": "00131400"
 }

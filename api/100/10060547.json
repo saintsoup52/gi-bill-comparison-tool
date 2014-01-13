@@ -1,6 +1,6 @@
 {
   "facility_code": "10060547",
-  "institution": "Redmond Fire Department",
+  "institution": "REDMOND FIRE DEPARTMENT",
   "city": "Redmond",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98052",
-  "email": true
+  "ope": null
 }

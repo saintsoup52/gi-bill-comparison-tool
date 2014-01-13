@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95206",
-  "institution": "Faa - Grand Junction Ssc",
+  "institution": "FAA - GRAND JUNCTION SSC",
   "city": "Grand Junction",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81506",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20104440",
-  "institution": "Wateree Correctional Institution",
+  "institution": "WATEREE CORRECTIONAL INSTITUTION",
   "city": "Rembert",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29128",
-  "email": false
+  "ope": null
 }

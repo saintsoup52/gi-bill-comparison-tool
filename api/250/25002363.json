@@ -1,6 +1,6 @@
 {
   "facility_code": "25002363",
-  "institution": "Liceo De Arte Y Disenos",
+  "institution": "LICEO DE ARTE Y DISENOS",
   "city": "Caguas",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "725",
-  "email": true
+  "ope": "03025900"
 }

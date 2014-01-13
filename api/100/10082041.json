@@ -1,6 +1,6 @@
 {
   "facility_code": "10082041",
-  "institution": "South Dakota State Penitentiary",
+  "institution": "SOUTH DAKOTA STATE PENITENTIARY",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57117",
-  "email": false
+  "ope": null
 }

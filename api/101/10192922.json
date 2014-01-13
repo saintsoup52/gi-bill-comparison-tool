@@ -1,6 +1,6 @@
 {
   "facility_code": "10192922",
-  "institution": "U.S. Customs & Border Protection Department Of Homeland Security-Selfridge",
+  "institution": "U.S. CUSTOMS & BORDER PROTECTION DEPARTMENT OF HOMELAND SECURITY-SELFRIDGE",
   "city": "Selfridge",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48045",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91706",
-  "institution": "Aurora Fire Department",
+  "institution": "AURORA FIRE DEPARTMENT",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80216",
-  "email": false
+  "ope": null
 }

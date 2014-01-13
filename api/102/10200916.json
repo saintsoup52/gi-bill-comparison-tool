@@ -1,6 +1,6 @@
 {
   "facility_code": "10200916",
-  "institution": "Capitol Police",
+  "institution": "CAPITOL POLICE",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66612",
-  "email": false
+  "ope": null
 }

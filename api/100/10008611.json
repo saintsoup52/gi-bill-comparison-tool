@@ -1,6 +1,6 @@
 {
   "facility_code": "10008611",
-  "institution": "Blakely Regional Youth Detention Center",
+  "institution": "BLAKELY REGIONAL YOUTH DETENTION CENTER",
   "city": "Blakely",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31917",
-  "email": false
+  "ope": null
 }

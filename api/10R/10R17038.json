@@ -1,6 +1,6 @@
 {
   "facility_code": "10R17038",
-  "institution": "Department Of Labor & Industry Duquesne Ucsc",
+  "institution": "DEPARTMENT OF LABOR & INDUSTRY DUQUESNE UCSC",
   "city": "Duquesne",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15110",
-  "email": true
+  "ope": null
 }

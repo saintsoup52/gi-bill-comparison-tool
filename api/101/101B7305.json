@@ -1,6 +1,6 @@
 {
   "facility_code": "101B7305",
-  "institution": "City Of Riverside Public Utilities Dept.  Electrical Util.  Jatc",
+  "institution": "CITY OF RIVERSIDE PUBLIC UTILITIES DEPT.  ELECTRICAL UTIL.  JATC",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92504",
-  "email": true
+  "ope": null
 }

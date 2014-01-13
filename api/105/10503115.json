@@ -1,6 +1,6 @@
 {
   "facility_code": "10503115",
-  "institution": "Lee County Sheriff'S Office",
+  "institution": "LEE COUNTY SHERIFF'S OFFICE",
   "city": "Montrose",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52639",
-  "email": false
+  "ope": null
 }

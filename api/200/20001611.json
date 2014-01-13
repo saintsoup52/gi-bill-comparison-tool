@@ -1,6 +1,6 @@
 {
   "facility_code": "20001611",
-  "institution": "Southern Employment Service  (Ch 31 Only)",
+  "institution": "SOUTHERN EMPLOYMENT SERVICE  (CH 31 ONLY)",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31904",
-  "email": false
+  "ope": null
 }

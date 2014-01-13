@@ -1,6 +1,6 @@
 {
   "facility_code": "10624643",
-  "institution": "Texas A And M University Physical Plant",
+  "institution": "TEXAS A AND M UNIVERSITY PHYSICAL PLANT",
   "city": "College Station",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77843",
-  "email": false
+  "ope": null
 }

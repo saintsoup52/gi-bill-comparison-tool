@@ -1,6 +1,6 @@
 {
   "facility_code": "25020430",
-  "institution": "Pro Data Inc.",
+  "institution": "PRO DATA INC.",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7311",
-  "email": false
+  "ope": null
 }

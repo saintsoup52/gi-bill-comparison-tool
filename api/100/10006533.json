@@ -1,6 +1,6 @@
 {
   "facility_code": "10006533",
-  "institution": "County Of Onslow",
+  "institution": "COUNTY OF ONSLOW",
   "city": "Jacksonville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28540",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10470117",
-  "institution": "Us Forest Service Sterns Ranger District",
+  "institution": "US FOREST SERVICE STERNS RANGER DISTRICT",
   "city": "Whitley City",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42653",
-  "email": false
+  "ope": null
 }

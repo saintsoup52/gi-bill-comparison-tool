@@ -1,6 +1,6 @@
 {
   "facility_code": "20505917",
-  "institution": "Cutter-Pulliam Electric Company",
+  "institution": "CUTTER-PULLIAM ELECTRIC COMPANY",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40505",
-  "email": false
+  "ope": null
 }

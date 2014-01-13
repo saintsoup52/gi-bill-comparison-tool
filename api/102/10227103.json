@@ -1,6 +1,6 @@
 {
   "facility_code": "10227103",
-  "institution": "Tucson Police Department",
+  "institution": "TUCSON POLICE DEPARTMENT",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85756",
-  "email": false
+  "ope": null
 }

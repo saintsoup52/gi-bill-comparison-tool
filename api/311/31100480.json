@@ -1,6 +1,6 @@
 {
   "facility_code": "31100480",
-  "institution": "Fachhochschule Lubeck",
+  "institution": "FACHHOCHSCHULE LUBECK",
   "city": "Lubeck",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31034243",
-  "institution": "Embry Riddle Aero Univ Safb",
+  "institution": "EMBRY RIDDLE AERO UNIV SAFB",
   "city": "Sheppard Afb",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76311",
-  "email": false
+  "ope": "00147900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10667925",
-  "institution": "Independence Police Department",
+  "institution": "INDEPENDENCE POLICE DEPARTMENT",
   "city": "Indpendence",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64050",
-  "email": true
+  "ope": null
 }

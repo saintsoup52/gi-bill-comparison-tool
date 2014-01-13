@@ -1,6 +1,6 @@
 {
   "facility_code": "10B99143",
-  "institution": "City Of Mcgregor",
+  "institution": "CITY OF MCGREGOR",
   "city": "Mcgregor",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76657",
-  "email": false
+  "ope": null
 }

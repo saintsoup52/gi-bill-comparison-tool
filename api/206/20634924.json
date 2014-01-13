@@ -1,6 +1,6 @@
 {
   "facility_code": "20634924",
-  "institution": "Corinth/Tupelo Ms Jatc",
+  "institution": "CORINTH/TUPELO MS JATC",
   "city": "Corinth",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38835",
-  "email": false
+  "ope": null
 }

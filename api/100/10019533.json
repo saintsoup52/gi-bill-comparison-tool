@@ -1,6 +1,6 @@
 {
   "facility_code": "10019533",
-  "institution": "Ncdoc - Scotland Correctional Institution",
+  "institution": "NCDOC - SCOTLAND CORRECTIONAL INSTITUTION",
   "city": "Laurinburg",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28353",
-  "email": true
+  "ope": null
 }

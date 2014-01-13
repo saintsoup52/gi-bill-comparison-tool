@@ -1,6 +1,6 @@
 {
   "facility_code": "10034350",
-  "institution": "Wyoming Air National Guard Fire Department",
+  "institution": "WYOMING AIR NATIONAL GUARD FIRE DEPARTMENT",
   "city": "Cheyenne",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82009",
-  "email": true
+  "ope": null
 }

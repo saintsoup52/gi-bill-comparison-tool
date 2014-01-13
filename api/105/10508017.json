@@ -1,6 +1,6 @@
 {
   "facility_code": "10508017",
-  "institution": "Warren Regional Juvenile Detention Center",
+  "institution": "WARREN REGIONAL JUVENILE DETENTION CENTER",
   "city": "Bowling Green",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42102",
-  "email": false
+  "ope": null
 }

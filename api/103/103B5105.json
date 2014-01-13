@@ -1,6 +1,6 @@
 {
   "facility_code": "103B5105",
-  "institution": "Mule Creek State Prison",
+  "institution": "MULE CREEK STATE PRISON",
   "city": "Ione",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95640",
-  "email": false
+  "ope": null
 }

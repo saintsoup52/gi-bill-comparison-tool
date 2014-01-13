@@ -1,6 +1,6 @@
 {
   "facility_code": "32100505",
-  "institution": "Kaiser Permanente Southern California (Family Medicine Residency Pgm.)",
+  "institution": "KAISER PERMANENTE SOUTHERN CALIFORNIA (FAMILY MEDICINE RESIDENCY PGM.)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90027",
-  "email": false
+  "ope": null
 }

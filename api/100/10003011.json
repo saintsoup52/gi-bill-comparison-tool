@@ -1,6 +1,6 @@
 {
   "facility_code": "10003011",
-  "institution": "Pembroke Police Department",
+  "institution": "PEMBROKE POLICE DEPARTMENT",
   "city": "Pembroke",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31321",
-  "email": false
+  "ope": null
 }

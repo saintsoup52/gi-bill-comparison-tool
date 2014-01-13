@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06010",
-  "institution": "Gainesville Police Department",
+  "institution": "GAINESVILLE POLICE DEPARTMENT",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32601",
-  "email": true
+  "ope": null
 }

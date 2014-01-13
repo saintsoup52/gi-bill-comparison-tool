@@ -1,6 +1,6 @@
 {
   "facility_code": "10144220",
-  "institution": "Social Security Administration Chapter 31 Only",
+  "institution": "SOCIAL SECURITY ADMINISTRATION CHAPTER 31 ONLY",
   "city": "Woodlawn",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21235",
-  "email": true
+  "ope": null
 }

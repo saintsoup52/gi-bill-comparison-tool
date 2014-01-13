@@ -1,6 +1,6 @@
 {
   "facility_code": "31001001",
-  "institution": "Miles College",
+  "institution": "MILES COLLEGE",
   "city": "Fairfield, Al",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35064",
-  "email": true
+  "ope": "00102800"
 }

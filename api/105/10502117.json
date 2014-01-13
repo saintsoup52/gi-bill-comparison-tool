@@ -1,6 +1,6 @@
 {
   "facility_code": "10502117",
-  "institution": "Office Of Employment & Training",
+  "institution": "OFFICE OF EMPLOYMENT & TRAINING",
   "city": "Paducah",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42001",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10026020",
-  "institution": "Baltimore City Joint Apprenticeship Committee",
+  "institution": "BALTIMORE CITY JOINT APPRENTICESHIP COMMITTEE",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21202",
-  "email": false
+  "ope": null
 }

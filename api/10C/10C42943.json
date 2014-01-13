@@ -1,6 +1,6 @@
 {
   "facility_code": "10C42943",
-  "institution": "Dhs Us Customs And Border Protection",
+  "institution": "DHS US CUSTOMS AND BORDER PROTECTION",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78471",
-  "email": false
+  "ope": null
 }

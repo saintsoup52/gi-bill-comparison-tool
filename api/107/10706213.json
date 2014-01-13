@@ -1,6 +1,6 @@
 {
   "facility_code": "10706213",
-  "institution": "Siu School Of Medicine Police Department",
+  "institution": "SIU SCHOOL OF MEDICINE POLICE DEPARTMENT",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62794",
-  "email": true
+  "ope": null
 }

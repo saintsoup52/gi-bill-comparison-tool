@@ -1,6 +1,6 @@
 {
   "facility_code": "10602313",
-  "institution": "Channahon Police Department",
+  "institution": "CHANNAHON POLICE DEPARTMENT",
   "city": "Channahon",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60410",
-  "email": false
+  "ope": null
 }

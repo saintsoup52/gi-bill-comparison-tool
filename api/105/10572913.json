@@ -1,6 +1,6 @@
 {
   "facility_code": "10572913",
-  "institution": "Southern Illinois Univ Police Dept",
+  "institution": "SOUTHERN ILLINOIS UNIV POLICE DEPT",
   "city": "Carbondale",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62901",
-  "email": false
+  "ope": null
 }

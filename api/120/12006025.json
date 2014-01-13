@@ -1,6 +1,6 @@
 {
   "facility_code": "12006025",
-  "institution": "Truman Medical Center",
+  "institution": "TRUMAN MEDICAL CENTER",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "64108",
-  "email": false
+  "ope": "00544500"
 }

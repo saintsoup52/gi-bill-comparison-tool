@@ -1,6 +1,6 @@
 {
   "facility_code": "20000811",
-  "institution": "Georgia Sheet Metal Jatc",
+  "institution": "GEORGIA SHEET METAL JATC",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30315",
-  "email": true
+  "ope": null
 }

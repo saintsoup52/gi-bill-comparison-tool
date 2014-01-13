@@ -1,6 +1,6 @@
 {
   "facility_code": "10524830",
-  "institution": "Palisades Interstate Parkway Police Department",
+  "institution": "PALISADES INTERSTATE PARKWAY POLICE DEPARTMENT",
   "city": "Alpine",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7003",
-  "email": false
+  "ope": null
 }

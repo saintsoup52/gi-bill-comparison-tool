@@ -1,6 +1,6 @@
 {
   "facility_code": "10602525",
-  "institution": "Salem Water Dept.",
+  "institution": "SALEM WATER DEPT.",
   "city": "Salem",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65560",
-  "email": false
+  "ope": null
 }

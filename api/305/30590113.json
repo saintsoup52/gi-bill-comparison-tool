@@ -1,6 +1,6 @@
 {
   "facility_code": "30590113",
-  "institution": "Scott Air Force Base",
+  "institution": "SCOTT AIR FORCE BASE",
   "city": "Scott Afb",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62225",
-  "email": false
+  "ope": null
 }

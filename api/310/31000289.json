@@ -1,6 +1,6 @@
 {
   "facility_code": "31000289",
-  "institution": "Universidad Catolica Santa Maria La Antigua",
+  "institution": "UNIVERSIDAD CATOLICA SANTA MARIA LA ANTIGUA",
   "city": "Republic Of Panama",
   "state": "Panama",
   "country": "Panama",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

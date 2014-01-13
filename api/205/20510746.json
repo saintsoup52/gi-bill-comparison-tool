@@ -1,6 +1,6 @@
 {
   "facility_code": "20510746",
-  "institution": "Roanoke Area Iron Workers Jac",
+  "institution": "ROANOKE AREA IRON WORKERS JAC",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24012",
-  "email": true
+  "ope": null
 }

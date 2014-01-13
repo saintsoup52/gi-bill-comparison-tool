@@ -1,6 +1,6 @@
 {
   "facility_code": "10107228",
-  "institution": "Us Bureau Of Reclamation",
+  "institution": "US BUREAU OF RECLAMATION",
   "city": "Boulder City",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89006",
-  "email": false
+  "ope": null
 }

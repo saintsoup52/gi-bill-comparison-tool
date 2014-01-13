@@ -1,6 +1,6 @@
 {
   "facility_code": "10059214",
-  "institution": "Shelbyville Police Department",
+  "institution": "SHELBYVILLE POLICE DEPARTMENT",
   "city": "Shelbyville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46176",
-  "email": false
+  "ope": null
 }

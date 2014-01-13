@@ -1,6 +1,6 @@
 {
   "facility_code": "10074211",
-  "institution": "City Of Monroe Public Works",
+  "institution": "CITY OF MONROE PUBLIC WORKS",
   "city": "Monroe",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30655",
-  "email": true
+  "ope": null
 }

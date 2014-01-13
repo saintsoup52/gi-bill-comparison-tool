@@ -1,6 +1,6 @@
 {
   "facility_code": "10811030",
-  "institution": "Central Reception And Assignment Facility Nj Department Of Correction",
+  "institution": "CENTRAL RECEPTION AND ASSIGNMENT FACILITY NJ DEPARTMENT OF CORRECTION",
   "city": "West Trenton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8628",
-  "email": true
+  "ope": null
 }

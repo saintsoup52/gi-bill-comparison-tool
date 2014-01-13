@@ -1,6 +1,6 @@
 {
   "facility_code": "10612125",
-  "institution": "Crocker Police Department",
+  "institution": "CROCKER POLICE DEPARTMENT",
   "city": "Crocker",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65452",
-  "email": false
+  "ope": null
 }

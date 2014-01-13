@@ -1,6 +1,6 @@
 {
   "facility_code": "11000178",
-  "institution": "Moscow State Institute (Mgimo)",
+  "institution": "MOSCOW STATE INSTITUTE (MGIMO)",
   "city": "Moscow",
   "state": "Russia",
   "country": "Russia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

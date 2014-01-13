@@ -1,6 +1,6 @@
 {
   "facility_code": "10181011",
-  "institution": "Stan",
+  "institution": "STAN",
   "city": "Chgo Rdige",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60444",
-  "email": "No (SCO)"
+  "ope": null
 }

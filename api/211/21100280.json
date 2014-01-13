@@ -1,6 +1,6 @@
 {
   "facility_code": "21100280",
-  "institution": "European Business School (Ebs)",
+  "institution": "EUROPEAN BUSINESS SCHOOL (EBS)",
   "city": "Wiesbaden",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

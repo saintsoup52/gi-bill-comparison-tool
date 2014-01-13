@@ -1,6 +1,6 @@
 {
   "facility_code": "10A22111",
-  "institution": "Paulding County Fire Department",
+  "institution": "PAULDING COUNTY FIRE DEPARTMENT",
   "city": "Hiram",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30141",
-  "email": true
+  "ope": null
 }

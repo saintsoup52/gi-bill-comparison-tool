@@ -1,6 +1,6 @@
 {
   "facility_code": "19006814",
-  "institution": "Veterans Center",
+  "institution": "VETERANS CENTER",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47711",
-  "email": false
+  "ope": null
 }

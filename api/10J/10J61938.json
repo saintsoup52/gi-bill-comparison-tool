@@ -1,6 +1,6 @@
 {
   "facility_code": "10J61938",
-  "institution": "Chester County Prison",
+  "institution": "CHESTER COUNTY PRISON",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19382",
-  "email": false
+  "ope": null
 }

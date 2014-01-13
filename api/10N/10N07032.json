@@ -1,6 +1,6 @@
 {
   "facility_code": "10N07032",
-  "institution": "Chemung County Sheriff'S Office",
+  "institution": "CHEMUNG COUNTY SHERIFF'S OFFICE",
   "city": "Elmira",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14902",
-  "email": false
+  "ope": null
 }

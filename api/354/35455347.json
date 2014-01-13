@@ -1,6 +1,6 @@
 {
   "facility_code": "35455347",
-  "institution": "Franciscan Health System - Ch 31",
+  "institution": "FRANCISCAN HEALTH SYSTEM - CH 31",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98401",
-  "email": true
+  "ope": null
 }

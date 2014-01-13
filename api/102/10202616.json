@@ -1,6 +1,6 @@
 {
   "facility_code": "10202616",
-  "institution": "Kansas Highway Patrol Troop F Hq",
+  "institution": "KANSAS HIGHWAY PATROL TROOP F HQ",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67220",
-  "email": false
+  "ope": null
 }

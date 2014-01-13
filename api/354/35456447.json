@@ -1,6 +1,6 @@
 {
   "facility_code": "35456447",
-  "institution": "King'S High School",
+  "institution": "KING'S HIGH SCHOOL",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98133",
-  "email": true
+  "ope": null
 }

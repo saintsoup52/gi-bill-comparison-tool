@@ -1,6 +1,6 @@
 {
   "facility_code": "20710125",
-  "institution": "Lowe'S- Hannibal",
+  "institution": "LOWE'S- HANNIBAL",
   "city": "Hannibal",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63401",
-  "email": true
+  "ope": null
 }

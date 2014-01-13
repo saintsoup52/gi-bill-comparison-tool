@@ -1,6 +1,6 @@
 {
   "facility_code": "10641740",
-  "institution": "Kershaw Correctional Institution",
+  "institution": "KERSHAW CORRECTIONAL INSTITUTION",
   "city": "Kershaw",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29067",
-  "email": false
+  "ope": null
 }

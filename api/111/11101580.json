@@ -1,6 +1,6 @@
 {
   "facility_code": "11101580",
-  "institution": "Friedrich-Schiller-Universitat Jena",
+  "institution": "FRIEDRICH-SCHILLER-UNIVERSITAT JENA",
   "city": "Jena",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

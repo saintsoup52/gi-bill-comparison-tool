@@ -1,6 +1,6 @@
 {
   "facility_code": "10152425",
-  "institution": "Us Medical Center For Federal Prisoners",
+  "institution": "US MEDICAL CENTER FOR FEDERAL PRISONERS",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65807",
-  "email": false
+  "ope": null
 }

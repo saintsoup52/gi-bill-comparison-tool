@@ -1,6 +1,6 @@
 {
   "facility_code": "10D28049",
-  "institution": "Us Dept Of Interior (National Wildlife Hlth Ctr)",
+  "institution": "US DEPT OF INTERIOR (NATIONAL WILDLIFE HLTH CTR)",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53711",
-  "email": false
+  "ope": null
 }

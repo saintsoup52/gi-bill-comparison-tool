@@ -1,6 +1,6 @@
 {
   "facility_code": "25155122",
-  "institution": "New Horizons Clc Livonia",
+  "institution": "NEW HORIZONS CLC LIVONIA",
   "city": "Livonia",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48154",
-  "email": true
+  "ope": null
 }

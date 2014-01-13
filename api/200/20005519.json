@@ -1,6 +1,6 @@
 {
   "facility_code": "20005519",
-  "institution": "Bath Iron Works",
+  "institution": "BATH IRON WORKS",
   "city": "Bath",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4530",
-  "email": true
+  "ope": null
 }

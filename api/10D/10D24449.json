@@ -1,6 +1,6 @@
 {
   "facility_code": "10D24449",
-  "institution": "Wisc Dept Of Natural Resources - Bureau Of Law Enforcement",
+  "institution": "WISC DEPT OF NATURAL RESOURCES - BUREAU OF LAW ENFORCEMENT",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53707",
-  "email": false
+  "ope": null
 }

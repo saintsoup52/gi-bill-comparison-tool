@@ -1,6 +1,6 @@
 {
   "facility_code": "20801034",
-  "institution": "Burlington Northern & Santa Fe Railroad",
+  "institution": "BURLINGTON NORTHERN & SANTA FE RAILROAD",
   "city": "Grand Forks",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58201",
-  "email": false
+  "ope": null
 }

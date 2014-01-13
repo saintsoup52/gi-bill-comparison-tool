@@ -1,6 +1,6 @@
 {
   "facility_code": "20B17522",
-  "institution": "Tpc Validation Center",
+  "institution": "TPC VALIDATION CENTER",
   "city": "Pontiac",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48341",
-  "email": false
+  "ope": null
 }

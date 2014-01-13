@@ -1,6 +1,6 @@
 {
   "facility_code": "10483617",
-  "institution": "Covington Police Department",
+  "institution": "COVINGTON POLICE DEPARTMENT",
   "city": "Covington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41014",
-  "email": false
+  "ope": null
 }

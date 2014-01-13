@@ -1,6 +1,6 @@
 {
   "facility_code": "10106326",
-  "institution": "Psychiatric Services 116",
+  "institution": "PSYCHIATRIC SERVICES 116",
   "city": "Ft Harrison",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59636",
-  "email": false
+  "ope": null
 }

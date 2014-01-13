@@ -1,6 +1,6 @@
 {
   "facility_code": "29025114",
-  "institution": "Hoosier State Chapter Of The Appraisal Institute",
+  "institution": "HOOSIER STATE CHAPTER OF THE APPRAISAL INSTITUTE",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46260",
-  "email": true
+  "ope": null
 }

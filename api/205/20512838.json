@@ -1,6 +1,6 @@
 {
   "facility_code": "20512838",
-  "institution": "I B E W Loc 380 Jatc",
+  "institution": "I B E W LOC 380 JATC",
   "city": "Collegeville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19426",
-  "email": false
+  "ope": null
 }

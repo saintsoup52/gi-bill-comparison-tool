@@ -1,6 +1,6 @@
 {
   "facility_code": "30M56132",
-  "institution": "Fire-Com Inc",
+  "institution": "FIRE-COM INC",
   "city": "Woodside",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11377",
-  "email": false
+  "ope": null
 }

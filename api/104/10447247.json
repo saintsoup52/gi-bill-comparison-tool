@@ -1,6 +1,6 @@
 {
   "facility_code": "10447247",
-  "institution": "Jefferson County Sheriff'S Office",
+  "institution": "JEFFERSON COUNTY SHERIFF'S OFFICE",
   "city": "Port Hadlock",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98339",
-  "email": true
+  "ope": null
 }

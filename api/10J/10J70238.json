@@ -1,6 +1,6 @@
 {
   "facility_code": "10J70238",
-  "institution": "Fed Cor Complex-Allenwood",
+  "institution": "FED COR COMPLEX-ALLENWOOD",
   "city": "White Deer",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17887",
-  "email": true
+  "ope": null
 }

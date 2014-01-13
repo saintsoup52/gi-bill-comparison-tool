@@ -1,6 +1,6 @@
 {
   "facility_code": "10072220",
-  "institution": "University Of Maryland Department Of Transportation",
+  "institution": "UNIVERSITY OF MARYLAND DEPARTMENT OF TRANSPORTATION",
   "city": "College Park",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20743",
-  "email": false
+  "ope": null
 }

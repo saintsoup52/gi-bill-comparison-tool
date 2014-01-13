@@ -1,6 +1,6 @@
 {
   "facility_code": "19000227",
-  "institution": "Us Dept Of Justice Immigration & Naturalization",
+  "institution": "US DEPT OF JUSTICE IMMIGRATION & NATURALIZATION",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68508",
-  "email": false
+  "ope": null
 }

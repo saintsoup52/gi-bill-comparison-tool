@@ -1,6 +1,6 @@
 {
   "facility_code": "15200911",
-  "institution": "Creekside High School",
+  "institution": "CREEKSIDE HIGH SCHOOL",
   "city": "Fairburn",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30213",
-  "email": true
+  "ope": null
 }

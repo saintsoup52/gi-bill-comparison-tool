@@ -1,6 +1,6 @@
 {
   "facility_code": "10496546",
-  "institution": "Department Of Veterans Affairs",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24011",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20020211",
-  "institution": "South Georgia Medical Center",
+  "institution": "SOUTH GEORGIA MEDICAL CENTER",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31063",
-  "email": false
+  "ope": null
 }

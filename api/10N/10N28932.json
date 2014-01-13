@@ -1,6 +1,6 @@
 {
   "facility_code": "10N28932",
-  "institution": "New York City Police Dept. - 72nd Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 72ND PRECINCT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11232",
-  "email": false
+  "ope": null
 }

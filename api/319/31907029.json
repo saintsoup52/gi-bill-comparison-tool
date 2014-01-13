@@ -1,6 +1,6 @@
 {
   "facility_code": "31907029",
-  "institution": "Antioch University New England",
+  "institution": "ANTIOCH UNIVERSITY NEW ENGLAND",
   "city": "Keene",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "3431",
-  "email": true
+  "ope": "00301004"
 }

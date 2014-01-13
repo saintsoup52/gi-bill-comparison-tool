@@ -1,6 +1,6 @@
 {
   "facility_code": "30055121",
-  "institution": "Springfield Electricians (Local 7) Jatc",
+  "institution": "SPRINGFIELD ELECTRICIANS (LOCAL 7) JATC",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1104",
-  "email": true
+  "ope": null
 }

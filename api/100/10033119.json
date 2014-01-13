@@ -1,6 +1,6 @@
 {
   "facility_code": "10033119",
-  "institution": "Limestone Police Department",
+  "institution": "LIMESTONE POLICE DEPARTMENT",
   "city": "Limestone",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4750",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A14611",
-  "institution": "Community Support Services            (Ch 31 Only)",
+  "institution": "COMMUNITY SUPPORT SERVICES            (CH 31 ONLY)",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30606",
-  "email": false
+  "ope": null
 }

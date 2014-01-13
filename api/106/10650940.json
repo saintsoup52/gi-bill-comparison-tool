@@ -1,6 +1,6 @@
 {
   "facility_code": "10650940",
-  "institution": "Lee County Sheriff'S Department",
+  "institution": "LEE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Bishopville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29010",
-  "email": false
+  "ope": null
 }

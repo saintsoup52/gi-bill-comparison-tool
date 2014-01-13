@@ -1,6 +1,6 @@
 {
   "facility_code": "10810730",
-  "institution": "Southern State Correctional Facility",
+  "institution": "SOUTHERN STATE CORRECTIONAL FACILITY",
   "city": "Delmont",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8314",
-  "email": true
+  "ope": null
 }

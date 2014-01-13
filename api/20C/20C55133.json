@@ -1,6 +1,6 @@
 {
   "facility_code": "20C55133",
-  "institution": "Abc Of The Carolinas Inc./Construction Institute",
+  "institution": "ABC OF THE CAROLINAS INC./CONSTRUCTION INSTITUTE",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28206",
-  "email": true
+  "ope": null
 }

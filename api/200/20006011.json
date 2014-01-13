@@ -1,6 +1,6 @@
 {
   "facility_code": "20006011",
-  "institution": "Wal-Mart",
+  "institution": "WAL-MART",
   "city": "Hinesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31313",
-  "email": false
+  "ope": null
 }

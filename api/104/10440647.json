@@ -1,6 +1,6 @@
 {
   "facility_code": "10440647",
-  "institution": "Faa Seattle Artcc (Auburn)",
+  "institution": "FAA SEATTLE ARTCC (AUBURN)",
   "city": "Auburn",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98092",
-  "email": true
+  "ope": null
 }

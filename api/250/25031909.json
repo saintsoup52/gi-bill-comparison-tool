@@ -1,6 +1,6 @@
 {
   "facility_code": "25031909",
-  "institution": "Boston University Center For Digital Imaging Arts",
+  "institution": "BOSTON UNIVERSITY CENTER FOR DIGITAL IMAGING ARTS",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20007",
-  "email": false
+  "ope": "00213000"
 }

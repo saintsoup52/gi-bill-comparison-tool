@@ -1,6 +1,6 @@
 {
   "facility_code": "10432747",
-  "institution": "Medina Police Department - Inactive",
+  "institution": "MEDINA POLICE DEPARTMENT - INACTIVE",
   "city": "Medina",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98039",
-  "email": false
+  "ope": null
 }

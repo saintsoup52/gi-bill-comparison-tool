@@ -1,6 +1,6 @@
 {
   "facility_code": "29174503",
-  "institution": "Bisbee Center For Employment (Ch31 Only)",
+  "institution": "BISBEE CENTER FOR EMPLOYMENT (CH31 ONLY)",
   "city": "Bisbee",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85603",
-  "email": false
+  "ope": null
 }

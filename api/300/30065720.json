@@ -1,6 +1,6 @@
 {
   "facility_code": "30065720",
-  "institution": "Maryland Natural Resources Police",
+  "institution": "MARYLAND NATURAL RESOURCES POLICE",
   "city": "Stevensville",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21666",
-  "email": false
+  "ope": null
 }

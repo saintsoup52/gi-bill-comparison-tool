@@ -1,6 +1,6 @@
 {
   "facility_code": "10N14132",
-  "institution": "New York City College Of Technology/Cuny - Public Safety Dept.",
+  "institution": "NEW YORK CITY COLLEGE OF TECHNOLOGY/CUNY - PUBLIC SAFETY DEPT.",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11201",
-  "email": false
+  "ope": null
 }

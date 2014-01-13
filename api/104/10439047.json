@@ -1,6 +1,6 @@
 {
   "facility_code": "10439047",
-  "institution": "Seattle Public Utilities-Inactive",
+  "institution": "SEATTLE PUBLIC UTILITIES-INACTIVE",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98124",
-  "email": true
+  "ope": null
 }

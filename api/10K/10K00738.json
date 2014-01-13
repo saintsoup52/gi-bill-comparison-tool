@@ -1,6 +1,6 @@
 {
   "facility_code": "10K00738",
-  "institution": "Township Of Derry Police Department",
+  "institution": "TOWNSHIP OF DERRY POLICE DEPARTMENT",
   "city": "Hershey",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17033",
-  "email": false
+  "ope": null
 }

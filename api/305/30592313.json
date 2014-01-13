@@ -1,6 +1,6 @@
 {
   "facility_code": "30592313",
-  "institution": "Local 649 Operating Engineers Appr Trng Prog",
+  "institution": "LOCAL 649 OPERATING ENGINEERS APPR TRNG PROG",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61604",
-  "email": false
+  "ope": null
 }

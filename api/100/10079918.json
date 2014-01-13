@@ -1,6 +1,6 @@
 {
   "facility_code": "10079918",
-  "institution": "Department Of Veterans Affairs Regional Office",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS REGIONAL OFFICE",
   "city": "Gretna",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70056",
-  "email": true
+  "ope": null
 }

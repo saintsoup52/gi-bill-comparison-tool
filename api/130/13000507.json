@@ -1,6 +1,6 @@
 {
   "facility_code": "13000507",
-  "institution": "Eastern Conn State University Financial Aid Ofc",
+  "institution": "EASTERN CONN STATE UNIVERSITY FINANCIAL AID OFC",
   "city": "Willimantic",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6226",
-  "email": true
+  "ope": "00142500"
 }

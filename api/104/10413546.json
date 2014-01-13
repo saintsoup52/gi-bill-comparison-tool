@@ -1,6 +1,6 @@
 {
   "facility_code": "10413546",
-  "institution": "Richmond City Sheriff'S Office",
+  "institution": "RICHMOND CITY SHERIFF'S OFFICE",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23223",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15001127",
-  "institution": "Omaha Fire Department Paramedic Training",
+  "institution": "OMAHA FIRE DEPARTMENT PARAMEDIC TRAINING",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68142",
-  "email": true
+  "ope": null
 }

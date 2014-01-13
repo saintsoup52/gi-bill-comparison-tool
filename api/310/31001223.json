@@ -1,6 +1,6 @@
 {
   "facility_code": "31001223",
-  "institution": "St Johns University",
+  "institution": "ST JOHNS UNIVERSITY",
   "city": "Collegeville",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "56321",
-  "email": false
+  "ope": "00237900"
 }

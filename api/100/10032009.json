@@ -1,6 +1,6 @@
 {
   "facility_code": "10032009",
-  "institution": "Us Department Of Justice; Executive Office Of The Us Attorney",
+  "institution": "US DEPARTMENT OF JUSTICE; EXECUTIVE OFFICE OF THE US ATTORNEY",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20530",
-  "email": false
+  "ope": null
 }

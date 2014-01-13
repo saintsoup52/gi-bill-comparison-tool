@@ -1,6 +1,6 @@
 {
   "facility_code": "20820030",
-  "institution": "Atlantic City Electric Company",
+  "institution": "ATLANTIC CITY ELECTRIC COMPANY",
   "city": "Mays Landing",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8330",
-  "email": false
+  "ope": null
 }

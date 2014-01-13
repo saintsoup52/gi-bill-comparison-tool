@@ -1,6 +1,6 @@
 {
   "facility_code": "10V83505",
-  "institution": "Los Angeles Police Department",
+  "institution": "LOS ANGELES POLICE DEPARTMENT",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90045",
-  "email": false
+  "ope": null
 }

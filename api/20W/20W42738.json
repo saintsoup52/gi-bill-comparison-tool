@@ -1,6 +1,6 @@
 {
   "facility_code": "20W42738",
-  "institution": "Mwv",
+  "institution": "MWV",
   "city": "Alexandria",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16611",
-  "email": false
+  "ope": null
 }

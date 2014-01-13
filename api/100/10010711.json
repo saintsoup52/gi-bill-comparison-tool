@@ -1,6 +1,6 @@
 {
   "facility_code": "10010711",
-  "institution": "Newton County Sheriff'S Office",
+  "institution": "NEWTON COUNTY SHERIFF'S OFFICE",
   "city": "Covington",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30014",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103C4005",
-  "institution": "Internal Revenue Service (El Monte) (Ch31 Only)",
+  "institution": "INTERNAL REVENUE SERVICE (EL MONTE) (CH31 ONLY)",
   "city": "El Monte",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91731",
-  "email": false
+  "ope": null
 }

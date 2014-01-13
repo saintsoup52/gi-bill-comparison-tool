@@ -1,6 +1,6 @@
 {
   "facility_code": "10N12932",
-  "institution": "New York City Dep Police - 7th Precinct",
+  "institution": "NEW YORK CITY DEP POLICE - 7TH PRECINCT",
   "city": "Yonkers",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10704",
-  "email": false
+  "ope": null
 }

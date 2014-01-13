@@ -1,6 +1,6 @@
 {
   "facility_code": "10582613",
-  "institution": "Western Illinois University Police Department",
+  "institution": "WESTERN ILLINOIS UNIVERSITY POLICE DEPARTMENT",
   "city": "Macomb",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61455",
-  "email": false
+  "ope": null
 }

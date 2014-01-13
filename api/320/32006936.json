@@ -1,6 +1,6 @@
 {
   "facility_code": "32006936",
-  "institution": "University Of Oklahoma Medical Center (Ch 31 Only)",
+  "institution": "UNIVERSITY OF OKLAHOMA MEDICAL CENTER (CH 31 ONLY)",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73104",
-  "email": false
+  "ope": null
 }

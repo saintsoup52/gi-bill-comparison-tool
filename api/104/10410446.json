@@ -1,6 +1,6 @@
 {
   "facility_code": "10410446",
-  "institution": "St Brides Correctional Center",
+  "institution": "ST BRIDES CORRECTIONAL CENTER",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23328",
-  "email": false
+  "ope": null
 }

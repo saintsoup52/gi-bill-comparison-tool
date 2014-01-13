@@ -1,6 +1,6 @@
 {
   "facility_code": "10N00020",
-  "institution": "Federal Aviation Administration Airport Traffic Control Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION AIRPORT TRAFFIC CONTROL TOWER",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21240",
-  "email": true
+  "ope": null
 }

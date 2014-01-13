@@ -1,6 +1,6 @@
 {
   "facility_code": "10N32832",
-  "institution": "City Of N.Y. Dept. Of Design &   Construction",
+  "institution": "CITY OF N.Y. DEPT. OF DESIGN &   CONSTRUCTION",
   "city": "Long Island City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11101",
-  "email": true
+  "ope": null
 }

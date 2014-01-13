@@ -1,6 +1,6 @@
 {
   "facility_code": "10067914",
-  "institution": "Fishers Fire Department",
+  "institution": "FISHERS FIRE DEPARTMENT",
   "city": "Fishers",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46038",
-  "email": false
+  "ope": null
 }

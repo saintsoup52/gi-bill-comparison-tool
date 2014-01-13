@@ -1,6 +1,6 @@
 {
   "facility_code": "10A36138",
-  "institution": "Department Of Corrections - Dallas",
+  "institution": "DEPARTMENT OF CORRECTIONS - DALLAS",
   "city": "Dallas",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18612",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10300530",
-  "institution": "New Jersey Department Of Military And Veterans Affairs",
+  "institution": "NEW JERSEY DEPARTMENT OF MILITARY AND VETERANS AFFAIRS",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8625",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20101535",
-  "institution": "Jones And Laughlin Steel Corporation   K",
+  "institution": "JONES AND LAUGHLIN STEEL CORPORATION   K",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44109",
-  "email": false
+  "ope": null
 }

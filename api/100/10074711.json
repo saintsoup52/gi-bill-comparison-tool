@@ -1,6 +1,6 @@
 {
   "facility_code": "10074711",
-  "institution": "Columbus Consolidated Government",
+  "institution": "COLUMBUS CONSOLIDATED GOVERNMENT",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31901",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31100076",
-  "institution": "University Of San Carlos Of Guatemala",
+  "institution": "UNIVERSITY OF SAN CARLOS OF GUATEMALA",
   "city": "Guatemala City",
   "state": "Guatemala",
   "country": "Guatemala",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

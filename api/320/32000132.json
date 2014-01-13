@@ -1,6 +1,6 @@
 {
   "facility_code": "32000132",
-  "institution": "Metropolitan Hospital Center",
+  "institution": "METROPOLITAN HOSPITAL CENTER",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10029",
-  "email": false
+  "ope": null
 }

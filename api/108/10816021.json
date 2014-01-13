@@ -1,6 +1,6 @@
 {
   "facility_code": "10816021",
-  "institution": "Attleboro Police Department",
+  "institution": "ATTLEBORO POLICE DEPARTMENT",
   "city": "Attleboro",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2703",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D03438",
-  "institution": "Monroe County Correctional Facility",
+  "institution": "MONROE COUNTY CORRECTIONAL FACILITY",
   "city": "Stroudsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18360",
-  "email": false
+  "ope": null
 }

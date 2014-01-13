@@ -1,6 +1,6 @@
 {
   "facility_code": "102B3805",
-  "institution": "Faa- Monterey Tower",
+  "institution": "FAA- MONTEREY TOWER",
   "city": "Monterey",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93940",
-  "email": false
+  "ope": null
 }

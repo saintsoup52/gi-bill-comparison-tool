@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12610",
-  "institution": "Alachua County Sheriff'S Office",
+  "institution": "ALACHUA COUNTY SHERIFF'S OFFICE",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32641",
-  "email": true
+  "ope": null
 }

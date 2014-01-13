@@ -1,6 +1,6 @@
 {
   "facility_code": "20K03338",
-  "institution": "R R Donnelley",
+  "institution": "R R DONNELLEY",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17602",
-  "email": true
+  "ope": null
 }

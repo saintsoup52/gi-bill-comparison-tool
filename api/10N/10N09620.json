@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09620",
-  "institution": "Us Marshals Service",
+  "institution": "US MARSHALS SERVICE",
   "city": "Greenbelt",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20770",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25167105",
-  "institution": "Coley Vocational Services (Chapter 31 Only)",
+  "institution": "COLEY VOCATIONAL SERVICES (CHAPTER 31 ONLY)",
   "city": "San Rafael",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94903",
-  "email": false
+  "ope": null
 }

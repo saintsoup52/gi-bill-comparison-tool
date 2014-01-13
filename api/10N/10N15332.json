@@ -1,6 +1,6 @@
 {
   "facility_code": "10N15332",
-  "institution": "Town Of Cairo Police Department",
+  "institution": "TOWN OF CAIRO POLICE DEPARTMENT",
   "city": "Cairo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12413",
-  "email": false
+  "ope": null
 }

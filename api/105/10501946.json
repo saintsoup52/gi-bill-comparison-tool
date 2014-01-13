@@ -1,6 +1,6 @@
 {
   "facility_code": "10501946",
-  "institution": "Quantico Marine Corps Police Department",
+  "institution": "QUANTICO MARINE CORPS POLICE DEPARTMENT",
   "city": "Quantico",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22134",
-  "email": false
+  "ope": null
 }

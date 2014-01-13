@@ -1,6 +1,6 @@
 {
   "facility_code": "32028907",
-  "institution": "Bridgeport Hospital Ems Department",
+  "institution": "BRIDGEPORT HOSPITAL EMS DEPARTMENT",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "6610",
-  "email": false
+  "ope": "NONE"
 }

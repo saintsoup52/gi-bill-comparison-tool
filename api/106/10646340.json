@@ -1,6 +1,6 @@
 {
   "facility_code": "10646340",
-  "institution": "Rock Hill Police Department",
+  "institution": "ROCK HILL POLICE DEPARTMENT",
   "city": "Rock Hill",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29730",
-  "email": false
+  "ope": null
 }

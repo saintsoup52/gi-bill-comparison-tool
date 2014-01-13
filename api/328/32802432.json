@@ -1,6 +1,6 @@
 {
   "facility_code": "32802432",
-  "institution": "New York Methodist Hospital",
+  "institution": "NEW YORK METHODIST HOSPITAL",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "11229",
-  "email": true
+  "ope": "01161700"
 }

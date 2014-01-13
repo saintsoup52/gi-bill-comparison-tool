@@ -1,6 +1,6 @@
 {
   "facility_code": "10216503",
-  "institution": "Veterans Health Administration - Phoenix",
+  "institution": "VETERANS HEALTH ADMINISTRATION - PHOENIX",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85012",
-  "email": true
+  "ope": null
 }

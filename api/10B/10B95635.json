@@ -1,6 +1,6 @@
 {
   "facility_code": "10B95635",
-  "institution": "Reynoldsburg Division Of Police",
+  "institution": "REYNOLDSBURG DIVISION OF POLICE",
   "city": "Reynoldsburg",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43068",
-  "email": true
+  "ope": null
 }

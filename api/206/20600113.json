@@ -1,6 +1,6 @@
 {
   "facility_code": "20600113",
-  "institution": "Edward Jones",
+  "institution": "EDWARD JONES",
   "city": "Crystal Lake",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60014",
-  "email": false
+  "ope": null
 }

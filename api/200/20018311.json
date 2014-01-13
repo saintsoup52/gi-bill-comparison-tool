@@ -1,6 +1,6 @@
 {
   "facility_code": "20018311",
-  "institution": "Sumpter Regional Hospital",
+  "institution": "SUMPTER REGIONAL HOSPITAL",
   "city": "Americus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31709",
-  "email": false
+  "ope": null
 }

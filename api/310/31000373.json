@@ -1,6 +1,6 @@
 {
   "facility_code": "31000373",
-  "institution": "Katholieke Universiteit Leuven (See Remarks)",
+  "institution": "KATHOLIEKE UNIVERSITEIT LEUVEN (SEE REMARKS)",
   "city": "3000 Leuven",
   "state": "Belgium",
   "country": "Belgium",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

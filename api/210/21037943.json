@@ -1,6 +1,6 @@
 {
   "facility_code": "21037943",
-  "institution": "Act Houston At Dallas",
+  "institution": "ACT HOUSTON AT DALLAS",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75247",
-  "email": false
+  "ope": null
 }

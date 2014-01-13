@@ -1,6 +1,6 @@
 {
   "facility_code": "10536831",
-  "institution": "Us Dept Of The Army Attn: Ernie Moya Pms (Ch31)",
+  "institution": "US DEPT OF THE ARMY ATTN: ERNIE MOYA PMS (CH31)",
   "city": "Wsmr",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88002",
-  "email": false
+  "ope": null
 }

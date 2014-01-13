@@ -1,6 +1,6 @@
 {
   "facility_code": "202B9705",
-  "institution": "Burlington Northern Santa Fe Railroad",
+  "institution": "BURLINGTON NORTHERN SANTA FE RAILROAD",
   "city": "Barstow",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92311",
-  "email": false
+  "ope": null
 }

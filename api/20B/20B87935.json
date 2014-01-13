@@ -1,6 +1,6 @@
 {
   "facility_code": "20B87935",
-  "institution": "American Electric Power",
+  "institution": "AMERICAN ELECTRIC POWER",
   "city": "Groveport",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43125",
-  "email": false
+  "ope": null
 }

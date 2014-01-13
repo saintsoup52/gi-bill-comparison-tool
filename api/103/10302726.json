@@ -1,6 +1,6 @@
 {
   "facility_code": "10302726",
-  "institution": "Social Security Administration - Missoula",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - MISSOULA",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59808",
-  "email": true
+  "ope": null
 }

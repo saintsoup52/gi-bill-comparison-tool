@@ -1,6 +1,6 @@
 {
   "facility_code": "17010230",
-  "institution": "Bergen Adult Learning Center",
+  "institution": "BERGEN ADULT LEARNING CENTER",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7601",
-  "email": false
+  "ope": null
 }

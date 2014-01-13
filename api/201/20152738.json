@@ -1,6 +1,6 @@
 {
   "facility_code": "20152738",
-  "institution": "Sheet Metal Workers' Local #19",
+  "institution": "SHEET METAL WORKERS' LOCAL #19",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19147",
-  "email": false
+  "ope": null
 }

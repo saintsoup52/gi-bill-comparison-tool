@@ -1,6 +1,6 @@
 {
   "facility_code": "31000418",
-  "institution": "Notre Dame Seminary",
+  "institution": "NOTRE DAME SEMINARY",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "70118",
-  "email": true
+  "ope": "00202200"
 }

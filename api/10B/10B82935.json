@@ -1,6 +1,6 @@
 {
   "facility_code": "10B82935",
-  "institution": "Lorain City Fire Department",
+  "institution": "LORAIN CITY FIRE DEPARTMENT",
   "city": "Lorain",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44052",
-  "email": false
+  "ope": null
 }

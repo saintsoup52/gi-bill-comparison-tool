@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09101",
-  "institution": "Alabama Bureau Of Investigation",
+  "institution": "ALABAMA BUREAU OF INVESTIGATION",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36104",
-  "email": true
+  "ope": null
 }

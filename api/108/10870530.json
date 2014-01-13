@@ -1,6 +1,6 @@
 {
   "facility_code": "10870530",
-  "institution": "Federal Aviation Administration Teterboro Air Traffic Control Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION TETERBORO AIR TRAFFIC CONTROL TOWER",
   "city": "Teterboro",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7608",
-  "email": false
+  "ope": null
 }

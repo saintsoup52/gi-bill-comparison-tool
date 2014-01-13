@@ -1,6 +1,6 @@
 {
   "facility_code": "10592830",
-  "institution": "Monmouth County Sheriff'S Office",
+  "institution": "MONMOUTH COUNTY SHERIFF'S OFFICE",
   "city": "Freehold",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7728",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10491946",
-  "institution": "Waynesboro Police Dept",
+  "institution": "WAYNESBORO POLICE DEPT",
   "city": "Waynesboro",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22980",
-  "email": true
+  "ope": null
 }

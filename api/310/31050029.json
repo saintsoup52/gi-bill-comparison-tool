@@ -1,6 +1,6 @@
 {
   "facility_code": "31050029",
-  "institution": "Springfield College",
+  "institution": "SPRINGFIELD COLLEGE",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "3101",
-  "email": false
+  "ope": "00221101"
 }

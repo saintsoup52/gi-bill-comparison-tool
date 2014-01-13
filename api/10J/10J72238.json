@@ -1,6 +1,6 @@
 {
   "facility_code": "10J72238",
-  "institution": "Fci Schuylkill",
+  "institution": "FCI SCHUYLKILL",
   "city": "Minersville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17954",
-  "email": true
+  "ope": null
 }

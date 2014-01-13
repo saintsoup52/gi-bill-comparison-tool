@@ -1,6 +1,6 @@
 {
   "facility_code": "10N35132",
-  "institution": "New York City Police Dept. - 7th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 7TH PRECINCT",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10002",
-  "email": false
+  "ope": null
 }

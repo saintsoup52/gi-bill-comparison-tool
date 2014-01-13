@@ -1,6 +1,6 @@
 {
   "facility_code": "10656540",
-  "institution": "Federal Aviation Administration (Faa) Myrtle Beach Airport",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) MYRTLE BEACH AIRPORT",
   "city": "Myrtle Beach",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29577",
-  "email": true
+  "ope": null
 }

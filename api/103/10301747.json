@@ -1,6 +1,6 @@
 {
   "facility_code": "10301747",
-  "institution": "Seattle Police Department",
+  "institution": "SEATTLE POLICE DEPARTMENT",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98124",
-  "email": true
+  "ope": null
 }

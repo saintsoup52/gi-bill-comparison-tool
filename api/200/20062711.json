@@ -1,6 +1,6 @@
 {
   "facility_code": "20062711",
-  "institution": "Map Express Inc.",
+  "institution": "MAP EXPRESS INC.",
   "city": "Clarkston",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30021",
-  "email": true
+  "ope": null
 }

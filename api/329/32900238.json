@@ -1,6 +1,6 @@
 {
   "facility_code": "32900238",
-  "institution": "St Josephs Hospital (Reading)",
+  "institution": "ST JOSEPHS HOSPITAL (READING)",
   "city": "Reading",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19603",
-  "email": false
+  "ope": null
 }

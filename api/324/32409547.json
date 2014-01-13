@@ -1,6 +1,6 @@
 {
   "facility_code": "32409547",
-  "institution": "Mason General Hospital (Ch 31 Only)",
+  "institution": "MASON GENERAL HOSPITAL (CH 31 ONLY)",
   "city": "Shelton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98584",
-  "email": false
+  "ope": null
 }

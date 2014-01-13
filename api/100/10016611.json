@@ -1,6 +1,6 @@
 {
   "facility_code": "10016611",
-  "institution": "Montezuma Police Department",
+  "institution": "MONTEZUMA POLICE DEPARTMENT",
   "city": "Montezuma",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31063",
-  "email": false
+  "ope": null
 }

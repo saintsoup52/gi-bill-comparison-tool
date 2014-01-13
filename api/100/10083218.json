@@ -1,6 +1,6 @@
 {
   "facility_code": "10083218",
-  "institution": "U.S. Fish & Wildlife Service",
+  "institution": "U.S. FISH & WILDLIFE SERVICE",
   "city": "Lacombe",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70445",
-  "email": true
+  "ope": null
 }

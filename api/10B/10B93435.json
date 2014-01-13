@@ -1,6 +1,6 @@
 {
   "facility_code": "10B93435",
-  "institution": "Akron-Canton Regional Airport",
+  "institution": "AKRON-CANTON REGIONAL AIRPORT",
   "city": "North Canton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44720",
-  "email": false
+  "ope": null
 }

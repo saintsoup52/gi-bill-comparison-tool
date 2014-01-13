@@ -1,6 +1,6 @@
 {
   "facility_code": "10654625",
-  "institution": "Nixa Police Dept.",
+  "institution": "NIXA POLICE DEPT.",
   "city": "Nixa",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65714",
-  "email": false
+  "ope": null
 }

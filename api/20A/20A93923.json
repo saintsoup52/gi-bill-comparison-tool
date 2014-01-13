@@ -1,6 +1,6 @@
 {
   "facility_code": "20A93923",
-  "institution": "Ford Motor Company",
+  "institution": "FORD MOTOR COMPANY",
   "city": "St. Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55106",
-  "email": false
+  "ope": null
 }

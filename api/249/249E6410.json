@@ -1,6 +1,6 @@
 {
   "facility_code": "249E6410",
-  "institution": "Management Resources Institute",
+  "institution": "MANAGEMENT RESOURCES INSTITUTE",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33126",
-  "email": true
+  "ope": null
 }

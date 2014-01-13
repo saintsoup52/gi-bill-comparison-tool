@@ -1,6 +1,6 @@
 {
   "facility_code": "20011711",
-  "institution": "Georgia Power Company-Macon District",
+  "institution": "GEORGIA POWER COMPANY-MACON DISTRICT",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31204",
-  "email": false
+  "ope": null
 }

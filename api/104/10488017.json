@@ -1,6 +1,6 @@
 {
   "facility_code": "10488017",
-  "institution": "Daviess County Sheriff Department",
+  "institution": "DAVIESS COUNTY SHERIFF DEPARTMENT",
   "city": "Owensboro",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42303",
-  "email": false
+  "ope": null
 }

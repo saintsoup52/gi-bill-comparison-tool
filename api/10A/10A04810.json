@@ -1,6 +1,6 @@
 {
   "facility_code": "10A04810",
-  "institution": "Florida Fish And Wildlife Conservation Commission",
+  "institution": "FLORIDA FISH AND WILDLIFE CONSERVATION COMMISSION",
   "city": "Havana",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32333",
-  "email": false
+  "ope": null
 }

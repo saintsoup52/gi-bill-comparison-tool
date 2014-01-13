@@ -1,6 +1,6 @@
 {
   "facility_code": "10419846",
-  "institution": "Mecklenburg Correctional Center",
+  "institution": "MECKLENBURG CORRECTIONAL CENTER",
   "city": "Boydton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23917",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20015311",
-  "institution": "Philip Services Corporation",
+  "institution": "PHILIP SERVICES CORPORATION",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30346",
-  "email": false
+  "ope": null
 }

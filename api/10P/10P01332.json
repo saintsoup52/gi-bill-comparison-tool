@@ -1,6 +1,6 @@
 {
   "facility_code": "10P01332",
-  "institution": "New York State Department Of Labor - Staten Island",
+  "institution": "NEW YORK STATE DEPARTMENT OF LABOR - STATEN ISLAND",
   "city": "Staten Island",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10301",
-  "email": true
+  "ope": null
 }

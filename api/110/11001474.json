@@ -1,6 +1,6 @@
 {
   "facility_code": "11001474",
-  "institution": "Anglia Ruskin University",
+  "institution": "ANGLIA RUSKIN UNIVERSITY",
   "city": "Chelmsford",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

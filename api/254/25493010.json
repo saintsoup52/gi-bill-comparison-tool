@@ -1,6 +1,6 @@
 {
   "facility_code": "25493010",
-  "institution": "The National Business Institute Of Florida",
+  "institution": "THE NATIONAL BUSINESS INSTITUTE OF FLORIDA",
   "city": "Winter Haven",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33880",
-  "email": true
+  "ope": null
 }

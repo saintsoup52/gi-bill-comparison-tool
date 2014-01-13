@@ -1,6 +1,6 @@
 {
   "facility_code": "25170105",
-  "institution": "Calstone University",
+  "institution": "CALSTONE UNIVERSITY",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90010",
-  "email": true
+  "ope": null
 }

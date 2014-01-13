@@ -1,6 +1,6 @@
 {
   "facility_code": "10997701",
-  "institution": "University Of Alabama - B'Ham Police Dept",
+  "institution": "UNIVERSITY OF ALABAMA - B'HAM POLICE DEPT",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35205",
-  "email": false
+  "ope": null
 }

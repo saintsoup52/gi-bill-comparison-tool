@@ -1,6 +1,6 @@
 {
   "facility_code": "20273337",
-  "institution": "Central Oregon Jatc",
+  "institution": "CENTRAL OREGON JATC",
   "city": "Salem",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97305",
-  "email": true
+  "ope": null
 }

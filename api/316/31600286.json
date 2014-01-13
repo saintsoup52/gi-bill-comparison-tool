@@ -1,6 +1,6 @@
 {
   "facility_code": "31600286",
-  "institution": "University Of Monterrey",
+  "institution": "UNIVERSITY OF MONTERREY",
   "city": "San Pedro",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

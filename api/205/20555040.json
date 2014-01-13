@@ -1,6 +1,6 @@
 {
   "facility_code": "20555040",
-  "institution": "Charleston Air Force Base Exchange 0654",
+  "institution": "CHARLESTON AIR FORCE BASE EXCHANGE 0654",
   "city": "Charleston Afb",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29404",
-  "email": false
+  "ope": null
 }

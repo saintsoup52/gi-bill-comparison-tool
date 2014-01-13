@@ -1,6 +1,6 @@
 {
   "facility_code": "10079018",
-  "institution": "Overton-Brooks Va Medical Center",
+  "institution": "OVERTON-BROOKS VA MEDICAL CENTER",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71101",
-  "email": true
+  "ope": null
 }

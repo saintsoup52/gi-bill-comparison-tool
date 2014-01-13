@@ -1,6 +1,6 @@
 {
   "facility_code": "10194122",
-  "institution": "Department Of Veterans Affairs Oi&T Field Operations",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS OI&T FIELD OPERATIONS",
   "city": "Ann Arbor",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48106",
-  "email": false
+  "ope": null
 }

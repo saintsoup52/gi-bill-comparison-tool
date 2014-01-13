@@ -1,6 +1,6 @@
 {
   "facility_code": "10485948",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25301",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20591713",
-  "institution": "Federal Aviation Administration/Chicago Artcc",
+  "institution": "FEDERAL AVIATION ADMINISTRATION/CHICAGO ARTCC",
   "city": "Aurora",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60506",
-  "email": true
+  "ope": null
 }

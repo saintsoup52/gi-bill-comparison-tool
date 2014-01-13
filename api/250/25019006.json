@@ -1,6 +1,6 @@
 {
   "facility_code": "25019006",
-  "institution": "New Horizons Clc Of Colorado",
+  "institution": "NEW HORIZONS CLC OF COLORADO",
   "city": "Englewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80112",
-  "email": true
+  "ope": null
 }

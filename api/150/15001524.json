@@ -1,6 +1,6 @@
 {
   "facility_code": "15001524",
-  "institution": "Harrison Central High School",
+  "institution": "HARRISON CENTRAL HIGH SCHOOL",
   "city": "Gulfport",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39503",
-  "email": true
+  "ope": null
 }

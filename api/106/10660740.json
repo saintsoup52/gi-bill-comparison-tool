@@ -1,6 +1,6 @@
 {
   "facility_code": "10660740",
-  "institution": "Us Department Of The Treasury - Irs",
+  "institution": "US DEPARTMENT OF THE TREASURY - IRS",
   "city": "Myrtle Beach",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29577",
-  "email": false
+  "ope": null
 }

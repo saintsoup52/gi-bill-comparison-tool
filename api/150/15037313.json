@@ -1,6 +1,6 @@
 {
   "facility_code": "15037313",
-  "institution": "East Aurora High School",
+  "institution": "EAST AURORA HIGH SCHOOL",
   "city": "Aurora",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60505",
-  "email": true
+  "ope": null
 }

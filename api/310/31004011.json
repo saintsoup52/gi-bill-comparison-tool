@@ -1,6 +1,6 @@
 {
   "facility_code": "31004011",
-  "institution": "Luther Rice University",
+  "institution": "LUTHER RICE UNIVERSITY",
   "city": "Lithonia",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30038",
-  "email": true
+  "ope": "03100900"
 }

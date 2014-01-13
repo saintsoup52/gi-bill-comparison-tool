@@ -1,6 +1,6 @@
 {
   "facility_code": "10052602",
-  "institution": "Faa Juneau Tower - Juneau International Airport",
+  "institution": "FAA JUNEAU TOWER - JUNEAU INTERNATIONAL AIRPORT",
   "city": "Juneau",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99801",
-  "email": true
+  "ope": null
 }

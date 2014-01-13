@@ -1,6 +1,6 @@
 {
   "facility_code": "10999710",
-  "institution": "Orlando Police Department",
+  "institution": "ORLANDO POLICE DEPARTMENT",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32801",
-  "email": true
+  "ope": null
 }

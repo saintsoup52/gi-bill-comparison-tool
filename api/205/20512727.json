@@ -1,6 +1,6 @@
 {
   "facility_code": "20512727",
-  "institution": "Waddell And Reed",
+  "institution": "WADDELL AND REED",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68154",
-  "email": false
+  "ope": null
 }

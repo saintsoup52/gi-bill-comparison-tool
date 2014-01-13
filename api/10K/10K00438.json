@@ -1,6 +1,6 @@
 {
   "facility_code": "10K00438",
-  "institution": "Va Medical Center - Wilkes-Barre",
+  "institution": "VA MEDICAL CENTER - WILKES-BARRE",
   "city": "Wilkes Barre",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18711",
-  "email": true
+  "ope": null
 }

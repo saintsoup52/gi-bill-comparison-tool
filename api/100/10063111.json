@@ -1,6 +1,6 @@
 {
   "facility_code": "10063111",
-  "institution": "Federal Aviation Administration (Faa) - Augusta Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - AUGUSTA TRACON/TOWER",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30906",
-  "email": true
+  "ope": null
 }

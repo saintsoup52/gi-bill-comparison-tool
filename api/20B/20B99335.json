@@ -1,6 +1,6 @@
 {
   "facility_code": "20B99335",
-  "institution": "Fenco/Davis-Bessie Nuclear Power Station",
+  "institution": "FENCO/DAVIS-BESSIE NUCLEAR POWER STATION",
   "city": "Oak Harbor",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43449",
-  "email": false
+  "ope": null
 }

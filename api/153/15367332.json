@@ -1,6 +1,6 @@
 {
   "facility_code": "15367332",
-  "institution": "Cook Chill Production Facility",
+  "institution": "COOK CHILL PRODUCTION FACILITY",
   "city": "Orangeburg",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10962",
-  "email": false
+  "ope": null
 }

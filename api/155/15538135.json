@@ -1,6 +1,6 @@
 {
   "facility_code": "15538135",
-  "institution": "The Ohio State University Flight Edu Division",
+  "institution": "THE OHIO STATE UNIVERSITY FLIGHT EDU DIVISION",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43235",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15011305",
-  "institution": "Sacramento County Sheriff'S Department",
+  "institution": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT",
   "city": "Carmichael",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94608",
-  "email": false
+  "ope": null
 }

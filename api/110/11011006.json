@@ -1,6 +1,6 @@
 {
   "facility_code": "11011006",
-  "institution": "Colorado State University - Ft Collins",
+  "institution": "COLORADO STATE UNIVERSITY - FT COLLINS",
   "city": "Fort Collins",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80523",
-  "email": true
+  "ope": "00135000"
 }

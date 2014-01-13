@@ -1,6 +1,6 @@
 {
   "facility_code": "10814221",
-  "institution": "Boston Fire Department",
+  "institution": "BOSTON FIRE DEPARTMENT",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2118",
-  "email": true
+  "ope": null
 }

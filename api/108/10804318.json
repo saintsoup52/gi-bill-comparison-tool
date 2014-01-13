@@ -1,6 +1,6 @@
 {
   "facility_code": "10804318",
-  "institution": "Veterans Health Care System-Alexandria (Ch31)",
+  "institution": "VETERANS HEALTH CARE SYSTEM-ALEXANDRIA (CH31)",
   "city": "Pineville",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71360",
-  "email": false
+  "ope": null
 }

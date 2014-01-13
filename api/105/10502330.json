@@ -1,6 +1,6 @@
 {
   "facility_code": "10502330",
-  "institution": "Flemington Borough Police Department",
+  "institution": "FLEMINGTON BOROUGH POLICE DEPARTMENT",
   "city": "Flemington",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8822",
-  "email": false
+  "ope": null
 }

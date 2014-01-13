@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01910",
-  "institution": "Federal Aviation Admin (Faa) Miami Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) MIAMI TRACON/TOWER",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33122",
-  "email": true
+  "ope": null
 }

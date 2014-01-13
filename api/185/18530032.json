@@ -1,6 +1,6 @@
 {
   "facility_code": "18530032",
-  "institution": "Boces Erie 1",
+  "institution": "BOCES ERIE 1",
   "city": "West Seneca",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "14224",
-  "email": true
+  "ope": "01258902"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15011514",
-  "institution": "Putnamville Regional Training Site",
+  "institution": "PUTNAMVILLE REGIONAL TRAINING SITE",
   "city": "Greencastle",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46135",
-  "email": false
+  "ope": null
 }

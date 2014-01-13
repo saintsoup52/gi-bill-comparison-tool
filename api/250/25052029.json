@@ -1,6 +1,6 @@
 {
   "facility_code": "25052029",
-  "institution": "Granite State Emergency Medical Services",
+  "institution": "GRANITE STATE EMERGENCY MEDICAL SERVICES",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3303",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11801129",
-  "institution": "University Of New Hampshire - Manchester",
+  "institution": "UNIVERSITY OF NEW HAMPSHIRE - MANCHESTER",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "3101",
-  "email": true
+  "ope": "00258901"
 }

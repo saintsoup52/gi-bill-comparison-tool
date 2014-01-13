@@ -1,6 +1,6 @@
 {
   "facility_code": "10454947",
-  "institution": "Toppenish Police Department",
+  "institution": "TOPPENISH POLICE DEPARTMENT",
   "city": "Toppenish",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98948",
-  "email": true
+  "ope": null
 }

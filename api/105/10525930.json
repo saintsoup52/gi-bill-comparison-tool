@@ -1,6 +1,6 @@
 {
   "facility_code": "10525930",
-  "institution": "Point Pleasant Beach Police Department",
+  "institution": "POINT PLEASANT BEACH POLICE DEPARTMENT",
   "city": "Point Pleasant Beach",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8742",
-  "email": false
+  "ope": null
 }

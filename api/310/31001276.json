@@ -1,6 +1,6 @@
 {
   "facility_code": "31001276",
-  "institution": "Universidad Catolica De El Salvador",
+  "institution": "UNIVERSIDAD CATOLICA DE EL SALVADOR",
   "city": "Santa Ana",
   "state": "El Salvador",
   "country": "El Salvador",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

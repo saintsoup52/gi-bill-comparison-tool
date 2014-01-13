@@ -1,6 +1,6 @@
 {
   "facility_code": "10859521",
-  "institution": "Chicopee Electric Light",
+  "institution": "CHICOPEE ELECTRIC LIGHT",
   "city": "Chicopee",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1020",
-  "email": true
+  "ope": null
 }

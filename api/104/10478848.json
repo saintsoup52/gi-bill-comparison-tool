@@ -1,6 +1,6 @@
 {
   "facility_code": "10478848",
-  "institution": "West Virginia Department Of Human Services",
+  "institution": "WEST VIRGINIA DEPARTMENT OF HUMAN SERVICES",
   "city": "Pt Pleasanr",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25550",
-  "email": false
+  "ope": null
 }

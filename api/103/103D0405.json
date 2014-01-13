@@ -1,6 +1,6 @@
 {
   "facility_code": "103D0405",
-  "institution": "Dept Of Forestry (Chapter 31 Only)",
+  "institution": "DEPT OF FORESTRY (CHAPTER 31 ONLY)",
   "city": "Arcadia",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91006",
-  "email": false
+  "ope": null
 }

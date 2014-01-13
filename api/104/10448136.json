@@ -1,6 +1,6 @@
 {
   "facility_code": "10448136",
-  "institution": "Oklahoma Highway Patrol Troop D (Wd Eff 022810)",
+  "institution": "OKLAHOMA HIGHWAY PATROL TROOP D (WD EFF 022810)",
   "city": "Mcalester",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74501",
-  "email": false
+  "ope": null
 }

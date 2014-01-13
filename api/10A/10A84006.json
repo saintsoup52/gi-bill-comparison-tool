@@ -1,6 +1,6 @@
 {
   "facility_code": "10A84006",
-  "institution": "City Of Pueblo Police Department",
+  "institution": "CITY OF PUEBLO POLICE DEPARTMENT",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81003",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20061111",
-  "institution": "The Cottage School",
+  "institution": "THE COTTAGE SCHOOL",
   "city": "Roswell",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30075",
-  "email": false
+  "ope": null
 }

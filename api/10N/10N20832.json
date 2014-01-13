@@ -1,6 +1,6 @@
 {
   "facility_code": "10N20832",
-  "institution": "New York City Police Dept. - 47th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 47TH PRECINCT",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10466",
-  "email": false
+  "ope": null
 }

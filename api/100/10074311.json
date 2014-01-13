@@ -1,6 +1,6 @@
 {
   "facility_code": "10074311",
-  "institution": "National Credit Union Administration (Ncua)",
+  "institution": "NATIONAL CREDIT UNION ADMINISTRATION (NCUA)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30328",
-  "email": true
+  "ope": null
 }

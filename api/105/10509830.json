@@ -1,6 +1,6 @@
 {
   "facility_code": "10509830",
-  "institution": "Florence Township Police Department",
+  "institution": "FLORENCE TOWNSHIP POLICE DEPARTMENT",
   "city": "Florence Township",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8518",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10412047",
-  "institution": "Clark County Sheriff'S Office",
+  "institution": "CLARK COUNTY SHERIFF'S OFFICE",
   "city": "Vancouver",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98666",
-  "email": false
+  "ope": null
 }

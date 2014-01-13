@@ -1,6 +1,6 @@
 {
   "facility_code": "103C8305",
-  "institution": "United States Coast Guard San Francisco Sector",
+  "institution": "UNITED STATES COAST GUARD SAN FRANCISCO SECTOR",
   "city": "Yerba Buena Island",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94130",
-  "email": false
+  "ope": null
 }

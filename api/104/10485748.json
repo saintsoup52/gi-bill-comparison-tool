@@ -1,6 +1,6 @@
 {
   "facility_code": "10485748",
-  "institution": "Us Department Of Agriculture (Ars Afsrc)",
+  "institution": "US DEPARTMENT OF AGRICULTURE (ARS AFSRC)",
   "city": "Beaver",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25813",
-  "email": true
+  "ope": null
 }

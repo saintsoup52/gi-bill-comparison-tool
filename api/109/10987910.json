@@ -1,6 +1,6 @@
 {
   "facility_code": "10987910",
-  "institution": "Florida Department Of Veterans Affairs",
+  "institution": "FLORIDA DEPARTMENT OF VETERANS AFFAIRS",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33731",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10496815",
-  "institution": "Desoto Police Department",
+  "institution": "DESOTO POLICE DEPARTMENT",
   "city": "Desoto",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50069",
-  "email": false
+  "ope": null
 }

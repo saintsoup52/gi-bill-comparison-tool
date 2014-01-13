@@ -1,6 +1,6 @@
 {
   "facility_code": "15106031",
-  "institution": "Albuquerque Police Dept Academy",
+  "institution": "ALBUQUERQUE POLICE DEPT ACADEMY",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87107",
-  "email": false
+  "ope": null
 }

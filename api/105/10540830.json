@@ -1,6 +1,6 @@
 {
   "facility_code": "10540830",
-  "institution": "Aberdeen Township Police Department",
+  "institution": "ABERDEEN TOWNSHIP POLICE DEPARTMENT",
   "city": "Aberdeen",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7747",
-  "email": true
+  "ope": null
 }

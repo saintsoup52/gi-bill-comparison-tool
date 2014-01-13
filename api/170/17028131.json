@@ -1,6 +1,6 @@
 {
   "facility_code": "17028131",
-  "institution": "Carlsbad High School",
+  "institution": "CARLSBAD HIGH SCHOOL",
   "city": "Carlsbad",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88220",
-  "email": false
+  "ope": null
 }

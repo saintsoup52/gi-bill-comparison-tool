@@ -1,6 +1,6 @@
 {
   "facility_code": "10V35805",
-  "institution": "Riverside County Sheriff'S Department",
+  "institution": "RIVERSIDE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92518",
-  "email": true
+  "ope": null
 }

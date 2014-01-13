@@ -1,6 +1,6 @@
 {
   "facility_code": "103C8505",
-  "institution": "High Desert Power Project",
+  "institution": "HIGH DESERT POWER PROJECT",
   "city": "Victorville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92394",
-  "email": false
+  "ope": null
 }

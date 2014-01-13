@@ -1,6 +1,6 @@
 {
   "facility_code": "102B4205",
-  "institution": "Faa- Van Nuys Tower",
+  "institution": "FAA- VAN NUYS TOWER",
   "city": "Van Nuys",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91406",
-  "email": false
+  "ope": null
 }

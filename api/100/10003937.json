@@ -1,6 +1,6 @@
 {
   "facility_code": "10003937",
-  "institution": "Clackamas County Sheriff'S Office",
+  "institution": "CLACKAMAS COUNTY SHERIFF'S OFFICE",
   "city": "Oregon City",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97045",
-  "email": true
+  "ope": null
 }

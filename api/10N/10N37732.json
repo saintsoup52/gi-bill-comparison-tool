@@ -1,6 +1,6 @@
 {
   "facility_code": "10N37732",
-  "institution": "New York State Division Of Parole - Peekskill Area Office",
+  "institution": "NEW YORK STATE DIVISION OF PAROLE - PEEKSKILL AREA OFFICE",
   "city": "Peekskill",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10566",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20041307",
-  "institution": "Camsan Inc",
+  "institution": "CAMSAN INC",
   "city": "Stamford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6069",
-  "email": false
+  "ope": null
 }

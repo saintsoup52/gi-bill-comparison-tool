@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91006",
-  "institution": "Lone Tree Police Department",
+  "institution": "LONE TREE POLICE DEPARTMENT",
   "city": "Lone Tree",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80124",
-  "email": true
+  "ope": null
 }

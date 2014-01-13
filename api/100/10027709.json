@@ -1,6 +1,6 @@
 {
   "facility_code": "10027709",
-  "institution": "Ddistrict Of Columbia Department Of Corrections",
+  "institution": "DDISTRICT OF COLUMBIA DEPARTMENT OF CORRECTIONS",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20001",
-  "email": false
+  "ope": null
 }

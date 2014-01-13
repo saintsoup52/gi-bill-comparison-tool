@@ -1,6 +1,6 @@
 {
   "facility_code": "10A94906",
-  "institution": "Faa - Centennial Ssc",
+  "institution": "FAA - CENTENNIAL SSC",
   "city": "Englewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80112",
-  "email": true
+  "ope": null
 }

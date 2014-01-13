@@ -1,6 +1,6 @@
 {
   "facility_code": "15012729",
-  "institution": "New Hampshire Fire Standards Training And Emergency Medical Services",
+  "institution": "NEW HAMPSHIRE FIRE STANDARDS TRAINING AND EMERGENCY MEDICAL SERVICES",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3305",
-  "email": true
+  "ope": null
 }

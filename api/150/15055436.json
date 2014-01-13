@@ -1,6 +1,6 @@
 {
   "facility_code": "15055436",
-  "institution": "Mcalester High School",
+  "institution": "MCALESTER HIGH SCHOOL",
   "city": "Mcalester",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74501",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32401364",
-  "institution": "Queen'S Medical Center",
+  "institution": "QUEEN'S MEDICAL CENTER",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96813",
-  "email": false
+  "ope": null
 }

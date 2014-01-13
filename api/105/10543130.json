@@ -1,6 +1,6 @@
 {
   "facility_code": "10543130",
-  "institution": "Veterans Center",
+  "institution": "VETERANS CENTER",
   "city": "Linwood",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8221",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11009575",
-  "institution": "University Of Sherbrooke",
+  "institution": "UNIVERSITY OF SHERBROOKE",
   "city": "Sherbrooke",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

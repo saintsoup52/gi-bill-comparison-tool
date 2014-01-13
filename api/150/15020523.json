@@ -1,6 +1,6 @@
 {
   "facility_code": "15020523",
-  "institution": "St Michael-Albertville High School",
+  "institution": "ST MICHAEL-ALBERTVILLE HIGH SCHOOL",
   "city": "Albertville",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55301",
-  "email": false
+  "ope": null
 }

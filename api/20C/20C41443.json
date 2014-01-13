@@ -1,6 +1,6 @@
 {
   "facility_code": "20C41443",
-  "institution": "South Texas Cng",
+  "institution": "SOUTH TEXAS CNG",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78418",
-  "email": false
+  "ope": null
 }

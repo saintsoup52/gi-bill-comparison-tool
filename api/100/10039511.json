@@ -1,6 +1,6 @@
 {
   "facility_code": "10039511",
-  "institution": "Richmond County Health Department",
+  "institution": "RICHMOND COUNTY HEALTH DEPARTMENT",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30901",
-  "email": false
+  "ope": null
 }

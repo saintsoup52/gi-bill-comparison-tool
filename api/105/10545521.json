@@ -1,6 +1,6 @@
 {
   "facility_code": "10545521",
-  "institution": "Easton Fire Department",
+  "institution": "EASTON FIRE DEPARTMENT",
   "city": "South Easton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2356",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10086935",
-  "institution": "Strongsville Police Department G",
+  "institution": "STRONGSVILLE POLICE DEPARTMENT G",
   "city": "Strongsville",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44136",
-  "email": false
+  "ope": null
 }

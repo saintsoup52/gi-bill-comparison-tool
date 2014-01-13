@@ -1,6 +1,6 @@
 {
   "facility_code": "10566413",
-  "institution": "Statesville Correctional Center",
+  "institution": "STATESVILLE CORRECTIONAL CENTER",
   "city": "Joliet",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60434",
-  "email": true
+  "ope": null
 }

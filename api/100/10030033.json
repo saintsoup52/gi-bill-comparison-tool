@@ -1,6 +1,6 @@
 {
   "facility_code": "10030033",
-  "institution": "Havelock Fire And Rescue",
+  "institution": "HAVELOCK FIRE AND RESCUE",
   "city": "Havelock",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28532",
-  "email": true
+  "ope": null
 }

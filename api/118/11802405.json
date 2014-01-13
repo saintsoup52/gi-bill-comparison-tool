@@ -1,6 +1,6 @@
 {
   "facility_code": "11802405",
-  "institution": "University Of California Davis",
+  "institution": "UNIVERSITY OF CALIFORNIA DAVIS",
   "city": "Davis",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95616",
-  "email": false
+  "ope": "00131300"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10066314",
-  "institution": "Us Naval Surface Warfare Center Crane Divison",
+  "institution": "US NAVAL SURFACE WARFARE CENTER CRANE DIVISON",
   "city": "Crane",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47522",
-  "email": false
+  "ope": null
 }

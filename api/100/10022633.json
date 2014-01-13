@@ -1,6 +1,6 @@
 {
   "facility_code": "10022633",
-  "institution": "Butner Federal Correctional Institution",
+  "institution": "BUTNER FEDERAL CORRECTIONAL INSTITUTION",
   "city": "Butner",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27509",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10234203",
-  "institution": "City Of Apache Junction",
+  "institution": "CITY OF APACHE JUNCTION",
   "city": "Apache Junction",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85119",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30001220",
-  "institution": "Western Maryland Jatc For The Electrical Industry",
+  "institution": "WESTERN MARYLAND JATC FOR THE ELECTRICAL INDUSTRY",
   "city": "Cumberland",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21502",
-  "email": true
+  "ope": null
 }

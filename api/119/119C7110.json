@@ -1,6 +1,6 @@
 {
   "facility_code": "119C7110",
-  "institution": "Pensacola State College",
+  "institution": "PENSACOLA STATE COLLEGE",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "32504",
-  "email": true
+  "ope": "00151300"
 }

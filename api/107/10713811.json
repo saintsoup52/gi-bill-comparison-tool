@@ -1,6 +1,6 @@
 {
   "facility_code": "10713811",
-  "institution": "Us Army Fac Eng Appr Prog",
+  "institution": "US ARMY FAC ENG APPR PROG",
   "city": "Fort Gordon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30905",
-  "email": false
+  "ope": null
 }

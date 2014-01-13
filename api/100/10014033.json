@@ -1,6 +1,6 @@
 {
   "facility_code": "10014033",
-  "institution": "Bertie County Sheriff'S Department",
+  "institution": "BERTIE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Windsor",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27983",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15007905",
-  "institution": "Humboldt Regional Occupational Program",
+  "institution": "HUMBOLDT REGIONAL OCCUPATIONAL PROGRAM",
   "city": "Eureka",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95501",
-  "email": false
+  "ope": null
 }

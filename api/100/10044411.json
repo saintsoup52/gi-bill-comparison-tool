@@ -1,6 +1,6 @@
 {
   "facility_code": "10044411",
-  "institution": "Us Dept Of Veterans Affairs (Ch 31 Only)",
+  "institution": "US DEPT OF VETERANS AFFAIRS (CH 31 ONLY)",
   "city": "Decatur",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30033",
-  "email": "No (SCO)"
+  "ope": null
 }

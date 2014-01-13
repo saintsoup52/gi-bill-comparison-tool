@@ -1,6 +1,6 @@
 {
   "facility_code": "11003763",
-  "institution": "Universidad De Puerto Rico-Bayamon (University Of Puerto Rico-Bayam?N)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO-BAYAMON (UNIVERSITY OF PUERTO RICO-BAYAM?N)",
   "city": "Bayamon",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "959",
-  "email": true
+  "ope": "01097500"
 }

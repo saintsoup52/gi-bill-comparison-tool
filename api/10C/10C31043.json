@@ -1,6 +1,6 @@
 {
   "facility_code": "10C31043",
-  "institution": "Victoria Police Department",
+  "institution": "VICTORIA POLICE DEPARTMENT",
   "city": "Victoria",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77901",
-  "email": false
+  "ope": null
 }

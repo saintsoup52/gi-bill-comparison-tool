@@ -1,6 +1,6 @@
 {
   "facility_code": "20501946",
-  "institution": "M-3 Electric",
+  "institution": "M-3 ELECTRIC",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23320",
-  "email": false
+  "ope": null
 }

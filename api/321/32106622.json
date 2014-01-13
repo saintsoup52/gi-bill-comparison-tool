@@ -1,6 +1,6 @@
 {
   "facility_code": "32106622",
-  "institution": "St Marys Hospital",
+  "institution": "ST MARYS HOSPITAL",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49502",
-  "email": false
+  "ope": null
 }

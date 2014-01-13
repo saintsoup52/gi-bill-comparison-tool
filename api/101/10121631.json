@@ -1,6 +1,6 @@
 {
   "facility_code": "10121631",
-  "institution": "Santa Fe County Sheriff Department",
+  "institution": "SANTA FE COUNTY SHERIFF DEPARTMENT",
   "city": "Santa Fe",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87501",
-  "email": false
+  "ope": null
 }

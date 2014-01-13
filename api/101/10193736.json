@@ -1,6 +1,6 @@
 {
   "facility_code": "10193736",
-  "institution": "Hugo Police Department",
+  "institution": "HUGO POLICE DEPARTMENT",
   "city": "Hugo",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74743",
-  "email": false
+  "ope": null
 }

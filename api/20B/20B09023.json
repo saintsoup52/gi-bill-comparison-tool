@@ -1,6 +1,6 @@
 {
   "facility_code": "20B09023",
-  "institution": "N.E. Mn Millwrights Jac",
+  "institution": "N.E. MN MILLWRIGHTS JAC",
   "city": "Hermantown",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55811",
-  "email": false
+  "ope": null
 }

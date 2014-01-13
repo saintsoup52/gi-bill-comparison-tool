@@ -1,6 +1,6 @@
 {
   "facility_code": "10J65638",
-  "institution": "State College Police Department",
+  "institution": "STATE COLLEGE POLICE DEPARTMENT",
   "city": "State College",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16801",
-  "email": true
+  "ope": null
 }

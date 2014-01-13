@@ -1,6 +1,6 @@
 {
   "facility_code": "11001680",
-  "institution": "Hochschule Bremen",
+  "institution": "HOCHSCHULE BREMEN",
   "city": "28199 Bremen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

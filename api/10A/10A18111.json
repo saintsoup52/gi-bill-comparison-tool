@@ -1,6 +1,6 @@
 {
   "facility_code": "10A18111",
-  "institution": "Georgia Bureau Of Investigation - Region 5 (Statesboro)",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION - REGION 5 (STATESBORO)",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30458",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25173605",
-  "institution": "California Smog Technical Training (Ch31 Only)",
+  "institution": "CALIFORNIA SMOG TECHNICAL TRAINING (CH31 ONLY)",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93309",
-  "email": false
+  "ope": null
 }

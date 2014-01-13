@@ -1,6 +1,6 @@
 {
   "facility_code": "10A85106",
-  "institution": "Pueblo County Sheriff'S Office",
+  "institution": "PUEBLO COUNTY SHERIFF'S OFFICE",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81003",
-  "email": false
+  "ope": null
 }

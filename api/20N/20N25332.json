@@ -1,6 +1,6 @@
 {
   "facility_code": "20N25332",
-  "institution": "Local #1 Iatse",
+  "institution": "LOCAL #1 IATSE",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10036",
-  "email": false
+  "ope": null
 }

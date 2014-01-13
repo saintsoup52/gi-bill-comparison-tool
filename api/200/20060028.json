@@ -1,6 +1,6 @@
 {
   "facility_code": "20060028",
-  "institution": "Ogden Government Services (Ch31)",
+  "institution": "OGDEN GOVERNMENT SERVICES (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89115",
-  "email": false
+  "ope": null
 }

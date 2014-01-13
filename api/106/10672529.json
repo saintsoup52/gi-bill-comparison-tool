@@ -1,6 +1,6 @@
 {
   "facility_code": "10672529",
-  "institution": "Londonderry Police Department",
+  "institution": "LONDONDERRY POLICE DEPARTMENT",
   "city": "Londonderry",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3053",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31100193",
-  "institution": "Stockholm University",
+  "institution": "STOCKHOLM UNIVERSITY",
   "city": "Stockholm",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

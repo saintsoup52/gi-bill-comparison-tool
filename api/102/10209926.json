@@ -1,6 +1,6 @@
 {
   "facility_code": "10209926",
-  "institution": "Missoula County Sheriff'S Office",
+  "institution": "MISSOULA COUNTY SHERIFF'S OFFICE",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59802",
-  "email": true
+  "ope": null
 }

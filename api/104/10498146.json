@@ -1,6 +1,6 @@
 {
   "facility_code": "10498146",
-  "institution": "Virginia State Police Area Office #35",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #35",
   "city": "Emporia",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23847",
-  "email": false
+  "ope": null
 }

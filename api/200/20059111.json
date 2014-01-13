@@ -1,6 +1,6 @@
 {
   "facility_code": "20059111",
-  "institution": "Strayer University (Ojt)",
+  "institution": "STRAYER UNIVERSITY (OJT)",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30909",
-  "email": true
+  "ope": null
 }

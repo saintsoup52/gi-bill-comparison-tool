@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07010",
-  "institution": "Plant City Police Department",
+  "institution": "PLANT CITY POLICE DEPARTMENT",
   "city": "Plant City",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33566",
-  "email": true
+  "ope": null
 }

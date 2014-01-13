@@ -1,6 +1,6 @@
 {
   "facility_code": "10484317",
-  "institution": "Bloomfield Police Department",
+  "institution": "BLOOMFIELD POLICE DEPARTMENT",
   "city": "Bloomfield",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40008",
-  "email": false
+  "ope": null
 }

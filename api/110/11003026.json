@@ -1,6 +1,6 @@
 {
   "facility_code": "11003026",
-  "institution": "Montana Tech Of The University Of Montana",
+  "institution": "MONTANA TECH OF THE UNIVERSITY OF MONTANA",
   "city": "Butte",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "59701",
-  "email": true
+  "ope": "00253100"
 }

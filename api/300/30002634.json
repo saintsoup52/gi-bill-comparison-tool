@@ -1,6 +1,6 @@
 {
   "facility_code": "30002634",
-  "institution": "Montana Dakota Utilities Company",
+  "institution": "MONTANA DAKOTA UTILITIES COMPANY",
   "city": "Bismarck",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58501",
-  "email": false
+  "ope": null
 }

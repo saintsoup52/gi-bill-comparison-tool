@@ -1,6 +1,6 @@
 {
   "facility_code": "10C10343",
-  "institution": "Us Border Patrol Marfa",
+  "institution": "US BORDER PATROL MARFA",
   "city": "Marfa",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79843",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31300178",
-  "institution": "Ceu Universidad San Pablo",
+  "institution": "CEU UNIVERSIDAD SAN PABLO",
   "city": "Madrid",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

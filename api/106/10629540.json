@@ -1,6 +1,6 @@
 {
   "facility_code": "10629540",
-  "institution": "Greenville County Detention Center",
+  "institution": "GREENVILLE COUNTY DETENTION CENTER",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29601",
-  "email": false
+  "ope": null
 }

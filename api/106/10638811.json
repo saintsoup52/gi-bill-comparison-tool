@@ -1,6 +1,6 @@
 {
   "facility_code": "10638811",
-  "institution": "Sardis Police Dept City Of",
+  "institution": "SARDIS POLICE DEPT CITY OF",
   "city": "Sardis",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30456",
-  "email": false
+  "ope": null
 }

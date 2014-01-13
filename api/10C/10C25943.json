@@ -1,6 +1,6 @@
 {
   "facility_code": "10C25943",
-  "institution": "Dept Of Homeland Sec Cbp El Paso Air Branch",
+  "institution": "DEPT OF HOMELAND SEC CBP EL PASO AIR BRANCH",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79925",
-  "email": false
+  "ope": null
 }

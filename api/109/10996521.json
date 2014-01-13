@@ -1,6 +1,6 @@
 {
   "facility_code": "10996521",
-  "institution": "Town Of Southampton",
+  "institution": "TOWN OF SOUTHAMPTON",
   "city": "Southampton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1073",
-  "email": false
+  "ope": null
 }

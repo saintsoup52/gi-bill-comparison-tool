@@ -1,6 +1,6 @@
 {
   "facility_code": "20D39149",
-  "institution": "Schneider National Inc (National Approval)",
+  "institution": "SCHNEIDER NATIONAL INC (NATIONAL APPROVAL)",
   "city": "Green Bay",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54304",
-  "email": true
+  "ope": null
 }

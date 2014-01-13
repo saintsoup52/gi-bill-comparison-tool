@@ -1,6 +1,6 @@
 {
   "facility_code": "10999801",
-  "institution": "City Of Alabaster Police Department",
+  "institution": "CITY OF ALABASTER POLICE DEPARTMENT",
   "city": "Alabaster",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35007",
-  "email": false
+  "ope": null
 }

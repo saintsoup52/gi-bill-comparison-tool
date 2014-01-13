@@ -1,6 +1,6 @@
 {
   "facility_code": "10N27532",
-  "institution": "Suffolk County Police Department - 2nd Precinct",
+  "institution": "SUFFOLK COUNTY POLICE DEPARTMENT - 2ND PRECINCT",
   "city": "Huntington",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11743",
-  "email": false
+  "ope": null
 }

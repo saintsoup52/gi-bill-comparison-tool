@@ -1,6 +1,6 @@
 {
   "facility_code": "20475315",
-  "institution": "Zeigler / Cat",
+  "institution": "ZEIGLER / CAT",
   "city": "Altoona",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50009",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10067111",
-  "institution": "Berrien County Sheriff'S Office",
+  "institution": "BERRIEN COUNTY SHERIFF'S OFFICE",
   "city": "Nashville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31639",
-  "email": true
+  "ope": null
 }

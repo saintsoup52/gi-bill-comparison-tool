@@ -1,6 +1,6 @@
 {
   "facility_code": "11000201",
-  "institution": "Auburn University",
+  "institution": "AUBURN UNIVERSITY",
   "city": "Auburn",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36849",
-  "email": true
+  "ope": "00100900"
 }

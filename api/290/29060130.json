@@ -1,6 +1,6 @@
 {
   "facility_code": "29060130",
-  "institution": "Friendship House",
+  "institution": "FRIENDSHIP HOUSE",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7601",
-  "email": false
+  "ope": null
 }

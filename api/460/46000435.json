@@ -1,6 +1,6 @@
 {
   "facility_code": "46000435",
-  "institution": "Oh State Bd Of Reg For Prof Engineers & Surveyors",
+  "institution": "OH STATE BD OF REG FOR PROF ENGINEERS & SURVEYORS",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43215",
-  "email": true
+  "ope": null
 }

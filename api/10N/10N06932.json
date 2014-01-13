@@ -1,6 +1,6 @@
 {
   "facility_code": "10N06932",
-  "institution": "Tioga County Sheriff'S Office",
+  "institution": "TIOGA COUNTY SHERIFF'S OFFICE",
   "city": "Owego",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13827",
-  "email": false
+  "ope": null
 }

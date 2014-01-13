@@ -1,6 +1,6 @@
 {
   "facility_code": "20W57638",
-  "institution": "Eme Homer City Generation L.P.",
+  "institution": "EME HOMER CITY GENERATION L.P.",
   "city": "Homer City",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15748",
-  "email": true
+  "ope": null
 }

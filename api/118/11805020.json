@@ -1,6 +1,6 @@
 {
   "facility_code": "11805020",
-  "institution": "University Of Maryland At Baltimore Graduate School",
+  "institution": "UNIVERSITY OF MARYLAND AT BALTIMORE GRADUATE SCHOOL",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21201",
-  "email": true
+  "ope": "00210400"
 }

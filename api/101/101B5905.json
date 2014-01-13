@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5905",
-  "institution": "California Highway Patrol-Oakland Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL-OAKLAND AREA",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94609",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N36032",
-  "institution": "New York City Police Dept. - 43rd Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 43RD PRECINCT",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10473",
-  "email": false
+  "ope": null
 }

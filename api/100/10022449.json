@@ -1,6 +1,6 @@
 {
   "facility_code": "10022449",
-  "institution": "Sand Ridge Secure Treatment Facility",
+  "institution": "SAND RIDGE SECURE TREATMENT FACILITY",
   "city": "Mauston",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53948",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10661240",
-  "institution": "Bluffton Police Department",
+  "institution": "BLUFFTON POLICE DEPARTMENT",
   "city": "Bluffton",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29910",
-  "email": true
+  "ope": null
 }

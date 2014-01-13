@@ -1,6 +1,6 @@
 {
   "facility_code": "10449847",
-  "institution": "Us Dept Of Homeland Security/Cbp Marine Interdiction",
+  "institution": "US DEPT OF HOMELAND SECURITY/CBP MARINE INTERDICTION",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98226",
-  "email": true
+  "ope": null
 }

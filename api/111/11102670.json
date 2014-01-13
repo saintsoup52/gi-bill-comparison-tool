@@ -1,6 +1,6 @@
 {
   "facility_code": "11102670",
-  "institution": "University Of Adelaide",
+  "institution": "UNIVERSITY OF ADELAIDE",
   "city": "Adelaide",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

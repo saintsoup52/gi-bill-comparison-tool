@@ -1,6 +1,6 @@
 {
   "facility_code": "11003863",
-  "institution": "Universidad De Puerto Rico-Aguadilla (University Of Puerto Rico-Aguadilla)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO-AGUADILLA (UNIVERSITY OF PUERTO RICO-AGUADILLA)",
   "city": "Aguadilla",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "604",
-  "email": true
+  "ope": "01212300"
 }

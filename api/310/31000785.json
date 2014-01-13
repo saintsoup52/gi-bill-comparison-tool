@@ -1,6 +1,6 @@
 {
   "facility_code": "31000785",
-  "institution": "Doshisha University",
+  "institution": "DOSHISHA UNIVERSITY",
   "city": "Kyoto",
   "state": "Japan",
   "country": "Japan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

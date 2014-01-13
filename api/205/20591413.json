@@ -1,6 +1,6 @@
 {
   "facility_code": "20591413",
-  "institution": "Norfolk Southern Railroad",
+  "institution": "NORFOLK SOUTHERN RAILROAD",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60617",
-  "email": true
+  "ope": null
 }

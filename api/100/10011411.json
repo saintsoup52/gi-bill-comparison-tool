@@ -1,6 +1,6 @@
 {
   "facility_code": "10011411",
-  "institution": "Dougherty County Police Department",
+  "institution": "DOUGHERTY COUNTY POLICE DEPARTMENT",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31707",
-  "email": true
+  "ope": null
 }

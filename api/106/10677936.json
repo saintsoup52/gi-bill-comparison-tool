@@ -1,6 +1,6 @@
 {
   "facility_code": "10677936",
-  "institution": "Apache Police Department",
+  "institution": "APACHE POLICE DEPARTMENT",
   "city": "Apache",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73006",
-  "email": false
+  "ope": null
 }

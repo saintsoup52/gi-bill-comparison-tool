@@ -1,6 +1,6 @@
 {
   "facility_code": "20996510",
-  "institution": "Florida Power & Light St. Lucie Nuclear Power Station",
+  "institution": "FLORIDA POWER & LIGHT ST. LUCIE NUCLEAR POWER STATION",
   "city": "Jensen Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34957",
-  "email": true
+  "ope": null
 }

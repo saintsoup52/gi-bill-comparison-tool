@@ -1,6 +1,6 @@
 {
   "facility_code": "103B8105",
-  "institution": "California Institution For Women",
+  "institution": "CALIFORNIA INSTITUTION FOR WOMEN",
   "city": "Corona",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92880",
-  "email": false
+  "ope": null
 }

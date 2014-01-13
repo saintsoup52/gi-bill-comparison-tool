@@ -1,6 +1,6 @@
 {
   "facility_code": "31004837",
-  "institution": "Embry-Riddle Aeronautical Univ Portland",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV PORTLAND",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97238",
-  "email": true
+  "ope": "00147900"
 }

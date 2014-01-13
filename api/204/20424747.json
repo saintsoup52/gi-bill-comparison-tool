@@ -1,6 +1,6 @@
 {
   "facility_code": "20424747",
-  "institution": "Energy Northwest",
+  "institution": "ENERGY NORTHWEST",
   "city": "Richland",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99352",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31012505",
-  "institution": "University Of Redlands (Temecula)",
+  "institution": "UNIVERSITY OF REDLANDS (TEMECULA)",
   "city": "Temecula",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92590",
-  "email": false
+  "ope": "00132207"
 }

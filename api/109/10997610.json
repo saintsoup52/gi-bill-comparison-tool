@@ -1,6 +1,6 @@
 {
   "facility_code": "10997610",
-  "institution": "Fort Myers Police Department",
+  "institution": "FORT MYERS POLICE DEPARTMENT",
   "city": "Ft Myers",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33901",
-  "email": true
+  "ope": null
 }

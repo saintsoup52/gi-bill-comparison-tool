@@ -1,6 +1,6 @@
 {
   "facility_code": "10003108",
-  "institution": "Clayton Police Department",
+  "institution": "CLAYTON POLICE DEPARTMENT",
   "city": "Clayton",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19938",
-  "email": false
+  "ope": null
 }

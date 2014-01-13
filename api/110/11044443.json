@@ -1,6 +1,6 @@
 {
   "facility_code": "11044443",
-  "institution": "Uthsc At San Antonio Dept Of Urology",
+  "institution": "UTHSC AT SAN ANTONIO DEPT OF UROLOGY",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78229",
-  "email": false
+  "ope": null
 }

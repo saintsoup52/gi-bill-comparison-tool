@@ -1,6 +1,6 @@
 {
   "facility_code": "10071614",
-  "institution": "Shoals Police Department",
+  "institution": "SHOALS POLICE DEPARTMENT",
   "city": "Shoals",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47580",
-  "email": false
+  "ope": null
 }

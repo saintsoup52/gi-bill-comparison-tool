@@ -1,6 +1,6 @@
 {
   "facility_code": "103B6205",
-  "institution": "Defense Contract Management Agency (Northern California)",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (NORTHERN CALIFORNIA)",
   "city": "French Camp",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95231",
-  "email": false
+  "ope": null
 }

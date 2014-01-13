@@ -1,6 +1,6 @@
 {
   "facility_code": "10850121",
-  "institution": "Beverly Fire Department",
+  "institution": "BEVERLY FIRE DEPARTMENT",
   "city": "Beverly",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1915",
-  "email": true
+  "ope": null
 }

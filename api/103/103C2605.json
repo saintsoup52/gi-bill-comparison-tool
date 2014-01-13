@@ -1,6 +1,6 @@
 {
   "facility_code": "103C2605",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "El Monte",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91731",
-  "email": false
+  "ope": null
 }

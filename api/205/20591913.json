@@ -1,6 +1,6 @@
 {
   "facility_code": "20591913",
-  "institution": "Chicago Midway Air Traffic Control Tower-Faa",
+  "institution": "CHICAGO MIDWAY AIR TRAFFIC CONTROL TOWER-FAA",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60638",
-  "email": true
+  "ope": null
 }

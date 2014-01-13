@@ -1,6 +1,6 @@
 {
   "facility_code": "10028433",
-  "institution": "City Of Asheville Public Works Street Division",
+  "institution": "CITY OF ASHEVILLE PUBLIC WORKS STREET DIVISION",
   "city": "Asheville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28802",
-  "email": true
+  "ope": null
 }

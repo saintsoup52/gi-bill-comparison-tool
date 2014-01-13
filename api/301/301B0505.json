@@ -1,6 +1,6 @@
 {
   "facility_code": "301B0505",
-  "institution": "San Diego Sound Technician Jatc",
+  "institution": "SAN DIEGO SOUND TECHNICIAN JATC",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92123",
-  "email": false
+  "ope": null
 }

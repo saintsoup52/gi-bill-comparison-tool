@@ -1,6 +1,6 @@
 {
   "facility_code": "31817033",
-  "institution": "Duke University",
+  "institution": "DUKE UNIVERSITY",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "27708",
-  "email": true
+  "ope": "00292000"
 }

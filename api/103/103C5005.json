@@ -1,6 +1,6 @@
 {
   "facility_code": "103C5005",
-  "institution": "County Of San Diego Office Of The Public Defender (Ch31 Only)",
+  "institution": "COUNTY OF SAN DIEGO OFFICE OF THE PUBLIC DEFENDER (CH31 ONLY)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92123",
-  "email": false
+  "ope": null
 }

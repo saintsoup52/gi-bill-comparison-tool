@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09532",
-  "institution": "City Of Newburgh Police",
+  "institution": "CITY OF NEWBURGH POLICE",
   "city": "Newburgh",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12550",
-  "email": false
+  "ope": null
 }

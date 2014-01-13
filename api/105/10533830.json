@@ -1,6 +1,6 @@
 {
   "facility_code": "10533830",
-  "institution": "Union Township Police Department",
+  "institution": "UNION TOWNSHIP POLICE DEPARTMENT",
   "city": "Union",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7083",
-  "email": true
+  "ope": null
 }

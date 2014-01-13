@@ -1,6 +1,6 @@
 {
   "facility_code": "10072514",
-  "institution": "Middletown Police Department",
+  "institution": "MIDDLETOWN POLICE DEPARTMENT",
   "city": "Middletown",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57356",
-  "email": false
+  "ope": null
 }

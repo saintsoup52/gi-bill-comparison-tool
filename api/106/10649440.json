@@ -1,6 +1,6 @@
 {
   "facility_code": "10649440",
-  "institution": "Johnston Police Department",
+  "institution": "JOHNSTON POLICE DEPARTMENT",
   "city": "Johnston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29832",
-  "email": false
+  "ope": null
 }

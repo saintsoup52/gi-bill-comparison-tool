@@ -1,6 +1,6 @@
 {
   "facility_code": "31829605",
-  "institution": "Antioch University (Los Angeles)",
+  "institution": "ANTIOCH UNIVERSITY (LOS ANGELES)",
   "city": "Culver City",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90230",
-  "email": false
+  "ope": "00301002"
 }

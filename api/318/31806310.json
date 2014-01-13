@@ -1,6 +1,6 @@
 {
   "facility_code": "31806310",
-  "institution": "Embry-Riddle Aeronautical Univ-Macdill Afb",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV-MACDILL AFB",
   "city": "Macdill Afb",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33608",
-  "email": true
+  "ope": "00147967"
 }

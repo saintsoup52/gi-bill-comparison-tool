@@ -1,6 +1,6 @@
 {
   "facility_code": "20027411",
-  "institution": "Newnan Hospital",
+  "institution": "NEWNAN HOSPITAL",
   "city": "Newnan",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30264",
-  "email": false
+  "ope": null
 }

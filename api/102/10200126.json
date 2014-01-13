@@ -1,6 +1,6 @@
 {
   "facility_code": "10200126",
-  "institution": "Bureau Of Reclamation",
+  "institution": "BUREAU OF RECLAMATION",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59101",
-  "email": true
+  "ope": null
 }

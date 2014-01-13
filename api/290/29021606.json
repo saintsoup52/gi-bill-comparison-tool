@@ -1,6 +1,6 @@
 {
   "facility_code": "29021606",
-  "institution": "Sun Microsystems Solaris",
+  "institution": "SUN MICROSYSTEMS SOLARIS",
   "city": "Broomfield",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80021",
-  "email": "No (SCO)"
+  "ope": null
 }

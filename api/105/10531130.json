@@ -1,6 +1,6 @@
 {
   "facility_code": "10531130",
-  "institution": "Lakehurst Police Department",
+  "institution": "LAKEHURST POLICE DEPARTMENT",
   "city": "Lakehurst",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8733",
-  "email": false
+  "ope": null
 }

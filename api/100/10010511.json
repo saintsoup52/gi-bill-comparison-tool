@@ -1,6 +1,6 @@
 {
   "facility_code": "10010511",
-  "institution": "Georgia State Patrol - Post 21 (Sylvania)",
+  "institution": "GEORGIA STATE PATROL - POST 21 (SYLVANIA)",
   "city": "Sylvania",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30467",
-  "email": false
+  "ope": null
 }

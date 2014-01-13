@@ -1,6 +1,6 @@
 {
   "facility_code": "37000113",
-  "institution": "Wheaton Academy",
+  "institution": "WHEATON ACADEMY",
   "city": "West Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60185",
-  "email": false
+  "ope": null
 }

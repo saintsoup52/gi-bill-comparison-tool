@@ -1,6 +1,6 @@
 {
   "facility_code": "10B74535",
-  "institution": "Summit County Sheriff'S Department",
+  "institution": "SUMMIT COUNTY SHERIFF'S DEPARTMENT",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44311",
-  "email": false
+  "ope": null
 }

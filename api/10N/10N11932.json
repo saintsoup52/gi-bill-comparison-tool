@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11932",
-  "institution": "Rockland County Sheriff Office",
+  "institution": "ROCKLAND COUNTY SHERIFF OFFICE",
   "city": "New City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10956",
-  "email": true
+  "ope": null
 }

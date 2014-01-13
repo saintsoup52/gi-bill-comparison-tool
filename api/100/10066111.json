@@ -1,6 +1,6 @@
 {
   "facility_code": "10066111",
-  "institution": "Pooler Fire & Rescue",
+  "institution": "POOLER FIRE & RESCUE",
   "city": "Pooler",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31322",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31100525",
-  "institution": "Lindenwood University",
+  "institution": "LINDENWOOD UNIVERSITY",
   "city": "St. Charles",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "63301",
-  "email": false
+  "ope": "00248000"
 }

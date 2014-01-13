@@ -1,6 +1,6 @@
 {
   "facility_code": "20630125",
-  "institution": "Kansas City Power & Light Co.",
+  "institution": "KANSAS CITY POWER & LIGHT CO.",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64120",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10414946",
-  "institution": "Faa Washington Artc Center",
+  "institution": "FAA WASHINGTON ARTC CENTER",
   "city": "Leesburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20176",
-  "email": true
+  "ope": null
 }

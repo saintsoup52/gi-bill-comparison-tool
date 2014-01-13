@@ -1,6 +1,6 @@
 {
   "facility_code": "10011612",
-  "institution": "State Of Idaho - Military Division",
+  "institution": "STATE OF IDAHO - MILITARY DIVISION",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83707",
-  "email": false
+  "ope": null
 }

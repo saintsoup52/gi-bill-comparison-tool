@@ -1,6 +1,6 @@
 {
   "facility_code": "10204116",
-  "institution": "Eudora Police Department",
+  "institution": "EUDORA POLICE DEPARTMENT",
   "city": "Eudora",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66025",
-  "email": false
+  "ope": null
 }

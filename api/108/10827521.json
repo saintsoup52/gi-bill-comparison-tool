@@ -1,6 +1,6 @@
 {
   "facility_code": "10827521",
-  "institution": "Leominster Fire Department",
+  "institution": "LEOMINSTER FIRE DEPARTMENT",
   "city": "Leominster",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1453",
-  "email": true
+  "ope": null
 }

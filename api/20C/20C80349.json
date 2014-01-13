@@ -1,6 +1,6 @@
 {
   "facility_code": "20C80349",
-  "institution": "Curwood-Appelton",
+  "institution": "CURWOOD-APPELTON",
   "city": "Appleton",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54915",
-  "email": false
+  "ope": null
 }

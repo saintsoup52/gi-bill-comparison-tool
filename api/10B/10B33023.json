@@ -1,6 +1,6 @@
 {
   "facility_code": "10B33023",
-  "institution": "Faa Crystal Atct",
+  "institution": "FAA CRYSTAL ATCT",
   "city": "Crystal",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55429",
-  "email": false
+  "ope": null
 }

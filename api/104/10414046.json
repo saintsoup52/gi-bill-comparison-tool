@@ -1,6 +1,6 @@
 {
   "facility_code": "10414046",
-  "institution": "Prince William Adult Detention Center",
+  "institution": "PRINCE WILLIAM ADULT DETENTION CENTER",
   "city": "Manassas",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20110",
-  "email": true
+  "ope": null
 }

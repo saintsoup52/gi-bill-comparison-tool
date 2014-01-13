@@ -1,6 +1,6 @@
 {
   "facility_code": "31003020",
-  "institution": "Florida Institute Of Technology",
+  "institution": "FLORIDA INSTITUTE OF TECHNOLOGY",
   "city": "Aberdeen Proving Ground",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21005",
-  "email": true
+  "ope": "00146901"
 }

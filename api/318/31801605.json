@@ -1,6 +1,6 @@
 {
   "facility_code": "31801605",
-  "institution": "Embry-Riddle Aeronautical Univ (Long Beach)",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV (LONG BEACH)",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90815",
-  "email": true
+  "ope": "00147900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10596013",
-  "institution": "Montgomery County Sheriff'S Office",
+  "institution": "MONTGOMERY COUNTY SHERIFF'S OFFICE",
   "city": "Hillsboro",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62049",
-  "email": false
+  "ope": null
 }

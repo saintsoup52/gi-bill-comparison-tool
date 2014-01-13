@@ -1,6 +1,6 @@
 {
   "facility_code": "10573313",
-  "institution": "Livingston County Sheriff'S Department",
+  "institution": "LIVINGSTON COUNTY SHERIFF'S DEPARTMENT",
   "city": "Pontiac",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61764",
-  "email": true
+  "ope": null
 }

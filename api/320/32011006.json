@@ -1,6 +1,6 @@
 {
   "facility_code": "32011006",
-  "institution": "The Children'S Hospital - Graduate Medical Education",
+  "institution": "THE CHILDREN'S HOSPITAL - GRADUATE MEDICAL EDUCATION",
   "city": "Aurora",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80045",
-  "email": true
+  "ope": null
 }

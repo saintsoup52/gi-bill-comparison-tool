@@ -1,6 +1,6 @@
 {
   "facility_code": "20810730",
-  "institution": "Verizon",
+  "institution": "VERIZON",
   "city": "Berlin",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8009",
-  "email": true
+  "ope": null
 }

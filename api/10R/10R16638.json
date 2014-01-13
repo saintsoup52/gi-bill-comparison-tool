@@ -1,6 +1,6 @@
 {
   "facility_code": "10R16638",
-  "institution": "Defense Contract Management Agency",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15206",
-  "email": false
+  "ope": null
 }

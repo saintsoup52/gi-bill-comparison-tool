@@ -1,6 +1,6 @@
 {
   "facility_code": "19000220",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21235",
-  "email": false
+  "ope": null
 }

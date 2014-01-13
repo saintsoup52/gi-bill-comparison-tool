@@ -1,6 +1,6 @@
 {
   "facility_code": "101B1405",
-  "institution": "City Of Fontana Police Dept.",
+  "institution": "CITY OF FONTANA POLICE DEPT.",
   "city": "Fontana",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92335",
-  "email": false
+  "ope": null
 }

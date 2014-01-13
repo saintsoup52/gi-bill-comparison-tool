@@ -1,6 +1,6 @@
 {
   "facility_code": "10R19738",
-  "institution": "Lancaster City Bureau Police",
+  "institution": "LANCASTER CITY BUREAU POLICE",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17603",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B05223",
-  "institution": "Qwest Communications Room 890",
+  "institution": "QWEST COMMUNICATIONS ROOM 890",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55402",
-  "email": false
+  "ope": null
 }

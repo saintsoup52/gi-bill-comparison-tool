@@ -1,6 +1,6 @@
 {
   "facility_code": "31818133",
-  "institution": "Embry-Riddle Aeronautical University - Greensboro Teaching Site",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY - GREENSBORO TEACHING SITE",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27409",
-  "email": true
+  "ope": "00147900"
 }

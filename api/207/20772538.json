@@ -1,6 +1,6 @@
 {
   "facility_code": "20772538",
-  "institution": "Ibew Lu #5 Jac Pgh Div  W Pa Ch Neca",
+  "institution": "IBEW LU #5 JAC PGH DIV  W PA CH NECA",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15203",
-  "email": true
+  "ope": null
 }

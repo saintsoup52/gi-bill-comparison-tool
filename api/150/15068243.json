@@ -1,6 +1,6 @@
 {
   "facility_code": "15068243",
-  "institution": "Train Usa",
+  "institution": "TRAIN USA",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75243",
-  "email": false
+  "ope": null
 }

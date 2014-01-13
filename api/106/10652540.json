@@ -1,6 +1,6 @@
 {
   "facility_code": "10652540",
-  "institution": "The Citadel Dept Of Public Safety/Law Enforcement",
+  "institution": "THE CITADEL DEPT OF PUBLIC SAFETY/LAW ENFORCEMENT",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29409",
-  "email": false
+  "ope": null
 }

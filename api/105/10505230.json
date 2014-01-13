@@ -1,6 +1,6 @@
 {
   "facility_code": "10505230",
-  "institution": "Clinton Police Department",
+  "institution": "CLINTON POLICE DEPARTMENT",
   "city": "Annandale",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8801",
-  "email": true
+  "ope": null
 }

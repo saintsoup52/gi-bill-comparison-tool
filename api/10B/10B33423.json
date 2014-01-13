@@ -1,6 +1,6 @@
 {
   "facility_code": "10B33423",
-  "institution": "Faa Minneapolis Artcc",
+  "institution": "FAA MINNEAPOLIS ARTCC",
   "city": "Farmington",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55024",
-  "email": false
+  "ope": null
 }

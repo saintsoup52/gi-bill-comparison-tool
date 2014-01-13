@@ -1,6 +1,6 @@
 {
   "facility_code": "10W45538",
-  "institution": "Indiana Borough Police Department",
+  "institution": "INDIANA BOROUGH POLICE DEPARTMENT",
   "city": "Indiana",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15701",
-  "email": false
+  "ope": null
 }

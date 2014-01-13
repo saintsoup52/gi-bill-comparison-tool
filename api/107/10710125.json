@@ -1,6 +1,6 @@
 {
   "facility_code": "10710125",
-  "institution": "Bolivar Police Department",
+  "institution": "BOLIVAR POLICE DEPARTMENT",
   "city": "Bolivar",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65613",
-  "email": false
+  "ope": null
 }

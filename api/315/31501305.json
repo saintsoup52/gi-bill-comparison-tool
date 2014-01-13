@@ -1,6 +1,6 @@
 {
   "facility_code": "31501305",
-  "institution": "Art Center College Of Design",
+  "institution": "ART CENTER COLLEGE OF DESIGN",
   "city": "Pasadena",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "91103",
-  "email": false
+  "ope": "00111600"
 }

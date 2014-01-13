@@ -1,6 +1,6 @@
 {
   "facility_code": "10700913",
-  "institution": "Illinois State Police Dist. 6",
+  "institution": "ILLINOIS STATE POLICE DIST. 6",
   "city": "Pontiac",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61764",
-  "email": true
+  "ope": null
 }

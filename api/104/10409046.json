@@ -1,6 +1,6 @@
 {
   "facility_code": "10409046",
-  "institution": "Amherst Sheriff'S Office",
+  "institution": "AMHERST SHERIFF'S OFFICE",
   "city": "Amherst",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24521",
-  "email": false
+  "ope": null
 }

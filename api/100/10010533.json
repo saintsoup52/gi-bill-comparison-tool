@@ -1,6 +1,6 @@
 {
   "facility_code": "10010533",
-  "institution": "City Of Raleigh Fire Department",
+  "institution": "CITY OF RALEIGH FIRE DEPARTMENT",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27601",
-  "email": true
+  "ope": null
 }

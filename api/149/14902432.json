@@ -1,6 +1,6 @@
 {
   "facility_code": "14902432",
-  "institution": "Hostos Community College",
+  "institution": "HOSTOS COMMUNITY COLLEGE",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "10451",
-  "email": true
+  "ope": "00861100"
 }

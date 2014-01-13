@@ -1,6 +1,6 @@
 {
   "facility_code": "11915105",
-  "institution": "California State University-Bakersfield",
+  "institution": "CALIFORNIA STATE UNIVERSITY-BAKERSFIELD",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93311",
-  "email": false
+  "ope": "00799300"
 }

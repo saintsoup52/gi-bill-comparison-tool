@@ -1,6 +1,6 @@
 {
   "facility_code": "20B03023",
-  "institution": "Archer Daniels Midland Co",
+  "institution": "ARCHER DANIELS MIDLAND CO",
   "city": "Mankato",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56001",
-  "email": false
+  "ope": null
 }

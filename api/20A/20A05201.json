@@ -1,6 +1,6 @@
 {
   "facility_code": "20A05201",
-  "institution": "Harley-Davidson",
+  "institution": "HARLEY-DAVIDSON",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36117",
-  "email": true
+  "ope": null
 }

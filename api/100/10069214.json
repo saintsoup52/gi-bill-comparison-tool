@@ -1,6 +1,6 @@
 {
   "facility_code": "10069214",
-  "institution": "Highland Police Department",
+  "institution": "HIGHLAND POLICE DEPARTMENT",
   "city": "Highland",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46322",
-  "email": false
+  "ope": null
 }

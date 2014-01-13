@@ -1,6 +1,6 @@
 {
   "facility_code": "10454747",
-  "institution": "Coulee Dam Police Department",
+  "institution": "COULEE DAM POLICE DEPARTMENT",
   "city": "Coulee Dam",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99116",
-  "email": true
+  "ope": null
 }

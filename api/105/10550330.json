@@ -1,6 +1,6 @@
 {
   "facility_code": "10550330",
-  "institution": "Scotch Plains Police Department",
+  "institution": "SCOTCH PLAINS POLICE DEPARTMENT",
   "city": "Scotch Plains",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7076",
-  "email": false
+  "ope": null
 }

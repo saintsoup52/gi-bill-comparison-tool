@@ -1,6 +1,6 @@
 {
   "facility_code": "14911426",
-  "institution": "Missoula College - University Of Montana",
+  "institution": "MISSOULA COLLEGE - UNIVERSITY OF MONTANA",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "59801",
-  "email": true
+  "ope": "00253600"
 }

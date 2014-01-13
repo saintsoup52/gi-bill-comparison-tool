@@ -1,6 +1,6 @@
 {
   "facility_code": "31101399",
-  "institution": "University Of Waikato",
+  "institution": "UNIVERSITY OF WAIKATO",
   "city": "Hamilton",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

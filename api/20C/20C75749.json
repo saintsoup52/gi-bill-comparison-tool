@@ -1,6 +1,6 @@
 {
   "facility_code": "20C75749",
-  "institution": "Weber Machine Corporation",
+  "institution": "WEBER MACHINE CORPORATION",
   "city": "Oshkosh",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54901",
-  "email": false
+  "ope": null
 }

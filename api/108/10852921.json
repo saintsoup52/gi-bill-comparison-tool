@@ -1,6 +1,6 @@
 {
   "facility_code": "10852921",
-  "institution": "Faa Nantucket Air Traffic Control Tower",
+  "institution": "FAA NANTUCKET AIR TRAFFIC CONTROL TOWER",
   "city": "Nantucket",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2554",
-  "email": true
+  "ope": null
 }

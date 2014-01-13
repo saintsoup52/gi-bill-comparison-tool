@@ -1,6 +1,6 @@
 {
   "facility_code": "10000211",
-  "institution": "Waycross Regional Youth Development Center",
+  "institution": "WAYCROSS REGIONAL YOUTH DEVELOPMENT CENTER",
   "city": "Waycross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31503",
-  "email": false
+  "ope": null
 }

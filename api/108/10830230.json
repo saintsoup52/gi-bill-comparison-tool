@@ -1,6 +1,6 @@
 {
   "facility_code": "10830230",
-  "institution": "State Of New Jersey Park Service",
+  "institution": "STATE OF NEW JERSEY PARK SERVICE",
   "city": "Sussex",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7461",
-  "email": false
+  "ope": null
 }

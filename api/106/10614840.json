@@ -1,6 +1,6 @@
 {
   "facility_code": "10614840",
-  "institution": "Great Falls Police Dept.",
+  "institution": "GREAT FALLS POLICE DEPT.",
   "city": "Great Falls",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29055",
-  "email": false
+  "ope": null
 }

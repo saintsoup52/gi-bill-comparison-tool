@@ -1,6 +1,6 @@
 {
   "facility_code": "10004811",
-  "institution": "Georgia Dept Of Human Resources/Div Of Rehabilitation Services",
+  "institution": "GEORGIA DEPT OF HUMAN RESOURCES/DIV OF REHABILITATION SERVICES",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31902",
-  "email": false
+  "ope": null
 }

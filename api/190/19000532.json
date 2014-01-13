@@ -1,6 +1,6 @@
 {
   "facility_code": "19000532",
-  "institution": "Va Western Ny Healthcare System",
+  "institution": "VA WESTERN NY HEALTHCARE SYSTEM",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14215",
-  "email": false
+  "ope": null
 }

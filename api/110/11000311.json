@@ -1,6 +1,6 @@
 {
   "facility_code": "11000311",
-  "institution": "Atlanta Medical Center - Graduate Medical Education",
+  "institution": "ATLANTA MEDICAL CENTER - GRADUATE MEDICAL EDUCATION",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30312",
-  "email": true
+  "ope": null
 }

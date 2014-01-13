@@ -1,6 +1,6 @@
 {
   "facility_code": "20273904",
-  "institution": "Entergy Nuclear Security (Old Name Wackenhut Corp)",
+  "institution": "ENTERGY NUCLEAR SECURITY (OLD NAME WACKENHUT CORP)",
   "city": "Russellville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72802",
-  "email": false
+  "ope": null
 }

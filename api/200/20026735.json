@@ -1,6 +1,6 @@
 {
   "facility_code": "20026735",
-  "institution": "Gm Powertrain-Toledo   K",
+  "institution": "GM POWERTRAIN-TOLEDO   K",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43612",
-  "email": true
+  "ope": null
 }

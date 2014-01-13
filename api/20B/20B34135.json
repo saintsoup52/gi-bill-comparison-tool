@@ -1,6 +1,6 @@
 {
   "facility_code": "20B34135",
-  "institution": "Detroit Diesel Allison Moraine Eng Plant Div Gmc K",
+  "institution": "DETROIT DIESEL ALLISON MORAINE ENG PLANT DIV GMC K",
   "city": "Moraine",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45439",
-  "email": false
+  "ope": null
 }

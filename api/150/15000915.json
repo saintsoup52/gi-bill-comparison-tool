@@ -1,6 +1,6 @@
 {
   "facility_code": "15000915",
-  "institution": "East High School",
+  "institution": "EAST HIGH SCHOOL",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50316",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002511",
-  "institution": "Thomas University",
+  "institution": "THOMAS UNIVERSITY",
   "city": "Thomasville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "31792",
-  "email": true
+  "ope": "00155500"
 }

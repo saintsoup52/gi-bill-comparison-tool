@@ -1,6 +1,6 @@
 {
   "facility_code": "15073243",
-  "institution": "Dallas Police Dept Trng Acad",
+  "institution": "DALLAS POLICE DEPT TRNG ACAD",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75237",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10597213",
-  "institution": "Naperville Fire Department",
+  "institution": "NAPERVILLE FIRE DEPARTMENT",
   "city": "Naperville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60540",
-  "email": true
+  "ope": null
 }

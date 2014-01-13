@@ -1,6 +1,6 @@
 {
   "facility_code": "20044702",
-  "institution": "Tongass Marine (Ch31)",
+  "institution": "TONGASS MARINE (CH31)",
   "city": "Petersburg",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99833",
-  "email": false
+  "ope": null
 }

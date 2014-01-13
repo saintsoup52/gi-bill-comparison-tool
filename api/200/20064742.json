@@ -1,6 +1,6 @@
 {
   "facility_code": "20064742",
-  "institution": "Sheet Metal Workers Local #4",
+  "institution": "SHEET METAL WORKERS LOCAL #4",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38104",
-  "email": false
+  "ope": null
 }

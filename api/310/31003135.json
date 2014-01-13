@@ -1,6 +1,6 @@
 {
   "facility_code": "31003135",
-  "institution": "Otterbein University",
+  "institution": "OTTERBEIN UNIVERSITY",
   "city": "Westerville",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "43081",
-  "email": false
+  "ope": "00311000"
 }

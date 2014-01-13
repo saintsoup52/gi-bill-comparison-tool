@@ -1,6 +1,6 @@
 {
   "facility_code": "10A76606",
-  "institution": "Colorado Springs Police Department",
+  "institution": "COLORADO SPRINGS POLICE DEPARTMENT",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80915",
-  "email": true
+  "ope": null
 }

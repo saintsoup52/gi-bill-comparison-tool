@@ -1,6 +1,6 @@
 {
   "facility_code": "10000412",
-  "institution": "Mountain Home Police Dept",
+  "institution": "MOUNTAIN HOME POLICE DEPT",
   "city": "Mountain Home",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83647",
-  "email": false
+  "ope": null
 }

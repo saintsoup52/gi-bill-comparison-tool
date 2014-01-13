@@ -1,6 +1,6 @@
 {
   "facility_code": "25023903",
-  "institution": "National Laser Institute",
+  "institution": "NATIONAL LASER INSTITUTE",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85260",
-  "email": false
+  "ope": null
 }

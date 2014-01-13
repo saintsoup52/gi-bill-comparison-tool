@@ -1,6 +1,6 @@
 {
   "facility_code": "31117880",
-  "institution": "Fachschule Fur Techniker Der Stadt Erlangen",
+  "institution": "FACHSCHULE FUR TECHNIKER DER STADT ERLANGEN",
   "city": "91052 Erlangen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

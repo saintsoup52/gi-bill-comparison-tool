@@ -1,6 +1,6 @@
 {
   "facility_code": "10B94635",
-  "institution": "Federal Correctional Institution",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION",
   "city": "Elkton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44415",
-  "email": false
+  "ope": null
 }

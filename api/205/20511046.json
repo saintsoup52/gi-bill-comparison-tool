@@ -1,6 +1,6 @@
 {
   "facility_code": "20511046",
-  "institution": "Amsec Llc",
+  "institution": "AMSEC LLC",
   "city": "Virginia Beach",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23462",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25751805",
-  "institution": "California Vocational College",
+  "institution": "CALIFORNIA VOCATIONAL COLLEGE",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94121",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25001311",
-  "institution": "First Step Health Agency",
+  "institution": "FIRST STEP HEALTH AGENCY",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31907",
-  "email": true
+  "ope": null
 }

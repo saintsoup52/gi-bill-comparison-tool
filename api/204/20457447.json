@@ -1,6 +1,6 @@
 {
   "facility_code": "20457447",
-  "institution": "Pce Pacific",
+  "institution": "PCE PACIFIC",
   "city": "Bothell",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98021",
-  "email": true
+  "ope": null
 }

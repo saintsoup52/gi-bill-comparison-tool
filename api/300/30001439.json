@@ -1,6 +1,6 @@
 {
   "facility_code": "30001439",
-  "institution": "Ibew Local 99 Jatc",
+  "institution": "IBEW LOCAL 99 JATC",
   "city": "Cranston",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2921",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20012745",
-  "institution": "Washington Electric",
+  "institution": "WASHINGTON ELECTRIC",
   "city": "E Montpelier",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5651",
-  "email": true
+  "ope": null
 }

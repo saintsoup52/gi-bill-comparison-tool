@@ -1,6 +1,6 @@
 {
   "facility_code": "102B0205",
-  "institution": "Federal Correctional Institution (Dublin)",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION (DUBLIN)",
   "city": "Dublin",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94568",
-  "email": false
+  "ope": null
 }

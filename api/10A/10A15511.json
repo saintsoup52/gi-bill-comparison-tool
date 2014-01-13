@@ -1,6 +1,6 @@
 {
   "facility_code": "10A15511",
-  "institution": "Swainsboro Police Department",
+  "institution": "SWAINSBORO POLICE DEPARTMENT",
   "city": "Swainsboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30401",
-  "email": false
+  "ope": null
 }

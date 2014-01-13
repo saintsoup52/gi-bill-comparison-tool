@@ -1,6 +1,6 @@
 {
   "facility_code": "20600013",
-  "institution": "Wigdahl Electric Company",
+  "institution": "WIGDAHL ELECTRIC COMPANY",
   "city": "Elk Grove Village",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60007",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32017330",
-  "institution": "Cooper Hospital/University Medical Center",
+  "institution": "COOPER HOSPITAL/UNIVERSITY MEDICAL CENTER",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "8103",
-  "email": false
+  "ope": "02248600"
 }

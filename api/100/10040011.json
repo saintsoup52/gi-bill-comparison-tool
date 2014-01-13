@@ -1,6 +1,6 @@
 {
   "facility_code": "10040011",
-  "institution": "Georgia State Patrol - Post 33 (Milledgeville)",
+  "institution": "GEORGIA STATE PATROL - POST 33 (MILLEDGEVILLE)",
   "city": "Milledgeville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31061",
-  "email": false
+  "ope": null
 }

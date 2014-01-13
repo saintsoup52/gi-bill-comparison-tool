@@ -1,6 +1,6 @@
 {
   "facility_code": "20501648",
-  "institution": "Schlumberger Ltd",
+  "institution": "SCHLUMBERGER LTD",
   "city": "Weston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26452",
-  "email": true
+  "ope": null
 }

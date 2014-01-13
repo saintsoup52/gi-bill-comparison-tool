@@ -1,6 +1,6 @@
 {
   "facility_code": "10121431",
-  "institution": "New Mexico Department Of Veterans Services",
+  "institution": "NEW MEXICO DEPARTMENT OF VETERANS SERVICES",
   "city": "Santa Fe",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87504",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20800607",
-  "institution": "Tom'S Plumbing",
+  "institution": "TOM'S PLUMBING",
   "city": "Gales Ferry",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6335",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10501615",
-  "institution": "Atlantic Police Department",
+  "institution": "ATLANTIC POLICE DEPARTMENT",
   "city": "Atlantic",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50022",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20A16711",
-  "institution": "Service Loan Company",
+  "institution": "SERVICE LOAN COMPANY",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31201",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D19238",
-  "institution": "Northeastern Regional Police Department",
+  "institution": "NORTHEASTERN REGIONAL POLICE DEPARTMENT",
   "city": "Mt Wolf",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17347",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002903",
-  "institution": "Embry-Riddle Aeronautical University - Fort Huachuca",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY - FORT HUACHUCA",
   "city": "Fort Huachuca",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85613",
-  "email": false
+  "ope": null
 }

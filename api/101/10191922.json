@@ -1,6 +1,6 @@
 {
   "facility_code": "10191922",
-  "institution": "Faa-Dot/Faa Saginaw Air Traffice Control Tower",
+  "institution": "FAA-DOT/FAA SAGINAW AIR TRAFFICE CONTROL TOWER",
   "city": "Freeland",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48623",
-  "email": true
+  "ope": null
 }

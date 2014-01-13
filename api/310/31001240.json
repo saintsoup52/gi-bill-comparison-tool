@@ -1,6 +1,6 @@
 {
   "facility_code": "31001240",
-  "institution": "Springfield College",
+  "institution": "SPRINGFIELD COLLEGE",
   "city": "North Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29405",
-  "email": true
+  "ope": "00221112"
 }

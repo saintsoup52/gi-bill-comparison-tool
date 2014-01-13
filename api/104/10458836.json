@@ -1,6 +1,6 @@
 {
   "facility_code": "10458836",
-  "institution": "Lawton Correctional Facility",
+  "institution": "LAWTON CORRECTIONAL FACILITY",
   "city": "Lawton",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73501",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15000508",
-  "institution": "Wilmington Police Academy",
+  "institution": "WILMINGTON POLICE ACADEMY",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19801",
-  "email": true
+  "ope": null
 }

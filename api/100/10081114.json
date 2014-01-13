@@ -1,6 +1,6 @@
 {
   "facility_code": "10081114",
-  "institution": "Federal Aviation Administration Artcc Service Operations Center",
+  "institution": "FEDERAL AVIATION ADMINISTRATION ARTCC SERVICE OPERATIONS CENTER",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46241",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10566730",
-  "institution": "Boonton Township Police Department",
+  "institution": "BOONTON TOWNSHIP POLICE DEPARTMENT",
   "city": "Boonton Township",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7005",
-  "email": false
+  "ope": null
 }

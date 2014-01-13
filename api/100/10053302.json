@@ -1,6 +1,6 @@
 {
   "facility_code": "10053302",
-  "institution": "Valdez Police Department",
+  "institution": "VALDEZ POLICE DEPARTMENT",
   "city": "Valdez",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99686",
-  "email": false
+  "ope": null
 }

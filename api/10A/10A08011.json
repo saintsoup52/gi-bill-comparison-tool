@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08011",
-  "institution": "Al Burruss Correctional Training Ctr",
+  "institution": "AL BURRUSS CORRECTIONAL TRAINING CTR",
   "city": "Forsyth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31029",
-  "email": false
+  "ope": null
 }

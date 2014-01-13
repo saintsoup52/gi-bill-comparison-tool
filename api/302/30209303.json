@@ -1,6 +1,6 @@
 {
   "facility_code": "30209303",
-  "institution": "Ymca Glendale (Chapter 31 Only)",
+  "institution": "YMCA GLENDALE (CHAPTER 31 ONLY)",
   "city": "Glendale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85306",
-  "email": false
+  "ope": null
 }

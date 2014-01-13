@@ -1,6 +1,6 @@
 {
   "facility_code": "20C02443",
-  "institution": "Shell Pipeline Company Lp",
+  "institution": "SHELL PIPELINE COMPANY LP",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77002",
-  "email": false
+  "ope": null
 }

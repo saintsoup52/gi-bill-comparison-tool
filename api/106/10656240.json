@@ -1,6 +1,6 @@
 {
   "facility_code": "10656240",
-  "institution": "Federal Aviation Administration (Faa) Columbia Airport",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) COLUMBIA AIRPORT",
   "city": "West Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29170",
-  "email": true
+  "ope": null
 }

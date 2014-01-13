@@ -1,6 +1,6 @@
 {
   "facility_code": "10629940",
-  "institution": "Columbia Police Department",
+  "institution": "COLUMBIA POLICE DEPARTMENT",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29201",
-  "email": false
+  "ope": null
 }

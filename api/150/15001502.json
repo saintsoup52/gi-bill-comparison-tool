@@ -1,6 +1,6 @@
 {
   "facility_code": "15001502",
-  "institution": "Homer High School",
+  "institution": "HOMER HIGH SCHOOL",
   "city": "Homer",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99603",
-  "email": false
+  "ope": null
 }

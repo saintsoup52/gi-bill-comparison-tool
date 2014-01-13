@@ -1,6 +1,6 @@
 {
   "facility_code": "32907338",
-  "institution": "Comprehensive Breast Center Bryn Mawr Hospital",
+  "institution": "COMPREHENSIVE BREAST CENTER BRYN MAWR HOSPITAL",
   "city": "Bryn Mawr",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19010",
-  "email": true
+  "ope": null
 }

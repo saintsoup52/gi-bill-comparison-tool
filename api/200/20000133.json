@@ -1,6 +1,6 @@
 {
   "facility_code": "20000133",
-  "institution": "M B Haynes Corporation",
+  "institution": "M B HAYNES CORPORATION",
   "city": "Asheville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28816",
-  "email": true
+  "ope": null
 }

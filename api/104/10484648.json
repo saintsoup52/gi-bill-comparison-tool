@@ -1,6 +1,6 @@
 {
   "facility_code": "10484648",
-  "institution": "Faa Huntington Hts Atct (Faa Air Traffic Controller)",
+  "institution": "FAA HUNTINGTON HTS ATCT (FAA AIR TRAFFIC CONTROLLER)",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25704",
-  "email": true
+  "ope": null
 }

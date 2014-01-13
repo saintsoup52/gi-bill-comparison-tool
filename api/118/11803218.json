@@ -1,6 +1,6 @@
 {
   "facility_code": "11803218",
-  "institution": "University Of Louisiana At Monroe",
+  "institution": "UNIVERSITY OF LOUISIANA AT MONROE",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71209",
-  "email": false
+  "ope": "00202000"
 }

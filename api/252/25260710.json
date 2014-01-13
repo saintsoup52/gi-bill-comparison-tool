@@ -1,6 +1,6 @@
 {
   "facility_code": "25260710",
-  "institution": "Jacobs Flight Services",
+  "institution": "JACOBS FLIGHT SERVICES",
   "city": "Clewiston",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33440",
-  "email": true
+  "ope": null
 }

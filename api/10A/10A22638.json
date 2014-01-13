@@ -1,6 +1,6 @@
 {
   "facility_code": "10A22638",
-  "institution": "Department Of Corrections - Graterford",
+  "institution": "DEPARTMENT OF CORRECTIONS - GRATERFORD",
   "city": "Graterford",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19426",
-  "email": true
+  "ope": null
 }

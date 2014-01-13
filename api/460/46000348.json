@@ -1,6 +1,6 @@
 {
   "facility_code": "46000348",
-  "institution": "West Virginia State Fire Marshal'S Office",
+  "institution": "WEST VIRGINIA STATE FIRE MARSHAL'S OFFICE",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25301",
-  "email": true
+  "ope": null
 }

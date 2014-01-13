@@ -1,6 +1,6 @@
 {
   "facility_code": "10715564",
-  "institution": "Faa Maui Ssc",
+  "institution": "FAA MAUI SSC",
   "city": "Kahului",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96732",
-  "email": true
+  "ope": null
 }

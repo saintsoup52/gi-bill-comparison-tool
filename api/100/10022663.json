@@ -1,6 +1,6 @@
 {
   "facility_code": "10022663",
-  "institution": "Commonwealth Of Pr Ponce Human Resources",
+  "institution": "COMMONWEALTH OF PR PONCE HUMAN RESOURCES",
   "city": "Ponce",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "733",
-  "email": false
+  "ope": null
 }

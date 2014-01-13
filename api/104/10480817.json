@@ -1,6 +1,6 @@
 {
   "facility_code": "10480817",
-  "institution": "Cloverport Police Department",
+  "institution": "CLOVERPORT POLICE DEPARTMENT",
   "city": "Cloverport",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40111",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10211816",
-  "institution": "Kansas Commission On Veterans Affairs",
+  "institution": "KANSAS COMMISSION ON VETERANS AFFAIRS",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66603",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20490046",
-  "institution": "City Of Portsmouth Commonwealth Atty",
+  "institution": "CITY OF PORTSMOUTH COMMONWEALTH ATTY",
   "city": "Portsmouth",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23705",
-  "email": false
+  "ope": null
 }

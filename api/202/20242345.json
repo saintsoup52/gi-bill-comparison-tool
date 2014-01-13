@@ -1,6 +1,6 @@
 {
   "facility_code": "20242345",
-  "institution": "The Lane Press",
+  "institution": "THE LANE PRESS",
   "city": "South Burlington",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5403",
-  "email": false
+  "ope": null
 }

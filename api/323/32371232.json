@@ -1,6 +1,6 @@
 {
   "facility_code": "32371232",
-  "institution": "Bronx Lebanon Hospital Center",
+  "institution": "BRONX LEBANON HOSPITAL CENTER",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10457",
-  "email": false
+  "ope": null
 }

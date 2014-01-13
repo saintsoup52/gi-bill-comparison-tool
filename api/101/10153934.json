@@ -1,6 +1,6 @@
 {
   "facility_code": "10153934",
-  "institution": "Federal Aviation Admin - Hector Airport",
+  "institution": "FEDERAL AVIATION ADMIN - HECTOR AIRPORT",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58102",
-  "email": false
+  "ope": null
 }

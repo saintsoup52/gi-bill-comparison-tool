@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06701",
-  "institution": "Cpac Human Resources Dept.",
+  "institution": "CPAC HUMAN RESOURCES DEPT.",
   "city": "Redstone Arsenal",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35898",
-  "email": false
+  "ope": null
 }

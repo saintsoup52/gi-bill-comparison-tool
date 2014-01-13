@@ -1,6 +1,6 @@
 {
   "facility_code": "10988910",
-  "institution": "Collier County Sheriff'S Office",
+  "institution": "COLLIER COUNTY SHERIFF'S OFFICE",
   "city": "Naples",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34112",
-  "email": false
+  "ope": null
 }

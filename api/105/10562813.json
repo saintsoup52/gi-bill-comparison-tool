@@ -1,6 +1,6 @@
 {
   "facility_code": "10562813",
-  "institution": "Alton Police Department",
+  "institution": "ALTON POLICE DEPARTMENT",
   "city": "Alton",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62002",
-  "email": true
+  "ope": null
 }

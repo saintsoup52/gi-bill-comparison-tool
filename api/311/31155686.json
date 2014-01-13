@@ -1,6 +1,6 @@
 {
   "facility_code": "31155686",
-  "institution": "Instituto Tecnologico Y De Estudios Superiores",
+  "institution": "INSTITUTO TECNOLOGICO Y DE ESTUDIOS SUPERIORES",
   "city": " Monterrey",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

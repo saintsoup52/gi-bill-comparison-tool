@@ -1,6 +1,6 @@
 {
   "facility_code": "10570413",
-  "institution": "University Of Illinois-Champaign Police",
+  "institution": "UNIVERSITY OF ILLINOIS-CHAMPAIGN POLICE",
   "city": "Urbana",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61801",
-  "email": false
+  "ope": null
 }

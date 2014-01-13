@@ -1,6 +1,6 @@
 {
   "facility_code": "10624125",
-  "institution": "Jefferson County Sheriff'S Dept.",
+  "institution": "JEFFERSON COUNTY SHERIFF'S DEPT.",
   "city": "Hillsboro",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63050",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15000815",
-  "institution": "Perry High School",
+  "institution": "PERRY HIGH SCHOOL",
   "city": "Perry",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50220",
-  "email": false
+  "ope": null
 }

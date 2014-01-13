@@ -1,6 +1,6 @@
 {
   "facility_code": "25105331",
-  "institution": "Las Cruces Police Department Academy",
+  "institution": "LAS CRUCES POLICE DEPARTMENT ACADEMY",
   "city": "Las Cruces",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88001",
-  "email": true
+  "ope": null
 }

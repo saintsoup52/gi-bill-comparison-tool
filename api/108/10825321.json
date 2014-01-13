@@ -1,6 +1,6 @@
 {
   "facility_code": "10825321",
-  "institution": "Lowell Fire Department",
+  "institution": "LOWELL FIRE DEPARTMENT",
   "city": "Lowell",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1852",
-  "email": false
+  "ope": null
 }

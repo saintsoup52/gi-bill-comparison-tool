@@ -1,6 +1,6 @@
 {
   "facility_code": "29000038",
-  "institution": "Carlos Serrano",
+  "institution": "CARLOS SERRANO",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19148",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20A99823",
-  "institution": "Burlington Northern & Santa Fe - Se Mpls",
+  "institution": "BURLINGTON NORTHERN & SANTA FE - SE MPLS",
   "city": "Miinneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55414",
-  "email": false
+  "ope": null
 }

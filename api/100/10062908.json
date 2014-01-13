@@ -1,6 +1,6 @@
 {
   "facility_code": "10062908",
-  "institution": "Delaware State Police",
+  "institution": "DELAWARE STATE POLICE",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19901",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10602740",
-  "institution": "J Reuben Long Detention Center",
+  "institution": "J REUBEN LONG DETENTION CENTER",
   "city": "Conway",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29526",
-  "email": false
+  "ope": null
 }

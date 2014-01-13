@@ -1,6 +1,6 @@
 {
   "facility_code": "20004203",
-  "institution": "Salt River Project (Appr)",
+  "institution": "SALT RIVER PROJECT (APPR)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85072",
-  "email": false
+  "ope": null
 }

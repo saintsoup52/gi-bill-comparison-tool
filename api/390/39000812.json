@@ -1,6 +1,6 @@
 {
   "facility_code": "39000812",
-  "institution": "United Cerebral Palsy (Ch 31)",
+  "institution": "UNITED CEREBRAL PALSY (CH 31)",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83705",
-  "email": false
+  "ope": null
 }

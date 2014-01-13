@@ -1,6 +1,6 @@
 {
   "facility_code": "10J00138",
-  "institution": "Reading Police Department",
+  "institution": "READING POLICE DEPARTMENT",
   "city": "Reading",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19601",
-  "email": true
+  "ope": null
 }

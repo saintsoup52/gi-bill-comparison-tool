@@ -1,6 +1,6 @@
 {
   "facility_code": "11200280",
-  "institution": "Universitity Of Hohenheim",
+  "institution": "UNIVERSITITY OF HOHENHEIM",
   "city": "Stuttgart",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

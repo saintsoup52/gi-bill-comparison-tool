@@ -1,6 +1,6 @@
 {
   "facility_code": "10993610",
-  "institution": "Port Orange Police Department",
+  "institution": "PORT ORANGE POLICE DEPARTMENT",
   "city": "Port Orange",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32129",
-  "email": true
+  "ope": null
 }

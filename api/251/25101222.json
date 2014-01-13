@@ -1,6 +1,6 @@
 {
   "facility_code": "25101222",
-  "institution": "Marquette General Hospital System School Of Emergency Medical Technology",
+  "institution": "MARQUETTE GENERAL HOSPITAL SYSTEM SCHOOL OF EMERGENCY MEDICAL TECHNOLOGY",
   "city": "Marquette",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49855",
-  "email": true
+  "ope": null
 }

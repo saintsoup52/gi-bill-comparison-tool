@@ -1,6 +1,6 @@
 {
   "facility_code": "30048247",
-  "institution": "Operating Engineers Regional Training Program Jatc",
+  "institution": "OPERATING ENGINEERS REGIONAL TRAINING PROGRAM JATC",
   "city": "Ellensburg",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98926",
-  "email": true
+  "ope": null
 }

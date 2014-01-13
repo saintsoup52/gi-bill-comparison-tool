@@ -1,6 +1,6 @@
 {
   "facility_code": "10121231",
-  "institution": "Las Cruces Fire Department",
+  "institution": "LAS CRUCES FIRE DEPARTMENT",
   "city": "Las Cruces",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88001",
-  "email": true
+  "ope": null
 }

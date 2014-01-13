@@ -1,6 +1,6 @@
 {
   "facility_code": "10222703",
-  "institution": "Sierra Vista Police Department",
+  "institution": "SIERRA VISTA POLICE DEPARTMENT",
   "city": "Sierra Vista",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85635",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10481917",
-  "institution": "Harrodsburg Police Department",
+  "institution": "HARRODSBURG POLICE DEPARTMENT",
   "city": "Harrodsburg",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40330",
-  "email": false
+  "ope": null
 }

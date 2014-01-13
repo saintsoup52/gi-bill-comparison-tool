@@ -1,6 +1,6 @@
 {
   "facility_code": "10021231",
-  "institution": "Albuquerque Fire Department",
+  "institution": "ALBUQUERQUE FIRE DEPARTMENT",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87121",
-  "email": true
+  "ope": null
 }

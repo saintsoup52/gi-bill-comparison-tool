@@ -1,6 +1,6 @@
 {
   "facility_code": "10073711",
-  "institution": "Federal Law Enforcement Training Center",
+  "institution": "FEDERAL LAW ENFORCEMENT TRAINING CENTER",
   "city": "Glynco",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31524",
-  "email": false
+  "ope": null
 }

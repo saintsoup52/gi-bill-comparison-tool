@@ -1,6 +1,6 @@
 {
   "facility_code": "21000176",
-  "institution": "Universidad Tecnologica Centroamericana - Unitec",
+  "institution": "UNIVERSIDAD TECNOLOGICA CENTROAMERICANA - UNITEC",
   "city": "Tegucigalpa",
   "state": "Honduras",
   "country": "Honduras",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

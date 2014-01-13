@@ -1,6 +1,6 @@
 {
   "facility_code": "30703927",
-  "institution": "Union Pacific Railroad-North Platte",
+  "institution": "UNION PACIFIC RAILROAD-NORTH PLATTE",
   "city": "North Platte",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "69101",
-  "email": true
+  "ope": null
 }

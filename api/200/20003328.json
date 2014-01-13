@@ -1,6 +1,6 @@
 {
   "facility_code": "20003328",
-  "institution": "Sheet Metal Workers Jatc (Reno)",
+  "institution": "SHEET METAL WORKERS JATC (RENO)",
   "city": "Sparks",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89432",
-  "email": true
+  "ope": null
 }

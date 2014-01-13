@@ -1,6 +1,6 @@
 {
   "facility_code": "11101975",
-  "institution": "Wilfrid Laurier University",
+  "institution": "WILFRID LAURIER UNIVERSITY",
   "city": "Waterloo",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

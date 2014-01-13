@@ -1,6 +1,6 @@
 {
   "facility_code": "10C15843",
-  "institution": "Us Customs And Border Protection Houston",
+  "institution": "US CUSTOMS AND BORDER PROTECTION HOUSTON",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77019",
-  "email": true
+  "ope": null
 }

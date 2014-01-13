@@ -1,6 +1,6 @@
 {
   "facility_code": "10N34332",
-  "institution": "New York City Police Dept. - 114th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 114TH PRECINCT",
   "city": "Astoria",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11103",
-  "email": false
+  "ope": null
 }

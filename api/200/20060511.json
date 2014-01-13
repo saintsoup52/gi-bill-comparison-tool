@@ -1,6 +1,6 @@
 {
   "facility_code": "20060511",
-  "institution": "University Tire Inc.",
+  "institution": "UNIVERSITY TIRE INC.",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30606",
-  "email": true
+  "ope": null
 }

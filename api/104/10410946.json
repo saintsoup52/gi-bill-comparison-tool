@@ -1,6 +1,6 @@
 {
   "facility_code": "10410946",
-  "institution": "New River Valley Regional Jail",
+  "institution": "NEW RIVER VALLEY REGIONAL JAIL",
   "city": "Dublin",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24084",
-  "email": true
+  "ope": null
 }

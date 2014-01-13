@@ -1,6 +1,6 @@
 {
   "facility_code": "15004203",
-  "institution": "Washington High School",
+  "institution": "WASHINGTON HIGH SCHOOL",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85021",
-  "email": false
+  "ope": null
 }

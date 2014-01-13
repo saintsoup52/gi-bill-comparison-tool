@@ -1,6 +1,6 @@
 {
   "facility_code": "12005009",
-  "institution": "Va Hospital",
+  "institution": "VA HOSPITAL",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20422",
-  "email": "No (SCO)"
+  "ope": null
 }

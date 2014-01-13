@@ -1,6 +1,6 @@
 {
   "facility_code": "10001711",
-  "institution": "Georgia Bureau Of Investigation - Region 2 (Greenville)",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION - REGION 2 (GREENVILLE)",
   "city": "Greenville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30222",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "14001063",
-  "institution": "Colegio Universitario De San Juan",
+  "institution": "COLEGIO UNIVERSITARIO DE SAN JUAN",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "936",
-  "email": true
+  "ope": "01056700"
 }

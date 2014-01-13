@@ -1,6 +1,6 @@
 {
   "facility_code": "10708113",
-  "institution": "Freeburg Police Department",
+  "institution": "FREEBURG POLICE DEPARTMENT",
   "city": "Freeburg",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62243",
-  "email": true
+  "ope": null
 }

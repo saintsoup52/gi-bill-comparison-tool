@@ -1,6 +1,6 @@
 {
   "facility_code": "10502246",
-  "institution": "Mission And Installation Contracting Command",
+  "institution": "MISSION AND INSTALLATION CONTRACTING COMMAND",
   "city": "Fort Eustis",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23604",
-  "email": true
+  "ope": null
 }

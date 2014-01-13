@@ -1,6 +1,6 @@
 {
   "facility_code": "10153434",
-  "institution": "Bismarck Police Department",
+  "institution": "BISMARCK POLICE DEPARTMENT",
   "city": "Bismarck",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58504",
-  "email": false
+  "ope": null
 }

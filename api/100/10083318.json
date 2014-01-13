@@ -1,6 +1,6 @@
 {
   "facility_code": "10083318",
-  "institution": "United States Marshalls Service - Baton Rouge",
+  "institution": "UNITED STATES MARSHALLS SERVICE - BATON ROUGE",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70801",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31800505",
-  "institution": "University Of San Diego School Of Law",
+  "institution": "UNIVERSITY OF SAN DIEGO SCHOOL OF LAW",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92110",
-  "email": true
+  "ope": "01039501"
 }

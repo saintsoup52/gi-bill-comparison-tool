@@ -1,6 +1,6 @@
 {
   "facility_code": "10036311",
-  "institution": "Georgia Department Of Veterans Service-Augusta",
+  "institution": "GEORGIA DEPARTMENT OF VETERANS SERVICE-AUGUSTA",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30901",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10588613",
-  "institution": "Illinois State Police District #21",
+  "institution": "ILLINOIS STATE POLICE DISTRICT #21",
   "city": "Ashkum",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60911",
-  "email": false
+  "ope": null
 }

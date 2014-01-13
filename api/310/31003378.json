@@ -1,6 +1,6 @@
 {
   "facility_code": "31003378",
-  "institution": "Institut Barcelona D'Estudis",
+  "institution": "INSTITUT BARCELONA D'ESTUDIS",
   "city": "Barcelona",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

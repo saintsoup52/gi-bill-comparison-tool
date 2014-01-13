@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5705",
-  "institution": "California Highway Patrol-Riverside Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL-RIVERSIDE AREA",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92504",
-  "email": false
+  "ope": null
 }

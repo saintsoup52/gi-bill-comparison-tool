@@ -1,6 +1,6 @@
 {
   "facility_code": "10517330",
-  "institution": "Mount Laurel Township Police Department",
+  "institution": "MOUNT LAUREL TOWNSHIP POLICE DEPARTMENT",
   "city": "Mount Laurel",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8054",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95306",
-  "institution": "Faa - Colorado Springs Ssc",
+  "institution": "FAA - COLORADO SPRINGS SSC",
   "city": "Peterson Afb",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80914",
-  "email": true
+  "ope": null
 }

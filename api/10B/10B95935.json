@@ -1,6 +1,6 @@
 {
   "facility_code": "10B95935",
-  "institution": "Defense Supply Center Columbus",
+  "institution": "DEFENSE SUPPLY CENTER COLUMBUS",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43218",
-  "email": true
+  "ope": null
 }

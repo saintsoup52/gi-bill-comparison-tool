@@ -1,6 +1,6 @@
 {
   "facility_code": "20642125",
-  "institution": "Command Security Services",
+  "institution": "COMMAND SECURITY SERVICES",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64114",
-  "email": true
+  "ope": null
 }

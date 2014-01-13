@@ -1,6 +1,6 @@
 {
   "facility_code": "103C4605",
-  "institution": "Defense Logistic Agency (Chapter 31 Only)",
+  "institution": "DEFENSE LOGISTIC AGENCY (CHAPTER 31 ONLY)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92136",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10226603",
-  "institution": "Gilbert Police Department",
+  "institution": "GILBERT POLICE DEPARTMENT",
   "city": "Gilbert",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85296",
-  "email": false
+  "ope": null
 }

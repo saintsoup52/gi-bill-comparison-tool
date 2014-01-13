@@ -1,6 +1,6 @@
 {
   "facility_code": "28575132",
-  "institution": "Teaching House",
+  "institution": "TEACHING HOUSE",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10007",
-  "email": true
+  "ope": null
 }

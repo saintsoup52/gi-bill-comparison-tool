@@ -1,6 +1,6 @@
 {
   "facility_code": "10591630",
-  "institution": "Middle Township Police Department",
+  "institution": "MIDDLE TOWNSHIP POLICE DEPARTMENT",
   "city": "Cape May Court House",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8210",
-  "email": true
+  "ope": null
 }

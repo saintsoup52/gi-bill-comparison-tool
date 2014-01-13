@@ -1,6 +1,6 @@
 {
   "facility_code": "20434947",
-  "institution": "Burlington Northern Santa Fe Railroad - Spokane  Carman Appren.",
+  "institution": "BURLINGTON NORTHERN SANTA FE RAILROAD - SPOKANE  CARMAN APPREN.",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99212",
-  "email": true
+  "ope": null
 }

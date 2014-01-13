@@ -1,6 +1,6 @@
 {
   "facility_code": "31000519",
-  "institution": "Husson University - South Portland",
+  "institution": "HUSSON UNIVERSITY - SOUTH PORTLAND",
   "city": "South Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4106",
-  "email": true
+  "ope": "00204301"
 }

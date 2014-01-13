@@ -1,6 +1,6 @@
 {
   "facility_code": "10037011",
-  "institution": "Department Of Juvenile Justice Office Of Human Resources",
+  "institution": "DEPARTMENT OF JUVENILE JUSTICE OFFICE OF HUMAN RESOURCES",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30303",
-  "email": false
+  "ope": null
 }

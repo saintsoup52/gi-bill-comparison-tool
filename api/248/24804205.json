@@ -1,6 +1,6 @@
 {
   "facility_code": "24804205",
-  "institution": "Wyotech (Fremont)",
+  "institution": "WYOTECH (FREMONT)",
   "city": "Fremont",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "94539",
-  "email": true
+  "ope": "00719000"
 }

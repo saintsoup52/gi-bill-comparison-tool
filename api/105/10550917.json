@@ -1,6 +1,6 @@
 {
   "facility_code": "10550917",
-  "institution": "Luther Luckett Correctional Complex",
+  "institution": "LUTHER LUCKETT CORRECTIONAL COMPLEX",
   "city": "Lagrange",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40031",
-  "email": true
+  "ope": null
 }

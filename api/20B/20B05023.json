@@ -1,6 +1,6 @@
 {
   "facility_code": "20B05023",
-  "institution": "Qwest  Room 230",
+  "institution": "QWEST  ROOM 230",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55402",
-  "email": false
+  "ope": null
 }

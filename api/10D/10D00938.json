@@ -1,6 +1,6 @@
 {
   "facility_code": "10D00938",
-  "institution": "Dept Of Labor And Industry - Harrisburg",
+  "institution": "DEPT OF LABOR AND INDUSTRY - HARRISBURG",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17121",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10925701",
-  "institution": "State Of Alabama Department Of Corrections",
+  "institution": "STATE OF ALABAMA DEPARTMENT OF CORRECTIONS",
   "city": "Selma",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36701",
-  "email": false
+  "ope": null
 }

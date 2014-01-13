@@ -1,6 +1,6 @@
 {
   "facility_code": "10022533",
-  "institution": "Town Of Broadway/Broadway Police Department",
+  "institution": "TOWN OF BROADWAY/BROADWAY POLICE DEPARTMENT",
   "city": "Broadway",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27505",
-  "email": true
+  "ope": null
 }

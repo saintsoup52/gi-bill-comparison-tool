@@ -1,6 +1,6 @@
 {
   "facility_code": "31105080",
-  "institution": "Fachhochschule Regensburg Univ. Of Applied Science",
+  "institution": "FACHHOCHSCHULE REGENSBURG UNIV. OF APPLIED SCIENCE",
   "city": "Regensburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

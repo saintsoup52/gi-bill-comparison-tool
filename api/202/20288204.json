@@ -1,6 +1,6 @@
 {
   "facility_code": "20288204",
-  "institution": "Benton Cty Sheriffs Office",
+  "institution": "BENTON CTY SHERIFFS OFFICE",
   "city": "Bentonville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72712",
-  "email": false
+  "ope": null
 }

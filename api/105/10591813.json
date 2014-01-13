@@ -1,6 +1,6 @@
 {
   "facility_code": "10591813",
-  "institution": "Champaign County Sheriff'S Office",
+  "institution": "CHAMPAIGN COUNTY SHERIFF'S OFFICE",
   "city": "Urbana",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61801",
-  "email": false
+  "ope": null
 }

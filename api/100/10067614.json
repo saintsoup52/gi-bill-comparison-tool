@@ -1,6 +1,6 @@
 {
   "facility_code": "10067614",
-  "institution": "Kokomo Police Department",
+  "institution": "KOKOMO POLICE DEPARTMENT",
   "city": "Kokomo",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46901",
-  "email": true
+  "ope": null
 }

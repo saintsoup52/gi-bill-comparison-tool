@@ -1,6 +1,6 @@
 {
   "facility_code": "10491046",
-  "institution": "Prince William County Dept Of Fire And Rescue",
+  "institution": "PRINCE WILLIAM COUNTY DEPT OF FIRE AND RESCUE",
   "city": "Manassas",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20110",
-  "email": true
+  "ope": null
 }

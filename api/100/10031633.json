@@ -1,6 +1,6 @@
 {
   "facility_code": "10031633",
-  "institution": "City Of Monroe Electric Department",
+  "institution": "CITY OF MONROE ELECTRIC DEPARTMENT",
   "city": "Monroe",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28110",
-  "email": true
+  "ope": null
 }

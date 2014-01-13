@@ -1,6 +1,6 @@
 {
   "facility_code": "11101680",
-  "institution": "Georg-Simon-Ohm Fachhochschule Nuernberg",
+  "institution": "GEORG-SIMON-OHM FACHHOCHSCHULE NUERNBERG",
   "city": "90489 Nuernberg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

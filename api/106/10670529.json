@@ -1,6 +1,6 @@
 {
   "facility_code": "10670529",
-  "institution": "Webster Police Dept",
+  "institution": "WEBSTER POLICE DEPT",
   "city": "Webster",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3303",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15060716",
-  "institution": "Wichita Public Schools Usd259",
+  "institution": "WICHITA PUBLIC SCHOOLS USD259",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67202",
-  "email": true
+  "ope": null
 }

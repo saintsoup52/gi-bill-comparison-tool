@@ -1,6 +1,6 @@
 {
   "facility_code": "20476115",
-  "institution": "Newton Police Department",
+  "institution": "NEWTON POLICE DEPARTMENT",
   "city": "Newton",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50208",
-  "email": true
+  "ope": null
 }

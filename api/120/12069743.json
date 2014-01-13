@@ -1,6 +1,6 @@
 {
   "facility_code": "12069743",
-  "institution": "Va North Texas Health Care Sys Chaplain Svc 125",
+  "institution": "VA NORTH TEXAS HEALTH CARE SYS CHAPLAIN SVC 125",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75216",
-  "email": false
+  "ope": null
 }

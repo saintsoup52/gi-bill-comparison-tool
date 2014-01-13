@@ -1,6 +1,6 @@
 {
   "facility_code": "10702611",
-  "institution": "Jeffersonville Police Department",
+  "institution": "JEFFERSONVILLE POLICE DEPARTMENT",
   "city": "Jeffersonville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31044",
-  "email": false
+  "ope": null
 }

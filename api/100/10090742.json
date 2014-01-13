@@ -1,6 +1,6 @@
 {
   "facility_code": "10090742",
-  "institution": "Us Army Corps Of Engineers-Nashville District",
+  "institution": "US ARMY CORPS OF ENGINEERS-NASHVILLE DISTRICT",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37202",
-  "email": false
+  "ope": null
 }

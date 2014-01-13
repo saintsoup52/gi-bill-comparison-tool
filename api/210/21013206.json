@@ -1,6 +1,6 @@
 {
   "facility_code": "21013206",
-  "institution": "Aspen University",
+  "institution": "ASPEN UNIVERSITY",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80246",
-  "email": true
+  "ope": "04080300"
 }

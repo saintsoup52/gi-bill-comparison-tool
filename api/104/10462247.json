@@ -1,6 +1,6 @@
 {
   "facility_code": "10462247",
-  "institution": "U.S. Equal Employment Opportunity Commission-Ch 31 Only",
+  "institution": "U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION-CH 31 ONLY",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98104",
-  "email": false
+  "ope": null
 }

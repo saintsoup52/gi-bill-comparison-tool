@@ -1,6 +1,6 @@
 {
   "facility_code": "39002803",
-  "institution": "Usvets",
+  "institution": "USVETS",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85040",
-  "email": false
+  "ope": null
 }

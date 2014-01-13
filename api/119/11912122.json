@@ -1,6 +1,6 @@
 {
   "facility_code": "11912122",
-  "institution": "Northern Michigan University",
+  "institution": "NORTHERN MICHIGAN UNIVERSITY",
   "city": "Marquette",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49855",
-  "email": true
+  "ope": "00230100"
 }

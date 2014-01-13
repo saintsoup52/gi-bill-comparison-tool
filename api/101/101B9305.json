@@ -1,6 +1,6 @@
 {
   "facility_code": "101B9305",
-  "institution": "United States Penitentiary (Atwater)",
+  "institution": "UNITED STATES PENITENTIARY (ATWATER)",
   "city": "Atwater",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95301",
-  "email": false
+  "ope": null
 }

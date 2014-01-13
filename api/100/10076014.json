@@ -1,6 +1,6 @@
 {
   "facility_code": "10076014",
-  "institution": "New Whiteland Police Department",
+  "institution": "NEW WHITELAND POLICE DEPARTMENT",
   "city": "New Whiteland",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46142",
-  "email": false
+  "ope": null
 }

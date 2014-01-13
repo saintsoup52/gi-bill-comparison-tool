@@ -1,6 +1,6 @@
 {
   "facility_code": "10061214",
-  "institution": "Bluffton Police Department",
+  "institution": "BLUFFTON POLICE DEPARTMENT",
   "city": "Bluffton",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46714",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15603025",
-  "institution": "State Of Missouri Career Center",
+  "institution": "STATE OF MISSOURI CAREER CENTER",
   "city": "Washington",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63090",
-  "email": false
+  "ope": null
 }

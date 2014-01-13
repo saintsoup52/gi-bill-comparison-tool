@@ -1,6 +1,6 @@
 {
   "facility_code": "10029209",
-  "institution": "United States Capitol Police",
+  "institution": "UNITED STATES CAPITOL POLICE",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20510",
-  "email": false
+  "ope": null
 }

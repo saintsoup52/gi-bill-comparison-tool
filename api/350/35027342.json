@@ -1,6 +1,6 @@
 {
   "facility_code": "35027342",
-  "institution": "Oak Ridge National Lab - Chapter 31 Only",
+  "institution": "OAK RIDGE NATIONAL LAB - CHAPTER 31 ONLY",
   "city": "Oak Ridge",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37831",
-  "email": false
+  "ope": null
 }

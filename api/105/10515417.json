@@ -1,6 +1,6 @@
 {
   "facility_code": "10515417",
-  "institution": "Faa Standiford Air Traffic Control Tower",
+  "institution": "FAA STANDIFORD AIR TRAFFIC CONTROL TOWER",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40213",
-  "email": false
+  "ope": null
 }

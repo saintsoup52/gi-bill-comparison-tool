@@ -1,6 +1,6 @@
 {
   "facility_code": "10058714",
-  "institution": "North Manchester Police Department",
+  "institution": "NORTH MANCHESTER POLICE DEPARTMENT",
   "city": "North Manchester",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46968",
-  "email": false
+  "ope": null
 }

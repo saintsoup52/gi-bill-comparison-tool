@@ -1,6 +1,6 @@
 {
   "facility_code": "15010005",
-  "institution": "Occupational Training Services",
+  "institution": "OCCUPATIONAL TRAINING SERVICES",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92120",
-  "email": false
+  "ope": null
 }

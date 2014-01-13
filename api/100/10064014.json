@@ -1,6 +1,6 @@
 {
   "facility_code": "10064014",
-  "institution": "Hobart Police Department",
+  "institution": "HOBART POLICE DEPARTMENT",
   "city": "Hobart",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46342",
-  "email": false
+  "ope": null
 }

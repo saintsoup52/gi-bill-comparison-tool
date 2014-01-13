@@ -1,6 +1,6 @@
 {
   "facility_code": "10041111",
-  "institution": "Brunswick Fire Dept",
+  "institution": "BRUNSWICK FIRE DEPT",
   "city": "Brunswick",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31520",
-  "email": true
+  "ope": null
 }

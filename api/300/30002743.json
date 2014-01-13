@@ -1,6 +1,6 @@
 {
   "facility_code": "30002743",
-  "institution": "El Paso Electricians Area Jatc",
+  "institution": "EL PASO ELECTRICIANS AREA JATC",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79932",
-  "email": false
+  "ope": null
 }

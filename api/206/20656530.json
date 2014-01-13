@@ -1,6 +1,6 @@
 {
   "facility_code": "20656530",
-  "institution": "Oyster Creek Nuclear Generating Station",
+  "institution": "OYSTER CREEK NUCLEAR GENERATING STATION",
   "city": "Forked River",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8731",
-  "email": true
+  "ope": null
 }

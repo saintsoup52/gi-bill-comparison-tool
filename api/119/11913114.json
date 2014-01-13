@@ -1,6 +1,6 @@
 {
   "facility_code": "11913114",
-  "institution": "Purdue University Calumet Campus",
+  "institution": "PURDUE UNIVERSITY CALUMET CAMPUS",
   "city": "Hammond",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46323",
-  "email": false
+  "ope": "00182700"
 }

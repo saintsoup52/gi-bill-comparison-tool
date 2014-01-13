@@ -1,6 +1,6 @@
 {
   "facility_code": "10W43438",
-  "institution": "Ephrata Police Department",
+  "institution": "EPHRATA POLICE DEPARTMENT",
   "city": "Ephrata",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17522",
-  "email": true
+  "ope": null
 }

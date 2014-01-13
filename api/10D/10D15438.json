@@ -1,6 +1,6 @@
 {
   "facility_code": "10D15438",
-  "institution": "Luzerne County 911",
+  "institution": "LUZERNE COUNTY 911",
   "city": "Hanover  Twp",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18706",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "12005409",
-  "institution": "St Elizabeths Hospital",
+  "institution": "ST ELIZABETHS HOSPITAL",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20020",
-  "email": "No (SCO)"
+  "ope": null
 }

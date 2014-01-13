@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17711",
-  "institution": "Us Army Corps Of Engineers (Hartwell)",
+  "institution": "US ARMY CORPS OF ENGINEERS (HARTWELL)",
   "city": "Hartwell",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30643",
-  "email": false
+  "ope": null
 }

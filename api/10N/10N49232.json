@@ -1,6 +1,6 @@
 {
   "facility_code": "10N49232",
-  "institution": "Village Of Walden Police Department",
+  "institution": "VILLAGE OF WALDEN POLICE DEPARTMENT",
   "city": "Walden",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12586",
-  "email": false
+  "ope": null
 }

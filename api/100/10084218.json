@@ -1,6 +1,6 @@
 {
   "facility_code": "10084218",
-  "institution": "Department Of Veterans Affairs (Leesville) Ch31",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS (LEESVILLE) CH31",
   "city": "Leesville",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71446",
-  "email": false
+  "ope": null
 }

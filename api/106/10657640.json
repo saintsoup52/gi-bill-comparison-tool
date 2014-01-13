@@ -1,6 +1,6 @@
 {
   "facility_code": "10657640",
-  "institution": "Us Department Of Justice - Atf Charleston",
+  "institution": "US DEPARTMENT OF JUSTICE - ATF CHARLESTON",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29407",
-  "email": true
+  "ope": null
 }

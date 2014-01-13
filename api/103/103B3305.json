@@ -1,6 +1,6 @@
 {
   "facility_code": "103B3305",
-  "institution": "Grass Valley Police Department",
+  "institution": "GRASS VALLEY POLICE DEPARTMENT",
   "city": "Grass Valley",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95945",
-  "email": false
+  "ope": null
 }

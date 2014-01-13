@@ -1,6 +1,6 @@
 {
   "facility_code": "10132507",
-  "institution": "Defense Contract Management Agency (Dcma) - East Hartford Ct",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (DCMA) - EAST HARTFORD CT",
   "city": "East Hartford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6108",
-  "email": false
+  "ope": null
 }

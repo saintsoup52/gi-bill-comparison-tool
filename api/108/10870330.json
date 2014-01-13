@@ -1,6 +1,6 @@
 {
   "facility_code": "10870330",
-  "institution": "Federal Aviation Administration",
+  "institution": "FEDERAL AVIATION ADMINISTRATION",
   "city": "Morristown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7960",
-  "email": false
+  "ope": null
 }

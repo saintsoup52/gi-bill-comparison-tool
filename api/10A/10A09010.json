@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09010",
-  "institution": "Federal Aviation Admin (Faa) Orlando Int'L Systems Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) ORLANDO INT'L SYSTEMS SUPPORT CENTER",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32827",
-  "email": true
+  "ope": null
 }

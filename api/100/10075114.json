@@ -1,6 +1,6 @@
 {
   "facility_code": "10075114",
-  "institution": "Garrett Police Department",
+  "institution": "GARRETT POLICE DEPARTMENT",
   "city": "Garrett",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46738",
-  "email": false
+  "ope": null
 }

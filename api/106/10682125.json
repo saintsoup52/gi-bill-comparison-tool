@@ -1,6 +1,6 @@
 {
   "facility_code": "10682125",
-  "institution": "Montgomery County Sheriff'S Department",
+  "institution": "MONTGOMERY COUNTY SHERIFF'S DEPARTMENT",
   "city": "Montgomery City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63361",
-  "email": false
+  "ope": null
 }

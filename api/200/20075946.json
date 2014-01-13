@@ -1,6 +1,6 @@
 {
   "facility_code": "20075946",
-  "institution": "Dominion Generation Surry Power Station",
+  "institution": "DOMINION GENERATION SURRY POWER STATION",
   "city": "Surry",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23883",
-  "email": true
+  "ope": null
 }

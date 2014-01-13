@@ -1,6 +1,6 @@
 {
   "facility_code": "10551130",
-  "institution": "Franklin Borough Police Department",
+  "institution": "FRANKLIN BOROUGH POLICE DEPARTMENT",
   "city": "Franklin",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7416",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20660530",
-  "institution": "Automated Logic Of New York And New Jersey",
+  "institution": "AUTOMATED LOGIC OF NEW YORK AND NEW JERSEY",
   "city": "Clifton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7104",
-  "email": false
+  "ope": null
 }

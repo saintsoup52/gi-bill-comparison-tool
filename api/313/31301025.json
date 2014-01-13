@@ -1,6 +1,6 @@
 {
   "facility_code": "31301025",
-  "institution": "St. Louis University School Of Medicine",
+  "institution": "ST. LOUIS UNIVERSITY SCHOOL OF MEDICINE",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "63103",
-  "email": false
+  "ope": "00250600"
 }

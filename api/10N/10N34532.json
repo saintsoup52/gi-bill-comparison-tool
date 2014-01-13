@@ -1,6 +1,6 @@
 {
   "facility_code": "10N34532",
-  "institution": "New York State Office Of The Comptroller",
+  "institution": "NEW YORK STATE OFFICE OF THE COMPTROLLER",
   "city": "Hauppage",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11788",
-  "email": true
+  "ope": null
 }

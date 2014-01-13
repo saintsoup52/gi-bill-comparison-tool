@@ -1,6 +1,6 @@
 {
   "facility_code": "31000220",
-  "institution": "Notre Dame Of Maryland University Formerly College Of Notre Dame Of Maryland",
+  "institution": "NOTRE DAME OF MARYLAND UNIVERSITY FORMERLY COLLEGE OF NOTRE DAME OF MARYLAND",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21210",
-  "email": true
+  "ope": "00206500"
 }

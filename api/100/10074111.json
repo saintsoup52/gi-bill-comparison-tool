@@ -1,6 +1,6 @@
 {
   "facility_code": "10074111",
-  "institution": "Georgia Department Of Human Services - Division Of Child Support Services",
+  "institution": "GEORGIA DEPARTMENT OF HUMAN SERVICES - DIVISION OF CHILD SUPPORT SERVICES",
   "city": "Augusta, Ga",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30901",
-  "email": true
+  "ope": null
 }

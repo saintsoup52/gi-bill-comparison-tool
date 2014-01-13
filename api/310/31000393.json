@@ -1,6 +1,6 @@
 {
   "facility_code": "31000393",
-  "institution": "Jonkoping University",
+  "institution": "JONKOPING UNIVERSITY",
   "city": "Jonkoping",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

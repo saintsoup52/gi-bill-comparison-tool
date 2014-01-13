@@ -1,6 +1,6 @@
 {
   "facility_code": "10590513",
-  "institution": "Illinois State Police - Dist 20",
+  "institution": "ILLINOIS STATE POLICE - DIST 20",
   "city": "Pittsfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62363",
-  "email": false
+  "ope": null
 }

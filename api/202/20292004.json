@@ -1,6 +1,6 @@
 {
   "facility_code": "20292004",
-  "institution": "Benton Police Department",
+  "institution": "BENTON POLICE DEPARTMENT",
   "city": "Benton",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72019",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "19000241",
-  "institution": "Airmen And Family Support Center",
+  "institution": "AIRMEN AND FAMILY SUPPORT CENTER",
   "city": "Ellsworth Afb",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57706",
-  "email": false
+  "ope": null
 }

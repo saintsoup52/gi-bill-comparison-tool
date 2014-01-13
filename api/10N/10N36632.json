@@ -1,6 +1,6 @@
 {
   "facility_code": "10N36632",
-  "institution": "Town Of Newcastle Water Department",
+  "institution": "TOWN OF NEWCASTLE WATER DEPARTMENT",
   "city": "Chappaqua",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10514",
-  "email": true
+  "ope": null
 }

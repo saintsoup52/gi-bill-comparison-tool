@@ -1,6 +1,6 @@
 {
   "facility_code": "10102320",
-  "institution": "Maryland Division Of Correction",
+  "institution": "MARYLAND DIVISION OF CORRECTION",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21215",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13610",
-  "institution": "Pasco Sheriff'S Office Training Section",
+  "institution": "PASCO SHERIFF'S OFFICE TRAINING SECTION",
   "city": "Dade City",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33523",
-  "email": true
+  "ope": null
 }

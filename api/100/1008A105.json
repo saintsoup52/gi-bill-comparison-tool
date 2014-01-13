@@ -1,6 +1,6 @@
 {
   "facility_code": "1008A105",
-  "institution": "Livermore Police Department",
+  "institution": "LIVERMORE POLICE DEPARTMENT",
   "city": "Livermore",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94550",
-  "email": false
+  "ope": null
 }

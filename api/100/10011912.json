@@ -1,6 +1,6 @@
 {
   "facility_code": "10011912",
-  "institution": "Post Falls Police Department",
+  "institution": "POST FALLS POLICE DEPARTMENT",
   "city": "Post Falls",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83854",
-  "email": true
+  "ope": null
 }

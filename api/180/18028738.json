@@ -1,6 +1,6 @@
 {
   "facility_code": "18028738",
-  "institution": "Greater Johnstown Career & Technology Ctr",
+  "institution": "GREATER JOHNSTOWN CAREER & TECHNOLOGY CTR",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "15904",
-  "email": true
+  "ope": "01000600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20781618",
-  "institution": "Schlumberger - Shreveport",
+  "institution": "SCHLUMBERGER - SHREVEPORT",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71108",
-  "email": true
+  "ope": null
 }

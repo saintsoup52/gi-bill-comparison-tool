@@ -1,6 +1,6 @@
 {
   "facility_code": "10052111",
-  "institution": "Georgia Southern University Police Department",
+  "institution": "GEORGIA SOUTHERN UNIVERSITY POLICE DEPARTMENT",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30460",
-  "email": false
+  "ope": null
 }

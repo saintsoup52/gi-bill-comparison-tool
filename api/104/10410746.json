@@ -1,6 +1,6 @@
 {
   "facility_code": "10410746",
-  "institution": "Nottoway Correctional Center",
+  "institution": "NOTTOWAY CORRECTIONAL CENTER",
   "city": "Burkeville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23922",
-  "email": true
+  "ope": null
 }

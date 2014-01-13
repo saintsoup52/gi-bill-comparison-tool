@@ -1,6 +1,6 @@
 {
   "facility_code": "10579225",
-  "institution": "Jefferson City Correctional Center",
+  "institution": "JEFFERSON CITY CORRECTIONAL CENTER",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65102",
-  "email": false
+  "ope": null
 }

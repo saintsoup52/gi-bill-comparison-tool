@@ -1,6 +1,6 @@
 {
   "facility_code": "10073214",
-  "institution": "Logansport Police Department",
+  "institution": "LOGANSPORT POLICE DEPARTMENT",
   "city": "Logansport",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46947",
-  "email": false
+  "ope": null
 }

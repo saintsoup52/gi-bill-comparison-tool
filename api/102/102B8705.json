@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8705",
-  "institution": "Fremont Police Department",
+  "institution": "FREMONT POLICE DEPARTMENT",
   "city": "Fremont",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94538",
-  "email": false
+  "ope": null
 }

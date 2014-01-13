@@ -1,6 +1,6 @@
 {
   "facility_code": "10810930",
-  "institution": "Garden State Correctional Facility",
+  "institution": "GARDEN STATE CORRECTIONAL FACILITY",
   "city": "Yardville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8620",
-  "email": true
+  "ope": null
 }

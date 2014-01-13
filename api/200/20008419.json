@@ -1,6 +1,6 @@
 {
   "facility_code": "20008419",
-  "institution": "Local 321 Bangor Plumbers",
+  "institution": "LOCAL 321 BANGOR PLUMBERS",
   "city": "Brewer",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4412",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25080121",
-  "institution": "Lincoln Technical Institute Brockton",
+  "institution": "LINCOLN TECHNICAL INSTITUTE BROCKTON",
   "city": "Brockton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "2301",
-  "email": true
+  "ope": "03232309"
 }

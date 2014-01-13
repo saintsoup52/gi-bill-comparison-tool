@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09811",
-  "institution": "Jimmy Autry State Prison",
+  "institution": "JIMMY AUTRY STATE PRISON",
   "city": "Pelham",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31779",
-  "email": true
+  "ope": null
 }

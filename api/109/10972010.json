@@ -1,6 +1,6 @@
 {
   "facility_code": "10972010",
-  "institution": "Tallahassee Police Department",
+  "institution": "TALLAHASSEE POLICE DEPARTMENT",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32303",
-  "email": false
+  "ope": null
 }

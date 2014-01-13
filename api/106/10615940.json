@@ -1,6 +1,6 @@
 {
   "facility_code": "10615940",
-  "institution": "Denmark Police Dept",
+  "institution": "DENMARK POLICE DEPT",
   "city": "Denmark",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29042",
-  "email": false
+  "ope": null
 }

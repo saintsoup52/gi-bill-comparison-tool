@@ -1,6 +1,6 @@
 {
   "facility_code": "10579425",
-  "institution": "Ozark Correctional Center",
+  "institution": "OZARK CORRECTIONAL CENTER",
   "city": "Fordland",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65652",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B50535",
-  "institution": "Parker Hannifin Corp G",
+  "institution": "PARKER HANNIFIN CORP G",
   "city": "Andover",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44003",
-  "email": false
+  "ope": null
 }

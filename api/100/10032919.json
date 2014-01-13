@@ -1,6 +1,6 @@
 {
   "facility_code": "10032919",
-  "institution": "Portland Fire Department",
+  "institution": "PORTLAND FIRE DEPARTMENT",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4101",
-  "email": true
+  "ope": null
 }

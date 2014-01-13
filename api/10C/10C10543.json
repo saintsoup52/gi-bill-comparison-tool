@@ -1,6 +1,6 @@
 {
   "facility_code": "10C10543",
-  "institution": "Us Border Patrol Laredo",
+  "institution": "US BORDER PATROL LAREDO",
   "city": "Laredo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78046",
-  "email": false
+  "ope": null
 }

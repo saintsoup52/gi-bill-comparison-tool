@@ -1,6 +1,6 @@
 {
   "facility_code": "101B6205",
-  "institution": "Us Department Of Fish And Wildlife Service (Ch 31)",
+  "institution": "US DEPARTMENT OF FISH AND WILDLIFE SERVICE (CH 31)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95825",
-  "email": false
+  "ope": null
 }

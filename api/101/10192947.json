@@ -1,6 +1,6 @@
 {
   "facility_code": "10192947",
-  "institution": "Chelan County Regional Justice Center",
+  "institution": "CHELAN COUNTY REGIONAL JUSTICE CENTER",
   "city": "Wenatchee",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98801",
-  "email": true
+  "ope": null
 }

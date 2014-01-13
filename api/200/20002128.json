@@ -1,6 +1,6 @@
 {
   "facility_code": "20002128",
-  "institution": "Northern Nevada Operating Engineers (Jac)",
+  "institution": "NORTHERN NEVADA OPERATING ENGINEERS (JAC)",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89515",
-  "email": true
+  "ope": null
 }

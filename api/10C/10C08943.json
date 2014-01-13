@@ -1,6 +1,6 @@
 {
   "facility_code": "10C08943",
-  "institution": "Tx Hwy Patrol Reg 7 Tx Dept Of Public Safety Austin",
+  "institution": "TX HWY PATROL REG 7 TX DEPT OF PUBLIC SAFETY AUSTIN",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78711",
-  "email": false
+  "ope": null
 }

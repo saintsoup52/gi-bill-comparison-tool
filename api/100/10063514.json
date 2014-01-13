@@ -1,6 +1,6 @@
 {
   "facility_code": "10063514",
-  "institution": "Indiana University Southeast Police Department",
+  "institution": "INDIANA UNIVERSITY SOUTHEAST POLICE DEPARTMENT",
   "city": "New Albany",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47150",
-  "email": false
+  "ope": null
 }

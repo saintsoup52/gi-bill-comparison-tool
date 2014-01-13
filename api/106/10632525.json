@@ -1,6 +1,6 @@
 {
   "facility_code": "10632525",
-  "institution": "Warren County Sheriff'S Department",
+  "institution": "WARREN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Warrenton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63383",
-  "email": false
+  "ope": null
 }

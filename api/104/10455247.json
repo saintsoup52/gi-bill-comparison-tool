@@ -1,6 +1,6 @@
 {
   "facility_code": "10455247",
-  "institution": "U.S. Immigration & Customs Enforcement",
+  "institution": "U.S. IMMIGRATION & CUSTOMS ENFORCEMENT",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98383",
-  "email": true
+  "ope": null
 }

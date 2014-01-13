@@ -1,6 +1,6 @@
 {
   "facility_code": "10516417",
-  "institution": "Flemingsburg Police Department",
+  "institution": "FLEMINGSBURG POLICE DEPARTMENT",
   "city": "Flemingsburg",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41041",
-  "email": false
+  "ope": null
 }

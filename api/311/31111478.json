@@ -1,6 +1,6 @@
 {
   "facility_code": "31111478",
-  "institution": "Universitat De Les Illes Balears (Uib)",
+  "institution": "UNIVERSITAT DE LES ILLES BALEARS (UIB)",
   "city": "Mallorca",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

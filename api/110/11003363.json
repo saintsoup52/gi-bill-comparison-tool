@@ -1,6 +1,6 @@
 {
   "facility_code": "11003363",
-  "institution": "Universidad De Puerto Rico Arecibo (University Of Puerto Rico-Arecibo)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO ARECIBO (UNIVERSITY OF PUERTO RICO-ARECIBO)",
   "city": "Arecibo",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "614",
-  "email": true
+  "ope": "00722800"
 }

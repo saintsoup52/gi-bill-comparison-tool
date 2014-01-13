@@ -1,6 +1,6 @@
 {
   "facility_code": "10N08532",
-  "institution": "Monroe County Sheriff'S Office",
+  "institution": "MONROE COUNTY SHERIFF'S OFFICE",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14614",
-  "email": true
+  "ope": null
 }

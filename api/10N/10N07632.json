@@ -1,6 +1,6 @@
 {
   "facility_code": "10N07632",
-  "institution": "New York State Department Of Transportation - Rochester",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - ROCHESTER",
   "city": "Rochester",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14623",
-  "email": true
+  "ope": null
 }

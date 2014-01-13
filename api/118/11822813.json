@@ -1,6 +1,6 @@
 {
   "facility_code": "11822813",
-  "institution": "U Of I At Chg0 College Of Med At Urbana-Champaign",
+  "institution": "U OF I AT CHG0 COLLEGE OF MED AT URBANA-CHAMPAIGN",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60607",
-  "email": false
+  "ope": "00177500"
 }

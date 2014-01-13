@@ -1,6 +1,6 @@
 {
   "facility_code": "10831521",
-  "institution": "Va Medical Center Brockton Ma",
+  "institution": "VA MEDICAL CENTER BROCKTON MA",
   "city": "Brockton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2301",
-  "email": false
+  "ope": null
 }

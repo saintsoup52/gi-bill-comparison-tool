@@ -1,6 +1,6 @@
 {
   "facility_code": "11001478",
-  "institution": "University Of Fribourg",
+  "institution": "UNIVERSITY OF FRIBOURG",
   "city": "1700 Fribourg",
   "state": "Switzerland",
   "country": "Switzerland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

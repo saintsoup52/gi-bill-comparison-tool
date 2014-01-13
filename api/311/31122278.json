@@ -1,6 +1,6 @@
 {
   "facility_code": "31122278",
-  "institution": "Universitat De Valencia",
+  "institution": "UNIVERSITAT DE VALENCIA",
   "city": "Valencia",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

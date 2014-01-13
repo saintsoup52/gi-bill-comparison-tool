@@ -1,6 +1,6 @@
 {
   "facility_code": "31118080",
-  "institution": "Whu-Otto Beisheim School",
+  "institution": "WHU-OTTO BEISHEIM SCHOOL",
   "city": "D-56179 Vallendar",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

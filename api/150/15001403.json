@@ -1,6 +1,6 @@
 {
   "facility_code": "15001403",
-  "institution": "Pima County Adult Education Eastside Learning Ctr (Ch31 Only)",
+  "institution": "PIMA COUNTY ADULT EDUCATION EASTSIDE LEARNING CTR (CH31 ONLY)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85704",
-  "email": false
+  "ope": null
 }

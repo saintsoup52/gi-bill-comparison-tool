@@ -1,6 +1,6 @@
 {
   "facility_code": "20D01049",
-  "institution": "W J Allan Co Inc",
+  "institution": "W J ALLAN CO INC",
   "city": "Janesville",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53545",
-  "email": false
+  "ope": null
 }

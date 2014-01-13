@@ -1,6 +1,6 @@
 {
   "facility_code": "10025033",
-  "institution": "Town Of Garner/Garner Police Department",
+  "institution": "TOWN OF GARNER/GARNER POLICE DEPARTMENT",
   "city": "Garner",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27529",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10205616",
-  "institution": "Housing And Urban Development",
+  "institution": "HOUSING AND URBAN DEVELOPMENT",
   "city": "Kansas City",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66101",
-  "email": true
+  "ope": null
 }

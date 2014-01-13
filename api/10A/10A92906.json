@@ -1,6 +1,6 @@
 {
   "facility_code": "10A92906",
-  "institution": "Faa - Pueblo Tower",
+  "institution": "FAA - PUEBLO TOWER",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81001",
-  "email": false
+  "ope": null
 }

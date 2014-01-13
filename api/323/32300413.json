@@ -1,6 +1,6 @@
 {
   "facility_code": "32300413",
-  "institution": "Rush University Medical Center",
+  "institution": "RUSH UNIVERSITY MEDICAL CENTER",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60612",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10230703",
-  "institution": "Arizona Army National Guard (Chapter 31 Only)",
+  "institution": "ARIZONA ARMY NATIONAL GUARD (CHAPTER 31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85008",
-  "email": false
+  "ope": null
 }

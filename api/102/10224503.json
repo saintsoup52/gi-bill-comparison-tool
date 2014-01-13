@@ -1,6 +1,6 @@
 {
   "facility_code": "10224503",
-  "institution": "Surprise Fire Department",
+  "institution": "SURPRISE FIRE DEPARTMENT",
   "city": "Surprise",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85374",
-  "email": true
+  "ope": null
 }

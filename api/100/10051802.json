@@ -1,6 +1,6 @@
 {
   "facility_code": "10051802",
-  "institution": "Mat-Su Borough Recreational Svcs (Ch31)",
+  "institution": "MAT-SU BOROUGH RECREATIONAL SVCS (CH31)",
   "city": "Palmer",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99645",
-  "email": false
+  "ope": null
 }

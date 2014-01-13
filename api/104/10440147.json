@@ -1,6 +1,6 @@
 {
   "facility_code": "10440147",
-  "institution": "Faa Pasco/Tri-Cities Tower",
+  "institution": "FAA PASCO/TRI-CITIES TOWER",
   "city": "Pasco",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99301",
-  "email": true
+  "ope": null
 }

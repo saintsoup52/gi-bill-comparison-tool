@@ -1,6 +1,6 @@
 {
   "facility_code": "10119839",
-  "institution": "City Of Cranston Ri",
+  "institution": "CITY OF CRANSTON RI",
   "city": "Cranston",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2910",
-  "email": false
+  "ope": null
 }

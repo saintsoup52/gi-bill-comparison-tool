@@ -1,6 +1,6 @@
 {
   "facility_code": "20B06923",
-  "institution": "Banta Catalog Group/St Paul",
+  "institution": "BANTA CATALOG GROUP/ST PAUL",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55104",
-  "email": false
+  "ope": null
 }

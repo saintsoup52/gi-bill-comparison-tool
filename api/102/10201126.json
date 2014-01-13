@@ -1,6 +1,6 @@
 {
   "facility_code": "10201126",
-  "institution": "Cascade County Sheriff'S Office",
+  "institution": "CASCADE COUNTY SHERIFF'S OFFICE",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59404",
-  "email": true
+  "ope": null
 }

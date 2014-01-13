@@ -1,6 +1,6 @@
 {
   "facility_code": "10488617",
-  "institution": "Boone County Police Department",
+  "institution": "BOONE COUNTY POLICE DEPARTMENT",
   "city": "Burlington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41005",
-  "email": false
+  "ope": null
 }

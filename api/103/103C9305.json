@@ -1,6 +1,6 @@
 {
   "facility_code": "103C9305",
-  "institution": "County Of Ventura General Services Agency (Ch 31 Only)",
+  "institution": "COUNTY OF VENTURA GENERAL SERVICES AGENCY (CH 31 ONLY)",
   "city": "Ventura",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93009",
-  "email": false
+  "ope": null
 }

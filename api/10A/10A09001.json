@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09001",
-  "institution": "Trussville Police Department",
+  "institution": "TRUSSVILLE POLICE DEPARTMENT",
   "city": "Trussville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35173",
-  "email": true
+  "ope": null
 }

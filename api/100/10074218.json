@@ -1,6 +1,6 @@
 {
   "facility_code": "10074218",
-  "institution": "Shreveport Fire Department",
+  "institution": "SHREVEPORT FIRE DEPARTMENT",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71119",
-  "email": true
+  "ope": null
 }

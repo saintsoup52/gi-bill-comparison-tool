@@ -1,6 +1,6 @@
 {
   "facility_code": "31011192",
-  "institution": "Universidad Del Azuay",
+  "institution": "UNIVERSIDAD DEL AZUAY",
   "city": "7-77 Y Hernan Malo",
   "state": "Ecuador",
   "country": "Ecuador",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08811",
-  "institution": "Donald B. Smith State Prison",
+  "institution": "DONALD B. SMITH STATE PRISON",
   "city": "Glennville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30427",
-  "email": true
+  "ope": null
 }

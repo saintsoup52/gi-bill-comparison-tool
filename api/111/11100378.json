@@ -1,6 +1,6 @@
 {
   "facility_code": "11100378",
-  "institution": "Semmelweis University Of Medicine",
+  "institution": "SEMMELWEIS UNIVERSITY OF MEDICINE",
   "city": "Ulloi Ut 26",
   "state": "Hungary",
   "country": "Hungary",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

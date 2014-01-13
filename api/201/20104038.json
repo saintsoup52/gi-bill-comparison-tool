@@ -1,6 +1,6 @@
 {
   "facility_code": "20104038",
-  "institution": "A M Multigraph",
+  "institution": "A M MULTIGRAPH",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15205",
-  "email": false
+  "ope": null
 }

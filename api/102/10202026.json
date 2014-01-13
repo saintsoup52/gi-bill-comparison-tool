@@ -1,6 +1,6 @@
 {
   "facility_code": "10202026",
-  "institution": "Us Forest Service",
+  "institution": "US FOREST SERVICE",
   "city": "Whitehall",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59759",
-  "email": "No (SCO)"
+  "ope": null
 }

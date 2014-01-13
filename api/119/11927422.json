@@ -1,6 +1,6 @@
 {
   "facility_code": "11927422",
-  "institution": "Lake Superior State University",
+  "institution": "LAKE SUPERIOR STATE UNIVERSITY",
   "city": "Sault Ste Marie",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49783",
-  "email": true
+  "ope": "00229300"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10501717",
-  "institution": "Frankfort Police Department",
+  "institution": "FRANKFORT POLICE DEPARTMENT",
   "city": "Frankfort",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40601",
-  "email": false
+  "ope": null
 }

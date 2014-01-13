@@ -1,6 +1,6 @@
 {
   "facility_code": "10011427",
-  "institution": "Nebraska State Patrol",
+  "institution": "NEBRASKA STATE PATROL",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68509",
-  "email": true
+  "ope": null
 }

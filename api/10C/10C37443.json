@@ -1,6 +1,6 @@
 {
   "facility_code": "10C37443",
-  "institution": "Sachse Police Department",
+  "institution": "SACHSE POLICE DEPARTMENT",
   "city": "Sachse",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75048",
-  "email": false
+  "ope": null
 }

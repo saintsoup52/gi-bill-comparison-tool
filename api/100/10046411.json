@@ -1,6 +1,6 @@
 {
   "facility_code": "10046411",
-  "institution": "Gwinnett County Sheriff'S Office",
+  "institution": "GWINNETT COUNTY SHERIFF'S OFFICE",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30043",
-  "email": true
+  "ope": null
 }

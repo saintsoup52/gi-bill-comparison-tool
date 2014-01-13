@@ -1,6 +1,6 @@
 {
   "facility_code": "32527835",
-  "institution": "Doctors Hospital",
+  "institution": "DOCTORS HOSPITAL",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43201",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10511630",
-  "institution": "Garwood Police Department",
+  "institution": "GARWOOD POLICE DEPARTMENT",
   "city": "Garwood",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7027",
-  "email": true
+  "ope": null
 }

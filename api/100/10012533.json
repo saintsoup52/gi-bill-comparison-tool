@@ -1,6 +1,6 @@
 {
   "facility_code": "10012533",
-  "institution": "Ncdoc - Carteret Correctional Center",
+  "institution": "NCDOC - CARTERET CORRECTIONAL CENTER",
   "city": "Newport",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28570",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10478648",
-  "institution": "Denmar Correctional Facility",
+  "institution": "DENMAR CORRECTIONAL FACILITY",
   "city": "Hillsboro",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24946",
-  "email": true
+  "ope": null
 }

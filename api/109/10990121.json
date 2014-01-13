@@ -1,6 +1,6 @@
 {
   "facility_code": "10990121",
-  "institution": "Lawrence Fire Department",
+  "institution": "LAWRENCE FIRE DEPARTMENT",
   "city": "Lawrence",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1840",
-  "email": true
+  "ope": null
 }

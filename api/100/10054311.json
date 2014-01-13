@@ -1,6 +1,6 @@
 {
   "facility_code": "10054311",
-  "institution": "Bulloch County Sheriff'S Office",
+  "institution": "BULLOCH COUNTY SHERIFF'S OFFICE",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30458",
-  "email": true
+  "ope": null
 }

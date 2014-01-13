@@ -1,6 +1,6 @@
 {
   "facility_code": "10413747",
-  "institution": "Pierce County Building Inspection (Ch 31 Only)",
+  "institution": "PIERCE COUNTY BUILDING INSPECTION (CH 31 ONLY)",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98466",
-  "email": false
+  "ope": null
 }

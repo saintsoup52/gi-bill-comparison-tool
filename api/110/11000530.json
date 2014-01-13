@@ -1,6 +1,6 @@
 {
   "facility_code": "11000530",
-  "institution": "The College Of New Jersey",
+  "institution": "THE COLLEGE OF NEW JERSEY",
   "city": "Ewing",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8628",
-  "email": true
+  "ope": "00264200"
 }

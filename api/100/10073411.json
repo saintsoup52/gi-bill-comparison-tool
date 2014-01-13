@@ -1,6 +1,6 @@
 {
   "facility_code": "10073411",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30067",
-  "email": true
+  "ope": null
 }

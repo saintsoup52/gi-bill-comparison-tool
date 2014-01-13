@@ -1,6 +1,6 @@
 {
   "facility_code": "24909433",
-  "institution": "The Art Institute Of Charlotte",
+  "institution": "THE ART INSTITUTE OF CHARLOTTE",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "28217",
-  "email": true
+  "ope": "02110500"
 }

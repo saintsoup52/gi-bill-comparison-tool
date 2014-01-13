@@ -1,6 +1,6 @@
 {
   "facility_code": "10N39232",
-  "institution": "Hudson Correctional Facility",
+  "institution": "HUDSON CORRECTIONAL FACILITY",
   "city": "Hudson",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12534",
-  "email": false
+  "ope": null
 }

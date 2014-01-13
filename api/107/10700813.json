@@ -1,6 +1,6 @@
 {
   "facility_code": "10700813",
-  "institution": "Salem Police Department",
+  "institution": "SALEM POLICE DEPARTMENT",
   "city": "Salem",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62881",
-  "email": false
+  "ope": null
 }

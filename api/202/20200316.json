@@ -1,6 +1,6 @@
 {
   "facility_code": "20200316",
-  "institution": "I.U.B.A.C. Local #15 Mo/Ks",
+  "institution": "I.U.B.A.C. LOCAL #15 MO/KS",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67203",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10021131",
-  "institution": "Las Cruces Police Dept",
+  "institution": "LAS CRUCES POLICE DEPT",
   "city": "Las Cruces",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88001",
-  "email": true
+  "ope": null
 }

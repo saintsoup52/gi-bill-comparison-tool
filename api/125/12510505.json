@@ -1,6 +1,6 @@
 {
   "facility_code": "12510505",
-  "institution": "Los Angeles County Harbor Ucla Medical Center",
+  "institution": "LOS ANGELES COUNTY HARBOR UCLA MEDICAL CENTER",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90509",
-  "email": true
+  "ope": "00431100"
 }

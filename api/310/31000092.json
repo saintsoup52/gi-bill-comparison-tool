@@ -1,6 +1,6 @@
 {
   "facility_code": "31000092",
-  "institution": "Universidad Alberto Hurtado",
+  "institution": "UNIVERSIDAD ALBERTO HURTADO",
   "city": "Santiago",
   "state": "Chile",
   "country": "Chile",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

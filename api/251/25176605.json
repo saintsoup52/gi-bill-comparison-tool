@@ -1,6 +1,6 @@
 {
   "facility_code": "25176605",
-  "institution": "Milan Institute (Bakersfield)",
+  "institution": "MILAN INSTITUTE (BAKERSFIELD)",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93301",
-  "email": true
+  "ope": null
 }

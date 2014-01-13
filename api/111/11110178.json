@@ -1,6 +1,6 @@
 {
   "facility_code": "11110178",
-  "institution": "University Of Haifa",
+  "institution": "UNIVERSITY OF HAIFA",
   "city": "Haifa",
   "state": "Israel (Tel Aviv)",
   "country": "Israel (Tel Aviv)",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

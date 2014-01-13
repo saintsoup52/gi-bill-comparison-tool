@@ -1,6 +1,6 @@
 {
   "facility_code": "10416546",
-  "institution": "Lynchburg Adult Detention Center",
+  "institution": "LYNCHBURG ADULT DETENTION CENTER",
   "city": "Lynchburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24504",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10104828",
-  "institution": "Clark County Human Resources (Ch31)",
+  "institution": "CLARK COUNTY HUMAN RESOURCES (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89155",
-  "email": false
+  "ope": null
 }

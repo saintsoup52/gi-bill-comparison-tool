@@ -1,6 +1,6 @@
 {
   "facility_code": "14906421",
-  "institution": "Holyoke Community College",
+  "institution": "HOLYOKE COMMUNITY COLLEGE",
   "city": "Holyoke",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "1040",
-  "email": true
+  "ope": "00217000"
 }

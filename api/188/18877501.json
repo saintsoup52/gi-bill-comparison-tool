@@ -1,6 +1,6 @@
 {
   "facility_code": "18877501",
-  "institution": "Careerlink",
+  "institution": "CAREERLINK",
   "city": "Alabaster",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35007",
-  "email": false
+  "ope": null
 }

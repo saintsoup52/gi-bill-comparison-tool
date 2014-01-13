@@ -1,6 +1,6 @@
 {
   "facility_code": "10350335",
-  "institution": "Findlay Police Dept K",
+  "institution": "FINDLAY POLICE DEPT K",
   "city": "Findlay",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45840",
-  "email": false
+  "ope": null
 }

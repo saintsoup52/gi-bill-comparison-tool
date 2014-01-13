@@ -1,6 +1,6 @@
 {
   "facility_code": "12124425",
-  "institution": "Va Medical Center Jefferson Barracks",
+  "institution": "VA MEDICAL CENTER JEFFERSON BARRACKS",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63125",
-  "email": true
+  "ope": null
 }

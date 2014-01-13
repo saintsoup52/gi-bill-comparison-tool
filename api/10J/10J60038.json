@@ -1,6 +1,6 @@
 {
   "facility_code": "10J60038",
-  "institution": "Adams County Adult Correctional Complex",
+  "institution": "ADAMS COUNTY ADULT CORRECTIONAL COMPLEX",
   "city": "Gettysburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17325",
-  "email": false
+  "ope": null
 }

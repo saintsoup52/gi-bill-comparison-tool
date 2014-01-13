@@ -1,6 +1,6 @@
 {
   "facility_code": "31040543",
-  "institution": "Tulane University Houston",
+  "institution": "TULANE UNIVERSITY HOUSTON",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "77027",
-  "email": false
+  "ope": "00202906"
 }

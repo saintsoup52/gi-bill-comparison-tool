@@ -1,6 +1,6 @@
 {
   "facility_code": "10010344",
-  "institution": "Utah County Sheriff'S Central Dispatch",
+  "institution": "UTAH COUNTY SHERIFF'S CENTRAL DISPATCH",
   "city": "Spanish Fork",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84660",
-  "email": false
+  "ope": null
 }

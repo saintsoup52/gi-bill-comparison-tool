@@ -1,6 +1,6 @@
 {
   "facility_code": "31008605",
-  "institution": "California Institute For Human Science",
+  "institution": "CALIFORNIA INSTITUTE FOR HUMAN SCIENCE",
   "city": "Encinitas",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92024",
-  "email": false
+  "ope": null
 }

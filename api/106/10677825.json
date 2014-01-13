@@ -1,6 +1,6 @@
 {
   "facility_code": "10677825",
-  "institution": "Riverside Department Of Public Safety",
+  "institution": "RIVERSIDE DEPARTMENT OF PUBLIC SAFETY",
   "city": "Riverside",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64150",
-  "email": true
+  "ope": null
 }

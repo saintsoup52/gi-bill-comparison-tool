@@ -1,6 +1,6 @@
 {
   "facility_code": "11102480",
-  "institution": "Beuth Hochschule Fur Technik Berlin University Of Applied Sciences",
+  "institution": "BEUTH HOCHSCHULE FUR TECHNIK BERLIN UNIVERSITY OF APPLIED SCIENCES",
   "city": "13353 Berlin",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

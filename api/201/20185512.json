@@ -1,6 +1,6 @@
 {
   "facility_code": "20185512",
-  "institution": "Shoshone Police Dept",
+  "institution": "SHOSHONE POLICE DEPT",
   "city": "Shoshone",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83352",
-  "email": false
+  "ope": null
 }

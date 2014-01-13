@@ -1,6 +1,6 @@
 {
   "facility_code": "10630725",
-  "institution": "Ozark Police Dept.",
+  "institution": "OZARK POLICE DEPT.",
   "city": "Ozark",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65721",
-  "email": false
+  "ope": null
 }

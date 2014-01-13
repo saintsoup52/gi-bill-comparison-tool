@@ -1,6 +1,6 @@
 {
   "facility_code": "20R10238",
-  "institution": "Jefferson Regional Medical Center",
+  "institution": "JEFFERSON REGIONAL MEDICAL CENTER",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15236",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11805047",
-  "institution": "University Of Washington",
+  "institution": "UNIVERSITY OF WASHINGTON",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "98195",
-  "email": true
+  "ope": "00379800"
 }

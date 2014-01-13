@@ -1,6 +1,6 @@
 {
   "facility_code": "10025519",
-  "institution": "Maine Marine Patrol Dmr",
+  "institution": "MAINE MARINE PATROL DMR",
   "city": "West Boothbay",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4575",
-  "email": false
+  "ope": null
 }

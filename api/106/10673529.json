@@ -1,6 +1,6 @@
 {
   "facility_code": "10673529",
-  "institution": "Keene Police Department",
+  "institution": "KEENE POLICE DEPARTMENT",
   "city": "Keene",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3431",
-  "email": true
+  "ope": null
 }

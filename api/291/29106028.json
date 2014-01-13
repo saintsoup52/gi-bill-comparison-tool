@@ -1,6 +1,6 @@
 {
   "facility_code": "29106028",
-  "institution": "Reno Hilton (Ch31)",
+  "institution": "RENO HILTON (CH31)",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89502",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11815146",
-  "institution": "Virginia Polytechnic Institute & State University",
+  "institution": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY",
   "city": "Blacksburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "24060",
-  "email": true
+  "ope": "00375400"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10576830",
-  "institution": "Rowan University Police Department",
+  "institution": "ROWAN UNIVERSITY POLICE DEPARTMENT",
   "city": "Glassboro",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8028",
-  "email": true
+  "ope": null
 }

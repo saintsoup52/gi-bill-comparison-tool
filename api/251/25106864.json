@@ -1,6 +1,6 @@
 {
   "facility_code": "25106864",
-  "institution": "Technical Computer Services (Ch31)",
+  "institution": "TECHNICAL COMPUTER SERVICES (CH31)",
   "city": "Captain Cook",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96704",
-  "email": false
+  "ope": null
 }

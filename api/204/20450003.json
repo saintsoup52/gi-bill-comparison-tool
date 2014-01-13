@@ -1,6 +1,6 @@
 {
   "facility_code": "20450003",
-  "institution": "Enco Utility Services",
+  "institution": "ENCO UTILITY SERVICES",
   "city": "Maricopa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85239",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10301604",
-  "institution": "West Memphis Police Dpt",
+  "institution": "WEST MEMPHIS POLICE DPT",
   "city": "W Memphis",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72301",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20043502",
-  "institution": "Arctic Valley Electric (Ch31)",
+  "institution": "ARCTIC VALLEY ELECTRIC (CH31)",
   "city": "Wasilla",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99645",
-  "email": false
+  "ope": null
 }

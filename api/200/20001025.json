@@ -1,6 +1,6 @@
 {
   "facility_code": "20001025",
-  "institution": "Sheet Metal Workers Local #36 Jatc",
+  "institution": "SHEET METAL WORKERS LOCAL #36 JATC",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63103",
-  "email": false
+  "ope": null
 }

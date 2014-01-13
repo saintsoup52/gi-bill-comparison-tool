@@ -1,6 +1,6 @@
 {
   "facility_code": "10104835",
-  "institution": "Garfield Hts Police Dept G",
+  "institution": "GARFIELD HTS POLICE DEPT G",
   "city": "Garfield Hts",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44125",
-  "email": false
+  "ope": null
 }

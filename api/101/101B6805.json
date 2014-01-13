@@ -1,6 +1,6 @@
 {
   "facility_code": "101B6805",
-  "institution": "California Highway Patrol-Merced Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL-MERCED AREA",
   "city": "Atwater",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95301",
-  "email": false
+  "ope": null
 }

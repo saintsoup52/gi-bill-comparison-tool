@@ -1,6 +1,6 @@
 {
   "facility_code": "10640540",
-  "institution": "Catawba Pre-Release Center",
+  "institution": "CATAWBA PRE-RELEASE CENTER",
   "city": "Rock Hill",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29730",
-  "email": false
+  "ope": null
 }

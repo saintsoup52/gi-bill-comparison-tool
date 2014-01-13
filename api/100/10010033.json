@@ -1,6 +1,6 @@
 {
   "facility_code": "10010033",
-  "institution": "Wilmington Police Department",
+  "institution": "WILMINGTON POLICE DEPARTMENT",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28402",
-  "email": true
+  "ope": null
 }

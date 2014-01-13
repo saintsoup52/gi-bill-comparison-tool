@@ -1,6 +1,6 @@
 {
   "facility_code": "32101115",
-  "institution": "Mercy Hospital Cedar Rapids",
+  "institution": "MERCY HOSPITAL CEDAR RAPIDS",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52403",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C79438",
-  "institution": "Lancaster County Prison",
+  "institution": "LANCASTER COUNTY PRISON",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17602",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20120731",
-  "institution": "Public Service Co. San Juan Station",
+  "institution": "PUBLIC SERVICE CO. SAN JUAN STATION",
   "city": "Waterflow",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87421",
-  "email": true
+  "ope": null
 }

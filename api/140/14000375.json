@@ -1,6 +1,6 @@
 {
   "facility_code": "14000375",
-  "institution": "Olds College",
+  "institution": "OLDS COLLEGE",
   "city": "Olds",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

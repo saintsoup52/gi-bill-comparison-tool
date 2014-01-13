@@ -1,6 +1,6 @@
 {
   "facility_code": "10N26632",
-  "institution": "City Of Poughkeepsie Police Department",
+  "institution": "CITY OF POUGHKEEPSIE POLICE DEPARTMENT",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12602",
-  "email": false
+  "ope": null
 }

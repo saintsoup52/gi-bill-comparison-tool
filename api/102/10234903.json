@@ -1,6 +1,6 @@
 {
   "facility_code": "10234903",
-  "institution": "Bureau Of Land Management",
+  "institution": "BUREAU OF LAND MANAGEMENT",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85004",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30004847",
-  "institution": "Western States Operating Engineers Training Institute",
+  "institution": "WESTERN STATES OPERATING ENGINEERS TRAINING INSTITUTE",
   "city": "Spangle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99031",
-  "email": true
+  "ope": null
 }

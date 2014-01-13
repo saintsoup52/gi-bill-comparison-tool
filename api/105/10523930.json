@@ -1,6 +1,6 @@
 {
   "facility_code": "10523930",
-  "institution": "Pennsauken Police Department",
+  "institution": "PENNSAUKEN POLICE DEPARTMENT",
   "city": "Pennsauken",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8109",
-  "email": true
+  "ope": null
 }

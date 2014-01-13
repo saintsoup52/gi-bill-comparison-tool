@@ -1,6 +1,6 @@
 {
   "facility_code": "10500015",
-  "institution": "Bettendorf Police Department",
+  "institution": "BETTENDORF POLICE DEPARTMENT",
   "city": "Bettendorf",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52722",
-  "email": false
+  "ope": null
 }

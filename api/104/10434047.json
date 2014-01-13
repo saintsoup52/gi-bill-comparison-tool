@@ -1,6 +1,6 @@
 {
   "facility_code": "10434047",
-  "institution": "Kirkland Fire Department-Inactive",
+  "institution": "KIRKLAND FIRE DEPARTMENT-INACTIVE",
   "city": "Kirkland",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98033",
-  "email": false
+  "ope": null
 }

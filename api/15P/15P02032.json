@@ -1,6 +1,6 @@
 {
   "facility_code": "15P02032",
-  "institution": "F. D. Roosevelt High School",
+  "institution": "F. D. ROOSEVELT HIGH SCHOOL",
   "city": "Hyde Park",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12538",
-  "email": true
+  "ope": null
 }

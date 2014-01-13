@@ -1,6 +1,6 @@
 {
   "facility_code": "19000232",
-  "institution": "Music Conservatory Of Westchester",
+  "institution": "MUSIC CONSERVATORY OF WESTCHESTER",
   "city": "White Plains",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10606",
-  "email": false
+  "ope": null
 }

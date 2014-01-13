@@ -1,6 +1,6 @@
 {
   "facility_code": "10994810",
-  "institution": "Jacksonville Beach Police Department",
+  "institution": "JACKSONVILLE BEACH POLICE DEPARTMENT",
   "city": "Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32250",
-  "email": true
+  "ope": null
 }

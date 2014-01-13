@@ -1,6 +1,6 @@
 {
   "facility_code": "10411546",
-  "institution": "Fairfax County Police Dept",
+  "institution": "FAIRFAX COUNTY POLICE DEPT",
   "city": "Chantilly",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20151",
-  "email": true
+  "ope": null
 }

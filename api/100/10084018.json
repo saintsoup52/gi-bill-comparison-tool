@@ -1,6 +1,6 @@
 {
   "facility_code": "10084018",
-  "institution": "Department Of Housing And Urban Develp (Hud)(Ch31)",
+  "institution": "DEPARTMENT OF HOUSING AND URBAN DEVELP (HUD)(CH31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70113",
-  "email": false
+  "ope": null
 }

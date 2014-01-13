@@ -1,6 +1,6 @@
 {
   "facility_code": "31800405",
-  "institution": "University Of San Diego",
+  "institution": "UNIVERSITY OF SAN DIEGO",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92110",
-  "email": false
+  "ope": "01039500"
 }

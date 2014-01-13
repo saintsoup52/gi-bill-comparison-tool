@@ -1,6 +1,6 @@
 {
   "facility_code": "20706611",
-  "institution": "Jones Tractor Company",
+  "institution": "JONES TRACTOR COMPANY",
   "city": "Thomasville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31792",
-  "email": false
+  "ope": null
 }

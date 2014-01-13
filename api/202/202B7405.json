@@ -1,6 +1,6 @@
 {
   "facility_code": "202B7405",
-  "institution": "2 Ski'S",
+  "institution": "2 SKI'S",
   "city": "Hesperia",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92345",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N33332",
-  "institution": "New York City Dept. Of Corrections - Eric Taylor",
+  "institution": "NEW YORK CITY DEPT. OF CORRECTIONS - ERIC TAYLOR",
   "city": "East Elmhurst",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11370",
-  "email": true
+  "ope": null
 }

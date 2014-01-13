@@ -1,6 +1,6 @@
 {
   "facility_code": "31809036",
-  "institution": "Embry-Riddle Aeronautical Univ Okc",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV OKC",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73135",
-  "email": true
+  "ope": "00147900"
 }

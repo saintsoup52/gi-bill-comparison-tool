@@ -1,6 +1,6 @@
 {
   "facility_code": "32000241",
-  "institution": "Sanford Medical Center School Of Radiologic Technology",
+  "institution": "SANFORD MEDICAL CENTER SCHOOL OF RADIOLOGIC TECHNOLOGY",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "57117",
-  "email": true
+  "ope": "01147701"
 }

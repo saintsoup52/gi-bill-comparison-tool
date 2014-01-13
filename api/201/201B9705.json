@@ -1,6 +1,6 @@
 {
   "facility_code": "201B9705",
-  "institution": "Superior Quality Control (Chapter 31)",
+  "institution": "SUPERIOR QUALITY CONTROL (CHAPTER 31)",
   "city": "Santa Clara",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95050",
-  "email": false
+  "ope": null
 }

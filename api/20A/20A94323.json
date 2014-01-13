@@ -1,6 +1,6 @@
 {
   "facility_code": "20A94323",
-  "institution": "Eaton Corperation",
+  "institution": "EATON CORPERATION",
   "city": "Eden Prairie",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55344",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06001",
-  "institution": "Federal Aviation Admin (Faa)- Huntsville Int'L Airport",
+  "institution": "FEDERAL AVIATION ADMIN (FAA)- HUNTSVILLE INT'L AIRPORT",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35824",
-  "email": true
+  "ope": null
 }

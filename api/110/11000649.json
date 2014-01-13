@@ -1,6 +1,6 @@
 {
   "facility_code": "11000649",
-  "institution": "Univ Of Wisc-Platteville",
+  "institution": "UNIV OF WISC-PLATTEVILLE",
   "city": "Platteville",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53818",
-  "email": true
+  "ope": "00392100"
 }

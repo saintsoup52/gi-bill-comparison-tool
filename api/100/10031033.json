@@ -1,6 +1,6 @@
 {
   "facility_code": "10031033",
-  "institution": "Town Of Smithfield Electrical Dept",
+  "institution": "TOWN OF SMITHFIELD ELECTRICAL DEPT",
   "city": "Smithfield",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27577",
-  "email": true
+  "ope": null
 }

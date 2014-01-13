@@ -1,6 +1,6 @@
 {
   "facility_code": "102B0705",
-  "institution": "Escondido Police Department",
+  "institution": "ESCONDIDO POLICE DEPARTMENT",
   "city": "Escondido",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92025",
-  "email": false
+  "ope": null
 }

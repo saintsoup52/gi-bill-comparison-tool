@@ -1,6 +1,6 @@
 {
   "facility_code": "10428347",
-  "institution": "Bremerton Police Department",
+  "institution": "BREMERTON POLICE DEPARTMENT",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98337",
-  "email": true
+  "ope": null
 }

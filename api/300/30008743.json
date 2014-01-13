@@ -1,6 +1,6 @@
 {
   "facility_code": "30008743",
-  "institution": "Exxon Mobil Chemical Company",
+  "institution": "EXXON MOBIL CHEMICAL COMPANY",
   "city": "Mont Belvieu",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77580",
-  "email": false
+  "ope": null
 }

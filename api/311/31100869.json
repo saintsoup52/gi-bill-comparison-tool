@@ -1,6 +1,6 @@
 {
   "facility_code": "31100869",
-  "institution": "Nanyang Technological Univ",
+  "institution": "NANYANG TECHNOLOGICAL UNIV",
   "city": "Singapore",
   "state": "Singapore",
   "country": "Singapore",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

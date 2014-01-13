@@ -1,6 +1,6 @@
 {
   "facility_code": "11106174",
-  "institution": "Heriot-Watt University",
+  "institution": "HERIOT-WATT UNIVERSITY",
   "city": "Edinburgh",
   "state": "Scotland",
   "country": "Scotland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A04310",
-  "institution": "Federal Detention Center - Miami",
+  "institution": "FEDERAL DETENTION CENTER - MIAMI",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33101",
-  "email": true
+  "ope": null
 }

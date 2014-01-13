@@ -1,6 +1,6 @@
 {
   "facility_code": "22000105",
-  "institution": "Pacific Hospital Of Long Beach",
+  "institution": "PACIFIC HOSPITAL OF LONG BEACH",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90806",
-  "email": false
+  "ope": null
 }

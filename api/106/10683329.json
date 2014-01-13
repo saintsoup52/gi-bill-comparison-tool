@@ -1,6 +1,6 @@
 {
   "facility_code": "10683329",
-  "institution": "Federal Correctional Institution (Berlin)",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION (BERLIN)",
   "city": "Berlin",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3570",
-  "email": true
+  "ope": null
 }

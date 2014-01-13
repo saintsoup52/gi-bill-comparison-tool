@@ -1,6 +1,6 @@
 {
   "facility_code": "20657130",
-  "institution": "Northrop Grumman",
+  "institution": "NORTHROP GRUMMAN",
   "city": "Eatontown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7724",
-  "email": false
+  "ope": null
 }

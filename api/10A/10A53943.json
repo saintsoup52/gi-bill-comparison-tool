@@ -1,6 +1,6 @@
 {
   "facility_code": "10A53943",
-  "institution": "Federal Correctional Institution",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION",
   "city": "Texarkana",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75501",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20007511",
-  "institution": "Operating Engineers Jac Local 926",
+  "institution": "OPERATING ENGINEERS JAC LOCAL 926",
   "city": "Ellenwood",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30049",
-  "email": false
+  "ope": null
 }

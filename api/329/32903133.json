@@ -1,6 +1,6 @@
 {
   "facility_code": "32903133",
-  "institution": "Wake Forest University Baptist Medical Center/House Staff Services",
+  "institution": "WAKE FOREST UNIVERSITY BAPTIST MEDICAL CENTER/HOUSE STAFF SERVICES",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27157",
-  "email": true
+  "ope": null
 }

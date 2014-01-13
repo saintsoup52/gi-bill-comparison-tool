@@ -1,6 +1,6 @@
 {
   "facility_code": "21014906",
-  "institution": "William Howard Taft University",
+  "institution": "WILLIAM HOWARD TAFT UNIVERSITY",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80246",
-  "email": true
+  "ope": "NONE"
 }

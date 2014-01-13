@@ -1,6 +1,6 @@
 {
   "facility_code": "20N13232",
-  "institution": "Verizon - Babylon",
+  "institution": "VERIZON - BABYLON",
   "city": "Babylon",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11704",
-  "email": false
+  "ope": null
 }

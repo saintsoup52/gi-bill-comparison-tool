@@ -1,6 +1,6 @@
 {
   "facility_code": "10160135",
-  "institution": "Youngstown Fire Dept K",
+  "institution": "YOUNGSTOWN FIRE DEPT K",
   "city": "Youngstown",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44503",
-  "email": false
+  "ope": null
 }

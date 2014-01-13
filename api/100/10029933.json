@@ -1,6 +1,6 @@
 {
   "facility_code": "10029933",
-  "institution": "Rockingham County Sheriffs Office",
+  "institution": "ROCKINGHAM COUNTY SHERIFFS OFFICE",
   "city": "Wentworth",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27375",
-  "email": true
+  "ope": null
 }

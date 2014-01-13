@@ -1,6 +1,6 @@
 {
   "facility_code": "10851521",
-  "institution": "Fmc Devens Federal Bureau Of Prisons",
+  "institution": "FMC DEVENS FEDERAL BUREAU OF PRISONS",
   "city": "Ayers",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1432",
-  "email": true
+  "ope": null
 }

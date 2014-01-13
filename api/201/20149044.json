@@ -1,6 +1,6 @@
 {
   "facility_code": "20149044",
-  "institution": "Dynix",
+  "institution": "DYNIX",
   "city": "Provo",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84604",
-  "email": false
+  "ope": null
 }

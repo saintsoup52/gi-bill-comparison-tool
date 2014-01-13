@@ -1,6 +1,6 @@
 {
   "facility_code": "10C43043",
-  "institution": "City Of Pharr Ojt",
+  "institution": "CITY OF PHARR OJT",
   "city": "Pharr",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78577",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10280147",
-  "institution": "Spokane County Sheriff'S Department-Corrections",
+  "institution": "SPOKANE COUNTY SHERIFF'S DEPARTMENT-CORRECTIONS",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99260",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10643825",
-  "institution": "St. Robert Police Dept.",
+  "institution": "ST. ROBERT POLICE DEPT.",
   "city": "St. Robert",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65584",
-  "email": false
+  "ope": null
 }

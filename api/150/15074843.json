@@ -1,6 +1,6 @@
 {
   "facility_code": "15074843",
-  "institution": "Tx A And M Engr Ext Sv Pub Sfty And Sec Tr Div",
+  "institution": "TX A AND M ENGR EXT SV PUB SFTY AND SEC TR DIV",
   "city": "Bryan",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77807",
-  "email": false
+  "ope": null
 }

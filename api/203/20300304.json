@@ -1,6 +1,6 @@
 {
   "facility_code": "20300304",
-  "institution": "At&T Northwest Regional Office",
+  "institution": "AT&T NORTHWEST REGIONAL OFFICE",
   "city": "Springdale",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72764",
-  "email": false
+  "ope": null
 }

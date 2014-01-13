@@ -1,6 +1,6 @@
 {
   "facility_code": "10828221",
-  "institution": "Northampton Police Department",
+  "institution": "NORTHAMPTON POLICE DEPARTMENT",
   "city": "Northampton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1060",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000885",
-  "institution": "Tokyo Institute Of Technology",
+  "institution": "TOKYO INSTITUTE OF TECHNOLOGY",
   "city": "Tokyo",
   "state": "Japan",
   "country": "Japan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

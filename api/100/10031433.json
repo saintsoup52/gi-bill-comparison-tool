@@ -1,6 +1,6 @@
 {
   "facility_code": "10031433",
-  "institution": "Sampson County Sheriffs Office",
+  "institution": "SAMPSON COUNTY SHERIFFS OFFICE",
   "city": "Clinton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28328",
-  "email": true
+  "ope": null
 }

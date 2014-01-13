@@ -1,6 +1,6 @@
 {
   "facility_code": "39019214",
-  "institution": "Red Oak Center",
+  "institution": "RED OAK CENTER",
   "city": "Columbus",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47201",
-  "email": false
+  "ope": null
 }

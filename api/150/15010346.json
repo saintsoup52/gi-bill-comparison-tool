@@ -1,6 +1,6 @@
 {
   "facility_code": "15010346",
-  "institution": "Henrico Cty -St Mary Hosp Sch Of Prac Nrs",
+  "institution": "HENRICO CTY -ST MARY HOSP SCH OF PRAC NRS",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "23223",
-  "email": true
+  "ope": "02242400"
 }

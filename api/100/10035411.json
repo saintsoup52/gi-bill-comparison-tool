@@ -1,6 +1,6 @@
 {
   "facility_code": "10035411",
-  "institution": "Doas-Gta-Atlanta",
+  "institution": "DOAS-GTA-ATLANTA",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30334",
-  "email": false
+  "ope": null
 }

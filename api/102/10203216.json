@@ -1,6 +1,6 @@
 {
   "facility_code": "10203216",
-  "institution": "City Of Horton",
+  "institution": "CITY OF HORTON",
   "city": "Horton",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66439",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20700927",
-  "institution": "Burlington Northern Santa Fe Railway",
+  "institution": "BURLINGTON NORTHERN SANTA FE RAILWAY",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68507",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11961125",
-  "institution": "University Of Missouri - Columbia",
+  "institution": "UNIVERSITY OF MISSOURI - COLUMBIA",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "65211",
-  "email": true
+  "ope": "00251600"
 }

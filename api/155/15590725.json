@@ -1,6 +1,6 @@
 {
   "facility_code": "15590725",
-  "institution": "Marquand-Zion R-Vi",
+  "institution": "MARQUAND-ZION R-VI",
   "city": "Marquand",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63655",
-  "email": false
+  "ope": null
 }

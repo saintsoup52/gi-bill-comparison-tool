@@ -1,6 +1,6 @@
 {
   "facility_code": "10608225",
-  "institution": "City Of Gallatin",
+  "institution": "CITY OF GALLATIN",
   "city": "Gallatin",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64640",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10700513",
-  "institution": "Bourbonnais Police Department",
+  "institution": "BOURBONNAIS POLICE DEPARTMENT",
   "city": "Bourbonnais",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60914",
-  "email": false
+  "ope": null
 }

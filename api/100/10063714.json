@@ -1,6 +1,6 @@
 {
   "facility_code": "10063714",
-  "institution": "Munster Police Department",
+  "institution": "MUNSTER POLICE DEPARTMENT",
   "city": "Munster",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46321",
-  "email": false
+  "ope": null
 }

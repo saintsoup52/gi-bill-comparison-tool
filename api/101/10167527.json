@@ -1,6 +1,6 @@
 {
   "facility_code": "10167527",
-  "institution": "Faa - North Platte System Support Center",
+  "institution": "FAA - NORTH PLATTE SYSTEM SUPPORT CENTER",
   "city": "North Platte",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "69101",
-  "email": true
+  "ope": null
 }

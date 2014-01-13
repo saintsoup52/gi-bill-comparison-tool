@@ -1,6 +1,6 @@
 {
   "facility_code": "10212121",
-  "institution": "Lynn Fire Department",
+  "institution": "LYNN FIRE DEPARTMENT",
   "city": "Lynn",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1905",
-  "email": true
+  "ope": null
 }

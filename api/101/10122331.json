@@ -1,6 +1,6 @@
 {
   "facility_code": "10122331",
-  "institution": "Carlsbad Police Department",
+  "institution": "CARLSBAD POLICE DEPARTMENT",
   "city": "Carlsbad",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88220",
-  "email": true
+  "ope": null
 }

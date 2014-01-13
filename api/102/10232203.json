@@ -1,6 +1,6 @@
 {
   "facility_code": "10232203",
-  "institution": "Apache Junction Police Department",
+  "institution": "APACHE JUNCTION POLICE DEPARTMENT",
   "city": "Apache Junction",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85219",
-  "email": false
+  "ope": null
 }

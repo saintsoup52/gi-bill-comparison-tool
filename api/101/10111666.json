@@ -1,6 +1,6 @@
 {
   "facility_code": "10111666",
-  "institution": "Faa Guam Artcc",
+  "institution": "FAA GUAM ARTCC",
   "city": "Barrigada",
   "state": "GU",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96913",
-  "email": true
+  "ope": null
 }

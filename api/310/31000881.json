@@ -1,6 +1,6 @@
 {
   "facility_code": "31000881",
-  "institution": "American University Of Athens",
+  "institution": "AMERICAN UNIVERSITY OF ATHENS",
   "city": "Athens",
   "state": "Greece",
   "country": "Greece",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

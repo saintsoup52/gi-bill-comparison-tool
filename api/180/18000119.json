@@ -1,6 +1,6 @@
 {
   "facility_code": "18000119",
-  "institution": "Lewiston Adult Education",
+  "institution": "LEWISTON ADULT EDUCATION",
   "city": "Lewiston",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4240",
-  "email": true
+  "ope": null
 }

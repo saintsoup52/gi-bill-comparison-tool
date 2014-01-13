@@ -1,6 +1,6 @@
 {
   "facility_code": "20590513",
-  "institution": "East Balt Commissary",
+  "institution": "EAST BALT COMMISSARY",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60608",
-  "email": false
+  "ope": null
 }

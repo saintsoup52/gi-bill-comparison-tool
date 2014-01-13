@@ -1,6 +1,6 @@
 {
   "facility_code": "10549730",
-  "institution": "Rahway Fire Department",
+  "institution": "RAHWAY FIRE DEPARTMENT",
   "city": "Rahway",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7065",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10654540",
-  "institution": "Lane Police Department",
+  "institution": "LANE POLICE DEPARTMENT",
   "city": "Lane",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29564",
-  "email": false
+  "ope": null
 }

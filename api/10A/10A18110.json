@@ -1,6 +1,6 @@
 {
   "facility_code": "10A18110",
-  "institution": "City Of Stuart Fire Rescue",
+  "institution": "CITY OF STUART FIRE RESCUE",
   "city": "Stuart",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33994",
-  "email": true
+  "ope": null
 }

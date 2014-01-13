@@ -1,6 +1,6 @@
 {
   "facility_code": "10232030",
-  "institution": "Bayonne Fire Department",
+  "institution": "BAYONNE FIRE DEPARTMENT",
   "city": "Bayonne",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7002",
-  "email": false
+  "ope": null
 }

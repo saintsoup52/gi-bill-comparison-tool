@@ -1,6 +1,6 @@
 {
   "facility_code": "10205116",
-  "institution": "Galena Police Department",
+  "institution": "GALENA POLICE DEPARTMENT",
   "city": "Galena",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66739",
-  "email": false
+  "ope": null
 }

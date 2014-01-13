@@ -1,6 +1,6 @@
 {
   "facility_code": "10503417",
-  "institution": "Little Sandy Correctional Complex",
+  "institution": "LITTLE SANDY CORRECTIONAL COMPLEX",
   "city": "Sandy Hook",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41171",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20640530",
-  "institution": "New Jersey Bell Telephone Company",
+  "institution": "NEW JERSEY BELL TELEPHONE COMPANY",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7306",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10713225",
-  "institution": "Arnold Police Department",
+  "institution": "ARNOLD POLICE DEPARTMENT",
   "city": "Arnold",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63010",
-  "email": true
+  "ope": null
 }

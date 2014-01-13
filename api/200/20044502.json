@@ -1,6 +1,6 @@
 {
   "facility_code": "20044502",
-  "institution": "Abc Of Alaska Inc.",
+  "institution": "ABC OF ALASKA INC.",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99503",
-  "email": false
+  "ope": null
 }

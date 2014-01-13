@@ -1,6 +1,6 @@
 {
   "facility_code": "20005111",
-  "institution": "Bellsouth Telecommunications (Atlanta)",
+  "institution": "BELLSOUTH TELECOMMUNICATIONS (ATLANTA)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30316",
-  "email": false
+  "ope": null
 }

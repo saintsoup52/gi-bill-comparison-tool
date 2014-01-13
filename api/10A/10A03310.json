@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03310",
-  "institution": "Federal Aviation Admin (Faa) St Petersburg-Clearwater Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) ST PETERSBURG-CLEARWATER TOWER",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33762",
-  "email": true
+  "ope": null
 }

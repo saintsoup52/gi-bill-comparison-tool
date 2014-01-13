@@ -1,6 +1,6 @@
 {
   "facility_code": "10W52638",
-  "institution": "Pennsylvania State Police Troop E. Erie",
+  "institution": "PENNSYLVANIA STATE POLICE TROOP E. ERIE",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16511",
-  "email": false
+  "ope": null
 }

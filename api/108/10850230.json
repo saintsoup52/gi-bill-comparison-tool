@@ -1,6 +1,6 @@
 {
   "facility_code": "10850230",
-  "institution": "New Jersey Division Of Parole",
+  "institution": "NEW JERSEY DIVISION OF PAROLE",
   "city": "Paterson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7505",
-  "email": true
+  "ope": null
 }

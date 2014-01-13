@@ -1,6 +1,6 @@
 {
   "facility_code": "18701364",
-  "institution": "Hawaii County Police Department",
+  "institution": "HAWAII COUNTY POLICE DEPARTMENT",
   "city": "Hilo",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96720",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001619",
-  "institution": "University Of Maine - Fort Kent",
+  "institution": "UNIVERSITY OF MAINE - FORT KENT",
   "city": "Fort Kent",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4743",
-  "email": true
+  "ope": "00204100"
 }

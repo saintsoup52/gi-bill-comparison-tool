@@ -1,6 +1,6 @@
 {
   "facility_code": "20028135",
-  "institution": "Hoover Company The K",
+  "institution": "HOOVER COMPANY THE K",
   "city": "North Canton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44720",
-  "email": false
+  "ope": null
 }

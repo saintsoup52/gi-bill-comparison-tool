@@ -1,6 +1,6 @@
 {
   "facility_code": "10032519",
-  "institution": "Auburn Fire Department",
+  "institution": "AUBURN FIRE DEPARTMENT",
   "city": "Auburn",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4210",
-  "email": true
+  "ope": null
 }

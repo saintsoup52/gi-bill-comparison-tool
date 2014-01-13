@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8005",
-  "institution": "California Highway Patrol- East Los Angeles",
+  "institution": "CALIFORNIA HIGHWAY PATROL- EAST LOS ANGELES",
   "city": "Monterey Park",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91754",
-  "email": true
+  "ope": null
 }

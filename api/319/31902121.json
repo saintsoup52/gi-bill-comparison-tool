@@ -1,6 +1,6 @@
 {
   "facility_code": "31902121",
-  "institution": "Clark University",
+  "institution": "CLARK UNIVERSITY",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "1610",
-  "email": true
+  "ope": "00213900"
 }

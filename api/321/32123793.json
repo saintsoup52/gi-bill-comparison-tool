@@ -1,6 +1,6 @@
 {
   "facility_code": "32123793",
-  "institution": "Goteborg University Faculty Of Medicine",
+  "institution": "GOTEBORG UNIVERSITY FACULTY OF MEDICINE",
   "city": "Se 405 30 Goteborg",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

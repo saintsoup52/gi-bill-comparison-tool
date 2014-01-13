@@ -1,6 +1,6 @@
 {
   "facility_code": "25003526",
-  "institution": "Missoula Emergency Services",
+  "institution": "MISSOULA EMERGENCY SERVICES",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59801",
-  "email": true
+  "ope": null
 }

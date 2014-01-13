@@ -1,6 +1,6 @@
 {
   "facility_code": "10120331",
-  "institution": "Us Department Of Energy",
+  "institution": "US DEPARTMENT OF ENERGY",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87185",
-  "email": false
+  "ope": null
 }

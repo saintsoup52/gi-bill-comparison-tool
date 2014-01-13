@@ -1,6 +1,6 @@
 {
   "facility_code": "10059414",
-  "institution": "Connersville Police Department",
+  "institution": "CONNERSVILLE POLICE DEPARTMENT",
   "city": "Connersville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47331",
-  "email": false
+  "ope": null
 }

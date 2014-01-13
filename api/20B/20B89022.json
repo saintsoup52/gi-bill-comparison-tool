@@ -1,6 +1,6 @@
 {
   "facility_code": "20B89022",
-  "institution": "Ntb Inc.",
+  "institution": "NTB INC.",
   "city": "Byron Center",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49315",
-  "email": true
+  "ope": null
 }

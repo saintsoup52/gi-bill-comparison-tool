@@ -1,6 +1,6 @@
 {
   "facility_code": "19013706",
-  "institution": "Centers For Disease Control & Prevention",
+  "institution": "CENTERS FOR DISEASE CONTROL & PREVENTION",
   "city": "Fort Collins",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80521",
-  "email": false
+  "ope": null
 }

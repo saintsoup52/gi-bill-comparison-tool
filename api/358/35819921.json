@@ -1,6 +1,6 @@
 {
   "facility_code": "35819921",
-  "institution": "Boston University'S Center For Digital Imaging Arts",
+  "institution": "BOSTON UNIVERSITY'S CENTER FOR DIGITAL IMAGING ARTS",
   "city": "Waltham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2453",
-  "email": true
+  "ope": "00213000"
 }

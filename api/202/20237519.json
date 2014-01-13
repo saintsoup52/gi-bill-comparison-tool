@@ -1,6 +1,6 @@
 {
   "facility_code": "20237519",
-  "institution": "Eastern Maine Medical Center",
+  "institution": "EASTERN MAINE MEDICAL CENTER",
   "city": "Bangor",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4401",
-  "email": true
+  "ope": null
 }

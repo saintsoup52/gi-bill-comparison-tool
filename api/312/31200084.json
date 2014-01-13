@@ -1,6 +1,6 @@
 {
   "facility_code": "31200084",
-  "institution": "American University Of Rome",
+  "institution": "AMERICAN UNIVERSITY OF ROME",
   "city": "Rome",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

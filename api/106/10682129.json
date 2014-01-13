@@ -1,6 +1,6 @@
 {
   "facility_code": "10682129",
-  "institution": "Nh State Police Forensic Laboratory",
+  "institution": "NH STATE POLICE FORENSIC LABORATORY",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3305",
-  "email": false
+  "ope": null
 }

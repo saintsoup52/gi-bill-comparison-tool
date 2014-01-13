@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91806",
-  "institution": "Colorado Springs Utilities; University Of Springs Utilities",
+  "institution": "COLORADO SPRINGS UTILITIES; UNIVERSITY OF SPRINGS UTILITIES",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80947",
-  "email": true
+  "ope": null
 }

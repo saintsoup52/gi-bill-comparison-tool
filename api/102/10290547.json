@@ -1,6 +1,6 @@
 {
   "facility_code": "10290547",
-  "institution": "Ft Lewis/Madigan Civ Personnel Off            Ch31",
+  "institution": "FT LEWIS/MADIGAN CIV PERSONNEL OFF            CH31",
   "city": "Ft Lewis",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98433",
-  "email": false
+  "ope": null
 }

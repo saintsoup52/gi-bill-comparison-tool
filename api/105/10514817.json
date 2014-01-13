@@ -1,6 +1,6 @@
 {
   "facility_code": "10514817",
-  "institution": "Office Of Employment And Training",
+  "institution": "OFFICE OF EMPLOYMENT AND TRAINING",
   "city": "Elizabethtown",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42701",
-  "email": false
+  "ope": null
 }

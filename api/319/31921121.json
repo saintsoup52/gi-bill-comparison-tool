@@ -1,6 +1,6 @@
 {
   "facility_code": "31921121",
-  "institution": "Springfield College Springfield Ma",
+  "institution": "SPRINGFIELD COLLEGE SPRINGFIELD MA",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "1109",
-  "email": true
+  "ope": "00221100"
 }

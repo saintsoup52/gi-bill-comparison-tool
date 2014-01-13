@@ -1,6 +1,6 @@
 {
   "facility_code": "20708525",
-  "institution": "Edward Jones - St. Louis",
+  "institution": "EDWARD JONES - ST. LOUIS",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63043",
-  "email": false
+  "ope": null
 }

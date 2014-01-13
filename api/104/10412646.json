@@ -1,6 +1,6 @@
 {
   "facility_code": "10412646",
-  "institution": "Southampton Detention Center",
+  "institution": "SOUTHAMPTON DETENTION CENTER",
   "city": "Capron",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23829",
-  "email": false
+  "ope": null
 }

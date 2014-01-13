@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02938",
-  "institution": "Borough Of West Chester - Public Works Department",
+  "institution": "BOROUGH OF WEST CHESTER - PUBLIC WORKS DEPARTMENT",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19382",
-  "email": true
+  "ope": null
 }

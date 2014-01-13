@@ -1,6 +1,6 @@
 {
   "facility_code": "20276337",
-  "institution": "Symantec Corporation",
+  "institution": "SYMANTEC CORPORATION",
   "city": "Springfield",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97477",
-  "email": false
+  "ope": null
 }

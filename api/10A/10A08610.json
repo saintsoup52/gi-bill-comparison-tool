@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08610",
-  "institution": "Federal Aviation Admin (Faa) Daytona Beach System Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) DAYTONA BEACH SYSTEM SUPPORT CENTER",
   "city": "Daytona Beach Fl",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32114",
-  "email": true
+  "ope": null
 }

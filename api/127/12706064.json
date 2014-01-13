@@ -1,6 +1,6 @@
 {
   "facility_code": "12706064",
-  "institution": "Tripler Army Medical Center",
+  "institution": "TRIPLER ARMY MEDICAL CENTER",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96859",
-  "email": true
+  "ope": null
 }

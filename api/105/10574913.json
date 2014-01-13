@@ -1,6 +1,6 @@
 {
   "facility_code": "10574913",
-  "institution": "Moline Police Dept.",
+  "institution": "MOLINE POLICE DEPT.",
   "city": "Moline",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61265",
-  "email": true
+  "ope": null
 }

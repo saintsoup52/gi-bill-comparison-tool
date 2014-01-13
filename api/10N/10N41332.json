@@ -1,6 +1,6 @@
 {
   "facility_code": "10N41332",
-  "institution": "Faa-Westchester Tower",
+  "institution": "FAA-WESTCHESTER TOWER",
   "city": "White Plains",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10604",
-  "email": true
+  "ope": null
 }

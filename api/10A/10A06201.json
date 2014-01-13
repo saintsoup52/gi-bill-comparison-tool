@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06201",
-  "institution": "Federal Aviation Admin (Faa)- Montgomery Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA)- MONTGOMERY TRACON/TOWER",
   "city": "Hope Hull",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36043",
-  "email": true
+  "ope": null
 }

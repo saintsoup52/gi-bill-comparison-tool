@@ -1,6 +1,6 @@
 {
   "facility_code": "14900130",
-  "institution": "Essex County College",
+  "institution": "ESSEX COUNTY COLLEGE",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "7102",
-  "email": true
+  "ope": "00710700"
 }

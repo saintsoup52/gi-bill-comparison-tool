@@ -1,6 +1,6 @@
 {
   "facility_code": "10494846",
-  "institution": "Virginia State Police Area Office #13",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #13",
   "city": "Winchester",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22602",
-  "email": false
+  "ope": null
 }

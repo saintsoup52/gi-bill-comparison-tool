@@ -1,6 +1,6 @@
 {
   "facility_code": "31000349",
-  "institution": "Lawrence University",
+  "institution": "LAWRENCE UNIVERSITY",
   "city": "Appleton",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "54911",
-  "email": true
+  "ope": "00385600"
 }

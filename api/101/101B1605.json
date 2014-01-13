@@ -1,6 +1,6 @@
 {
   "facility_code": "101B1605",
-  "institution": "Tulare County Sheriff'S Department",
+  "institution": "TULARE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Visalia",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93291",
-  "email": false
+  "ope": null
 }

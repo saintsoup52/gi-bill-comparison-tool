@@ -1,6 +1,6 @@
 {
   "facility_code": "10411246",
-  "institution": "James River Correctional Ctr",
+  "institution": "JAMES RIVER CORRECTIONAL CTR",
   "city": "State Farm",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23160",
-  "email": false
+  "ope": null
 }

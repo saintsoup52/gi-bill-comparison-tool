@@ -1,6 +1,6 @@
 {
   "facility_code": "10012733",
-  "institution": "Ncdoc - Wake Correctional Center",
+  "institution": "NCDOC - WAKE CORRECTIONAL CENTER",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27610",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10840430",
-  "institution": "Department Of Human Services Juvenile Detention Center",
+  "institution": "DEPARTMENT OF HUMAN SERVICES JUVENILE DETENTION CENTER",
   "city": "Morristown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7963",
-  "email": false
+  "ope": null
 }

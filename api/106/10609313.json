@@ -1,6 +1,6 @@
 {
   "facility_code": "10609313",
-  "institution": "Logan County Sheriff Department",
+  "institution": "LOGAN COUNTY SHERIFF DEPARTMENT",
   "city": "Lincoln",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62656",
-  "email": true
+  "ope": null
 }

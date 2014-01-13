@@ -1,6 +1,6 @@
 {
   "facility_code": "10254548",
-  "institution": "Federal Correctional Institution - Morgantown (R F Kennedy Ctr)",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - MORGANTOWN (R F KENNEDY CTR)",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26505",
-  "email": false
+  "ope": null
 }

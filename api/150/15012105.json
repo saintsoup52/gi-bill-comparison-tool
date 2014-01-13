@@ -1,6 +1,6 @@
 {
   "facility_code": "15012105",
-  "institution": "Tri-Cities Rop",
+  "institution": "TRI-CITIES ROP",
   "city": "Whittier",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90606",
-  "email": true
+  "ope": "NONE"
 }

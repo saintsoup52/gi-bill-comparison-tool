@@ -1,6 +1,6 @@
 {
   "facility_code": "10N46132",
-  "institution": "Faa Buffalo System Support Center (Ssc)",
+  "institution": "FAA BUFFALO SYSTEM SUPPORT CENTER (SSC)",
   "city": "Cheektowaga",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14225",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24000123",
-  "institution": "Minneapolis Media Institute",
+  "institution": "MINNEAPOLIS MEDIA INSTITUTE",
   "city": "Edina",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "55435",
-  "email": false
+  "ope": "01091302"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10626240",
-  "institution": "Spartanburg County Sheriff'S Office",
+  "institution": "SPARTANBURG COUNTY SHERIFF'S OFFICE",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29301",
-  "email": false
+  "ope": null
 }

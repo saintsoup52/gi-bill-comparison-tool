@@ -1,6 +1,6 @@
 {
   "facility_code": "31000176",
-  "institution": "Pont Univ Cat Madre Y Maestra",
+  "institution": "PONT UNIV CAT MADRE Y MAESTRA",
   "city": "Santiago",
   "state": "Dominican Republic",
   "country": "Dominican Republic",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

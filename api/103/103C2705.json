@@ -1,6 +1,6 @@
 {
   "facility_code": "103C2705",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Huntington Park",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90255",
-  "email": false
+  "ope": null
 }

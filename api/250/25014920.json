@@ -1,6 +1,6 @@
 {
   "facility_code": "25014920",
-  "institution": "Baltimore County Office Of Employment & Training",
+  "institution": "BALTIMORE COUNTY OFFICE OF EMPLOYMENT & TRAINING",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21228",
-  "email": false
+  "ope": null
 }

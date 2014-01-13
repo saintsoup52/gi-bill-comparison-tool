@@ -1,6 +1,6 @@
 {
   "facility_code": "10031533",
-  "institution": "County Of Cabarrus",
+  "institution": "COUNTY OF CABARRUS",
   "city": "Concord",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28026",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03610",
-  "institution": "Federal Aviation Admin (Faa) Tampa Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TAMPA TRACON/TOWER",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33607",
-  "email": false
+  "ope": null
 }

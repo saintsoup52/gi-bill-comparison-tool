@@ -1,6 +1,6 @@
 {
   "facility_code": "10582713",
-  "institution": "Clinton Power Station",
+  "institution": "CLINTON POWER STATION",
   "city": "Clinton",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61727",
-  "email": true
+  "ope": null
 }

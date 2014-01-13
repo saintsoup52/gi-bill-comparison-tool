@@ -1,6 +1,6 @@
 {
   "facility_code": "10598025",
-  "institution": "Carl Junction Police Dept.",
+  "institution": "CARL JUNCTION POLICE DEPT.",
   "city": "Carl Junction",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64834",
-  "email": false
+  "ope": null
 }

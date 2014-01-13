@@ -1,6 +1,6 @@
 {
   "facility_code": "10700613",
-  "institution": "Illinois State University Police Department",
+  "institution": "ILLINOIS STATE UNIVERSITY POLICE DEPARTMENT",
   "city": "Normal",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61790",
-  "email": false
+  "ope": null
 }

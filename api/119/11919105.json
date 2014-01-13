@@ -1,6 +1,6 @@
 {
   "facility_code": "11919105",
-  "institution": "California State University-Fresno",
+  "institution": "CALIFORNIA STATE UNIVERSITY-FRESNO",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93740",
-  "email": true
+  "ope": "00114700"
 }

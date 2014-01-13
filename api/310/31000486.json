@@ -1,6 +1,6 @@
 {
   "facility_code": "31000486",
-  "institution": "Universidad La Salle",
+  "institution": "UNIVERSIDAD LA SALLE",
   "city": "Delegacion",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

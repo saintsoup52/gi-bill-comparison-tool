@@ -1,6 +1,6 @@
 {
   "facility_code": "11839210",
-  "institution": "Miami-Dade College-Wolfson New World Ctr",
+  "institution": "MIAMI-DADE COLLEGE-WOLFSON NEW WORLD CTR",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "33132",
-  "email": true
+  "ope": "00150603"
 }

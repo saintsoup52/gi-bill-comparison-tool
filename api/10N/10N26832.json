@@ -1,6 +1,6 @@
 {
   "facility_code": "10N26832",
-  "institution": "City Of Glens Falls Police Department",
+  "institution": "CITY OF GLENS FALLS POLICE DEPARTMENT",
   "city": "Glens Falls",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12801",
-  "email": false
+  "ope": null
 }

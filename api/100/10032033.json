@@ -1,6 +1,6 @@
 {
   "facility_code": "10032033",
-  "institution": "Carteret County Sheriffs Office",
+  "institution": "CARTERET COUNTY SHERIFFS OFFICE",
   "city": "Beaufort",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28516",
-  "email": true
+  "ope": null
 }

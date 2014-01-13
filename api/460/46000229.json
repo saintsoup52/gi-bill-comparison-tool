@@ -1,6 +1,6 @@
 {
   "facility_code": "46000229",
-  "institution": "Nh Superior Court",
+  "institution": "NH SUPERIOR COURT",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3301",
-  "email": false
+  "ope": null
 }

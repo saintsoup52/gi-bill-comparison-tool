@@ -1,6 +1,6 @@
 {
   "facility_code": "10A05301",
-  "institution": "Argo Fire And Rescue",
+  "institution": "ARGO FIRE AND RESCUE",
   "city": "Trussville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35173",
-  "email": true
+  "ope": null
 }

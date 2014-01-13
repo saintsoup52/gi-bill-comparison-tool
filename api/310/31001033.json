@@ -1,6 +1,6 @@
 {
   "facility_code": "31001033",
-  "institution": "Lenoir-Rhyne University (Formerly College)",
+  "institution": "LENOIR-RHYNE UNIVERSITY (FORMERLY COLLEGE)",
   "city": "Hickory",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "28603",
-  "email": true
+  "ope": "00294100"
 }

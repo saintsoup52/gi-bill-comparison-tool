@@ -1,6 +1,6 @@
 {
   "facility_code": "10492017",
-  "institution": "Louisville Fire Department",
+  "institution": "LOUISVILLE FIRE DEPARTMENT",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40203",
-  "email": true
+  "ope": null
 }

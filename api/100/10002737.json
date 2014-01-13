@@ -1,6 +1,6 @@
 {
   "facility_code": "10002737",
-  "institution": "Federal Correctional Institution (Sheridan)",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION (SHERIDAN)",
   "city": "Sheridan",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97378",
-  "email": true
+  "ope": null
 }

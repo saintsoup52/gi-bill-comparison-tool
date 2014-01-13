@@ -1,6 +1,6 @@
 {
   "facility_code": "10021133",
-  "institution": "City Of Charlotte - Charlotte Mecklenburg Police Department",
+  "institution": "CITY OF CHARLOTTE - CHARLOTTE MECKLENBURG POLICE DEPARTMENT",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28217",
-  "email": true
+  "ope": null
 }

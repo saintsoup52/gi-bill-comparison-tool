@@ -1,6 +1,6 @@
 {
   "facility_code": "10N15432",
-  "institution": "Chenango County Sheriff'S Office",
+  "institution": "CHENANGO COUNTY SHERIFF'S OFFICE",
   "city": "Norwich",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13815",
-  "email": false
+  "ope": null
 }

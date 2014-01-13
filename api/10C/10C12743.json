@@ -1,6 +1,6 @@
 {
   "facility_code": "10C12743",
-  "institution": "Federal Correctional Institution Three Rivers",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION THREE RIVERS",
   "city": "Three Rivers",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78071",
-  "email": false
+  "ope": null
 }

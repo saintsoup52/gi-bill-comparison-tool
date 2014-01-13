@@ -1,6 +1,6 @@
 {
   "facility_code": "20451003",
-  "institution": "Casa Grande Regional Medical Center (Ch31-Only)",
+  "institution": "CASA GRANDE REGIONAL MEDICAL CENTER (CH31-ONLY)",
   "city": "Casa Grande",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85222",
-  "email": false
+  "ope": null
 }

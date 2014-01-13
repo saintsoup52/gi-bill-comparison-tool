@@ -1,6 +1,6 @@
 {
   "facility_code": "29813138",
-  "institution": "Thorncroft",
+  "institution": "THORNCROFT",
   "city": "Malvern",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19355",
-  "email": false
+  "ope": null
 }

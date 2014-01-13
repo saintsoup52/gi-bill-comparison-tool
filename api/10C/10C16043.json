@@ -1,6 +1,6 @@
 {
   "facility_code": "10C16043",
-  "institution": "Federal Medical Ctr Carswell Ft Worth",
+  "institution": "FEDERAL MEDICAL CTR CARSWELL FT WORTH",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76127",
-  "email": false
+  "ope": null
 }

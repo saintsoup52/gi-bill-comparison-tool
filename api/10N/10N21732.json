@@ -1,6 +1,6 @@
 {
   "facility_code": "10N21732",
-  "institution": "New York Police Dept. - School Safety Div. - Brooklyn South Command",
+  "institution": "NEW YORK POLICE DEPT. - SCHOOL SAFETY DIV. - BROOKLYN SOUTH COMMAND",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11236",
-  "email": false
+  "ope": null
 }

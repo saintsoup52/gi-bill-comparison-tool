@@ -1,6 +1,6 @@
 {
   "facility_code": "10553030",
-  "institution": "Burlington County Detention Facility",
+  "institution": "BURLINGTON COUNTY DETENTION FACILITY",
   "city": "Mount Holly",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8060",
-  "email": true
+  "ope": null
 }

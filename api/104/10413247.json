@@ -1,6 +1,6 @@
 {
   "facility_code": "10413247",
-  "institution": "Snohomish County Sheriff",
+  "institution": "SNOHOMISH COUNTY SHERIFF",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98201",
-  "email": true
+  "ope": null
 }

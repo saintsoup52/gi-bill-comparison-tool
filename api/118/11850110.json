@@ -1,6 +1,6 @@
 {
   "facility_code": "11850110",
-  "institution": "St Petersburg College-Clearwater",
+  "institution": "ST PETERSBURG COLLEGE-CLEARWATER",
   "city": "Clearwater",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "33765",
-  "email": true
+  "ope": "00152801"
 }

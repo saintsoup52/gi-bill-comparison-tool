@@ -1,6 +1,6 @@
 {
   "facility_code": "10003208",
-  "institution": "Camden Police Department",
+  "institution": "CAMDEN POLICE DEPARTMENT",
   "city": "Camden",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19934",
-  "email": false
+  "ope": null
 }

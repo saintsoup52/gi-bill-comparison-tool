@@ -1,6 +1,6 @@
 {
   "facility_code": "10012212",
-  "institution": "Rupert Police Department",
+  "institution": "RUPERT POLICE DEPARTMENT",
   "city": "Rupert",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83350",
-  "email": false
+  "ope": null
 }

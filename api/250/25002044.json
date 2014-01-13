@@ -1,6 +1,6 @@
 {
   "facility_code": "25002044",
-  "institution": "Sage Technical Services (Ch 31)",
+  "institution": "SAGE TECHNICAL SERVICES (CH 31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84116",
-  "email": false
+  "ope": null
 }

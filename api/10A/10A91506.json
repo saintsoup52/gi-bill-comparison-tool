@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91506",
-  "institution": "University Of Colorado-Colorado Springs Dept. Of Safety",
+  "institution": "UNIVERSITY OF COLORADO-COLORADO SPRINGS DEPT. OF SAFETY",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80918",
-  "email": true
+  "ope": null
 }

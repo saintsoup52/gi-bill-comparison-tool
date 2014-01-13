@@ -1,6 +1,6 @@
 {
   "facility_code": "10230830",
-  "institution": "City Of Camden Fire Department",
+  "institution": "CITY OF CAMDEN FIRE DEPARTMENT",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8102",
-  "email": false
+  "ope": null
 }

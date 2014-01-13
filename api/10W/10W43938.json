@@ -1,6 +1,6 @@
 {
   "facility_code": "10W43938",
-  "institution": "Faa - Wilkes Barre Radar/Navigation/Communications/Environmental Ssc",
+  "institution": "FAA - WILKES BARRE RADAR/NAVIGATION/COMMUNICATIONS/ENVIRONMENTAL SSC",
   "city": "Avoca",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18641",
-  "email": true
+  "ope": null
 }

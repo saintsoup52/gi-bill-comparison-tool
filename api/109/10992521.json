@@ -1,6 +1,6 @@
 {
   "facility_code": "10992521",
-  "institution": "Noaa; National Marine Fisheries Science Center Woods Hole Ma",
+  "institution": "NOAA; NATIONAL MARINE FISHERIES SCIENCE CENTER WOODS HOLE MA",
   "city": "Woods Hole",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2543",
-  "email": true
+  "ope": null
 }

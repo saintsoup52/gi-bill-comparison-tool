@@ -1,6 +1,6 @@
 {
   "facility_code": "10519830",
-  "institution": "Morris Plains Police Department",
+  "institution": "MORRIS PLAINS POLICE DEPARTMENT",
   "city": "Morris Plains",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7950",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10581913",
-  "institution": "Will County Adult Detention Facility",
+  "institution": "WILL COUNTY ADULT DETENTION FACILITY",
   "city": "Joliet",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60436",
-  "email": true
+  "ope": null
 }

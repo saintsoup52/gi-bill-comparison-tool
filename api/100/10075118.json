@@ -1,6 +1,6 @@
 {
   "facility_code": "10075118",
-  "institution": "Veterans Resources Ctr (Ch 31)",
+  "institution": "VETERANS RESOURCES CTR (CH 31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70116",
-  "email": false
+  "ope": null
 }

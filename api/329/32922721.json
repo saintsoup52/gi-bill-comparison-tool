@@ -1,6 +1,6 @@
 {
   "facility_code": "32922721",
-  "institution": "Brigham & Women'S Hospital",
+  "institution": "BRIGHAM & WOMEN'S HOSPITAL",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2115",
-  "email": true
+  "ope": "00634300"
 }

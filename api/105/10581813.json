@@ -1,6 +1,6 @@
 {
   "facility_code": "10581813",
-  "institution": "South Holland Police Department",
+  "institution": "SOUTH HOLLAND POLICE DEPARTMENT",
   "city": "South Holland",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60473",
-  "email": true
+  "ope": null
 }

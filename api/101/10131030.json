@@ -1,6 +1,6 @@
 {
   "facility_code": "10131030",
-  "institution": "Newark Police Department",
+  "institution": "NEWARK POLICE DEPARTMENT",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7104",
-  "email": false
+  "ope": null
 }

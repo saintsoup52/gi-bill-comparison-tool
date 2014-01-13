@@ -1,6 +1,6 @@
 {
   "facility_code": "10439347",
-  "institution": "Spokane County Sheriff'S Office",
+  "institution": "SPOKANE COUNTY SHERIFF'S OFFICE",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99260",
-  "email": true
+  "ope": null
 }

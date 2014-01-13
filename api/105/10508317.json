@@ -1,6 +1,6 @@
 {
   "facility_code": "10508317",
-  "institution": "Cave City Police Department",
+  "institution": "CAVE CITY POLICE DEPARTMENT",
   "city": "Cave City",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42127",
-  "email": false
+  "ope": null
 }

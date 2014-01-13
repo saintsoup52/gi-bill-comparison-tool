@@ -1,6 +1,6 @@
 {
   "facility_code": "25594425",
-  "institution": "Wti - Joplin",
+  "institution": "WTI - JOPLIN",
   "city": "Joplin",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "64804",
-  "email": true
+  "ope": "01050303"
 }

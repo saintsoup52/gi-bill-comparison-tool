@@ -1,6 +1,6 @@
 {
   "facility_code": "10068214",
-  "institution": "Sheridan Police Department",
+  "institution": "SHERIDAN POLICE DEPARTMENT",
   "city": "Sheridan",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46069",
-  "email": false
+  "ope": null
 }

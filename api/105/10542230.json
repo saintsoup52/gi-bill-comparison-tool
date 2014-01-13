@@ -1,6 +1,6 @@
 {
   "facility_code": "10542230",
-  "institution": "Leonia Police Department",
+  "institution": "LEONIA POLICE DEPARTMENT",
   "city": "Leonia",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7605",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25054121",
-  "institution": "New Horizons Clc Waltham",
+  "institution": "NEW HORIZONS CLC WALTHAM",
   "city": "Waltham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2451",
-  "email": true
+  "ope": null
 }

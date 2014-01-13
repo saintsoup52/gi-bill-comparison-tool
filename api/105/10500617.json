@@ -1,6 +1,6 @@
 {
   "facility_code": "10500617",
-  "institution": "Vine Grove Police Department",
+  "institution": "VINE GROVE POLICE DEPARTMENT",
   "city": "Vine Grove",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40175",
-  "email": false
+  "ope": null
 }

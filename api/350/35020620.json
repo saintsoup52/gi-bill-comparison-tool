@@ -1,6 +1,6 @@
 {
   "facility_code": "35020620",
-  "institution": "Sales And Management Institute",
+  "institution": "SALES AND MANAGEMENT INSTITUTE",
   "city": "Potomac",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20854",
-  "email": true
+  "ope": null
 }

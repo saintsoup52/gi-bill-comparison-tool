@@ -1,6 +1,6 @@
 {
   "facility_code": "10N41932",
-  "institution": "City Of Corning Police Department",
+  "institution": "CITY OF CORNING POLICE DEPARTMENT",
   "city": "Corning",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14830",
-  "email": true
+  "ope": null
 }

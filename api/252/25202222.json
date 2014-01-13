@@ -1,6 +1,6 @@
 {
   "facility_code": "25202222",
-  "institution": "Detroit Training Institute Of Technology",
+  "institution": "DETROIT TRAINING INSTITUTE OF TECHNOLOGY",
   "city": "St. Clair Shores",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48080",
-  "email": true
+  "ope": null
 }

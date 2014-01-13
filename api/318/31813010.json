@@ -1,6 +1,6 @@
 {
   "facility_code": "31813010",
-  "institution": "Nova Southeastern University",
+  "institution": "NOVA SOUTHEASTERN UNIVERSITY",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "33314",
-  "email": true
+  "ope": "00150900"
 }

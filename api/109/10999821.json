@@ -1,6 +1,6 @@
 {
   "facility_code": "10999821",
-  "institution": "Worcester County Sheriff'S Office",
+  "institution": "WORCESTER COUNTY SHERIFF'S OFFICE",
   "city": "West Boylston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1583",
-  "email": true
+  "ope": null
 }

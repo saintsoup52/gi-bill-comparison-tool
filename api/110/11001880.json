@@ -1,6 +1,6 @@
 {
   "facility_code": "11001880",
-  "institution": "Hochschule Mannheim - University Of Applied Sciences",
+  "institution": "HOCHSCHULE MANNHEIM - UNIVERSITY OF APPLIED SCIENCES",
   "city": "68163 Mannheim",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

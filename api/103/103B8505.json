@@ -1,6 +1,6 @@
 {
   "facility_code": "103B8505",
-  "institution": "Dept. Of Homeland Security/ Office Of Immigration & Customs Enforcement (Ice)",
+  "institution": "DEPT. OF HOMELAND SECURITY/ OFFICE OF IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94111",
-  "email": true
+  "ope": null
 }

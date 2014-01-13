@@ -1,6 +1,6 @@
 {
   "facility_code": "19000118",
-  "institution": "People Program (Ch 31)",
+  "institution": "PEOPLE PROGRAM (CH 31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70122",
-  "email": false
+  "ope": null
 }

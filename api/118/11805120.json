@@ -1,6 +1,6 @@
 {
   "facility_code": "11805120",
-  "institution": "University Of Md School Of Medicine Dept Of Epidemiology And Preventive Medicine",
+  "institution": "UNIVERSITY OF MD SCHOOL OF MEDICINE DEPT OF EPIDEMIOLOGY AND PREVENTIVE MEDICINE",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21201",
-  "email": false
+  "ope": "00210400"
 }

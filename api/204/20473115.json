@@ -1,6 +1,6 @@
 {
   "facility_code": "20473115",
-  "institution": "Asbury Police Department",
+  "institution": "ASBURY POLICE DEPARTMENT",
   "city": "Asbury",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52002",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10024733",
-  "institution": "Federal Aviation Admin (Faa) Tracon/Tower Raleigh",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TRACON/TOWER RALEIGH",
   "city": "Morrisville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27560",
-  "email": true
+  "ope": null
 }

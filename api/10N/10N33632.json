@@ -1,6 +1,6 @@
 {
   "facility_code": "10N33632",
-  "institution": "New York City Dep Police - 1st Precinct",
+  "institution": "NEW YORK CITY DEP POLICE - 1ST PRECINCT",
   "city": "Gilboa",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12076",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000804",
-  "institution": "Ouachita Baptist University",
+  "institution": "OUACHITA BAPTIST UNIVERSITY",
   "city": "Arkadelphia",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71998",
-  "email": false
+  "ope": "00110200"
 }

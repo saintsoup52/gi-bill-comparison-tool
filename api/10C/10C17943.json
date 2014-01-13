@@ -1,6 +1,6 @@
 {
   "facility_code": "10C17943",
-  "institution": "Faa Longview Ggg",
+  "institution": "FAA LONGVIEW GGG",
   "city": "Longview",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75603",
-  "email": false
+  "ope": null
 }

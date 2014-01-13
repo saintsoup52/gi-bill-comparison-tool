@@ -1,6 +1,6 @@
 {
   "facility_code": "10C28143",
-  "institution": "Texas Army National Guard Fms 10",
+  "institution": "TEXAS ARMY NATIONAL GUARD FMS 10",
   "city": "Grand Prairie",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75051",
-  "email": false
+  "ope": null
 }

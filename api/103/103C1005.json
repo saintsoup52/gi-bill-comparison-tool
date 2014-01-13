@@ -1,6 +1,6 @@
 {
   "facility_code": "103C1005",
-  "institution": "Internal Revenue Service (Fairfield)(Ch31 Only)",
+  "institution": "INTERNAL REVENUE SERVICE (FAIRFIELD)(CH31 ONLY)",
   "city": "Fairfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94534",
-  "email": false
+  "ope": null
 }

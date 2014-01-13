@@ -1,6 +1,6 @@
 {
   "facility_code": "10301130",
-  "institution": "Jersey City Housing Authority",
+  "institution": "JERSEY CITY HOUSING AUTHORITY",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7304",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24000180",
-  "institution": "Akad Fuer Gesundheitsfachberufe",
+  "institution": "AKAD FUER GESUNDHEITSFACHBERUFE",
   "city": "Frankenthal",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

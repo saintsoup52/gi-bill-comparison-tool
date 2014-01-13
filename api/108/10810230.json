@@ -1,6 +1,6 @@
 {
   "facility_code": "10810230",
-  "institution": "Adult Diagnostic Treatment Center",
+  "institution": "ADULT DIAGNOSTIC TREATMENT CENTER",
   "city": "Avenel",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7001",
-  "email": false
+  "ope": null
 }

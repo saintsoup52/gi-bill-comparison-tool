@@ -1,6 +1,6 @@
 {
   "facility_code": "10558530",
-  "institution": "Pemberton Township Police Department",
+  "institution": "PEMBERTON TOWNSHIP POLICE DEPARTMENT",
   "city": "Pemberton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8068",
-  "email": true
+  "ope": null
 }

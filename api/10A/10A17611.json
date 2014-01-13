@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17611",
-  "institution": "Georgia Bureau Of Investigation - Region 10 (Conyers)",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION - REGION 10 (CONYERS)",
   "city": "Conyers",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30012",
-  "email": false
+  "ope": null
 }

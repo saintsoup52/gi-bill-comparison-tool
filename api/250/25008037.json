@@ -1,6 +1,6 @@
 {
   "facility_code": "25008037",
-  "institution": "Corvallis Aero Service",
+  "institution": "CORVALLIS AERO SERVICE",
   "city": "Corvallis",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97333",
-  "email": true
+  "ope": null
 }

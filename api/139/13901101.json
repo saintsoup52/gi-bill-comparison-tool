@@ -1,6 +1,6 @@
 {
   "facility_code": "13901101",
-  "institution": "Alabama State University",
+  "institution": "ALABAMA STATE UNIVERSITY",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36101",
-  "email": true
+  "ope": "00100500"
 }

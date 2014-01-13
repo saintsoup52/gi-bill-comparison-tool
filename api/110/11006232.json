@@ -1,6 +1,6 @@
 {
   "facility_code": "11006232",
-  "institution": "Hunter College-Cuny",
+  "institution": "HUNTER COLLEGE-CUNY",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10065",
-  "email": true
+  "ope": "00268900"
 }

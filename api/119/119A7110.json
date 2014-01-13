@@ -1,6 +1,6 @@
 {
   "facility_code": "119A7110",
-  "institution": "Daytona State College",
+  "institution": "DAYTONA STATE COLLEGE",
   "city": "Daytona Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "32120",
-  "email": true
+  "ope": "00147500"
 }

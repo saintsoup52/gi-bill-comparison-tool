@@ -1,6 +1,6 @@
 {
   "facility_code": "10633025",
-  "institution": "Waynesville Police Dept.",
+  "institution": "WAYNESVILLE POLICE DEPT.",
   "city": "Waynesville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65583",
-  "email": false
+  "ope": null
 }

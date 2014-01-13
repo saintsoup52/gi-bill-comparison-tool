@@ -1,6 +1,6 @@
 {
   "facility_code": "25102524",
-  "institution": "New Horizons Clc (Ch 31)",
+  "institution": "NEW HORIZONS CLC (CH 31)",
   "city": "Biloxi",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39532",
-  "email": false
+  "ope": null
 }

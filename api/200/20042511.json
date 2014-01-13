@@ -1,6 +1,6 @@
 {
   "facility_code": "20042511",
-  "institution": "The Treasure Chest",
+  "institution": "THE TREASURE CHEST",
   "city": "Stockbridge",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30281",
-  "email": false
+  "ope": null
 }

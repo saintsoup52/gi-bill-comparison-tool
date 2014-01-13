@@ -1,6 +1,6 @@
 {
   "facility_code": "11802131",
-  "institution": "New Mexico State University",
+  "institution": "NEW MEXICO STATE UNIVERSITY",
   "city": "Las Cruces",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "88003",
-  "email": true
+  "ope": "00265700"
 }

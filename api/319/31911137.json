@@ -1,6 +1,6 @@
 {
   "facility_code": "31911137",
-  "institution": "Willamette University",
+  "institution": "WILLAMETTE UNIVERSITY",
   "city": "Salem",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "97301",
-  "email": true
+  "ope": "00322700"
 }

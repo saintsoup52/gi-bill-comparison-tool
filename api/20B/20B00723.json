@@ -1,6 +1,6 @@
 {
   "facility_code": "20B00723",
-  "institution": "Burlington Northern & Sante Fe-Carlton",
+  "institution": "BURLINGTON NORTHERN & SANTE FE-CARLTON",
   "city": "Carlton",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55718",
-  "email": false
+  "ope": null
 }

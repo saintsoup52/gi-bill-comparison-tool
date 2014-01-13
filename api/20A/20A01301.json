@@ -1,6 +1,6 @@
 {
   "facility_code": "20A01301",
-  "institution": "The Boeing Corporation",
+  "institution": "THE BOEING CORPORATION",
   "city": "Trinity",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35673",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "46003120",
-  "institution": "Center For Security And Emergency Management",
+  "institution": "CENTER FOR SECURITY AND EMERGENCY MANAGEMENT",
   "city": "Chesapeake Beach",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20732",
-  "email": true
+  "ope": null
 }

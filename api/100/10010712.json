@@ -1,6 +1,6 @@
 {
   "facility_code": "10010712",
-  "institution": "Blackfoot Police Department",
+  "institution": "BLACKFOOT POLICE DEPARTMENT",
   "city": "Blackfoot",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83221",
-  "email": false
+  "ope": null
 }

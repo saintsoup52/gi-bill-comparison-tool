@@ -1,6 +1,6 @@
 {
   "facility_code": "20126547",
-  "institution": "Burlington Northern Santa Fe- Seattle Carman Appren.",
+  "institution": "BURLINGTON NORTHERN SANTA FE- SEATTLE CARMAN APPREN.",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98199",
-  "email": true
+  "ope": null
 }

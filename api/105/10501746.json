@@ -1,6 +1,6 @@
 {
   "facility_code": "10501746",
-  "institution": "Virginia Department Of Transportation",
+  "institution": "VIRGINIA DEPARTMENT OF TRANSPORTATION",
   "city": "Midlothian",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23112",
-  "email": true
+  "ope": null
 }

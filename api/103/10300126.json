@@ -1,6 +1,6 @@
 {
   "facility_code": "10300126",
-  "institution": "Montana Highway Patrol Division",
+  "institution": "MONTANA HIGHWAY PATROL DIVISION",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59620",
-  "email": true
+  "ope": null
 }

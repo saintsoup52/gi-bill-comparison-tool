@@ -1,6 +1,6 @@
 {
   "facility_code": "10466815",
-  "institution": "Iowa City Police Department",
+  "institution": "IOWA CITY POLICE DEPARTMENT",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52240",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N41532",
-  "institution": "New York State Department Of Labor - Syracuse",
+  "institution": "NEW YORK STATE DEPARTMENT OF LABOR - SYRACUSE",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13204",
-  "email": true
+  "ope": null
 }

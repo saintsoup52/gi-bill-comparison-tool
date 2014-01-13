@@ -1,6 +1,6 @@
 {
   "facility_code": "20500014",
-  "institution": "Aluminum Company Of America - Warrick Operations",
+  "institution": "ALUMINUM COMPANY OF AMERICA - WARRICK OPERATIONS",
   "city": "Newburgh",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47630",
-  "email": false
+  "ope": null
 }

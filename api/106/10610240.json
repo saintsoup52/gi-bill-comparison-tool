@@ -1,6 +1,6 @@
 {
   "facility_code": "10610240",
-  "institution": "Charleston Police Department",
+  "institution": "CHARLESTON POLICE DEPARTMENT",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29403",
-  "email": false
+  "ope": null
 }

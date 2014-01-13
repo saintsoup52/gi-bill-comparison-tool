@@ -1,6 +1,6 @@
 {
   "facility_code": "10376736",
-  "institution": "University Of Oklahoma Police Department",
+  "institution": "UNIVERSITY OF OKLAHOMA POLICE DEPARTMENT",
   "city": "Norman",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73072",
-  "email": false
+  "ope": null
 }

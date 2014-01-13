@@ -1,6 +1,6 @@
 {
   "facility_code": "31000807",
-  "institution": "University Of Bridgeport",
+  "institution": "UNIVERSITY OF BRIDGEPORT",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6601",
-  "email": true
+  "ope": "00141600"
 }

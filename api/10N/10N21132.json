@@ -1,6 +1,6 @@
 {
   "facility_code": "10N21132",
-  "institution": "New York Police Dept. - School Safety Div. - Queens North Command",
+  "institution": "NEW YORK POLICE DEPT. - SCHOOL SAFETY DIV. - QUEENS NORTH COMMAND",
   "city": "Queens",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11413",
-  "email": false
+  "ope": null
 }

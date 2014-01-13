@@ -1,6 +1,6 @@
 {
   "facility_code": "10080314",
-  "institution": "Indiana University Purdue University Police Department - Indianapolis",
+  "institution": "INDIANA UNIVERSITY PURDUE UNIVERSITY POLICE DEPARTMENT - INDIANAPOLIS",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46202",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31043313",
-  "institution": "Rosalind Franklin University Of Medicine And Science",
+  "institution": "ROSALIND FRANKLIN UNIVERSITY OF MEDICINE AND SCIENCE",
   "city": "North Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60064",
-  "email": true
+  "ope": "00165900"
 }

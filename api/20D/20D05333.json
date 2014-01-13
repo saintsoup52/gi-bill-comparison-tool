@@ -1,6 +1,6 @@
 {
   "facility_code": "20D05333",
-  "institution": "Siemens Medical Solutions Usa Inc.",
+  "institution": "SIEMENS MEDICAL SOLUTIONS USA INC.",
   "city": "Cary",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27511",
-  "email": true
+  "ope": null
 }

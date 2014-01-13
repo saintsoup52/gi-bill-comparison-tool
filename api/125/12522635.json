@@ -1,6 +1,6 @@
 {
   "facility_code": "12522635",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45220",
-  "email": false
+  "ope": null
 }

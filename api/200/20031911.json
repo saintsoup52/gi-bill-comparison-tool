@@ -1,6 +1,6 @@
 {
   "facility_code": "20031911",
-  "institution": "Georgia Power Company - North Fulton Operating Region",
+  "institution": "GEORGIA POWER COMPANY - NORTH FULTON OPERATING REGION",
   "city": "Alpharetta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30004",
-  "email": false
+  "ope": null
 }

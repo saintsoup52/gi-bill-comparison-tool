@@ -1,6 +1,6 @@
 {
   "facility_code": "10685925",
-  "institution": "Hayti Police Department",
+  "institution": "HAYTI POLICE DEPARTMENT",
   "city": "Hayti",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63851",
-  "email": false
+  "ope": null
 }

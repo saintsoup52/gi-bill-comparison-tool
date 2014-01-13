@@ -1,6 +1,6 @@
 {
   "facility_code": "30250915",
-  "institution": "C & K Inc.",
+  "institution": "C & K INC.",
   "city": "Ames",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50010",
-  "email": false
+  "ope": null
 }

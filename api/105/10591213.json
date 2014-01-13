@@ -1,6 +1,6 @@
 {
   "facility_code": "10591213",
-  "institution": "Murphysboro Police Department",
+  "institution": "MURPHYSBORO POLICE DEPARTMENT",
   "city": "Murphysboro",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62966",
-  "email": true
+  "ope": null
 }

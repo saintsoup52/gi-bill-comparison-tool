@@ -1,6 +1,6 @@
 {
   "facility_code": "11100086",
-  "institution": "Universidad Autonoma De Nayarit",
+  "institution": "UNIVERSIDAD AUTONOMA DE NAYARIT",
   "city": "Ahucatlan,",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

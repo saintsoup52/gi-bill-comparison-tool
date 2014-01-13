@@ -1,6 +1,6 @@
 {
   "facility_code": "21000520",
-  "institution": "Kaplan University - Hagerstown",
+  "institution": "KAPLAN UNIVERSITY - HAGERSTOWN",
   "city": "Hagerstown",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21742",
-  "email": true
+  "ope": null
 }

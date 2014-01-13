@@ -1,6 +1,6 @@
 {
   "facility_code": "10441930",
-  "institution": "Long Branch Police Department",
+  "institution": "LONG BRANCH POLICE DEPARTMENT",
   "city": "Long Branch",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7740",
-  "email": false
+  "ope": null
 }

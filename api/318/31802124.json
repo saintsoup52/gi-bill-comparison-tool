@@ -1,6 +1,6 @@
 {
   "facility_code": "31802124",
-  "institution": "Embry-Riddle Aero Univ - Keesler Afb",
+  "institution": "EMBRY-RIDDLE AERO UNIV - KEESLER AFB",
   "city": "Keesler  Afb",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39534",
-  "email": true
+  "ope": "00147900"
 }

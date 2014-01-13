@@ -1,6 +1,6 @@
 {
   "facility_code": "20776918",
-  "institution": "Lantec  (Ch31)",
+  "institution": "LANTEC  (CH31)",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70816",
-  "email": false
+  "ope": null
 }

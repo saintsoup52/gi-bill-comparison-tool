@@ -1,6 +1,6 @@
 {
   "facility_code": "12053310",
-  "institution": "University Of South Florida Residency Programs",
+  "institution": "UNIVERSITY OF SOUTH FLORIDA RESIDENCY PROGRAMS",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33620",
-  "email": true
+  "ope": null
 }

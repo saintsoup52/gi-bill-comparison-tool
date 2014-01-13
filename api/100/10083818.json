@@ -1,6 +1,6 @@
 {
   "facility_code": "10083818",
-  "institution": "La Dept. Of Public Safety & Corrections",
+  "institution": "LA DEPT. OF PUBLIC SAFETY & CORRECTIONS",
   "city": "Covington",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70435",
-  "email": true
+  "ope": null
 }

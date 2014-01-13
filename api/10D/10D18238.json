@@ -1,6 +1,6 @@
 {
   "facility_code": "10D18238",
-  "institution": "County Of Bucks",
+  "institution": "COUNTY OF BUCKS",
   "city": "Doylestown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18901",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10222903",
-  "institution": "City Of Mesa Fire Department",
+  "institution": "CITY OF MESA FIRE DEPARTMENT",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85211",
-  "email": false
+  "ope": null
 }

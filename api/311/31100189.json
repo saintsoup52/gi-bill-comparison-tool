@@ -1,6 +1,6 @@
 {
   "facility_code": "31100189",
-  "institution": "Universidad Latinoamericana",
+  "institution": "UNIVERSIDAD LATINOAMERICANA",
   "city": "Carrasquilla",
   "state": "Panama",
   "country": "Panama",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

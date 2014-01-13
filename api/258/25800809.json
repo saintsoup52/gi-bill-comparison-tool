@@ -1,6 +1,6 @@
 {
   "facility_code": "25800809",
-  "institution": "Cgi Systems Inc",
+  "institution": "CGI SYSTEMS INC",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20006",
-  "email": false
+  "ope": null
 }

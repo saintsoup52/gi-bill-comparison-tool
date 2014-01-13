@@ -1,6 +1,6 @@
 {
   "facility_code": "15020723",
-  "institution": "Brainerd High School",
+  "institution": "BRAINERD HIGH SCHOOL",
   "city": "Brainerd",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56401",
-  "email": false
+  "ope": null
 }

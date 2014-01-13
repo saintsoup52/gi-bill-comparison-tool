@@ -1,6 +1,6 @@
 {
   "facility_code": "10500115",
-  "institution": "Custom Upholstery",
+  "institution": "CUSTOM UPHOLSTERY",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50310",
-  "email": false
+  "ope": null
 }

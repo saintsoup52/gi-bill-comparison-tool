@@ -1,6 +1,6 @@
 {
   "facility_code": "11400178",
-  "institution": "Tallinn Univ Of Technology",
+  "institution": "TALLINN UNIV OF TECHNOLOGY",
   "city": "Tallinn",
   "state": "Estonia",
   "country": "Estonia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

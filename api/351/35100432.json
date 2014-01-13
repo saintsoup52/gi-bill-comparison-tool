@@ -1,6 +1,6 @@
 {
   "facility_code": "35100432",
-  "institution": "Griffiss Institute",
+  "institution": "GRIFFISS INSTITUTE",
   "city": "Rome",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13441",
-  "email": true
+  "ope": null
 }

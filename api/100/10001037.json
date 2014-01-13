@@ -1,6 +1,6 @@
 {
   "facility_code": "10001037",
-  "institution": "Bonneville Power Administration",
+  "institution": "BONNEVILLE POWER ADMINISTRATION",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97208",
-  "email": true
+  "ope": null
 }

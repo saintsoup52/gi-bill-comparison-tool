@@ -1,6 +1,6 @@
 {
   "facility_code": "10078318",
-  "institution": "Vha Nola - Data Integ Svcs  (Ch 31)",
+  "institution": "VHA NOLA - DATA INTEG SVCS  (CH 31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70112",
-  "email": false
+  "ope": null
 }

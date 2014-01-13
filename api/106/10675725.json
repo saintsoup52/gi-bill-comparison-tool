@@ -1,6 +1,6 @@
 {
   "facility_code": "10675725",
-  "institution": "Missouri Army National Guard - Jfmo - Dpp-O",
+  "institution": "MISSOURI ARMY NATIONAL GUARD - JFMO - DPP-O",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65101",
-  "email": false
+  "ope": null
 }

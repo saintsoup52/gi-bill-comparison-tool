@@ -1,6 +1,6 @@
 {
   "facility_code": "10078814",
-  "institution": "Milford Police Department",
+  "institution": "MILFORD POLICE DEPARTMENT",
   "city": "Milford",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46542",
-  "email": false
+  "ope": null
 }

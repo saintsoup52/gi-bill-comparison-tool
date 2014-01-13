@@ -1,6 +1,6 @@
 {
   "facility_code": "10452338",
-  "institution": "Allegheny County Jail",
+  "institution": "ALLEGHENY COUNTY JAIL",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15219",
-  "email": false
+  "ope": null
 }

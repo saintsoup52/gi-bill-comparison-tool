@@ -1,6 +1,6 @@
 {
   "facility_code": "15002513",
-  "institution": "Galesburg High School",
+  "institution": "GALESBURG HIGH SCHOOL",
   "city": "Galesburg",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61401",
-  "email": true
+  "ope": null
 }

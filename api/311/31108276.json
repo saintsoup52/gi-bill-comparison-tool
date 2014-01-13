@@ -1,6 +1,6 @@
 {
   "facility_code": "31108276",
-  "institution": "Universidad De San Martin De Porres",
+  "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
   "city": "Lima",
   "state": "Peru",
   "country": "Peru",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

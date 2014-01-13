@@ -1,6 +1,6 @@
 {
   "facility_code": "31000678",
-  "institution": "Stockholm School Of Economics - Riga",
+  "institution": "STOCKHOLM SCHOOL OF ECONOMICS - RIGA",
   "city": "Riga",
   "state": "Latvia",
   "country": "Latvia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

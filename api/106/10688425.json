@@ -1,6 +1,6 @@
 {
   "facility_code": "10688425",
-  "institution": "Festus Police Departent",
+  "institution": "FESTUS POLICE DEPARTENT",
   "city": "Festus",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63028",
-  "email": false
+  "ope": null
 }

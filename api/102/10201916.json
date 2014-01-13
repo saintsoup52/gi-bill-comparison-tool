@@ -1,6 +1,6 @@
 {
   "facility_code": "10201916",
-  "institution": "Kansas Highway Patrol Troop H",
+  "institution": "KANSAS HIGHWAY PATROL TROOP H",
   "city": "Chanute",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66720",
-  "email": false
+  "ope": null
 }

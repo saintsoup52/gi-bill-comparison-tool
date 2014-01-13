@@ -1,6 +1,6 @@
 {
   "facility_code": "10D04038",
-  "institution": "City Of Phila Law Dept Claims Div",
+  "institution": "CITY OF PHILA LAW DEPT CLAIMS DIV",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19107",
-  "email": false
+  "ope": null
 }

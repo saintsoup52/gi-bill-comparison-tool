@@ -1,6 +1,6 @@
 {
   "facility_code": "30208003",
-  "institution": "Town Of Marana Development Services Center (Ch31)",
+  "institution": "TOWN OF MARANA DEVELOPMENT SERVICES CENTER (CH31)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85741",
-  "email": false
+  "ope": null
 }

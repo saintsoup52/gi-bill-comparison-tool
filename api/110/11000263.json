@@ -1,6 +1,6 @@
 {
   "facility_code": "11000263",
-  "institution": "Universidad De Puerto Rico-Rio Piedras (University Of Puerto Rico)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO-RIO PIEDRAS (UNIVERSITY OF PUERTO RICO)",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "931",
-  "email": true
+  "ope": "00710800"
 }

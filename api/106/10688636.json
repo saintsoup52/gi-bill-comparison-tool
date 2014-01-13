@@ -1,6 +1,6 @@
 {
   "facility_code": "10688636",
-  "institution": "Woodward Police Department",
+  "institution": "WOODWARD POLICE DEPARTMENT",
   "city": "Woodward",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73801",
-  "email": false
+  "ope": null
 }

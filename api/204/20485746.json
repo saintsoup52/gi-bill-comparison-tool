@@ -1,6 +1,6 @@
 {
   "facility_code": "20485746",
-  "institution": "Honeywell",
+  "institution": "HONEYWELL",
   "city": "Hopewell",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23860",
-  "email": false
+  "ope": null
 }

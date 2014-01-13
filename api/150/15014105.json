@@ -1,6 +1,6 @@
 {
   "facility_code": "15014105",
-  "institution": "Alameda County Office Of Education (Ch. 31 Only)",
+  "institution": "ALAMEDA COUNTY OFFICE OF EDUCATION (CH. 31 ONLY)",
   "city": "Hayward",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94544",
-  "email": false
+  "ope": null
 }

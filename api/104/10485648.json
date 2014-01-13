@@ -1,6 +1,6 @@
 {
   "facility_code": "10485648",
-  "institution": "Irs - Martinsburg Computing Center",
+  "institution": "IRS - MARTINSBURG COMPUTING CENTER",
   "city": "Kearneysville",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25430",
-  "email": true
+  "ope": null
 }

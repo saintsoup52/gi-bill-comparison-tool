@@ -1,6 +1,6 @@
 {
   "facility_code": "31003263",
-  "institution": "Escuela Medicina San Juan Bautista",
+  "institution": "ESCUELA MEDICINA SAN JUAN BAUTISTA",
   "city": "Caguas",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "725",
-  "email": true
+  "ope": "03177300"
 }

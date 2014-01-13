@@ -1,6 +1,6 @@
 {
   "facility_code": "102B7905",
-  "institution": "Social Security Administration(Lancaster)(Chapter 31)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(LANCASTER)(CHAPTER 31)",
   "city": "Lancaster",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93534",
-  "email": false
+  "ope": null
 }

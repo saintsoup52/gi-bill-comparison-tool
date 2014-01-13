@@ -1,6 +1,6 @@
 {
   "facility_code": "10070414",
-  "institution": "Indiana State University Public Safety Department",
+  "institution": "INDIANA STATE UNIVERSITY PUBLIC SAFETY DEPARTMENT",
   "city": "Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47809",
-  "email": false
+  "ope": null
 }

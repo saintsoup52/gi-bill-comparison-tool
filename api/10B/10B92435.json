@@ -1,6 +1,6 @@
 {
   "facility_code": "10B92435",
-  "institution": "Wyoming Police Department",
+  "institution": "WYOMING POLICE DEPARTMENT",
   "city": "Wyoming",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45212",
-  "email": false
+  "ope": null
 }

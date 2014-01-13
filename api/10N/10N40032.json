@@ -1,6 +1,6 @@
 {
   "facility_code": "10N40032",
-  "institution": "New York Tracon",
+  "institution": "NEW YORK TRACON",
   "city": "Westbury",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11590",
-  "email": true
+  "ope": null
 }

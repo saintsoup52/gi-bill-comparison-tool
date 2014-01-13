@@ -1,6 +1,6 @@
 {
   "facility_code": "20B10423",
-  "institution": "Wal-Mart",
+  "institution": "WAL-MART",
   "city": "Cloquet",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55720",
-  "email": "No (SCO)"
+  "ope": null
 }

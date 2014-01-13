@@ -1,6 +1,6 @@
 {
   "facility_code": "15002263",
-  "institution": "Escuela De La Comunidad Eleuterio Lugo (Ch 31 Only)",
+  "institution": "ESCUELA DE LA COMUNIDAD ELEUTERIO LUGO (CH 31 ONLY)",
   "city": "Guayama",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "784",
-  "email": false
+  "ope": null
 }

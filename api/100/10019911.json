@@ -1,6 +1,6 @@
 {
   "facility_code": "10019911",
-  "institution": "Richmond County Marshall'S Department",
+  "institution": "RICHMOND COUNTY MARSHALL'S DEPARTMENT",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30911",
-  "email": false
+  "ope": null
 }

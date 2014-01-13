@@ -1,6 +1,6 @@
 {
   "facility_code": "10211916",
-  "institution": "City Of Belleville Electrical Department",
+  "institution": "CITY OF BELLEVILLE ELECTRICAL DEPARTMENT",
   "city": "Belleville",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66935",
-  "email": true
+  "ope": null
 }

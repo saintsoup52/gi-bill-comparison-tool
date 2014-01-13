@@ -1,6 +1,6 @@
 {
   "facility_code": "10399611",
-  "institution": "Richmond County Correctional Institution",
+  "institution": "RICHMOND COUNTY CORRECTIONAL INSTITUTION",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30906",
-  "email": false
+  "ope": null
 }

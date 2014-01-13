@@ -1,6 +1,6 @@
 {
   "facility_code": "10018033",
-  "institution": "Ncdoc - Eastern Correctional Institution",
+  "institution": "NCDOC - EASTERN CORRECTIONAL INSTITUTION",
   "city": "Maury",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28554",
-  "email": true
+  "ope": null
 }

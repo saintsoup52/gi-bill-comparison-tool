@@ -1,6 +1,6 @@
 {
   "facility_code": "10006937",
-  "institution": "Clatsop County Sheriff'S Office",
+  "institution": "CLATSOP COUNTY SHERIFF'S OFFICE",
   "city": "Astoria",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97103",
-  "email": true
+  "ope": null
 }

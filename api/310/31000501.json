@@ -1,6 +1,6 @@
 {
   "facility_code": "31000501",
-  "institution": "Samford University",
+  "institution": "SAMFORD UNIVERSITY",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35209",
-  "email": false
+  "ope": "00103600"
 }

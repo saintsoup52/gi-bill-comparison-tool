@@ -1,6 +1,6 @@
 {
   "facility_code": "31809321",
-  "institution": "Boston University School Of Medicine",
+  "institution": "BOSTON UNIVERSITY SCHOOL OF MEDICINE",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2118",
-  "email": "No (SCO)"
+  "ope": "00213000"
 }

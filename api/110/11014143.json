@@ -1,6 +1,6 @@
 {
   "facility_code": "11014143",
-  "institution": "University Of Texas At El Paso",
+  "institution": "UNIVERSITY OF TEXAS AT EL PASO",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "79968",
-  "email": false
+  "ope": "00366100"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32929120",
-  "institution": "Mercy Medical Center",
+  "institution": "MERCY MEDICAL CENTER",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21202",
-  "email": false
+  "ope": null
 }

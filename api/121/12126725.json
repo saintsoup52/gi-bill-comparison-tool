@@ -1,6 +1,6 @@
 {
   "facility_code": "12126725",
-  "institution": "University Of Missouri - University Physicians",
+  "institution": "UNIVERSITY OF MISSOURI - UNIVERSITY PHYSICIANS",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65205",
-  "email": false
+  "ope": null
 }

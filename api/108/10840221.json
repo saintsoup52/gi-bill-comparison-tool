@@ -1,6 +1,6 @@
 {
   "facility_code": "10840221",
-  "institution": "Peabody Fire Department",
+  "institution": "PEABODY FIRE DEPARTMENT",
   "city": "Peabody",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1960",
-  "email": true
+  "ope": null
 }

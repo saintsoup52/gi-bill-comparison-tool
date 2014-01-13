@@ -1,6 +1,6 @@
 {
   "facility_code": "18566335",
-  "institution": "Va Outpatient Clinic (Ch31)",
+  "institution": "VA OUTPATIENT CLINIC (CH31)",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43614",
-  "email": "No (SCO)"
+  "ope": null
 }

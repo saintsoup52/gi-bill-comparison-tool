@@ -1,6 +1,6 @@
 {
   "facility_code": "10658025",
-  "institution": "Missouri University Research Reactor",
+  "institution": "MISSOURI UNIVERSITY RESEARCH REACTOR",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65203",
-  "email": true
+  "ope": null
 }

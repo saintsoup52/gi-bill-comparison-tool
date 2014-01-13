@@ -1,6 +1,6 @@
 {
   "facility_code": "10283704",
-  "institution": "Federal Correctional Complex",
+  "institution": "FEDERAL CORRECTIONAL COMPLEX",
   "city": "Forrest City",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72335",
-  "email": false
+  "ope": null
 }

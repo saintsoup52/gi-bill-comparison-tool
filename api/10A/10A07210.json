@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07210",
-  "institution": "U.S. Customs & Border Protection - Jacksonville Air & Marine Branch",
+  "institution": "U.S. CUSTOMS & BORDER PROTECTION - JACKSONVILLE AIR & MARINE BRANCH",
   "city": "Nas Jacksonville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32212",
-  "email": true
+  "ope": null
 }

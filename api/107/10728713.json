@@ -1,6 +1,6 @@
 {
   "facility_code": "10728713",
-  "institution": "Us Dept Of Veterans Affairs",
+  "institution": "US DEPT OF VETERANS AFFAIRS",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60680",
-  "email": "No (SCO)"
+  "ope": null
 }

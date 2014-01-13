@@ -1,6 +1,6 @@
 {
   "facility_code": "10636324",
-  "institution": "Department Of Veterans Affairs Regional Office Jackson",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS REGIONAL OFFICE JACKSON",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39216",
-  "email": false
+  "ope": null
 }

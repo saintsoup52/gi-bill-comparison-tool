@@ -1,6 +1,6 @@
 {
   "facility_code": "10030609",
-  "institution": "The Department Of The Interior",
+  "institution": "THE DEPARTMENT OF THE INTERIOR",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20240",
-  "email": false
+  "ope": null
 }

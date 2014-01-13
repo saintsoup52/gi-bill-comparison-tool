@@ -1,6 +1,6 @@
 {
   "facility_code": "11006020",
-  "institution": "Uniformed Services University Of Health Sciences",
+  "institution": "UNIFORMED SERVICES UNIVERSITY OF HEALTH SCIENCES",
   "city": "Bethesda",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20814",
-  "email": true
+  "ope": "02161000"
 }

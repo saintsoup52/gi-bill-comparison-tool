@@ -1,6 +1,6 @@
 {
   "facility_code": "31005692",
-  "institution": "Universidad Peruana Cayetano Heredia",
+  "institution": "UNIVERSIDAD PERUANA CAYETANO HEREDIA",
   "city": "Lima,",
   "state": "Peru",
   "country": "Peru",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

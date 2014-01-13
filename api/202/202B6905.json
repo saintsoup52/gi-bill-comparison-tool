@@ -1,6 +1,6 @@
 {
   "facility_code": "202B6905",
-  "institution": "San Diego Gas And Electric Company",
+  "institution": "SAN DIEGO GAS AND ELECTRIC COMPANY",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92112",
-  "email": false
+  "ope": null
 }

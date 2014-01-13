@@ -1,6 +1,6 @@
 {
   "facility_code": "29105928",
-  "institution": "Las Vegas Paynet (Ch31)",
+  "institution": "LAS VEGAS PAYNET (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89104",
-  "email": false
+  "ope": null
 }

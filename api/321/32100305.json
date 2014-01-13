@@ -1,6 +1,6 @@
 {
   "facility_code": "32100305",
-  "institution": "Usc-Keck School Of Medicine Dept Of Radiology (Pet/Ct Fellowship Program)",
+  "institution": "USC-KECK SCHOOL OF MEDICINE DEPT OF RADIOLOGY (PET/CT FELLOWSHIP PROGRAM)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90033",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "38133222",
-  "institution": "Mclaren Regional Medical Center",
+  "institution": "MCLAREN REGIONAL MEDICAL CENTER",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48532",
-  "email": true
+  "ope": null
 }

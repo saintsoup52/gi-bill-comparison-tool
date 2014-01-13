@@ -1,6 +1,6 @@
 {
   "facility_code": "103C8205",
-  "institution": "Naval Facilities Engineering Command Southwest",
+  "institution": "NAVAL FACILITIES ENGINEERING COMMAND SOUTHWEST",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92132",
-  "email": true
+  "ope": null
 }

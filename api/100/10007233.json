@@ -1,6 +1,6 @@
 {
   "facility_code": "10007233",
-  "institution": "City Of New Bern",
+  "institution": "CITY OF NEW BERN",
   "city": "New Bern",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28563",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10503930",
-  "institution": "Boonton Police Department",
+  "institution": "BOONTON POLICE DEPARTMENT",
   "city": "Boonton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7005",
-  "email": false
+  "ope": null
 }

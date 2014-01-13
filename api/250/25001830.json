@@ -1,6 +1,6 @@
 {
   "facility_code": "25001830",
-  "institution": "Smith & Solomon Driver Training",
+  "institution": "SMITH & SOLOMON DRIVER TRAINING",
   "city": "Lakewood",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8701",
-  "email": true
+  "ope": null
 }

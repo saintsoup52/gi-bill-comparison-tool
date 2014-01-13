@@ -1,6 +1,6 @@
 {
   "facility_code": "10070514",
-  "institution": "Tipton City Police Department",
+  "institution": "TIPTON CITY POLICE DEPARTMENT",
   "city": "Tipton",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46072",
-  "email": false
+  "ope": null
 }

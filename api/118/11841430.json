@@ -1,6 +1,6 @@
 {
   "facility_code": "11841430",
-  "institution": "Rutgers The State Univ. R.W.Johnson Med. School The Cancer Institute Of Nj",
+  "institution": "RUTGERS THE STATE UNIV. R.W.JOHNSON MED. SCHOOL THE CANCER INSTITUTE OF NJ",
   "city": "New Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8901",
-  "email": false
+  "ope": "00262900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11002574",
-  "institution": "University Of Birmingham",
+  "institution": "UNIVERSITY OF BIRMINGHAM",
   "city": "Birmingham",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

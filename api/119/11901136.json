@@ -1,6 +1,6 @@
 {
   "facility_code": "11901136",
-  "institution": "Langston University",
+  "institution": "LANGSTON UNIVERSITY",
   "city": "Langston",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "73050",
-  "email": true
+  "ope": "00315700"
 }

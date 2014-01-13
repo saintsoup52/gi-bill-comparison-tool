@@ -1,6 +1,6 @@
 {
   "facility_code": "10A93706",
-  "institution": "Lamar Police Department",
+  "institution": "LAMAR POLICE DEPARTMENT",
   "city": "Lamar",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81052",
-  "email": true
+  "ope": null
 }

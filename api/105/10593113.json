@@ -1,6 +1,6 @@
 {
   "facility_code": "10593113",
-  "institution": "Lincoln Police Department",
+  "institution": "LINCOLN POLICE DEPARTMENT",
   "city": "Lincoln",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62656",
-  "email": false
+  "ope": null
 }

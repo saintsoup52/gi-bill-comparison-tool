@@ -1,6 +1,6 @@
 {
   "facility_code": "10N17132",
-  "institution": "Nassau County Police Department - 4th Precinct",
+  "institution": "NASSAU COUNTY POLICE DEPARTMENT - 4TH PRECINCT",
   "city": "Hewlett",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11557",
-  "email": false
+  "ope": null
 }

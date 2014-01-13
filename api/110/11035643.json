@@ -1,6 +1,6 @@
 {
   "facility_code": "11035643",
-  "institution": "Ut Hlth Sci Ctr At Tyler Grad Med Edu",
+  "institution": "UT HLTH SCI CTR AT TYLER GRAD MED EDU",
   "city": "Tyler",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "75708",
-  "email": false
+  "ope": "00495100"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31000528",
-  "institution": "Nova Southeastern University",
+  "institution": "NOVA SOUTHEASTERN UNIVERSITY",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "89148",
-  "email": true
+  "ope": "00150900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20D16733",
-  "institution": "Caterpillar Inc",
+  "institution": "CATERPILLAR INC",
   "city": "Sanford",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27330",
-  "email": true
+  "ope": null
 }

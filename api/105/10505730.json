@@ -1,6 +1,6 @@
 {
   "facility_code": "10505730",
-  "institution": "Clifton Police Department",
+  "institution": "CLIFTON POLICE DEPARTMENT",
   "city": "Clifton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7013",
-  "email": false
+  "ope": null
 }

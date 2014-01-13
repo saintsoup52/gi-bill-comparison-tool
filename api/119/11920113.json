@@ -1,6 +1,6 @@
 {
   "facility_code": "11920113",
-  "institution": "S I U Carbondale Edwardsville",
+  "institution": "S I U CARBONDALE EDWARDSVILLE",
   "city": "Edwardsville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "62026",
-  "email": false
+  "ope": "00175900"
 }

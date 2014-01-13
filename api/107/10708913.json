@@ -1,6 +1,6 @@
 {
   "facility_code": "10708913",
-  "institution": "Neiu Police Department",
+  "institution": "NEIU POLICE DEPARTMENT",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60625",
-  "email": true
+  "ope": null
 }

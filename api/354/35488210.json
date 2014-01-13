@@ -1,6 +1,6 @@
 {
   "facility_code": "35488210",
-  "institution": "Star Center",
+  "institution": "STAR CENTER",
   "city": "Dania Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33004",
-  "email": true
+  "ope": null
 }

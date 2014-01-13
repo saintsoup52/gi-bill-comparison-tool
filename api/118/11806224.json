@@ -1,6 +1,6 @@
 {
   "facility_code": "11806224",
-  "institution": "University Of Mississippi Medical Center",
+  "institution": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER",
   "city": "Jackson",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "39216",
-  "email": true
+  "ope": "00244001"
 }

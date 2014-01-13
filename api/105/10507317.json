@@ -1,6 +1,6 @@
 {
   "facility_code": "10507317",
-  "institution": "Cold Spring Police Department",
+  "institution": "COLD SPRING POLICE DEPARTMENT",
   "city": "Cold Spring",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41076",
-  "email": false
+  "ope": null
 }

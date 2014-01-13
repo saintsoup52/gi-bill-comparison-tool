@@ -1,6 +1,6 @@
 {
   "facility_code": "10C13843",
-  "institution": "Federal Correctional  Complex",
+  "institution": "FEDERAL CORRECTIONAL  COMPLEX",
   "city": "Beaumont",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77705",
-  "email": true
+  "ope": null
 }

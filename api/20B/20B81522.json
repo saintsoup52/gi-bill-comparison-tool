@@ -1,6 +1,6 @@
 {
   "facility_code": "20B81522",
-  "institution": "Unique Tool And Manufacturing Company Inc.",
+  "institution": "UNIQUE TOOL AND MANUFACTURING COMPANY INC.",
   "city": "Temperance",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48182",
-  "email": true
+  "ope": null
 }

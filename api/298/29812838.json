@@ -1,6 +1,6 @@
 {
   "facility_code": "29812838",
-  "institution": "Setco (Carlisle) (Ch31 Only)",
+  "institution": "SETCO (CARLISLE) (CH31 ONLY)",
   "city": "Carlisle",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17013",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31100792",
-  "institution": "Pontificial Catholic University Of Argentina",
+  "institution": "PONTIFICIAL CATHOLIC UNIVERSITY OF ARGENTINA",
   "city": "Buenos Aires",
   "state": "Argentina",
   "country": "Argentina",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

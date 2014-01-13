@@ -1,6 +1,6 @@
 {
   "facility_code": "31800076",
-  "institution": "Ave Maria University",
+  "institution": "AVE MARIA UNIVERSITY",
   "city": "San Marcos",
   "state": "Nicaragua",
   "country": "Nicaragua",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

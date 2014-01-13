@@ -1,6 +1,6 @@
 {
   "facility_code": "11810104",
-  "institution": "University Of Arkansas At Fayetteville",
+  "institution": "UNIVERSITY OF ARKANSAS AT FAYETTEVILLE",
   "city": "Fayetteville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72701",
-  "email": false
+  "ope": "00110800"
 }

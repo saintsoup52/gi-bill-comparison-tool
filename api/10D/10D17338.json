@@ -1,6 +1,6 @@
 {
   "facility_code": "10D17338",
-  "institution": "Department Of Labor & Industry Lancaster Ucsc",
+  "institution": "DEPARTMENT OF LABOR & INDUSTRY LANCASTER UCSC",
   "city": "Lancaster",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17602",
-  "email": true
+  "ope": null
 }

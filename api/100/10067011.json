@@ -1,6 +1,6 @@
 {
   "facility_code": "10067011",
-  "institution": "Centerville Police Department",
+  "institution": "CENTERVILLE POLICE DEPARTMENT",
   "city": "Centerville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31028",
-  "email": true
+  "ope": null
 }

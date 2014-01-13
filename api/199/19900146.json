@@ -1,6 +1,6 @@
 {
   "facility_code": "19900146",
-  "institution": "Department Of Commerce - Noaa",
+  "institution": "DEPARTMENT OF COMMERCE - NOAA",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23510",
-  "email": true
+  "ope": null
 }

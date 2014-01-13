@@ -1,6 +1,6 @@
 {
   "facility_code": "30595013",
-  "institution": "Ameren Illinois-Maryville",
+  "institution": "AMEREN ILLINOIS-MARYVILLE",
   "city": "Maryville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62062",
-  "email": true
+  "ope": null
 }

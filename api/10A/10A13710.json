@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13710",
-  "institution": "Federal Aviation Admin (Faa) Miami System Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) MIAMI SYSTEM SUPPORT CENTER",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33166",
-  "email": true
+  "ope": null
 }

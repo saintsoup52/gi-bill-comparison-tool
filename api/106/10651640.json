@@ -1,6 +1,6 @@
 {
   "facility_code": "10651640",
-  "institution": "North Charleston Fire Department",
+  "institution": "NORTH CHARLESTON FIRE DEPARTMENT",
   "city": "North Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29419",
-  "email": true
+  "ope": null
 }

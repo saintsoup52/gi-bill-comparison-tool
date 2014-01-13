@@ -1,6 +1,6 @@
 {
   "facility_code": "25001850",
-  "institution": "Wings Of Wyoming",
+  "institution": "WINGS OF WYOMING",
   "city": "Cheyenne",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82009",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10643540",
-  "institution": "Greenville Police Department",
+  "institution": "GREENVILLE POLICE DEPARTMENT",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29601",
-  "email": false
+  "ope": null
 }

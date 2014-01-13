@@ -1,6 +1,6 @@
 {
   "facility_code": "103C6605",
-  "institution": "Tsa-Long Beach Airport (Ch31 Only)",
+  "institution": "TSA-LONG BEACH AIRPORT (CH31 ONLY)",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90808",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31900111",
-  "institution": "Wesleyan College",
+  "institution": "WESLEYAN COLLEGE",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "31210",
-  "email": true
+  "ope": "00160000"
 }

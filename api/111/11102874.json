@@ -1,6 +1,6 @@
 {
   "facility_code": "11102874",
-  "institution": "Univ Of Dublintrinity College",
+  "institution": "UNIV OF DUBLINTRINITY COLLEGE",
   "city": "Dublin 2",
   "state": "Ireland",
   "country": "Ireland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25179005",
-  "institution": "Bay Area Medical Academy",
+  "institution": "BAY AREA MEDICAL ACADEMY",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94102",
-  "email": true
+  "ope": null
 }

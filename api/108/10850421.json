@@ -1,6 +1,6 @@
 {
   "facility_code": "10850421",
-  "institution": "Stoughton Police Department",
+  "institution": "STOUGHTON POLICE DEPARTMENT",
   "city": "Stoughton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2072",
-  "email": false
+  "ope": null
 }

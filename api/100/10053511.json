@@ -1,6 +1,6 @@
 {
   "facility_code": "10053511",
-  "institution": "Lowndes Co 911 Emergency Mgmt Ctr",
+  "institution": "LOWNDES CO 911 EMERGENCY MGMT CTR",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31601",
-  "email": false
+  "ope": null
 }

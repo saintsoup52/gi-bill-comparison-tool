@@ -1,6 +1,6 @@
 {
   "facility_code": "20188722",
-  "institution": "Entergy Palisades Nuclear Plant",
+  "institution": "ENTERGY PALISADES NUCLEAR PLANT",
   "city": "Covert",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49043",
-  "email": true
+  "ope": null
 }

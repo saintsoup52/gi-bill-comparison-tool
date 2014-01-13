@@ -1,6 +1,6 @@
 {
   "facility_code": "32510305",
-  "institution": "City Of Hope National Medical Center",
+  "institution": "CITY OF HOPE NATIONAL MEDICAL CENTER",
   "city": "Duarte",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91010",
-  "email": true
+  "ope": "00427700"
 }

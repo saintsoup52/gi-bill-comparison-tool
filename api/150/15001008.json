@@ -1,6 +1,6 @@
 {
   "facility_code": "15001008",
-  "institution": "New Castle County  Vo-Tec",
+  "institution": "NEW CASTLE COUNTY  VO-TEC",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19808",
-  "email": true
+  "ope": null
 }

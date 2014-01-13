@@ -1,6 +1,6 @@
 {
   "facility_code": "11000230",
-  "institution": "New Jersey City University",
+  "institution": "NEW JERSEY CITY UNIVERSITY",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7305",
-  "email": true
+  "ope": "00261300"
 }

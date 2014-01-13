@@ -1,6 +1,6 @@
 {
   "facility_code": "10B95435",
-  "institution": "National Air And Space Intelligence Center (Nasic)",
+  "institution": "NATIONAL AIR AND SPACE INTELLIGENCE CENTER (NASIC)",
   "city": "Wright-Patterson Afb",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45433",
-  "email": false
+  "ope": null
 }

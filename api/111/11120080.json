@@ -1,6 +1,6 @@
 {
   "facility_code": "11120080",
-  "institution": "Goethe University - Institute For Law And Finance",
+  "institution": "GOETHE UNIVERSITY - INSTITUTE FOR LAW AND FINANCE",
   "city": "Frankfurt",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

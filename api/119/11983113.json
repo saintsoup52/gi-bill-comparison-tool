@@ -1,6 +1,6 @@
 {
   "facility_code": "11983113",
-  "institution": "Southern Illinois University",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY",
   "city": "Carbondale",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "62901",
-  "email": true
+  "ope": "00175800"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10011213",
-  "institution": "Willard Airport Fire Department-U Of I",
+  "institution": "WILLARD AIRPORT FIRE DEPARTMENT-U OF I",
   "city": "Savoy",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61874",
-  "email": true
+  "ope": null
 }

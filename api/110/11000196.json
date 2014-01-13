@@ -1,6 +1,6 @@
 {
   "facility_code": "11000196",
-  "institution": "University Of The West Indies",
+  "institution": "UNIVERSITY OF THE WEST INDIES",
   "city": "Bridgetown",
   "state": "Barbados",
   "country": "Barbados",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

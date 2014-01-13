@@ -1,6 +1,6 @@
 {
   "facility_code": "10067911",
-  "institution": "Dhr Georgia Regional Hospital",
+  "institution": "DHR GEORGIA REGIONAL HOSPITAL",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31406",
-  "email": true
+  "ope": null
 }

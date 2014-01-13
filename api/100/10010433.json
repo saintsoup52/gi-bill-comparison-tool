@@ -1,6 +1,6 @@
 {
   "facility_code": "10010433",
-  "institution": "Winston-Salem Police Department",
+  "institution": "WINSTON-SALEM POLICE DEPARTMENT",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27101",
-  "email": true
+  "ope": null
 }

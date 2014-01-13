@@ -1,6 +1,6 @@
 {
   "facility_code": "29000732",
-  "institution": "The Resource Training Center",
+  "institution": "THE RESOURCE TRAINING CENTER",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11232",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10495946",
-  "institution": "Roanoke City Sheriff'S Office",
+  "institution": "ROANOKE CITY SHERIFF'S OFFICE",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24016",
-  "email": false
+  "ope": null
 }

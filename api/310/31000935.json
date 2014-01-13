@@ -1,6 +1,6 @@
 {
   "facility_code": "31000935",
-  "institution": "College Of Wooster",
+  "institution": "COLLEGE OF WOOSTER",
   "city": "Wooster",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "44691",
-  "email": false
+  "ope": "00303700"
 }

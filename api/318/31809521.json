@@ -1,6 +1,6 @@
 {
   "facility_code": "31809521",
-  "institution": "Boston Univ School Of Mgmt ***See Remarks****",
+  "institution": "BOSTON UNIV SCHOOL OF MGMT ***SEE REMARKS****",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2115",
-  "email": "No (SCO)"
+  "ope": "00213000"
 }

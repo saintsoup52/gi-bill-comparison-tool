@@ -1,6 +1,6 @@
 {
   "facility_code": "10409946",
-  "institution": "Virginia State Police Area Office #16",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #16",
   "city": "Harrisonburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22801",
-  "email": false
+  "ope": null
 }

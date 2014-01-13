@@ -1,6 +1,6 @@
 {
   "facility_code": "10012033",
-  "institution": "Ncdoc - Neuse Correctional Institution",
+  "institution": "NCDOC - NEUSE CORRECTIONAL INSTITUTION",
   "city": "Goldsboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27530",
-  "email": true
+  "ope": null
 }

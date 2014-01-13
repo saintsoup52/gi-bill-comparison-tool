@@ -1,6 +1,6 @@
 {
   "facility_code": "10626421",
-  "institution": "Massachusetts Department Of Career Services",
+  "institution": "MASSACHUSETTS DEPARTMENT OF CAREER SERVICES",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2114",
-  "email": true
+  "ope": null
 }

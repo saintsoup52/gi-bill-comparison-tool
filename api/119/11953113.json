@@ -1,6 +1,6 @@
 {
   "facility_code": "11953113",
-  "institution": "University Of Illinois At Urbana/Champaign",
+  "institution": "UNIVERSITY OF ILLINOIS AT URBANA/CHAMPAIGN",
   "city": "Champaign",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "61820",
-  "email": true
+  "ope": "00177500"
 }

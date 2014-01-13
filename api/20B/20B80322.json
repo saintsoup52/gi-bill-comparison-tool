@@ -1,6 +1,6 @@
 {
   "facility_code": "20B80322",
-  "institution": "Atom Inc.",
+  "institution": "ATOM INC.",
   "city": "Lake Orion",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48360",
-  "email": false
+  "ope": null
 }

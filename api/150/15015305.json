@@ -1,6 +1,6 @@
 {
   "facility_code": "15015305",
-  "institution": "Long Beach Regional Occupation Program (Chapter 31 Only)",
+  "institution": "LONG BEACH REGIONAL OCCUPATION PROGRAM (CHAPTER 31 ONLY)",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90815",
-  "email": false
+  "ope": null
 }

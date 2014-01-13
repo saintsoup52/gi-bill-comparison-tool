@@ -1,6 +1,6 @@
 {
   "facility_code": "10535230",
-  "institution": "Willingboro Police Department",
+  "institution": "WILLINGBORO POLICE DEPARTMENT",
   "city": "Willingboro",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8046",
-  "email": true
+  "ope": null
 }

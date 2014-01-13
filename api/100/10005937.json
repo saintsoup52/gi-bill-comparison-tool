@@ -1,6 +1,6 @@
 {
   "facility_code": "10005937",
-  "institution": "West Linn Police Department",
+  "institution": "WEST LINN POLICE DEPARTMENT",
   "city": "West Linn",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97068",
-  "email": true
+  "ope": null
 }

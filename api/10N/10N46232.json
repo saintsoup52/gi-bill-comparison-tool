@@ -1,6 +1,6 @@
 {
   "facility_code": "10N46232",
-  "institution": "Faa Elmira System Support Center (Wee57-Elm 83gb)",
+  "institution": "FAA ELMIRA SYSTEM SUPPORT CENTER (WEE57-ELM 83GB)",
   "city": "Horseheads",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14845",
-  "email": true
+  "ope": null
 }

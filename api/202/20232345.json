@@ -1,6 +1,6 @@
 {
   "facility_code": "20232345",
-  "institution": "Cleveland Electric",
+  "institution": "CLEVELAND ELECTRIC",
   "city": "W Brattleboro",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5301",
-  "email": false
+  "ope": null
 }

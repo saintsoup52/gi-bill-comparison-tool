@@ -1,6 +1,6 @@
 {
   "facility_code": "10606513",
-  "institution": "Glen Ellyn Police Department",
+  "institution": "GLEN ELLYN POLICE DEPARTMENT",
   "city": "Glen Ellyn",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60137",
-  "email": false
+  "ope": null
 }

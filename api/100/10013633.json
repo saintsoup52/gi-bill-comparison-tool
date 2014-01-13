@@ -1,6 +1,6 @@
 {
   "facility_code": "10013633",
-  "institution": "Ncdoc - Bladen Correctional Center",
+  "institution": "NCDOC - BLADEN CORRECTIONAL CENTER",
   "city": "Elizabethtown",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28337",
-  "email": true
+  "ope": null
 }

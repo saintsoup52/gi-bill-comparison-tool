@@ -1,6 +1,6 @@
 {
   "facility_code": "10N44232",
-  "institution": "New York State Police Troop G",
+  "institution": "NEW YORK STATE POLICE TROOP G",
   "city": "Loudonville",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12211",
-  "email": true
+  "ope": null
 }

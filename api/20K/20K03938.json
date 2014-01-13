@@ -1,6 +1,6 @@
 {
   "facility_code": "20K03938",
-  "institution": "Norfolk Southern - Enola",
+  "institution": "NORFOLK SOUTHERN - ENOLA",
   "city": "Enola",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17025",
-  "email": true
+  "ope": null
 }

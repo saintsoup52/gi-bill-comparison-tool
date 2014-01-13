@@ -1,6 +1,6 @@
 {
   "facility_code": "10078918",
-  "institution": "Usda - Farm Service Agency (Ch31)",
+  "institution": "USDA - FARM SERVICE AGENCY (CH31)",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71302",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20D13333",
-  "institution": "Kobewieland",
+  "institution": "KOBEWIELAND",
   "city": "Pine Hall",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27042",
-  "email": true
+  "ope": null
 }

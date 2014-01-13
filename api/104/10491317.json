@@ -1,6 +1,6 @@
 {
   "facility_code": "10491317",
-  "institution": "Owensboro Police Department",
+  "institution": "OWENSBORO POLICE DEPARTMENT",
   "city": "Owensboro",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42303",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10567313",
-  "institution": "Jacksonville Correctional Center",
+  "institution": "JACKSONVILLE CORRECTIONAL CENTER",
   "city": "Jacksonville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62650",
-  "email": true
+  "ope": null
 }

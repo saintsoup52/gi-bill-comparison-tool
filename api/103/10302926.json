@@ -1,6 +1,6 @@
 {
   "facility_code": "10302926",
-  "institution": "Hill County Sheriff'S Office",
+  "institution": "HILL COUNTY SHERIFF'S OFFICE",
   "city": "Havre",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59501",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25360932",
-  "institution": "Sanford Brown Institute - Nyc",
+  "institution": "SANFORD BROWN INSTITUTE - NYC",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "10003",
-  "email": true
+  "ope": "02116011"
 }

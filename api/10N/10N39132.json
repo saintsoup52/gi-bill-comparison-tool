@@ -1,6 +1,6 @@
 {
   "facility_code": "10N39132",
-  "institution": "Rome Police Department",
+  "institution": "ROME POLICE DEPARTMENT",
   "city": "Rome",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13440",
-  "email": true
+  "ope": null
 }

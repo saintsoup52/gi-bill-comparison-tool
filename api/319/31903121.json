@@ -1,6 +1,6 @@
 {
   "facility_code": "31903121",
-  "institution": "Stonehill College",
+  "institution": "STONEHILL COLLEGE",
   "city": "Easton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2357",
-  "email": true
+  "ope": "00221700"
 }

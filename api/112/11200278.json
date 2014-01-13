@@ -1,6 +1,6 @@
 {
   "facility_code": "11200278",
-  "institution": "Autonomous Univ Of Barcelona",
+  "institution": "AUTONOMOUS UNIV OF BARCELONA",
   "city": "Barcelona",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

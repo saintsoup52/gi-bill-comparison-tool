@@ -1,6 +1,6 @@
 {
   "facility_code": "18560432",
-  "institution": "Boces Madison/Oneida",
+  "institution": "BOCES MADISON/ONEIDA",
   "city": "Verona",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "13478",
-  "email": true
+  "ope": "02126300"
 }

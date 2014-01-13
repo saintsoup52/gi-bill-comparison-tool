@@ -1,6 +1,6 @@
 {
   "facility_code": "25024303",
-  "institution": "Sonoran Wings Flight Training Center",
+  "institution": "SONORAN WINGS FLIGHT TRAINING CENTER",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85734",
-  "email": true
+  "ope": null
 }

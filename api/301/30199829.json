@@ -1,6 +1,6 @@
 {
   "facility_code": "30199829",
-  "institution": "Pelham Police Department",
+  "institution": "PELHAM POLICE DEPARTMENT",
   "city": "Pelham",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3076",
-  "email": false
+  "ope": null
 }

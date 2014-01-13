@@ -1,6 +1,6 @@
 {
   "facility_code": "11001520",
-  "institution": "Morgan State University",
+  "institution": "MORGAN STATE UNIVERSITY",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21251",
-  "email": true
+  "ope": "00208300"
 }

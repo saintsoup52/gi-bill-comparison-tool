@@ -1,6 +1,6 @@
 {
   "facility_code": "25303038",
-  "institution": "Lanop",
+  "institution": "LANOP",
   "city": "Bensalem",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19020",
-  "email": "No (SCO)"
+  "ope": null
 }

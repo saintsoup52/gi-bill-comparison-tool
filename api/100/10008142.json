@@ -1,6 +1,6 @@
 {
   "facility_code": "10008142",
-  "institution": "United States Marshals Service-Chattanooga",
+  "institution": "UNITED STATES MARSHALS SERVICE-CHATTANOOGA",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37402",
-  "email": false
+  "ope": null
 }

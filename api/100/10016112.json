@@ -1,6 +1,6 @@
 {
   "facility_code": "10016112",
-  "institution": "Preston Police Department",
+  "institution": "PRESTON POLICE DEPARTMENT",
   "city": "Preston",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83263",
-  "email": false
+  "ope": null
 }

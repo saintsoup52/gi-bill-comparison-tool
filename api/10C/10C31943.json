@@ -1,6 +1,6 @@
 {
   "facility_code": "10C31943",
-  "institution": "Faa Atss El Paso",
+  "institution": "FAA ATSS EL PASO",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79925",
-  "email": false
+  "ope": null
 }

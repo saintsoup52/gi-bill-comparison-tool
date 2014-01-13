@@ -1,6 +1,6 @@
 {
   "facility_code": "10625740",
-  "institution": "South Carolina Highway Patrol",
+  "institution": "SOUTH CAROLINA HIGHWAY PATROL",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29212",
-  "email": true
+  "ope": null
 }

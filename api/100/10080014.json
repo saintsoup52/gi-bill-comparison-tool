@@ -1,6 +1,6 @@
 {
   "facility_code": "10080014",
-  "institution": "Edgewood Police Department",
+  "institution": "EDGEWOOD POLICE DEPARTMENT",
   "city": "Anderson",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46011",
-  "email": false
+  "ope": null
 }

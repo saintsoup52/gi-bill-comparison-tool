@@ -1,6 +1,6 @@
 {
   "facility_code": "10137647",
-  "institution": "Us Naval Supply Center Puget Sound",
+  "institution": "US NAVAL SUPPLY CENTER PUGET SOUND",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98314",
-  "email": false
+  "ope": null
 }

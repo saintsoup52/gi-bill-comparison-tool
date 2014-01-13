@@ -1,6 +1,6 @@
 {
   "facility_code": "103C9905",
-  "institution": "Modesto Vet Center (Chapter 31 Only)",
+  "institution": "MODESTO VET CENTER (CHAPTER 31 ONLY)",
   "city": "Modesto",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95351",
-  "email": false
+  "ope": null
 }

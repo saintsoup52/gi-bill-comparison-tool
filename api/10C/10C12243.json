@@ -1,6 +1,6 @@
 {
   "facility_code": "10C12243",
-  "institution": "Texas Veterans Commission Region I",
+  "institution": "TEXAS VETERANS COMMISSION REGION I",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78221",
-  "email": false
+  "ope": null
 }

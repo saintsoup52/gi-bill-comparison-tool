@@ -1,6 +1,6 @@
 {
   "facility_code": "18517432",
-  "institution": "Boces Herkimer-Fulton-Hamilton-Otsego",
+  "institution": "BOCES HERKIMER-FULTON-HAMILTON-OTSEGO",
   "city": "Herkimer",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13350",
-  "email": true
+  "ope": null
 }

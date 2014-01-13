@@ -1,6 +1,6 @@
 {
   "facility_code": "10N40432",
-  "institution": "Binghamton Regional Airport - Faa Air Traffic Control",
+  "institution": "BINGHAMTON REGIONAL AIRPORT - FAA AIR TRAFFIC CONTROL",
   "city": "Johnson City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13790",
-  "email": true
+  "ope": null
 }

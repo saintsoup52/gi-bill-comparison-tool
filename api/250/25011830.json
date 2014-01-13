@@ -1,6 +1,6 @@
 {
   "facility_code": "25011830",
-  "institution": "Smith And Solomon Driver Training",
+  "institution": "SMITH AND SOLOMON DRIVER TRAINING",
   "city": "Bordentown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8505",
-  "email": true
+  "ope": null
 }

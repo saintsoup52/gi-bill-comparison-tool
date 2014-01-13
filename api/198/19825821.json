@@ -1,6 +1,6 @@
 {
   "facility_code": "19825821",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Bedford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1730",
-  "email": false
+  "ope": null
 }

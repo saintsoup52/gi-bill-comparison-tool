@@ -1,6 +1,6 @@
 {
   "facility_code": "20N24832",
-  "institution": "General Mills",
+  "institution": "GENERAL MILLS",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14203",
-  "email": true
+  "ope": null
 }

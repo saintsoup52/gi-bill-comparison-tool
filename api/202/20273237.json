@@ -1,6 +1,6 @@
 {
   "facility_code": "20273237",
-  "institution": "Boise Cascade/Wciw Ne-Or Tatc",
+  "institution": "BOISE CASCADE/WCIW NE-OR TATC",
   "city": "Pendleton",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97801",
-  "email": true
+  "ope": null
 }

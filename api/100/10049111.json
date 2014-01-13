@@ -1,6 +1,6 @@
 {
   "facility_code": "10049111",
-  "institution": "Georgia Southern University (Ojt)",
+  "institution": "GEORGIA SOUTHERN UNIVERSITY (OJT)",
   "city": "Statesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30460",
-  "email": false
+  "ope": null
 }

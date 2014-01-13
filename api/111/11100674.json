@@ -1,6 +1,6 @@
 {
   "facility_code": "11100674",
-  "institution": "Loughborough University",
+  "institution": "LOUGHBOROUGH UNIVERSITY",
   "city": "Leicestershire",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

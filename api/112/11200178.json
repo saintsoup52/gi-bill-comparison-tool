@@ -1,6 +1,6 @@
 {
   "facility_code": "11200178",
-  "institution": "University Of Tartu",
+  "institution": "UNIVERSITY OF TARTU",
   "city": "Tartu",
   "state": "Estonia",
   "country": "Estonia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

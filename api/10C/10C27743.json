@@ -1,6 +1,6 @@
 {
   "facility_code": "10C27743",
-  "institution": "Fort Worth Fire Department",
+  "institution": "FORT WORTH FIRE DEPARTMENT",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76107",
-  "email": false
+  "ope": null
 }

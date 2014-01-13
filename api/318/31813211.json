@@ -1,6 +1,6 @@
 {
   "facility_code": "31813211",
-  "institution": "Embry-Riddle Aeronautical Univ (Moody Afb)",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV (MOODY AFB)",
   "city": "Moody Afb",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31699",
-  "email": true
+  "ope": "00147979"
 }

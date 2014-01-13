@@ -1,6 +1,6 @@
 {
   "facility_code": "10516517",
-  "institution": "Va Regional Office - Louisville",
+  "institution": "VA REGIONAL OFFICE - LOUISVILLE",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40202",
-  "email": true
+  "ope": null
 }

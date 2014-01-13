@@ -1,6 +1,6 @@
 {
   "facility_code": "10010642",
-  "institution": "Shelby County Sheriff'S Office",
+  "institution": "SHELBY COUNTY SHERIFF'S OFFICE",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38134",
-  "email": false
+  "ope": null
 }

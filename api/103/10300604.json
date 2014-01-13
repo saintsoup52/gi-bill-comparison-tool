@@ -1,6 +1,6 @@
 {
   "facility_code": "10300604",
-  "institution": "Faa Eastern Ark Ssc",
+  "institution": "FAA EASTERN ARK SSC",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72202",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A94723",
-  "institution": "City Of Virginia Public Works",
+  "institution": "CITY OF VIRGINIA PUBLIC WORKS",
   "city": "Virginia",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55792",
-  "email": false
+  "ope": null
 }

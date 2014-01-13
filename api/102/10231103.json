@@ -1,6 +1,6 @@
 {
   "facility_code": "10231103",
-  "institution": "Yuma Fire Department (Ojt)",
+  "institution": "YUMA FIRE DEPARTMENT (OJT)",
   "city": "Yuma",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85366",
-  "email": false
+  "ope": null
 }

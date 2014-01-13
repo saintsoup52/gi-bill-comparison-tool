@@ -1,6 +1,6 @@
 {
   "facility_code": "10005437",
-  "institution": "Faa Portland Tower",
+  "institution": "FAA PORTLAND TOWER",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97218",
-  "email": true
+  "ope": null
 }

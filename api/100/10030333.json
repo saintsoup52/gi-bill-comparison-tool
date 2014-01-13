@@ -1,6 +1,6 @@
 {
   "facility_code": "10030333",
-  "institution": "Pender County Sheriffs Office",
+  "institution": "PENDER COUNTY SHERIFFS OFFICE",
   "city": "Burgaw",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28425",
-  "email": true
+  "ope": null
 }

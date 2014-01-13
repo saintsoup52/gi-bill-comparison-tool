@@ -1,6 +1,6 @@
 {
   "facility_code": "10668529",
-  "institution": "Farmington Police Dept",
+  "institution": "FARMINGTON POLICE DEPT",
   "city": "Farmington",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3835",
-  "email": true
+  "ope": null
 }

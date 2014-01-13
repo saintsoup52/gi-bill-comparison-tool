@@ -1,6 +1,6 @@
 {
   "facility_code": "10D27449",
-  "institution": "Dwd/Det Office Of Veterans Services North - Lacrosse",
+  "institution": "DWD/DET OFFICE OF VETERANS SERVICES NORTH - LACROSSE",
   "city": "Lacrosse",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54601",
-  "email": false
+  "ope": null
 }

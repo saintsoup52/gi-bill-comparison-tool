@@ -1,6 +1,6 @@
 {
   "facility_code": "10531630",
-  "institution": "Roselle Park Police Department",
+  "institution": "ROSELLE PARK POLICE DEPARTMENT",
   "city": "Roselle Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7204",
-  "email": false
+  "ope": null
 }

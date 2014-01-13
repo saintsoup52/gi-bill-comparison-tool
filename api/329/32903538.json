@@ -1,6 +1,6 @@
 {
   "facility_code": "32903538",
-  "institution": "Temple Univer Hlth Sys Episcopal Div",
+  "institution": "TEMPLE UNIVER HLTH SYS EPISCOPAL DIV",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19125",
-  "email": false
+  "ope": null
 }

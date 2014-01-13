@@ -1,6 +1,6 @@
 {
   "facility_code": "10982521",
-  "institution": "Defense Contract Management Agency (Dcma) Boston",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (DCMA) BOSTON",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2210",
-  "email": true
+  "ope": null
 }

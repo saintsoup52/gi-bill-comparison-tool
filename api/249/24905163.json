@@ -1,6 +1,6 @@
 {
   "facility_code": "24905163",
-  "institution": "Instituto De Banca Y Comercio Ponce",
+  "institution": "INSTITUTO DE BANCA Y COMERCIO PONCE",
   "city": "Ponce",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "717",
-  "email": true
+  "ope": null
 }

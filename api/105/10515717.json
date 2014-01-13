@@ -1,6 +1,6 @@
 {
   "facility_code": "10515717",
-  "institution": "Paducah Fire Department",
+  "institution": "PADUCAH FIRE DEPARTMENT",
   "city": "Paducah",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42003",
-  "email": false
+  "ope": null
 }

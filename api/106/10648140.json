@@ -1,6 +1,6 @@
 {
   "facility_code": "10648140",
-  "institution": "Bamberg County Sheriff'S Office",
+  "institution": "BAMBERG COUNTY SHERIFF'S OFFICE",
   "city": "Bamberg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29003",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32A00132",
-  "institution": "Maimonides Medical Center",
+  "institution": "MAIMONIDES MEDICAL CENTER",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11219",
-  "email": true
+  "ope": null
 }

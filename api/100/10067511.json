@@ -1,6 +1,6 @@
 {
   "facility_code": "10067511",
-  "institution": "Georgia Perimeter College Dept Of Public Safety",
+  "institution": "GEORGIA PERIMETER COLLEGE DEPT OF PUBLIC SAFETY",
   "city": "Clarkston",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30021",
-  "email": true
+  "ope": null
 }

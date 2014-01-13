@@ -1,6 +1,6 @@
 {
   "facility_code": "11901123",
-  "institution": "Minnesota State Univ      Moorhead",
+  "institution": "MINNESOTA STATE UNIV      MOORHEAD",
   "city": "Moorhead",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "56563",
-  "email": false
+  "ope": "00236700"
 }

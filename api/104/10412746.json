@@ -1,6 +1,6 @@
 {
   "facility_code": "10412746",
-  "institution": "Red Onion State Prison",
+  "institution": "RED ONION STATE PRISON",
   "city": "Pound",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24279",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10068311",
-  "institution": "U. S. Department Of Homeland Security - Federal Protective Service",
+  "institution": "U. S. DEPARTMENT OF HOMELAND SECURITY - FEDERAL PROTECTIVE SERVICE",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30303",
-  "email": true
+  "ope": null
 }

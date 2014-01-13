@@ -1,6 +1,6 @@
 {
   "facility_code": "20511927",
-  "institution": "Ks Auto",
+  "institution": "KS AUTO",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68107",
-  "email": false
+  "ope": null
 }

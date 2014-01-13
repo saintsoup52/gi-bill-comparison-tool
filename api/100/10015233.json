@@ -1,6 +1,6 @@
 {
   "facility_code": "10015233",
-  "institution": "Ncdoc - Lincoln Correctional Center",
+  "institution": "NCDOC - LINCOLN CORRECTIONAL CENTER",
   "city": "Licolnton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28092",
-  "email": true
+  "ope": null
 }

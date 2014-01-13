@@ -1,6 +1,6 @@
 {
   "facility_code": "10870230",
-  "institution": "Federal Aviation Administration",
+  "institution": "FEDERAL AVIATION ADMINISTRATION",
   "city": "Fairfield",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7004",
-  "email": true
+  "ope": null
 }

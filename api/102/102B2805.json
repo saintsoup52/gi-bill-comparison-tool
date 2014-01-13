@@ -1,6 +1,6 @@
 {
   "facility_code": "102B2805",
-  "institution": "Faa- Southern California Tracon",
+  "institution": "FAA- SOUTHERN CALIFORNIA TRACON",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92126",
-  "email": false
+  "ope": null
 }

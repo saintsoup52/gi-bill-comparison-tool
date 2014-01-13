@@ -1,6 +1,6 @@
 {
   "facility_code": "31005027",
-  "institution": "Embry-Riddle Aeronautical Univ Offutt Afb",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV OFFUTT AFB",
   "city": "Offutt Afb",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68113",
-  "email": false
+  "ope": "00147984"
 }

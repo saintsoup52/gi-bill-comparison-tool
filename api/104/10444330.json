@@ -1,6 +1,6 @@
 {
   "facility_code": "10444330",
-  "institution": "Hardystown Township Police Department",
+  "institution": "HARDYSTOWN TOWNSHIP POLICE DEPARTMENT",
   "city": "Stockholm",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7460",
-  "email": false
+  "ope": null
 }

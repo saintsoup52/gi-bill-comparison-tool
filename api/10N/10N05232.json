@@ -1,6 +1,6 @@
 {
   "facility_code": "10N05232",
-  "institution": "Orange County Sheriff'S Office",
+  "institution": "ORANGE COUNTY SHERIFF'S OFFICE",
   "city": "Goshen",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10924",
-  "email": false
+  "ope": null
 }

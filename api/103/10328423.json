@@ -1,6 +1,6 @@
 {
   "facility_code": "10328423",
-  "institution": "Sandstone Federal Correctional Institution",
+  "institution": "SANDSTONE FEDERAL CORRECTIONAL INSTITUTION",
   "city": "Sandstone",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55072",
-  "email": false
+  "ope": null
 }

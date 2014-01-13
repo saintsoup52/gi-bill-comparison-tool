@@ -1,6 +1,6 @@
 {
   "facility_code": "10552830",
-  "institution": "Berkeley Heights Police Department",
+  "institution": "BERKELEY HEIGHTS POLICE DEPARTMENT",
   "city": "Berkeley Heights",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7922",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10002811",
-  "institution": "State Board Of Pardons & Paroles District #50",
+  "institution": "STATE BOARD OF PARDONS & PAROLES DISTRICT #50",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30909",
-  "email": false
+  "ope": null
 }

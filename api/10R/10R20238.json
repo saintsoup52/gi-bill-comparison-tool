@@ -1,6 +1,6 @@
 {
   "facility_code": "10R20238",
-  "institution": "Penn Township Police Dept",
+  "institution": "PENN TOWNSHIP POLICE DEPT",
   "city": "Manheim",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17545",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10112335",
-  "institution": "North Olmsted Fire Dept K",
+  "institution": "NORTH OLMSTED FIRE DEPT K",
   "city": "North Olmsted",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44070",
-  "email": false
+  "ope": null
 }

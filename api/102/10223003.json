@@ -1,6 +1,6 @@
 {
   "facility_code": "10223003",
-  "institution": "Mesa Police Department",
+  "institution": "MESA POLICE DEPARTMENT",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85201",
-  "email": false
+  "ope": null
 }

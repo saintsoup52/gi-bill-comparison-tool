@@ -1,6 +1,6 @@
 {
   "facility_code": "20N16832",
-  "institution": "Indian Point Energy Center (Entergy Nuclear Nw)",
+  "institution": "INDIAN POINT ENERGY CENTER (ENTERGY NUCLEAR NW)",
   "city": "Buchanan",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10511",
-  "email": false
+  "ope": null
 }

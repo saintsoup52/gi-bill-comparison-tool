@@ -1,6 +1,6 @@
 {
   "facility_code": "10C27043",
-  "institution": "Odessa Fire Department",
+  "institution": "ODESSA FIRE DEPARTMENT",
   "city": "Odessa",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79763",
-  "email": false
+  "ope": null
 }

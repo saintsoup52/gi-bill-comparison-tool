@@ -1,6 +1,6 @@
 {
   "facility_code": "20D04833",
-  "institution": "Expert Express",
+  "institution": "EXPERT EXPRESS",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27614",
-  "email": true
+  "ope": null
 }

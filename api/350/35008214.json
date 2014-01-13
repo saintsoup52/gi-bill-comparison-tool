@@ -1,6 +1,6 @@
 {
   "facility_code": "35008214",
-  "institution": "Dayspring Center",
+  "institution": "DAYSPRING CENTER",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46202",
-  "email": false
+  "ope": null
 }

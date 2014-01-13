@@ -1,6 +1,6 @@
 {
   "facility_code": "10N27032",
-  "institution": "New York City Dep Police - 4th Precinct",
+  "institution": "NEW YORK CITY DEP POLICE - 4TH PRECINCT",
   "city": "Shokan",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12481",
-  "email": false
+  "ope": null
 }

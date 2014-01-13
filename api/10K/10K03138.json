@@ -1,6 +1,6 @@
 {
   "facility_code": "10K03138",
-  "institution": "Us Dept Of Justice - Us Marshal Service - Harrisburg",
+  "institution": "US DEPT OF JUSTICE - US MARSHAL SERVICE - HARRISBURG",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17108",
-  "email": true
+  "ope": null
 }

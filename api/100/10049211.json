@@ -1,6 +1,6 @@
 {
   "facility_code": "10049211",
-  "institution": "Merck & Co. Inc.",
+  "institution": "MERCK & CO. INC.",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31705",
-  "email": false
+  "ope": null
 }

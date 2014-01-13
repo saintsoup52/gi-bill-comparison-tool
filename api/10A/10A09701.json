@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09701",
-  "institution": "(Chapter 31)Vamc - Birmingham",
+  "institution": "(CHAPTER 31)VAMC - BIRMINGHAM",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35233",
-  "email": false
+  "ope": null
 }

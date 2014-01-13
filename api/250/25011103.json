@@ -1,6 +1,6 @@
 {
   "facility_code": "25011103",
-  "institution": "Novacare Rehab Institute Of Tucson (Chap 31 Only)",
+  "institution": "NOVACARE REHAB INSTITUTE OF TUCSON (CHAP 31 ONLY)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85712",
-  "email": false
+  "ope": null
 }

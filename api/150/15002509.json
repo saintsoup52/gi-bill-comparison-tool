@@ -1,6 +1,6 @@
 {
   "facility_code": "15002509",
-  "institution": "Us Dept Of Veterans Affairs Central Office",
+  "institution": "US DEPT OF VETERANS AFFAIRS CENTRAL OFFICE",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20420",
-  "email": false
+  "ope": null
 }

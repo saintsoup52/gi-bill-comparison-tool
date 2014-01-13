@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16932",
-  "institution": "Nassau County Police Department - 5th Precinct",
+  "institution": "NASSAU COUNTY POLICE DEPARTMENT - 5TH PRECINCT",
   "city": "Elmont",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11003",
-  "email": false
+  "ope": null
 }

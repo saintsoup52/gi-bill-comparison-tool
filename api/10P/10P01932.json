@@ -1,6 +1,6 @@
 {
   "facility_code": "10P01932",
-  "institution": "New York City Department Of Correction West Facility",
+  "institution": "NEW YORK CITY DEPARTMENT OF CORRECTION WEST FACILITY",
   "city": "East Elmhurst",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11370",
-  "email": true
+  "ope": null
 }

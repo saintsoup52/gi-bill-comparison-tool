@@ -1,6 +1,6 @@
 {
   "facility_code": "10478140",
-  "institution": "Dillon Police Department",
+  "institution": "DILLON POLICE DEPARTMENT",
   "city": "Dillon",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29536",
-  "email": false
+  "ope": null
 }

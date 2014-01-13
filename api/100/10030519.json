@@ -1,6 +1,6 @@
 {
   "facility_code": "10030519",
-  "institution": "University Of Maine Public Safety",
+  "institution": "UNIVERSITY OF MAINE PUBLIC SAFETY",
   "city": "Orono",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4469",
-  "email": false
+  "ope": null
 }

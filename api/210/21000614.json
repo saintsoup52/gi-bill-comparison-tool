@@ -1,6 +1,6 @@
 {
   "facility_code": "21000614",
-  "institution": "The Art Institute Of Indianapolis",
+  "institution": "THE ART INSTITUTE OF INDIANAPOLIS",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46268",
-  "email": true
+  "ope": "04051304"
 }

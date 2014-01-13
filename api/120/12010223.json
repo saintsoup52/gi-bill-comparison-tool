@@ -1,6 +1,6 @@
 {
   "facility_code": "12010223",
-  "institution": "Va Medical Center-School Of Anesthesia",
+  "institution": "VA MEDICAL CENTER-SCHOOL OF ANESTHESIA",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55417",
-  "email": false
+  "ope": null
 }

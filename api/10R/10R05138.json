@@ -1,6 +1,6 @@
 {
   "facility_code": "10R05138",
-  "institution": "U.S. Department Of Energy Netl",
+  "institution": "U.S. DEPARTMENT OF ENERGY NETL",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15236",
-  "email": false
+  "ope": null
 }

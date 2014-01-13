@@ -1,6 +1,6 @@
 {
   "facility_code": "10026833",
-  "institution": "Jacksonville Police Department",
+  "institution": "JACKSONVILLE POLICE DEPARTMENT",
   "city": "Jacksonville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28541",
-  "email": true
+  "ope": null
 }

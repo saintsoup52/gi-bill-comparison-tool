@@ -1,6 +1,6 @@
 {
   "facility_code": "31101074",
-  "institution": "University Of Strathclyde",
+  "institution": "UNIVERSITY OF STRATHCLYDE",
   "city": "Glasgow",
   "state": "Scotland",
   "country": "Scotland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

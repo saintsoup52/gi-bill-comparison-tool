@@ -1,6 +1,6 @@
 {
   "facility_code": "32510705",
-  "institution": "Loma Linda University Medical Center",
+  "institution": "LOMA LINDA UNIVERSITY MEDICAL CENTER",
   "city": "Loma Linda",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92354",
-  "email": false
+  "ope": null
 }

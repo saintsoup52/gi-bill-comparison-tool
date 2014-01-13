@@ -1,6 +1,6 @@
 {
   "facility_code": "20011614",
-  "institution": "Plumbers And Pipefitters J.A.T.C.",
+  "institution": "PLUMBERS AND PIPEFITTERS J.A.T.C.",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46628",
-  "email": false
+  "ope": null
 }

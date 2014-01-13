@@ -1,6 +1,6 @@
 {
   "facility_code": "35551132",
-  "institution": "Champlain Valley Physicians Hospital",
+  "institution": "CHAMPLAIN VALLEY PHYSICIANS HOSPITAL",
   "city": "Plattsburgh",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "12901",
-  "email": false
+  "ope": "01161400"
 }

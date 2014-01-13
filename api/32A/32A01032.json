@@ -1,6 +1,6 @@
 {
   "facility_code": "32A01032",
-  "institution": "Montefiore Medical Center",
+  "institution": "MONTEFIORE MEDICAL CENTER",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10467",
-  "email": true
+  "ope": null
 }

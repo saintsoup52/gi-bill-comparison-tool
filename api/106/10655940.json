@@ -1,6 +1,6 @@
 {
   "facility_code": "10655940",
-  "institution": "Federal Correctional Institution - Edgefield",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - EDGEFIELD",
   "city": "Edgefield",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29824",
-  "email": true
+  "ope": null
 }

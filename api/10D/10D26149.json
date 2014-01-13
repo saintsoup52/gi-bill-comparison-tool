@@ -1,6 +1,6 @@
 {
   "facility_code": "10D26149",
-  "institution": "Dwd-Det/Kenosha Job Service",
+  "institution": "DWD-DET/KENOSHA JOB SERVICE",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53143",
-  "email": false
+  "ope": null
 }

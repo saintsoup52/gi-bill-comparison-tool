@@ -1,6 +1,6 @@
 {
   "facility_code": "10D00738",
-  "institution": "Lebanon County Correctional Facility",
+  "institution": "LEBANON COUNTY CORRECTIONAL FACILITY",
   "city": "Lebanon",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17042",
-  "email": true
+  "ope": null
 }

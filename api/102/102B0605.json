@@ -1,6 +1,6 @@
 {
   "facility_code": "102B0605",
-  "institution": "Oceanside Police Department",
+  "institution": "OCEANSIDE POLICE DEPARTMENT",
   "city": "Oceanside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92054",
-  "email": false
+  "ope": null
 }

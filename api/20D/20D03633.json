@@ -1,6 +1,6 @@
 {
   "facility_code": "20D03633",
-  "institution": "John S. Clark Company Inc.",
+  "institution": "JOHN S. CLARK COMPANY INC.",
   "city": "Mount Airy",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27030",
-  "email": false
+  "ope": null
 }

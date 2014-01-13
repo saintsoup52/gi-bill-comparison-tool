@@ -1,6 +1,6 @@
 {
   "facility_code": "20060228",
-  "institution": "Southern Nevada Laborers Jatc",
+  "institution": "SOUTHERN NEVADA LABORERS JATC",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89110",
-  "email": false
+  "ope": null
 }

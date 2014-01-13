@@ -1,6 +1,6 @@
 {
   "facility_code": "35005105",
-  "institution": "Center For Employment Training (Ch 31)",
+  "institution": "CENTER FOR EMPLOYMENT TRAINING (CH 31)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "92102",
-  "email": false
+  "ope": "02332809"
 }

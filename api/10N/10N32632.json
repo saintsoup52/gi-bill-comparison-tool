@@ -1,6 +1,6 @@
 {
   "facility_code": "10N32632",
-  "institution": "Nypd 100th Precinct Patrol Boro Queens South",
+  "institution": "NYPD 100TH PRECINCT PATROL BORO QUEENS SOUTH",
   "city": "Rockaway Beach",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11693",
-  "email": false
+  "ope": null
 }

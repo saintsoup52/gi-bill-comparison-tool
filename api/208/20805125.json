@@ -1,6 +1,6 @@
 {
   "facility_code": "20805125",
-  "institution": "St Louis San Francisco Railway Co",
+  "institution": "ST LOUIS SAN FRANCISCO RAILWAY CO",
   "city": "Springfield",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65802",
-  "email": "No (SCO)"
+  "ope": null
 }

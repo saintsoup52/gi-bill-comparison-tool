@@ -1,6 +1,6 @@
 {
   "facility_code": "10519030",
-  "institution": "Millville Police Department",
+  "institution": "MILLVILLE POLICE DEPARTMENT",
   "city": "Millville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8332",
-  "email": true
+  "ope": null
 }

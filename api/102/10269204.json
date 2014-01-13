@@ -1,6 +1,6 @@
 {
   "facility_code": "10269204",
-  "institution": "Stuttgart Plice Dpt",
+  "institution": "STUTTGART PLICE DPT",
   "city": "Stuttgart",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72601",
-  "email": false
+  "ope": null
 }

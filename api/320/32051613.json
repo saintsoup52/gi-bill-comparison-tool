@@ -1,6 +1,6 @@
 {
   "facility_code": "32051613",
-  "institution": "Mcgaw Medical Center Of Northwestern University",
+  "institution": "MCGAW MEDICAL CENTER OF NORTHWESTERN UNIVERSITY",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60611",
-  "email": true
+  "ope": null
 }

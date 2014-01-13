@@ -1,6 +1,6 @@
 {
   "facility_code": "30000119",
-  "institution": "Medical Care Development (Ch31)",
+  "institution": "MEDICAL CARE DEVELOPMENT (CH31)",
   "city": "Augusta",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4330",
-  "email": false
+  "ope": null
 }

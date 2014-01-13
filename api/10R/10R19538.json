@@ -1,6 +1,6 @@
 {
   "facility_code": "10R19538",
-  "institution": "Penn Township Police Department",
+  "institution": "PENN TOWNSHIP POLICE DEPARTMENT",
   "city": "Hanover",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17331",
-  "email": false
+  "ope": null
 }

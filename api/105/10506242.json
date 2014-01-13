@@ -1,6 +1,6 @@
 {
   "facility_code": "10506242",
-  "institution": "Tennessee Valley Authority - Spring City (Watts Bar)",
+  "institution": "TENNESSEE VALLEY AUTHORITY - SPRING CITY (WATTS BAR)",
   "city": "Spring City",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37381",
-  "email": false
+  "ope": null
 }

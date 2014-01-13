@@ -1,6 +1,6 @@
 {
   "facility_code": "10302141",
-  "institution": "Wagner Police Department",
+  "institution": "WAGNER POLICE DEPARTMENT",
   "city": "Wagner",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57380",
-  "email": false
+  "ope": null
 }

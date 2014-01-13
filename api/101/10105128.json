@@ -1,6 +1,6 @@
 {
   "facility_code": "10105128",
-  "institution": "District Court Family Division (Ch31)",
+  "institution": "DISTRICT COURT FAMILY DIVISION (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89101",
-  "email": false
+  "ope": null
 }

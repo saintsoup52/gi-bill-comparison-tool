@@ -1,6 +1,6 @@
 {
   "facility_code": "10C11643",
-  "institution": "Texas Veterans Commission Region Iv",
+  "institution": "TEXAS VETERANS COMMISSION REGION IV",
   "city": "Sherman",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75090",
-  "email": false
+  "ope": null
 }

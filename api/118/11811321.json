@@ -1,6 +1,6 @@
 {
   "facility_code": "11811321",
-  "institution": "University Of Massachusetts Lowell",
+  "institution": "UNIVERSITY OF MASSACHUSETTS LOWELL",
   "city": "Lowell",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "1854",
-  "email": true
+  "ope": "00216100"
 }

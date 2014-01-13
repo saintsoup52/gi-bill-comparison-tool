@@ -1,6 +1,6 @@
 {
   "facility_code": "10498915",
-  "institution": "Waterloo Air Traffic Control Tower",
+  "institution": "WATERLOO AIR TRAFFIC CONTROL TOWER",
   "city": "Waterloo",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50703",
-  "email": true
+  "ope": null
 }

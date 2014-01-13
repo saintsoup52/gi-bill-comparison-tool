@@ -1,6 +1,6 @@
 {
   "facility_code": "20591940",
-  "institution": "Beaufort  Police Dept",
+  "institution": "BEAUFORT  POLICE DEPT",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29901",
-  "email": false
+  "ope": null
 }

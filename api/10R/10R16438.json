@@ -1,6 +1,6 @@
 {
   "facility_code": "10R16438",
-  "institution": "Social Security Administration- Altoona Field Office",
+  "institution": "SOCIAL SECURITY ADMINISTRATION- ALTOONA FIELD OFFICE",
   "city": "Altoona",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16602",
-  "email": true
+  "ope": null
 }

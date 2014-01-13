@@ -1,6 +1,6 @@
 {
   "facility_code": "18001030",
-  "institution": "Atlantic County Vocational Technical School",
+  "institution": "ATLANTIC COUNTY VOCATIONAL TECHNICAL SCHOOL",
   "city": "Mays Landing",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8330",
-  "email": false
+  "ope": null
 }

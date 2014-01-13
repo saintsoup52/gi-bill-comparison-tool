@@ -1,6 +1,6 @@
 {
   "facility_code": "10N27732",
-  "institution": "Potsdam Police Department",
+  "institution": "POTSDAM POLICE DEPARTMENT",
   "city": "Potsdam",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13675",
-  "email": false
+  "ope": null
 }

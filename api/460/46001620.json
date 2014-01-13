@@ -1,6 +1,6 @@
 {
   "facility_code": "46001620",
-  "institution": "Sans Institute",
+  "institution": "SANS INSTITUTE",
   "city": "Bethesda",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20814",
-  "email": true
+  "ope": null
 }

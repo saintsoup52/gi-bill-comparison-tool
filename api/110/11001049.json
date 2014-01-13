@@ -1,6 +1,6 @@
 {
   "facility_code": "11001049",
-  "institution": "Univ Of Wisconsin-Whitewater",
+  "institution": "UNIV OF WISCONSIN-WHITEWATER",
   "city": "Whitewater",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53190",
-  "email": true
+  "ope": "00392600"
 }

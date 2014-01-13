@@ -1,6 +1,6 @@
 {
   "facility_code": "10463947",
-  "institution": "Va Pshcs - Everett Vet Center - Ch 31 Only",
+  "institution": "VA PSHCS - EVERETT VET CENTER - CH 31 ONLY",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98201",
-  "email": true
+  "ope": null
 }

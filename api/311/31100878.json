@@ -1,6 +1,6 @@
 {
   "facility_code": "31100878",
-  "institution": "Universitat Politecnica De Catalunya",
+  "institution": "UNIVERSITAT POLITECNICA DE CATALUNYA",
   "city": "Barcelona",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

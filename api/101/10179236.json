@@ -1,6 +1,6 @@
 {
   "facility_code": "10179236",
-  "institution": "National Weather Service",
+  "institution": "NATIONAL WEATHER SERVICE",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73159",
-  "email": false
+  "ope": null
 }

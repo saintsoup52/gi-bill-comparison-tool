@@ -1,6 +1,6 @@
 {
   "facility_code": "10534617",
-  "institution": "Henry County Sheriff'S Department",
+  "institution": "HENRY COUNTY SHERIFF'S DEPARTMENT",
   "city": "New Castle",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40050",
-  "email": true
+  "ope": null
 }

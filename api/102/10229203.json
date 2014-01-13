@@ -1,6 +1,6 @@
 {
   "facility_code": "10229203",
-  "institution": "Faa Prescott Airport Traffic Control Tower",
+  "institution": "FAA PRESCOTT AIRPORT TRAFFIC CONTROL TOWER",
   "city": "Prescott",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "86301",
-  "email": false
+  "ope": null
 }

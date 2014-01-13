@@ -1,6 +1,6 @@
 {
   "facility_code": "10D23649",
-  "institution": "U.S.D.A. Forest Service (Ch31 Only)",
+  "institution": "U.S.D.A. FOREST SERVICE (CH31 ONLY)",
   "city": "Rhinelander",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54501",
-  "email": "No (SCO)"
+  "ope": null
 }

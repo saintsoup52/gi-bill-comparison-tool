@@ -1,6 +1,6 @@
 {
   "facility_code": "10N13732",
-  "institution": "New York City Dep Police - Kingston",
+  "institution": "NEW YORK CITY DEP POLICE - KINGSTON",
   "city": "Kingston",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12401",
-  "email": false
+  "ope": null
 }

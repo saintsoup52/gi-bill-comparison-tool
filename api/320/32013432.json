@@ -1,6 +1,6 @@
 {
   "facility_code": "32013432",
-  "institution": "Albany Medical Center Hospital",
+  "institution": "ALBANY MEDICAL CENTER HOSPITAL",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12208",
-  "email": true
+  "ope": null
 }

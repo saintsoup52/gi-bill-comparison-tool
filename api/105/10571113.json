@@ -1,6 +1,6 @@
 {
   "facility_code": "10571113",
-  "institution": "Champaign Police Department",
+  "institution": "CHAMPAIGN POLICE DEPARTMENT",
   "city": "Champaign",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61820",
-  "email": false
+  "ope": null
 }

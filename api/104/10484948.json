@@ -1,6 +1,6 @@
 {
   "facility_code": "10484948",
-  "institution": "South Charleston Police Department",
+  "institution": "SOUTH CHARLESTON POLICE DEPARTMENT",
   "city": "South Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25303",
-  "email": true
+  "ope": null
 }

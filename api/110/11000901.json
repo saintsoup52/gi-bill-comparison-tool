@@ -1,6 +1,6 @@
 {
   "facility_code": "11000901",
-  "institution": "University Of Alabama - Veteran & Military Affairs",
+  "institution": "UNIVERSITY OF ALABAMA - VETERAN & MILITARY AFFAIRS",
   "city": "Tuscaloosa",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35487",
-  "email": true
+  "ope": "00105100"
 }

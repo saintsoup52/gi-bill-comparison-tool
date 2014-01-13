@@ -1,6 +1,6 @@
 {
   "facility_code": "10470548",
-  "institution": "Charleston Fire Department",
+  "institution": "CHARLESTON FIRE DEPARTMENT",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25302",
-  "email": true
+  "ope": null
 }

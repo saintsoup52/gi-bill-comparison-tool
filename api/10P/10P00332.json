@@ -1,6 +1,6 @@
 {
   "facility_code": "10P00332",
-  "institution": "Ocean Beach Village Police Department",
+  "institution": "OCEAN BEACH VILLAGE POLICE DEPARTMENT",
   "city": "Ocean Beach",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11770",
-  "email": false
+  "ope": null
 }

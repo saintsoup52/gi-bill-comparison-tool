@@ -1,6 +1,6 @@
 {
   "facility_code": "10994801",
-  "institution": "Institutional Services Division",
+  "institution": "INSTITUTIONAL SERVICES DIVISION",
   "city": "Elmore",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36025",
-  "email": true
+  "ope": null
 }

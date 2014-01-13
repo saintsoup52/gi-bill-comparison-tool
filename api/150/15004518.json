@@ -1,6 +1,6 @@
 {
   "facility_code": "15004518",
-  "institution": "Jackson High School",
+  "institution": "JACKSON HIGH SCHOOL",
   "city": "Jackson",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70748",
-  "email": false
+  "ope": null
 }

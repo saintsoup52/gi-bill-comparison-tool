@@ -1,6 +1,6 @@
 {
   "facility_code": "11000474",
-  "institution": "The University Of North London",
+  "institution": "THE UNIVERSITY OF NORTH LONDON",
   "city": "London",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

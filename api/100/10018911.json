@@ -1,6 +1,6 @@
 {
   "facility_code": "10018911",
-  "institution": "Uga Police Department Public Safety Division",
+  "institution": "UGA POLICE DEPARTMENT PUBLIC SAFETY DIVISION",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30602",
-  "email": false
+  "ope": null
 }

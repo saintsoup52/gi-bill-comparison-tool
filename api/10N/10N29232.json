@@ -1,6 +1,6 @@
 {
   "facility_code": "10N29232",
-  "institution": "City Of White Plains Dept. Of Public Works",
+  "institution": "CITY OF WHITE PLAINS DEPT. OF PUBLIC WORKS",
   "city": "White Plains",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10601",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B97735",
-  "institution": "Social Security Administration - Akron",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - AKRON",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44320",
-  "email": true
+  "ope": null
 }

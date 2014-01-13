@@ -1,6 +1,6 @@
 {
   "facility_code": "11181069",
-  "institution": "Ewha Womans University",
+  "institution": "EWHA WOMANS UNIVERSITY",
   "city": "Seoul",
   "state": "South Korea",
   "country": "South Korea",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

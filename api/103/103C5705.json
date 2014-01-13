@@ -1,6 +1,6 @@
 {
   "facility_code": "103C5705",
-  "institution": "Social Security Administration (Compton)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (COMPTON)",
   "city": "Compton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90221",
-  "email": false
+  "ope": null
 }

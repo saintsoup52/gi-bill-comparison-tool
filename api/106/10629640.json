@@ -1,6 +1,6 @@
 {
   "facility_code": "10629640",
-  "institution": "Trenton Correctional Institution",
+  "institution": "TRENTON CORRECTIONAL INSTITUTION",
   "city": "Trenton",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29847",
-  "email": false
+  "ope": null
 }

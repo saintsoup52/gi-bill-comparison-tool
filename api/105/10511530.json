@@ -1,6 +1,6 @@
 {
   "facility_code": "10511530",
-  "institution": "Gloucester Township Police Department",
+  "institution": "GLOUCESTER TOWNSHIP POLICE DEPARTMENT",
   "city": "Blackwood",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8012",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10312938",
-  "institution": "Philadelphia Police Department",
+  "institution": "PHILADELPHIA POLICE DEPARTMENT",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": true
+  "ope": null
 }

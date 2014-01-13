@@ -1,6 +1,6 @@
 {
   "facility_code": "10497746",
-  "institution": "Virginia State Police Area Office #18",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #18",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22903",
-  "email": true
+  "ope": null
 }

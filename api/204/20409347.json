@@ -1,6 +1,6 @@
 {
   "facility_code": "20409347",
-  "institution": "Newtec (Ch 31 Only)",
+  "institution": "NEWTEC (CH 31 ONLY)",
   "city": "Dupont",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98327",
-  "email": false
+  "ope": null
 }

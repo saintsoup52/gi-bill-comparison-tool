@@ -1,6 +1,6 @@
 {
   "facility_code": "10A77706",
-  "institution": "City Of Salida Police Department",
+  "institution": "CITY OF SALIDA POLICE DEPARTMENT",
   "city": "Salida",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81201",
-  "email": false
+  "ope": null
 }

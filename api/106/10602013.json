@@ -1,6 +1,6 @@
 {
   "facility_code": "10602013",
-  "institution": "Peoria Police Department",
+  "institution": "PEORIA POLICE DEPARTMENT",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61602",
-  "email": false
+  "ope": null
 }

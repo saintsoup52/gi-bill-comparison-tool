@@ -1,6 +1,6 @@
 {
   "facility_code": "35000409",
-  "institution": "Byte Back",
+  "institution": "BYTE BACK",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20017",
-  "email": false
+  "ope": null
 }

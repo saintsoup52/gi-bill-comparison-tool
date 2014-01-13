@@ -1,6 +1,6 @@
 {
   "facility_code": "20B88135",
-  "institution": "North Coast Correctional Treatment Facility",
+  "institution": "NORTH COAST CORRECTIONAL TREATMENT FACILITY",
   "city": "Grafton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44044",
-  "email": false
+  "ope": null
 }

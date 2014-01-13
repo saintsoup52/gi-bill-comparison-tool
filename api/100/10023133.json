@@ -1,6 +1,6 @@
 {
   "facility_code": "10023133",
-  "institution": "New Bern Fire-Rescue",
+  "institution": "NEW BERN FIRE-RESCUE",
   "city": "New Bern",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28563",
-  "email": true
+  "ope": null
 }

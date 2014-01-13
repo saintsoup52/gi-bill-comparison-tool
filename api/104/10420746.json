@@ -1,6 +1,6 @@
 {
   "facility_code": "10420746",
-  "institution": "Social Security Administration - Charlottesville",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - CHARLOTTESVILLE",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22911",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10425947",
-  "institution": "Pierce County Fire District No. 17",
+  "institution": "PIERCE COUNTY FIRE DISTRICT NO. 17",
   "city": "Eatonville",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98328",
-  "email": true
+  "ope": null
 }

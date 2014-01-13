@@ -1,6 +1,6 @@
 {
   "facility_code": "10011333",
-  "institution": "Ncdoc - Pamlico Correctional Institution",
+  "institution": "NCDOC - PAMLICO CORRECTIONAL INSTITUTION",
   "city": "Bayboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28515",
-  "email": true
+  "ope": null
 }

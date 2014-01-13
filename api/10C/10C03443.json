@@ -1,6 +1,6 @@
 {
   "facility_code": "10C03443",
-  "institution": "Harris Cty Water Cntrl Imp Dist 50",
+  "institution": "HARRIS CTY WATER CNTRL IMP DIST 50",
   "city": "El Lago",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77586",
-  "email": false
+  "ope": null
 }

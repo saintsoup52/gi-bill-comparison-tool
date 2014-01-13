@@ -1,6 +1,6 @@
 {
   "facility_code": "21040343",
-  "institution": "Act Houston At Austin",
+  "institution": "ACT HOUSTON AT AUSTIN",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78751",
-  "email": false
+  "ope": null
 }

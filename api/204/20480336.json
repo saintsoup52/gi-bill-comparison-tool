@@ -1,6 +1,6 @@
 {
   "facility_code": "20480336",
-  "institution": "Associated Therapeutic Services (Ch 31 Only)",
+  "institution": "ASSOCIATED THERAPEUTIC SERVICES (CH 31 ONLY)",
   "city": "Enid",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73702",
-  "email": false
+  "ope": null
 }

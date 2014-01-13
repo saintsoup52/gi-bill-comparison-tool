@@ -1,6 +1,6 @@
 {
   "facility_code": "10062808",
-  "institution": "New Castle County Police Department",
+  "institution": "NEW CASTLE COUNTY POLICE DEPARTMENT",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19713",
-  "email": false
+  "ope": null
 }

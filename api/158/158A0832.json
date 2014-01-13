@@ -1,6 +1,6 @@
 {
   "facility_code": "158A0832",
-  "institution": "Boces Greater Southern Tier (Gst)",
+  "institution": "BOCES GREATER SOUTHERN TIER (GST)",
   "city": "Elmira",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "14903",
-  "email": true
+  "ope": "01240700"
 }

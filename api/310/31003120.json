@@ -1,6 +1,6 @@
 {
   "facility_code": "31003120",
-  "institution": "Embry-Riddle Aeronautical Univ Patuxent",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV PATUXENT",
   "city": "Lexington Park, Md 20653",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20670",
-  "email": true
+  "ope": "00147986"
 }

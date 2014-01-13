@@ -1,6 +1,6 @@
 {
   "facility_code": "10559725",
-  "institution": "National Weather Service - Columbia Regional Airpt",
+  "institution": "NATIONAL WEATHER SERVICE - COLUMBIA REGIONAL AIRPT",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65201",
-  "email": false
+  "ope": null
 }

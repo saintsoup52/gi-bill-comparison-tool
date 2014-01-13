@@ -1,6 +1,6 @@
 {
   "facility_code": "11000188",
-  "institution": "Norwegian University Of Science & Technology",
+  "institution": "NORWEGIAN UNIVERSITY OF SCIENCE & TECHNOLOGY",
   "city": "Trondheim",
   "state": "Norway",
   "country": "Norway",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

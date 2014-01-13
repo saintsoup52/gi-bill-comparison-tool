@@ -1,6 +1,6 @@
 {
   "facility_code": "10668436",
-  "institution": "Faa Will Rogers World Airport Air Traffic Control Tower",
+  "institution": "FAA WILL ROGERS WORLD AIRPORT AIR TRAFFIC CONTROL TOWER",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73159",
-  "email": false
+  "ope": null
 }

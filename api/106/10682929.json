@@ -1,6 +1,6 @@
 {
   "facility_code": "10682929",
-  "institution": "Somersworth Police Department",
+  "institution": "SOMERSWORTH POLICE DEPARTMENT",
   "city": "Somersworth",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3878",
-  "email": false
+  "ope": null
 }

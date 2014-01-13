@@ -1,6 +1,6 @@
 {
   "facility_code": "15143107",
-  "institution": "Connecticut State Police Training Academy",
+  "institution": "CONNECTICUT STATE POLICE TRAINING ACADEMY",
   "city": "Meriden",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6540",
-  "email": true
+  "ope": null
 }

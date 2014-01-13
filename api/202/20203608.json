@@ -1,6 +1,6 @@
 {
   "facility_code": "20203608",
-  "institution": "U.S. Male Modern Barbershop",
+  "institution": "U.S. MALE MODERN BARBERSHOP",
   "city": "Bear",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19701",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31965235",
-  "institution": "John Carroll University",
+  "institution": "JOHN CARROLL UNIVERSITY",
   "city": "University Hts",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "44118",
-  "email": true
+  "ope": "00305000"
 }

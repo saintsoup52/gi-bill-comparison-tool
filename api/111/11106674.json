@@ -1,6 +1,6 @@
 {
   "facility_code": "11106674",
-  "institution": "The University Of York",
+  "institution": "THE UNIVERSITY OF YORK",
   "city": "Heslington",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

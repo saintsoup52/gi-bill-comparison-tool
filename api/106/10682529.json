@@ -1,6 +1,6 @@
 {
   "facility_code": "10682529",
-  "institution": "Durham Police Department",
+  "institution": "DURHAM POLICE DEPARTMENT",
   "city": "Durham",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3824",
-  "email": false
+  "ope": null
 }

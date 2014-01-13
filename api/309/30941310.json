@@ -1,6 +1,6 @@
 {
   "facility_code": "30941310",
-  "institution": "Escambia Cty Chp Of Fl Assoc Plumb/Heat/Cool Contr",
+  "institution": "ESCAMBIA CTY CHP OF FL ASSOC PLUMB/HEAT/COOL CONTR",
   "city": "Pensacola",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32506",
-  "email": false
+  "ope": null
 }

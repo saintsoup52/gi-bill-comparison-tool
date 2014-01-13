@@ -1,6 +1,6 @@
 {
   "facility_code": "11200180",
-  "institution": "Justus-Liebig-Universitat-Giessen",
+  "institution": "JUSTUS-LIEBIG-UNIVERSITAT-GIESSEN",
   "city": "D35390 Giessen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

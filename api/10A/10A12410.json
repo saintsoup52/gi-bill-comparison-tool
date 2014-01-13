@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12410",
-  "institution": "Florida State University Police Department",
+  "institution": "FLORIDA STATE UNIVERSITY POLICE DEPARTMENT",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32306",
-  "email": true
+  "ope": null
 }

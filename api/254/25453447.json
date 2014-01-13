@@ -1,6 +1,6 @@
 {
   "facility_code": "25453447",
-  "institution": "Health Professionals Institute",
+  "institution": "HEALTH PROFESSIONALS INSTITUTE",
   "city": "Kent",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98032",
-  "email": true
+  "ope": null
 }

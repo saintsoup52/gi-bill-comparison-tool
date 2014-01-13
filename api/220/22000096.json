@@ -1,6 +1,6 @@
 {
   "facility_code": "22000096",
-  "institution": "Ross University School Of Medicine",
+  "institution": "ROSS UNIVERSITY SCHOOL OF MEDICINE",
   "city": "Roseau",
   "state": "Dominica",
   "country": "Dominica",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

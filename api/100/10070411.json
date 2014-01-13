@@ -1,6 +1,6 @@
 {
   "facility_code": "10070411",
-  "institution": "Usda - Animal & Plan Health Inspection Service",
+  "institution": "USDA - ANIMAL & PLAN HEALTH INSPECTION SERVICE",
   "city": "Conyers",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30094",
-  "email": false
+  "ope": null
 }

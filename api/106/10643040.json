@@ -1,6 +1,6 @@
 {
   "facility_code": "10643040",
-  "institution": "Branchville Police Department",
+  "institution": "BRANCHVILLE POLICE DEPARTMENT",
   "city": "Branchville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29432",
-  "email": false
+  "ope": null
 }

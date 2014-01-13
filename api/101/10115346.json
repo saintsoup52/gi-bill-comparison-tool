@@ -1,6 +1,6 @@
 {
   "facility_code": "10115346",
-  "institution": "Fire Dist 1 Sewells Pt Naval Station Fire Dept",
+  "institution": "FIRE DIST 1 SEWELLS PT NAVAL STATION FIRE DEPT",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23511",
-  "email": true
+  "ope": null
 }

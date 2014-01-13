@@ -1,6 +1,6 @@
 {
   "facility_code": "10402246",
-  "institution": "Virginia State Police Area Office #08",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #08",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23223",
-  "email": true
+  "ope": null
 }

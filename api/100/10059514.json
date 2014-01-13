@@ -1,6 +1,6 @@
 {
   "facility_code": "10059514",
-  "institution": "Washington Police Department",
+  "institution": "WASHINGTON POLICE DEPARTMENT",
   "city": "Washington",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47501",
-  "email": false
+  "ope": null
 }

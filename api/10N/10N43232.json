@@ -1,6 +1,6 @@
 {
   "facility_code": "10N43232",
-  "institution": "New York State Police - Troop B",
+  "institution": "NEW YORK STATE POLICE - TROOP B",
   "city": "Raybrook",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12977",
-  "email": true
+  "ope": null
 }

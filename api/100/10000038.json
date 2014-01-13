@@ -1,6 +1,6 @@
 {
   "facility_code": "10000038",
-  "institution": "Veterans Health Administration- (Vamc Butler)",
+  "institution": "VETERANS HEALTH ADMINISTRATION- (VAMC BUTLER)",
   "city": "Butler",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16001",
-  "email": false
+  "ope": null
 }

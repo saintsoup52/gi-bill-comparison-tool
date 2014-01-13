@@ -1,6 +1,6 @@
 {
   "facility_code": "10427347",
-  "institution": "Redmond Police Department",
+  "institution": "REDMOND POLICE DEPARTMENT",
   "city": "Redmond",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98073",
-  "email": true
+  "ope": null
 }

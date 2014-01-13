@@ -1,6 +1,6 @@
 {
   "facility_code": "10D22849",
-  "institution": "Milwaukee County Sheriff Dept",
+  "institution": "MILWAUKEE COUNTY SHERIFF DEPT",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53233",
-  "email": false
+  "ope": null
 }

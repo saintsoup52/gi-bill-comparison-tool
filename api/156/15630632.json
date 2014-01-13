@@ -1,6 +1,6 @@
 {
   "facility_code": "15630632",
-  "institution": "City Of Binghamton Fire Department - Sullivan Training Center",
+  "institution": "CITY OF BINGHAMTON FIRE DEPARTMENT - SULLIVAN TRAINING CENTER",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13903",
-  "email": true
+  "ope": null
 }

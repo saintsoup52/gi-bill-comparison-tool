@@ -1,6 +1,6 @@
 {
   "facility_code": "10007312",
-  "institution": "Meridian Police Department",
+  "institution": "MERIDIAN POLICE DEPARTMENT",
   "city": "Meridian",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83642",
-  "email": false
+  "ope": null
 }

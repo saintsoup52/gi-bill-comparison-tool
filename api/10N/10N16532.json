@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16532",
-  "institution": "Nassau County Police Department - 2nd Precinct",
+  "institution": "NASSAU COUNTY POLICE DEPARTMENT - 2ND PRECINCT",
   "city": "Woodbury",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11797",
-  "email": false
+  "ope": null
 }

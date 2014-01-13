@@ -1,6 +1,6 @@
 {
   "facility_code": "10560213",
-  "institution": "Collinsville Fire Department",
+  "institution": "COLLINSVILLE FIRE DEPARTMENT",
   "city": "Collinsville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62234",
-  "email": true
+  "ope": null
 }

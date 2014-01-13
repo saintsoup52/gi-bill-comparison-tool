@@ -1,6 +1,6 @@
 {
   "facility_code": "30M56232",
-  "institution": "Cornell University Plant Maintenance",
+  "institution": "CORNELL UNIVERSITY PLANT MAINTENANCE",
   "city": "Ithaca",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14853",
-  "email": false
+  "ope": null
 }

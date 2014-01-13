@@ -1,6 +1,6 @@
 {
   "facility_code": "103C4305",
-  "institution": "Internal Revenue Service (Laguna Niguel)(Ch31 Only)",
+  "institution": "INTERNAL REVENUE SERVICE (LAGUNA NIGUEL)(CH31 ONLY)",
   "city": "Laguna Niguel",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92677",
-  "email": false
+  "ope": null
 }

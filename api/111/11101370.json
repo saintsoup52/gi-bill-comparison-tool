@@ -1,6 +1,6 @@
 {
   "facility_code": "11101370",
-  "institution": "Edith Cowan University",
+  "institution": "EDITH COWAN UNIVERSITY",
   "city": "Joondalup, Wa",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

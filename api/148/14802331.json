@@ -1,6 +1,6 @@
 {
   "facility_code": "14802331",
-  "institution": "New Mexico State University",
+  "institution": "NEW MEXICO STATE UNIVERSITY",
   "city": "Alamogordo",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88310",
-  "email": true
+  "ope": null
 }

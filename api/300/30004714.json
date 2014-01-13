@@ -1,6 +1,6 @@
 {
   "facility_code": "30004714",
-  "institution": "Indiana University-University Hospital-I.U. Medical Center",
+  "institution": "INDIANA UNIVERSITY-UNIVERSITY HOSPITAL-I.U. MEDICAL CENTER",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46202",
-  "email": false
+  "ope": null
 }

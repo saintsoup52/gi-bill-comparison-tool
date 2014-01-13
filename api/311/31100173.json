@@ -1,6 +1,6 @@
 {
   "facility_code": "31100173",
-  "institution": "Vesalius College Vzw",
+  "institution": "VESALIUS COLLEGE VZW",
   "city": "Brussels",
   "state": "Belgium",
   "country": "Belgium",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10414746",
-  "institution": "Manassas Regional Airport-Faa",
+  "institution": "MANASSAS REGIONAL AIRPORT-FAA",
   "city": "Manassas",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20110",
-  "email": true
+  "ope": null
 }

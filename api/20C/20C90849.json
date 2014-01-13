@@ -1,6 +1,6 @@
 {
   "facility_code": "20C90849",
-  "institution": "A & E Manufacturing Company",
+  "institution": "A & E MANUFACTURING COMPANY",
   "city": "Racine",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53401",
-  "email": false
+  "ope": null
 }

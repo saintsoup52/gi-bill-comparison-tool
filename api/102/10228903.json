@@ -1,6 +1,6 @@
 {
   "facility_code": "10228903",
-  "institution": "Faa Grand Canyon Air Traffic Control Tower",
+  "institution": "FAA GRAND CANYON AIR TRAFFIC CONTROL TOWER",
   "city": "Grand Canyon",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "86023",
-  "email": false
+  "ope": null
 }

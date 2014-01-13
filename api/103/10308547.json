@@ -1,6 +1,6 @@
 {
   "facility_code": "10308547",
-  "institution": "Bellevue Police Department (Pstc)",
+  "institution": "BELLEVUE POLICE DEPARTMENT (PSTC)",
   "city": "Bellevue",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98009",
-  "email": false
+  "ope": null
 }

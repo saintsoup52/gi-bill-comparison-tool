@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10811",
-  "institution": "Athens Diversion Center",
+  "institution": "ATHENS DIVERSION CENTER",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30603",
-  "email": false
+  "ope": null
 }

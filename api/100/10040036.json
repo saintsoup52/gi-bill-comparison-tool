@@ -1,6 +1,6 @@
 {
   "facility_code": "10040036",
-  "institution": "Tulsa Police Department",
+  "institution": "TULSA POLICE DEPARTMENT",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74117",
-  "email": false
+  "ope": null
 }

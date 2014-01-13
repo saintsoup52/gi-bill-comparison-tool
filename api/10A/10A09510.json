@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09510",
-  "institution": "Federal Aviation Admin (Faa) Tallahassee System Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TALLAHASSEE SYSTEM SUPPORT CENTER",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32305",
-  "email": true
+  "ope": null
 }

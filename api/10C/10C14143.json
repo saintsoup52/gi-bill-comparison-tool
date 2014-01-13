@@ -1,6 +1,6 @@
 {
   "facility_code": "10C14143",
-  "institution": "Plano Police Department",
+  "institution": "PLANO POLICE DEPARTMENT",
   "city": "Plano",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75074",
-  "email": false
+  "ope": null
 }

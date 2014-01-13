@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12110",
-  "institution": "Vfw State Service Office",
+  "institution": "VFW STATE SERVICE OFFICE",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33731",
-  "email": true
+  "ope": null
 }

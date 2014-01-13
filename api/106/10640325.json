@@ -1,6 +1,6 @@
 {
   "facility_code": "10640325",
-  "institution": "Grandview Fire Dept.",
+  "institution": "GRANDVIEW FIRE DEPT.",
   "city": "Grandview",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64030",
-  "email": false
+  "ope": null
 }

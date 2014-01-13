@@ -1,6 +1,6 @@
 {
   "facility_code": "10059814",
-  "institution": "Evansville Police Department",
+  "institution": "EVANSVILLE POLICE DEPARTMENT",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47708",
-  "email": false
+  "ope": null
 }

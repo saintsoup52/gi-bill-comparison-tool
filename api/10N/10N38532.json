@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38532",
-  "institution": "New York City Police Dept. - Transit District #32",
+  "institution": "NEW YORK CITY POLICE DEPT. - TRANSIT DISTRICT #32",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11225",
-  "email": false
+  "ope": null
 }

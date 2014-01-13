@@ -1,6 +1,6 @@
 {
   "facility_code": "10006911",
-  "institution": "Metro Regional Youth Detention Center",
+  "institution": "METRO REGIONAL YOUTH DETENTION CENTER",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30316",
-  "email": false
+  "ope": null
 }

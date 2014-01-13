@@ -1,6 +1,6 @@
 {
   "facility_code": "10166927",
-  "institution": "Federal Aviation Admin (Faa) - Omaha Tracon",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) - OMAHA TRACON",
   "city": "Bellevue",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68005",
-  "email": true
+  "ope": null
 }

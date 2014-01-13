@@ -1,6 +1,6 @@
 {
   "facility_code": "10619440",
-  "institution": "Clemson University Fire Dept",
+  "institution": "CLEMSON UNIVERSITY FIRE DEPT",
   "city": "Clemson",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29634",
-  "email": false
+  "ope": null
 }

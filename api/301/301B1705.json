@@ -1,6 +1,6 @@
 {
   "facility_code": "301B1705",
-  "institution": "San Diego Gas & Electric/ Ibew Local #465 Jac",
+  "institution": "SAN DIEGO GAS & ELECTRIC/ IBEW LOCAL #465 JAC",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92123",
-  "email": false
+  "ope": null
 }

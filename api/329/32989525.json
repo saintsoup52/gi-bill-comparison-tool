@@ -1,6 +1,6 @@
 {
   "facility_code": "32989525",
-  "institution": "St. John'S Mercy Medical Center",
+  "institution": "ST. JOHN'S MERCY MEDICAL CENTER",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63141",
-  "email": false
+  "ope": null
 }

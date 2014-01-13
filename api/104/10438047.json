@@ -1,6 +1,6 @@
 {
   "facility_code": "10438047",
-  "institution": "Puget Sound Energy (Electric)",
+  "institution": "PUGET SOUND ENERGY (ELECTRIC)",
   "city": "Bellevue",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98068",
-  "email": true
+  "ope": null
 }

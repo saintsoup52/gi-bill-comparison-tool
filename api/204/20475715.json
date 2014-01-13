@@ -1,6 +1,6 @@
 {
   "facility_code": "20475715",
-  "institution": "Iowa Army National Guard",
+  "institution": "IOWA ARMY NATIONAL GUARD",
   "city": "Johnston",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50131",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C36843",
-  "institution": "Sheppard Rapcon",
+  "institution": "SHEPPARD RAPCON",
   "city": "Sheppard Afb",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76311",
-  "email": false
+  "ope": null
 }

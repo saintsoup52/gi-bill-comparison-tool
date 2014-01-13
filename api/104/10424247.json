@@ -1,6 +1,6 @@
 {
   "facility_code": "10424247",
-  "institution": "Us Dept Of The Army Public Works (Ch31)",
+  "institution": "US DEPT OF THE ARMY PUBLIC WORKS (CH31)",
   "city": "Ft. Lewis",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98430",
-  "email": false
+  "ope": null
 }

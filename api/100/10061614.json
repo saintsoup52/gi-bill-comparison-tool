@@ -1,6 +1,6 @@
 {
   "facility_code": "10061614",
-  "institution": "Plymouth Police Department",
+  "institution": "PLYMOUTH POLICE DEPARTMENT",
   "city": "Plymouth",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46563",
-  "email": false
+  "ope": null
 }

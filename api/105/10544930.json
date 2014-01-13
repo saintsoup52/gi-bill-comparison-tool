@@ -1,6 +1,6 @@
 {
   "facility_code": "10544930",
-  "institution": "Morris County Sheriff'S Department",
+  "institution": "MORRIS COUNTY SHERIFF'S DEPARTMENT",
   "city": "Morristown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7963",
-  "email": false
+  "ope": null
 }

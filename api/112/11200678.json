@@ -1,6 +1,6 @@
 {
   "facility_code": "11200678",
-  "institution": "Roskilde University",
+  "institution": "ROSKILDE UNIVERSITY",
   "city": "Roskilde",
   "state": "Denmark",
   "country": "Denmark",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

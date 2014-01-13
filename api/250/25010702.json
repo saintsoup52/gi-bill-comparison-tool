@@ -1,6 +1,6 @@
 {
   "facility_code": "25010702",
-  "institution": "North Star Computing Inc. (Ch31)",
+  "institution": "NORTH STAR COMPUTING INC. (CH31)",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99701",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10573113",
-  "institution": "Illinois Department Of Veteran'S Affairs",
+  "institution": "ILLINOIS DEPARTMENT OF VETERAN'S AFFAIRS",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62704",
-  "email": false
+  "ope": null
 }

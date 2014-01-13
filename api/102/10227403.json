@@ -1,6 +1,6 @@
 {
   "facility_code": "10227403",
-  "institution": "U.S. Customs & Border Protection - Yuma",
+  "institution": "U.S. CUSTOMS & BORDER PROTECTION - YUMA",
   "city": "Yuma",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85365",
-  "email": false
+  "ope": null
 }

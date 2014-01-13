@@ -1,6 +1,6 @@
 {
   "facility_code": "11803042",
-  "institution": "University Of Tennessee Space Institute",
+  "institution": "UNIVERSITY OF TENNESSEE SPACE INSTITUTE",
   "city": "Tullahoma",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "37388",
-  "email": false
+  "ope": "00353001"
 }

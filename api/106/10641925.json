@@ -1,6 +1,6 @@
 {
   "facility_code": "10641925",
-  "institution": "Smithville Police Dept.",
+  "institution": "SMITHVILLE POLICE DEPT.",
   "city": "Smithville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64089",
-  "email": false
+  "ope": null
 }

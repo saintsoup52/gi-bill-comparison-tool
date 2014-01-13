@@ -1,6 +1,6 @@
 {
   "facility_code": "18512132",
-  "institution": "Boces Cayuga-Onondaga",
+  "institution": "BOCES CAYUGA-ONONDAGA",
   "city": "Auburn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "13021",
-  "email": true
+  "ope": "02145800"
 }

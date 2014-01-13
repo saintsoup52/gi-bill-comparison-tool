@@ -1,6 +1,6 @@
 {
   "facility_code": "11000479",
-  "institution": "Hec Paris",
+  "institution": "HEC PARIS",
   "city": "F-78351 Jouy-En-Josas",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

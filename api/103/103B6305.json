@@ -1,6 +1,6 @@
 {
   "facility_code": "103B6305",
-  "institution": "Pomona Police Department",
+  "institution": "POMONA POLICE DEPARTMENT",
   "city": "Pomona",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91766",
-  "email": false
+  "ope": null
 }

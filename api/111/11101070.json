@@ -1,6 +1,6 @@
 {
   "facility_code": "11101070",
-  "institution": "La Trobe University",
+  "institution": "LA TROBE UNIVERSITY",
   "city": "Bundoora",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10999010",
-  "institution": "Hillsborough County Water Resources - Ch 31 Only",
+  "institution": "HILLSBOROUGH COUNTY WATER RESOURCES - CH 31 ONLY",
   "city": "Dover",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33527",
-  "email": false
+  "ope": null
 }

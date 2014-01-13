@@ -1,6 +1,6 @@
 {
   "facility_code": "12000238",
-  "institution": "Temple University Hospital",
+  "institution": "TEMPLE UNIVERSITY HOSPITAL",
   "city": "Philadelphia Pa",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19140",
-  "email": true
+  "ope": null
 }

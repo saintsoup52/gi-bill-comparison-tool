@@ -1,6 +1,6 @@
 {
   "facility_code": "10922222",
-  "institution": "Department Of The Army - Security Assistance Management Directorate",
+  "institution": "DEPARTMENT OF THE ARMY - SECURITY ASSISTANCE MANAGEMENT DIRECTORATE",
   "city": "Warren",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48092",
-  "email": false
+  "ope": null
 }

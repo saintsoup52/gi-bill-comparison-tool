@@ -1,6 +1,6 @@
 {
   "facility_code": "29103928",
-  "institution": "Stratosphere Corporation (Ch31)",
+  "institution": "STRATOSPHERE CORPORATION (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89104",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10659440",
-  "institution": "Blacksburg Police Department",
+  "institution": "BLACKSBURG POLICE DEPARTMENT",
   "city": "Blacksburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29702",
-  "email": false
+  "ope": null
 }

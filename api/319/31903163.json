@@ -1,6 +1,6 @@
 {
   "facility_code": "31903163",
-  "institution": "Universidad Del Este",
+  "institution": "UNIVERSIDAD DEL ESTE",
   "city": "Carolina",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "984",
-  "email": true
+  "ope": "00394100"
 }

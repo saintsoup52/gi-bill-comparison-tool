@@ -1,6 +1,6 @@
 {
   "facility_code": "11101180",
-  "institution": "Fachhochschule Trier - Trier",
+  "institution": "FACHHOCHSCHULE TRIER - TRIER",
   "city": "Trier",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

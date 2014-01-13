@@ -1,6 +1,6 @@
 {
   "facility_code": "10415947",
-  "institution": "Us Dept Of The Navy Irm (Ch31)",
+  "institution": "US DEPT OF THE NAVY IRM (CH31)",
   "city": "Oak Harbor",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98278",
-  "email": false
+  "ope": null
 }

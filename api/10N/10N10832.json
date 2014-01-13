@@ -1,6 +1,6 @@
 {
   "facility_code": "10N10832",
-  "institution": "Mid Orange Correctional Facility",
+  "institution": "MID ORANGE CORRECTIONAL FACILITY",
   "city": "Warwick",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10990",
-  "email": false
+  "ope": null
 }

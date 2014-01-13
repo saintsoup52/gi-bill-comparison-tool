@@ -1,6 +1,6 @@
 {
   "facility_code": "10420646",
-  "institution": "Davison Aaf Air Traffic Control Facility",
+  "institution": "DAVISON AAF AIR TRAFFIC CONTROL FACILITY",
   "city": "Fort Belvoir",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22060",
-  "email": false
+  "ope": null
 }

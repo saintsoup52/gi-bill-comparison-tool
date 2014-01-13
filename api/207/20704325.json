@@ -1,6 +1,6 @@
 {
   "facility_code": "20704325",
-  "institution": "At&T - Southwest",
+  "institution": "AT&T - SOUTHWEST",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63114",
-  "email": false
+  "ope": null
 }

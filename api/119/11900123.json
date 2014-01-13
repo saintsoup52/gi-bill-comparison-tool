@@ -1,6 +1,6 @@
 {
   "facility_code": "11900123",
-  "institution": "Metropolitan State University",
+  "institution": "METROPOLITAN STATE UNIVERSITY",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "55106",
-  "email": false
+  "ope": "01037400"
 }

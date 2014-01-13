@@ -1,6 +1,6 @@
 {
   "facility_code": "10073311",
-  "institution": "Internal Revenue Service (Columbus)",
+  "institution": "INTERNAL REVENUE SERVICE (COLUMBUS)",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31901",
-  "email": false
+  "ope": null
 }

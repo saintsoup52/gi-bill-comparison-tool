@@ -1,6 +1,6 @@
 {
   "facility_code": "20057211",
-  "institution": "Georgia Power Company - Austell",
+  "institution": "GEORGIA POWER COMPANY - AUSTELL",
   "city": "Austell",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30168",
-  "email": true
+  "ope": null
 }

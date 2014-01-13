@@ -1,6 +1,6 @@
 {
   "facility_code": "21008540",
-  "institution": "Sc Share",
+  "institution": "SC SHARE",
   "city": "West Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29169",
-  "email": true
+  "ope": null
 }

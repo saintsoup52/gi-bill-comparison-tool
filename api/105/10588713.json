@@ -1,6 +1,6 @@
 {
   "facility_code": "10588713",
-  "institution": "Winnetka Police Department",
+  "institution": "WINNETKA POLICE DEPARTMENT",
   "city": "Winnetka",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60093",
-  "email": true
+  "ope": null
 }

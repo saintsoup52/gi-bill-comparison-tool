@@ -1,6 +1,6 @@
 {
   "facility_code": "20172730",
-  "institution": "Ransome Cat",
+  "institution": "RANSOME CAT",
   "city": "Hammonton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8037",
-  "email": true
+  "ope": null
 }

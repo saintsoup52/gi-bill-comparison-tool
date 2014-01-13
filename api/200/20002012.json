@@ -1,6 +1,6 @@
 {
   "facility_code": "20002012",
-  "institution": "District 1 Juvenile Detention Center",
+  "institution": "DISTRICT 1 JUVENILE DETENTION CENTER",
   "city": "Coeur D'Alene",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83815",
-  "email": true
+  "ope": null
 }

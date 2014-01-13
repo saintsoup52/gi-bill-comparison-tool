@@ -1,6 +1,6 @@
 {
   "facility_code": "10987701",
-  "institution": "City Of Enterprise",
+  "institution": "CITY OF ENTERPRISE",
   "city": "Enterprise",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36331",
-  "email": false
+  "ope": null
 }

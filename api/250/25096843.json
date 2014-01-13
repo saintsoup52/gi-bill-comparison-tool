@@ -1,6 +1,6 @@
 {
   "facility_code": "25096843",
-  "institution": "Intl Language Ctr San Antonio",
+  "institution": "INTL LANGUAGE CTR SAN ANTONIO",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78229",
-  "email": false
+  "ope": null
 }

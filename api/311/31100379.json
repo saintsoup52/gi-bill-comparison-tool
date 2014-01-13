@@ -1,6 +1,6 @@
 {
   "facility_code": "31100379",
-  "institution": "Institut D'Etudes Politiques",
+  "institution": "INSTITUT D'ETUDES POLITIQUES",
   "city": "136 Aix-En-Provence Cedex 1",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

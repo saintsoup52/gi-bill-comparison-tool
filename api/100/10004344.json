@@ -1,6 +1,6 @@
 {
   "facility_code": "10004344",
-  "institution": "Tooele City Police Department",
+  "institution": "TOOELE CITY POLICE DEPARTMENT",
   "city": "Tooele",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84074",
-  "email": true
+  "ope": null
 }

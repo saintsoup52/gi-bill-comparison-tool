@@ -1,6 +1,6 @@
 {
   "facility_code": "10942511",
-  "institution": "Union Point Police Department",
+  "institution": "UNION POINT POLICE DEPARTMENT",
   "city": "Union Point",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30669",
-  "email": false
+  "ope": null
 }

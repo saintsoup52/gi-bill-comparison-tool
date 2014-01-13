@@ -1,6 +1,6 @@
 {
   "facility_code": "10657440",
-  "institution": "Mcas Beaufort Mcrd Parris Island",
+  "institution": "MCAS BEAUFORT MCRD PARRIS ISLAND",
   "city": "Mcas Beaufort",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29904",
-  "email": false
+  "ope": null
 }

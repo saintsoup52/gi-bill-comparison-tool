@@ -1,6 +1,6 @@
 {
   "facility_code": "10C41743",
-  "institution": "Department Of Veterans Affairs Houston",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS HOUSTON",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77536",
-  "email": false
+  "ope": null
 }

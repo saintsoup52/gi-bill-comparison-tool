@@ -1,6 +1,6 @@
 {
   "facility_code": "103D0305",
-  "institution": "Naval Medical Center San Diego (Chapter 31 Only)",
+  "institution": "NAVAL MEDICAL CENTER SAN DIEGO (CHAPTER 31 ONLY)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92134",
-  "email": false
+  "ope": null
 }

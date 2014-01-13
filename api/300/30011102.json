@@ -1,6 +1,6 @@
 {
   "facility_code": "30011102",
-  "institution": "Providence Alaska Medical Cntr (Ch31)",
+  "institution": "PROVIDENCE ALASKA MEDICAL CNTR (CH31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99508",
-  "email": false
+  "ope": null
 }

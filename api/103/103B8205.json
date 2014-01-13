@@ -1,6 +1,6 @@
 {
   "facility_code": "103B8205",
-  "institution": "Santa Clara County Office Of The Sheriff",
+  "institution": "SANTA CLARA COUNTY OFFICE OF THE SHERIFF",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95123",
-  "email": false
+  "ope": null
 }

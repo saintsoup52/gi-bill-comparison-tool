@@ -1,6 +1,6 @@
 {
   "facility_code": "10503917",
-  "institution": "Kenton County Detention Center",
+  "institution": "KENTON COUNTY DETENTION CENTER",
   "city": "Covington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41011",
-  "email": false
+  "ope": null
 }

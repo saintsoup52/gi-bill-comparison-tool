@@ -1,6 +1,6 @@
 {
   "facility_code": "20A05710",
-  "institution": "Red Sail Inc.",
+  "institution": "RED SAIL INC.",
   "city": "Sanford",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32773",
-  "email": true
+  "ope": null
 }

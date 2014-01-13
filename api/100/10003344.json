@@ -1,6 +1,6 @@
 {
   "facility_code": "10003344",
-  "institution": "Salina City Police Dept App",
+  "institution": "SALINA CITY POLICE DEPT APP",
   "city": "Salina",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84654",
-  "email": false
+  "ope": null
 }

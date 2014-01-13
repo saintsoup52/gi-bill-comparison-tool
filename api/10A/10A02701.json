@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02701",
-  "institution": "Social Security Administration (Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (CH31 ONLY)",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35805",
-  "email": "No (SCO)"
+  "ope": null
 }

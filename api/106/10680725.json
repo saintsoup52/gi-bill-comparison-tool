@@ -1,6 +1,6 @@
 {
   "facility_code": "10680725",
-  "institution": "Wentzville Police Department",
+  "institution": "WENTZVILLE POLICE DEPARTMENT",
   "city": "Wentzville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63385",
-  "email": false
+  "ope": null
 }

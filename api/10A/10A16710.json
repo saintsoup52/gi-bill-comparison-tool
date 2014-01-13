@@ -1,6 +1,6 @@
 {
   "facility_code": "10A16710",
-  "institution": "U.S. Citizenship & Immigration Service",
+  "institution": "U.S. CITIZENSHIP & IMMIGRATION SERVICE",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32822",
-  "email": false
+  "ope": null
 }

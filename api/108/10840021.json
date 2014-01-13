@@ -1,6 +1,6 @@
 {
   "facility_code": "10840021",
-  "institution": "University Of Massachusetts Amherst  Physical Plant",
+  "institution": "UNIVERSITY OF MASSACHUSETTS AMHERST  PHYSICAL PLANT",
   "city": "Amherst",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1003",
-  "email": false
+  "ope": null
 }

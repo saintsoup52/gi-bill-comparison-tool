@@ -1,6 +1,6 @@
 {
   "facility_code": "10130641",
-  "institution": "Minnehaha County Jail",
+  "institution": "MINNEHAHA COUNTY JAIL",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57104",
-  "email": false
+  "ope": null
 }

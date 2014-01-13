@@ -1,6 +1,6 @@
 {
   "facility_code": "10997310",
-  "institution": "Florida Dept Of Corrections-Central Office",
+  "institution": "FLORIDA DEPT OF CORRECTIONS-CENTRAL OFFICE",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32399",
-  "email": false
+  "ope": null
 }

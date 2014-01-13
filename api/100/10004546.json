@@ -1,6 +1,6 @@
 {
   "facility_code": "10004546",
-  "institution": "Fire Dist 1 Naval Amphibious Base Little Creek",
+  "institution": "FIRE DIST 1 NAVAL AMPHIBIOUS BASE LITTLE CREEK",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23521",
-  "email": true
+  "ope": null
 }

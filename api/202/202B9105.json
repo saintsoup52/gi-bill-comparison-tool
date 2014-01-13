@@ -1,6 +1,6 @@
 {
   "facility_code": "202B9105",
-  "institution": "Chevron Products Company (Richmond Refinery)",
+  "institution": "CHEVRON PRODUCTS COMPANY (RICHMOND REFINERY)",
   "city": "Richmond",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94801",
-  "email": false
+  "ope": null
 }

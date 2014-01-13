@@ -1,6 +1,6 @@
 {
   "facility_code": "10705113",
-  "institution": "Naval Service Training Command - Great Lakes Nstc",
+  "institution": "NAVAL SERVICE TRAINING COMMAND - GREAT LAKES NSTC",
   "city": "Great Lakes",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60088",
-  "email": true
+  "ope": null
 }

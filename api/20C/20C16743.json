@@ -1,6 +1,6 @@
 {
   "facility_code": "20C16743",
-  "institution": "Hartwig Inc",
+  "institution": "HARTWIG INC",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75061",
-  "email": true
+  "ope": null
 }

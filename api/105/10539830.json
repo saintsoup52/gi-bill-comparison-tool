@@ -1,6 +1,6 @@
 {
   "facility_code": "10539830",
-  "institution": "Rutgers University Police Department",
+  "institution": "RUTGERS UNIVERSITY POLICE DEPARTMENT",
   "city": "New Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8901",
-  "email": false
+  "ope": null
 }

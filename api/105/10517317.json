@@ -1,6 +1,6 @@
 {
   "facility_code": "10517317",
-  "institution": "Social Security Administration - Bowling Green",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - BOWLING GREEN",
   "city": "Bowling Green",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42104",
-  "email": true
+  "ope": null
 }

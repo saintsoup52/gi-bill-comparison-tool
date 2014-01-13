@@ -1,6 +1,6 @@
 {
   "facility_code": "10811130",
-  "institution": "Mid State Correctional Facility",
+  "institution": "MID STATE CORRECTIONAL FACILITY",
   "city": "Wrightstown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8562",
-  "email": false
+  "ope": null
 }

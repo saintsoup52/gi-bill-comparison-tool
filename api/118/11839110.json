@@ -1,6 +1,6 @@
 {
   "facility_code": "11839110",
-  "institution": "Miami-Dade College-North Campus",
+  "institution": "MIAMI-DADE COLLEGE-NORTH CAMPUS",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "33167",
-  "email": true
+  "ope": "00150601"
 }

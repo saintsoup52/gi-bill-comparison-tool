@@ -1,6 +1,6 @@
 {
   "facility_code": "11003463",
-  "institution": "Universidad De Puerto Rico En Cayey (University Of Puerto Rico-Cayey)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO EN CAYEY (UNIVERSITY OF PUERTO RICO-CAYEY)",
   "city": "Cayey",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "736",
-  "email": true
+  "ope": "00720600"
 }

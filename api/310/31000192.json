@@ -1,6 +1,6 @@
 {
   "facility_code": "31000192",
-  "institution": "Universidad Tecnologica De Bolivar",
+  "institution": "UNIVERSIDAD TECNOLOGICA DE BOLIVAR",
   "city": "Cartegena De Indias",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

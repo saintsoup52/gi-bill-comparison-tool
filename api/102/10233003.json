@@ -1,6 +1,6 @@
 {
   "facility_code": "10233003",
-  "institution": "Gila River Police Department",
+  "institution": "GILA RIVER POLICE DEPARTMENT",
   "city": "Sacaton",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85247",
-  "email": false
+  "ope": null
 }

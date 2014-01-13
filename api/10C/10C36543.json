@@ -1,6 +1,6 @@
 {
   "facility_code": "10C36543",
-  "institution": "Internal Revenue Service Ft Worth",
+  "institution": "INTERNAL REVENUE SERVICE FT WORTH",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76137",
-  "email": false
+  "ope": null
 }

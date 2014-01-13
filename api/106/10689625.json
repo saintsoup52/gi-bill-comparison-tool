@@ -1,6 +1,6 @@
 {
   "facility_code": "10689625",
-  "institution": "Branson Fire Department",
+  "institution": "BRANSON FIRE DEPARTMENT",
   "city": "Branson",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65616",
-  "email": false
+  "ope": null
 }

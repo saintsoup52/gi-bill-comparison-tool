@@ -1,6 +1,6 @@
 {
   "facility_code": "31012705",
-  "institution": "University Of Redlands (San Diego)",
+  "institution": "UNIVERSITY OF REDLANDS (SAN DIEGO)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92108",
-  "email": false
+  "ope": "00132203"
 }

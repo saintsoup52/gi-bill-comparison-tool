@@ -1,6 +1,6 @@
 {
   "facility_code": "30303447",
-  "institution": "Epilepsy Center Voc Svcs   (Ch31)",
+  "institution": "EPILEPSY CENTER VOC SVCS   (CH31)",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98104",
-  "email": false
+  "ope": null
 }

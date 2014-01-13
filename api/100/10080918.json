@@ -1,6 +1,6 @@
 {
   "facility_code": "10080918",
-  "institution": "Faa - Lake Charles System Support Center",
+  "institution": "FAA - LAKE CHARLES SYSTEM SUPPORT CENTER",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70605",
-  "email": false
+  "ope": null
 }

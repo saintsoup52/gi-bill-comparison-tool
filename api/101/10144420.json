@@ -1,6 +1,6 @@
 {
   "facility_code": "10144420",
-  "institution": "Nuclear Regulatory Commission Office Of Inspector General",
+  "institution": "NUCLEAR REGULATORY COMMISSION OFFICE OF INSPECTOR GENERAL",
   "city": "Rockville",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20852",
-  "email": true
+  "ope": null
 }

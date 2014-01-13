@@ -1,6 +1,6 @@
 {
   "facility_code": "10595530",
-  "institution": "Montclair State University Police Department",
+  "institution": "MONTCLAIR STATE UNIVERSITY POLICE DEPARTMENT",
   "city": "Montclair",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7043",
-  "email": true
+  "ope": null
 }

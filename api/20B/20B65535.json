@@ -1,6 +1,6 @@
 {
   "facility_code": "20B65535",
-  "institution": "General Motors Corp  Nao Lordstown Assembly (K)",
+  "institution": "GENERAL MOTORS CORP  NAO LORDSTOWN ASSEMBLY (K)",
   "city": "Warren",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44482",
-  "email": false
+  "ope": null
 }

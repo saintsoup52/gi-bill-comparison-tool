@@ -1,6 +1,6 @@
 {
   "facility_code": "10033411",
-  "institution": "Hapeville Police Department",
+  "institution": "HAPEVILLE POLICE DEPARTMENT",
   "city": "Hapeville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30354",
-  "email": true
+  "ope": null
 }

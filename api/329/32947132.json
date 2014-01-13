@@ -1,6 +1,6 @@
 {
   "facility_code": "32947132",
-  "institution": "Childrens Hospital Of Buffalo Of Kaleida Health",
+  "institution": "CHILDRENS HOSPITAL OF BUFFALO OF KALEIDA HEALTH",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14222",
-  "email": false
+  "ope": null
 }

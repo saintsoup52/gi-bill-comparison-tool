@@ -1,6 +1,6 @@
 {
   "facility_code": "20B34422",
-  "institution": "Ford Motor Co Research & Engineering Ctr -App-",
+  "institution": "FORD MOTOR CO RESEARCH & ENGINEERING CTR -APP-",
   "city": "Dearborn",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48121",
-  "email": false
+  "ope": null
 }

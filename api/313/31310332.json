@@ -1,6 +1,6 @@
 {
   "facility_code": "31310332",
-  "institution": "Colgate University",
+  "institution": "COLGATE UNIVERSITY",
   "city": "Hamilton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "13346",
-  "email": true
+  "ope": "00270100"
 }

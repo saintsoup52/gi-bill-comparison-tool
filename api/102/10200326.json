@@ -1,6 +1,6 @@
 {
   "facility_code": "10200326",
-  "institution": "Lewistown Police Department",
+  "institution": "LEWISTOWN POLICE DEPARTMENT",
   "city": "Lewistown",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59457",
-  "email": false
+  "ope": null
 }

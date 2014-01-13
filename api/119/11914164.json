@@ -1,6 +1,6 @@
 {
   "facility_code": "11914164",
-  "institution": "Univ Of Hawaii Hilo",
+  "institution": "UNIV OF HAWAII HILO",
   "city": "Hilo",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "96720",
-  "email": true
+  "ope": "00161100"
 }

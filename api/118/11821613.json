@@ -1,6 +1,6 @@
 {
   "facility_code": "11821613",
-  "institution": "Southern Illinois Univ Carbondale Scott Afb",
+  "institution": "SOUTHERN ILLINOIS UNIV CARBONDALE SCOTT AFB",
   "city": "Scott Afb",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "62225",
-  "email": true
+  "ope": "00175848"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31820811",
-  "institution": "Mercer University (Cecil B. Day Campus)",
+  "institution": "MERCER UNIVERSITY (CECIL B. DAY CAMPUS)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30341",
-  "email": true
+  "ope": "00158004"
 }

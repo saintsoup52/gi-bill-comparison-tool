@@ -1,6 +1,6 @@
 {
   "facility_code": "10108328",
-  "institution": "Reno Flight Standards District Office",
+  "institution": "RENO FLIGHT STANDARDS DISTRICT OFFICE",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89511",
-  "email": true
+  "ope": null
 }

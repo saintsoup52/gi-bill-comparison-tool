@@ -1,6 +1,6 @@
 {
   "facility_code": "12000548",
-  "institution": "Bluefield Regional Medical Center",
+  "institution": "BLUEFIELD REGIONAL MEDICAL CENTER",
   "city": "Bluefield",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24701",
-  "email": true
+  "ope": null
 }

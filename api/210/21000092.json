@@ -1,6 +1,6 @@
 {
   "facility_code": "21000092",
-  "institution": "Corporacion Univer Del Caribe",
+  "institution": "CORPORACION UNIVER DEL CARIBE",
   "city": "Sucre",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

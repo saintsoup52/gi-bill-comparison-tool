@@ -1,6 +1,6 @@
 {
   "facility_code": "10833621",
-  "institution": "Norfolk County Sheriffs' Office",
+  "institution": "NORFOLK COUNTY SHERIFFS' OFFICE",
   "city": "Dedham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2027",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11007135",
-  "institution": "Central State University",
+  "institution": "CENTRAL STATE UNIVERSITY",
   "city": "Wilberforce",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "45384",
-  "email": true
+  "ope": "00302600"
 }

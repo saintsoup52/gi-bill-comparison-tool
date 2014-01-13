@@ -1,6 +1,6 @@
 {
   "facility_code": "20A02501",
-  "institution": "Serra Mitsubishi",
+  "institution": "SERRA MITSUBISHI",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36116",
-  "email": false
+  "ope": null
 }

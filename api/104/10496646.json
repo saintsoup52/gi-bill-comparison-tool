@@ -1,6 +1,6 @@
 {
   "facility_code": "10496646",
-  "institution": "Virginia State Police Area Office #3",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #3",
   "city": "West Point",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23181",
-  "email": true
+  "ope": null
 }

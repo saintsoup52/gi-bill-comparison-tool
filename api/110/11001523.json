@@ -1,6 +1,6 @@
 {
   "facility_code": "11001523",
-  "institution": "Minnesota State University Mankato",
+  "institution": "MINNESOTA STATE UNIVERSITY MANKATO",
   "city": "Mankato",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "56001",
-  "email": false
+  "ope": "00236000"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30046320",
-  "institution": "City Of Hagerstown Light Dept. Jac",
+  "institution": "CITY OF HAGERSTOWN LIGHT DEPT. JAC",
   "city": "Hagerstown",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21740",
-  "email": false
+  "ope": null
 }

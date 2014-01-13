@@ -1,6 +1,6 @@
 {
   "facility_code": "10018333",
-  "institution": "Ncdoc - Pasquotank Correctional Institution",
+  "institution": "NCDOC - PASQUOTANK CORRECTIONAL INSTITUTION",
   "city": "Elizabeth City",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27906",
-  "email": true
+  "ope": null
 }

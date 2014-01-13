@@ -1,6 +1,6 @@
 {
   "facility_code": "103B2105",
-  "institution": "California State Prison- Sacramento",
+  "institution": "CALIFORNIA STATE PRISON- SACRAMENTO",
   "city": "Represa",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95671",
-  "email": false
+  "ope": null
 }

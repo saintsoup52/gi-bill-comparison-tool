@@ -1,6 +1,6 @@
 {
   "facility_code": "11913264",
-  "institution": "Univ Of Hawaii Manoa - John A Burns School Of Medicine",
+  "institution": "UNIV OF HAWAII MANOA - JOHN A BURNS SCHOOL OF MEDICINE",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "96813",
-  "email": true
+  "ope": "00161000"
 }

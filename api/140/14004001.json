@@ -1,6 +1,6 @@
 {
   "facility_code": "14004001",
-  "institution": "Alabama Southern C.C. - Gilbertown",
+  "institution": "ALABAMA SOUTHERN C.C. - GILBERTOWN",
   "city": "Gilbertown",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "36908",
-  "email": true
+  "ope": "00103403"
 }

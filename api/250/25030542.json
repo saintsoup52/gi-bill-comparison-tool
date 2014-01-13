@@ -1,6 +1,6 @@
 {
   "facility_code": "25030542",
-  "institution": "Drive-Train",
+  "institution": "DRIVE-TRAIN",
   "city": "Jackson",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38305",
-  "email": false
+  "ope": null
 }

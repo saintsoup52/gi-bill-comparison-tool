@@ -1,6 +1,6 @@
 {
   "facility_code": "25007030",
-  "institution": "The Center For Dental And Medical Training",
+  "institution": "THE CENTER FOR DENTAL AND MEDICAL TRAINING",
   "city": "Wall",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7719",
-  "email": true
+  "ope": null
 }

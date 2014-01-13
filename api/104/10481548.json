@@ -1,6 +1,6 @@
 {
   "facility_code": "10481548",
-  "institution": "Us Department Of Labor",
+  "institution": "US DEPARTMENT OF LABOR",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25305",
-  "email": false
+  "ope": null
 }

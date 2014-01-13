@@ -1,6 +1,6 @@
 {
   "facility_code": "11100084",
-  "institution": "Pontificia Univ Tommaso D'Aquino",
+  "institution": "PONTIFICIA UNIV TOMMASO D'AQUINO",
   "city": "Rome  00184",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

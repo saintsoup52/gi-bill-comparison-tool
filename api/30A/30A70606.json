@@ -1,6 +1,6 @@
 {
   "facility_code": "30A70606",
-  "institution": "Paralyzed Veterans Of American",
+  "institution": "PARALYZED VETERANS OF AMERICAN",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80211",
-  "email": false
+  "ope": null
 }

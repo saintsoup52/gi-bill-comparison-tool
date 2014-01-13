@@ -1,6 +1,6 @@
 {
   "facility_code": "32A00632",
-  "institution": "New York Methodist Hospital Department Of Pastoral Care",
+  "institution": "NEW YORK METHODIST HOSPITAL DEPARTMENT OF PASTORAL CARE",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11215",
-  "email": false
+  "ope": null
 }

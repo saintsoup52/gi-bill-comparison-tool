@@ -1,6 +1,6 @@
 {
   "facility_code": "25005330",
-  "institution": "Lascomp Institute Of It",
+  "institution": "LASCOMP INSTITUTE OF IT",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7601",
-  "email": true
+  "ope": null
 }

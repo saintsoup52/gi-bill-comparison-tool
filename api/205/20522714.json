@@ -1,6 +1,6 @@
 {
   "facility_code": "20522714",
-  "institution": "United States Steel Corporation",
+  "institution": "UNITED STATES STEEL CORPORATION",
   "city": "Gary",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46402",
-  "email": false
+  "ope": null
 }

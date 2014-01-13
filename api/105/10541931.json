@@ -1,6 +1,6 @@
 {
   "facility_code": "10541931",
-  "institution": "Faa Albuquerque Airport Control Tower Atct",
+  "institution": "FAA ALBUQUERQUE AIRPORT CONTROL TOWER ATCT",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87106",
-  "email": true
+  "ope": null
 }

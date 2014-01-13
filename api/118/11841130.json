@@ -1,6 +1,6 @@
 {
   "facility_code": "11841130",
-  "institution": "Rutgers The State University School Of Public Health",
+  "institution": "RUTGERS THE STATE UNIVERSITY SCHOOL OF PUBLIC HEALTH",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7101",
-  "email": true
+  "ope": "00262902"
 }

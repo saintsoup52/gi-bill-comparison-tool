@@ -1,6 +1,6 @@
 {
   "facility_code": "10411046",
-  "institution": "Harrisonburg Men'S Diversion Ctr",
+  "institution": "HARRISONBURG MEN'S DIVERSION CTR",
   "city": "Harrisonburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22802",
-  "email": false
+  "ope": null
 }

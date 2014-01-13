@@ -1,6 +1,6 @@
 {
   "facility_code": "10550930",
-  "institution": "Maple Shade Police Department",
+  "institution": "MAPLE SHADE POLICE DEPARTMENT",
   "city": "Maple Shade",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8052",
-  "email": false
+  "ope": null
 }

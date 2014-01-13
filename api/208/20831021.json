@@ -1,6 +1,6 @@
 {
   "facility_code": "20831021",
-  "institution": "Lundy Inc.",
+  "institution": "LUNDY INC.",
   "city": "Hingham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2043",
-  "email": false
+  "ope": null
 }

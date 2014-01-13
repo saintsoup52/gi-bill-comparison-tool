@@ -1,6 +1,6 @@
 {
   "facility_code": "10300930",
-  "institution": "Department Of Housing And Urban Development",
+  "institution": "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7102",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11100999",
-  "institution": "University Of Canterbury",
+  "institution": "UNIVERSITY OF CANTERBURY",
   "city": "Private Bag 4800",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

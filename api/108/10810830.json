@@ -1,6 +1,6 @@
 {
   "facility_code": "10810830",
-  "institution": "Northern State Prison",
+  "institution": "NORTHERN STATE PRISON",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7114",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "13000101",
-  "institution": "University Of North Alabama",
+  "institution": "UNIVERSITY OF NORTH ALABAMA",
   "city": "Florence",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35632",
-  "email": true
+  "ope": "00101600"
 }

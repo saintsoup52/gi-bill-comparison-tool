@@ -1,6 +1,6 @@
 {
   "facility_code": "10591730",
-  "institution": "East Brunswick Police Department",
+  "institution": "EAST BRUNSWICK POLICE DEPARTMENT",
   "city": "East Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8816",
-  "email": false
+  "ope": null
 }

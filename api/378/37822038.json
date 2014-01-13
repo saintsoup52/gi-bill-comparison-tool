@@ -1,6 +1,6 @@
 {
   "facility_code": "37822038",
-  "institution": "Setco (Harrisburg) (Ch31 Only)",
+  "institution": "SETCO (HARRISBURG) (CH31 ONLY)",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17101",
-  "email": false
+  "ope": null
 }

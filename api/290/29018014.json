@@ -1,6 +1,6 @@
 {
   "facility_code": "29018014",
-  "institution": "Mccray Hospital",
+  "institution": "MCCRAY HOSPITAL",
   "city": "Kendallville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46755",
-  "email": false
+  "ope": null
 }

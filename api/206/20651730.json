@@ -1,6 +1,6 @@
 {
   "facility_code": "20651730",
-  "institution": "Veterans Of Foreign Wars",
+  "institution": "VETERANS OF FOREIGN WARS",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7102",
-  "email": false
+  "ope": null
 }

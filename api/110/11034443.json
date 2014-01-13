@@ -1,6 +1,6 @@
 {
   "facility_code": "11034443",
-  "institution": "Education Service Center Region 07",
+  "institution": "EDUCATION SERVICE CENTER REGION 07",
   "city": "Kilgore",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75663",
-  "email": false
+  "ope": null
 }

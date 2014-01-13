@@ -1,6 +1,6 @@
 {
   "facility_code": "10008237",
-  "institution": "Faa - Portland Ssc",
+  "institution": "FAA - PORTLAND SSC",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97218",
-  "email": true
+  "ope": null
 }

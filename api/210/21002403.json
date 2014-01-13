@@ -1,6 +1,6 @@
 {
   "facility_code": "21002403",
-  "institution": "Nova Southeastern University (Ch31 Only)",
+  "institution": "NOVA SOUTHEASTERN UNIVERSITY (CH31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "85021",
-  "email": false
+  "ope": "00150900"
 }

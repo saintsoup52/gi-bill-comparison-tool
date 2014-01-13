@@ -1,6 +1,6 @@
 {
   "facility_code": "12053110",
-  "institution": "University Of Florida College Of Medicine",
+  "institution": "UNIVERSITY OF FLORIDA COLLEGE OF MEDICINE",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32610",
-  "email": false
+  "ope": "00153500"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25107131",
-  "institution": "Pima Medical Institute Abq West",
+  "institution": "PIMA MEDICAL INSTITUTE ABQ WEST",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87114",
-  "email": true
+  "ope": null
 }

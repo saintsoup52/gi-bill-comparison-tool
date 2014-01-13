@@ -1,6 +1,6 @@
 {
   "facility_code": "25022020",
-  "institution": "Navy Annapolis Flight Center Inc. (Nafc Inc.)",
+  "institution": "NAVY ANNAPOLIS FLIGHT CENTER INC. (NAFC INC.)",
   "city": "Edgewater",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21037",
-  "email": false
+  "ope": null
 }

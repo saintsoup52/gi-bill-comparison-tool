@@ -1,6 +1,6 @@
 {
   "facility_code": "25401247",
-  "institution": "Compusa              (Ch31)",
+  "institution": "COMPUSA              (CH31)",
   "city": "Bellevue",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98004",
-  "email": false
+  "ope": null
 }

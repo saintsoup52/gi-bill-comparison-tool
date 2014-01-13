@@ -1,6 +1,6 @@
 {
   "facility_code": "10021911",
-  "institution": "University Hospital",
+  "institution": "UNIVERSITY HOSPITAL",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30901",
-  "email": false
+  "ope": null
 }

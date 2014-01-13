@@ -1,6 +1,6 @@
 {
   "facility_code": "18357732",
-  "institution": "Boces Jefferson-Lewis-Hamilton-Herkimer-Oneida",
+  "institution": "BOCES JEFFERSON-LEWIS-HAMILTON-HERKIMER-ONEIDA",
   "city": "Watertown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "13601",
-  "email": true
+  "ope": "01005200"
 }

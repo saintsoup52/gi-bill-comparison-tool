@@ -1,6 +1,6 @@
 {
   "facility_code": "10C35143",
-  "institution": "Irs",
+  "institution": "IRS",
   "city": "Ft Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76137",
-  "email": false
+  "ope": null
 }

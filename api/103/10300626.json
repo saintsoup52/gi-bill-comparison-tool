@@ -1,6 +1,6 @@
 {
   "facility_code": "10300626",
-  "institution": "Department Of Corrections",
+  "institution": "DEPARTMENT OF CORRECTIONS",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59620",
-  "email": false
+  "ope": null
 }

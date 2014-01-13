@@ -1,6 +1,6 @@
 {
   "facility_code": "31891105",
-  "institution": "University Of The Pacific",
+  "institution": "UNIVERSITY OF THE PACIFIC",
   "city": "Stockton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95211",
-  "email": true
+  "ope": "00132900"
 }

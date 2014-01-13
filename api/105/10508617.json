@@ -1,6 +1,6 @@
 {
   "facility_code": "10508617",
-  "institution": "Law Enforcement Command-Personnel Control Facility",
+  "institution": "LAW ENFORCEMENT COMMAND-PERSONNEL CONTROL FACILITY",
   "city": "Fort Knox",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40121",
-  "email": false
+  "ope": null
 }

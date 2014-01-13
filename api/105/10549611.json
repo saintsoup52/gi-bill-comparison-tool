@@ -1,6 +1,6 @@
 {
   "facility_code": "10549611",
-  "institution": "Fayetteville Police Department",
+  "institution": "FAYETTEVILLE POLICE DEPARTMENT",
   "city": "Fayetteville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30215",
-  "email": false
+  "ope": null
 }

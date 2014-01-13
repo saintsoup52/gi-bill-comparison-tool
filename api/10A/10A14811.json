@@ -1,6 +1,6 @@
 {
   "facility_code": "10A14811",
-  "institution": "St. Marys Police Department",
+  "institution": "ST. MARYS POLICE DEPARTMENT",
   "city": "St. Marys",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31558",
-  "email": false
+  "ope": null
 }

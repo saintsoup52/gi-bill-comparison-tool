@@ -1,6 +1,6 @@
 {
   "facility_code": "10077114",
-  "institution": "Ogden Dunes Police Department",
+  "institution": "OGDEN DUNES POLICE DEPARTMENT",
   "city": "Ogden Dunes",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46368",
-  "email": false
+  "ope": null
 }

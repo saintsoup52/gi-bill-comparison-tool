@@ -1,6 +1,6 @@
 {
   "facility_code": "39131731",
-  "institution": "Goodwill Industries Of New Mexico (Ch31)",
+  "institution": "GOODWILL INDUSTRIES OF NEW MEXICO (CH31)",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87109",
-  "email": false
+  "ope": null
 }

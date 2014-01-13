@@ -1,6 +1,6 @@
 {
   "facility_code": "15059016",
-  "institution": "Kansas Law Enforcement Training Center",
+  "institution": "KANSAS LAW ENFORCEMENT TRAINING CENTER",
   "city": "Hutchinson",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67504",
-  "email": false
+  "ope": null
 }

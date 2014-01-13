@@ -1,6 +1,6 @@
 {
   "facility_code": "10B07223",
-  "institution": "Federal Bureau Of Prisons /Federal Medical Center",
+  "institution": "FEDERAL BUREAU OF PRISONS /FEDERAL MEDICAL CENTER",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55903",
-  "email": false
+  "ope": null
 }

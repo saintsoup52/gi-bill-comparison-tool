@@ -1,6 +1,6 @@
 {
   "facility_code": "10481746",
-  "institution": "County Of Henrico Div Of Fire",
+  "institution": "COUNTY OF HENRICO DIV OF FIRE",
   "city": "Henrico",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23273",
-  "email": true
+  "ope": null
 }

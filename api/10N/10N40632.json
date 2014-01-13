@@ -1,6 +1,6 @@
 {
   "facility_code": "10N40632",
-  "institution": "Elmira Corning Regional Airport",
+  "institution": "ELMIRA CORNING REGIONAL AIRPORT",
   "city": "Horseheads",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14845",
-  "email": true
+  "ope": null
 }

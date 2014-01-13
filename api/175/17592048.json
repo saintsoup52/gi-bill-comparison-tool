@@ -1,6 +1,6 @@
 {
   "facility_code": "17592048",
-  "institution": "St Albans High School",
+  "institution": "ST ALBANS HIGH SCHOOL",
   "city": "St Albans",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25177",
-  "email": true
+  "ope": null
 }

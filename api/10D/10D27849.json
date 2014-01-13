@@ -1,6 +1,6 @@
 {
   "facility_code": "10D27849",
-  "institution": "Us Dept Of Agriculture Aphis Ppq",
+  "institution": "US DEPT OF AGRICULTURE APHIS PPQ",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53726",
-  "email": false
+  "ope": null
 }

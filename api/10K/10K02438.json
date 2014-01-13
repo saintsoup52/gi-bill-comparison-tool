@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02438",
-  "institution": "Pennsylvania State Police Troop M Trevose",
+  "institution": "PENNSYLVANIA STATE POLICE TROOP M TREVOSE",
   "city": "Bensalem",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19020",
-  "email": true
+  "ope": null
 }

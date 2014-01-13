@@ -1,6 +1,6 @@
 {
   "facility_code": "10529030",
-  "institution": "Sparta Township Police Department",
+  "institution": "SPARTA TOWNSHIP POLICE DEPARTMENT",
   "city": "Sparta",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7871",
-  "email": false
+  "ope": null
 }

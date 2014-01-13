@@ -1,6 +1,6 @@
 {
   "facility_code": "30W57805",
-  "institution": "Orange-Inland Jac",
+  "institution": "ORANGE-INLAND JAC",
   "city": "Garden Grove",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92841",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10850821",
-  "institution": "Faa Cape Tracon (Massachusetts)",
+  "institution": "FAA CAPE TRACON (MASSACHUSETTS)",
   "city": "Falmouth",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2542",
-  "email": true
+  "ope": null
 }

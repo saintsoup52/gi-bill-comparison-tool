@@ -1,6 +1,6 @@
 {
   "facility_code": "11101099",
-  "institution": "University Of Auckland",
+  "institution": "UNIVERSITY OF AUCKLAND",
   "city": "Auckland",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

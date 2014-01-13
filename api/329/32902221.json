@@ -1,6 +1,6 @@
 {
   "facility_code": "32902221",
-  "institution": "Beth Israel Deaconess Medical Center",
+  "institution": "BETH ISRAEL DEACONESS MEDICAL CENTER",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2215",
-  "email": true
+  "ope": "00579200"
 }

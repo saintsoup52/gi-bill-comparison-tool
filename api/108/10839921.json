@@ -1,6 +1,6 @@
 {
   "facility_code": "10839921",
-  "institution": "Otis Fire Dept 102fw-Cef",
+  "institution": "OTIS FIRE DEPT 102FW-CEF",
   "city": "Otis Ang Base",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2542",
-  "email": false
+  "ope": null
 }

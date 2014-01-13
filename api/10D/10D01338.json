@@ -1,6 +1,6 @@
 {
   "facility_code": "10D01338",
-  "institution": "Department Of Corrections - Retreat",
+  "institution": "DEPARTMENT OF CORRECTIONS - RETREAT",
   "city": "Hunlock Creek",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18621",
-  "email": true
+  "ope": null
 }

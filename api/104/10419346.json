@@ -1,6 +1,6 @@
 {
   "facility_code": "10419346",
-  "institution": "Fire Station No. 203",
+  "institution": "FIRE STATION NO. 203",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22302",
-  "email": false
+  "ope": null
 }

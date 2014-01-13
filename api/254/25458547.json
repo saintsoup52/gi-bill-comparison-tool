@@ -1,6 +1,6 @@
 {
   "facility_code": "25458547",
-  "institution": "Pegasus Corporation",
+  "institution": "PEGASUS CORPORATION",
   "city": "Bellingham",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98226",
-  "email": true
+  "ope": null
 }

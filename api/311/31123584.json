@@ -1,6 +1,6 @@
 {
   "facility_code": "31123584",
-  "institution": "Lorenzo De Medici",
+  "institution": "LORENZO DE MEDICI",
   "city": "Florence",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

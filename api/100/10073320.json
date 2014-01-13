@@ -1,6 +1,6 @@
 {
   "facility_code": "10073320",
-  "institution": "Public Safety Training Facility Aka Baltimore City Police Department",
+  "institution": "PUBLIC SAFETY TRAINING FACILITY AKA BALTIMORE CITY POLICE DEPARTMENT",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21215",
-  "email": true
+  "ope": null
 }

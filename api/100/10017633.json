@@ -1,6 +1,6 @@
 {
   "facility_code": "10017633",
-  "institution": "Ncdoc - Catawba Correctional Center",
+  "institution": "NCDOC - CATAWBA CORRECTIONAL CENTER",
   "city": "Newton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28658",
-  "email": false
+  "ope": null
 }

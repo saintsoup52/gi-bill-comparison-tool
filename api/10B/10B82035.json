@@ -1,6 +1,6 @@
 {
   "facility_code": "10B82035",
-  "institution": "Duke Energy",
+  "institution": "DUKE ENERGY",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45249",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15001628",
-  "institution": "Las Vegas Metropolitan Police Department Academy",
+  "institution": "LAS VEGAS METROPOLITAN POLICE DEPARTMENT ACADEMY",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89129",
-  "email": true
+  "ope": null
 }

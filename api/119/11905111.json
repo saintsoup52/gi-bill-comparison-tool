@@ -1,6 +1,6 @@
 {
   "facility_code": "11905111",
-  "institution": "University Of West Georgia",
+  "institution": "UNIVERSITY OF WEST GEORGIA",
   "city": "Carrollton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30118",
-  "email": true
+  "ope": "00160100"
 }

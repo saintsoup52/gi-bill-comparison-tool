@@ -1,6 +1,6 @@
 {
   "facility_code": "11003963",
-  "institution": "Universidad De Puerto Rico En Carolina (University Of Puerto Rico-Carolina)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO EN CAROLINA (UNIVERSITY OF PUERTO RICO-CAROLINA)",
   "city": "Carolina",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "984",
-  "email": true
+  "ope": "03016000"
 }

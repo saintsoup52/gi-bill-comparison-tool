@@ -1,6 +1,6 @@
 {
   "facility_code": "10635140",
-  "institution": "York County Detention Center",
+  "institution": "YORK COUNTY DETENTION CENTER",
   "city": "York",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29745",
-  "email": false
+  "ope": null
 }

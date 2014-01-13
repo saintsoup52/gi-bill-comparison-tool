@@ -1,6 +1,6 @@
 {
   "facility_code": "25106364",
-  "institution": "Terabiz (Ch31)",
+  "institution": "TERABIZ (CH31)",
   "city": "Honolulu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96813",
-  "email": false
+  "ope": null
 }

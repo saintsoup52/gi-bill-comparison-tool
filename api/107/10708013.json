@@ -1,6 +1,6 @@
 {
   "facility_code": "10708013",
-  "institution": "Cook County Forest Preserve Police",
+  "institution": "COOK COUNTY FOREST PRESERVE POLICE",
   "city": "Hinsdale",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60523",
-  "email": true
+  "ope": null
 }

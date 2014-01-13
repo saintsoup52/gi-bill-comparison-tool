@@ -1,6 +1,6 @@
 {
   "facility_code": "15001715",
-  "institution": "City High School",
+  "institution": "CITY HIGH SCHOOL",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52245",
-  "email": false
+  "ope": null
 }

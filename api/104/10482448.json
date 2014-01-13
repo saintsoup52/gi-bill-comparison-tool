@@ -1,6 +1,6 @@
 {
   "facility_code": "10482448",
-  "institution": "Federal Correctional Institution Gilmer",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION GILMER",
   "city": "Glenville",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26351",
-  "email": true
+  "ope": null
 }

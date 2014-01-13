@@ -1,6 +1,6 @@
 {
   "facility_code": "10K01038",
-  "institution": "Silver Springs Township Police",
+  "institution": "SILVER SPRINGS TOWNSHIP POLICE",
   "city": "Mechanicsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17050",
-  "email": true
+  "ope": null
 }

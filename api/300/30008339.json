@@ -1,6 +1,6 @@
 {
   "facility_code": "30008339",
-  "institution": "Veterans Of Foreign Wars (Vfw)",
+  "institution": "VETERANS OF FOREIGN WARS (VFW)",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2903",
-  "email": false
+  "ope": null
 }

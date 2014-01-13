@@ -1,6 +1,6 @@
 {
   "facility_code": "11000631",
-  "institution": "New Mexico Institute Of Mining & Technology",
+  "institution": "NEW MEXICO INSTITUTE OF MINING & TECHNOLOGY",
   "city": "Socorro",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "87801",
-  "email": true
+  "ope": "00265400"
 }

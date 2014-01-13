@@ -1,6 +1,6 @@
 {
   "facility_code": "25059213",
-  "institution": "Institute Of Real Estate Management",
+  "institution": "INSTITUTE OF REAL ESTATE MANAGEMENT",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60611",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20D00633",
-  "institution": "Roanoke Valley Energy Facility",
+  "institution": "ROANOKE VALLEY ENERGY FACILITY",
   "city": "Weldon",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27890",
-  "email": true
+  "ope": null
 }

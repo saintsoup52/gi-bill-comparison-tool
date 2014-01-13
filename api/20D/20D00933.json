@@ -1,6 +1,6 @@
 {
   "facility_code": "20D00933",
-  "institution": "Roanoke Electric Cooperative",
+  "institution": "ROANOKE ELECTRIC COOPERATIVE",
   "city": "Rich Square",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27869",
-  "email": true
+  "ope": null
 }

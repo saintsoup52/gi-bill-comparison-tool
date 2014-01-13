@@ -1,6 +1,6 @@
 {
   "facility_code": "10C32643",
-  "institution": "Faa Atss Amarillo",
+  "institution": "FAA ATSS AMARILLO",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79108",
-  "email": false
+  "ope": null
 }

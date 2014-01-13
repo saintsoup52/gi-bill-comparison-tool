@@ -1,6 +1,6 @@
 {
   "facility_code": "31104778",
-  "institution": "Unviversity Of Information Technology And Management In Rzeszow",
+  "institution": "UNVIVERSITY OF INFORMATION TECHNOLOGY AND MANAGEMENT IN RZESZOW",
   "city": "Rzeszow",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

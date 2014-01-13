@@ -1,6 +1,6 @@
 {
   "facility_code": "10302530",
-  "institution": "Morris County Prosecutor'S Office",
+  "institution": "MORRIS COUNTY PROSECUTOR'S OFFICE",
   "city": "Morristown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7963",
-  "email": true
+  "ope": null
 }

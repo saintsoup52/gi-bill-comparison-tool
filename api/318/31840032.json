@@ -1,6 +1,6 @@
 {
   "facility_code": "31840032",
-  "institution": "Fordham University-Rose Hill Campus",
+  "institution": "FORDHAM UNIVERSITY-ROSE HILL CAMPUS",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10458",
-  "email": true
+  "ope": "00272200"
 }

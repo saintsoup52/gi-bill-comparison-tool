@@ -1,6 +1,6 @@
 {
   "facility_code": "11910142",
-  "institution": "University Of Tennessee At Martin",
+  "institution": "UNIVERSITY OF TENNESSEE AT MARTIN",
   "city": "Martin",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "38238",
-  "email": true
+  "ope": "00353100"
 }

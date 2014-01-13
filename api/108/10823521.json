@@ -1,6 +1,6 @@
 {
   "facility_code": "10823521",
-  "institution": "Chelmsford Fire Department",
+  "institution": "CHELMSFORD FIRE DEPARTMENT",
   "city": "Chelmsford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1824",
-  "email": true
+  "ope": null
 }

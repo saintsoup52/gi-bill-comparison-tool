@@ -1,6 +1,6 @@
 {
   "facility_code": "10447447",
-  "institution": "Hanford Fire Department",
+  "institution": "HANFORD FIRE DEPARTMENT",
   "city": "Richland",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99354",
-  "email": true
+  "ope": null
 }

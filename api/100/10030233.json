@@ -1,6 +1,6 @@
 {
   "facility_code": "10030233",
-  "institution": "Town Of Cary Police Department",
+  "institution": "TOWN OF CARY POLICE DEPARTMENT",
   "city": "Cary",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27512",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001135",
-  "institution": "Denison University",
+  "institution": "DENISON UNIVERSITY",
   "city": "Granville",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "43023",
-  "email": true
+  "ope": "00304200"
 }

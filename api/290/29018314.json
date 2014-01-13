@@ -1,6 +1,6 @@
 {
   "facility_code": "29018314",
-  "institution": "Department Of Defense Finance And Accounting Service Human Resources",
+  "institution": "DEPARTMENT OF DEFENSE FINANCE AND ACCOUNTING SERVICE HUMAN RESOURCES",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46249",
-  "email": false
+  "ope": null
 }

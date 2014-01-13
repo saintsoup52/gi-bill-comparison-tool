@@ -1,6 +1,6 @@
 {
   "facility_code": "201B3205",
-  "institution": "Mattel Inc.",
+  "institution": "MATTEL INC.",
   "city": "El Segundo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90245",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10R09838",
-  "institution": "Department Of Corrections Sci At Laurel Highlands",
+  "institution": "DEPARTMENT OF CORRECTIONS SCI AT LAUREL HIGHLANDS",
   "city": "Somerset",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15501",
-  "email": true
+  "ope": null
 }

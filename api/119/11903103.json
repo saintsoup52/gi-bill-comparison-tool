@@ -1,6 +1,6 @@
 {
   "facility_code": "11903103",
-  "institution": "University Of Arizona",
+  "institution": "UNIVERSITY OF ARIZONA",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "85721",
-  "email": true
+  "ope": "00108300"
 }

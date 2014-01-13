@@ -1,6 +1,6 @@
 {
   "facility_code": "10444847",
-  "institution": "Washington State Department Of Transportation",
+  "institution": "WASHINGTON STATE DEPARTMENT OF TRANSPORTATION",
   "city": "Olympia",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98504",
-  "email": true
+  "ope": null
 }

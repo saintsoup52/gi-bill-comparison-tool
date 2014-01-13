@@ -1,6 +1,6 @@
 {
   "facility_code": "29003006",
-  "institution": "To The Rescue",
+  "institution": "TO THE RESCUE",
   "city": "Parker",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80134",
-  "email": false
+  "ope": null
 }

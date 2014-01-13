@@ -1,6 +1,6 @@
 {
   "facility_code": "10064414",
-  "institution": "Middlebury Police Department",
+  "institution": "MIDDLEBURY POLICE DEPARTMENT",
   "city": "Middlebury",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46540",
-  "email": false
+  "ope": null
 }

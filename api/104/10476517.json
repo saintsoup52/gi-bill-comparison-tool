@@ -1,6 +1,6 @@
 {
   "facility_code": "10476517",
-  "institution": "Cynthiana Police Department",
+  "institution": "CYNTHIANA POLICE DEPARTMENT",
   "city": "Cynthiana",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41031",
-  "email": false
+  "ope": null
 }

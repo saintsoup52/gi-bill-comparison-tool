@@ -1,6 +1,6 @@
 {
   "facility_code": "10N44332",
-  "institution": "U.S. Customs And Border Protection - Air And Marine Buffalo Air Branch",
+  "institution": "U.S. CUSTOMS AND BORDER PROTECTION - AIR AND MARINE BUFFALO AIR BRANCH",
   "city": "Niagara Falls",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14304",
-  "email": true
+  "ope": null
 }

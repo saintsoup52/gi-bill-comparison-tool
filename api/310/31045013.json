@@ -1,6 +1,6 @@
 {
   "facility_code": "31045013",
-  "institution": "Erikson Institute",
+  "institution": "ERIKSON INSTITUTE",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "60654",
-  "email": true
+  "ope": "03510300"
 }

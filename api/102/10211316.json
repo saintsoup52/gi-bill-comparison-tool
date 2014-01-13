@@ -1,6 +1,6 @@
 {
   "facility_code": "10211316",
-  "institution": "Shawnee Police Department",
+  "institution": "SHAWNEE POLICE DEPARTMENT",
   "city": "Shawnee",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66217",
-  "email": false
+  "ope": null
 }

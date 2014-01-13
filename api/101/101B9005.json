@@ -1,6 +1,6 @@
 {
   "facility_code": "101B9005",
-  "institution": "Chico Vet Center (Ch 31 Only)",
+  "institution": "CHICO VET CENTER (CH 31 ONLY)",
   "city": "Chico",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95926",
-  "email": false
+  "ope": null
 }

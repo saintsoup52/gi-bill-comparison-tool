@@ -1,6 +1,6 @@
 {
   "facility_code": "11907414",
-  "institution": "Indiana University",
+  "institution": "INDIANA UNIVERSITY",
   "city": "Bloomington",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "47405",
-  "email": true
+  "ope": "00180900"
 }

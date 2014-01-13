@@ -1,6 +1,6 @@
 {
   "facility_code": "10200022",
-  "institution": "The City Of Marquette Jac",
+  "institution": "THE CITY OF MARQUETTE JAC",
   "city": "Marquette",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49855",
-  "email": true
+  "ope": null
 }

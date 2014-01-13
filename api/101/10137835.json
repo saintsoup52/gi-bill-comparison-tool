@@ -1,6 +1,6 @@
 {
   "facility_code": "10137835",
-  "institution": "Cleveland Heights Police Dept G",
+  "institution": "CLEVELAND HEIGHTS POLICE DEPT G",
   "city": "Cleveland Heights",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44118",
-  "email": false
+  "ope": null
 }

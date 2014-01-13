@@ -1,6 +1,6 @@
 {
   "facility_code": "30251915",
-  "institution": "Iowa Department Of Transportation",
+  "institution": "IOWA DEPARTMENT OF TRANSPORTATION",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50309",
-  "email": false
+  "ope": null
 }

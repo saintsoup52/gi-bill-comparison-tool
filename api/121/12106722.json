@@ -1,6 +1,6 @@
 {
   "facility_code": "12106722",
-  "institution": "University Of Michigan Hospitals Graduate Medical Education",
+  "institution": "UNIVERSITY OF MICHIGAN HOSPITALS GRADUATE MEDICAL EDUCATION",
   "city": "Ann Arbor",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48109",
-  "email": true
+  "ope": null
 }

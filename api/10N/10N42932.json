@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42932",
-  "institution": "Metropolitan Transportation Authority Police Dept. District 6",
+  "institution": "METROPOLITAN TRANSPORTATION AUTHORITY POLICE DEPT. DISTRICT 6",
   "city": "Mount Vernon",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10550",
-  "email": false
+  "ope": null
 }

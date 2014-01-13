@@ -1,6 +1,6 @@
 {
   "facility_code": "15012033",
-  "institution": "Raleigh Police Academy",
+  "institution": "RALEIGH POLICE ACADEMY",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27616",
-  "email": true
+  "ope": null
 }

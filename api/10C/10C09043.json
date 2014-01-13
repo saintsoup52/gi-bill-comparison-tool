@@ -1,6 +1,6 @@
 {
   "facility_code": "10C09043",
-  "institution": "Tx Hwy Patrol Reg 1 Tx Dept Of Public Safety Garland",
+  "institution": "TX HWY PATROL REG 1 TX DEPT OF PUBLIC SAFETY GARLAND",
   "city": "Garland",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75043",
-  "email": false
+  "ope": null
 }

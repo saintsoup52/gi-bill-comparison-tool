@@ -1,6 +1,6 @@
 {
   "facility_code": "10N43432",
-  "institution": "New York State Police - Troop C",
+  "institution": "NEW YORK STATE POLICE - TROOP C",
   "city": "Sidney",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13838",
-  "email": true
+  "ope": null
 }

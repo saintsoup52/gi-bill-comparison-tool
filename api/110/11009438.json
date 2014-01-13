@@ -1,6 +1,6 @@
 {
   "facility_code": "11009438",
-  "institution": "East Stroudsburg University Of Pa",
+  "institution": "EAST STROUDSBURG UNIVERSITY OF PA",
   "city": "East Stroudsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "18301",
-  "email": true
+  "ope": "00332000"
 }

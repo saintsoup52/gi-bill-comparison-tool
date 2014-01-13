@@ -1,6 +1,6 @@
 {
   "facility_code": "10005120",
-  "institution": "Internal Revenue Service-Treasury",
+  "institution": "INTERNAL REVENUE SERVICE-TREASURY",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21201",
-  "email": false
+  "ope": null
 }

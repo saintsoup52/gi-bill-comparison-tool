@@ -1,6 +1,6 @@
 {
   "facility_code": "30057720",
-  "institution": "Patuxent Business Machines Incorporated",
+  "institution": "PATUXENT BUSINESS MACHINES INCORPORATED",
   "city": "Lexington Park",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20653",
-  "email": false
+  "ope": null
 }

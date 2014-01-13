@@ -1,6 +1,6 @@
 {
   "facility_code": "11919414",
-  "institution": "Purdue University College Of Technology - Vincennes",
+  "institution": "PURDUE UNIVERSITY COLLEGE OF TECHNOLOGY - VINCENNES",
   "city": "Vincennes",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "47591",
-  "email": false
+  "ope": "00182500"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20D26949",
-  "institution": "Dominion",
+  "institution": "DOMINION",
   "city": "Kewaunee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54216",
-  "email": false
+  "ope": null
 }

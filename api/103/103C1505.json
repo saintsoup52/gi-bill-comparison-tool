@@ -1,6 +1,6 @@
 {
   "facility_code": "103C1505",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Visalia",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93292",
-  "email": false
+  "ope": null
 }

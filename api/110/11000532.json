@@ -1,6 +1,6 @@
 {
   "facility_code": "11000532",
-  "institution": "City College Of New York",
+  "institution": "CITY COLLEGE OF NEW YORK",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10031",
-  "email": true
+  "ope": "00268800"
 }

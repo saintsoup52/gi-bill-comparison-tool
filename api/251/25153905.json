@@ -1,6 +1,6 @@
 {
   "facility_code": "25153905",
-  "institution": "The Accounting Academy",
+  "institution": "THE ACCOUNTING ACADEMY",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92111",
-  "email": false
+  "ope": null
 }

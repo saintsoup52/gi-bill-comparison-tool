@@ -1,6 +1,6 @@
 {
   "facility_code": "10000511",
-  "institution": "Marta-Bus Body Shop",
+  "institution": "MARTA-BUS BODY SHOP",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30354",
-  "email": false
+  "ope": null
 }

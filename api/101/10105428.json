@@ -1,6 +1,6 @@
 {
   "facility_code": "10105428",
-  "institution": "Clark County Dept Of Public Works (Ch31)",
+  "institution": "CLARK COUNTY DEPT OF PUBLIC WORKS (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89122",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10001511",
-  "institution": "Claxton Regional Youth Detention Center",
+  "institution": "CLAXTON REGIONAL YOUTH DETENTION CENTER",
   "city": "Claxton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30417",
-  "email": true
+  "ope": null
 }

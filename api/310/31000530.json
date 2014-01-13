@@ -1,6 +1,6 @@
 {
   "facility_code": "31000530",
-  "institution": "Princeton University",
+  "institution": "PRINCETON UNIVERSITY",
   "city": "Princeton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8544",
-  "email": true
+  "ope": "00262700"
 }

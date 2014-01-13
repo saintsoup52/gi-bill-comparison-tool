@@ -1,6 +1,6 @@
 {
   "facility_code": "11800116",
-  "institution": "University Of Kansas Registrar",
+  "institution": "UNIVERSITY OF KANSAS REGISTRAR",
   "city": "Lawrence",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "66045",
-  "email": true
+  "ope": "00194800"
 }

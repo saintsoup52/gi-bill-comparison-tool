@@ -1,6 +1,6 @@
 {
   "facility_code": "10645340",
-  "institution": "City Of Hartsville Police Department",
+  "institution": "CITY OF HARTSVILLE POLICE DEPARTMENT",
   "city": "Hartsville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29551",
-  "email": false
+  "ope": null
 }

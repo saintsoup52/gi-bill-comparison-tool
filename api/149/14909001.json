@@ -1,6 +1,6 @@
 {
   "facility_code": "14909001",
-  "institution": "Chattahoochee Valley C.C.",
+  "institution": "CHATTAHOOCHEE VALLEY C.C.",
   "city": "Phenix City",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "36869",
-  "email": true
+  "ope": "01218200"
 }

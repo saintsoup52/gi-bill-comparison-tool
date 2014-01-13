@@ -1,6 +1,6 @@
 {
   "facility_code": "10359111",
-  "institution": "Ware County Sheriff'S Office",
+  "institution": "WARE COUNTY SHERIFF'S OFFICE",
   "city": "Waycross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31503",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10418546",
-  "institution": "Us Immigration And Customs Enforcement",
+  "institution": "US IMMIGRATION AND CUSTOMS ENFORCEMENT",
   "city": "Fairfax",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22031",
-  "email": true
+  "ope": null
 }

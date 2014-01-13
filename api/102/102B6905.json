@@ -1,6 +1,6 @@
 {
   "facility_code": "102B6905",
-  "institution": "Richard J. Donovan Correctional Facility",
+  "institution": "RICHARD J. DONOVAN CORRECTIONAL FACILITY",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92179",
-  "email": false
+  "ope": null
 }

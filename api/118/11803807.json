@@ -1,6 +1,6 @@
 {
   "facility_code": "11803807",
-  "institution": "University Of Connecticut School Of Dental Medicine",
+  "institution": "UNIVERSITY OF CONNECTICUT SCHOOL OF DENTAL MEDICINE",
   "city": "Farmington",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6030",
-  "email": true
+  "ope": "00141700"
 }

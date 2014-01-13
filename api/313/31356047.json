@@ -1,6 +1,6 @@
 {
   "facility_code": "31356047",
-  "institution": "Antioch University Seattle",
+  "institution": "ANTIOCH UNIVERSITY SEATTLE",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "98121",
-  "email": true
+  "ope": "00301005"
 }

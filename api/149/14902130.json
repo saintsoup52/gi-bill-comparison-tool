@@ -1,6 +1,6 @@
 {
   "facility_code": "14902130",
-  "institution": "Passaic County Community College",
+  "institution": "PASSAIC COUNTY COMMUNITY COLLEGE",
   "city": "Paterson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "7509",
-  "email": true
+  "ope": "00999400"
 }

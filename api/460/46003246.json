@@ -1,6 +1,6 @@
 {
   "facility_code": "46003246",
-  "institution": "National Institute For Metalworking Skills",
+  "institution": "NATIONAL INSTITUTE FOR METALWORKING SKILLS",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22030",
-  "email": true
+  "ope": null
 }

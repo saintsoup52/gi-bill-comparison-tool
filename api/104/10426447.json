@@ -1,6 +1,6 @@
 {
   "facility_code": "10426447",
-  "institution": "Monroe Police Department",
+  "institution": "MONROE POLICE DEPARTMENT",
   "city": "Monroe",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98272",
-  "email": true
+  "ope": null
 }

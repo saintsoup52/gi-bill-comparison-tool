@@ -1,6 +1,6 @@
 {
   "facility_code": "19000746",
-  "institution": "Naval Criminal Investigative Service (Ncis)",
+  "institution": "NAVAL CRIMINAL INVESTIGATIVE SERVICE (NCIS)",
   "city": "Quantico",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22134",
-  "email": false
+  "ope": null
 }

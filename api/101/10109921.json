@@ -1,6 +1,6 @@
 {
   "facility_code": "10109921",
-  "institution": "Abington Police Department",
+  "institution": "ABINGTON POLICE DEPARTMENT",
   "city": "Abington",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2351",
-  "email": true
+  "ope": null
 }

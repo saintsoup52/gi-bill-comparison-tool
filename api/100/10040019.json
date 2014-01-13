@@ -1,6 +1,6 @@
 {
   "facility_code": "10040019",
-  "institution": "Lewiston Vet Center",
+  "institution": "LEWISTON VET CENTER",
   "city": "Lewiston",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4240",
-  "email": true
+  "ope": null
 }

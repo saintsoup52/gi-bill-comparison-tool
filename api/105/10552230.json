@@ -1,6 +1,6 @@
 {
   "facility_code": "10552230",
-  "institution": "Us Customs And Border Protection",
+  "institution": "US CUSTOMS AND BORDER PROTECTION",
   "city": "Elizabeth",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7201",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20512324",
-  "institution": "Two-State Processing Plant",
+  "institution": "TWO-STATE PROCESSING PLANT",
   "city": "Waynesboro",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39367",
-  "email": false
+  "ope": null
 }

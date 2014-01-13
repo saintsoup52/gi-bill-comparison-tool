@@ -1,6 +1,6 @@
 {
   "facility_code": "19001514",
-  "institution": "Us Army Reserve Center Fort Benjamin Harrison",
+  "institution": "US ARMY RESERVE CENTER FORT BENJAMIN HARRISON",
   "city": "Fort Harrison",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46216",
-  "email": false
+  "ope": null
 }

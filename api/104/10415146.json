@@ -1,6 +1,6 @@
 {
   "facility_code": "10415146",
-  "institution": "Federal Aviation Administration-Air Traffic Roanoke Atct",
+  "institution": "FEDERAL AVIATION ADMINISTRATION-AIR TRAFFIC ROANOKE ATCT",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24012",
-  "email": true
+  "ope": null
 }

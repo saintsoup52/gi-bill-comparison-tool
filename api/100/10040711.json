@@ -1,6 +1,6 @@
 {
   "facility_code": "10040711",
-  "institution": "Dekalb County Department Of Public Safety - Police Services",
+  "institution": "DEKALB COUNTY DEPARTMENT OF PUBLIC SAFETY - POLICE SERVICES",
   "city": "Tucker",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30084",
-  "email": true
+  "ope": null
 }

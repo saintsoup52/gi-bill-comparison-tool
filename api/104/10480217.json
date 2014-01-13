@@ -1,6 +1,6 @@
 {
   "facility_code": "10480217",
-  "institution": "Bowling Green Fire Department",
+  "institution": "BOWLING GREEN FIRE DEPARTMENT",
   "city": "Bowling Green",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42103",
-  "email": true
+  "ope": null
 }

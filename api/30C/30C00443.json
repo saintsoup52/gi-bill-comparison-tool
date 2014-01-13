@@ -1,6 +1,6 @@
 {
   "facility_code": "30C00443",
-  "institution": "Crpntrs Mllwrts & Pldrvrs Jatc Of Houstn & Vic",
+  "institution": "CRPNTRS MLLWRTS & PLDRVRS JATC OF HOUSTN & VIC",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77061",
-  "email": false
+  "ope": null
 }

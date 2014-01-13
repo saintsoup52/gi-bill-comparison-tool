@@ -1,6 +1,6 @@
 {
   "facility_code": "46000220",
-  "institution": "American Registry Of Diagnostic Medical Sonography",
+  "institution": "AMERICAN REGISTRY OF DIAGNOSTIC MEDICAL SONOGRAPHY",
   "city": "Rockville",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20852",
-  "email": true
+  "ope": null
 }

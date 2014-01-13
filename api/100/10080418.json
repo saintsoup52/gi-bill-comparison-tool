@@ -1,6 +1,6 @@
 {
   "facility_code": "10080418",
-  "institution": "Bossier Parish Sheriff Office",
+  "institution": "BOSSIER PARISH SHERIFF OFFICE",
   "city": "Benton",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71006",
-  "email": true
+  "ope": null
 }

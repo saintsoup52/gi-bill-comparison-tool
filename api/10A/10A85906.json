@@ -1,6 +1,6 @@
 {
   "facility_code": "10A85906",
-  "institution": "Florence Police Department",
+  "institution": "FLORENCE POLICE DEPARTMENT",
   "city": "Florence",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81226",
-  "email": false
+  "ope": null
 }

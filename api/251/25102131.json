@@ -1,6 +1,6 @@
 {
   "facility_code": "25102131",
-  "institution": "New Horizons Of Albuquerque",
+  "institution": "NEW HORIZONS OF ALBUQUERQUE",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87109",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15011314",
-  "institution": "Plainfield Training Complex",
+  "institution": "PLAINFIELD TRAINING COMPLEX",
   "city": "Plainfield",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46168",
-  "email": false
+  "ope": null
 }

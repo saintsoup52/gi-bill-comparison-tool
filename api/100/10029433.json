@@ -1,6 +1,6 @@
 {
   "facility_code": "10029433",
-  "institution": "Rdecom Contracting Center - Rtp Division",
+  "institution": "RDECOM CONTRACTING CENTER - RTP DIVISION",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27709",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10011811",
-  "institution": "Athens-Clarke County Fire Department",
+  "institution": "ATHENS-CLARKE COUNTY FIRE DEPARTMENT",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30601",
-  "email": false
+  "ope": null
 }

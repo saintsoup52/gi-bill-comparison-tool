@@ -1,6 +1,6 @@
 {
   "facility_code": "10C07643",
-  "institution": "Federal Bureau Of Investigations",
+  "institution": "FEDERAL BUREAU OF INVESTIGATIONS",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77008",
-  "email": false
+  "ope": null
 }

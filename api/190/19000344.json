@@ -1,6 +1,6 @@
 {
   "facility_code": "19000344",
-  "institution": "Parc (Ch 31)",
+  "institution": "PARC (CH 31)",
   "city": "Clearfield",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84015",
-  "email": false
+  "ope": null
 }

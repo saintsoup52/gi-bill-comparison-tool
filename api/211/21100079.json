@@ -1,6 +1,6 @@
 {
   "facility_code": "21100079",
-  "institution": "Ecole Parsons A Paris",
+  "institution": "ECOLE PARSONS A PARIS",
   "city": "Paris",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

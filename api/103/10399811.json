@@ -1,6 +1,6 @@
 {
   "facility_code": "10399811",
-  "institution": "Valdosta City Of",
+  "institution": "VALDOSTA CITY OF",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31603",
-  "email": false
+  "ope": null
 }

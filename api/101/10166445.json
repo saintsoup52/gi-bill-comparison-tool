@@ -1,6 +1,6 @@
 {
   "facility_code": "10166445",
-  "institution": "Va Medical Center & Regional Office",
+  "institution": "VA MEDICAL CENTER & REGIONAL OFFICE",
   "city": "White River Jct",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5009",
-  "email": false
+  "ope": null
 }

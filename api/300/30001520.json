@@ -1,6 +1,6 @@
 {
   "facility_code": "30001520",
-  "institution": "Sheet Metal Workers Local# 100",
+  "institution": "SHEET METAL WORKERS LOCAL# 100",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21205",
-  "email": true
+  "ope": null
 }

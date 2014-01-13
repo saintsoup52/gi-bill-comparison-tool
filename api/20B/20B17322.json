@@ -1,6 +1,6 @@
 {
   "facility_code": "20B17322",
-  "institution": "Research Laboratories",
+  "institution": "RESEARCH LABORATORIES",
   "city": "Warren",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48090",
-  "email": false
+  "ope": null
 }

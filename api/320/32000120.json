@@ -1,6 +1,6 @@
 {
   "facility_code": "32000120",
-  "institution": "Holy Cross Hospital School Of Radiologic Technology",
+  "institution": "HOLY CROSS HOSPITAL SCHOOL OF RADIOLOGIC TECHNOLOGY",
   "city": "Silver Spring",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20910",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20140235",
-  "institution": "Himrod Company  K",
+  "institution": "HIMROD COMPANY  K",
   "city": "Youngstown",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44502",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10487017",
-  "institution": "Elizabethtown Police Department",
+  "institution": "ELIZABETHTOWN POLICE DEPARTMENT",
   "city": "Elizabethtown",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42701",
-  "email": false
+  "ope": null
 }

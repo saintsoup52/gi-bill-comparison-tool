@@ -1,6 +1,6 @@
 {
   "facility_code": "31003321",
-  "institution": "Massachusetts Institute Of Technology",
+  "institution": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
   "city": "Cambridge",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2139",
-  "email": true
+  "ope": "00217800"
 }

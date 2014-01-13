@@ -1,6 +1,6 @@
 {
   "facility_code": "10016333",
-  "institution": "Ncdoc - Forsyth Correctional Center",
+  "institution": "NCDOC - FORSYTH CORRECTIONAL CENTER",
   "city": "Winston-Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27105",
-  "email": false
+  "ope": null
 }

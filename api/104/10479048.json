@@ -1,6 +1,6 @@
 {
   "facility_code": "10479048",
-  "institution": "Huntington State Hospital",
+  "institution": "HUNTINGTON STATE HOSPITAL",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25705",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11903014",
-  "institution": "University Of Southern Indiana",
+  "institution": "UNIVERSITY OF SOUTHERN INDIANA",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "47712",
-  "email": true
+  "ope": "00180800"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10993010",
-  "institution": "Kissimmee Fire Department",
+  "institution": "KISSIMMEE FIRE DEPARTMENT",
   "city": "Kissimmee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34741",
-  "email": false
+  "ope": null
 }

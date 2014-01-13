@@ -1,6 +1,6 @@
 {
   "facility_code": "20059211",
-  "institution": "Blue Ridge Mountain Emc",
+  "institution": "BLUE RIDGE MOUNTAIN EMC",
   "city": "Young Harris",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30582",
-  "email": true
+  "ope": null
 }

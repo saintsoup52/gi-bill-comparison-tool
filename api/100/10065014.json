@@ -1,6 +1,6 @@
 {
   "facility_code": "10065014",
-  "institution": "Rensselaer Police Dapartment",
+  "institution": "RENSSELAER POLICE DAPARTMENT",
   "city": "Rensselaer",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47978",
-  "email": false
+  "ope": null
 }

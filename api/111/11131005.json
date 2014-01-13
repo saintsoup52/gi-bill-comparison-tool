@@ -1,6 +1,6 @@
 {
   "facility_code": "11131005",
-  "institution": "University Of California-San Francisco",
+  "institution": "UNIVERSITY OF CALIFORNIA-SAN FRANCISCO",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "94143",
-  "email": true
+  "ope": "00131900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10034711",
-  "institution": "Marta-Utility Fleet Maintenance Division",
+  "institution": "MARTA-UTILITY FLEET MAINTENANCE DIVISION",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30318",
-  "email": false
+  "ope": null
 }

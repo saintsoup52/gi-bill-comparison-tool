@@ -1,6 +1,6 @@
 {
   "facility_code": "10000429",
-  "institution": "Boston Artcc",
+  "institution": "BOSTON ARTCC",
   "city": "Nashua",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3062",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10676529",
-  "institution": "Salem Police Department",
+  "institution": "SALEM POLICE DEPARTMENT",
   "city": "Salem",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3079",
-  "email": false
+  "ope": null
 }

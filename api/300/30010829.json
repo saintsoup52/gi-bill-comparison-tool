@@ -1,6 +1,6 @@
 {
   "facility_code": "30010829",
-  "institution": "Local 490 Dover Electricians Jac",
+  "institution": "LOCAL 490 DOVER ELECTRICIANS JAC",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3301",
-  "email": true
+  "ope": null
 }

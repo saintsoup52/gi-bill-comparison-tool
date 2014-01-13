@@ -1,6 +1,6 @@
 {
   "facility_code": "10288047",
-  "institution": "Us Forest Service  (Ch31)",
+  "institution": "US FOREST SERVICE  (CH31)",
   "city": "Naches",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98937",
-  "email": false
+  "ope": null
 }

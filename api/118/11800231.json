@@ -1,6 +1,6 @@
 {
   "facility_code": "11800231",
-  "institution": "Univ Of New Mexico & Affiliated Hospitals",
+  "institution": "UNIV OF NEW MEXICO & AFFILIATED HOSPITALS",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "87131",
-  "email": true
+  "ope": "00266300"
 }

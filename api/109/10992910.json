@@ -1,6 +1,6 @@
 {
   "facility_code": "10992910",
-  "institution": "Us Dept Of Veterans Affairs Regional Office",
+  "institution": "US DEPT OF VETERANS AFFAIRS REGIONAL OFFICE",
   "city": "St Petersburg",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33731",
-  "email": true
+  "ope": null
 }

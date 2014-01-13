@@ -1,6 +1,6 @@
 {
   "facility_code": "10426847",
-  "institution": "Steilacoom Department Of Public Safety",
+  "institution": "STEILACOOM DEPARTMENT OF PUBLIC SAFETY",
   "city": "Steilacoom",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98388",
-  "email": true
+  "ope": null
 }

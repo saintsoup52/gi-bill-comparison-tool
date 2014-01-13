@@ -1,6 +1,6 @@
 {
   "facility_code": "26001007",
-  "institution": "Fox Institute Of Business Inc. D/B/A American Institute",
+  "institution": "FOX INSTITUTE OF BUSINESS INC. D/B/A AMERICAN INSTITUTE",
   "city": "West Hartford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "6110",
-  "email": true
+  "ope": "02106600"
 }

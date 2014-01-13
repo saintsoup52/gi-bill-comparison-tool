@@ -1,6 +1,6 @@
 {
   "facility_code": "20451703",
-  "institution": "Apache Motorcycles (Ojt)",
+  "institution": "APACHE MOTORCYCLES (OJT)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85019",
-  "email": false
+  "ope": null
 }

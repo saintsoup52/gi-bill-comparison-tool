@@ -1,6 +1,6 @@
 {
   "facility_code": "10091936",
-  "institution": "Weatherford Police Department",
+  "institution": "WEATHERFORD POLICE DEPARTMENT",
   "city": "Weatherford",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73096",
-  "email": false
+  "ope": null
 }

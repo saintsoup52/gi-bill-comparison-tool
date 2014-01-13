@@ -1,6 +1,6 @@
 {
   "facility_code": "10449247",
-  "institution": "Cowlitz County Sheriff'S Office",
+  "institution": "COWLITZ COUNTY SHERIFF'S OFFICE",
   "city": "Kelso",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98626",
-  "email": true
+  "ope": null
 }

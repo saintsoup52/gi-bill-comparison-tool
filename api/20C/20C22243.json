@@ -1,6 +1,6 @@
 {
   "facility_code": "20C22243",
-  "institution": "Dawson State Jail Corr Corp Of America",
+  "institution": "DAWSON STATE JAIL CORR CORP OF AMERICA",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75207",
-  "email": false
+  "ope": null
 }

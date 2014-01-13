@@ -1,6 +1,6 @@
 {
   "facility_code": "10469048",
-  "institution": "Huttonsville Correctional Center",
+  "institution": "HUTTONSVILLE CORRECTIONAL CENTER",
   "city": "Huttonsville",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26273",
-  "email": true
+  "ope": null
 }

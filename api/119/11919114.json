@@ -1,6 +1,6 @@
 {
   "facility_code": "11919114",
-  "institution": "Purdue University College Of Technology - South Bend",
+  "institution": "PURDUE UNIVERSITY COLLEGE OF TECHNOLOGY - SOUTH BEND",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46634",
-  "email": true
+  "ope": "00182506"
 }

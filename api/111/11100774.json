@@ -1,6 +1,6 @@
 {
   "facility_code": "11100774",
-  "institution": "University Of Sussex",
+  "institution": "UNIVERSITY OF SUSSEX",
   "city": "Brighton",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

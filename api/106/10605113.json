@@ -1,6 +1,6 @@
 {
   "facility_code": "10605113",
-  "institution": "Illinois Department Of Employment Security",
+  "institution": "ILLINOIS DEPARTMENT OF EMPLOYMENT SECURITY",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62704",
-  "email": false
+  "ope": null
 }

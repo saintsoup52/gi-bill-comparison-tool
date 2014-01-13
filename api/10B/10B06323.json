@@ -1,6 +1,6 @@
 {
   "facility_code": "10B06323",
-  "institution": "City Of Janesville",
+  "institution": "CITY OF JANESVILLE",
   "city": "Jansville",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56048",
-  "email": false
+  "ope": null
 }

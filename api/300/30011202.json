@@ -1,6 +1,6 @@
 {
   "facility_code": "30011202",
-  "institution": "Cook Inlet Keeper (Ch31)",
+  "institution": "COOK INLET KEEPER (CH31)",
   "city": "Homer",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99603",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103B1505",
-  "institution": "Veterans Hospital Administration Opc (Chapter 31 Only)",
+  "institution": "VETERANS HOSPITAL ADMINISTRATION OPC (CHAPTER 31 ONLY)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90012",
-  "email": false
+  "ope": null
 }

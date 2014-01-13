@@ -1,6 +1,6 @@
 {
   "facility_code": "10011133",
-  "institution": "Durham Emergency Communications Center",
+  "institution": "DURHAM EMERGENCY COMMUNICATIONS CENTER",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27701",
-  "email": true
+  "ope": null
 }

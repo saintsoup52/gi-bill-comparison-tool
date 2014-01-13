@@ -1,6 +1,6 @@
 {
   "facility_code": "10A90506",
-  "institution": "Cdc - Youth Offender System",
+  "institution": "CDC - YOUTH OFFENDER SYSTEM",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81003",
-  "email": true
+  "ope": null
 }

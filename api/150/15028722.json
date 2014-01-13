@@ -1,6 +1,6 @@
 {
   "facility_code": "15028722",
-  "institution": "Hazel Park High School",
+  "institution": "HAZEL PARK HIGH SCHOOL",
   "city": "Hazel Park",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48030",
-  "email": true
+  "ope": null
 }

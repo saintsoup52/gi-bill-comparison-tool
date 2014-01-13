@@ -1,6 +1,6 @@
 {
   "facility_code": "31109076",
-  "institution": "Universidad Americana",
+  "institution": "UNIVERSIDAD AMERICANA",
   "city": "San Salvador",
   "state": "El Salvador",
   "country": "El Salvador",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

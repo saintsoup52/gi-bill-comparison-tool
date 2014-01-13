@@ -1,6 +1,6 @@
 {
   "facility_code": "10005512",
-  "institution": "Garden City Police Department",
+  "institution": "GARDEN CITY POLICE DEPARTMENT",
   "city": "Garden City",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83714",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10020533",
-  "institution": "City Of Wilson Utilities Department",
+  "institution": "CITY OF WILSON UTILITIES DEPARTMENT",
   "city": "Wilson",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27894",
-  "email": true
+  "ope": null
 }

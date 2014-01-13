@@ -1,6 +1,6 @@
 {
   "facility_code": "10C40243",
-  "institution": "Corpus Christi Army Depot",
+  "institution": "CORPUS CHRISTI ARMY DEPOT",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78419",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N06132",
-  "institution": "Sullivan County Sheriff'S Department",
+  "institution": "SULLIVAN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Monticello",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12701",
-  "email": false
+  "ope": null
 }

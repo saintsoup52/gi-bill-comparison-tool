@@ -1,6 +1,6 @@
 {
   "facility_code": "10009642",
-  "institution": "U.S. Customs And Border Protection",
+  "institution": "U.S. CUSTOMS AND BORDER PROTECTION",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38118",
-  "email": false
+  "ope": null
 }

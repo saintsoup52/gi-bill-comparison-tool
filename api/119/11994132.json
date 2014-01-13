@@ -1,6 +1,6 @@
 {
   "facility_code": "11994132",
-  "institution": "Suny Stony Brook",
+  "institution": "SUNY STONY BROOK",
   "city": "Stony Brook",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "11794",
-  "email": true
+  "ope": "00283800"
 }

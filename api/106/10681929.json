@@ -1,6 +1,6 @@
 {
   "facility_code": "10681929",
-  "institution": "Hampton Police Department",
+  "institution": "HAMPTON POLICE DEPARTMENT",
   "city": "Hampton",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3842",
-  "email": false
+  "ope": null
 }

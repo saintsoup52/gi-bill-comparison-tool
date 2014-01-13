@@ -1,6 +1,6 @@
 {
   "facility_code": "32004809",
-  "institution": "George Washington Hospital",
+  "institution": "GEORGE WASHINGTON HOSPITAL",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20037",
-  "email": false
+  "ope": null
 }

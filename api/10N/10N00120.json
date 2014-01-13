@@ -1,6 +1,6 @@
 {
   "facility_code": "10N00120",
-  "institution": "Us Department Of Veterans Affairs (Dva) Baltimore Regional Office",
+  "institution": "US DEPARTMENT OF VETERANS AFFAIRS (DVA) BALTIMORE REGIONAL OFFICE",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21201",
-  "email": true
+  "ope": null
 }

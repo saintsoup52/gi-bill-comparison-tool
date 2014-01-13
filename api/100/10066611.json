@@ -1,6 +1,6 @@
 {
   "facility_code": "10066611",
-  "institution": "Morehouse School Of Medicine - Police Dept",
+  "institution": "MOREHOUSE SCHOOL OF MEDICINE - POLICE DEPT",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30310",
-  "email": true
+  "ope": null
 }

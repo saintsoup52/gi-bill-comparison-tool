@@ -1,6 +1,6 @@
 {
   "facility_code": "14001601",
-  "institution": "Gadsden St Comm College",
+  "institution": "GADSDEN ST COMM COLLEGE",
   "city": "Gadsden",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "35902",
-  "email": true
+  "ope": "00101700"
 }

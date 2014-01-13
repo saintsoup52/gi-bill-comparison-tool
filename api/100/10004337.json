@@ -1,6 +1,6 @@
 {
   "facility_code": "10004337",
-  "institution": "Milton-Freewater Police Department",
+  "institution": "MILTON-FREEWATER POLICE DEPARTMENT",
   "city": "Milton-Freewater",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97862",
-  "email": true
+  "ope": null
 }

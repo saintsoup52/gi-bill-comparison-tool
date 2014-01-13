@@ -1,6 +1,6 @@
 {
   "facility_code": "10107539",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2908",
-  "email": "No (SCO)"
+  "ope": null
 }

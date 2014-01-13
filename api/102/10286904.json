@@ -1,6 +1,6 @@
 {
   "facility_code": "10286904",
-  "institution": "Department Of Treasury:Internal Revenue Service",
+  "institution": "DEPARTMENT OF TREASURY:INTERNAL REVENUE SERVICE",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72201",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10019614",
-  "institution": "Lafayette Fire Department",
+  "institution": "LAFAYETTE FIRE DEPARTMENT",
   "city": "Lafayette",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47901",
-  "email": false
+  "ope": null
 }

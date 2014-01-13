@@ -1,6 +1,6 @@
 {
   "facility_code": "10574110",
-  "institution": "Hialeah Fire Department",
+  "institution": "HIALEAH FIRE DEPARTMENT",
   "city": "Hialeah",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33010",
-  "email": false
+  "ope": null
 }

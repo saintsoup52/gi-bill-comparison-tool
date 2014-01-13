@@ -1,6 +1,6 @@
 {
   "facility_code": "10995910",
-  "institution": "Palm Beach County Sheriff'S Office",
+  "institution": "PALM BEACH COUNTY SHERIFF'S OFFICE",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33406",
-  "email": false
+  "ope": null
 }

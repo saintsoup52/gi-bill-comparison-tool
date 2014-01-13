@@ -1,6 +1,6 @@
 {
   "facility_code": "10241630",
-  "institution": "Irvington Fire Department",
+  "institution": "IRVINGTON FIRE DEPARTMENT",
   "city": "Irvington",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7111",
-  "email": true
+  "ope": null
 }

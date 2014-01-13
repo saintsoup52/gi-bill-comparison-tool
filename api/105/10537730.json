@@ -1,6 +1,6 @@
 {
   "facility_code": "10537730",
-  "institution": "Waldwick Police Department",
+  "institution": "WALDWICK POLICE DEPARTMENT",
   "city": "Waldwick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7463",
-  "email": false
+  "ope": null
 }

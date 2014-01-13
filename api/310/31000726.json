@@ -1,6 +1,6 @@
 {
   "facility_code": "31000726",
-  "institution": "University Of Mary",
+  "institution": "UNIVERSITY OF MARY",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "59101",
-  "email": true
+  "ope": "00299207"
 }

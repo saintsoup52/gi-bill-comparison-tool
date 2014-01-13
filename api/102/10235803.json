@@ -1,6 +1,6 @@
 {
   "facility_code": "10235803",
-  "institution": "Tolleson Fire Department",
+  "institution": "TOLLESON FIRE DEPARTMENT",
   "city": "Tolleson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85353",
-  "email": false
+  "ope": null
 }

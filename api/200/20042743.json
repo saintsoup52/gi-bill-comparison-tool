@@ -1,6 +1,6 @@
 {
   "facility_code": "20042743",
-  "institution": "Eastman Chemical Company Tx Operation",
+  "institution": "EASTMAN CHEMICAL COMPANY TX OPERATION",
   "city": "Longview",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75607",
-  "email": false
+  "ope": null
 }

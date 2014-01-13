@@ -1,6 +1,6 @@
 {
   "facility_code": "35022718",
-  "institution": "Saint Patrick Hospital (Ch 31)",
+  "institution": "SAINT PATRICK HOSPITAL (CH 31)",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70601",
-  "email": false
+  "ope": "01162000"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "19825921",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Jamaica Plain",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2130",
-  "email": false
+  "ope": null
 }

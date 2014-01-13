@@ -1,6 +1,6 @@
 {
   "facility_code": "10209916",
-  "institution": "El Dorado Correctional Facility",
+  "institution": "EL DORADO CORRECTIONAL FACILITY",
   "city": "El Dorado",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67042",
-  "email": false
+  "ope": null
 }

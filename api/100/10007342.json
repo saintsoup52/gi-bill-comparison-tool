@@ -1,6 +1,6 @@
 {
   "facility_code": "10007342",
-  "institution": "Federal Aviation Administration - Chattanooga Area",
+  "institution": "FEDERAL AVIATION ADMINISTRATION - CHATTANOOGA AREA",
   "city": "Chattanooga",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37421",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15002818",
-  "institution": "Technical Resource Services (Ch31)",
+  "institution": "TECHNICAL RESOURCE SERVICES (CH31)",
   "city": "Broussard",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70518",
-  "email": false
+  "ope": null
 }

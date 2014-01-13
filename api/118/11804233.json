@@ -1,6 +1,6 @@
 {
   "facility_code": "11804233",
-  "institution": "Fayetteville State University - Ft Bragg Center",
+  "institution": "FAYETTEVILLE STATE UNIVERSITY - FT BRAGG CENTER",
   "city": "Fort Bragg",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "28307",
-  "email": true
+  "ope": "00292801"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10652940",
-  "institution": "City Of Charleston Fire Department",
+  "institution": "CITY OF CHARLESTON FIRE DEPARTMENT",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29401",
-  "email": false
+  "ope": null
 }

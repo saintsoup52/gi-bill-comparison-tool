@@ -1,6 +1,6 @@
 {
   "facility_code": "18700764",
-  "institution": "Honolulu Police Dept Recruit Training School",
+  "institution": "HONOLULU POLICE DEPT RECRUIT TRAINING SCHOOL",
   "city": "Waipahu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96797",
-  "email": true
+  "ope": null
 }

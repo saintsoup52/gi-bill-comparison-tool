@@ -1,6 +1,6 @@
 {
   "facility_code": "10592925",
-  "institution": "Milan Police Department",
+  "institution": "MILAN POLICE DEPARTMENT",
   "city": "Milan",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63556",
-  "email": false
+  "ope": null
 }

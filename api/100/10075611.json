@@ -1,6 +1,6 @@
 {
   "facility_code": "10075611",
-  "institution": "Fleet Forces Command",
+  "institution": "FLEET FORCES COMMAND",
   "city": "Kings Bay",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31547",
-  "email": false
+  "ope": null
 }

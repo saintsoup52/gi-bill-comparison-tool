@@ -1,6 +1,6 @@
 {
   "facility_code": "10118839",
-  "institution": "Narragensett Police Department",
+  "institution": "NARRAGENSETT POLICE DEPARTMENT",
   "city": "Narragansett",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2886",
-  "email": false
+  "ope": null
 }

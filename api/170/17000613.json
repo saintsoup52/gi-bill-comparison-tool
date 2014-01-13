@@ -1,6 +1,6 @@
 {
   "facility_code": "17000613",
-  "institution": "Jacksonville High School",
+  "institution": "JACKSONVILLE HIGH SCHOOL",
   "city": "Jacksonville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62650",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21100192",
-  "institution": "Universidad Gabriela Mistral",
+  "institution": "UNIVERSIDAD GABRIELA MISTRAL",
   "city": "Santiago",
   "state": "Chile",
   "country": "Chile",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

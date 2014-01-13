@@ -1,6 +1,6 @@
 {
   "facility_code": "10105926",
-  "institution": "Helena College Of Technology State Of Montana",
+  "institution": "HELENA COLLEGE OF TECHNOLOGY STATE OF MONTANA",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59601",
-  "email": false
+  "ope": null
 }

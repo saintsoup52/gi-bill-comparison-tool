@@ -1,6 +1,6 @@
 {
   "facility_code": "10403946",
-  "institution": "Suffolk Police Department",
+  "institution": "SUFFOLK POLICE DEPARTMENT",
   "city": "Suffolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23434",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10015212",
-  "institution": "Bingham County Sheriff",
+  "institution": "BINGHAM COUNTY SHERIFF",
   "city": "Blackfoot",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83221",
-  "email": false
+  "ope": null
 }

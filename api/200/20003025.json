@@ -1,6 +1,6 @@
 {
   "facility_code": "20003025",
-  "institution": "Sheet Metal Local #2",
+  "institution": "SHEET METAL LOCAL #2",
   "city": "Raytown",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64133",
-  "email": false
+  "ope": null
 }

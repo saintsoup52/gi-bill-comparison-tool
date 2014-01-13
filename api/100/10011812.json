@@ -1,6 +1,6 @@
 {
   "facility_code": "10011812",
-  "institution": "Nez Perce County Sheriff",
+  "institution": "NEZ PERCE COUNTY SHERIFF",
   "city": "Lewiston",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83501",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10109520",
-  "institution": "Us Army Research Development & Engineering Command G-1",
+  "institution": "US ARMY RESEARCH DEVELOPMENT & ENGINEERING COMMAND G-1",
   "city": "Aberdeen",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21005",
-  "email": false
+  "ope": null
 }

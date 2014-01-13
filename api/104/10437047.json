@@ -1,6 +1,6 @@
 {
   "facility_code": "10437047",
-  "institution": "Lake Stevens Police Department",
+  "institution": "LAKE STEVENS POLICE DEPARTMENT",
   "city": "Lake Stevens",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98258",
-  "email": true
+  "ope": null
 }

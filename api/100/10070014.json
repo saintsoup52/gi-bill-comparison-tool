@@ -1,6 +1,6 @@
 {
   "facility_code": "10070014",
-  "institution": "Marion Police Department",
+  "institution": "MARION POLICE DEPARTMENT",
   "city": "Mariion",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46952",
-  "email": false
+  "ope": null
 }

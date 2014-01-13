@@ -1,6 +1,6 @@
 {
   "facility_code": "11801320",
-  "institution": "University Of Maryland School Of Medicine",
+  "institution": "UNIVERSITY OF MARYLAND SCHOOL OF MEDICINE",
   "city": "Baltimore Md",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21201",
-  "email": true
+  "ope": "00210400"
 }

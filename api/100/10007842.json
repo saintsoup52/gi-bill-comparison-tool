@@ -1,6 +1,6 @@
 {
   "facility_code": "10007842",
-  "institution": "Federal Aviation Administration Artcc - Memphis Center",
+  "institution": "FEDERAL AVIATION ADMINISTRATION ARTCC - MEMPHIS CENTER",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38118",
-  "email": false
+  "ope": null
 }

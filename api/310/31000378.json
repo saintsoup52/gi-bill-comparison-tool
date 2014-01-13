@@ -1,6 +1,6 @@
 {
   "facility_code": "31000378",
-  "institution": "Copenhagen Business School",
+  "institution": "COPENHAGEN BUSINESS SCHOOL",
   "city": "Frederiksberg",
   "state": "Denmark",
   "country": "Denmark",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

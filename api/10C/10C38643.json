@@ -1,6 +1,6 @@
 {
   "facility_code": "10C38643",
-  "institution": "Us Eeoc San Antonio Field Office",
+  "institution": "US EEOC SAN ANTONIO FIELD OFFICE",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78229",
-  "email": false
+  "ope": null
 }

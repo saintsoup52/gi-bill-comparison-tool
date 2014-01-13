@@ -1,6 +1,6 @@
 {
   "facility_code": "13300225",
-  "institution": "Harris-Stowe State University",
+  "institution": "HARRIS-STOWE STATE UNIVERSITY",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "63103",
-  "email": true
+  "ope": "00246600"
 }

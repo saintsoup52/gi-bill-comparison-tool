@@ -1,6 +1,6 @@
 {
   "facility_code": "11801218",
-  "institution": "Southern University - New Orleans",
+  "institution": "SOUTHERN UNIVERSITY - NEW ORLEANS",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70126",
-  "email": true
+  "ope": "00202600"
 }

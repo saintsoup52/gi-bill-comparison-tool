@@ -1,6 +1,6 @@
 {
   "facility_code": "10534830",
-  "institution": "Watchung Police Department",
+  "institution": "WATCHUNG POLICE DEPARTMENT",
   "city": "Watchung",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7069",
-  "email": false
+  "ope": null
 }

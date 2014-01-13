@@ -1,6 +1,6 @@
 {
   "facility_code": "10024802",
-  "institution": "Wrangell Police Department",
+  "institution": "WRANGELL POLICE DEPARTMENT",
   "city": "Wrangell",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99929",
-  "email": false
+  "ope": null
 }

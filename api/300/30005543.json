@@ -1,6 +1,6 @@
 {
   "facility_code": "30005543",
-  "institution": "West Texas Electrical Jatc",
+  "institution": "WEST TEXAS ELECTRICAL JATC",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79106",
-  "email": false
+  "ope": null
 }

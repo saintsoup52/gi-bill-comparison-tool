@@ -1,6 +1,6 @@
 {
   "facility_code": "10004011",
-  "institution": "Columbus Parks And Recreation Dept",
+  "institution": "COLUMBUS PARKS AND RECREATION DEPT",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31993",
-  "email": false
+  "ope": null
 }

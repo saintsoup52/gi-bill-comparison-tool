@@ -1,6 +1,6 @@
 {
   "facility_code": "20477315",
-  "institution": "Oneok",
+  "institution": "ONEOK",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50327",
-  "email": false
+  "ope": null
 }

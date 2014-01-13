@@ -1,6 +1,6 @@
 {
   "facility_code": "10D28149",
-  "institution": "Kenosha County Sheriff Department",
+  "institution": "KENOSHA COUNTY SHERIFF DEPARTMENT",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53140",
-  "email": false
+  "ope": null
 }

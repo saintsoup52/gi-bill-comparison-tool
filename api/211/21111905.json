@@ -1,6 +1,6 @@
 {
   "facility_code": "21111905",
-  "institution": "Henley-Putnam University",
+  "institution": "HENLEY-PUTNAM UNIVERSITY",
   "city": "Santa Clara",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95054",
-  "email": false
+  "ope": null
 }

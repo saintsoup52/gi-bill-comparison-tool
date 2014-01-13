@@ -1,6 +1,6 @@
 {
   "facility_code": "103B0105",
-  "institution": "Kern Valley State Prison",
+  "institution": "KERN VALLEY STATE PRISON",
   "city": "Delano",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93216",
-  "email": false
+  "ope": null
 }

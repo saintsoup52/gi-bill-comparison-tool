@@ -1,6 +1,6 @@
 {
   "facility_code": "11000918",
-  "institution": "University Of Louisiana At Lafayette",
+  "institution": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70504",
-  "email": true
+  "ope": "00203100"
 }

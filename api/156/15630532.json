@@ -1,6 +1,6 @@
 {
   "facility_code": "15630532",
-  "institution": "New York State Police Canine Training Center",
+  "institution": "NEW YORK STATE POLICE CANINE TRAINING CENTER",
   "city": "Cooperstown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13326",
-  "email": true
+  "ope": null
 }

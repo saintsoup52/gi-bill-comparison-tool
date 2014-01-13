@@ -1,6 +1,6 @@
 {
   "facility_code": "11802101",
-  "institution": "Auburn University At Montgomery",
+  "institution": "AUBURN UNIVERSITY AT MONTGOMERY",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36124",
-  "email": true
+  "ope": "00831000"
 }

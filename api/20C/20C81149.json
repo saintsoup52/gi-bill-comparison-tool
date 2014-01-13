@@ -1,6 +1,6 @@
 {
   "facility_code": "20C81149",
-  "institution": "Kimberly Corporation",
+  "institution": "KIMBERLY CORPORATION",
   "city": "Neenah",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54956",
-  "email": false
+  "ope": null
 }

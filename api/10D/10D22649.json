@@ -1,6 +1,6 @@
 {
   "facility_code": "10D22649",
-  "institution": "City Of Kenosha Fire Department",
+  "institution": "CITY OF KENOSHA FIRE DEPARTMENT",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53143",
-  "email": false
+  "ope": null
 }

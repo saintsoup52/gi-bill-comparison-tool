@@ -1,6 +1,6 @@
 {
   "facility_code": "20D10033",
-  "institution": "Simplex Grinnell/Charlotte",
+  "institution": "SIMPLEX GRINNELL/CHARLOTTE",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28273",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10022233",
-  "institution": "North Carolina State University Campus Police",
+  "institution": "NORTH CAROLINA STATE UNIVERSITY CAMPUS POLICE",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27695",
-  "email": true
+  "ope": null
 }

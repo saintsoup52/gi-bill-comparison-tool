@@ -1,6 +1,6 @@
 {
   "facility_code": "10068614",
-  "institution": "Roseland Police Department",
+  "institution": "ROSELAND POLICE DEPARTMENT",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46637",
-  "email": false
+  "ope": null
 }

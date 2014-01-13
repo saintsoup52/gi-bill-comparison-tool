@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02110",
-  "institution": "Federal Aviation Admin (Faa) Ft Lauderdale Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) FT LAUDERDALE TOWER",
   "city": "Ft.  Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33315",
-  "email": true
+  "ope": null
 }

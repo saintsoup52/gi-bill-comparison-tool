@@ -1,6 +1,6 @@
 {
   "facility_code": "15525135",
-  "institution": "Cleveland Public Schools",
+  "institution": "CLEVELAND PUBLIC SCHOOLS",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44102",
-  "email": false
+  "ope": null
 }

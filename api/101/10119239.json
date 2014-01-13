@@ -1,6 +1,6 @@
 {
   "facility_code": "10119239",
-  "institution": " Va Regional Office Providence",
+  "institution": " VA REGIONAL OFFICE PROVIDENCE",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2903",
-  "email": true
+  "ope": null
 }

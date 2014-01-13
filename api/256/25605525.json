@@ -1,6 +1,6 @@
 {
   "facility_code": "25605525",
-  "institution": "U.S. Department Of Agriculture",
+  "institution": "U.S. DEPARTMENT OF AGRICULTURE",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64131",
-  "email": false
+  "ope": null
 }

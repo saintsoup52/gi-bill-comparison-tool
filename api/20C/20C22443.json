@@ -1,6 +1,6 @@
 {
   "facility_code": "20C22443",
-  "institution": "A T And T",
+  "institution": "A T AND T",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77070",
-  "email": false
+  "ope": null
 }

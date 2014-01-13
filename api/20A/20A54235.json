@@ -1,6 +1,6 @@
 {
   "facility_code": "20A54235",
-  "institution": "Gb Mfg Co K",
+  "institution": "GB MFG CO K",
   "city": "Delta",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43515",
-  "email": false
+  "ope": null
 }

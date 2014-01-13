@@ -1,6 +1,6 @@
 {
   "facility_code": "20506546",
-  "institution": "Bob'S Electric Inc",
+  "institution": "BOB'S ELECTRIC INC",
   "city": "Yorktown",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23692",
-  "email": true
+  "ope": null
 }

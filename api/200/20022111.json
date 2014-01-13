@@ -1,6 +1,6 @@
 {
   "facility_code": "20022111",
-  "institution": "Tom Sawyer Farms",
+  "institution": "TOM SAWYER FARMS",
   "city": "Cochran",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31014",
-  "email": false
+  "ope": null
 }

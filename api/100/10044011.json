@@ -1,6 +1,6 @@
 {
   "facility_code": "10044011",
-  "institution": "Georgia State Patrol - Post 07 (Toccoa)",
+  "institution": "GEORGIA STATE PATROL - POST 07 (TOCCOA)",
   "city": "Toccoa",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30577",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25013304",
-  "institution": "Central Flying Service",
+  "institution": "CENTRAL FLYING SERVICE",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72202",
-  "email": false
+  "ope": null
 }

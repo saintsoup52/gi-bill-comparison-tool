@@ -1,6 +1,6 @@
 {
   "facility_code": "30015420",
-  "institution": "New Page Corporation",
+  "institution": "NEW PAGE CORPORATION",
   "city": "Luke",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21540",
-  "email": false
+  "ope": null
 }

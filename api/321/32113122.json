@@ -1,6 +1,6 @@
 {
   "facility_code": "32113122",
-  "institution": "William Beaumont Hospital",
+  "institution": "WILLIAM BEAUMONT HOSPITAL",
   "city": "Royal Oak",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48072",
-  "email": true
+  "ope": null
 }

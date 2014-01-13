@@ -1,6 +1,6 @@
 {
   "facility_code": "10D00838",
-  "institution": "Us Mint - Philadelphia",
+  "institution": "US MINT - PHILADELPHIA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": false
+  "ope": null
 }

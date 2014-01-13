@@ -1,6 +1,6 @@
 {
   "facility_code": "11102170",
-  "institution": "Charles Darwin University",
+  "institution": "CHARLES DARWIN UNIVERSITY",
   "city": "Darwin",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

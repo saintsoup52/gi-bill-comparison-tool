@@ -1,6 +1,6 @@
 {
   "facility_code": "25870530",
-  "institution": "Adriland Institute",
+  "institution": "ADRILAND INSTITUTE",
   "city": "Hoboken",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7030",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B84035",
-  "institution": "University Of Akron Dept Of Physical Facilities (K & G)",
+  "institution": "UNIVERSITY OF AKRON DEPT OF PHYSICAL FACILITIES (K & G)",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44325",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10523730",
-  "institution": "Passaic County Jail",
+  "institution": "PASSAIC COUNTY JAIL",
   "city": "Paterson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7510",
-  "email": false
+  "ope": null
 }

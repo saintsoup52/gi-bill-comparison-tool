@@ -1,6 +1,6 @@
 {
   "facility_code": "102B2705",
-  "institution": "Faa- Northern California Tracon",
+  "institution": "FAA- NORTHERN CALIFORNIA TRACON",
   "city": "Mather",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95655",
-  "email": false
+  "ope": null
 }

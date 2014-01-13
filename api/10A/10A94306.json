@@ -1,6 +1,6 @@
 {
   "facility_code": "10A94306",
-  "institution": "Thornton Police Department",
+  "institution": "THORNTON POLICE DEPARTMENT",
   "city": "Thornton",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80229",
-  "email": true
+  "ope": null
 }

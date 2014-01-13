@@ -1,6 +1,6 @@
 {
   "facility_code": "10048947",
-  "institution": "Pierce County Sheriff'S Department",
+  "institution": "PIERCE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98402",
-  "email": true
+  "ope": null
 }

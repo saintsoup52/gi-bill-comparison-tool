@@ -1,6 +1,6 @@
 {
   "facility_code": "10168827",
-  "institution": "Douglas County Sheriff'S Office",
+  "institution": "DOUGLAS COUNTY SHERIFF'S OFFICE",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68116",
-  "email": false
+  "ope": null
 }

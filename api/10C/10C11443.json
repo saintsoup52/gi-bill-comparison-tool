@@ -1,6 +1,6 @@
 {
   "facility_code": "10C11443",
-  "institution": "Texas Veterans Commission Region Ii",
+  "institution": "TEXAS VETERANS COMMISSION REGION II",
   "city": "Killeen",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76542",
-  "email": false
+  "ope": null
 }

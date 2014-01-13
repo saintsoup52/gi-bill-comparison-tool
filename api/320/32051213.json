@@ -1,6 +1,6 @@
 {
   "facility_code": "32051213",
-  "institution": "Loyola Univ Medical Center Emergency Medical Services",
+  "institution": "LOYOLA UNIV MEDICAL CENTER EMERGENCY MEDICAL SERVICES",
   "city": "Maywood",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60153",
-  "email": false
+  "ope": "00171002"
 }

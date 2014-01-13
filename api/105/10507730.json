@@ -1,6 +1,6 @@
 {
   "facility_code": "10507730",
-  "institution": "Edison Police Department",
+  "institution": "EDISON POLICE DEPARTMENT",
   "city": "Edison",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8817",
-  "email": false
+  "ope": null
 }

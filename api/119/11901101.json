@@ -1,6 +1,6 @@
 {
   "facility_code": "11901101",
-  "institution": "Alabama A&M University",
+  "institution": "ALABAMA A&M UNIVERSITY",
   "city": "Normal",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35762",
-  "email": true
+  "ope": "00100200"
 }

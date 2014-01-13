@@ -1,6 +1,6 @@
 {
   "facility_code": "11001918",
-  "institution": "Grambling State University",
+  "institution": "GRAMBLING STATE UNIVERSITY",
   "city": "Grambling",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71245",
-  "email": true
+  "ope": "00200600"
 }

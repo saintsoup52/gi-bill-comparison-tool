@@ -1,6 +1,6 @@
 {
   "facility_code": "20591613",
-  "institution": "Federal Aviation Administration  Faa/Atct",
+  "institution": "FEDERAL AVIATION ADMINISTRATION  FAA/ATCT",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60666",
-  "email": true
+  "ope": null
 }

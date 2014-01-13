@@ -1,6 +1,6 @@
 {
   "facility_code": "14902431",
-  "institution": "New Mexico Military Institute",
+  "institution": "NEW MEXICO MILITARY INSTITUTE",
   "city": "Roswell",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "88201",
-  "email": true
+  "ope": "00265600"
 }

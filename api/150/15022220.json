@@ -1,6 +1,6 @@
 {
   "facility_code": "15022220",
-  "institution": "Howard County Police Academy",
+  "institution": "HOWARD COUNTY POLICE ACADEMY",
   "city": "Marriottsville",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21104",
-  "email": true
+  "ope": null
 }

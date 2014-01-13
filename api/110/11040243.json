@@ -1,6 +1,6 @@
 {
   "facility_code": "11040243",
-  "institution": "Uthsc At San Antonio Pathology Res Prog",
+  "institution": "UTHSC AT SAN ANTONIO PATHOLOGY RES PROG",
   "city": "San Antonio",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "78229",
-  "email": false
+  "ope": "00365900"
 }

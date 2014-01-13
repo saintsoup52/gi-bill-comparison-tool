@@ -1,6 +1,6 @@
 {
   "facility_code": "10K00138",
-  "institution": "Lycoming County Sherriff'S Office",
+  "institution": "LYCOMING COUNTY SHERRIFF'S OFFICE",
   "city": "Williamsport",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17701",
-  "email": true
+  "ope": null
 }

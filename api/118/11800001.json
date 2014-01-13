@@ -1,6 +1,6 @@
 {
   "facility_code": "11800001",
-  "institution": "Troy University",
+  "institution": "TROY UNIVERSITY",
   "city": "Troy",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36082",
-  "email": true
+  "ope": "00104700"
 }

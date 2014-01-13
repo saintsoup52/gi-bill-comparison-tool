@@ -1,6 +1,6 @@
 {
   "facility_code": "15103545",
-  "institution": "Hartford High School",
+  "institution": "HARTFORD HIGH SCHOOL",
   "city": "White River Junction",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5001",
-  "email": false
+  "ope": null
 }

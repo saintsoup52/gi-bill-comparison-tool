@@ -1,6 +1,6 @@
 {
   "facility_code": "10416646",
-  "institution": "Campbell County Adult Detention Center",
+  "institution": "CAMPBELL COUNTY ADULT DETENTION CENTER",
   "city": "Rustburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24588",
-  "email": true
+  "ope": null
 }

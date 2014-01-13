@@ -1,6 +1,6 @@
 {
   "facility_code": "10N21432",
-  "institution": "New York Police Dept. - School Safety Div. - Bronx East Command",
+  "institution": "NEW YORK POLICE DEPT. - SCHOOL SAFETY DIV. - BRONX EAST COMMAND",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10475",
-  "email": false
+  "ope": null
 }

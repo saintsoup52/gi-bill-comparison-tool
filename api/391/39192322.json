@@ -1,6 +1,6 @@
 {
   "facility_code": "39192322",
-  "institution": "Metropolitan Detroit Center For Independent Living",
+  "institution": "METROPOLITAN DETROIT CENTER FOR INDEPENDENT LIVING",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48213",
-  "email": true
+  "ope": null
 }

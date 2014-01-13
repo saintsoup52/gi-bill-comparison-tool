@@ -1,6 +1,6 @@
 {
   "facility_code": "10121931",
-  "institution": "University Of New Mexico Hospital",
+  "institution": "UNIVERSITY OF NEW MEXICO HOSPITAL",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87106",
-  "email": "No (SCO)"
+  "ope": null
 }

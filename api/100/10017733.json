@@ -1,6 +1,6 @@
 {
   "facility_code": "10017733",
-  "institution": "Ncdoc - Foothills Correctional Institution",
+  "institution": "NCDOC - FOOTHILLS CORRECTIONAL INSTITUTION",
   "city": "Morganton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28655",
-  "email": true
+  "ope": null
 }

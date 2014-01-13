@@ -1,6 +1,6 @@
 {
   "facility_code": "15021046",
-  "institution": "University Of Virginia Nuclear Medicine Tech",
+  "institution": "UNIVERSITY OF VIRGINIA NUCLEAR MEDICINE TECH",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22908",
-  "email": false
+  "ope": null
 }

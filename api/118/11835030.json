@@ -1,6 +1,6 @@
 {
   "facility_code": "11835030",
-  "institution": "Rutgers The State University (Camden)",
+  "institution": "RUTGERS THE STATE UNIVERSITY (CAMDEN)",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8102",
-  "email": true
+  "ope": "00262901"
 }

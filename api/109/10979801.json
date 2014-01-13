@@ -1,6 +1,6 @@
 {
   "facility_code": "10979801",
-  "institution": "(Chapter 31)Va Outpatient Clinic",
+  "institution": "(CHAPTER 31)VA OUTPATIENT CLINIC",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35801",
-  "email": false
+  "ope": null
 }

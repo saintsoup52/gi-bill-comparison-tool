@@ -1,6 +1,6 @@
 {
   "facility_code": "10444630",
-  "institution": "Atlantic City Police Department",
+  "institution": "ATLANTIC CITY POLICE DEPARTMENT",
   "city": "Atlantic City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8401",
-  "email": true
+  "ope": null
 }

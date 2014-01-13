@@ -1,6 +1,6 @@
 {
   "facility_code": "19000102",
-  "institution": "Us Dept Of The Air Force (Ch31)",
+  "institution": "US DEPT OF THE AIR FORCE (CH31)",
   "city": "Elmendorf Afb",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99506",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31802501",
-  "institution": "Embry-Riddle Aeronautical Univ Redstone",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV REDSTONE",
   "city": "Redstone Arsenal",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35898",
-  "email": true
+  "ope": "00147900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15013405",
-  "institution": "Los Angeles County Sheriff'S Dept.",
+  "institution": "LOS ANGELES COUNTY SHERIFF'S DEPT.",
   "city": "Whittier",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90604",
-  "email": false
+  "ope": null
 }

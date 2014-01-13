@@ -1,6 +1,6 @@
 {
   "facility_code": "15001018",
-  "institution": "Lafayette Adult Education Dept",
+  "institution": "LAFAYETTE ADULT EDUCATION DEPT",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70506",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10414146",
-  "institution": "Virginia State Police-#33",
+  "institution": "VIRGINIA STATE POLICE-#33",
   "city": "Gloucester",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23061",
-  "email": true
+  "ope": null
 }

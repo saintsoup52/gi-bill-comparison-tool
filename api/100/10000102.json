@@ -1,6 +1,6 @@
 {
   "facility_code": "10000102",
-  "institution": "Alaska Area Native Health Svcs",
+  "institution": "ALASKA AREA NATIVE HEALTH SVCS",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": false
+  "ope": null
 }

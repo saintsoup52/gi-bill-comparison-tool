@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16832",
-  "institution": "Nassau County Police Department - 6th Precinct",
+  "institution": "NASSAU COUNTY POLICE DEPARTMENT - 6TH PRECINCT",
   "city": "Manhasset",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11030",
-  "email": false
+  "ope": null
 }

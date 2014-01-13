@@ -1,6 +1,6 @@
 {
   "facility_code": "31003792",
-  "institution": "Universidad De Aquino Bolivia",
+  "institution": "UNIVERSIDAD DE AQUINO BOLIVIA",
   "city": "Santa Cruz",
   "state": "Bolivia",
   "country": "Bolivia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

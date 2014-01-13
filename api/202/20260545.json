@@ -1,6 +1,6 @@
 {
   "facility_code": "20260545",
-  "institution": "Village Of Johnson",
+  "institution": "VILLAGE OF JOHNSON",
   "city": "Johnson",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5656",
-  "email": false
+  "ope": null
 }

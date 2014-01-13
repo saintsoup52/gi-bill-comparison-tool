@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07901",
-  "institution": "(Ch31) Us Army Corps Of Engineers Mobile District",
+  "institution": "(CH31) US ARMY CORPS OF ENGINEERS MOBILE DISTRICT",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36621",
-  "email": false
+  "ope": null
 }

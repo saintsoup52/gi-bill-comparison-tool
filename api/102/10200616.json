@@ -1,6 +1,6 @@
 {
   "facility_code": "10200616",
-  "institution": "U.S. Dept. Of Veterans Affairs Regional Office-Wichita",
+  "institution": "U.S. DEPT. OF VETERANS AFFAIRS REGIONAL OFFICE-WICHITA",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67218",
-  "email": false
+  "ope": null
 }

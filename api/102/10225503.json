@@ -1,6 +1,6 @@
 {
   "facility_code": "10225503",
-  "institution": "Tucson Airport Authority Police Dept.",
+  "institution": "TUCSON AIRPORT AUTHORITY POLICE DEPT.",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85706",
-  "email": true
+  "ope": null
 }

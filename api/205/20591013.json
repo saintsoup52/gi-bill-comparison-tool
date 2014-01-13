@@ -1,6 +1,6 @@
 {
   "facility_code": "20591013",
-  "institution": "Norfolk Southern Corporation",
+  "institution": "NORFOLK SOUTHERN CORPORATION",
   "city": "Decatur",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62521",
-  "email": true
+  "ope": null
 }

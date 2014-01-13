@@ -1,6 +1,6 @@
 {
   "facility_code": "11800418",
-  "institution": "Louisiana State University - Eunice",
+  "institution": "LOUISIANA STATE UNIVERSITY - EUNICE",
   "city": "Eunice",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "70535",
-  "email": true
+  "ope": "00201200"
 }

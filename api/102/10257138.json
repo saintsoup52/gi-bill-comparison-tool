@@ -1,6 +1,6 @@
 {
   "facility_code": "10257138",
-  "institution": "Montgomery Township Police Dept",
+  "institution": "MONTGOMERY TOWNSHIP POLICE DEPT",
   "city": "Montgomeryville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18936",
-  "email": true
+  "ope": null
 }

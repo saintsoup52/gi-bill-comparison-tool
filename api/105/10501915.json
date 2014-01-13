@@ -1,6 +1,6 @@
 {
   "facility_code": "10501915",
-  "institution": "Clive Police Department",
+  "institution": "CLIVE POLICE DEPARTMENT",
   "city": "Clive",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50325",
-  "email": false
+  "ope": null
 }

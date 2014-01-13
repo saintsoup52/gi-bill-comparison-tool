@@ -1,6 +1,6 @@
 {
   "facility_code": "10544230",
-  "institution": "New Jersey Department Of Labor And Employment Service",
+  "institution": "NEW JERSEY DEPARTMENT OF LABOR AND EMPLOYMENT SERVICE",
   "city": "Plainfield",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7060",
-  "email": false
+  "ope": null
 }

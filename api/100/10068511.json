@@ -1,6 +1,6 @@
 {
   "facility_code": "10068511",
-  "institution": "Glennville Police Department",
+  "institution": "GLENNVILLE POLICE DEPARTMENT",
   "city": "Glennville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30427",
-  "email": true
+  "ope": null
 }

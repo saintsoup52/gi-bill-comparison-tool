@@ -1,6 +1,6 @@
 {
   "facility_code": "31810038",
-  "institution": "University Of Pennsylvania",
+  "institution": "UNIVERSITY OF PENNSYLVANIA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19104",
-  "email": true
+  "ope": "00337800"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10580511",
-  "institution": "East Dublin Police Dept",
+  "institution": "EAST DUBLIN POLICE DEPT",
   "city": "East Dublin",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31021",
-  "email": false
+  "ope": null
 }

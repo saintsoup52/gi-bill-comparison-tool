@@ -1,6 +1,6 @@
 {
   "facility_code": "10541331",
-  "institution": "Rio Rancho Fire Department",
+  "institution": "RIO RANCHO FIRE DEPARTMENT",
   "city": "Rio Rancho",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87124",
-  "email": false
+  "ope": null
 }

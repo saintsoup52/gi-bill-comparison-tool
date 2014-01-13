@@ -1,6 +1,6 @@
 {
   "facility_code": "10053111",
-  "institution": "Georgia Department Of Labor (Covington)",
+  "institution": "GEORGIA DEPARTMENT OF LABOR (COVINGTON)",
   "city": "Covington",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30015",
-  "email": false
+  "ope": null
 }

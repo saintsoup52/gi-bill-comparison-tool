@@ -1,6 +1,6 @@
 {
   "facility_code": "20971910",
-  "institution": "Tampa Electric Ijw",
+  "institution": "TAMPA ELECTRIC IJW",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33601",
-  "email": true
+  "ope": null
 }

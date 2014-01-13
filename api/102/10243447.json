@@ -1,6 +1,6 @@
 {
   "facility_code": "10243447",
-  "institution": "Us Dept Of The Army Engineer Program",
+  "institution": "US DEPT OF THE ARMY ENGINEER PROGRAM",
   "city": "Ft Lewis",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98433",
-  "email": false
+  "ope": null
 }

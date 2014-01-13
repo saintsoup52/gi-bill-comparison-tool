@@ -1,6 +1,6 @@
 {
   "facility_code": "102B3005",
-  "institution": "Faa-  High Desert Tracon",
+  "institution": "FAA-  HIGH DESERT TRACON",
   "city": "Edwards Afb",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93524",
-  "email": true
+  "ope": null
 }

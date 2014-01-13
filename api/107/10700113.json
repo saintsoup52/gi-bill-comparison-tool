@@ -1,6 +1,6 @@
 {
   "facility_code": "10700113",
-  "institution": "Illinois Dept Of Employment Security",
+  "institution": "ILLINOIS DEPT OF EMPLOYMENT SECURITY",
   "city": "Pekin",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61554",
-  "email": true
+  "ope": null
 }

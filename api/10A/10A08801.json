@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08801",
-  "institution": "Eclectic Police Department",
+  "institution": "ECLECTIC POLICE DEPARTMENT",
   "city": "Eclectic",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36024",
-  "email": false
+  "ope": null
 }

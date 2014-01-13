@@ -1,6 +1,6 @@
 {
   "facility_code": "10008442",
-  "institution": "Federal Bureau Of Prisons Federal Correctional Institution - Memphis",
+  "institution": "FEDERAL BUREAU OF PRISONS FEDERAL CORRECTIONAL INSTITUTION - MEMPHIS",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38134",
-  "email": false
+  "ope": null
 }

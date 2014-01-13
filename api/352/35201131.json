@@ -1,6 +1,6 @@
 {
   "facility_code": "35201131",
-  "institution": "Albuquerque Academy",
+  "institution": "ALBUQUERQUE ACADEMY",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87109",
-  "email": false
+  "ope": null
 }

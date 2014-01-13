@@ -1,6 +1,6 @@
 {
   "facility_code": "10550830",
-  "institution": "Stillwater Police Department",
+  "institution": "STILLWATER POLICE DEPARTMENT",
   "city": "Newton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7860",
-  "email": false
+  "ope": null
 }

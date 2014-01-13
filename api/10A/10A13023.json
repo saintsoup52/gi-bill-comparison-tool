@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13023",
-  "institution": "St Paul Dept Of Fire And Safety Services",
+  "institution": "ST PAUL DEPT OF FIRE AND SAFETY SERVICES",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55108",
-  "email": false
+  "ope": null
 }

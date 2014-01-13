@@ -1,6 +1,6 @@
 {
   "facility_code": "10822521",
-  "institution": "Brockton Fire Department (Apprentice Program)",
+  "institution": "BROCKTON FIRE DEPARTMENT (APPRENTICE PROGRAM)",
   "city": "Brockton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2301",
-  "email": true
+  "ope": null
 }

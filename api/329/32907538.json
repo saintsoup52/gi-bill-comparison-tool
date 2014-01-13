@@ -1,6 +1,6 @@
 {
   "facility_code": "32907538",
-  "institution": "Pennsylvania Hospital",
+  "institution": "PENNSYLVANIA HOSPITAL",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19107",
-  "email": true
+  "ope": null
 }

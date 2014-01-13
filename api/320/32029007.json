@@ -1,6 +1,6 @@
 {
   "facility_code": "32029007",
-  "institution": "Danbury Hospital (Dhca) Etr",
+  "institution": "DANBURY HOSPITAL (DHCA) ETR",
   "city": "Danbury",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6810",
-  "email": true
+  "ope": null
 }

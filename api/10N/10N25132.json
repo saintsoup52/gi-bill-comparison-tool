@@ -1,6 +1,6 @@
 {
   "facility_code": "10N25132",
-  "institution": "City Of Troy Police Department",
+  "institution": "CITY OF TROY POLICE DEPARTMENT",
   "city": "Troy",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12180",
-  "email": false
+  "ope": null
 }

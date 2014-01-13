@@ -1,6 +1,6 @@
 {
   "facility_code": "10022119",
-  "institution": "Ellsworth Police Department",
+  "institution": "ELLSWORTH POLICE DEPARTMENT",
   "city": "Ellsworth",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4605",
-  "email": false
+  "ope": null
 }

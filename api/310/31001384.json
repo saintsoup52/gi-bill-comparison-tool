@@ -1,6 +1,6 @@
 {
   "facility_code": "31001384",
-  "institution": "Universita Degli Studi Dell'Aquila",
+  "institution": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
   "city": "L'Aquila",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

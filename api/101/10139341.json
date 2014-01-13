@@ -1,6 +1,6 @@
 {
   "facility_code": "10139341",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57108",
-  "email": false
+  "ope": null
 }

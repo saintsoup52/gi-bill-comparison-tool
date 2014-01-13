@@ -1,6 +1,6 @@
 {
   "facility_code": "10019549",
-  "institution": "Stevens Point Police Department City Of",
+  "institution": "STEVENS POINT POLICE DEPARTMENT CITY OF",
   "city": "Stevens Point",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54406",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20241234",
-  "institution": "Basin Electric Power Cooperative",
+  "institution": "BASIN ELECTRIC POWER COOPERATIVE",
   "city": "Mandan",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58554",
-  "email": false
+  "ope": null
 }

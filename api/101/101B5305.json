@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5305",
-  "institution": "State Of California Employment Development Dept.  (Sacramento)",
+  "institution": "STATE OF CALIFORNIA EMPLOYMENT DEVELOPMENT DEPT.  (SACRAMENTO)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95817",
-  "email": false
+  "ope": null
 }

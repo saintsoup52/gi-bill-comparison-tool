@@ -1,6 +1,6 @@
 {
   "facility_code": "31000533",
-  "institution": "Elon University",
+  "institution": "ELON UNIVERSITY",
   "city": "Elon",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "27244",
-  "email": true
+  "ope": "00292700"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10839621",
-  "institution": "Milton Fire Department",
+  "institution": "MILTON FIRE DEPARTMENT",
   "city": "Milton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2186",
-  "email": true
+  "ope": null
 }

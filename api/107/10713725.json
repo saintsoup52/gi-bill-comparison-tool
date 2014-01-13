@@ -1,6 +1,6 @@
 {
   "facility_code": "10713725",
-  "institution": "Monroe County Sheriff Department",
+  "institution": "MONROE COUNTY SHERIFF DEPARTMENT",
   "city": "Paris",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65275",
-  "email": true
+  "ope": null
 }

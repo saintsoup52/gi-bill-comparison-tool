@@ -1,6 +1,6 @@
 {
   "facility_code": "11002704",
-  "institution": "University Of Central Arkansas",
+  "institution": "UNIVERSITY OF CENTRAL ARKANSAS",
   "city": "Conway",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72035",
-  "email": true
+  "ope": "00109200"
 }

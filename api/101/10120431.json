@@ -1,6 +1,6 @@
 {
   "facility_code": "10120431",
-  "institution": "City Of Farmington Electrical Utility System",
+  "institution": "CITY OF FARMINGTON ELECTRICAL UTILITY SYSTEM",
   "city": "Farmingtion",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87401",
-  "email": true
+  "ope": null
 }

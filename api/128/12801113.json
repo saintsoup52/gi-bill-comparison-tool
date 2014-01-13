@@ -1,6 +1,6 @@
 {
   "facility_code": "12801113",
-  "institution": "Va Hospital",
+  "institution": "VA HOSPITAL",
   "city": "Hines",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60141",
-  "email": false
+  "ope": "02232600"
 }

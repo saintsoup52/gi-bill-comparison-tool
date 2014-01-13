@@ -1,6 +1,6 @@
 {
   "facility_code": "10000106",
-  "institution": "Governors Office Of Information Technology",
+  "institution": "GOVERNORS OFFICE OF INFORMATION TECHNOLOGY",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80203",
-  "email": false
+  "ope": null
 }

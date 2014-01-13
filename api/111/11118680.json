@@ -1,6 +1,6 @@
 {
   "facility_code": "11118680",
-  "institution": "Hochschule Anhalt (Fh)",
+  "institution": "HOCHSCHULE ANHALT (FH)",
   "city": "Dessau-Rosslau",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

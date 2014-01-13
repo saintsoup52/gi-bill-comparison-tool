@@ -1,6 +1,6 @@
 {
   "facility_code": "10036811",
-  "institution": "Conyers Police Department",
+  "institution": "CONYERS POLICE DEPARTMENT",
   "city": "Conyers",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30012",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "13000313",
-  "institution": "Northeastern Illinois University",
+  "institution": "NORTHEASTERN ILLINOIS UNIVERSITY",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60625",
-  "email": true
+  "ope": "00169300"
 }

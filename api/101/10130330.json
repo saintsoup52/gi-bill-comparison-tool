@@ -1,6 +1,6 @@
 {
   "facility_code": "10130330",
-  "institution": "Sea Isle City Police Department",
+  "institution": "SEA ISLE CITY POLICE DEPARTMENT",
   "city": "Sea Isle City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8243",
-  "email": false
+  "ope": null
 }

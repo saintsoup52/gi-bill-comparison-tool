@@ -1,6 +1,6 @@
 {
   "facility_code": "10033450",
-  "institution": "Cheyenne Fire And Rescue",
+  "institution": "CHEYENNE FIRE AND RESCUE",
   "city": "Cheyenne",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82001",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "46001020",
-  "institution": "Nat'L Bd For Certification In Occupational Therapy",
+  "institution": "NAT'L BD FOR CERTIFICATION IN OCCUPATIONAL THERAPY",
   "city": "Gaithersburg",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20877",
-  "email": true
+  "ope": null
 }

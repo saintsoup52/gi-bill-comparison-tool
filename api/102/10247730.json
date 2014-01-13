@@ -1,6 +1,6 @@
 {
   "facility_code": "10247730",
-  "institution": "Livingston Police Department",
+  "institution": "LIVINGSTON POLICE DEPARTMENT",
   "city": "Livingston",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7039",
-  "email": true
+  "ope": null
 }

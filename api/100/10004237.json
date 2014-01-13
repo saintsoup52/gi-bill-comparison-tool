@@ -1,6 +1,6 @@
 {
   "facility_code": "10004237",
-  "institution": "Medford Police Department",
+  "institution": "MEDFORD POLICE DEPARTMENT",
   "city": "Medford",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97501",
-  "email": true
+  "ope": null
 }

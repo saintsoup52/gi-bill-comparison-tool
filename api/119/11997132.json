@@ -1,6 +1,6 @@
 {
   "facility_code": "11997132",
-  "institution": "Suny Binghamton University",
+  "institution": "SUNY BINGHAMTON UNIVERSITY",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "13902",
-  "email": true
+  "ope": "00283600"
 }

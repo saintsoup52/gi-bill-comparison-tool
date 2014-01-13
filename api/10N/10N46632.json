@@ -1,6 +1,6 @@
 {
   "facility_code": "10N46632",
-  "institution": "U.S. Citizenship And Immigration Services - Dept. Of Homeland Security",
+  "institution": "U.S. CITIZENSHIP AND IMMIGRATION SERVICES - DEPT. OF HOMELAND SECURITY",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14202",
-  "email": true
+  "ope": null
 }

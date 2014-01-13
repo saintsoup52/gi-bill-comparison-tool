@@ -1,6 +1,6 @@
 {
   "facility_code": "15025006",
-  "institution": "Pikes Peak Boces",
+  "institution": "PIKES PEAK BOCES",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80915",
-  "email": false
+  "ope": null
 }

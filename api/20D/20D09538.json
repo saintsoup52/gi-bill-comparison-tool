@@ -1,6 +1,6 @@
 {
   "facility_code": "20D09538",
-  "institution": "Acme Uniform Co",
+  "institution": "ACME UNIFORM CO",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19134",
-  "email": "No (SCO)"
+  "ope": null
 }

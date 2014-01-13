@@ -1,6 +1,6 @@
 {
   "facility_code": "10N42332",
-  "institution": "New York State Dept. Of Transportation Region 9",
+  "institution": "NEW YORK STATE DEPT. OF TRANSPORTATION REGION 9",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13902",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20100350",
-  "institution": "Wyoming Electrical Jatc",
+  "institution": "WYOMING ELECTRICAL JATC",
   "city": "Casper",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82601",
-  "email": true
+  "ope": null
 }

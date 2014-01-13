@@ -1,6 +1,6 @@
 {
   "facility_code": "20103335",
-  "institution": "General Electric Company  K",
+  "institution": "GENERAL ELECTRIC COMPANY  K",
   "city": "Conneaut",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44030",
-  "email": false
+  "ope": null
 }

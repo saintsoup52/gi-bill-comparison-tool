@@ -1,6 +1,6 @@
 {
   "facility_code": "10483048",
-  "institution": "Federal Bureau Of Alcohol Tobacco Firearms And Explosives",
+  "institution": "FEDERAL BUREAU OF ALCOHOL TOBACCO FIREARMS AND EXPLOSIVES",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25301",
-  "email": false
+  "ope": null
 }

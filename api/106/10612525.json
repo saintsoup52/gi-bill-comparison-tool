@@ -1,6 +1,6 @@
 {
   "facility_code": "10612525",
-  "institution": "Camden County Sheriff'S Dept.",
+  "institution": "CAMDEN COUNTY SHERIFF'S DEPT.",
   "city": "Camdenton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65020",
-  "email": false
+  "ope": null
 }

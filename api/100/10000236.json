@@ -1,6 +1,6 @@
 {
   "facility_code": "10000236",
-  "institution": "Tuttle Police Department",
+  "institution": "TUTTLE POLICE DEPARTMENT",
   "city": "Tuttle",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73089",
-  "email": false
+  "ope": null
 }

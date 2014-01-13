@@ -1,6 +1,6 @@
 {
   "facility_code": "11102878",
-  "institution": "Tel Aviv University",
+  "institution": "TEL AVIV UNIVERSITY",
   "city": "Ramat Aviv",
   "state": "Israel (Tel Aviv)",
   "country": "Israel (Tel Aviv)",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20D10133",
-  "institution": "Duke University Police Department",
+  "institution": "DUKE UNIVERSITY POLICE DEPARTMENT",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27708",
-  "email": true
+  "ope": null
 }

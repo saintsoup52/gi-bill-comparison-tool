@@ -1,6 +1,6 @@
 {
   "facility_code": "10565613",
-  "institution": "Dixon Correctional Center",
+  "institution": "DIXON CORRECTIONAL CENTER",
   "city": "Dixon",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61021",
-  "email": false
+  "ope": null
 }

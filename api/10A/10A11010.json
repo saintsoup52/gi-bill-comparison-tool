@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11010",
-  "institution": "U.S. Immigration & Customs Enforcement (Ice)- Office Of Investigations - Tampa",
+  "institution": "U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)- OFFICE OF INVESTIGATIONS - TAMPA",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33607",
-  "email": true
+  "ope": null
 }

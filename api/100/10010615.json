@@ -1,6 +1,6 @@
 {
   "facility_code": "10010615",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Knoxville",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50138",
-  "email": false
+  "ope": null
 }

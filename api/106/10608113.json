@@ -1,6 +1,6 @@
 {
   "facility_code": "10608113",
-  "institution": "East St Louis Police Department",
+  "institution": "EAST ST LOUIS POLICE DEPARTMENT",
   "city": "East St Louis",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62201",
-  "email": true
+  "ope": null
 }

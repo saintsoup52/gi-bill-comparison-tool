@@ -1,6 +1,6 @@
 {
   "facility_code": "20408846",
-  "institution": "Alphagraphics",
+  "institution": "ALPHAGRAPHICS",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23219",
-  "email": false
+  "ope": null
 }

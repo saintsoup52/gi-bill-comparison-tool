@@ -1,6 +1,6 @@
 {
   "facility_code": "103B1405",
-  "institution": "Social Security Administration(Chatsworth)(Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(CHATSWORTH)(CH31 ONLY)",
   "city": "Chatsworth",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91311",
-  "email": false
+  "ope": null
 }

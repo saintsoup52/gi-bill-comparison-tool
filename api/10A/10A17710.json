@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17710",
-  "institution": "Social Security Administration Field Office (Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION FIELD OFFICE (CH31 ONLY)",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32212",
-  "email": true
+  "ope": null
 }

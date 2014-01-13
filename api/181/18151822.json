@@ -1,6 +1,6 @@
 {
   "facility_code": "18151822",
-  "institution": "City Of Detroit/ Department Of Health",
+  "institution": "CITY OF DETROIT/ DEPARTMENT OF HEALTH",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48202",
-  "email": false
+  "ope": "03010900"
 }

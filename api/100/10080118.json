@@ -1,6 +1,6 @@
 {
   "facility_code": "10080118",
-  "institution": "Sulphur Police Department",
+  "institution": "SULPHUR POLICE DEPARTMENT",
   "city": "Sulphur",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70663",
-  "email": true
+  "ope": null
 }

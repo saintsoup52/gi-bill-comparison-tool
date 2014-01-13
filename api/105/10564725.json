@@ -1,6 +1,6 @@
 {
   "facility_code": "10564725",
-  "institution": "Missouri Dept Of Corrections Central Office",
+  "institution": "MISSOURI DEPT OF CORRECTIONS CENTRAL OFFICE",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65102",
-  "email": false
+  "ope": null
 }

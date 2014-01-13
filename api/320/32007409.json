@@ -1,6 +1,6 @@
 {
   "facility_code": "32007409",
-  "institution": "National Rehabilitation Hospital",
+  "institution": "NATIONAL REHABILITATION HOSPITAL",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20010",
-  "email": false
+  "ope": null
 }

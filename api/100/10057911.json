@@ -1,6 +1,6 @@
 {
   "facility_code": "10057911",
-  "institution": "Georgia Power Company - Plant Bowen",
+  "institution": "GEORGIA POWER COMPANY - PLANT BOWEN",
   "city": "Cartersville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30120",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30M55832",
-  "institution": "District Council No 9",
+  "institution": "DISTRICT COUNCIL NO 9",
   "city": "Poughkeepsie",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12602",
-  "email": false
+  "ope": null
 }

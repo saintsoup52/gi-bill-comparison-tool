@@ -1,6 +1,6 @@
 {
   "facility_code": "10C31243",
-  "institution": "Defense Contract Management Agency Dallas",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY DALLAS",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75201",
-  "email": true
+  "ope": null
 }

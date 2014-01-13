@@ -1,6 +1,6 @@
 {
   "facility_code": "10592330",
-  "institution": "Port Authority Trans Hudson",
+  "institution": "PORT AUTHORITY TRANS HUDSON",
   "city": "Harrison",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7029",
-  "email": false
+  "ope": null
 }

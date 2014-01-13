@@ -1,6 +1,6 @@
 {
   "facility_code": "10063911",
-  "institution": "Douglasville Police Department",
+  "institution": "DOUGLASVILLE POLICE DEPARTMENT",
   "city": "Douglasville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30135",
-  "email": true
+  "ope": null
 }

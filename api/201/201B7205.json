@@ -1,6 +1,6 @@
 {
   "facility_code": "201B7205",
-  "institution": "Wy Mfg. Inc.",
+  "institution": "WY MFG. INC.",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92701",
-  "email": false
+  "ope": null
 }

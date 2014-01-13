@@ -1,6 +1,6 @@
 {
   "facility_code": "10626140",
-  "institution": "Turbeville Correctional Institution",
+  "institution": "TURBEVILLE CORRECTIONAL INSTITUTION",
   "city": "Turbeville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29162",
-  "email": true
+  "ope": null
 }

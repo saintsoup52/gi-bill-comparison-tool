@@ -1,6 +1,6 @@
 {
   "facility_code": "10443715",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52240",
-  "email": false
+  "ope": null
 }

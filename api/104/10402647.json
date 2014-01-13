@@ -1,6 +1,6 @@
 {
   "facility_code": "10402647",
-  "institution": "Seatac Federal Detention Center",
+  "institution": "SEATAC FEDERAL DETENTION CENTER",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98198",
-  "email": true
+  "ope": null
 }

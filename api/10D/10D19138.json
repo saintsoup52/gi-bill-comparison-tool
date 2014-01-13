@@ -1,6 +1,6 @@
 {
   "facility_code": "10D19138",
-  "institution": "Mifflin County Regional Police",
+  "institution": "MIFFLIN COUNTY REGIONAL POLICE",
   "city": "Yeagertown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17099",
-  "email": false
+  "ope": null
 }

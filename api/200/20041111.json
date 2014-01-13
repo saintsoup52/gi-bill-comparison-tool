@@ -1,6 +1,6 @@
 {
   "facility_code": "20041111",
-  "institution": "Datum Software",
+  "institution": "DATUM SOFTWARE",
   "city": "Duluth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30097",
-  "email": false
+  "ope": null
 }

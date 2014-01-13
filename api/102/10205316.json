@@ -1,6 +1,6 @@
 {
   "facility_code": "10205316",
-  "institution": "Va Wichita Benefits Division",
+  "institution": "VA WICHITA BENEFITS DIVISION",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67218",
-  "email": false
+  "ope": null
 }

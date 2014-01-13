@@ -1,6 +1,6 @@
 {
   "facility_code": "10536431",
-  "institution": "Nm Department Of Workforce Solutions",
+  "institution": "NM DEPARTMENT OF WORKFORCE SOLUTIONS",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87102",
-  "email": true
+  "ope": null
 }

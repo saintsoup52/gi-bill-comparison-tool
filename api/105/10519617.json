@@ -1,6 +1,6 @@
 {
   "facility_code": "10519617",
-  "institution": "West Ky Correctional Complex",
+  "institution": "WEST KY CORRECTIONAL COMPLEX",
   "city": "Fredonia",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42411",
-  "email": true
+  "ope": null
 }

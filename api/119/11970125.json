@@ -1,6 +1,6 @@
 {
   "facility_code": "11970125",
-  "institution": "Missouri Western State University Veterans Office",
+  "institution": "MISSOURI WESTERN STATE UNIVERSITY VETERANS OFFICE",
   "city": "St. Joseph",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "64507",
-  "email": true
+  "ope": "00249000"
 }

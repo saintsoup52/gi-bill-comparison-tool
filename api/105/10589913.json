@@ -1,6 +1,6 @@
 {
   "facility_code": "10589913",
-  "institution": "Palos Hills Police Department",
+  "institution": "PALOS HILLS POLICE DEPARTMENT",
   "city": "Palos Hills",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60454",
-  "email": false
+  "ope": null
 }

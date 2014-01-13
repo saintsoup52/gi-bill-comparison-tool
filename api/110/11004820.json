@@ -1,6 +1,6 @@
 {
   "facility_code": "11004820",
-  "institution": "Troy Univ Nnmc",
+  "institution": "TROY UNIV NNMC",
   "city": "Bethesda",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20889",
-  "email": true
+  "ope": "00104700"
 }

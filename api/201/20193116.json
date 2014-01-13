@@ -1,6 +1,6 @@
 {
   "facility_code": "20193116",
-  "institution": "General Motors Corp-Fairfax Plant",
+  "institution": "GENERAL MOTORS CORP-FAIRFAX PLANT",
   "city": "Kansas City",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66115",
-  "email": false
+  "ope": null
 }

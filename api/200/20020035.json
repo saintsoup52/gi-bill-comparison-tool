@@ -1,6 +1,6 @@
 {
   "facility_code": "20020035",
-  "institution": "Mfd Gm Mansfield K",
+  "institution": "MFD GM MANSFIELD K",
   "city": "Mansfield",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44906",
-  "email": false
+  "ope": null
 }

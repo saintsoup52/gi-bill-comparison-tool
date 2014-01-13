@@ -1,6 +1,6 @@
 {
   "facility_code": "20D11233",
-  "institution": "North Carolina Baptist Hospital Security Department",
+  "institution": "NORTH CAROLINA BAPTIST HOSPITAL SECURITY DEPARTMENT",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27157",
-  "email": true
+  "ope": null
 }

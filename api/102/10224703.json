@@ -1,6 +1,6 @@
 {
   "facility_code": "10224703",
-  "institution": "Pima County Attorney'S Office (Ch31)",
+  "institution": "PIMA COUNTY ATTORNEY'S OFFICE (CH31)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85701",
-  "email": false
+  "ope": null
 }

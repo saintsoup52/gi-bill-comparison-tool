@@ -1,6 +1,6 @@
 {
   "facility_code": "10654340",
-  "institution": "City Of Myrtle Beach",
+  "institution": "CITY OF MYRTLE BEACH",
   "city": "Myrtle Beach",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29578",
-  "email": true
+  "ope": null
 }

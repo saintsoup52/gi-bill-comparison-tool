@@ -1,6 +1,6 @@
 {
   "facility_code": "10004146",
-  "institution": "Norfolk Naval Shipyard",
+  "institution": "NORFOLK NAVAL SHIPYARD",
   "city": "Portsmouth",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23709",
-  "email": true
+  "ope": null
 }

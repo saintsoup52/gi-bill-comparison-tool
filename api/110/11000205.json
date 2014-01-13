@@ -1,6 +1,6 @@
 {
   "facility_code": "11000205",
-  "institution": "San Jose State University (Chap 31 Only)",
+  "institution": "SAN JOSE STATE UNIVERSITY (CHAP 31 ONLY)",
   "city": "Salinas",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93901",
-  "email": "No (SCO)"
+  "ope": "00115500"
 }

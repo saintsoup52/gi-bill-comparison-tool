@@ -1,6 +1,6 @@
 {
   "facility_code": "10075811",
-  "institution": "Social Security Administration (Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (CH31 ONLY)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30303",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15052221",
-  "institution": "Lowell Municipal Police Academy",
+  "institution": "LOWELL MUNICIPAL POLICE ACADEMY",
   "city": "Lowell",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1852",
-  "email": true
+  "ope": null
 }

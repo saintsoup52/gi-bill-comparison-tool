@@ -1,6 +1,6 @@
 {
   "facility_code": "20513146",
-  "institution": "Boeing Aerospace Operations-F22 Flight Simulator",
+  "institution": "BOEING AEROSPACE OPERATIONS-F22 FLIGHT SIMULATOR",
   "city": "Langley Afb",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23665",
-  "email": false
+  "ope": null
 }

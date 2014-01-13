@@ -1,6 +1,6 @@
 {
   "facility_code": "24007905",
-  "institution": "Angeles College",
+  "institution": "ANGELES COLLEGE",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90010",
-  "email": true
+  "ope": null
 }

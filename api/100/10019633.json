@@ -1,6 +1,6 @@
 {
   "facility_code": "10019633",
-  "institution": "Ncdoc - Craggy Correctional Center",
+  "institution": "NCDOC - CRAGGY CORRECTIONAL CENTER",
   "city": "Asheville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28814",
-  "email": true
+  "ope": null
 }

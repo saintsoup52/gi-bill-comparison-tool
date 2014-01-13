@@ -1,6 +1,6 @@
 {
   "facility_code": "10004511",
-  "institution": "Helen Police Department",
+  "institution": "HELEN POLICE DEPARTMENT",
   "city": "Helen",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30545",
-  "email": false
+  "ope": null
 }

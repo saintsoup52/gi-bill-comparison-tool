@@ -1,6 +1,6 @@
 {
   "facility_code": "12000263",
-  "institution": "Va Hospital (Ch31)",
+  "institution": "VA HOSPITAL (CH31)",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "927",
-  "email": "No (SCO)"
+  "ope": null
 }

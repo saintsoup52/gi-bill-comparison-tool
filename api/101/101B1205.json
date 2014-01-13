@@ -1,6 +1,6 @@
 {
   "facility_code": "101B1205",
-  "institution": "State Of California- Edd Oakland",
+  "institution": "STATE OF CALIFORNIA- EDD OAKLAND",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94621",
-  "email": false
+  "ope": null
 }

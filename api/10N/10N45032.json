@@ -1,6 +1,6 @@
 {
   "facility_code": "10N45032",
-  "institution": "New York State Department Of Transportation - Genesee Orleans Batavia",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - GENESEE ORLEANS BATAVIA",
   "city": "Batavia",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14020",
-  "email": true
+  "ope": null
 }

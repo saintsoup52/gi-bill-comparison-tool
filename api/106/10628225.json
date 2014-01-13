@@ -1,6 +1,6 @@
 {
   "facility_code": "10628225",
-  "institution": "St. Joseph Police Dept.",
+  "institution": "ST. JOSEPH POLICE DEPT.",
   "city": "St. Joseph",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64501",
-  "email": false
+  "ope": null
 }

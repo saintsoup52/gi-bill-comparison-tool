@@ -1,6 +1,6 @@
 {
   "facility_code": "10118239",
-  "institution": "Bristol Police Department",
+  "institution": "BRISTOL POLICE DEPARTMENT",
   "city": "Bristol",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2809",
-  "email": true
+  "ope": null
 }

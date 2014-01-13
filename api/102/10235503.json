@@ -1,6 +1,6 @@
 {
   "facility_code": "10235503",
-  "institution": "Equal Employment Opportunity Commission",
+  "institution": "EQUAL EMPLOYMENT OPPORTUNITY COMMISSION",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85012",
-  "email": false
+  "ope": null
 }

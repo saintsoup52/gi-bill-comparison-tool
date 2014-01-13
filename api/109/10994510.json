@@ -1,6 +1,6 @@
 {
   "facility_code": "10994510",
-  "institution": "Satellite Beach Police Department",
+  "institution": "SATELLITE BEACH POLICE DEPARTMENT",
   "city": "Satellite Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32937",
-  "email": true
+  "ope": null
 }

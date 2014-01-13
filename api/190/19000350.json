@@ -1,6 +1,6 @@
 {
   "facility_code": "19000350",
-  "institution": "Dept Of Employment Resources - State Of Wyoming",
+  "institution": "DEPT OF EMPLOYMENT RESOURCES - STATE OF WYOMING",
   "city": "Laramie",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82070",
-  "email": false
+  "ope": null
 }

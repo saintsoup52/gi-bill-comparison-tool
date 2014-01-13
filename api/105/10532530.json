@@ -1,6 +1,6 @@
 {
   "facility_code": "10532530",
-  "institution": "Moonachie Police Department",
+  "institution": "MOONACHIE POLICE DEPARTMENT",
   "city": "Moonachie",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7074",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10V00138",
-  "institution": "Department Of Veterans Affairs - Phila",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS - PHILA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19144",
-  "email": true
+  "ope": null
 }

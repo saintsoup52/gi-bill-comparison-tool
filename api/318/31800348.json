@@ -1,6 +1,6 @@
 {
   "facility_code": "31800348",
-  "institution": "University Of Charleston-Beckley",
+  "institution": "UNIVERSITY OF CHARLESTON-BECKLEY",
   "city": "Beckley",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25801",
-  "email": true
+  "ope": null
 }

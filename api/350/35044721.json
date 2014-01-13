@@ -1,6 +1,6 @@
 {
   "facility_code": "35044721",
-  "institution": "Milford-Whitinsville Regional Hospital",
+  "institution": "MILFORD-WHITINSVILLE REGIONAL HOSPITAL",
   "city": "Milford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1757",
-  "email": false
+  "ope": null
 }

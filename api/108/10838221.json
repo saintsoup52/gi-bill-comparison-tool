@@ -1,6 +1,6 @@
 {
   "facility_code": "10838221",
-  "institution": "Usaf Electronic Systems Center Hanscom Afb Bedford Ma   01731",
+  "institution": "USAF ELECTRONIC SYSTEMS CENTER HANSCOM AFB BEDFORD MA   01731",
   "city": "Bedford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1731",
-  "email": true
+  "ope": null
 }

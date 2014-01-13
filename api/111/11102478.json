@@ -1,6 +1,6 @@
 {
   "facility_code": "11102478",
-  "institution": "Vilnius Gediminas Technical University",
+  "institution": "VILNIUS GEDIMINAS TECHNICAL UNIVERSITY",
   "city": "Lt-10223 Vilnius",
   "state": "Lithuania",
   "country": "Lithuania",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

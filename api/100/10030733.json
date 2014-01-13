@@ -1,6 +1,6 @@
 {
   "facility_code": "10030733",
-  "institution": "Social Security Administration ~ Winston Salem",
+  "institution": "SOCIAL SECURITY ADMINISTRATION ~ WINSTON SALEM",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27103",
-  "email": true
+  "ope": null
 }

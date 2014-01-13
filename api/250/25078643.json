@@ -1,6 +1,6 @@
 {
   "facility_code": "25078643",
-  "institution": "The Dive Shop",
+  "institution": "THE DIVE SHOP",
   "city": "Lufkin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75901",
-  "email": false
+  "ope": null
 }

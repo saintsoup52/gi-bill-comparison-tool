@@ -1,6 +1,6 @@
 {
   "facility_code": "10715364",
-  "institution": "Faa Kauai Ssc",
+  "institution": "FAA KAUAI SSC",
   "city": "Lihue",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96766",
-  "email": false
+  "ope": null
 }

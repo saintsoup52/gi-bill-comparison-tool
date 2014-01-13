@@ -1,6 +1,6 @@
 {
   "facility_code": "10578413",
-  "institution": "Freeport Police Department",
+  "institution": "FREEPORT POLICE DEPARTMENT",
   "city": "Freeport",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61032",
-  "email": true
+  "ope": null
 }

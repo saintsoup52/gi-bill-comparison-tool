@@ -1,6 +1,6 @@
 {
   "facility_code": "35000428",
-  "institution": "New Horizons Center For Learning",
+  "institution": "NEW HORIZONS CENTER FOR LEARNING",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89146",
-  "email": false
+  "ope": null
 }

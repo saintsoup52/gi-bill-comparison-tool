@@ -1,6 +1,6 @@
 {
   "facility_code": "10615040",
-  "institution": "Walhalla Police Department",
+  "institution": "WALHALLA POLICE DEPARTMENT",
   "city": "Walhalla",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29691",
-  "email": false
+  "ope": null
 }

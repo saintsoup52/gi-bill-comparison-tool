@@ -1,6 +1,6 @@
 {
   "facility_code": "21970107",
-  "institution": "Post University",
+  "institution": "POST UNIVERSITY",
   "city": "Waterbury",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6723",
-  "email": true
+  "ope": "00140100"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10835321",
-  "institution": "Mattapoisett Police Department",
+  "institution": "MATTAPOISETT POLICE DEPARTMENT",
   "city": "Mattapoisett",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2739",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11100486",
-  "institution": "Universidad Autonoma Del Estado De Mexico",
+  "institution": "UNIVERSIDAD AUTONOMA DEL ESTADO DE MEXICO",
   "city": "Toluca Estado Cp500",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

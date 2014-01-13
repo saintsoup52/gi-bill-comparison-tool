@@ -1,6 +1,6 @@
 {
   "facility_code": "20A98523",
-  "institution": "Potlatch Corp Of Cloquet",
+  "institution": "POTLATCH CORP OF CLOQUET",
   "city": "Cloquet",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55720",
-  "email": false
+  "ope": null
 }

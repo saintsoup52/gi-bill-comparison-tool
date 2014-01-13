@@ -1,6 +1,6 @@
 {
   "facility_code": "10021633",
-  "institution": "City Of Fayetteville Fire Department",
+  "institution": "CITY OF FAYETTEVILLE FIRE DEPARTMENT",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28301",
-  "email": true
+  "ope": null
 }

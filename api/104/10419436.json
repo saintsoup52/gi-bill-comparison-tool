@@ -1,6 +1,6 @@
 {
   "facility_code": "10419436",
-  "institution": "Muskogee Police Department",
+  "institution": "MUSKOGEE POLICE DEPARTMENT",
   "city": "Muskogee",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74401",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10037811",
-  "institution": "Georgia State Patrol - Post 42 (Rincon)",
+  "institution": "GEORGIA STATE PATROL - POST 42 (RINCON)",
   "city": "Rincon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31326",
-  "email": false
+  "ope": null
 }

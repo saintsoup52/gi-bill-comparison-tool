@@ -1,6 +1,6 @@
 {
   "facility_code": "11026418",
-  "institution": "Louisiana Tech University - Barksdale Afb",
+  "institution": "LOUISIANA TECH UNIVERSITY - BARKSDALE AFB",
   "city": "Barksdale Afb",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71110",
-  "email": true
+  "ope": "00200800"
 }

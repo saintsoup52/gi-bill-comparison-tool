@@ -1,6 +1,6 @@
 {
   "facility_code": "28070522",
-  "institution": "Select Beauty Academy",
+  "institution": "SELECT BEAUTY ACADEMY",
   "city": "Jackson",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49201",
-  "email": false
+  "ope": null
 }

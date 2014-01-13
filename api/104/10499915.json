@@ -1,6 +1,6 @@
 {
   "facility_code": "10499915",
-  "institution": "Fairfield Police Department",
+  "institution": "FAIRFIELD POLICE DEPARTMENT",
   "city": "Fairfield",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52556",
-  "email": true
+  "ope": null
 }

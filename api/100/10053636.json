@@ -1,6 +1,6 @@
 {
   "facility_code": "10053636",
-  "institution": "Us Marshals Service - Western District Of Oklahoma",
+  "institution": "US MARSHALS SERVICE - WESTERN DISTRICT OF OKLAHOMA",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73102",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10516617",
-  "institution": "West Liberty Police Department",
+  "institution": "WEST LIBERTY POLICE DEPARTMENT",
   "city": "West Liberty",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41472",
-  "email": false
+  "ope": null
 }

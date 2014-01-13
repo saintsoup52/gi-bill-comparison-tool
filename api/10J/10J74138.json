@@ -1,6 +1,6 @@
 {
   "facility_code": "10J74138",
-  "institution": "Fdc Phila - Federal Bureau Of Prisons",
+  "institution": "FDC PHILA - FEDERAL BUREAU OF PRISONS",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": true
+  "ope": null
 }

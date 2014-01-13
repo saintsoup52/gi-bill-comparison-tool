@@ -1,6 +1,6 @@
 {
   "facility_code": "10416446",
-  "institution": "Bedford Adult Detention Center",
+  "institution": "BEDFORD ADULT DETENTION CENTER",
   "city": "Bedford",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24523",
-  "email": true
+  "ope": null
 }

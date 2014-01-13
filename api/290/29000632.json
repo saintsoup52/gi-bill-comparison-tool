@@ -1,6 +1,6 @@
 {
   "facility_code": "29000632",
-  "institution": "In Field Management Group",
+  "institution": "IN FIELD MANAGEMENT GROUP",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10013",
-  "email": false
+  "ope": null
 }

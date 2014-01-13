@@ -1,6 +1,6 @@
 {
   "facility_code": "19A00432",
-  "institution": "Center Bookstore",
+  "institution": "CENTER BOOKSTORE",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14202",
-  "email": false
+  "ope": null
 }

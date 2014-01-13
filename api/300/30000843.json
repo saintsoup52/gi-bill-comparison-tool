@@ -1,6 +1,6 @@
 {
   "facility_code": "30000843",
-  "institution": "Houston Jatc For The Electrical Contracting Indust",
+  "institution": "HOUSTON JATC FOR THE ELECTRICAL CONTRACTING INDUST",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77061",
-  "email": false
+  "ope": null
 }

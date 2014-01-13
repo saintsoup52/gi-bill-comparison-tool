@@ -1,6 +1,6 @@
 {
   "facility_code": "10N03732",
-  "institution": "Endicott Fire Department",
+  "institution": "ENDICOTT FIRE DEPARTMENT",
   "city": "Endicott",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13760",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31800118",
-  "institution": "Tulane University",
+  "institution": "TULANE UNIVERSITY",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70118",
-  "email": true
+  "ope": "00202900"
 }

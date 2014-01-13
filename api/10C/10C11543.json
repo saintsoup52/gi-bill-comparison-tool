@@ -1,6 +1,6 @@
 {
   "facility_code": "10C11543",
-  "institution": "Texas Veterans Commission Region Iii",
+  "institution": "TEXAS VETERANS COMMISSION REGION III",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75202",
-  "email": false
+  "ope": null
 }

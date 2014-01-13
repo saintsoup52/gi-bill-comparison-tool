@@ -1,6 +1,6 @@
 {
   "facility_code": "10408547",
-  "institution": "National Oceanic & Atmospheric Administration (Ch31)",
+  "institution": "NATIONAL OCEANIC & ATMOSPHERIC ADMINISTRATION (CH31)",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98115",
-  "email": false
+  "ope": null
 }

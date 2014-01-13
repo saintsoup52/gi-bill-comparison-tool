@@ -1,6 +1,6 @@
 {
   "facility_code": "31002875",
-  "institution": "Queen'S University",
+  "institution": "QUEEN'S UNIVERSITY",
   "city": "Kingston",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

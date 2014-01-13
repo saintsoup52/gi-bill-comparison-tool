@@ -1,6 +1,6 @@
 {
   "facility_code": "10519730",
-  "institution": "Morristown Bureau Of Police",
+  "institution": "MORRISTOWN BUREAU OF POLICE",
   "city": "Morristown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7960",
-  "email": false
+  "ope": null
 }

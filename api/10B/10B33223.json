@@ -1,6 +1,6 @@
 {
   "facility_code": "10B33223",
-  "institution": "Faa Rochester Atct",
+  "institution": "FAA ROCHESTER ATCT",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55902",
-  "email": false
+  "ope": null
 }

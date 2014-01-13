@@ -1,6 +1,6 @@
 {
   "facility_code": "31000704",
-  "institution": "John Brown University",
+  "institution": "JOHN BROWN UNIVERSITY",
   "city": "Siloam Springs",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72761",
-  "email": false
+  "ope": "00110000"
 }

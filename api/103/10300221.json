@@ -1,6 +1,6 @@
 {
   "facility_code": "10300221",
-  "institution": "Wilmington Fire Department",
+  "institution": "WILMINGTON FIRE DEPARTMENT",
   "city": "Wilmington",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1887",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C09243",
-  "institution": "Tx Hwy Patrol Reg 2 Tx Dept Of Public Safety Houston",
+  "institution": "TX HWY PATROL REG 2 TX DEPT OF PUBLIC SAFETY HOUSTON",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77065",
-  "email": false
+  "ope": null
 }

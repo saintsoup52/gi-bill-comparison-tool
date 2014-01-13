@@ -1,6 +1,6 @@
 {
   "facility_code": "10500215",
-  "institution": "Des Moines Police Department",
+  "institution": "DES MOINES POLICE DEPARTMENT",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50315",
-  "email": false
+  "ope": null
 }

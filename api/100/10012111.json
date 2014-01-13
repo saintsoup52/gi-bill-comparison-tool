@@ -1,6 +1,6 @@
 {
   "facility_code": "10012111",
-  "institution": "Fannin County Sheriff'S Office",
+  "institution": "FANNIN COUNTY SHERIFF'S OFFICE",
   "city": "Blue Ridge",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30513",
-  "email": false
+  "ope": null
 }

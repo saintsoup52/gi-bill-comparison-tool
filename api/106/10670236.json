@@ -1,6 +1,6 @@
 {
   "facility_code": "10670236",
-  "institution": "U.S. Geological Survey-Okc (Ch 31 Only)",
+  "institution": "U.S. GEOLOGICAL SURVEY-OKC (CH 31 ONLY)",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73116",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B86735",
-  "institution": "Twinsburg Police Department (G)",
+  "institution": "TWINSBURG POLICE DEPARTMENT (G)",
   "city": "Twinsburg",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44087",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10249607",
-  "institution": "Federal Correctional Institution Danbury",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION DANBURY",
   "city": "Danbury",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6811",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10155034",
-  "institution": "Minot Police Department",
+  "institution": "MINOT POLICE DEPARTMENT",
   "city": "Minot",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58702",
-  "email": true
+  "ope": null
 }

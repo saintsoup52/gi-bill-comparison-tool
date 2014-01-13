@@ -1,6 +1,6 @@
 {
   "facility_code": "11802805",
-  "institution": "University Of California San Diego Extension Dept 0176h",
+  "institution": "UNIVERSITY OF CALIFORNIA SAN DIEGO EXTENSION DEPT 0176H",
   "city": "La Jolla",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92093",
-  "email": true
+  "ope": "00131700"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "37000116",
-  "institution": "Hayden High School",
+  "institution": "HAYDEN HIGH SCHOOL",
   "city": "Topeka",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66606",
-  "email": false
+  "ope": null
 }

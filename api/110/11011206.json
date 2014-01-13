@@ -1,6 +1,6 @@
 {
   "facility_code": "11011206",
-  "institution": "Adams State University",
+  "institution": "ADAMS STATE UNIVERSITY",
   "city": "Alamosa",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "81102",
-  "email": true
+  "ope": "00134500"
 }

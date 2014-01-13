@@ -1,6 +1,6 @@
 {
   "facility_code": "10003708",
-  "institution": "De Dept Of Natural Resources",
+  "institution": "DE DEPT OF NATURAL RESOURCES",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19901",
-  "email": false
+  "ope": null
 }

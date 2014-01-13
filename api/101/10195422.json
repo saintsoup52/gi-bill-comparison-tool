@@ -1,6 +1,6 @@
 {
   "facility_code": "10195422",
-  "institution": "Veteran Service Department Macomb County",
+  "institution": "VETERAN SERVICE DEPARTMENT MACOMB COUNTY",
   "city": "Clinton Twp.",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48036",
-  "email": true
+  "ope": null
 }

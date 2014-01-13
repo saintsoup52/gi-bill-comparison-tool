@@ -1,6 +1,6 @@
 {
   "facility_code": "10574213",
-  "institution": "Belleville Police Department",
+  "institution": "BELLEVILLE POLICE DEPARTMENT",
   "city": "Belleville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62220",
-  "email": false
+  "ope": null
 }

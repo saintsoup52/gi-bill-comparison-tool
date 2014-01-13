@@ -1,6 +1,6 @@
 {
   "facility_code": "10551730",
-  "institution": "Federal Correctional Institution Fort Dix",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION FORT DIX",
   "city": "Fort Dix",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8640",
-  "email": true
+  "ope": null
 }

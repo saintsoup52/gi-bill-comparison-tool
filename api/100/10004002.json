@@ -1,6 +1,6 @@
 {
   "facility_code": "10004002",
-  "institution": "Fairbanks North Star Borough School District (Ch31)",
+  "institution": "FAIRBANKS NORTH STAR BOROUGH SCHOOL DISTRICT (CH31)",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99701",
-  "email": false
+  "ope": null
 }

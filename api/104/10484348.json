@@ -1,6 +1,6 @@
 {
   "facility_code": "10484348",
-  "institution": "United States Penitentiary - Hazelton",
+  "institution": "UNITED STATES PENITENTIARY - HAZELTON",
   "city": "Bruceton Mills",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26525",
-  "email": true
+  "ope": null
 }

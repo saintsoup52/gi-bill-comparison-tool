@@ -1,6 +1,6 @@
 {
   "facility_code": "10A14911",
-  "institution": "Hall County Sheriff'S Office",
+  "institution": "HALL COUNTY SHERIFF'S OFFICE",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30507",
-  "email": true
+  "ope": null
 }

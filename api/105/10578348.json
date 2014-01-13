@@ -1,6 +1,6 @@
 {
   "facility_code": "10578348",
-  "institution": "West Virginia Employment Service",
+  "institution": "WEST VIRGINIA EMPLOYMENT SERVICE",
   "city": "Huntington",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25713",
-  "email": false
+  "ope": null
 }

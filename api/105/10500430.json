@@ -1,6 +1,6 @@
 {
   "facility_code": "10500430",
-  "institution": "Port Authority Of New York And New Jersey Police Department",
+  "institution": "PORT AUTHORITY OF NEW YORK AND NEW JERSEY POLICE DEPARTMENT",
   "city": "Jersey City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7310",
-  "email": true
+  "ope": null
 }

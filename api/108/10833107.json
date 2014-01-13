@@ -1,6 +1,6 @@
 {
   "facility_code": "10833107",
-  "institution": "City Of Danbury Fire Department",
+  "institution": "CITY OF DANBURY FIRE DEPARTMENT",
   "city": "Danbury",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6810",
-  "email": true
+  "ope": null
 }

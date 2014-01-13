@@ -1,6 +1,6 @@
 {
   "facility_code": "10074114",
-  "institution": "Merrillville Police Department",
+  "institution": "MERRILLVILLE POLICE DEPARTMENT",
   "city": "Merrillville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46410",
-  "email": false
+  "ope": null
 }

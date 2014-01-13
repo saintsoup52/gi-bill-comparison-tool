@@ -1,6 +1,6 @@
 {
   "facility_code": "31820411",
-  "institution": "Mercer University (Macon)",
+  "institution": "MERCER UNIVERSITY (MACON)",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "31207",
-  "email": true
+  "ope": "00158000"
 }

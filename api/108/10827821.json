@@ -1,6 +1,6 @@
 {
   "facility_code": "10827821",
-  "institution": "Worcester Police Departmen",
+  "institution": "WORCESTER POLICE DEPARTMEN",
   "city": "Worcerster",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1608",
-  "email": true
+  "ope": null
 }

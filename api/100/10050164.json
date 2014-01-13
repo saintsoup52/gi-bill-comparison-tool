@@ -1,6 +1,6 @@
 {
   "facility_code": "10050164",
-  "institution": "Federal Fire Department",
+  "institution": "FEDERAL FIRE DEPARTMENT",
   "city": "Pearl Harbor",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96860",
-  "email": true
+  "ope": null
 }

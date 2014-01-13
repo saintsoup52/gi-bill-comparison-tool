@@ -1,6 +1,6 @@
 {
   "facility_code": "20N28732",
-  "institution": "National Grid (Niagara Falls)",
+  "institution": "NATIONAL GRID (NIAGARA FALLS)",
   "city": "Niagara Falls",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14304",
-  "email": true
+  "ope": null
 }

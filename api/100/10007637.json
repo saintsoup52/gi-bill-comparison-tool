@@ -1,6 +1,6 @@
 {
   "facility_code": "10007637",
-  "institution": "Sandy Police Department",
+  "institution": "SANDY POLICE DEPARTMENT",
   "city": "Sandy",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97055",
-  "email": true
+  "ope": null
 }

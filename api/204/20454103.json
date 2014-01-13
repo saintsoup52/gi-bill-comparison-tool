@@ -1,6 +1,6 @@
 {
   "facility_code": "20454103",
-  "institution": "Union Pacific Railroad - Tucson",
+  "institution": "UNION PACIFIC RAILROAD - TUCSON",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85713",
-  "email": false
+  "ope": null
 }

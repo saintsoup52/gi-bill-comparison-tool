@@ -1,6 +1,6 @@
 {
   "facility_code": "10518230",
-  "institution": "Mahwah Police Department",
+  "institution": "MAHWAH POLICE DEPARTMENT",
   "city": "Mahwah",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7430",
-  "email": false
+  "ope": null
 }

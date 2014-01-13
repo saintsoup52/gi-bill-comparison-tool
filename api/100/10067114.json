@@ -1,6 +1,6 @@
 {
   "facility_code": "10067114",
-  "institution": "Mccordsville Police Department",
+  "institution": "MCCORDSVILLE POLICE DEPARTMENT",
   "city": "Mccordsville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46055",
-  "email": false
+  "ope": null
 }

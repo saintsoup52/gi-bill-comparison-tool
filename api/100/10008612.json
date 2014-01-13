@@ -1,6 +1,6 @@
 {
   "facility_code": "10008612",
-  "institution": "Nez Perce Tribal Police Department",
+  "institution": "NEZ PERCE TRIBAL POLICE DEPARTMENT",
   "city": "Lapwai",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83540",
-  "email": false
+  "ope": null
 }

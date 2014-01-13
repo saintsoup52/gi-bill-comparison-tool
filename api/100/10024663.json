@@ -1,6 +1,6 @@
 {
   "facility_code": "10024663",
-  "institution": "Federal Aviation Administration (Faa) - San Juan Artcc (En Route Center)",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - SAN JUAN ARTCC (EN ROUTE CENTER)",
   "city": "Carolina",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "979",
-  "email": true
+  "ope": null
 }

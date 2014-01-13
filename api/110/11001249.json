@@ -1,6 +1,6 @@
 {
   "facility_code": "11001249",
-  "institution": "Univ Of Wisc-Parkside",
+  "institution": "UNIV OF WISC-PARKSIDE",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53141",
-  "email": true
+  "ope": "00501500"
 }

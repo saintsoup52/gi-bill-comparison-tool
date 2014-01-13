@@ -1,6 +1,6 @@
 {
   "facility_code": "101B2405",
-  "institution": "County Of Los Angeles Sheet Metal Workers Jatc",
+  "institution": "COUNTY OF LOS ANGELES SHEET METAL WORKERS JATC",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90063",
-  "email": false
+  "ope": null
 }

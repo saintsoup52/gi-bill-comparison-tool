@@ -1,6 +1,6 @@
 {
   "facility_code": "10028233",
-  "institution": "Orange County Sheriffs Office",
+  "institution": "ORANGE COUNTY SHERIFFS OFFICE",
   "city": "Hillsborough",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27278",
-  "email": true
+  "ope": null
 }

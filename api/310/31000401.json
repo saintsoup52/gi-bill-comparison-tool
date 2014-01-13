@@ -1,6 +1,6 @@
 {
   "facility_code": "31000401",
-  "institution": "Birmingham Southern College",
+  "institution": "BIRMINGHAM SOUTHERN COLLEGE",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35254",
-  "email": true
+  "ope": "00101200"
 }

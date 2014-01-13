@@ -1,6 +1,6 @@
 {
   "facility_code": "10234803",
-  "institution": "Arizona Dept Of Veteran Services - Prescott",
+  "institution": "ARIZONA DEPT OF VETERAN SERVICES - PRESCOTT",
   "city": "Prescott",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "86303",
-  "email": false
+  "ope": null
 }

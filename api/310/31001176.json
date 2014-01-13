@@ -1,6 +1,6 @@
 {
   "facility_code": "31001176",
-  "institution": "Univ Externado De Colombia",
+  "institution": "UNIV EXTERNADO DE COLOMBIA",
   "city": "Bogota",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

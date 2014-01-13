@@ -1,6 +1,6 @@
 {
   "facility_code": "30073320",
-  "institution": "American Veterans (Amvets)",
+  "institution": "AMERICAN VETERANS (AMVETS)",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21201",
-  "email": false
+  "ope": null
 }

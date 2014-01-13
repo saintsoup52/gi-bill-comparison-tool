@@ -1,6 +1,6 @@
 {
   "facility_code": "31000601",
-  "institution": "Huntingdon College",
+  "institution": "HUNTINGDON COLLEGE",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36106",
-  "email": true
+  "ope": "00101900"
 }

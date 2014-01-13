@@ -1,6 +1,6 @@
 {
   "facility_code": "32961101",
-  "institution": "Huntsville Hospital - Sch Of Rad Tech",
+  "institution": "HUNTSVILLE HOSPITAL - SCH OF RAD TECH",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35801",
-  "email": true
+  "ope": null
 }

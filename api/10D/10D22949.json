@@ -1,6 +1,6 @@
 {
   "facility_code": "10D22949",
-  "institution": "Door County Memorial Hospital",
+  "institution": "DOOR COUNTY MEMORIAL HOSPITAL",
   "city": "Sturgeon Bay",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54235",
-  "email": false
+  "ope": null
 }

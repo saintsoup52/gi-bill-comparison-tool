@@ -1,6 +1,6 @@
 {
   "facility_code": "10193222",
-  "institution": "Dhs U.S. Immigrations And Customs Enforcement Office Of Investigations",
+  "institution": "DHS U.S. IMMIGRATIONS AND CUSTOMS ENFORCEMENT OFFICE OF INVESTIGATIONS",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48226",
-  "email": true
+  "ope": null
 }

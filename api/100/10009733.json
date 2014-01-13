@@ -1,6 +1,6 @@
 {
   "facility_code": "10009733",
-  "institution": "Greensboro Police Department",
+  "institution": "GREENSBORO POLICE DEPARTMENT",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27405",
-  "email": true
+  "ope": null
 }

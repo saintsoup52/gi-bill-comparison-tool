@@ -1,6 +1,6 @@
 {
   "facility_code": "10231603",
-  "institution": "Us Marshals Service (Phoenix District)",
+  "institution": "US MARSHALS SERVICE (PHOENIX DISTRICT)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85003",
-  "email": false
+  "ope": null
 }

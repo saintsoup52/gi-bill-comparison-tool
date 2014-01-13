@@ -1,6 +1,6 @@
 {
   "facility_code": "10200426",
-  "institution": "Va Montana Health Care Systems",
+  "institution": "VA MONTANA HEALTH CARE SYSTEMS",
   "city": "Fort Harrison",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59636",
-  "email": true
+  "ope": null
 }

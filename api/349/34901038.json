@@ -1,6 +1,6 @@
 {
   "facility_code": "34901038",
-  "institution": "Valley Forge Military Academy And College",
+  "institution": "VALLEY FORGE MILITARY ACADEMY AND COLLEGE",
   "city": "Wayne",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "19087",
-  "email": true
+  "ope": "00338600"
 }

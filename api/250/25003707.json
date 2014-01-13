@@ -1,6 +1,6 @@
 {
   "facility_code": "25003707",
-  "institution": "Institute Of Allied Medical Professions",
+  "institution": "INSTITUTE OF ALLIED MEDICAL PROFESSIONS",
   "city": "Stamford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6902",
-  "email": true
+  "ope": null
 }

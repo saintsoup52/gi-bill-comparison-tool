@@ -1,6 +1,6 @@
 {
   "facility_code": "10026733",
-  "institution": "East Carolina Unversity Police Department",
+  "institution": "EAST CAROLINA UNVERSITY POLICE DEPARTMENT",
   "city": "Greenville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27834",
-  "email": true
+  "ope": null
 }

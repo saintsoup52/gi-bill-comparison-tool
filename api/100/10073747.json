@@ -1,6 +1,6 @@
 {
   "facility_code": "10073747",
-  "institution": "Kennewick Fire Department",
+  "institution": "KENNEWICK FIRE DEPARTMENT",
   "city": "Kennewick",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99336",
-  "email": false
+  "ope": null
 }

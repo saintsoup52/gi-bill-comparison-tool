@@ -1,6 +1,6 @@
 {
   "facility_code": "15002603",
-  "institution": "Southern Arizona Law Enforcement Training Center",
+  "institution": "SOUTHERN ARIZONA LAW ENFORCEMENT TRAINING CENTER",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85756",
-  "email": false
+  "ope": null
 }

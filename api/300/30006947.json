@@ -1,6 +1,6 @@
 {
   "facility_code": "30006947",
-  "institution": "Seattle Area Plumbers & Pipefitters Jatc",
+  "institution": "SEATTLE AREA PLUMBERS & PIPEFITTERS JATC",
   "city": "Renton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98055",
-  "email": true
+  "ope": null
 }

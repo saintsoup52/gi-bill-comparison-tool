@@ -1,6 +1,6 @@
 {
   "facility_code": "10R04838",
-  "institution": "Department Of Public Welfare - Torrance State Hospital",
+  "institution": "DEPARTMENT OF PUBLIC WELFARE - TORRANCE STATE HOSPITAL",
   "city": "Torrance",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15779",
-  "email": true
+  "ope": null
 }

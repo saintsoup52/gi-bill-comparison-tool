@@ -1,6 +1,6 @@
 {
   "facility_code": "20002207",
-  "institution": "Pta Corporation",
+  "institution": "PTA CORPORATION",
   "city": "Oxford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6457",
-  "email": false
+  "ope": null
 }

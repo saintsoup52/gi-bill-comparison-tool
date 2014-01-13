@@ -1,6 +1,6 @@
 {
   "facility_code": "31301832",
-  "institution": "Hobart & William Smith Colleges",
+  "institution": "HOBART & WILLIAM SMITH COLLEGES",
   "city": "Geneva",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "14456",
-  "email": true
+  "ope": "00273100"
 }

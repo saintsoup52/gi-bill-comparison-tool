@@ -1,6 +1,6 @@
 {
   "facility_code": "12002040",
-  "institution": "Anderson Area Medical Center (Anmed Health)",
+  "institution": "ANDERSON AREA MEDICAL CENTER (ANMED HEALTH)",
   "city": "Anderson",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29621",
-  "email": false
+  "ope": null
 }

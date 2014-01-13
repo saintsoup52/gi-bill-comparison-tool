@@ -1,6 +1,6 @@
 {
   "facility_code": "10481517",
-  "institution": "Lawrenceburg Police Department",
+  "institution": "LAWRENCEBURG POLICE DEPARTMENT",
   "city": "Lawrenceburg",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40342",
-  "email": false
+  "ope": null
 }

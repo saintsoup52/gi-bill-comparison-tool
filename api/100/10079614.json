@@ -1,6 +1,6 @@
 {
   "facility_code": "10079614",
-  "institution": "Decatur Police Department",
+  "institution": "DECATUR POLICE DEPARTMENT",
   "city": "Decatur",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46733",
-  "email": false
+  "ope": null
 }

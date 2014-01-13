@@ -1,6 +1,6 @@
 {
   "facility_code": "25301438",
-  "institution": "Rcs/Ams Race Car Svc Of America/Automotive Machinist School Inc.",
+  "institution": "RCS/AMS RACE CAR SVC OF AMERICA/AUTOMOTIVE MACHINIST SCHOOL INC.",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15234",
-  "email": false
+  "ope": null
 }

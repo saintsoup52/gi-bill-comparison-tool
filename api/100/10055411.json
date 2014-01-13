@@ -1,6 +1,6 @@
 {
   "facility_code": "10055411",
-  "institution": "Carroll County Sheriff'S Office",
+  "institution": "CARROLL COUNTY SHERIFF'S OFFICE",
   "city": "Carrollton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30116",
-  "email": false
+  "ope": null
 }

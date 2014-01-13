@@ -1,6 +1,6 @@
 {
   "facility_code": "34000705",
-  "institution": "Los Angeles Ort College",
+  "institution": "LOS ANGELES ORT COLLEGE",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90048",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10494546",
-  "institution": "City Of Fairfax Police Dept",
+  "institution": "CITY OF FAIRFAX POLICE DEPT",
   "city": "Fairfax",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22030",
-  "email": false
+  "ope": null
 }

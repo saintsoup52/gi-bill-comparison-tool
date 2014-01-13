@@ -1,6 +1,6 @@
 {
   "facility_code": "11004020",
-  "institution": "National Institutes Of Health",
+  "institution": "NATIONAL INSTITUTES OF HEALTH",
   "city": "Bethesda",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20892",
-  "email": true
+  "ope": null
 }

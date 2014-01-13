@@ -1,6 +1,6 @@
 {
   "facility_code": "10433736",
-  "institution": "Us Dept Of Army",
+  "institution": "US DEPT OF ARMY",
   "city": "Ft Sill",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73503",
-  "email": "No (SCO)"
+  "ope": null
 }

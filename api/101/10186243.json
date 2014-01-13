@@ -1,6 +1,6 @@
 {
   "facility_code": "10186243",
-  "institution": "Us Naval Air Station Beeville",
+  "institution": "US NAVAL AIR STATION BEEVILLE",
   "city": "Beeville",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78102",
-  "email": false
+  "ope": null
 }

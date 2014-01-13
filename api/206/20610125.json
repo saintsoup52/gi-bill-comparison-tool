@@ -1,6 +1,6 @@
 {
   "facility_code": "20610125",
-  "institution": "P. R. G. Inc.",
+  "institution": "P. R. G. INC.",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64114",
-  "email": false
+  "ope": null
 }

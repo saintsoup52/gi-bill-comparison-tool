@@ -1,6 +1,6 @@
 {
   "facility_code": "15058521",
-  "institution": "Brockton Fire Department Training Academy",
+  "institution": "BROCKTON FIRE DEPARTMENT TRAINING ACADEMY",
   "city": "Brockton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2301",
-  "email": true
+  "ope": null
 }

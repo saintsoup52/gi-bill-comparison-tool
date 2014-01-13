@@ -1,6 +1,6 @@
 {
   "facility_code": "20D13433",
-  "institution": "City Of Concord Police Department",
+  "institution": "CITY OF CONCORD POLICE DEPARTMENT",
   "city": "Concord",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28025",
-  "email": true
+  "ope": null
 }

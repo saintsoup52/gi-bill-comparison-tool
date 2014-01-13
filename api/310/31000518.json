@@ -1,6 +1,6 @@
 {
   "facility_code": "31000518",
-  "institution": "Xavier University Of Louisiana",
+  "institution": "XAVIER UNIVERSITY OF LOUISIANA",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70125",
-  "email": true
+  "ope": "00203200"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10068411",
-  "institution": "Wilkinson County Sheriff'S Office",
+  "institution": "WILKINSON COUNTY SHERIFF'S OFFICE",
   "city": "Irwinton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31031",
-  "email": true
+  "ope": null
 }

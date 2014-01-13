@@ -1,6 +1,6 @@
 {
   "facility_code": "10B32523",
-  "institution": "Minnesota Department Of Corrections",
+  "institution": "MINNESOTA DEPARTMENT OF CORRECTIONS",
   "city": "St Cloud",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56304",
-  "email": false
+  "ope": null
 }

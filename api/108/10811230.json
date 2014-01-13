@@ -1,6 +1,6 @@
 {
   "facility_code": "10811230",
-  "institution": "Bayside State Prison",
+  "institution": "BAYSIDE STATE PRISON",
   "city": "Leesburg",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8327",
-  "email": true
+  "ope": null
 }

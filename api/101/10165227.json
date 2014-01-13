@@ -1,6 +1,6 @@
 {
   "facility_code": "10165227",
-  "institution": "Nebraska Health And Human Services System",
+  "institution": "NEBRASKA HEALTH AND HUMAN SERVICES SYSTEM",
   "city": "Papillion",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68046",
-  "email": false
+  "ope": null
 }

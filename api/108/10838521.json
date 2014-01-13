@@ -1,6 +1,6 @@
 {
   "facility_code": "10838521",
-  "institution": "Natick Fire Department",
+  "institution": "NATICK FIRE DEPARTMENT",
   "city": "Natick",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1760",
-  "email": false
+  "ope": null
 }

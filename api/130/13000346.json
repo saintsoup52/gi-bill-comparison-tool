@@ -1,6 +1,6 @@
 {
   "facility_code": "13000346",
-  "institution": "Longwood University",
+  "institution": "LONGWOOD UNIVERSITY",
   "city": "Farmville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "23909",
-  "email": true
+  "ope": "00371900"
 }

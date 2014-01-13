@@ -1,6 +1,6 @@
 {
   "facility_code": "10A89206",
-  "institution": "Broomfield Police Department",
+  "institution": "BROOMFIELD POLICE DEPARTMENT",
   "city": "Broomfield",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80031",
-  "email": false
+  "ope": null
 }

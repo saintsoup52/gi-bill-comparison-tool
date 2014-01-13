@@ -1,6 +1,6 @@
 {
   "facility_code": "19005214",
-  "institution": "Dearborn County Animal Shelter",
+  "institution": "DEARBORN COUNTY ANIMAL SHELTER",
   "city": "Aurora",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47001",
-  "email": false
+  "ope": null
 }

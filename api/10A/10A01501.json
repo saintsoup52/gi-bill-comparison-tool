@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01501",
-  "institution": "White Hall Police Dept",
+  "institution": "WHITE HALL POLICE DEPT",
   "city": "Haynesville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36040",
-  "email": false
+  "ope": null
 }

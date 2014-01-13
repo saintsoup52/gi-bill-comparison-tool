@@ -1,6 +1,6 @@
 {
   "facility_code": "10551230",
-  "institution": "Little Falls Police Department",
+  "institution": "LITTLE FALLS POLICE DEPARTMENT",
   "city": "Little Falls",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7424",
-  "email": false
+  "ope": null
 }

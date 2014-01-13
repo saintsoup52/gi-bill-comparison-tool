@@ -1,6 +1,6 @@
 {
   "facility_code": "20D00438",
-  "institution": "Ransome Cat",
+  "institution": "RANSOME CAT",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19380",
-  "email": true
+  "ope": null
 }

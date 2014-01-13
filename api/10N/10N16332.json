@@ -1,6 +1,6 @@
 {
   "facility_code": "10N16332",
-  "institution": "New York City Fire Department",
+  "institution": "NEW YORK CITY FIRE DEPARTMENT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11201",
-  "email": true
+  "ope": null
 }

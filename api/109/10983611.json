@@ -1,6 +1,6 @@
 {
   "facility_code": "10983611",
-  "institution": "Jack T. Rutledge State Prison",
+  "institution": "JACK T. RUTLEDGE STATE PRISON",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31907",
-  "email": true
+  "ope": null
 }

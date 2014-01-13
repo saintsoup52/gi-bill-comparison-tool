@@ -1,6 +1,6 @@
 {
   "facility_code": "10C25643",
-  "institution": "Dallas Fire Rescue Dept Ojt",
+  "institution": "DALLAS FIRE RESCUE DEPT OJT",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75223",
-  "email": true
+  "ope": null
 }

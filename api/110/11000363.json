@@ -1,6 +1,6 @@
 {
   "facility_code": "11000363",
-  "institution": "Universidad De Puerto Rico-Mayaguez (University Of Puerto Rico Mayaguez)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO-MAYAGUEZ (UNIVERSITY OF PUERTO RICO MAYAGUEZ)",
   "city": "Mayaguez",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "681",
-  "email": true
+  "ope": "00394400"
 }

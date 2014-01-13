@@ -1,6 +1,6 @@
 {
   "facility_code": "11802318",
-  "institution": "Lsumc - School Of Radiology",
+  "institution": "LSUMC - SCHOOL OF RADIOLOGY",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70596",
-  "email": false
+  "ope": "00201400"
 }

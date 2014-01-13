@@ -1,6 +1,6 @@
 {
   "facility_code": "10158847",
-  "institution": "Seattle Fire Department - Training Division",
+  "institution": "SEATTLE FIRE DEPARTMENT - TRAINING DIVISION",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98108",
-  "email": true
+  "ope": null
 }

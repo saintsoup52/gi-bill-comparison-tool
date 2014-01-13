@@ -1,6 +1,6 @@
 {
   "facility_code": "20022911",
-  "institution": "Georgia Power Company - Duluth",
+  "institution": "GEORGIA POWER COMPANY - DULUTH",
   "city": "Duluth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30097",
-  "email": true
+  "ope": null
 }

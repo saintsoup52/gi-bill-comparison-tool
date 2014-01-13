@@ -1,6 +1,6 @@
 {
   "facility_code": "10627025",
-  "institution": "Lincoln Police Department",
+  "institution": "LINCOLN POLICE DEPARTMENT",
   "city": "Lincoln",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65338",
-  "email": false
+  "ope": null
 }

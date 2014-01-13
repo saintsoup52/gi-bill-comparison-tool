@@ -1,6 +1,6 @@
 {
   "facility_code": "10577030",
-  "institution": "Camden City Police Department Background Unit",
+  "institution": "CAMDEN CITY POLICE DEPARTMENT BACKGROUND UNIT",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8103",
-  "email": true
+  "ope": null
 }

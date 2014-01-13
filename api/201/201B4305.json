@@ -1,6 +1,6 @@
 {
   "facility_code": "201B4305",
-  "institution": "Stadco",
+  "institution": "STADCO",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90031",
-  "email": false
+  "ope": null
 }

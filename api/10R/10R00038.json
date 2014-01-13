@@ -1,6 +1,6 @@
 {
   "facility_code": "10R00038",
-  "institution": "Department Of Veterans Affairs-Pittsburgh Ro",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS-PITTSBURGH RO",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "email": true
+  "ope": null
 }

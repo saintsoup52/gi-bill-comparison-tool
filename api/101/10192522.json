@@ -1,6 +1,6 @@
 {
   "facility_code": "10192522",
-  "institution": "Faa Federal Aviation Administration-Detroit Metro Airport",
+  "institution": "FAA FEDERAL AVIATION ADMINISTRATION-DETROIT METRO AIRPORT",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48242",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D23349",
-  "institution": "Federal Defense Contract Management Agency",
+  "institution": "FEDERAL DEFENSE CONTRACT MANAGEMENT AGENCY",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53295",
-  "email": false
+  "ope": null
 }

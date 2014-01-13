@@ -1,6 +1,6 @@
 {
   "facility_code": "10202545",
-  "institution": "Woodstock Police Dept",
+  "institution": "WOODSTOCK POLICE DEPT",
   "city": "Woodstock",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5091",
-  "email": "No (SCO)"
+  "ope": null
 }

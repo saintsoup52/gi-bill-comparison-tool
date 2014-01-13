@@ -1,6 +1,6 @@
 {
   "facility_code": "10055111",
-  "institution": "Decatur County Industrial Park",
+  "institution": "DECATUR COUNTY INDUSTRIAL PARK",
   "city": "Bainbridge",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39818",
-  "email": false
+  "ope": null
 }

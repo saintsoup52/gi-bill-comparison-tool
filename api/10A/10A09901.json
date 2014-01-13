@@ -1,6 +1,6 @@
 {
   "facility_code": "10A09901",
-  "institution": "Us Marshals Service",
+  "institution": "US MARSHALS SERVICE",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36104",
-  "email": true
+  "ope": null
 }

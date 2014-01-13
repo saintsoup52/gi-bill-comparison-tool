@@ -1,6 +1,6 @@
 {
   "facility_code": "31556086",
-  "institution": "Universidad Del Valle De Atemajaczamora",
+  "institution": "UNIVERSIDAD DEL VALLE DE ATEMAJACZAMORA",
   "city": "Jacona",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

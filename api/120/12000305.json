@@ -1,6 +1,6 @@
 {
   "facility_code": "12000305",
-  "institution": "California Department Of Public Health Preventive Medicine Residency Program",
+  "institution": "CALIFORNIA DEPARTMENT OF PUBLIC HEALTH PREVENTIVE MEDICINE RESIDENCY PROGRAM",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95899",
-  "email": true
+  "ope": null
 }

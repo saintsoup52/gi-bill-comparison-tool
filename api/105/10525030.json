@@ -1,6 +1,6 @@
 {
   "facility_code": "10525030",
-  "institution": "Paterson Police Department",
+  "institution": "PATERSON POLICE DEPARTMENT",
   "city": "Paterson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7505",
-  "email": false
+  "ope": null
 }

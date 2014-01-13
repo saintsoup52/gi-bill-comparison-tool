@@ -1,6 +1,6 @@
 {
   "facility_code": "31100874",
-  "institution": "University Of Plymouth",
+  "institution": "UNIVERSITY OF PLYMOUTH",
   "city": "Plymouth",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

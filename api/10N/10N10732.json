@@ -1,6 +1,6 @@
 {
   "facility_code": "10N10732",
-  "institution": "Shawangunk Correctional Facility",
+  "institution": "SHAWANGUNK CORRECTIONAL FACILITY",
   "city": "Wallkill",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12589",
-  "email": false
+  "ope": null
 }

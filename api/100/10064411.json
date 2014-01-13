@@ -1,6 +1,6 @@
 {
   "facility_code": "10064411",
-  "institution": "Department Of Veterans Affairs - Atlanta Regional Office",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS - ATLANTA REGIONAL OFFICE",
   "city": "Decatur",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30033",
-  "email": true
+  "ope": null
 }

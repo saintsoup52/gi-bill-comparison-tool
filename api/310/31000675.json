@@ -1,6 +1,6 @@
 {
   "facility_code": "31000675",
-  "institution": "University Of Victoria",
+  "institution": "UNIVERSITY OF VICTORIA",
   "city": "Victoria",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

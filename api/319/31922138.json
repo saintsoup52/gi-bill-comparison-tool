@@ -1,6 +1,6 @@
 {
   "facility_code": "31922138",
-  "institution": "Drexel University - College Of Medicine (Queen Lane)",
+  "institution": "DREXEL UNIVERSITY - COLLEGE OF MEDICINE (QUEEN LANE)",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19129",
-  "email": true
+  "ope": "00325601"
 }

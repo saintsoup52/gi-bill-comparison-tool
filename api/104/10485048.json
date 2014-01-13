@@ -1,6 +1,6 @@
 {
   "facility_code": "10485048",
-  "institution": "Beckley Fire Department",
+  "institution": "BECKLEY FIRE DEPARTMENT",
   "city": "Beckley",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25802",
-  "email": true
+  "ope": null
 }

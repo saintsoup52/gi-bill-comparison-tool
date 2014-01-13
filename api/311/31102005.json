@@ -1,6 +1,6 @@
 {
   "facility_code": "31102005",
-  "institution": "San Francisco Theological Seminary",
+  "institution": "SAN FRANCISCO THEOLOGICAL SEMINARY",
   "city": "San Anselmo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "94960",
-  "email": false
+  "ope": "00127900"
 }

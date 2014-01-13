@@ -1,6 +1,6 @@
 {
   "facility_code": "10C02743",
-  "institution": "Austin Police Department Ojt",
+  "institution": "AUSTIN POLICE DEPARTMENT OJT",
   "city": "Austin",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78702",
-  "email": false
+  "ope": null
 }

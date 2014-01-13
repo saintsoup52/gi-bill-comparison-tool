@@ -1,6 +1,6 @@
 {
   "facility_code": "11903414",
-  "institution": "Indiana University Purdue University Indianapolis",
+  "institution": "INDIANA UNIVERSITY PURDUE UNIVERSITY INDIANAPOLIS",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46202",
-  "email": true
+  "ope": "00181300"
 }

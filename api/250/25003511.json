@@ -1,6 +1,6 @@
 {
   "facility_code": "25003511",
-  "institution": "Care And Counseling Center Of Georgia (Ch 31 Only)",
+  "institution": "CARE AND COUNSELING CENTER OF GEORGIA (CH 31 ONLY)",
   "city": "Decatur",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30033",
-  "email": false
+  "ope": null
 }

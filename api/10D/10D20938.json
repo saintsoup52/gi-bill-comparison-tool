@@ -1,6 +1,6 @@
 {
   "facility_code": "10D20938",
-  "institution": "Fire District 4 Willow Grove Nas/Jrb",
+  "institution": "FIRE DISTRICT 4 WILLOW GROVE NAS/JRB",
   "city": "Willow Grove",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19090",
-  "email": true
+  "ope": null
 }

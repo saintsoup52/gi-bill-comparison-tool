@@ -1,6 +1,6 @@
 {
   "facility_code": "10026163",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "918",
-  "email": true
+  "ope": null
 }

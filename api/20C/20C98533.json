@@ -1,6 +1,6 @@
 {
   "facility_code": "20C98533",
-  "institution": "Wilmington Housing Authority",
+  "institution": "WILMINGTON HOUSING AUTHORITY",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28402",
-  "email": false
+  "ope": null
 }

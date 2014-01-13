@@ -1,6 +1,6 @@
 {
   "facility_code": "10N04932",
-  "institution": "Occidental Chemical Corporation",
+  "institution": "OCCIDENTAL CHEMICAL CORPORATION",
   "city": "Niagara Falls",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14302",
-  "email": false
+  "ope": null
 }

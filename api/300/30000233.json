@@ -1,6 +1,6 @@
 {
   "facility_code": "30000233",
-  "institution": "Randolph Electric Membership Corporation",
+  "institution": "RANDOLPH ELECTRIC MEMBERSHIP CORPORATION",
   "city": "Asheboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27204",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B77635",
-  "institution": "Wadsworth Police Department G",
+  "institution": "WADSWORTH POLICE DEPARTMENT G",
   "city": "Wadsworth",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44281",
-  "email": false
+  "ope": null
 }

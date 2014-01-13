@@ -1,6 +1,6 @@
 {
   "facility_code": "25490610",
-  "institution": "Aaa School Of Dental Assisting",
+  "institution": "AAA SCHOOL OF DENTAL ASSISTING",
   "city": "Sanford",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32717",
-  "email": true
+  "ope": null
 }

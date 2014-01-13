@@ -1,6 +1,6 @@
 {
   "facility_code": "21014406",
-  "institution": "Yorktown University",
+  "institution": "YORKTOWN UNIVERSITY",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80246",
-  "email": true
+  "ope": null
 }

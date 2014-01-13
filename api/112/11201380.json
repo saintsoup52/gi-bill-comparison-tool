@@ -1,6 +1,6 @@
 {
   "facility_code": "11201380",
-  "institution": "University Of Siegen",
+  "institution": "UNIVERSITY OF SIEGEN",
   "city": "Siegen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10672335",
-  "institution": "National Weather Service G",
+  "institution": "NATIONAL WEATHER SERVICE G",
   "city": "Mansfield",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44901",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11100392",
-  "institution": "Universidad De La Sabana",
+  "institution": "UNIVERSIDAD DE LA SABANA",
   "city": "Norte De Bogota D.C.,",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

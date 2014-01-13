@@ -1,6 +1,6 @@
 {
   "facility_code": "10N22732",
-  "institution": "City Of Rensselaer Police Department",
+  "institution": "CITY OF RENSSELAER POLICE DEPARTMENT",
   "city": "Rensselaer",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12144",
-  "email": false
+  "ope": null
 }

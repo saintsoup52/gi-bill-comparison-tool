@@ -1,6 +1,6 @@
 {
   "facility_code": "21062610",
-  "institution": "Atlantis University",
+  "institution": "ATLANTIS UNIVERSITY",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33132",
-  "email": true
+  "ope": null
 }

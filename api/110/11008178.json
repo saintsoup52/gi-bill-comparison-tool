@@ -1,6 +1,6 @@
 {
   "facility_code": "11008178",
-  "institution": "University Of Copenhagen",
+  "institution": "UNIVERSITY OF COPENHAGEN",
   "city": "1870 Frederiksberg",
   "state": "Denmark",
   "country": "Denmark",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

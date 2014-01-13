@@ -1,6 +1,6 @@
 {
   "facility_code": "10553330",
-  "institution": "Upper Saddle River Police Department",
+  "institution": "UPPER SADDLE RIVER POLICE DEPARTMENT",
   "city": "Upper Saddle River",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7458",
-  "email": false
+  "ope": null
 }

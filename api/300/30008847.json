@@ -1,6 +1,6 @@
 {
   "facility_code": "30008847",
-  "institution": "City Of Seattle Jatc",
+  "institution": "CITY OF SEATTLE JATC",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98124",
-  "email": true
+  "ope": null
 }

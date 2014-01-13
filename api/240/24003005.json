@@ -1,6 +1,6 @@
 {
   "facility_code": "24003005",
-  "institution": "Institute Of Technology (Clovis)",
+  "institution": "INSTITUTE OF TECHNOLOGY (CLOVIS)",
   "city": "Clovis",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "93612",
-  "email": false
+  "ope": "03067500"
 }

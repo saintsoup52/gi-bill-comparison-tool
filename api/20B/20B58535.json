@@ -1,6 +1,6 @@
 {
   "facility_code": "20B58535",
-  "institution": "Delphis (31)",
+  "institution": "DELPHIS (31)",
   "city": "Cortland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44410",
-  "email": false
+  "ope": null
 }

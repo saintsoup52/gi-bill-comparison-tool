@@ -1,6 +1,6 @@
 {
   "facility_code": "15202311",
-  "institution": "Hardaway High School",
+  "institution": "HARDAWAY HIGH SCHOOL",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31909",
-  "email": true
+  "ope": null
 }

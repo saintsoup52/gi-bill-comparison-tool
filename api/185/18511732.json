@@ -1,6 +1,6 @@
 {
   "facility_code": "18511732",
-  "institution": "New York State Police Academy",
+  "institution": "NEW YORK STATE POLICE ACADEMY",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12226",
-  "email": true
+  "ope": null
 }

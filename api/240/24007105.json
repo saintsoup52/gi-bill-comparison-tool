@@ -1,6 +1,6 @@
 {
   "facility_code": "24007105",
-  "institution": "California Institute Of Arts And Technology",
+  "institution": "CALIFORNIA INSTITUTE OF ARTS AND TECHNOLOGY",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92123",
-  "email": true
+  "ope": null
 }

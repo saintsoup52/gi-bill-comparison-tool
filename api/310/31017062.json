@@ -1,6 +1,6 @@
 {
   "facility_code": "31017062",
-  "institution": "University Of St. La Salle",
+  "institution": "UNIVERSITY OF ST. LA SALLE",
   "city": "Bacolod City",
   "state": "Philippines",
   "country": "Philippines",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

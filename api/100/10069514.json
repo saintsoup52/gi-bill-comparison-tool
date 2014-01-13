@@ -1,6 +1,6 @@
 {
   "facility_code": "10069514",
-  "institution": "Indianapolis Metropolitan Police Department",
+  "institution": "INDIANAPOLIS METROPOLITAN POLICE DEPARTMENT",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46219",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18403132",
-  "institution": "Kingston Police Training Center",
+  "institution": "KINGSTON POLICE TRAINING CENTER",
   "city": "Kingston",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12404",
-  "email": false
+  "ope": null
 }

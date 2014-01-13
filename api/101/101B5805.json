@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5805",
-  "institution": "California Highway Patrol-Needles Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL-NEEDLES AREA",
   "city": "Needles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92363",
-  "email": false
+  "ope": null
 }

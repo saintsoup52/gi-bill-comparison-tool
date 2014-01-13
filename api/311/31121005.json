@@ -1,6 +1,6 @@
 {
   "facility_code": "31121005",
-  "institution": "Stanford University",
+  "institution": "STANFORD UNIVERSITY",
   "city": "Stanford",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94305",
-  "email": true
+  "ope": "00130500"
 }

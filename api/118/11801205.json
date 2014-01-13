@@ -1,6 +1,6 @@
 {
   "facility_code": "11801205",
-  "institution": "University Of California Riverside",
+  "institution": "UNIVERSITY OF CALIFORNIA RIVERSIDE",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92521",
-  "email": false
+  "ope": "00131600"
 }

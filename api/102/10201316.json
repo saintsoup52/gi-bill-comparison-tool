@@ -1,6 +1,6 @@
 {
   "facility_code": "10201316",
-  "institution": "Hutchinson Correctional Facility",
+  "institution": "HUTCHINSON CORRECTIONAL FACILITY",
   "city": "Hutchinson",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67504",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10W57938",
-  "institution": "Cambria County 911",
+  "institution": "CAMBRIA COUNTY 911",
   "city": "Ebensburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15931",
-  "email": false
+  "ope": null
 }

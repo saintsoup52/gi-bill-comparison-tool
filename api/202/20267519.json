@@ -1,6 +1,6 @@
 {
   "facility_code": "20267519",
-  "institution": "Portland Police Department",
+  "institution": "PORTLAND POLICE DEPARTMENT",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4101",
-  "email": true
+  "ope": null
 }

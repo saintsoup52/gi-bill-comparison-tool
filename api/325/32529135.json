@@ -1,6 +1,6 @@
 {
   "facility_code": "32529135",
-  "institution": "Riverside Methodist Hospital (Ohio Health)",
+  "institution": "RIVERSIDE METHODIST HOSPITAL (OHIO HEALTH)",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43214",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10588313",
-  "institution": "Blue Island Police Department",
+  "institution": "BLUE ISLAND POLICE DEPARTMENT",
   "city": "Blue Island",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60406",
-  "email": false
+  "ope": null
 }

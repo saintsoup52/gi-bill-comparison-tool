@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10311",
-  "institution": "J. C. Larmore Detention Center",
+  "institution": "J. C. LARMORE DETENTION CENTER",
   "city": "College Park",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30349",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A04510",
-  "institution": "Hallandale Beach Police Department",
+  "institution": "HALLANDALE BEACH POLICE DEPARTMENT",
   "city": "Hallandale Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33009",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "19000124",
-  "institution": "Hattiesburg Win Job Center (Ch31)",
+  "institution": "HATTIESBURG WIN JOB CENTER (CH31)",
   "city": "Hattiesburg",
   "state": "MS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39402",
-  "email": false
+  "ope": null
 }

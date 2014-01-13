@@ -1,6 +1,6 @@
 {
   "facility_code": "31505005",
-  "institution": "University Of Redlands (Redlands)",
+  "institution": "UNIVERSITY OF REDLANDS (REDLANDS)",
   "city": "Redlands",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92374",
-  "email": false
+  "ope": "00132200"
 }

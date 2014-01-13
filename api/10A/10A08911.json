@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08911",
-  "institution": "Women'S Detention Center",
+  "institution": "WOMEN'S DETENTION CENTER",
   "city": "Claxton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30417",
-  "email": false
+  "ope": null
 }

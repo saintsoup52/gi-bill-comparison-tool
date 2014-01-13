@@ -1,6 +1,6 @@
 {
   "facility_code": "103C0305",
-  "institution": "Social Security Administration (Inglewood)(Chapter 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (INGLEWOOD)(CHAPTER 31 ONLY)",
   "city": "Inglewood",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90301",
-  "email": false
+  "ope": null
 }

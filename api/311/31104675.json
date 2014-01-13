@@ -1,6 +1,6 @@
 {
   "facility_code": "31104675",
-  "institution": "Universite Laval",
+  "institution": "UNIVERSITE LAVAL",
   "city": "Quebec",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

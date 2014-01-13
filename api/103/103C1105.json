@@ -1,6 +1,6 @@
 {
   "facility_code": "103C1105",
-  "institution": "Cdcr Division Of Adult Parole Region Ii",
+  "institution": "CDCR DIVISION OF ADULT PAROLE REGION II",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94612",
-  "email": false
+  "ope": null
 }

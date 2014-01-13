@@ -1,6 +1,6 @@
 {
   "facility_code": "10535417",
-  "institution": "Kentucky State Probation & Parole District 18",
+  "institution": "KENTUCKY STATE PROBATION & PAROLE DISTRICT 18",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40258",
-  "email": true
+  "ope": null
 }

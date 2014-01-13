@@ -1,6 +1,6 @@
 {
   "facility_code": "10481748",
-  "institution": "Morgantown Fire Department",
+  "institution": "MORGANTOWN FIRE DEPARTMENT",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26505",
-  "email": true
+  "ope": null
 }

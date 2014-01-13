@@ -1,6 +1,6 @@
 {
   "facility_code": "11102270",
-  "institution": "The Univ Of New South Wales",
+  "institution": "THE UNIV OF NEW SOUTH WALES",
   "city": "Sydney",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

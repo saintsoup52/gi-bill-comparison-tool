@@ -1,6 +1,6 @@
 {
   "facility_code": "14000301",
-  "institution": "Snead State C.C.",
+  "institution": "SNEAD STATE C.C.",
   "city": "Boaz",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "35957",
-  "email": true
+  "ope": "00103800"
 }

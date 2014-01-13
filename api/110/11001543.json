@@ -1,6 +1,6 @@
 {
   "facility_code": "11001543",
-  "institution": "University Of Texas At Dallas",
+  "institution": "UNIVERSITY OF TEXAS AT DALLAS",
   "city": "Richardson",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "75080",
-  "email": false
+  "ope": "00974100"
 }

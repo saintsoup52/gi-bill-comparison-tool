@@ -1,6 +1,6 @@
 {
   "facility_code": "31944135",
-  "institution": "University Of Findlay",
+  "institution": "UNIVERSITY OF FINDLAY",
   "city": "Findlay",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "45840",
-  "email": true
+  "ope": "00304500"
 }

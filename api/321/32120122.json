@@ -1,6 +1,6 @@
 {
   "facility_code": "32120122",
-  "institution": "Henry Ford Wyandotte Hospital",
+  "institution": "HENRY FORD WYANDOTTE HOSPITAL",
   "city": "Wyandotte",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48192",
-  "email": true
+  "ope": null
 }

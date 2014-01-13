@@ -1,6 +1,6 @@
 {
   "facility_code": "11812032",
-  "institution": "Suny College At New Paltz",
+  "institution": "SUNY COLLEGE AT NEW PALTZ",
   "city": "New Paltz",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "12561",
-  "email": true
+  "ope": "00284600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103C5205",
-  "institution": "Faa San Francisco District Office (Ch31 Only)",
+  "institution": "FAA SAN FRANCISCO DISTRICT OFFICE (CH31 ONLY)",
   "city": "Brisbane",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94005",
-  "email": false
+  "ope": null
 }

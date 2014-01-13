@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02138",
-  "institution": "Pa State Police Department Troop H-Chambersburg",
+  "institution": "PA STATE POLICE DEPARTMENT TROOP H-CHAMBERSBURG",
   "city": "Chambersburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17202",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11903020",
-  "institution": "Towson University",
+  "institution": "TOWSON UNIVERSITY",
   "city": "Towson",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21252",
-  "email": false
+  "ope": "00209900"
 }

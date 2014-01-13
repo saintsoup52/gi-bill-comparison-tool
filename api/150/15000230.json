@@ -1,6 +1,6 @@
 {
   "facility_code": "15000230",
-  "institution": "Gloucester County Police Academy",
+  "institution": "GLOUCESTER COUNTY POLICE ACADEMY",
   "city": "Sewell",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8080",
-  "email": true
+  "ope": null
 }

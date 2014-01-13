@@ -1,6 +1,6 @@
 {
   "facility_code": "31001241",
-  "institution": "Sioux Falls Seminary",
+  "institution": "SIOUX FALLS SEMINARY",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "57105",
-  "email": false
+  "ope": "00405600"
 }

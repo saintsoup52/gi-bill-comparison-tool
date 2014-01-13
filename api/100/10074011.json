@@ -1,6 +1,6 @@
 {
   "facility_code": "10074011",
-  "institution": "Georgia Bureau Of Investigation Division Of Forensic Science",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION DIVISION OF FORENSIC SCIENCE",
   "city": "Midland",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31820",
-  "email": true
+  "ope": null
 }

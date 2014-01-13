@@ -1,6 +1,6 @@
 {
   "facility_code": "10293804",
-  "institution": "Malvern Police Dpt",
+  "institution": "MALVERN POLICE DPT",
   "city": "Malvern",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72104",
-  "email": false
+  "ope": null
 }

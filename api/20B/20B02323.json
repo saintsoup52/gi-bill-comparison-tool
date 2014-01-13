@@ -1,6 +1,6 @@
 {
   "facility_code": "20B02323",
-  "institution": "Potlatch Corp Of Brainerd",
+  "institution": "POTLATCH CORP OF BRAINERD",
   "city": "Brainierd",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56401",
-  "email": false
+  "ope": null
 }

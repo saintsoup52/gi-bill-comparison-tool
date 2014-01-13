@@ -1,6 +1,6 @@
 {
   "facility_code": "20420749",
-  "institution": "Milwaukee Area Electrical Jatc",
+  "institution": "MILWAUKEE AREA ELECTRICAL JATC",
   "city": "Wauwatosa",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53226",
-  "email": false
+  "ope": null
 }

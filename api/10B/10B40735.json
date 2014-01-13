@@ -1,6 +1,6 @@
 {
   "facility_code": "10B40735",
-  "institution": "Va Medical Center Brecksville (Ch31)",
+  "institution": "VA MEDICAL CENTER BRECKSVILLE (CH31)",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44141",
-  "email": "No (SCO)"
+  "ope": null
 }

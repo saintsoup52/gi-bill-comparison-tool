@@ -1,6 +1,6 @@
 {
   "facility_code": "10023033",
-  "institution": "Town Of Cary",
+  "institution": "TOWN OF CARY",
   "city": "Cary",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27515",
-  "email": true
+  "ope": null
 }

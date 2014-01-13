@@ -1,6 +1,6 @@
 {
   "facility_code": "10N20532",
-  "institution": "Auburn Correctional Facility",
+  "institution": "AUBURN CORRECTIONAL FACILITY",
   "city": "Auburn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13021",
-  "email": false
+  "ope": null
 }

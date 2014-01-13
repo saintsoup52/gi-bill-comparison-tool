@@ -1,6 +1,6 @@
 {
   "facility_code": "15802132",
-  "institution": "Ny City Police Dept Emergency Service Unit",
+  "institution": "NY CITY POLICE DEPT EMERGENCY SERVICE UNIT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11234",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10456847",
-  "institution": "Forks Community Hospital-Ch 31 Only",
+  "institution": "FORKS COMMUNITY HOSPITAL-CH 31 ONLY",
   "city": "Forks",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98331",
-  "email": true
+  "ope": null
 }

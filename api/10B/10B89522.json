@@ -1,6 +1,6 @@
 {
   "facility_code": "10B89522",
-  "institution": "Department Of Justice Bureau Of Prisons Federal Correctional Institute",
+  "institution": "DEPARTMENT OF JUSTICE BUREAU OF PRISONS FEDERAL CORRECTIONAL INSTITUTE",
   "city": "Milan",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48160",
-  "email": true
+  "ope": null
 }

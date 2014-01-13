@@ -1,6 +1,6 @@
 {
   "facility_code": "10971111",
-  "institution": "Us Army Corps Of Engineers (Elberton)",
+  "institution": "US ARMY CORPS OF ENGINEERS (ELBERTON)",
   "city": "Elberton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30635",
-  "email": true
+  "ope": null
 }

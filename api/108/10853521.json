@@ -1,6 +1,6 @@
 {
   "facility_code": "10853521",
-  "institution": "Massachusetts Army National Guard Combined Support Maintenance Shop",
+  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD COMBINED SUPPORT MAINTENANCE SHOP",
   "city": "Devens",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1434",
-  "email": true
+  "ope": null
 }

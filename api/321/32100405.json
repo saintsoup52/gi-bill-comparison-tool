@@ -1,6 +1,6 @@
 {
   "facility_code": "32100405",
-  "institution": "Downey Regional Medical Center",
+  "institution": "DOWNEY REGIONAL MEDICAL CENTER",
   "city": "Downey",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90241",
-  "email": false
+  "ope": null
 }

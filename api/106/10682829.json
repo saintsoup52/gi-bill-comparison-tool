@@ -1,6 +1,6 @@
 {
   "facility_code": "10682829",
-  "institution": "Fremont Police Department",
+  "institution": "FREMONT POLICE DEPARTMENT",
   "city": "Fremont",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3044",
-  "email": false
+  "ope": null
 }

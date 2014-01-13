@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00510",
-  "institution": "Melbourne Police Department",
+  "institution": "MELBOURNE POLICE DEPARTMENT",
   "city": "Melbourne",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32901",
-  "email": true
+  "ope": null
 }

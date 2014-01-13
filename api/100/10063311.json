@@ -1,6 +1,6 @@
 {
   "facility_code": "10063311",
-  "institution": "Dalton Police Department",
+  "institution": "DALTON POLICE DEPARTMENT",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30720",
-  "email": true
+  "ope": null
 }

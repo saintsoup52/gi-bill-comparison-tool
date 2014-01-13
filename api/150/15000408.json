@@ -1,6 +1,6 @@
 {
   "facility_code": "15000408",
-  "institution": "Sussex Tech",
+  "institution": "SUSSEX TECH",
   "city": "Georgetown",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19947",
-  "email": true
+  "ope": null
 }

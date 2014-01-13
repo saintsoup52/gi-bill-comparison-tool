@@ -1,6 +1,6 @@
 {
   "facility_code": "19A00333",
-  "institution": "Department Of Veterans Affairs It Department (Ch31 Only)",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS IT DEPARTMENT (CH31 ONLY)",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27155",
-  "email": false
+  "ope": null
 }

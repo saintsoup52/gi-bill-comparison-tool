@@ -1,6 +1,6 @@
 {
   "facility_code": "10486748",
-  "institution": "Faa Charleston Crw Ssc 84hb/Hh",
+  "institution": "FAA CHARLESTON CRW SSC 84HB/HH",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25311",
-  "email": true
+  "ope": null
 }

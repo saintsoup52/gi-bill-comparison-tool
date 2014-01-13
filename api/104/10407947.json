@@ -1,6 +1,6 @@
 {
   "facility_code": "10407947",
-  "institution": "Yakima Indian Health Services (Ch 31 Only)",
+  "institution": "YAKIMA INDIAN HEALTH SERVICES (CH 31 ONLY)",
   "city": "Toppenish",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98948",
-  "email": false
+  "ope": null
 }

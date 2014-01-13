@@ -1,6 +1,6 @@
 {
   "facility_code": "20C03943",
-  "institution": "The Stoneleigh Hotel",
+  "institution": "THE STONELEIGH HOTEL",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75201",
-  "email": false
+  "ope": null
 }

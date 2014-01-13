@@ -1,6 +1,6 @@
 {
   "facility_code": "10024133",
-  "institution": "Federal Aviation Admin (Faa) Tracon/Tower Charlotte",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TRACON/TOWER CHARLOTTE",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28208",
-  "email": true
+  "ope": null
 }

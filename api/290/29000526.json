@@ -1,6 +1,6 @@
 {
   "facility_code": "29000526",
-  "institution": "The Saw Shop",
+  "institution": "THE SAW SHOP",
   "city": "Lolo",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59847",
-  "email": false
+  "ope": null
 }

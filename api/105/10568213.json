@@ -1,6 +1,6 @@
 {
   "facility_code": "10568213",
-  "institution": "Decatur Correctional Center",
+  "institution": "DECATUR CORRECTIONAL CENTER",
   "city": "Decatur",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62524",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11801040",
-  "institution": "University Of South Carolina Upstate",
+  "institution": "UNIVERSITY OF SOUTH CAROLINA UPSTATE",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29303",
-  "email": true
+  "ope": "00695100"
 }

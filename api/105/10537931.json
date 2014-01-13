@@ -1,6 +1,6 @@
 {
   "facility_code": "10537931",
-  "institution": "Marshall'S Office (Ch31)",
+  "institution": "MARSHALL'S OFFICE (CH31)",
   "city": "Melrose",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88124",
-  "email": false
+  "ope": null
 }

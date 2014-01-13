@@ -1,6 +1,6 @@
 {
   "facility_code": "10540330",
-  "institution": "Brick Township Police Department",
+  "institution": "BRICK TOWNSHIP POLICE DEPARTMENT",
   "city": "Brick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8723",
-  "email": false
+  "ope": null
 }

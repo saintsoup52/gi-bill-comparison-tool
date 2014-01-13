@@ -1,6 +1,6 @@
 {
   "facility_code": "10830921",
-  "institution": "Hingham Fire Department",
+  "institution": "HINGHAM FIRE DEPARTMENT",
   "city": "Hingham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2043",
-  "email": true
+  "ope": null
 }

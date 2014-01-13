@@ -1,6 +1,6 @@
 {
   "facility_code": "10N10332",
-  "institution": "Onondaga County Department Of Corrections",
+  "institution": "ONONDAGA COUNTY DEPARTMENT OF CORRECTIONS",
   "city": "Jamesville",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13078",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000593",
-  "institution": "Uppsala University",
+  "institution": "UPPSALA UNIVERSITY",
   "city": "Se-75105",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

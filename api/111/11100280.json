@@ -1,6 +1,6 @@
 {
   "facility_code": "11100280",
-  "institution": "Universitat Bayreuth",
+  "institution": "UNIVERSITAT BAYREUTH",
   "city": "Bayreuth",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

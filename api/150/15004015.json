@@ -1,6 +1,6 @@
 {
   "facility_code": "15004015",
-  "institution": "Wapello County Sheriff'S Office",
+  "institution": "WAPELLO COUNTY SHERIFF'S OFFICE",
   "city": "Ottumwa",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50131",
-  "email": false
+  "ope": null
 }

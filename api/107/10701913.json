@@ -1,6 +1,6 @@
 {
   "facility_code": "10701913",
-  "institution": "County Of Kane",
+  "institution": "COUNTY OF KANE",
   "city": "Geneva",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60510",
-  "email": false
+  "ope": null
 }

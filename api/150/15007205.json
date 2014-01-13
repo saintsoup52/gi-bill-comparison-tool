@@ -1,6 +1,6 @@
 {
   "facility_code": "15007205",
-  "institution": "Solano County Regional Occupational Program (Ch 31)",
+  "institution": "SOLANO COUNTY REGIONAL OCCUPATIONAL PROGRAM (CH 31)",
   "city": "Fairfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94533",
-  "email": false
+  "ope": "04000300"
 }

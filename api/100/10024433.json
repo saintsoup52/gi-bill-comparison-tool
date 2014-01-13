@@ -1,6 +1,6 @@
 {
   "facility_code": "10024433",
-  "institution": "Federal Aviation Admin (Faa)Tracon/Tower Greensboro",
+  "institution": "FEDERAL AVIATION ADMIN (FAA)TRACON/TOWER GREENSBORO",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27409",
-  "email": true
+  "ope": null
 }

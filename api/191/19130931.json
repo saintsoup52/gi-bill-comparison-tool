@@ -1,6 +1,6 @@
 {
   "facility_code": "19130931",
-  "institution": "Kirtland Afb Personnel (Ch31)",
+  "institution": "KIRTLAND AFB PERSONNEL (CH31)",
   "city": "Kirtland Afb",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87117",
-  "email": false
+  "ope": null
 }

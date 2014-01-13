@@ -1,6 +1,6 @@
 {
   "facility_code": "10C17843",
-  "institution": "Faa Houston Artcc",
+  "institution": "FAA HOUSTON ARTCC",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77032",
-  "email": true
+  "ope": null
 }

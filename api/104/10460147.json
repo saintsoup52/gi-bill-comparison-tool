@@ -1,6 +1,6 @@
 {
   "facility_code": "10460147",
-  "institution": "Okanogan County Sheriff'S Office",
+  "institution": "OKANOGAN COUNTY SHERIFF'S OFFICE",
   "city": "Okanogan",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98840",
-  "email": true
+  "ope": null
 }

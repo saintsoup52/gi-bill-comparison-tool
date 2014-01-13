@@ -1,6 +1,6 @@
 {
   "facility_code": "10651040",
-  "institution": "Darlington Police Department",
+  "institution": "DARLINGTON POLICE DEPARTMENT",
   "city": "Darlington",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29532",
-  "email": false
+  "ope": null
 }

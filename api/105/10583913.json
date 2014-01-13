@@ -1,6 +1,6 @@
 {
   "facility_code": "10583913",
-  "institution": "Pekin Federal Correctional Institution",
+  "institution": "PEKIN FEDERAL CORRECTIONAL INSTITUTION",
   "city": "Pekin",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61554",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25176905",
-  "institution": "Sae Institute Of Technology (San Francisco)",
+  "institution": "SAE INSTITUTE OF TECHNOLOGY (SAN FRANCISCO)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94107",
-  "email": true
+  "ope": null
 }

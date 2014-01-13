@@ -1,6 +1,6 @@
 {
   "facility_code": "10042611",
-  "institution": "Floyd County Sheriff'S Office",
+  "institution": "FLOYD COUNTY SHERIFF'S OFFICE",
   "city": "Rome",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30165",
-  "email": false
+  "ope": null
 }

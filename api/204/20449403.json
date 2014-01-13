@@ -1,6 +1,6 @@
 {
   "facility_code": "20449403",
-  "institution": "Palo Verde Nuclear Generating Station (Ojt)",
+  "institution": "PALO VERDE NUCLEAR GENERATING STATION (OJT)",
   "city": "Tonopah",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85354",
-  "email": false
+  "ope": null
 }

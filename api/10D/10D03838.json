@@ -1,6 +1,6 @@
 {
   "facility_code": "10D03838",
-  "institution": "Pa Dept Of Public Welfare/Norristown State Hosp",
+  "institution": "PA DEPT OF PUBLIC WELFARE/NORRISTOWN STATE HOSP",
   "city": "Norristown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19401",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10473536",
-  "institution": "Bartlesville Police Department",
+  "institution": "BARTLESVILLE POLICE DEPARTMENT",
   "city": "Bartlesville",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74003",
-  "email": false
+  "ope": null
 }

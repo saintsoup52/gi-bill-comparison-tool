@@ -1,6 +1,6 @@
 {
   "facility_code": "10B47635",
-  "institution": "Findlay Fire Department  K",
+  "institution": "FINDLAY FIRE DEPARTMENT  K",
   "city": "Findlay",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45840",
-  "email": true
+  "ope": null
 }

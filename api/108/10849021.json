@@ -1,6 +1,6 @@
 {
   "facility_code": "10849021",
-  "institution": "Barnstable County Sheriff'S Office",
+  "institution": "BARNSTABLE COUNTY SHERIFF'S OFFICE",
   "city": "Bourne",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2532",
-  "email": false
+  "ope": null
 }

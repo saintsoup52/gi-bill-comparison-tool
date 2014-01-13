@@ -1,6 +1,6 @@
 {
   "facility_code": "10520617",
-  "institution": "Anderson County Sheriff Department",
+  "institution": "ANDERSON COUNTY SHERIFF DEPARTMENT",
   "city": "Lawrenceburg",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40342",
-  "email": true
+  "ope": null
 }

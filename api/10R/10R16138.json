@@ -1,6 +1,6 @@
 {
   "facility_code": "10R16138",
-  "institution": "Pennsylvania State Police Troop B-Uniontown",
+  "institution": "PENNSYLVANIA STATE POLICE TROOP B-UNIONTOWN",
   "city": "Lemont Furnace",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15456",
-  "email": true
+  "ope": null
 }

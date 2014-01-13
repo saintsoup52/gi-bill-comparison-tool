@@ -1,6 +1,6 @@
 {
   "facility_code": "10713411",
-  "institution": "Wrens Police Dept City Of",
+  "institution": "WRENS POLICE DEPT CITY OF",
   "city": "Wrens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30833",
-  "email": false
+  "ope": null
 }

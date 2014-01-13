@@ -1,6 +1,6 @@
 {
   "facility_code": "12518505",
-  "institution": "Va Medical Center W La  (Brentwood) (Ch31)",
+  "institution": "VA MEDICAL CENTER W LA  (BRENTWOOD) (CH31)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90073",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N17432",
-  "institution": "Nassau County Police Department - 1st Precinct",
+  "institution": "NASSAU COUNTY POLICE DEPARTMENT - 1ST PRECINCT",
   "city": "Baldwin",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11510",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10499017",
-  "institution": "Federal Correctional Institution - Ashland",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - ASHLAND",
   "city": "Ashland",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41105",
-  "email": false
+  "ope": null
 }

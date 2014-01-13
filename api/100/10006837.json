@@ -1,6 +1,6 @@
 {
   "facility_code": "10006837",
-  "institution": "Deschutes County Sheriff'S Office",
+  "institution": "DESCHUTES COUNTY SHERIFF'S OFFICE",
   "city": "Bend",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97701",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "46002009",
-  "institution": "National Board Of Public Health Examiners",
+  "institution": "NATIONAL BOARD OF PUBLIC HEALTH EXAMINERS",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20005",
-  "email": false
+  "ope": null
 }

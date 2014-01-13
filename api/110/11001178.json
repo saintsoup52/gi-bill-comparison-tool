@@ -1,6 +1,6 @@
 {
   "facility_code": "11001178",
-  "institution": "Universidad De Salamanca",
+  "institution": "UNIVERSIDAD DE SALAMANCA",
   "city": "37008 Salamanca",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

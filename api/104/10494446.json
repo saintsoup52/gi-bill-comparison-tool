@@ -1,6 +1,6 @@
 {
   "facility_code": "10494446",
-  "institution": "Virginia State Police Area Office #19",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #19",
   "city": "Buckingham",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23921",
-  "email": false
+  "ope": null
 }

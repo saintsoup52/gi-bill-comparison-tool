@@ -1,6 +1,6 @@
 {
   "facility_code": "15000728",
-  "institution": "Mojave High School",
+  "institution": "MOJAVE HIGH SCHOOL",
   "city": "N. Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89030",
-  "email": false
+  "ope": null
 }

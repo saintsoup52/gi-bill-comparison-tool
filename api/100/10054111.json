@@ -1,6 +1,6 @@
 {
   "facility_code": "10054111",
-  "institution": "Miller County Sheriff'S Office",
+  "institution": "MILLER COUNTY SHERIFF'S OFFICE",
   "city": "Colquitt",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39837",
-  "email": false
+  "ope": null
 }

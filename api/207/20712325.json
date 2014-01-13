@@ -1,6 +1,6 @@
 {
   "facility_code": "20712325",
-  "institution": "Custom Auto Body",
+  "institution": "CUSTOM AUTO BODY",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65301",
-  "email": false
+  "ope": null
 }

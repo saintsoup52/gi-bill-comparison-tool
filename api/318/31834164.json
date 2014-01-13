@@ -1,6 +1,6 @@
 {
   "facility_code": "31834164",
-  "institution": "Embry-Riddle Aero Univ",
+  "institution": "EMBRY-RIDDLE AERO UNIV",
   "city": "Schofield Barracks",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96857",
-  "email": true
+  "ope": "00147900"
 }

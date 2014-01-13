@@ -1,6 +1,6 @@
 {
   "facility_code": "32905506",
-  "institution": "St Anthony Hosp Central - Inst Of Emer Med Tech",
+  "institution": "ST ANTHONY HOSP CENTRAL - INST OF EMER MED TECH",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80228",
-  "email": true
+  "ope": null
 }

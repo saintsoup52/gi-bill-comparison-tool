@@ -1,6 +1,6 @@
 {
   "facility_code": "10014612",
-  "institution": "Gooding County Sheriff'S Office",
+  "institution": "GOODING COUNTY SHERIFF'S OFFICE",
   "city": "Gooding",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83330",
-  "email": false
+  "ope": null
 }

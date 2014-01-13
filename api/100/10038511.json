@@ -1,6 +1,6 @@
 {
   "facility_code": "10038511",
-  "institution": "Education & Training Flight",
+  "institution": "EDUCATION & TRAINING FLIGHT",
   "city": "Robins Afb",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31098",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N44032",
-  "institution": "New York State Police Troop L",
+  "institution": "NEW YORK STATE POLICE TROOP L",
   "city": "East Farmingdale",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11735",
-  "email": true
+  "ope": null
 }

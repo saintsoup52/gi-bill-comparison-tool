@@ -1,6 +1,6 @@
 {
   "facility_code": "11100178",
-  "institution": "University Of Amsterdam",
+  "institution": "UNIVERSITY OF AMSTERDAM",
   "city": "Amsterdam",
   "state": "Netherlands",
   "country": "Netherlands",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

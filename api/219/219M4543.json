@@ -1,6 +1,6 @@
 {
   "facility_code": "219M4543",
-  "institution": "The Art Institute Of Dallas A Campus Of South University",
+  "institution": "THE ART INSTITUTE OF DALLAS A CAMPUS OF SOUTH UNIVERSITY",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75231",
-  "email": false
+  "ope": null
 }

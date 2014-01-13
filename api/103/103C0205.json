@@ -1,6 +1,6 @@
 {
   "facility_code": "103C0205",
-  "institution": "State Of California Edd- Glendale (Chapter 31 Only)",
+  "institution": "STATE OF CALIFORNIA EDD- GLENDALE (CHAPTER 31 ONLY)",
   "city": "Glendale",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91204",
-  "email": false
+  "ope": null
 }

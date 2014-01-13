@@ -1,6 +1,6 @@
 {
   "facility_code": "10543231",
-  "institution": "Usda Rural Development",
+  "institution": "USDA RURAL DEVELOPMENT",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87109",
-  "email": false
+  "ope": null
 }

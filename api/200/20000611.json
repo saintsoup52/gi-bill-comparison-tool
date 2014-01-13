@@ -1,6 +1,6 @@
 {
   "facility_code": "20000611",
-  "institution": "Atlanta Electrical Jatc",
+  "institution": "ATLANTA ELECTRICAL JATC",
   "city": "Norcross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30071",
-  "email": true
+  "ope": null
 }

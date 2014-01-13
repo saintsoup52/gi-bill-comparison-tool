@@ -1,6 +1,6 @@
 {
   "facility_code": "20559513",
-  "institution": "Byron Generating Station Exelon",
+  "institution": "BYRON GENERATING STATION EXELON",
   "city": "Byron",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61010",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10567213",
-  "institution": "Hill Correctional Center",
+  "institution": "HILL CORRECTIONAL CENTER",
   "city": "Galesburg",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61402",
-  "email": true
+  "ope": null
 }

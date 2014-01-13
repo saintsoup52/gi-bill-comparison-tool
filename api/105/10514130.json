@@ -1,6 +1,6 @@
 {
   "facility_code": "10514130",
-  "institution": "Hackensack Police Department",
+  "institution": "HACKENSACK POLICE DEPARTMENT",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7601",
-  "email": true
+  "ope": null
 }

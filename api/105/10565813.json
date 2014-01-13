@@ -1,6 +1,6 @@
 {
   "facility_code": "10565813",
-  "institution": "Idoc-East Moline Correctional Center",
+  "institution": "IDOC-EAST MOLINE CORRECTIONAL CENTER",
   "city": "East Moline",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61244",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10264847",
-  "institution": "Washington State Department Of Corrections",
+  "institution": "WASHINGTON STATE DEPARTMENT OF CORRECTIONS",
   "city": "Olympia",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98504",
-  "email": true
+  "ope": null
 }

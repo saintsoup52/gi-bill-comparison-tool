@@ -1,6 +1,6 @@
 {
   "facility_code": "10225803",
-  "institution": "City Of Mesa - Electric Utility",
+  "institution": "CITY OF MESA - ELECTRIC UTILITY",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85201",
-  "email": false
+  "ope": null
 }

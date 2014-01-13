@@ -1,6 +1,6 @@
 {
   "facility_code": "10975210",
-  "institution": "Federal Correctional Institution(Bop) - Marianna",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION(BOP) - MARIANNA",
   "city": "Marianna",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32446",
-  "email": true
+  "ope": null
 }

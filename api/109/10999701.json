@@ -1,6 +1,6 @@
 {
   "facility_code": "10999701",
-  "institution": "City Of Eufaula",
+  "institution": "CITY OF EUFAULA",
   "city": "Eufaula",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36072",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20089722",
-  "institution": "Michigan Department Of Corrections Thumb Correctional Facility",
+  "institution": "MICHIGAN DEPARTMENT OF CORRECTIONS THUMB CORRECTIONAL FACILITY",
   "city": "Lapeer",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48446",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10194838",
-  "institution": "Philadelphia Prisons",
+  "institution": "PHILADELPHIA PRISONS",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19136",
-  "email": true
+  "ope": null
 }

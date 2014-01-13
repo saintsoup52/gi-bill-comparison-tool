@@ -1,6 +1,6 @@
 {
   "facility_code": "10N28432",
-  "institution": "Suffolk County Police Department - 7th Precinct",
+  "institution": "SUFFOLK COUNTY POLICE DEPARTMENT - 7TH PRECINCT",
   "city": "Shirley",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11967",
-  "email": false
+  "ope": null
 }

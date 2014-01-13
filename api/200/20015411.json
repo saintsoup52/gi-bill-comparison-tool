@@ -1,6 +1,6 @@
 {
   "facility_code": "20015411",
-  "institution": "Gpm Inc.",
+  "institution": "GPM INC.",
   "city": "Pooler",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31322",
-  "email": false
+  "ope": null
 }

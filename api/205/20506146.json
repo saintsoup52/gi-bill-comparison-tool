@@ -1,6 +1,6 @@
 {
   "facility_code": "20506146",
-  "institution": "Norfolk Southern Corporation Roanoke Locomotive Shop",
+  "institution": "NORFOLK SOUTHERN CORPORATION ROANOKE LOCOMOTIVE SHOP",
   "city": "Roanoke",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24042",
-  "email": true
+  "ope": null
 }

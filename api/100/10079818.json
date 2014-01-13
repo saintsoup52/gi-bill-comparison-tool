@@ -1,6 +1,6 @@
 {
   "facility_code": "10079818",
-  "institution": "Faa - Shreveport Rapcon/Atct",
+  "institution": "FAA - SHREVEPORT RAPCON/ATCT",
   "city": "Barksdale Afb",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71110",
-  "email": true
+  "ope": null
 }

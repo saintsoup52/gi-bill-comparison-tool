@@ -1,6 +1,6 @@
 {
   "facility_code": "103B4305",
-  "institution": "Social Security Administration (Gilroy)(Chapter 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (GILROY)(CHAPTER 31 ONLY)",
   "city": "Gilroy",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95020",
-  "email": false
+  "ope": null
 }

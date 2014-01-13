@@ -1,6 +1,6 @@
 {
   "facility_code": "11102070",
-  "institution": "University Of Wollongong",
+  "institution": "UNIVERSITY OF WOLLONGONG",
   "city": "Wollongong",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

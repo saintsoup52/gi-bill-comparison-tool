@@ -1,6 +1,6 @@
 {
   "facility_code": "31000404",
-  "institution": "University Of The Ozarks",
+  "institution": "UNIVERSITY OF THE OZARKS",
   "city": "Clarksville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72830",
-  "email": false
+  "ope": "00109400"
 }

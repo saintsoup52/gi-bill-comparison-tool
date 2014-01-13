@@ -1,6 +1,6 @@
 {
   "facility_code": "10014633",
-  "institution": "Dare County Sheriff'S Office",
+  "institution": "DARE COUNTY SHERIFF'S OFFICE",
   "city": "Monteo",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27954",
-  "email": true
+  "ope": null
 }

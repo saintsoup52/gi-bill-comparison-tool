@@ -1,6 +1,6 @@
 {
   "facility_code": "11101380",
-  "institution": "Johannes Gutenberg - Universitat Mainz",
+  "institution": "JOHANNES GUTENBERG - UNIVERSITAT MAINZ",
   "city": "Mainz",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15001115",
-  "institution": "Abraham Lincoln High School",
+  "institution": "ABRAHAM LINCOLN HIGH SCHOOL",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50315",
-  "email": false
+  "ope": null
 }

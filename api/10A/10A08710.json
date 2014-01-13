@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08710",
-  "institution": "Federal Aviation Admin (Faa) Gainesville System Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) GAINESVILLE SYSTEM SUPPORT CENTER",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32609",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10282204",
-  "institution": "Rogers Police Department",
+  "institution": "ROGERS POLICE DEPARTMENT",
   "city": "Rogers",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72758",
-  "email": false
+  "ope": null
 }

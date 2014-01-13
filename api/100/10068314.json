@@ -1,6 +1,6 @@
 {
   "facility_code": "10068314",
-  "institution": "Elwood Police Department",
+  "institution": "ELWOOD POLICE DEPARTMENT",
   "city": "Elwood",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46036",
-  "email": false
+  "ope": null
 }

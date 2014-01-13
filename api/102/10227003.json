@@ -1,6 +1,6 @@
 {
   "facility_code": "10227003",
-  "institution": "Globe Police Department",
+  "institution": "GLOBE POLICE DEPARTMENT",
   "city": "Globe",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85501",
-  "email": false
+  "ope": null
 }

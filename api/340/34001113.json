@@ -1,6 +1,6 @@
 {
   "facility_code": "34001113",
-  "institution": "Lincoln College",
+  "institution": "LINCOLN COLLEGE",
   "city": "Lincoln",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "62656",
-  "email": true
+  "ope": "00170900"
 }

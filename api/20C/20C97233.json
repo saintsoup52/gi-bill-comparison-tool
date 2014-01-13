@@ -1,6 +1,6 @@
 {
   "facility_code": "20C97233",
-  "institution": "J & J Custom",
+  "institution": "J & J CUSTOM",
   "city": "Kannapolis",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28083",
-  "email": false
+  "ope": null
 }

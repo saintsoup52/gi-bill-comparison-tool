@@ -1,6 +1,6 @@
 {
   "facility_code": "10000402",
-  "institution": "Public Safety Academy",
+  "institution": "PUBLIC SAFETY ACADEMY",
   "city": "Sitka",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99835",
-  "email": false
+  "ope": null
 }

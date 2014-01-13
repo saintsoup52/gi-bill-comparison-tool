@@ -1,6 +1,6 @@
 {
   "facility_code": "10071511",
-  "institution": "Department Of Homeland Security - U. S. Immigration & Customs Enforcement",
+  "institution": "DEPARTMENT OF HOMELAND SECURITY - U. S. IMMIGRATION & CUSTOMS ENFORCEMENT",
   "city": "East Point",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30344",
-  "email": true
+  "ope": null
 }

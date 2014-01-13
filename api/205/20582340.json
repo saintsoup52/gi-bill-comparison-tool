@@ -1,6 +1,6 @@
 {
   "facility_code": "20582340",
-  "institution": "Cayce Police Department",
+  "institution": "CAYCE POLICE DEPARTMENT",
   "city": "Cayce",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29171",
-  "email": false
+  "ope": null
 }

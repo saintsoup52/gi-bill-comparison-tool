@@ -1,6 +1,6 @@
 {
   "facility_code": "10828921",
-  "institution": "Massachusetts State Police",
+  "institution": "MASSACHUSETTS STATE POLICE",
   "city": "Framingham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1702",
-  "email": true
+  "ope": null
 }

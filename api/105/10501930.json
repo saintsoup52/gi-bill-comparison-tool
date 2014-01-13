@@ -1,6 +1,6 @@
 {
   "facility_code": "10501930",
-  "institution": "Berkeley Township Police Department",
+  "institution": "BERKELEY TOWNSHIP POLICE DEPARTMENT",
   "city": "Bayville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8721",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11001718",
-  "institution": "Louisiana Tech University - Ruston",
+  "institution": "LOUISIANA TECH UNIVERSITY - RUSTON",
   "city": "Ruston",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71272",
-  "email": true
+  "ope": "00200800"
 }

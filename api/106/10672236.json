@@ -1,6 +1,6 @@
 {
   "facility_code": "10672236",
-  "institution": "Stillwater Police Department",
+  "institution": "STILLWATER POLICE DEPARTMENT",
   "city": "Stillwater",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74074",
-  "email": false
+  "ope": null
 }

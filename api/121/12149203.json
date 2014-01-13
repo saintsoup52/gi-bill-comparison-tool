@@ -1,6 +1,6 @@
 {
   "facility_code": "12149203",
-  "institution": "University Of Arizona Health Sciences Center",
+  "institution": "UNIVERSITY OF ARIZONA HEALTH SCIENCES CENTER",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85724",
-  "email": false
+  "ope": null
 }

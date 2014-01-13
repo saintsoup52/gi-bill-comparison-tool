@@ -1,6 +1,6 @@
 {
   "facility_code": "20271037",
-  "institution": "Mid-Willamette Industrial Tatc",
+  "institution": "MID-WILLAMETTE INDUSTRIAL TATC",
   "city": "Albany",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97321",
-  "email": false
+  "ope": null
 }

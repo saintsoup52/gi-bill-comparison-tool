@@ -1,6 +1,6 @@
 {
   "facility_code": "10B02123",
-  "institution": "City Of Duluth",
+  "institution": "CITY OF DULUTH",
   "city": "Duluth",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55802",
-  "email": false
+  "ope": null
 }

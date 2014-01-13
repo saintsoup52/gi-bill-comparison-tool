@@ -1,6 +1,6 @@
 {
   "facility_code": "301B5905",
-  "institution": "Project Seed",
+  "institution": "PROJECT SEED",
   "city": "Berkeley",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94702",
-  "email": false
+  "ope": null
 }

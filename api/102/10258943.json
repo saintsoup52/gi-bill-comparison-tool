@@ -1,6 +1,6 @@
 {
   "facility_code": "10258943",
-  "institution": "Federal Correctional Institution Ft Worth",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION FT WORTH",
   "city": "Ft Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76119",
-  "email": true
+  "ope": null
 }

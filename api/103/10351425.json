@@ -1,6 +1,6 @@
 {
   "facility_code": "10351425",
-  "institution": "Pulaski County Sheriff'S Dept.",
+  "institution": "PULASKI COUNTY SHERIFF'S DEPT.",
   "city": "Waynesville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65583",
-  "email": true
+  "ope": null
 }

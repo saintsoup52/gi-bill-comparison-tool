@@ -1,6 +1,6 @@
 {
   "facility_code": "10459147",
-  "institution": "Spokane Fire Department",
+  "institution": "SPOKANE FIRE DEPARTMENT",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99201",
-  "email": true
+  "ope": null
 }

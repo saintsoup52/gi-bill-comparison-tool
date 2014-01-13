@@ -1,6 +1,6 @@
 {
   "facility_code": "20030235",
-  "institution": "O.K. Dies   K",
+  "institution": "O.K. DIES   K",
   "city": "Salem",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44460",
-  "email": false
+  "ope": null
 }

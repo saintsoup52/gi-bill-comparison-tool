@@ -1,6 +1,6 @@
 {
   "facility_code": "10301126",
-  "institution": "Federal Aviation Administration (Faa) Billings Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) BILLINGS TRACON/TOWER",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59105",
-  "email": true
+  "ope": null
 }

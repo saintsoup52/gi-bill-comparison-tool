@@ -1,6 +1,6 @@
 {
   "facility_code": "20585125",
-  "institution": "Arthur Andersen & Company",
+  "institution": "ARTHUR ANDERSEN & COMPANY",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64199",
-  "email": false
+  "ope": null
 }

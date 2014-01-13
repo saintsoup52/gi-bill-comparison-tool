@@ -1,6 +1,6 @@
 {
   "facility_code": "15117148",
-  "institution": "Opm-Leadershp Eductn & Devlpmt (Lead)-Eastrn Mgmgt Dev Cntr",
+  "institution": "OPM-LEADERSHP EDUCTN & DEVLPMT (LEAD)-EASTRN MGMGT DEV CNTR",
   "city": "Shepherdstown",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25443",
-  "email": true
+  "ope": null
 }

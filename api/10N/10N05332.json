@@ -1,6 +1,6 @@
 {
   "facility_code": "10N05332",
-  "institution": "City Of Middletown Police Department",
+  "institution": "CITY OF MIDDLETOWN POLICE DEPARTMENT",
   "city": "Middletown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10940",
-  "email": true
+  "ope": null
 }

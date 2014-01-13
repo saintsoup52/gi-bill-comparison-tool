@@ -1,6 +1,6 @@
 {
   "facility_code": "17593148",
-  "institution": "Morgantown High School",
+  "institution": "MORGANTOWN HIGH SCHOOL",
   "city": "Morgantown",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26501",
-  "email": true
+  "ope": null
 }

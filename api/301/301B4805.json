@@ -1,6 +1,6 @@
 {
   "facility_code": "301B4805",
-  "institution": "Social Security Administration(Thousand Oaks)(Chapter 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(THOUSAND OAKS)(CHAPTER 31 ONLY)",
   "city": "Thousand Oaks",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91360",
-  "email": false
+  "ope": null
 }

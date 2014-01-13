@@ -1,6 +1,6 @@
 {
   "facility_code": "10006111",
-  "institution": "City Of Riverdale Police Department",
+  "institution": "CITY OF RIVERDALE POLICE DEPARTMENT",
   "city": "Riverdale",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30274",
-  "email": false
+  "ope": null
 }

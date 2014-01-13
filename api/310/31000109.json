@@ -1,6 +1,6 @@
 {
   "facility_code": "31000109",
-  "institution": "Catholic University",
+  "institution": "CATHOLIC UNIVERSITY",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20064",
-  "email": false
+  "ope": "00143700"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15001703",
-  "institution": "University Of North Dakota Aerospace Ftc",
+  "institution": "UNIVERSITY OF NORTH DAKOTA AEROSPACE FTC",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85212",
-  "email": false
+  "ope": null
 }

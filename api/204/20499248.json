@@ -1,6 +1,6 @@
 {
   "facility_code": "20499248",
-  "institution": "Iuec Local#48",
+  "institution": "IUEC LOCAL#48",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25301",
-  "email": true
+  "ope": null
 }

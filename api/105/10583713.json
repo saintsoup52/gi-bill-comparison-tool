@@ -1,6 +1,6 @@
 {
   "facility_code": "10583713",
-  "institution": "Us Army Corps Of Engineers District Rock Island Lock And Dam #15",
+  "institution": "US ARMY CORPS OF ENGINEERS DISTRICT ROCK ISLAND LOCK AND DAM #15",
   "city": "Rock Island",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61204",
-  "email": true
+  "ope": null
 }

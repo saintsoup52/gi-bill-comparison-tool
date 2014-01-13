@@ -1,6 +1,6 @@
 {
   "facility_code": "10012049",
-  "institution": "Oxford Federal Correctional Institution",
+  "institution": "OXFORD FEDERAL CORRECTIONAL INSTITUTION",
   "city": "Oxford",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53952",
-  "email": false
+  "ope": null
 }

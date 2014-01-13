@@ -1,6 +1,6 @@
 {
   "facility_code": "32900107",
-  "institution": "Hartford Hospital Residency",
+  "institution": "HARTFORD HOSPITAL RESIDENCY",
   "city": "Hartford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6102",
-  "email": false
+  "ope": null
 }

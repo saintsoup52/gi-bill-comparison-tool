@@ -1,6 +1,6 @@
 {
   "facility_code": "30060545",
-  "institution": "Dealer.Com",
+  "institution": "DEALER.COM",
   "city": "Burlington",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5401",
-  "email": false
+  "ope": null
 }

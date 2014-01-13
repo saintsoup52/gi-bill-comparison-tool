@@ -1,6 +1,6 @@
 {
   "facility_code": "21002249",
-  "institution": "The Art Institute Of Wisconsin",
+  "institution": "THE ART INSTITUTE OF WISCONSIN",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53202",
-  "email": true
+  "ope": "04051302"
 }

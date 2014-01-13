@@ -1,6 +1,6 @@
 {
   "facility_code": "20D15033",
-  "institution": "Brighton Gardens Of Greensboro",
+  "institution": "BRIGHTON GARDENS OF GREENSBORO",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27410",
-  "email": true
+  "ope": null
 }

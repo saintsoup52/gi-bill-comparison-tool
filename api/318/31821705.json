@@ -1,6 +1,6 @@
 {
   "facility_code": "31821705",
-  "institution": "Embry-Riddle Aeronautical Univ (Travis Afb)",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV (TRAVIS AFB)",
   "city": "Travis Afb",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94535",
-  "email": false
+  "ope": "00147900"
 }

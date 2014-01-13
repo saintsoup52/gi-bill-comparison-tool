@@ -1,6 +1,6 @@
 {
   "facility_code": "101B9405",
-  "institution": "Chula Vista Police Department",
+  "institution": "CHULA VISTA POLICE DEPARTMENT",
   "city": "Chula Vista",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91910",
-  "email": false
+  "ope": null
 }

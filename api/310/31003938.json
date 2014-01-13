@@ -1,6 +1,6 @@
 {
   "facility_code": "31003938",
-  "institution": "Swarthmore College",
+  "institution": "SWARTHMORE COLLEGE",
   "city": "Swarthmore",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19081",
-  "email": true
+  "ope": "00337000"
 }

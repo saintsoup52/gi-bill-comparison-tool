@@ -1,6 +1,6 @@
 {
   "facility_code": "10072311",
-  "institution": "West Point Police Department",
+  "institution": "WEST POINT POLICE DEPARTMENT",
   "city": "West Point",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31833",
-  "email": true
+  "ope": null
 }

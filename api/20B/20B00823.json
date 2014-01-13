@@ -1,6 +1,6 @@
 {
   "facility_code": "20B00823",
-  "institution": "Minnesota Operating Engineers Jac",
+  "institution": "MINNESOTA OPERATING ENGINEERS JAC",
   "city": "Hinckley",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55037",
-  "email": false
+  "ope": null
 }

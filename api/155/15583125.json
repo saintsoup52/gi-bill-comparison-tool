@@ -1,6 +1,6 @@
 {
   "facility_code": "15583125",
-  "institution": "Raytown High School",
+  "institution": "RAYTOWN HIGH SCHOOL",
   "city": "Raytown",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64133",
-  "email": false
+  "ope": null
 }

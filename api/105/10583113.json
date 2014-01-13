@@ -1,6 +1,6 @@
 {
   "facility_code": "10583113",
-  "institution": "Va Regional Office Vr&E",
+  "institution": "VA REGIONAL OFFICE VR&E",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60612",
-  "email": false
+  "ope": null
 }

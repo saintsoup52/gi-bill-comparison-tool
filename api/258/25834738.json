@@ -1,6 +1,6 @@
 {
   "facility_code": "25834738",
-  "institution": "Cdm Institute (Chap 31)",
+  "institution": "CDM INSTITUTE (CHAP 31)",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18106",
-  "email": false
+  "ope": null
 }

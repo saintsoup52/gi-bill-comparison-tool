@@ -1,6 +1,6 @@
 {
   "facility_code": "11901132",
-  "institution": "Farmingdale State College Suny",
+  "institution": "FARMINGDALE STATE COLLEGE SUNY",
   "city": "Farmingdale",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "11735",
-  "email": true
+  "ope": "00285800"
 }

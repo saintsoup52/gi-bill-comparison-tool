@@ -1,6 +1,6 @@
 {
   "facility_code": "20555440",
-  "institution": "Bode Corporation",
+  "institution": "BODE CORPORATION",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29303",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N15932",
-  "institution": "Coxsackie Correctional Facility",
+  "institution": "COXSACKIE CORRECTIONAL FACILITY",
   "city": "Coxsackie",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12051",
-  "email": false
+  "ope": null
 }

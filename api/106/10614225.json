@@ -1,6 +1,6 @@
 {
   "facility_code": "10614225",
-  "institution": "South Central Correctional Center",
+  "institution": "SOUTH CENTRAL CORRECTIONAL CENTER",
   "city": "Licking",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65542",
-  "email": false
+  "ope": null
 }

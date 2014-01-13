@@ -1,6 +1,6 @@
 {
   "facility_code": "30100326",
-  "institution": "Nonappropriated Funds",
+  "institution": "NONAPPROPRIATED FUNDS",
   "city": "Malmstrom Afb",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59401",
-  "email": false
+  "ope": null
 }

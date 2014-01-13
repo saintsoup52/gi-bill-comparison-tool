@@ -1,6 +1,6 @@
 {
   "facility_code": "20900329",
-  "institution": "Northwestern Mutual Life Insurance Company",
+  "institution": "NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3101",
-  "email": false
+  "ope": null
 }

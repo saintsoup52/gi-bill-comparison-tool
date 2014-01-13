@@ -1,6 +1,6 @@
 {
   "facility_code": "10C12643",
-  "institution": "Federal Correctional Institution Big Spring",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION BIG SPRING",
   "city": "Big Spring",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79720",
-  "email": false
+  "ope": null
 }

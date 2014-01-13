@@ -1,6 +1,6 @@
 {
   "facility_code": "10454336",
-  "institution": "Us Army Hospital Reynalds (Ch31)",
+  "institution": "US ARMY HOSPITAL REYNALDS (CH31)",
   "city": "Ft Sill",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73503",
-  "email": false
+  "ope": null
 }

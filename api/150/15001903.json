@@ -1,6 +1,6 @@
 {
   "facility_code": "15001903",
-  "institution": "City Of Phoenix Community & Econ. Development Dept",
+  "institution": "CITY OF PHOENIX COMMUNITY & ECON. DEVELOPMENT DEPT",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85003",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10117239",
-  "institution": "Richmond Police Department",
+  "institution": "RICHMOND POLICE DEPARTMENT",
   "city": "Wyoming",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2898",
-  "email": false
+  "ope": null
 }

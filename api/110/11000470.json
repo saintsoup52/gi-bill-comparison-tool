@@ -1,6 +1,6 @@
 {
   "facility_code": "11000470",
-  "institution": "University Of Melbourne",
+  "institution": "UNIVERSITY OF MELBOURNE",
   "city": "Parkville Victoria",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

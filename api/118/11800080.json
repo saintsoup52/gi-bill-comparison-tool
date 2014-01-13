@@ -1,6 +1,6 @@
 {
   "facility_code": "11800080",
-  "institution": "Fachhoschule Trier-Birkenfeld",
+  "institution": "FACHHOSCHULE TRIER-BIRKENFELD",
   "city": "Birkenfeld",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

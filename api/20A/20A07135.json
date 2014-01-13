@@ -1,6 +1,6 @@
 {
   "facility_code": "20A07135",
-  "institution": "Kbm Business Machines  G",
+  "institution": "KBM BUSINESS MACHINES  G",
   "city": "Portsmouth",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45662",
-  "email": false
+  "ope": null
 }

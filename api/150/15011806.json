@@ -1,6 +1,6 @@
 {
   "facility_code": "15011806",
-  "institution": "Rocky Mountain (Usaf) Flight Training Center",
+  "institution": "ROCKY MOUNTAIN (USAF) FLIGHT TRAINING CENTER",
   "city": "Peterson Afb",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80914",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10536731",
-  "institution": "Crownpoint Phs/Ihs Hospital (Ch31)",
+  "institution": "CROWNPOINT PHS/IHS HOSPITAL (CH31)",
   "city": "Crownpoint",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87313",
-  "email": false
+  "ope": null
 }

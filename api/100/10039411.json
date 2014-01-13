@@ -1,6 +1,6 @@
 {
   "facility_code": "10039411",
-  "institution": "Avondale Estates Police Department",
+  "institution": "AVONDALE ESTATES POLICE DEPARTMENT",
   "city": "Avondale Estates",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30002",
-  "email": true
+  "ope": null
 }

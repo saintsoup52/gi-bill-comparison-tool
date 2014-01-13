@@ -1,6 +1,6 @@
 {
   "facility_code": "20150930",
-  "institution": "Ibew Local 164",
+  "institution": "IBEW LOCAL 164",
   "city": "Paramus",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7652",
-  "email": false
+  "ope": null
 }

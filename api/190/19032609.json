@@ -1,6 +1,6 @@
 {
   "facility_code": "19032609",
-  "institution": "Department Of Veterans Affairs (Voc Rehab)",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS (VOC REHAB)",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20421",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31001819",
-  "institution": "Bangor Theological Seminary",
+  "institution": "BANGOR THEOLOGICAL SEMINARY",
   "city": "Bangor",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "4402",
-  "email": true
+  "ope": "00203500"
 }

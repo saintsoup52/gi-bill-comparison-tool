@@ -1,6 +1,6 @@
 {
   "facility_code": "10011327",
-  "institution": "Lincoln Police Department",
+  "institution": "LINCOLN POLICE DEPARTMENT",
   "city": "Lincoln",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68508",
-  "email": false
+  "ope": null
 }

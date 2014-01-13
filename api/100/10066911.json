@@ -1,6 +1,6 @@
 {
   "facility_code": "10066911",
-  "institution": "Georgia State Patrol - Post 14 (Colquitt)",
+  "institution": "GEORGIA STATE PATROL - POST 14 (COLQUITT)",
   "city": "Colquitt",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39837",
-  "email": true
+  "ope": null
 }

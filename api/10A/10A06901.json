@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06901",
-  "institution": "Alabama Dot 7th Division",
+  "institution": "ALABAMA DOT 7TH DIVISION",
   "city": "Troy",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36079",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12910",
-  "institution": "Defense Contract Management Agency (Dcma) Lockheed Martin - Sand Lk Rd Orlando",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (DCMA) LOCKHEED MARTIN - SAND LK RD ORLANDO",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32819",
-  "email": true
+  "ope": null
 }

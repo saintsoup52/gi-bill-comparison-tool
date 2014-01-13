@@ -1,6 +1,6 @@
 {
   "facility_code": "10W57838",
-  "institution": "City Of Mckeesport-Bureau Of Fire",
+  "institution": "CITY OF MCKEESPORT-BUREAU OF FIRE",
   "city": "Mckeesport",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15132",
-  "email": false
+  "ope": null
 }

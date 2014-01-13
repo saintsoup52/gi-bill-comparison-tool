@@ -1,6 +1,6 @@
 {
   "facility_code": "25009005",
-  "institution": "Rehabilitation Services Of No California (Chapter 31 Only)",
+  "institution": "REHABILITATION SERVICES OF NO CALIFORNIA (CHAPTER 31 ONLY)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94103",
-  "email": false
+  "ope": null
 }

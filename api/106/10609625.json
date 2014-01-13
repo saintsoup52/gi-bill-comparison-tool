@@ -1,6 +1,6 @@
 {
   "facility_code": "10609625",
-  "institution": "Jasper Co. Sheriff'S Dept.",
+  "institution": "JASPER CO. SHERIFF'S DEPT.",
   "city": "Carthage",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64836",
-  "email": false
+  "ope": null
 }

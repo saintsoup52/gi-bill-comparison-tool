@@ -1,6 +1,6 @@
 {
   "facility_code": "15023213",
-  "institution": "Edwardsville High School",
+  "institution": "EDWARDSVILLE HIGH SCHOOL",
   "city": "Edwardsville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62025",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20001042",
-  "institution": "Eastman Chemical Company",
+  "institution": "EASTMAN CHEMICAL COMPANY",
   "city": "Kingsport",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37662",
-  "email": false
+  "ope": null
 }

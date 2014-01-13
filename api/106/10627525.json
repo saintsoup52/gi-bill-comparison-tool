@@ -1,6 +1,6 @@
 {
   "facility_code": "10627525",
-  "institution": "Chesterfield Police Department",
+  "institution": "CHESTERFIELD POLICE DEPARTMENT",
   "city": "Chesterfield",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63017",
-  "email": false
+  "ope": null
 }

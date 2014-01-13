@@ -1,6 +1,6 @@
 {
   "facility_code": "15020023",
-  "institution": "Blaine High School",
+  "institution": "BLAINE HIGH SCHOOL",
   "city": "Blaine",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55434",
-  "email": false
+  "ope": null
 }

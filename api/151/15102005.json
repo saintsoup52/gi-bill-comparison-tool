@@ -1,6 +1,6 @@
 {
   "facility_code": "15102005",
-  "institution": "Merced County Office Of Education (Rop)",
+  "institution": "MERCED COUNTY OFFICE OF EDUCATION (ROP)",
   "city": "Merced",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95340",
-  "email": false
+  "ope": null
 }

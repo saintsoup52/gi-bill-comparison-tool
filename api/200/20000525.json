@@ -1,6 +1,6 @@
 {
   "facility_code": "20000525",
-  "institution": "Plumbing Jatc",
+  "institution": "PLUMBING JATC",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63137",
-  "email": false
+  "ope": null
 }

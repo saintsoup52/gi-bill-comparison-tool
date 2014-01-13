@@ -1,6 +1,6 @@
 {
   "facility_code": "10830521",
-  "institution": "Harwich Police Department",
+  "institution": "HARWICH POLICE DEPARTMENT",
   "city": "Harwich",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2645",
-  "email": false
+  "ope": null
 }

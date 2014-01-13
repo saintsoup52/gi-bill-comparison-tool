@@ -1,6 +1,6 @@
 {
   "facility_code": "31100378",
-  "institution": "Ibs Hanzehogeschool Hogeschool Van Groningen",
+  "institution": "IBS HANZEHOGESCHOOL HOGESCHOOL VAN GRONINGEN",
   "city": "Groningen",
   "state": "Netherlands",
   "country": "Netherlands",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

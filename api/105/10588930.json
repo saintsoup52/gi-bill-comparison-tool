@@ -1,6 +1,6 @@
 {
   "facility_code": "10588930",
-  "institution": "Camden County Sheriff'S Department",
+  "institution": "CAMDEN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8101",
-  "email": false
+  "ope": null
 }

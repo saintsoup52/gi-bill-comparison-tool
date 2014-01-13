@@ -1,6 +1,6 @@
 {
   "facility_code": "10671935",
-  "institution": "National Weather Service G",
+  "institution": "NATIONAL WEATHER SERVICE G",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45275",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "158A0532",
-  "institution": "Boces Rensselaer-Columbia-Greene Counties (Hudson Ny)",
+  "institution": "BOCES RENSSELAER-COLUMBIA-GREENE COUNTIES (HUDSON NY)",
   "city": "Hudson",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "12534",
-  "email": true
+  "ope": "02138501"
 }

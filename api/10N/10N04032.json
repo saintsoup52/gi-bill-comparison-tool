@@ -1,6 +1,6 @@
 {
   "facility_code": "10N04032",
-  "institution": "New York State Department Of Labor - Newburgh",
+  "institution": "NEW YORK STATE DEPARTMENT OF LABOR - NEWBURGH",
   "city": "Newburgh",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12550",
-  "email": true
+  "ope": null
 }

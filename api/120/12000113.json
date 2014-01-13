@@ -1,6 +1,6 @@
 {
   "facility_code": "12000113",
-  "institution": "University Of Illinois @ Chicago- Dept. Of Neurology",
+  "institution": "UNIVERSITY OF ILLINOIS @ CHICAGO- DEPT. OF NEUROLOGY",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60612",
-  "email": true
+  "ope": null
 }

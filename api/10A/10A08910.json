@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08910",
-  "institution": "Federal Aviation Admin (Faa) Melbourne Systems Service Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) MELBOURNE SYSTEMS SERVICE CENTER",
   "city": "Melbourne",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32901",
-  "email": true
+  "ope": null
 }

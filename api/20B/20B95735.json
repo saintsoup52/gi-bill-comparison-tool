@@ -1,6 +1,6 @@
 {
   "facility_code": "20B95735",
-  "institution": "Csx-Transportation",
+  "institution": "CSX-TRANSPORTATION",
   "city": "Walbridge",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43465",
-  "email": false
+  "ope": null
 }

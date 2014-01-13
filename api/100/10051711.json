@@ -1,6 +1,6 @@
 {
   "facility_code": "10051711",
-  "institution": "State Board Of Pardons And Paroles",
+  "institution": "STATE BOARD OF PARDONS AND PAROLES",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30045",
-  "email": false
+  "ope": null
 }

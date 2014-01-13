@@ -1,6 +1,6 @@
 {
   "facility_code": "10N47932",
-  "institution": "Us Marshal Service - Southern District New York",
+  "institution": "US MARSHAL SERVICE - SOUTHERN DISTRICT NEW YORK",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10007",
-  "email": false
+  "ope": null
 }

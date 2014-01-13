@@ -1,6 +1,6 @@
 {
   "facility_code": "32000550",
-  "institution": "Castle Rock Special Hospital District",
+  "institution": "CASTLE ROCK SPECIAL HOSPITAL DISTRICT",
   "city": "Green River",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82935",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C21243",
-  "institution": "Duncanville Texas Police Department",
+  "institution": "DUNCANVILLE TEXAS POLICE DEPARTMENT",
   "city": "Duncanville",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75116",
-  "email": false
+  "ope": null
 }

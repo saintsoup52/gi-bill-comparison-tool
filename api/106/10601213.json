@@ -1,6 +1,6 @@
 {
   "facility_code": "10601213",
-  "institution": "Hanover Park Police Department",
+  "institution": "HANOVER PARK POLICE DEPARTMENT",
   "city": "Hanover Park",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60133",
-  "email": false
+  "ope": null
 }

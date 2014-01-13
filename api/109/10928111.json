@@ -1,6 +1,6 @@
 {
   "facility_code": "10928111",
-  "institution": "Housing Authority City Of Lagrange",
+  "institution": "HOUSING AUTHORITY CITY OF LAGRANGE",
   "city": "Lagrange",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30241",
-  "email": false
+  "ope": null
 }

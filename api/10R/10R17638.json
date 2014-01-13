@@ -1,6 +1,6 @@
 {
   "facility_code": "10R17638",
-  "institution": "Pennsylvania Dept Of Transportation",
+  "institution": "PENNSYLVANIA DEPT OF TRANSPORTATION",
   "city": "Meadville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16335",
-  "email": false
+  "ope": null
 }

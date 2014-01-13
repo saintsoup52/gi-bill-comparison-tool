@@ -1,6 +1,6 @@
 {
   "facility_code": "10440230",
-  "institution": "Secaucus Police Department",
+  "institution": "SECAUCUS POLICE DEPARTMENT",
   "city": "Secaucus",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7094",
-  "email": true
+  "ope": null
 }

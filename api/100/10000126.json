@@ -1,6 +1,6 @@
 {
   "facility_code": "10000126",
-  "institution": "Federal Bureau Of Alcohol Tobacco Firearms And Explosives (Helena)",
+  "institution": "FEDERAL BUREAU OF ALCOHOL TOBACCO FIREARMS AND EXPLOSIVES (HELENA)",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59626",
-  "email": true
+  "ope": null
 }

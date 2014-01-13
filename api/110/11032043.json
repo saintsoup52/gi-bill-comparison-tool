@@ -1,6 +1,6 @@
 {
   "facility_code": "11032043",
-  "institution": "Dallas Ind School District",
+  "institution": "DALLAS IND SCHOOL DISTRICT",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75228",
-  "email": false
+  "ope": null
 }

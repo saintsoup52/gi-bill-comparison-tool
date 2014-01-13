@@ -1,6 +1,6 @@
 {
   "facility_code": "25022702",
-  "institution": "Group 3 Aviation-Alaska",
+  "institution": "GROUP 3 AVIATION-ALASKA",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10505430",
-  "institution": "Clark Police Department",
+  "institution": "CLARK POLICE DEPARTMENT",
   "city": "Clark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7066",
-  "email": false
+  "ope": null
 }

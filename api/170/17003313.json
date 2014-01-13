@@ -1,6 +1,6 @@
 {
   "facility_code": "17003313",
-  "institution": "Griggsville-Perry High School",
+  "institution": "GRIGGSVILLE-PERRY HIGH SCHOOL",
   "city": "Griggsville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62340",
-  "email": true
+  "ope": null
 }

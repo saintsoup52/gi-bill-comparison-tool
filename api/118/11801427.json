@@ -1,6 +1,6 @@
 {
   "facility_code": "11801427",
-  "institution": "University Of Nebraska At Omaha",
+  "institution": "UNIVERSITY OF NEBRASKA AT OMAHA",
   "city": "Omaha",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "68182",
-  "email": false
+  "ope": "00255400"
 }

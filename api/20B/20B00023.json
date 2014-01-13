@@ -1,6 +1,6 @@
 {
   "facility_code": "20B00023",
-  "institution": "Toro Company",
+  "institution": "TORO COMPANY",
   "city": "Shakopee",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55379",
-  "email": false
+  "ope": null
 }

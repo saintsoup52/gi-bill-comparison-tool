@@ -1,6 +1,6 @@
 {
   "facility_code": "10118139",
-  "institution": "Newport Police Department",
+  "institution": "NEWPORT POLICE DEPARTMENT",
   "city": "Newport",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2840",
-  "email": false
+  "ope": null
 }

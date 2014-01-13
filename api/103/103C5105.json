@@ -1,6 +1,6 @@
 {
   "facility_code": "103C5105",
-  "institution": "Social Security Administration-Oxnard",
+  "institution": "SOCIAL SECURITY ADMINISTRATION-OXNARD",
   "city": "Oxnard",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93036",
-  "email": true
+  "ope": null
 }

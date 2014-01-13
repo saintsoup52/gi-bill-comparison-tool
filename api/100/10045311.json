@@ -1,6 +1,6 @@
 {
   "facility_code": "10045311",
-  "institution": "Harris County Sheriff'S Office",
+  "institution": "HARRIS COUNTY SHERIFF'S OFFICE",
   "city": "Hamilton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31811",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10016533",
-  "institution": "Ncdoc - Caswell Correctional Center",
+  "institution": "NCDOC - CASWELL CORRECTIONAL CENTER",
   "city": "Yanceyville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27379",
-  "email": true
+  "ope": null
 }

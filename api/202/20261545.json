@@ -1,6 +1,6 @@
 {
   "facility_code": "20261545",
-  "institution": "Velco",
+  "institution": "VELCO",
   "city": "Ruthland",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5701",
-  "email": false
+  "ope": null
 }

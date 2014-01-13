@@ -1,6 +1,6 @@
 {
   "facility_code": "27121738",
-  "institution": "The Learning Center",
+  "institution": "THE LEARNING CENTER",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "email": false
+  "ope": null
 }

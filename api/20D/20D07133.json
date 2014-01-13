@@ -1,6 +1,6 @@
 {
   "facility_code": "20D07133",
-  "institution": "Norris Enterprises Inc",
+  "institution": "NORRIS ENTERPRISES INC",
   "city": "Castle Hayne",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28429",
-  "email": true
+  "ope": null
 }

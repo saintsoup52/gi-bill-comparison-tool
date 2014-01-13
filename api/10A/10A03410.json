@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03410",
-  "institution": "Federal Aviation Admin (Faa) Tallahassee Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TALLAHASSEE TRACON/TOWER",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32305",
-  "email": true
+  "ope": null
 }

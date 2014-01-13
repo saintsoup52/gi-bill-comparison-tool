@@ -1,6 +1,6 @@
 {
   "facility_code": "12801105",
-  "institution": "Va Los Angeles Healthcare System",
+  "institution": "VA LOS ANGELES HEALTHCARE SYSTEM",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90073",
-  "email": false
+  "ope": null
 }

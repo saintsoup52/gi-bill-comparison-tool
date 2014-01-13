@@ -1,6 +1,6 @@
 {
   "facility_code": "20061028",
-  "institution": "Joint Apprenticeship (Ch31)",
+  "institution": "JOINT APPRENTICESHIP (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89110",
-  "email": false
+  "ope": null
 }

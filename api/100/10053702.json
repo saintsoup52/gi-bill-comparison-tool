@@ -1,6 +1,6 @@
 {
   "facility_code": "10053702",
-  "institution": "Faa King Salmon System Support Center",
+  "institution": "FAA KING SALMON SYSTEM SUPPORT CENTER",
   "city": "King Salmon",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99613",
-  "email": false
+  "ope": null
 }

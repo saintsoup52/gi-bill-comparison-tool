@@ -1,6 +1,6 @@
 {
   "facility_code": "10016111",
-  "institution": "Cobb County Police Academy",
+  "institution": "COBB COUNTY POLICE ACADEMY",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30008",
-  "email": true
+  "ope": null
 }

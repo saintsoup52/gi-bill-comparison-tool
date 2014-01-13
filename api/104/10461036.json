@@ -1,6 +1,6 @@
 {
   "facility_code": "10461036",
-  "institution": "Us Army Ammunition Plant Fire Department Mcalester",
+  "institution": "US ARMY AMMUNITION PLANT FIRE DEPARTMENT MCALESTER",
   "city": "Mcalester",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74501",
-  "email": false
+  "ope": null
 }

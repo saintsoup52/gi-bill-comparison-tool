@@ -1,6 +1,6 @@
 {
   "facility_code": "11010411",
-  "institution": "Kennesaw State University",
+  "institution": "KENNESAW STATE UNIVERSITY",
   "city": "Kennesaw",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30144",
-  "email": true
+  "ope": "00157700"
 }

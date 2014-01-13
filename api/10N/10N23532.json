@@ -1,6 +1,6 @@
 {
   "facility_code": "10N23532",
-  "institution": "New York City Police Dept. - 113th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 113TH PRECINCT",
   "city": "Jamaica",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11434",
-  "email": false
+  "ope": null
 }

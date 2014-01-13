@@ -1,6 +1,6 @@
 {
   "facility_code": "11011106",
-  "institution": "Colorado State University - Pueblo",
+  "institution": "COLORADO STATE UNIVERSITY - PUEBLO",
   "city": "Pueblo",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "81001",
-  "email": true
+  "ope": "00136500"
 }

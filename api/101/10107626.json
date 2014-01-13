@@ -1,6 +1,6 @@
 {
   "facility_code": "10107626",
-  "institution": "Bozeman Police Department",
+  "institution": "BOZEMAN POLICE DEPARTMENT",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59715",
-  "email": true
+  "ope": null
 }

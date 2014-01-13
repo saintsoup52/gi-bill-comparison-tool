@@ -1,6 +1,6 @@
 {
   "facility_code": "10D05038",
-  "institution": "Department Of Labor & Industry Shamokin Job Ctr",
+  "institution": "DEPARTMENT OF LABOR & INDUSTRY SHAMOKIN JOB CTR",
   "city": "Shamokin",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17872",
-  "email": true
+  "ope": null
 }

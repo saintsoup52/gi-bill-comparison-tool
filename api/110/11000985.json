@@ -1,6 +1,6 @@
 {
   "facility_code": "11000985",
-  "institution": "Hiroshima University",
+  "institution": "HIROSHIMA UNIVERSITY",
   "city": "Hiroshima",
   "state": "Japan",
   "country": "Japan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

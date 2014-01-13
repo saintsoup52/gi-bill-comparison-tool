@@ -1,6 +1,6 @@
 {
   "facility_code": "11900112",
-  "institution": "Lewis Clark State College",
+  "institution": "LEWIS CLARK STATE COLLEGE",
   "city": "Lewiston",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "83501",
-  "email": false
+  "ope": "00162100"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "102B7605",
-  "institution": "City Of Chico Police Department",
+  "institution": "CITY OF CHICO POLICE DEPARTMENT",
   "city": "Chico",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95928",
-  "email": false
+  "ope": null
 }

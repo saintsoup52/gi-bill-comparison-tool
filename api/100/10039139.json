@@ -1,6 +1,6 @@
 {
   "facility_code": "10039139",
-  "institution": "East Providence Police Department",
+  "institution": "EAST PROVIDENCE POLICE DEPARTMENT",
   "city": "E. Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2914",
-  "email": false
+  "ope": null
 }

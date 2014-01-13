@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12211",
-  "institution": "Southeast Georgia Drug Task Force",
+  "institution": "SOUTHEAST GEORGIA DRUG TASK FORCE",
   "city": "Waycross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31501",
-  "email": false
+  "ope": null
 }

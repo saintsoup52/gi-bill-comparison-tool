@@ -1,6 +1,6 @@
 {
   "facility_code": "103B4905",
-  "institution": "Orange County Sheriff'S Department",
+  "institution": "ORANGE COUNTY SHERIFF'S DEPARTMENT",
   "city": "Santa Ana",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92703",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C22643",
-  "institution": "Irving Police Dept Ojt",
+  "institution": "IRVING POLICE DEPT OJT",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75061",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "103B8705",
-  "institution": "Faa/ Lancaster (Wjf) System Support Center",
+  "institution": "FAA/ LANCASTER (WJF) SYSTEM SUPPORT CENTER",
   "city": "Lancaster",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93536",
-  "email": false
+  "ope": null
 }

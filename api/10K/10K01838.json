@@ -1,6 +1,6 @@
 {
   "facility_code": "10K01838",
-  "institution": "Susquehanna Township Police Department",
+  "institution": "SUSQUEHANNA TOWNSHIP POLICE DEPARTMENT",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17110",
-  "email": true
+  "ope": null
 }

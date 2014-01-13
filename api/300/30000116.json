@@ -1,6 +1,6 @@
 {
   "facility_code": "30000116",
-  "institution": "Disabled American Veterans Ch31",
+  "institution": "DISABLED AMERICAN VETERANS CH31",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67218",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10018011",
-  "institution": "Dougherty County Sheriff'S Office",
+  "institution": "DOUGHERTY COUNTY SHERIFF'S OFFICE",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31702",
-  "email": true
+  "ope": null
 }

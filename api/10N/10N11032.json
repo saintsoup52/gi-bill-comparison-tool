@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11032",
-  "institution": "Otisville Correctional Facility",
+  "institution": "OTISVILLE CORRECTIONAL FACILITY",
   "city": "Otisville",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10963",
-  "email": false
+  "ope": null
 }

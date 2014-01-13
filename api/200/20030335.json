@@ -1,6 +1,6 @@
 {
   "facility_code": "20030335",
-  "institution": "Rockwell International Corporation    K",
+  "institution": "ROCKWELL INTERNATIONAL CORPORATION    K",
   "city": "Newark",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43055",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11102770",
-  "institution": "Victoria University",
+  "institution": "VICTORIA UNIVERSITY",
   "city": "Melbourne",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

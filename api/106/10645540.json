@@ -1,6 +1,6 @@
 {
   "facility_code": "10645540",
-  "institution": "South Carolina Law Enforcement Division (Sled)",
+  "institution": "SOUTH CAROLINA LAW ENFORCEMENT DIVISION (SLED)",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29210",
-  "email": true
+  "ope": null
 }

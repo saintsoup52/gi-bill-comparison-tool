@@ -1,6 +1,6 @@
 {
   "facility_code": "11000218",
-  "institution": "Nicholls State University",
+  "institution": "NICHOLLS STATE UNIVERSITY",
   "city": "Thibodaux",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70310",
-  "email": true
+  "ope": "00200500"
 }

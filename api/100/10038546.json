@@ -1,6 +1,6 @@
 {
   "facility_code": "10038546",
-  "institution": "Bedford County Sheriff'S Office",
+  "institution": "BEDFORD COUNTY SHERIFF'S OFFICE",
   "city": "Bedford",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24523",
-  "email": true
+  "ope": null
 }

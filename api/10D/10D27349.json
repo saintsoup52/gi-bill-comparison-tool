@@ -1,6 +1,6 @@
 {
   "facility_code": "10D27349",
-  "institution": "Dwd/Det Office Of Veterans Services South",
+  "institution": "DWD/DET OFFICE OF VETERANS SERVICES SOUTH",
   "city": "Fond Du Lac",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54935",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03510",
-  "institution": "Federal Aviation Admin (Faa) Tamiami Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) TAMIAMI TOWER",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33196",
-  "email": false
+  "ope": null
 }

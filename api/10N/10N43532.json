@@ -1,6 +1,6 @@
 {
   "facility_code": "10N43532",
-  "institution": "New York State Police Troop D",
+  "institution": "NEW YORK STATE POLICE TROOP D",
   "city": "Oneida",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13421",
-  "email": true
+  "ope": null
 }

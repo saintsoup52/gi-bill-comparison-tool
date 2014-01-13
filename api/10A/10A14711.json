@@ -1,6 +1,6 @@
 {
   "facility_code": "10A14711",
-  "institution": "Wilcox State Prison",
+  "institution": "WILCOX STATE PRISON",
   "city": "Abbeville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31001",
-  "email": true
+  "ope": null
 }

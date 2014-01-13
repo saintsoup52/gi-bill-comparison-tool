@@ -1,6 +1,6 @@
 {
   "facility_code": "21000944",
-  "institution": "Neumont University",
+  "institution": "NEUMONT UNIVERSITY",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "84111",
-  "email": true
+  "ope": "01009800"
 }

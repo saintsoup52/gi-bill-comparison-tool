@@ -1,6 +1,6 @@
 {
   "facility_code": "10065714",
-  "institution": "Syracuse Police Department",
+  "institution": "SYRACUSE POLICE DEPARTMENT",
   "city": "Syracuse",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46567",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "19001706",
-  "institution": "Larimer County Workforce Center",
+  "institution": "LARIMER COUNTY WORKFORCE CENTER",
   "city": "Fort Collins",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80525",
-  "email": false
+  "ope": null
 }

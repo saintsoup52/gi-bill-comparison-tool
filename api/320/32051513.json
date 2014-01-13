@@ -1,6 +1,6 @@
 {
   "facility_code": "32051513",
-  "institution": "Midwestern University C/O Provident Hospital",
+  "institution": "MIDWESTERN UNIVERSITY C/O PROVIDENT HOSPITAL",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "60615",
-  "email": false
+  "ope": "00165700"
 }

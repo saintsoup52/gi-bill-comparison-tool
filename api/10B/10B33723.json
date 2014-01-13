@@ -1,6 +1,6 @@
 {
   "facility_code": "10B33723",
-  "institution": "Varo St Paul",
+  "institution": "VARO ST PAUL",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55111",
-  "email": false
+  "ope": null
 }

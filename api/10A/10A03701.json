@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03701",
-  "institution": "Kinston Police Department",
+  "institution": "KINSTON POLICE DEPARTMENT",
   "city": "Kinston",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36453",
-  "email": false
+  "ope": null
 }

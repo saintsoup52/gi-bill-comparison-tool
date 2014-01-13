@@ -1,6 +1,6 @@
 {
   "facility_code": "10B56635",
-  "institution": "Va Healthcare System Of Ohio",
+  "institution": "VA HEALTHCARE SYSTEM OF OHIO",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45428",
-  "email": false
+  "ope": null
 }

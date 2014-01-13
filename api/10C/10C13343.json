@@ -1,6 +1,6 @@
 {
   "facility_code": "10C13343",
-  "institution": "Dcma Medium Tactical Vehicle",
+  "institution": "DCMA MEDIUM TACTICAL VEHICLE",
   "city": "Sealy",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77474",
-  "email": false
+  "ope": null
 }

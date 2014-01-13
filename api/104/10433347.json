@@ -1,6 +1,6 @@
 {
   "facility_code": "10433347",
-  "institution": "Grays Harbor County Sheriff'S Office",
+  "institution": "GRAYS HARBOR COUNTY SHERIFF'S OFFICE",
   "city": "Montesano",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98563",
-  "email": true
+  "ope": null
 }

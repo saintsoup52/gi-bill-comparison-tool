@@ -1,6 +1,6 @@
 {
   "facility_code": "10591130",
-  "institution": "Somerset County Jail",
+  "institution": "SOMERSET COUNTY JAIL",
   "city": "Somerville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8876",
-  "email": false
+  "ope": null
 }

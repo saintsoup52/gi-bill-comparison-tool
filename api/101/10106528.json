@@ -1,6 +1,6 @@
 {
   "facility_code": "10106528",
-  "institution": "Faa North Las Vegas Tower",
+  "institution": "FAA NORTH LAS VEGAS TOWER",
   "city": "North Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89032",
-  "email": true
+  "ope": null
 }

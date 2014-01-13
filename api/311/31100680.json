@@ -1,6 +1,6 @@
 {
   "facility_code": "31100680",
-  "institution": "Saarland University",
+  "institution": "SAARLAND UNIVERSITY",
   "city": "Saarbrucken",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10411436",
-  "institution": "Perry Police Department",
+  "institution": "PERRY POLICE DEPARTMENT",
   "city": "Perry",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73077",
-  "email": false
+  "ope": null
 }

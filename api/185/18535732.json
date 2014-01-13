@@ -1,6 +1,6 @@
 {
   "facility_code": "18535732",
-  "institution": "Boces Onondaga-Cortland-Madison",
+  "institution": "BOCES ONONDAGA-CORTLAND-MADISON",
   "city": "Cortland",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13045",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10201016",
-  "institution": "Kansas Highway Patrol Troop C",
+  "institution": "KANSAS HIGHWAY PATROL TROOP C",
   "city": "Salina",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67401",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10300841",
-  "institution": "Huron Police Department",
+  "institution": "HURON POLICE DEPARTMENT",
   "city": "Huron",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57350",
-  "email": false
+  "ope": null
 }

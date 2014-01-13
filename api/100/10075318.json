@@ -1,6 +1,6 @@
 {
   "facility_code": "10075318",
-  "institution": "Office Of Employment Security (Ch 31)",
+  "institution": "OFFICE OF EMPLOYMENT SECURITY (CH 31)",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70602",
-  "email": false
+  "ope": null
 }

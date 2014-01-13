@@ -1,6 +1,6 @@
 {
   "facility_code": "10104528",
-  "institution": "State Of Nevada/Welfare Division (Ch31)",
+  "institution": "STATE OF NEVADA/WELFARE DIVISION (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89104",
-  "email": false
+  "ope": null
 }

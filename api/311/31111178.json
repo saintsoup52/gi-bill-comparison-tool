@@ -1,6 +1,6 @@
 {
   "facility_code": "31111178",
-  "institution": "University Of New York In Prague",
+  "institution": "UNIVERSITY OF NEW YORK IN PRAGUE",
   "city": "Prague,",
   "state": "Czech Republic",
   "country": "Czech Republic",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10011033",
-  "institution": "Durham County Sheriff'S Office",
+  "institution": "DURHAM COUNTY SHERIFF'S OFFICE",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27702",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10712264",
-  "institution": "Dept Of Navy Pearl Harbor Naval Shipyard & Imf",
+  "institution": "DEPT OF NAVY PEARL HARBOR NAVAL SHIPYARD & IMF",
   "city": "Pearl Harbor",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96860",
-  "email": false
+  "ope": null
 }

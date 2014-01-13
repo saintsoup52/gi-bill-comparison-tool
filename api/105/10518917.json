@@ -1,6 +1,6 @@
 {
   "facility_code": "10518917",
-  "institution": "Office Of Employment And Training",
+  "institution": "OFFICE OF EMPLOYMENT AND TRAINING",
   "city": "Madisonville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42431",
-  "email": false
+  "ope": null
 }

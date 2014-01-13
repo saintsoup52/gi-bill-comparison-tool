@@ -1,6 +1,6 @@
 {
   "facility_code": "10449147",
-  "institution": "Port Orchard Police Department",
+  "institution": "PORT ORCHARD POLICE DEPARTMENT",
   "city": "Port Orchard",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98366",
-  "email": true
+  "ope": null
 }

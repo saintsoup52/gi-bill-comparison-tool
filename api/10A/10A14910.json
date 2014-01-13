@@ -1,6 +1,6 @@
 {
   "facility_code": "10A14910",
-  "institution": "Sarasota County Sheriff'S Office",
+  "institution": "SARASOTA COUNTY SHERIFF'S OFFICE",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34230",
-  "email": true
+  "ope": null
 }

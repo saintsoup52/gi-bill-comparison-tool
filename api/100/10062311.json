@@ -1,6 +1,6 @@
 {
   "facility_code": "10062311",
-  "institution": "Georgia Department Of Veterans Service - Dalton",
+  "institution": "GEORGIA DEPARTMENT OF VETERANS SERVICE - DALTON",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30720",
-  "email": true
+  "ope": null
 }

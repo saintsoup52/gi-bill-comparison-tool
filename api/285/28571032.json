@@ -1,6 +1,6 @@
 {
   "facility_code": "28571032",
-  "institution": "Scs Business & Technical Institute (Brooklyn)",
+  "institution": "SCS BUSINESS & TECHNICAL INSTITUTE (BROOKLYN)",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11201",
-  "email": false
+  "ope": null
 }

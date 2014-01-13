@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38232",
-  "institution": "Southport Correctional Facility",
+  "institution": "SOUTHPORT CORRECTIONAL FACILITY",
   "city": "Pine City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14871",
-  "email": false
+  "ope": null
 }

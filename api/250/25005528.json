@@ -1,6 +1,6 @@
 {
   "facility_code": "25005528",
-  "institution": "Executrain (Ch31)",
+  "institution": "EXECUTRAIN (CH31)",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89502",
-  "email": false
+  "ope": null
 }

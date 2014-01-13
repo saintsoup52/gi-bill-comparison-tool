@@ -1,6 +1,6 @@
 {
   "facility_code": "10A16011",
-  "institution": "Millen Police Department",
+  "institution": "MILLEN POLICE DEPARTMENT",
   "city": "Millen",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30442",
-  "email": false
+  "ope": null
 }

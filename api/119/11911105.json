@@ -1,6 +1,6 @@
 {
   "facility_code": "11911105",
-  "institution": "California State University-East Bay",
+  "institution": "CALIFORNIA STATE UNIVERSITY-EAST BAY",
   "city": "Hayward",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94542",
-  "email": false
+  "ope": "00113800"
 }

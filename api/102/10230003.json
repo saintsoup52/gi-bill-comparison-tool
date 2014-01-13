@@ -1,6 +1,6 @@
 {
   "facility_code": "10230003",
-  "institution": "Scottsdale Fire Department",
+  "institution": "SCOTTSDALE FIRE DEPARTMENT",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85251",
-  "email": false
+  "ope": null
 }

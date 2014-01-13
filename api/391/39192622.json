@@ -1,6 +1,6 @@
 {
   "facility_code": "39192622",
-  "institution": "Gateway",
+  "institution": "GATEWAY",
   "city": "Berrien Springs",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49103",
-  "email": true
+  "ope": null
 }

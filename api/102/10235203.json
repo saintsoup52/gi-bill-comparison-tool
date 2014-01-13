@@ -1,6 +1,6 @@
 {
   "facility_code": "10235203",
-  "institution": "Us Housing & Urban Development",
+  "institution": "US HOUSING & URBAN DEVELOPMENT",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85004",
-  "email": false
+  "ope": null
 }

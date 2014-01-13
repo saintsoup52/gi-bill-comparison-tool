@@ -1,6 +1,6 @@
 {
   "facility_code": "20000535",
-  "institution": "The Electrical Trades Center",
+  "institution": "THE ELECTRICAL TRADES CENTER",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43212",
-  "email": false
+  "ope": null
 }

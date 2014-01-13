@@ -1,6 +1,6 @@
 {
   "facility_code": "10566913",
-  "institution": "Illinois Dept Of Correction-Robinson",
+  "institution": "ILLINOIS DEPT OF CORRECTION-ROBINSON",
   "city": "Robinson",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62454",
-  "email": false
+  "ope": null
 }

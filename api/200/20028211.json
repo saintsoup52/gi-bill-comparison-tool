@@ -1,6 +1,6 @@
 {
   "facility_code": "20028211",
-  "institution": "Lockheed Martin Fire Department",
+  "institution": "LOCKHEED MARTIN FIRE DEPARTMENT",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30063",
-  "email": false
+  "ope": null
 }

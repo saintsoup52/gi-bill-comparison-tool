@@ -1,6 +1,6 @@
 {
   "facility_code": "10694925",
-  "institution": "Us Marshals Service",
+  "institution": "US MARSHALS SERVICE",
   "city": "St. Louis Mo",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63102",
-  "email": false
+  "ope": null
 }

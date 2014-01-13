@@ -1,6 +1,6 @@
 {
   "facility_code": "10714525",
-  "institution": "Truesdale Police Department",
+  "institution": "TRUESDALE POLICE DEPARTMENT",
   "city": "Truesdale",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63383",
-  "email": true
+  "ope": null
 }

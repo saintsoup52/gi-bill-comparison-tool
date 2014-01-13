@@ -1,6 +1,6 @@
 {
   "facility_code": "10405445",
-  "institution": "Dhs U.S.C.I.S. Human Resource Operation Center - Burlington",
+  "institution": "DHS U.S.C.I.S. HUMAN RESOURCE OPERATION CENTER - BURLINGTON",
   "city": "Burlington",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5403",
-  "email": true
+  "ope": null
 }

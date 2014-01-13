@@ -1,6 +1,6 @@
 {
   "facility_code": "18529232",
-  "institution": "Boces Delaware-Chenango-Madison-Otsego",
+  "institution": "BOCES DELAWARE-CHENANGO-MADISON-OTSEGO",
   "city": "Norwich",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "13815",
-  "email": true
+  "ope": "03081600"
 }

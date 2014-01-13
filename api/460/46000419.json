@@ -1,6 +1,6 @@
 {
   "facility_code": "46000419",
-  "institution": "Maine Department Of Inland Fisheries And Wildlife",
+  "institution": "MAINE DEPARTMENT OF INLAND FISHERIES AND WILDLIFE",
   "city": "Augusta",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4333",
-  "email": true
+  "ope": null
 }

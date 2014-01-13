@@ -1,6 +1,6 @@
 {
   "facility_code": "10D27949",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Eau Claire",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54701",
-  "email": false
+  "ope": null
 }

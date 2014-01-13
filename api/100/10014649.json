@@ -1,6 +1,6 @@
 {
   "facility_code": "10014649",
-  "institution": "Green Bay Fire Department",
+  "institution": "GREEN BAY FIRE DEPARTMENT",
   "city": "Green Bay",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54301",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10433947",
-  "institution": "Walla Walla County Sheriff'S Office",
+  "institution": "WALLA WALLA COUNTY SHERIFF'S OFFICE",
   "city": "Walla Walla",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99362",
-  "email": true
+  "ope": null
 }

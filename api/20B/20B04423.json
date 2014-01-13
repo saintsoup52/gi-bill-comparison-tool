@@ -1,6 +1,6 @@
 {
   "facility_code": "20B04423",
-  "institution": "Otc-A Division Of Spx Corp",
+  "institution": "OTC-A DIVISION OF SPX CORP",
   "city": "Owatonna",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55060",
-  "email": false
+  "ope": null
 }

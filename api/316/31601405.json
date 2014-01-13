@@ -1,6 +1,6 @@
 {
   "facility_code": "31601405",
-  "institution": "Southern California University Of Health Sciences",
+  "institution": "SOUTHERN CALIFORNIA UNIVERSITY OF HEALTH SCIENCES",
   "city": "Whittier",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "90609",
-  "email": true
+  "ope": "00122900"
 }

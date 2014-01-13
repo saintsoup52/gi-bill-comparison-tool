@@ -1,6 +1,6 @@
 {
   "facility_code": "15020219",
-  "institution": "Yarmouth High School (Day)",
+  "institution": "YARMOUTH HIGH SCHOOL (DAY)",
   "city": "Yarmouth",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4096",
-  "email": false
+  "ope": null
 }

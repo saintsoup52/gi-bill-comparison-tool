@@ -1,6 +1,6 @@
 {
   "facility_code": "31001131",
-  "institution": "University Of The Southwest",
+  "institution": "UNIVERSITY OF THE SOUTHWEST",
   "city": "Hobbs",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "88240",
-  "email": true
+  "ope": "00265000"
 }

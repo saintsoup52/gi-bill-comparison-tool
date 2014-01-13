@@ -1,6 +1,6 @@
 {
   "facility_code": "10030633",
-  "institution": "Buncombe County Schools",
+  "institution": "BUNCOMBE COUNTY SCHOOLS",
   "city": "Asheville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28806",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30000433",
-  "institution": "Cape Hatteras Electric Cooperative",
+  "institution": "CAPE HATTERAS ELECTRIC COOPERATIVE",
   "city": "Buxton",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27920",
-  "email": true
+  "ope": null
 }

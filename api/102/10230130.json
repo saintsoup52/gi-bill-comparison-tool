@@ -1,6 +1,6 @@
 {
   "facility_code": "10230130",
-  "institution": "Atlantic City Fire Department",
+  "institution": "ATLANTIC CITY FIRE DEPARTMENT",
   "city": "Atlantic City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8401",
-  "email": true
+  "ope": null
 }

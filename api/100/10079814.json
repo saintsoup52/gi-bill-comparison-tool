@@ -1,6 +1,6 @@
 {
   "facility_code": "10079814",
-  "institution": "Zionsville Police Department",
+  "institution": "ZIONSVILLE POLICE DEPARTMENT",
   "city": "Zionsville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46077",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10597113",
-  "institution": "Hoffman Estates Fire Department",
+  "institution": "HOFFMAN ESTATES FIRE DEPARTMENT",
   "city": "Hoffman Estates",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60169",
-  "email": false
+  "ope": null
 }

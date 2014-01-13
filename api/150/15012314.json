@@ -1,6 +1,6 @@
 {
   "facility_code": "15012314",
-  "institution": "Southport High School",
+  "institution": "SOUTHPORT HIGH SCHOOL",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46227",
-  "email": true
+  "ope": null
 }

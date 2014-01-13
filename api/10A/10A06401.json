@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06401",
-  "institution": "U.S. Bankruptcy Court",
+  "institution": "U.S. BANKRUPTCY COURT",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36602",
-  "email": true
+  "ope": null
 }

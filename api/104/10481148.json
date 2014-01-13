@@ -1,6 +1,6 @@
 {
   "facility_code": "10481148",
-  "institution": "Davis Center",
+  "institution": "DAVIS CENTER",
   "city": "Davis",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26260",
-  "email": false
+  "ope": null
 }

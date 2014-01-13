@@ -1,6 +1,6 @@
 {
   "facility_code": "32000115",
-  "institution": "Des Moines University-Osteopathic Medical Center",
+  "institution": "DES MOINES UNIVERSITY-OSTEOPATHIC MEDICAL CENTER",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "50312",
-  "email": true
+  "ope": "00185500"
 }

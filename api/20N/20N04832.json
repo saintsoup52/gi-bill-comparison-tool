@@ -1,6 +1,6 @@
 {
   "facility_code": "20N04832",
-  "institution": "Ford Motor Company",
+  "institution": "FORD MOTOR COMPANY",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14219",
-  "email": false
+  "ope": null
 }

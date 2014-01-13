@@ -1,6 +1,6 @@
 {
   "facility_code": "10828421",
-  "institution": "Northampton Fire Department",
+  "institution": "NORTHAMPTON FIRE DEPARTMENT",
   "city": "Northampton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1060",
-  "email": true
+  "ope": null
 }

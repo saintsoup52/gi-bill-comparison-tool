@@ -1,6 +1,6 @@
 {
   "facility_code": "31002214",
-  "institution": "University Of Notre Dame",
+  "institution": "UNIVERSITY OF NOTRE DAME",
   "city": "Notre Dame",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46556",
-  "email": true
+  "ope": "00184000"
 }

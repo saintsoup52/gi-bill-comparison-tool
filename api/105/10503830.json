@@ -1,6 +1,6 @@
 {
   "facility_code": "10503830",
-  "institution": "Burlington County Sheriff'S Department",
+  "institution": "BURLINGTON COUNTY SHERIFF'S DEPARTMENT",
   "city": "Mount Holly",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8060",
-  "email": false
+  "ope": null
 }

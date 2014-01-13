@@ -1,6 +1,6 @@
 {
   "facility_code": "10470217",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40206",
-  "email": false
+  "ope": null
 }

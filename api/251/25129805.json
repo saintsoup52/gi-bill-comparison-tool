@@ -1,6 +1,6 @@
 {
   "facility_code": "25129805",
-  "institution": "Boeing Corporation Long Beach (Chapter 31)",
+  "institution": "BOEING CORPORATION LONG BEACH (CHAPTER 31)",
   "city": "Long Beach 1",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90807",
-  "email": false
+  "ope": null
 }

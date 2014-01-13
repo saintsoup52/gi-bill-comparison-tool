@@ -1,6 +1,6 @@
 {
   "facility_code": "30000733",
-  "institution": "Fayetteville State University Campus Police",
+  "institution": "FAYETTEVILLE STATE UNIVERSITY CAMPUS POLICE",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28301",
-  "email": true
+  "ope": null
 }

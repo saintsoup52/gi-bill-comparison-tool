@@ -1,6 +1,6 @@
 {
   "facility_code": "20060111",
-  "institution": "Herzing University (Financial Aid)",
+  "institution": "HERZING UNIVERSITY (FINANCIAL AID)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30326",
-  "email": true
+  "ope": null
 }

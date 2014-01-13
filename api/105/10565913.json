@@ -1,6 +1,6 @@
 {
   "facility_code": "10565913",
-  "institution": "Illinois River Correctional Center",
+  "institution": "ILLINOIS RIVER CORRECTIONAL CENTER",
   "city": "Canton",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61520",
-  "email": false
+  "ope": null
 }

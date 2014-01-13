@@ -1,6 +1,6 @@
 {
   "facility_code": "19001106",
-  "institution": "Veterans Center",
+  "institution": "VETERANS CENTER",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80220",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "201B5005",
-  "institution": "Doctor'S On Duty (Chapter 31 Only)",
+  "institution": "DOCTOR'S ON DUTY (CHAPTER 31 ONLY)",
   "city": "Salinas",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93950",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10010542",
-  "institution": "Internal Revenue Service Nashville - Chapter 31 Only",
+  "institution": "INTERNAL REVENUE SERVICE NASHVILLE - CHAPTER 31 ONLY",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37211",
-  "email": false
+  "ope": null
 }

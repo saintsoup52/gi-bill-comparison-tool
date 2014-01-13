@@ -1,6 +1,6 @@
 {
   "facility_code": "11900130",
-  "institution": "New Jersey Institute Of Technology",
+  "institution": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7102",
-  "email": false
+  "ope": "00262100"
 }

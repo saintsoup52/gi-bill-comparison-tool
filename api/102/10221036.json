@@ -1,6 +1,6 @@
 {
   "facility_code": "10221036",
-  "institution": "City Of Clinton",
+  "institution": "CITY OF CLINTON",
   "city": "Clinton",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73601",
-  "email": true
+  "ope": null
 }

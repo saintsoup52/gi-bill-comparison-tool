@@ -1,6 +1,6 @@
 {
   "facility_code": "10466115",
-  "institution": "Dubuque County Sheriff'S Office",
+  "institution": "DUBUQUE COUNTY SHERIFF'S OFFICE",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52001",
-  "email": false
+  "ope": null
 }

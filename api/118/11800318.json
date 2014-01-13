@@ -1,6 +1,6 @@
 {
   "facility_code": "11800318",
-  "institution": "Louisiana State University - Alexandria",
+  "institution": "LOUISIANA STATE UNIVERSITY - ALEXANDRIA",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71302",
-  "email": true
+  "ope": "00201100"
 }

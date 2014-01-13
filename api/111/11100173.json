@@ -1,6 +1,6 @@
 {
   "facility_code": "11100173",
-  "institution": "Ecole Superieure Des Arts",
+  "institution": "ECOLE SUPERIEURE DES ARTS",
   "city": "Mons",
   "state": "Belgium",
   "country": "Belgium",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

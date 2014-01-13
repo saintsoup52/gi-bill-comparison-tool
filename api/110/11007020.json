@@ -1,6 +1,6 @@
 {
   "facility_code": "11007020",
-  "institution": "Central Michigan University Ft Detrick",
+  "institution": "CENTRAL MICHIGAN UNIVERSITY FT DETRICK",
   "city": "Ft Detrick",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21702",
-  "email": false
+  "ope": "00224300"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30208903",
-  "institution": "Department Of Housing & Urban Development (Chapter 31 Only)",
+  "institution": "DEPARTMENT OF HOUSING & URBAN DEVELOPMENT (CHAPTER 31 ONLY)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85701",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "102B5305",
-  "institution": "Marine Corps Logistics Base",
+  "institution": "MARINE CORPS LOGISTICS BASE",
   "city": "Barstow",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92311",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31808107",
-  "institution": "Quinnipiac University",
+  "institution": "QUINNIPIAC UNIVERSITY",
   "city": "Hamden",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6518",
-  "email": true
+  "ope": "00140200"
 }

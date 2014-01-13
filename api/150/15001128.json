@@ -1,6 +1,6 @@
 {
   "facility_code": "15001128",
-  "institution": "Desert Rose Adult High School",
+  "institution": "DESERT ROSE ADULT HIGH SCHOOL",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89106",
-  "email": true
+  "ope": null
 }

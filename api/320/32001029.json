@@ -1,6 +1,6 @@
 {
   "facility_code": "32001029",
-  "institution": "Dartmouth-Hitchcock Medical Center",
+  "institution": "DARTMOUTH-HITCHCOCK MEDICAL CENTER",
   "city": "Lebanon",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3756",
-  "email": false
+  "ope": null
 }

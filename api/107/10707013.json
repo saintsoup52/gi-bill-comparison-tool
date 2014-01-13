@@ -1,6 +1,6 @@
 {
   "facility_code": "10707013",
-  "institution": "Glendale Heights Police Department",
+  "institution": "GLENDALE HEIGHTS POLICE DEPARTMENT",
   "city": "Glendale Heights",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60139",
-  "email": true
+  "ope": null
 }

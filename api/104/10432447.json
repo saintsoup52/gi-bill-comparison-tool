@@ -1,6 +1,6 @@
 {
   "facility_code": "10432447",
-  "institution": "Franklin County Sheriff'S Office",
+  "institution": "FRANKLIN COUNTY SHERIFF'S OFFICE",
   "city": "Pasco",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99301",
-  "email": false
+  "ope": null
 }

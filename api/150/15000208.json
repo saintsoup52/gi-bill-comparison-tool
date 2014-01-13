@@ -1,6 +1,6 @@
 {
   "facility_code": "15000208",
-  "institution": "Delaware State Police Training Academy",
+  "institution": "DELAWARE STATE POLICE TRAINING ACADEMY",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19903",
-  "email": true
+  "ope": null
 }

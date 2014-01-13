@@ -1,6 +1,6 @@
 {
   "facility_code": "20408147",
-  "institution": "Sholdt Design (Ch31)",
+  "institution": "SHOLDT DESIGN (CH31)",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98101",
-  "email": false
+  "ope": null
 }

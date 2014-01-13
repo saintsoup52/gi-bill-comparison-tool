@@ -1,6 +1,6 @@
 {
   "facility_code": "31973122",
-  "institution": "Kalamazoo College",
+  "institution": "KALAMAZOO COLLEGE",
   "city": "Kalamazoo",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49006",
-  "email": true
+  "ope": "00227500"
 }

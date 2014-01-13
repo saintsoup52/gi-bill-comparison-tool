@@ -1,6 +1,6 @@
 {
   "facility_code": "11363932",
-  "institution": "Suny Empire State College",
+  "institution": "SUNY EMPIRE STATE COLLEGE",
   "city": "Saratoga Springs",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "12866",
-  "email": true
+  "ope": "01028600"
 }

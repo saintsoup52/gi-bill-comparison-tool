@@ -1,6 +1,6 @@
 {
   "facility_code": "32904221",
-  "institution": "New England Medical Center (Affiliate With Tufts U",
+  "institution": "NEW ENGLAND MEDICAL CENTER (AFFILIATE WITH TUFTS U",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2111",
-  "email": false
+  "ope": null
 }

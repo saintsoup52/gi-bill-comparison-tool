@@ -1,6 +1,6 @@
 {
   "facility_code": "10702613",
-  "institution": "Sac-Chicago Il",
+  "institution": "SAC-CHICAGO IL",
   "city": "Oakbrook",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60181",
-  "email": false
+  "ope": null
 }

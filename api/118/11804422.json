@@ -1,6 +1,6 @@
 {
   "facility_code": "11804422",
-  "institution": "University Of Michigan Dearborn",
+  "institution": "UNIVERSITY OF MICHIGAN DEARBORN",
   "city": "Dearborn",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "48128",
-  "email": true
+  "ope": "00232600"
 }

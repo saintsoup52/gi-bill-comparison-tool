@@ -1,6 +1,6 @@
 {
   "facility_code": "20582025",
-  "institution": "Potosi Correctional Center",
+  "institution": "POTOSI CORRECTIONAL CENTER",
   "city": "Mineral Point",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63660",
-  "email": true
+  "ope": null
 }

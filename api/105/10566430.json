@@ -1,6 +1,6 @@
 {
   "facility_code": "10566430",
-  "institution": "Atlantic County Justice Facility",
+  "institution": "ATLANTIC COUNTY JUSTICE FACILITY",
   "city": "Mays Landing",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8330",
-  "email": true
+  "ope": null
 }

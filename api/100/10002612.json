@@ -1,6 +1,6 @@
 {
   "facility_code": "10002612",
-  "institution": "Ketchum Police Department",
+  "institution": "KETCHUM POLICE DEPARTMENT",
   "city": "Ketchum",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83340",
-  "email": false
+  "ope": null
 }

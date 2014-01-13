@@ -1,6 +1,6 @@
 {
   "facility_code": "32017630",
-  "institution": "Monmouth Medical Center Department Of Radiology",
+  "institution": "MONMOUTH MEDICAL CENTER DEPARTMENT OF RADIOLOGY",
   "city": "Long Branch",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7740",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10165327",
-  "institution": "Sarpy County Sheriff Department",
+  "institution": "SARPY COUNTY SHERIFF DEPARTMENT",
   "city": "Papillion",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68046",
-  "email": true
+  "ope": null
 }

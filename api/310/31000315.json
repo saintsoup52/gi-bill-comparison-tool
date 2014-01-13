@@ -1,6 +1,6 @@
 {
   "facility_code": "31000315",
-  "institution": "Central College",
+  "institution": "CENTRAL COLLEGE",
   "city": "Pella",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "50219",
-  "email": true
+  "ope": "00185000"
 }

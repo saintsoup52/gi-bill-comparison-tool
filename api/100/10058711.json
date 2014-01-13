@@ -1,6 +1,6 @@
 {
   "facility_code": "10058711",
-  "institution": "Georgia Institute Of Technology - Police Dept",
+  "institution": "GEORGIA INSTITUTE OF TECHNOLOGY - POLICE DEPT",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30332",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20533731",
-  "institution": "Disabled American Veterans Ch31",
+  "institution": "DISABLED AMERICAN VETERANS CH31",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87102",
-  "email": false
+  "ope": null
 }

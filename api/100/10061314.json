@@ -1,6 +1,6 @@
 {
   "facility_code": "10061314",
-  "institution": "Brown County Sheriff'S Department",
+  "institution": "BROWN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Nashville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47448",
-  "email": false
+  "ope": null
 }

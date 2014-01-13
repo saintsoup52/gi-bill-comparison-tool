@@ -1,6 +1,6 @@
 {
   "facility_code": "102B9505",
-  "institution": "Calipatria State Prison",
+  "institution": "CALIPATRIA STATE PRISON",
   "city": "Calipatria",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92233",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10830021",
-  "institution": "Massachusetts & Northern New England Laborers Jatc",
+  "institution": "MASSACHUSETTS & NORTHERN NEW ENGLAND LABORERS JATC",
   "city": "Hopkinton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1748",
-  "email": true
+  "ope": null
 }

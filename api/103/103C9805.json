@@ -1,6 +1,6 @@
 {
   "facility_code": "103C9805",
-  "institution": "National City Police Department",
+  "institution": "NATIONAL CITY POLICE DEPARTMENT",
   "city": "National City",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91950",
-  "email": false
+  "ope": null
 }

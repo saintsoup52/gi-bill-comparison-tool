@@ -1,6 +1,6 @@
 {
   "facility_code": "10002009",
-  "institution": "Us Government Printing Office",
+  "institution": "US GOVERNMENT PRINTING OFFICE",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20401",
-  "email": false
+  "ope": null
 }

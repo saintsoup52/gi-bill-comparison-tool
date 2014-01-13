@@ -1,6 +1,6 @@
 {
   "facility_code": "30209103",
-  "institution": "Social Security Department - Tucson",
+  "institution": "SOCIAL SECURITY DEPARTMENT - TUCSON",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85719",
-  "email": false
+  "ope": null
 }

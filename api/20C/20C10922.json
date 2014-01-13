@@ -1,6 +1,6 @@
 {
   "facility_code": "20C10922",
-  "institution": "International Union Of Operating Engineers Local 324",
+  "institution": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 324",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48216",
-  "email": true
+  "ope": null
 }

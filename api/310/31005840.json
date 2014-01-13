@@ -1,6 +1,6 @@
 {
   "facility_code": "31005840",
-  "institution": "Bob Jones University",
+  "institution": "BOB JONES UNIVERSITY",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29614",
-  "email": false
+  "ope": "00342100"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10105528",
-  "institution": "Department Of Labor Employment Services (Ch31)",
+  "institution": "DEPARTMENT OF LABOR EMPLOYMENT SERVICES (CH31)",
   "city": "Henderson",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89107",
-  "email": false
+  "ope": null
 }

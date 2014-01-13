@@ -1,6 +1,6 @@
 {
   "facility_code": "10026633",
-  "institution": "City Of Mount Airy Police Department",
+  "institution": "CITY OF MOUNT AIRY POLICE DEPARTMENT",
   "city": "Mt Airy",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27030",
-  "email": true
+  "ope": null
 }

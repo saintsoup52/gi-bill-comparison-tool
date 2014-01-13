@@ -1,6 +1,6 @@
 {
   "facility_code": "10C10243",
-  "institution": "Us Border Patrol El Paso",
+  "institution": "US BORDER PATROL EL PASO",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79925",
-  "email": true
+  "ope": null
 }

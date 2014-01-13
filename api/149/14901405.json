@@ -1,6 +1,6 @@
 {
   "facility_code": "14901405",
-  "institution": "Los Angeles Southwest College",
+  "institution": "LOS ANGELES SOUTHWEST COLLEGE",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "90047",
-  "email": true
+  "ope": "00704700"
 }

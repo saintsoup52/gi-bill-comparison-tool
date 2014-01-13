@@ -1,6 +1,6 @@
 {
   "facility_code": "10007711",
-  "institution": "Griffin Regional Youth Detention Center",
+  "institution": "GRIFFIN REGIONAL YOUTH DETENTION CENTER",
   "city": "Griffin",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30224",
-  "email": true
+  "ope": null
 }

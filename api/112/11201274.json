@@ -1,6 +1,6 @@
 {
   "facility_code": "11201274",
-  "institution": "University Of Abertay Dundee",
+  "institution": "UNIVERSITY OF ABERTAY DUNDEE",
   "city": "Dundee",
   "state": "Scotland",
   "country": "Scotland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

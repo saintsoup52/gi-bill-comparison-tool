@@ -1,6 +1,6 @@
 {
   "facility_code": "10444247",
-  "institution": "Quincy Police Department",
+  "institution": "QUINCY POLICE DEPARTMENT",
   "city": "Quincy",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98848",
-  "email": true
+  "ope": null
 }

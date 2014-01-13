@@ -1,6 +1,6 @@
 {
   "facility_code": "10054011",
-  "institution": "Union City Police Department",
+  "institution": "UNION CITY POLICE DEPARTMENT",
   "city": "Union City",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30291",
-  "email": false
+  "ope": null
 }

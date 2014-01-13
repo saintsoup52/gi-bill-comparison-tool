@@ -1,6 +1,6 @@
 {
   "facility_code": "11101980",
-  "institution": "Friedrich Alexander Universitat",
+  "institution": "FRIEDRICH ALEXANDER UNIVERSITAT",
   "city": "Erlangen-Nurnberg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

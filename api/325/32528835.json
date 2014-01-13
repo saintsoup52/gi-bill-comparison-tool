@@ -1,6 +1,6 @@
 {
   "facility_code": "32528835",
-  "institution": "Oucom/South Pointe Hospital",
+  "institution": "OUCOM/SOUTH POINTE HOSPITAL",
   "city": "Warrensville Hts",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44122",
-  "email": true
+  "ope": null
 }

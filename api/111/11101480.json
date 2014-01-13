@@ -1,6 +1,6 @@
 {
   "facility_code": "11101480",
-  "institution": "Alice Salomon University Of Applied Sciences",
+  "institution": "ALICE SALOMON UNIVERSITY OF APPLIED SCIENCES",
   "city": "12627 Berlin",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

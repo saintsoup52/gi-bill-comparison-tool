@@ -1,6 +1,6 @@
 {
   "facility_code": "10016011",
-  "institution": "Jefferson County Correctional Institution",
+  "institution": "JEFFERSON COUNTY CORRECTIONAL INSTITUTION",
   "city": "Louisville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30434",
-  "email": false
+  "ope": null
 }

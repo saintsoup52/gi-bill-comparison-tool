@@ -1,6 +1,6 @@
 {
   "facility_code": "20D08233",
-  "institution": "Blame It On The Man",
+  "institution": "BLAME IT ON THE MAN",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27615",
-  "email": true
+  "ope": null
 }

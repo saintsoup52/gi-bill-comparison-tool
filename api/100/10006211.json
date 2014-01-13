@@ -1,6 +1,6 @@
 {
   "facility_code": "10006211",
-  "institution": "Habersham County Sheriff'S Department",
+  "institution": "HABERSHAM COUNTY SHERIFF'S DEPARTMENT",
   "city": "Clarksville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30523",
-  "email": false
+  "ope": null
 }

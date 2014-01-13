@@ -1,6 +1,6 @@
 {
   "facility_code": "10011733",
-  "institution": "Roanoke Rapids Fire Department",
+  "institution": "ROANOKE RAPIDS FIRE DEPARTMENT",
   "city": "Roanoke Rapids",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27870",
-  "email": false
+  "ope": null
 }

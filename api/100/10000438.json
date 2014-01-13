@@ -1,6 +1,6 @@
 {
   "facility_code": "10000438",
-  "institution": "The Department Of The Treasury",
+  "institution": "THE DEPARTMENT OF THE TREASURY",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "email": false
+  "ope": null
 }

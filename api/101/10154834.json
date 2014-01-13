@@ -1,6 +1,6 @@
 {
   "facility_code": "10154834",
-  "institution": "Faa - Grand Forks System Support Center (Federal)",
+  "institution": "FAA - GRAND FORKS SYSTEM SUPPORT CENTER (FEDERAL)",
   "city": "Grand Forks",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58203",
-  "email": false
+  "ope": null
 }

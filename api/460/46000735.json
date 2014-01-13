@@ -1,6 +1,6 @@
 {
   "facility_code": "46000735",
-  "institution": "State Medical Board Of Ohio",
+  "institution": "STATE MEDICAL BOARD OF OHIO",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43215",
-  "email": true
+  "ope": null
 }

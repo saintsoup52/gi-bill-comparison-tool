@@ -1,6 +1,6 @@
 {
   "facility_code": "15016442",
-  "institution": "Va Medical Center - Murfreesboro",
+  "institution": "VA MEDICAL CENTER - MURFREESBORO",
   "city": "Murfreesboro",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37129",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25003437",
-  "institution": "Northwest College (Hillsboro)",
+  "institution": "NORTHWEST COLLEGE (HILLSBORO)",
   "city": "Hillsboro",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "97123",
-  "email": true
+  "ope": "02101001"
 }

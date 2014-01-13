@@ -1,6 +1,6 @@
 {
   "facility_code": "11800216",
-  "institution": "University Of Kansas Medical Center",
+  "institution": "UNIVERSITY OF KANSAS MEDICAL CENTER",
   "city": "Kansas City",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "66160",
-  "email": true
+  "ope": "00194802"
 }

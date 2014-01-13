@@ -1,6 +1,6 @@
 {
   "facility_code": "20000231",
-  "institution": "Carpenters Educational Program Of New Mexico Jatc",
+  "institution": "CARPENTERS EDUCATIONAL PROGRAM OF NEW MEXICO JATC",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87107",
-  "email": true
+  "ope": null
 }

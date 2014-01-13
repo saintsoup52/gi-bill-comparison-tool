@@ -1,6 +1,6 @@
 {
   "facility_code": "10498946",
-  "institution": "Department Of State Police Office #48",
+  "institution": "DEPARTMENT OF STATE POLICE OFFICE #48",
   "city": "Fairfax",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22032",
-  "email": true
+  "ope": null
 }

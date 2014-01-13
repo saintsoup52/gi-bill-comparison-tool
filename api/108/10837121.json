@@ -1,6 +1,6 @@
 {
   "facility_code": "10837121",
-  "institution": "Rutland Police Department",
+  "institution": "RUTLAND POLICE DEPARTMENT",
   "city": "Rutland",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1543",
-  "email": false
+  "ope": null
 }

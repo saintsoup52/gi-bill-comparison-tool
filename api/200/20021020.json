@@ -1,6 +1,6 @@
 {
   "facility_code": "20021020",
-  "institution": "Baltimore Gas And Electric Company",
+  "institution": "BALTIMORE GAS AND ELECTRIC COMPANY",
   "city": "White Marsh",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21162",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N21232",
-  "institution": "New York Police Dept. - School Safety Div. - Manhattan North Command",
+  "institution": "NEW YORK POLICE DEPT. - SCHOOL SAFETY DIV. - MANHATTAN NORTH COMMAND",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10023",
-  "email": false
+  "ope": null
 }

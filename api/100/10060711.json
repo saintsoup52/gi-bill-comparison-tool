@@ -1,6 +1,6 @@
 {
   "facility_code": "10060711",
-  "institution": "Cartersville Water Treatment Plant",
+  "institution": "CARTERSVILLE WATER TREATMENT PLANT",
   "city": "Cartersville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30120",
-  "email": true
+  "ope": null
 }

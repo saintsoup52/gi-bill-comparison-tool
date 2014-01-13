@@ -1,6 +1,6 @@
 {
   "facility_code": "31941138",
-  "institution": "Bryn Mawr College",
+  "institution": "BRYN MAWR COLLEGE",
   "city": "Bryn Mawr",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19010",
-  "email": false
+  "ope": "00323700"
 }

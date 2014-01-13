@@ -1,6 +1,6 @@
 {
   "facility_code": "11G00169",
-  "institution": "National Taiwan Normal University",
+  "institution": "NATIONAL TAIWAN NORMAL UNIVERSITY",
   "city": "Taipei City",
   "state": "Taiwan",
   "country": "Taiwan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

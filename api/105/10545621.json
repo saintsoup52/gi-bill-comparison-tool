@@ -1,6 +1,6 @@
 {
   "facility_code": "10545621",
-  "institution": "Salem Police Department",
+  "institution": "SALEM POLICE DEPARTMENT",
   "city": "Salem",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1970",
-  "email": true
+  "ope": null
 }

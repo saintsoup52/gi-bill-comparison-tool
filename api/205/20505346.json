@@ -1,6 +1,6 @@
 {
   "facility_code": "20505346",
-  "institution": "Norfolk & Southern Railroad",
+  "institution": "NORFOLK & SOUTHERN RAILROAD",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23508",
-  "email": true
+  "ope": null
 }

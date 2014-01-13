@@ -1,6 +1,6 @@
 {
   "facility_code": "10497646",
-  "institution": "Virginia State Police Area Office #12",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #12",
   "city": "Warrenton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20186",
-  "email": true
+  "ope": null
 }

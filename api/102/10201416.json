@@ -1,6 +1,6 @@
 {
   "facility_code": "10201416",
-  "institution": "Norton Correctional Facility",
+  "institution": "NORTON CORRECTIONAL FACILITY",
   "city": "Norton",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67654",
-  "email": false
+  "ope": null
 }

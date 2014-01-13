@@ -1,6 +1,6 @@
 {
   "facility_code": "20705625",
-  "institution": "At&T- Arnold",
+  "institution": "AT&T- ARNOLD",
   "city": "Arnold",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63010",
-  "email": false
+  "ope": null
 }

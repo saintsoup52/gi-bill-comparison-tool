@@ -1,6 +1,6 @@
 {
   "facility_code": "31166786",
-  "institution": "Univ Autonoma De Guadalajara",
+  "institution": "UNIV AUTONOMA DE GUADALAJARA",
   "city": "Guadalajara",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

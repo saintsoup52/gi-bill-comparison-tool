@@ -1,6 +1,6 @@
 {
   "facility_code": "10004937",
-  "institution": "Klamath Falls Police Department",
+  "institution": "KLAMATH FALLS POLICE DEPARTMENT",
   "city": "Klamath Falls",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97601",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11802106",
-  "institution": "University Of Colorado - Boulder",
+  "institution": "UNIVERSITY OF COLORADO - BOULDER",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80309",
-  "email": true
+  "ope": "00137000"
 }

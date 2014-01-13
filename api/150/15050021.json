@@ -1,6 +1,6 @@
 {
   "facility_code": "15050021",
-  "institution": "Worcester Police Academy",
+  "institution": "WORCESTER POLICE ACADEMY",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1608",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B95335",
-  "institution": "Middletown Division Of Police",
+  "institution": "MIDDLETOWN DIVISION OF POLICE",
   "city": "Middletown",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45042",
-  "email": false
+  "ope": null
 }

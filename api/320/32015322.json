@@ -1,6 +1,6 @@
 {
   "facility_code": "32015322",
-  "institution": "Henry Ford Hospital School Of Nursing",
+  "institution": "HENRY FORD HOSPITAL SCHOOL OF NURSING",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48202",
-  "email": false
+  "ope": null
 }

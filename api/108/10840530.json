@@ -1,6 +1,6 @@
 {
   "facility_code": "10840530",
-  "institution": "Rochelle Park Police Department",
+  "institution": "ROCHELLE PARK POLICE DEPARTMENT",
   "city": "Rochelle Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7662",
-  "email": true
+  "ope": null
 }

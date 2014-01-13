@@ -1,6 +1,6 @@
 {
   "facility_code": "10152817",
-  "institution": "Kentucky State Police",
+  "institution": "KENTUCKY STATE POLICE",
   "city": "Frankfort",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40601",
-  "email": false
+  "ope": null
 }

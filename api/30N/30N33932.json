@@ -1,6 +1,6 @@
 {
   "facility_code": "30N33932",
-  "institution": "Operating Engineerslocal 14-14b",
+  "institution": "OPERATING ENGINEERSLOCAL 14-14B",
   "city": "Flushing",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11354",
-  "email": false
+  "ope": null
 }

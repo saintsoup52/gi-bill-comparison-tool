@@ -1,6 +1,6 @@
 {
   "facility_code": "10201216",
-  "institution": "Ellsworth Correctional Facility",
+  "institution": "ELLSWORTH CORRECTIONAL FACILITY",
   "city": "Ellsworth",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67439",
-  "email": true
+  "ope": null
 }

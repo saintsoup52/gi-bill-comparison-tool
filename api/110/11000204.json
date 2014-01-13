@@ -1,6 +1,6 @@
 {
   "facility_code": "11000204",
-  "institution": "Henderson State University",
+  "institution": "HENDERSON STATE UNIVERSITY",
   "city": "Arkadelphia",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "71999",
-  "email": false
+  "ope": "00109800"
 }

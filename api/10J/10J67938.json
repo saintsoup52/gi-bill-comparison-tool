@@ -1,6 +1,6 @@
 {
   "facility_code": "10J67938",
-  "institution": "Waynesboro Police Dept",
+  "institution": "WAYNESBORO POLICE DEPT",
   "city": "Waynesboro",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17268",
-  "email": false
+  "ope": null
 }

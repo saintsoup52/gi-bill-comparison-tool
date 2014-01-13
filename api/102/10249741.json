@@ -1,6 +1,6 @@
 {
   "facility_code": "10249741",
-  "institution": "Pennington County Jail",
+  "institution": "PENNINGTON COUNTY JAIL",
   "city": "Rapid City",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57701",
-  "email": false
+  "ope": null
 }

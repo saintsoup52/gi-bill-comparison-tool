@@ -1,6 +1,6 @@
 {
   "facility_code": "10003237",
-  "institution": "Burns Police Department",
+  "institution": "BURNS POLICE DEPARTMENT",
   "city": "Burns",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97720",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25001026",
-  "institution": "The Nail Institute",
+  "institution": "THE NAIL INSTITUTE",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59102",
-  "email": true
+  "ope": null
 }

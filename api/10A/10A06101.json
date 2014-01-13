@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06101",
-  "institution": "Federal Aviation Admin (Faa)- Mobile Air Traffic Control Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA)- MOBILE AIR TRAFFIC CONTROL TOWER",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36608",
-  "email": true
+  "ope": null
 }

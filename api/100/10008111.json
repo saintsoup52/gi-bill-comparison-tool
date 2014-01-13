@@ -1,6 +1,6 @@
 {
   "facility_code": "10008111",
-  "institution": "Marietta Regional Youth Detention Center",
+  "institution": "MARIETTA REGIONAL YOUTH DETENTION CENTER",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30060",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31805030",
-  "institution": "Seton Hall University",
+  "institution": "SETON HALL UNIVERSITY",
   "city": "South Orange",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7079",
-  "email": true
+  "ope": "00263200"
 }

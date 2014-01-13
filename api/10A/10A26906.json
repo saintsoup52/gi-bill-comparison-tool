@@ -1,6 +1,6 @@
 {
   "facility_code": "10A26906",
-  "institution": "U.S. Dept Of Veterans Affairs",
+  "institution": "U.S. DEPT OF VETERANS AFFAIRS",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80225",
-  "email": "No (SCO)"
+  "ope": null
 }

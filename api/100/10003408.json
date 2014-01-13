@@ -1,6 +1,6 @@
 {
   "facility_code": "10003408",
-  "institution": "Delaware Department Of Corrections",
+  "institution": "DELAWARE DEPARTMENT OF CORRECTIONS",
   "city": "Dover",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19904",
-  "email": false
+  "ope": null
 }

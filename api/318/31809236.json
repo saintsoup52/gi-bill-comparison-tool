@@ -1,6 +1,6 @@
 {
   "facility_code": "31809236",
-  "institution": "Webster University Ft Sill",
+  "institution": "WEBSTER UNIVERSITY FT SILL",
   "city": "Ft Sill",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73503",
-  "email": true
+  "ope": null
 }

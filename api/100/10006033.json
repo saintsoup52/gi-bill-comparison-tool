@@ -1,6 +1,6 @@
 {
   "facility_code": "10006033",
-  "institution": "High Point Fire Department",
+  "institution": "HIGH POINT FIRE DEPARTMENT",
   "city": "High Point",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27260",
-  "email": true
+  "ope": null
 }

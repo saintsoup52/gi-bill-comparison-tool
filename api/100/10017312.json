@@ -1,6 +1,6 @@
 {
   "facility_code": "10017312",
-  "institution": "Idaho Transportation Department",
+  "institution": "IDAHO TRANSPORTATION DEPARTMENT",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83707",
-  "email": false
+  "ope": null
 }

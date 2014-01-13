@@ -1,6 +1,6 @@
 {
   "facility_code": "10259143",
-  "institution": "Federal Correctional Institution Anthony",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION ANTHONY",
   "city": "Anthony",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79821",
-  "email": false
+  "ope": null
 }

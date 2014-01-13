@@ -1,6 +1,6 @@
 {
   "facility_code": "15002614",
-  "institution": "Indiana Veterans Home",
+  "institution": "INDIANA VETERANS HOME",
   "city": "West Lafayette",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47906",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10445447",
-  "institution": "City Of Arlington Police Department",
+  "institution": "CITY OF ARLINGTON POLICE DEPARTMENT",
   "city": "Arlington",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98223",
-  "email": true
+  "ope": null
 }

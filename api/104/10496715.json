@@ -1,6 +1,6 @@
 {
   "facility_code": "10496715",
-  "institution": "Tru Count Inc.",
+  "institution": "TRU COUNT INC.",
   "city": "Ames",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50010",
-  "email": false
+  "ope": null
 }

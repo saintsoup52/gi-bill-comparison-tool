@@ -1,6 +1,6 @@
 {
   "facility_code": "15096643",
-  "institution": "Brooke Army Med Ctr",
+  "institution": "BROOKE ARMY MED CTR",
   "city": "Fort Sam Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78234",
-  "email": false
+  "ope": null
 }

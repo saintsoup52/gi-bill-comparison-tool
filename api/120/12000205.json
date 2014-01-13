@@ -1,6 +1,6 @@
 {
   "facility_code": "12000205",
-  "institution": "Arrowhead Regional Medical Center",
+  "institution": "ARROWHEAD REGIONAL MEDICAL CENTER",
   "city": "Colton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92324",
-  "email": true
+  "ope": null
 }

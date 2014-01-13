@@ -1,6 +1,6 @@
 {
   "facility_code": "19000646",
-  "institution": "Naval Inventory Control Point",
+  "institution": "NAVAL INVENTORY CONTROL POINT",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23511",
-  "email": false
+  "ope": null
 }

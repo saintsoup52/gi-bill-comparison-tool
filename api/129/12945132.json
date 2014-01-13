@@ -1,6 +1,6 @@
 {
   "facility_code": "12945132",
-  "institution": "Veterans Administration Medical Center (Buffalo)",
+  "institution": "VETERANS ADMINISTRATION MEDICAL CENTER (BUFFALO)",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14215",
-  "email": false
+  "ope": null
 }

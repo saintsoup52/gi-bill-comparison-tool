@@ -1,6 +1,6 @@
 {
   "facility_code": "10079618",
-  "institution": "Faa - Monroe Atct",
+  "institution": "FAA - MONROE ATCT",
   "city": "Monroe",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71203",
-  "email": true
+  "ope": null
 }

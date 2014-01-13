@@ -1,6 +1,6 @@
 {
   "facility_code": "10067941",
-  "institution": "Department Of Public Safety",
+  "institution": "DEPARTMENT OF PUBLIC SAFETY",
   "city": "Pierre",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57501",
-  "email": false
+  "ope": null
 }

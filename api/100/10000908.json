@@ -1,6 +1,6 @@
 {
   "facility_code": "10000908",
-  "institution": "Bridgeville Police Department",
+  "institution": "BRIDGEVILLE POLICE DEPARTMENT",
   "city": "Bridgeville",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19933",
-  "email": false
+  "ope": null
 }

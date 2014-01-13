@@ -1,6 +1,6 @@
 {
   "facility_code": "20B11423",
-  "institution": "Federated Rural Electric Association",
+  "institution": "FEDERATED RURAL ELECTRIC ASSOCIATION",
   "city": "Jackson",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "56143",
-  "email": false
+  "ope": null
 }

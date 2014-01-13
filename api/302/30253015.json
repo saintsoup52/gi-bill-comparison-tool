@@ -1,6 +1,6 @@
 {
   "facility_code": "30253015",
-  "institution": "Archer Daniels Midland (Adm) Company",
+  "institution": "ARCHER DANIELS MIDLAND (ADM) COMPANY",
   "city": "Clinton",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52732",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15631932",
-  "institution": "Westchester County Department Of Public Safety",
+  "institution": "WESTCHESTER COUNTY DEPARTMENT OF PUBLIC SAFETY",
   "city": "Valhalla",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10595",
-  "email": false
+  "ope": null
 }

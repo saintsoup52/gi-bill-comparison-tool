@@ -1,6 +1,6 @@
 {
   "facility_code": "20N24632",
-  "institution": "Wal-Mart Vision Center",
+  "institution": "WAL-MART VISION CENTER",
   "city": "Hudson",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12534",
-  "email": false
+  "ope": null
 }

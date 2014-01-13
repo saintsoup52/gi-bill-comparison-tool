@@ -1,6 +1,6 @@
 {
   "facility_code": "31909029",
-  "institution": "Mcphs (Mass. Coll. Pharmacy And Health Services) - New Hampshire",
+  "institution": "MCPHS (MASS. COLL. PHARMACY AND HEALTH SERVICES) - NEW HAMPSHIRE",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "3101",
-  "email": true
+  "ope": "00216505"
 }

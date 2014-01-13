@@ -1,6 +1,6 @@
 {
   "facility_code": "18405132",
-  "institution": "New York State Division Of Parole - Training Academy At Zone 5",
+  "institution": "NEW YORK STATE DIVISION OF PAROLE - TRAINING ACADEMY AT ZONE 5",
   "city": "Schenectady",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12305",
-  "email": true
+  "ope": null
 }

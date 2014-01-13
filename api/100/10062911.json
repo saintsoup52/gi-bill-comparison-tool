@@ -1,6 +1,6 @@
 {
   "facility_code": "10062911",
-  "institution": "Georgia Power Company - Ponce Tmc",
+  "institution": "GEORGIA POWER COMPANY - PONCE TMC",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30306",
-  "email": true
+  "ope": null
 }

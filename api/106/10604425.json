@@ -1,6 +1,6 @@
 {
   "facility_code": "10604425",
-  "institution": "St. Louis County Police Dept.",
+  "institution": "ST. LOUIS COUNTY POLICE DEPT.",
   "city": "Clayton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63105",
-  "email": false
+  "ope": null
 }

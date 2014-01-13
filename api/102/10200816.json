@@ -1,6 +1,6 @@
 {
   "facility_code": "10200816",
-  "institution": "Federal Aviation Admin (Faa) - Kansas City Artcc",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) - KANSAS CITY ARTCC",
   "city": "Olathe",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66062",
-  "email": true
+  "ope": null
 }

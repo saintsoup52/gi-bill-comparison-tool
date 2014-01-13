@@ -1,6 +1,6 @@
 {
   "facility_code": "20010303",
-  "institution": "Salt River Project (Ojt)",
+  "institution": "SALT RIVER PROJECT (OJT)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85072",
-  "email": false
+  "ope": null
 }

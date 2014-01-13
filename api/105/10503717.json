@@ -1,6 +1,6 @@
 {
   "facility_code": "10503717",
-  "institution": "Central Region Correctional Training Center",
+  "institution": "CENTRAL REGION CORRECTIONAL TRAINING CENTER",
   "city": "Lagrange",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40031",
-  "email": false
+  "ope": null
 }

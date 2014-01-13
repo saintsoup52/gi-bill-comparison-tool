@@ -1,6 +1,6 @@
 {
   "facility_code": "20B84022",
-  "institution": "Detroit Edison A Dte Energy Company",
+  "institution": "DETROIT EDISON A DTE ENERGY COMPANY",
   "city": "Detroit",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48211",
-  "email": false
+  "ope": null
 }

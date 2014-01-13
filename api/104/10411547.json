@@ -1,6 +1,6 @@
 {
   "facility_code": "10411547",
-  "institution": "Eatonville Police Department",
+  "institution": "EATONVILLE POLICE DEPARTMENT",
   "city": "Eatonville",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98328",
-  "email": true
+  "ope": null
 }

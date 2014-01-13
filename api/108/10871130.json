@@ -1,6 +1,6 @@
 {
   "facility_code": "10871130",
-  "institution": "Faa Trenton Navigation/Communications/Environmental System Support Center",
+  "institution": "FAA TRENTON NAVIGATION/COMMUNICATIONS/ENVIRONMENTAL SYSTEM SUPPORT CENTER",
   "city": "West Trenton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8628",
-  "email": true
+  "ope": null
 }

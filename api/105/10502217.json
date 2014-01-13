@@ -1,6 +1,6 @@
 {
   "facility_code": "10502217",
-  "institution": "Pikeville Police Department",
+  "institution": "PIKEVILLE POLICE DEPARTMENT",
   "city": "Pikeville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41501",
-  "email": false
+  "ope": null
 }

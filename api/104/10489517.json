@@ -1,6 +1,6 @@
 {
   "facility_code": "10489517",
-  "institution": "London Police Department",
+  "institution": "LONDON POLICE DEPARTMENT",
   "city": "London",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40741",
-  "email": false
+  "ope": null
 }

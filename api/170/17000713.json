@@ -1,6 +1,6 @@
 {
   "facility_code": "17000713",
-  "institution": "Peoria High School",
+  "institution": "PEORIA HIGH SCHOOL",
   "city": "Peoria",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61604",
-  "email": false
+  "ope": null
 }

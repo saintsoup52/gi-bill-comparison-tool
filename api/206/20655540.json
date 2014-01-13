@@ -1,6 +1,6 @@
 {
   "facility_code": "20655540",
-  "institution": "At&T Phone Company",
+  "institution": "AT&T PHONE COMPANY",
   "city": "Charleston",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29407",
-  "email": false
+  "ope": null
 }

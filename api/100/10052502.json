@@ -1,6 +1,6 @@
 {
   "facility_code": "10052502",
-  "institution": "Faa Anchorage Tower - Anchorage International Airport",
+  "institution": "FAA ANCHORAGE TOWER - ANCHORAGE INTERNATIONAL AIRPORT",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99502",
-  "email": false
+  "ope": null
 }

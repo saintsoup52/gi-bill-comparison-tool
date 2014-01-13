@@ -1,6 +1,6 @@
 {
   "facility_code": "10224003",
-  "institution": "Kingman Police Department",
+  "institution": "KINGMAN POLICE DEPARTMENT",
   "city": "Kingman",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "86401",
-  "email": false
+  "ope": null
 }

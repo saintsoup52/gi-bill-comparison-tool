@@ -1,6 +1,6 @@
 {
   "facility_code": "31144480",
-  "institution": "Akad Hochschule Fur Berufstatige",
+  "institution": "AKAD HOCHSCHULE FUR BERUFSTATIGE",
   "city": "70469 Stuttgart",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

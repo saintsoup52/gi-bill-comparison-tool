@@ -1,6 +1,6 @@
 {
   "facility_code": "25001940",
-  "institution": "Arc Labs Columbia",
+  "institution": "ARC LABS COLUMBIA",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29210",
-  "email": true
+  "ope": null
 }

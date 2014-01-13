@@ -1,6 +1,6 @@
 {
   "facility_code": "20043402",
-  "institution": "Airparts Inc. (Ch31)",
+  "institution": "AIRPARTS INC. (CH31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": false
+  "ope": null
 }

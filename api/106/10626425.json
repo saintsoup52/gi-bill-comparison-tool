@@ -1,6 +1,6 @@
 {
   "facility_code": "10626425",
-  "institution": "Gasconade County Sheriff'S Dept.",
+  "institution": "GASCONADE COUNTY SHERIFF'S DEPT.",
   "city": "Hermann",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65041",
-  "email": false
+  "ope": null
 }

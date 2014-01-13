@@ -1,6 +1,6 @@
 {
   "facility_code": "10655240",
-  "institution": "Us Dept Of Agriculture Natural Resources Conservation Service (Ch 31 Only)",
+  "institution": "US DEPT OF AGRICULTURE NATURAL RESOURCES CONSERVATION SERVICE (CH 31 ONLY)",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29201",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B96335",
-  "institution": "City Of Cleveland (Cleveland Public Power)",
+  "institution": "CITY OF CLEVELAND (CLEVELAND PUBLIC POWER)",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44110",
-  "email": false
+  "ope": null
 }

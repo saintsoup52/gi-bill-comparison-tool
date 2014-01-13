@@ -1,6 +1,6 @@
 {
   "facility_code": "10428047",
-  "institution": "Burlington Northern Santa Fe - Seattle - Ch 31 Only",
+  "institution": "BURLINGTON NORTHERN SANTA FE - SEATTLE - CH 31 ONLY",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98001",
-  "email": false
+  "ope": null
 }

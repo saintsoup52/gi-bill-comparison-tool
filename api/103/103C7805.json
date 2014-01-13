@@ -1,6 +1,6 @@
 {
   "facility_code": "103C7805",
-  "institution": "Us Federal Court (Ch31 Only)",
+  "institution": "US FEDERAL COURT (CH31 ONLY)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90012",
-  "email": false
+  "ope": null
 }

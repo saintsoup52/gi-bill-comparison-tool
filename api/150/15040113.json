@@ -1,6 +1,6 @@
 {
   "facility_code": "15040113",
-  "institution": "Byron High School",
+  "institution": "BYRON HIGH SCHOOL",
   "city": "Byron",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61010",
-  "email": false
+  "ope": null
 }

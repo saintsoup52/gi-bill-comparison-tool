@@ -1,6 +1,6 @@
 {
   "facility_code": "10567330",
-  "institution": "Mercer County Correction Center",
+  "institution": "MERCER COUNTY CORRECTION CENTER",
   "city": "Titusville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8530",
-  "email": true
+  "ope": null
 }

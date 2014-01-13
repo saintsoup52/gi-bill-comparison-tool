@@ -1,6 +1,6 @@
 {
   "facility_code": "10595113",
-  "institution": "Illinois State Police District  5",
+  "institution": "ILLINOIS STATE POLICE DISTRICT  5",
   "city": "Lockport",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60441",
-  "email": true
+  "ope": null
 }

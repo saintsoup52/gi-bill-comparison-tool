@@ -1,6 +1,6 @@
 {
   "facility_code": "11000543",
-  "institution": "Angelo State University",
+  "institution": "ANGELO STATE UNIVERSITY",
   "city": "San Angelo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "76909",
-  "email": false
+  "ope": "00354100"
 }

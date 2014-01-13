@@ -1,6 +1,6 @@
 {
   "facility_code": "25543635",
-  "institution": "Cleveland Industrial Training Center",
+  "institution": "CLEVELAND INDUSTRIAL TRAINING CENTER",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44109",
-  "email": false
+  "ope": null
 }

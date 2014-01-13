@@ -1,6 +1,6 @@
 {
   "facility_code": "19000150",
-  "institution": "Dept Of Employment Employment Resources Division",
+  "institution": "DEPT OF EMPLOYMENT EMPLOYMENT RESOURCES DIVISION",
   "city": "Casper",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82602",
-  "email": false
+  "ope": null
 }

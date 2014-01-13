@@ -1,6 +1,6 @@
 {
   "facility_code": "15035606",
-  "institution": "John F Kennedy High School",
+  "institution": "JOHN F KENNEDY HIGH SCHOOL",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80221",
-  "email": true
+  "ope": null
 }

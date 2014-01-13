@@ -1,6 +1,6 @@
 {
   "facility_code": "10N48932",
-  "institution": "Syracuse Va Medical Center",
+  "institution": "SYRACUSE VA MEDICAL CENTER",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13210",
-  "email": true
+  "ope": null
 }

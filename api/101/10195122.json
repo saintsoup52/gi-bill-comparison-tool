@@ -1,6 +1,6 @@
 {
   "facility_code": "10195122",
-  "institution": "Ingham County Department Of Veterans Affairs",
+  "institution": "INGHAM COUNTY DEPARTMENT OF VETERANS AFFAIRS",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48911",
-  "email": true
+  "ope": null
 }

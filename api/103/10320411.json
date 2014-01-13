@@ -1,6 +1,6 @@
 {
   "facility_code": "10320411",
-  "institution": "Summerville Police Dept",
+  "institution": "SUMMERVILLE POLICE DEPT",
   "city": "Summerville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30747",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C42143",
-  "institution": "Edward Jones Denton",
+  "institution": "EDWARD JONES DENTON",
   "city": "Denton",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76210",
-  "email": false
+  "ope": null
 }

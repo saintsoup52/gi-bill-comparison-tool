@@ -1,6 +1,6 @@
 {
   "facility_code": "10099329",
-  "institution": "New Hampshire State Police",
+  "institution": "NEW HAMPSHIRE STATE POLICE",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3301",
-  "email": true
+  "ope": null
 }

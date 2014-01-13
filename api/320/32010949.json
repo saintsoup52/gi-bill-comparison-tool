@@ -1,6 +1,6 @@
 {
   "facility_code": "32010949",
-  "institution": "St Joseph'S Hospital/Marshfield Clinic",
+  "institution": "ST JOSEPH'S HOSPITAL/MARSHFIELD CLINIC",
   "city": "Marshfield",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54449",
-  "email": false
+  "ope": null
 }

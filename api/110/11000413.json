@@ -1,6 +1,6 @@
 {
   "facility_code": "11000413",
-  "institution": "Illinois State University",
+  "institution": "ILLINOIS STATE UNIVERSITY",
   "city": "Normal",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "61790",
-  "email": true
+  "ope": "00169200"
 }

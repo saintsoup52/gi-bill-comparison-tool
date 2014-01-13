@@ -1,6 +1,6 @@
 {
   "facility_code": "10130041",
-  "institution": "Perkins County",
+  "institution": "PERKINS COUNTY",
   "city": "Bison",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57620",
-  "email": false
+  "ope": null
 }

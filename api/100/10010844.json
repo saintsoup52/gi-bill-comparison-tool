@@ -1,6 +1,6 @@
 {
   "facility_code": "10010844",
-  "institution": "Faa - Salt Lake City Artcc",
+  "institution": "FAA - SALT LAKE CITY ARTCC",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84116",
-  "email": true
+  "ope": null
 }

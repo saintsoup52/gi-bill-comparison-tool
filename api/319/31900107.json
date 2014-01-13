@@ -1,6 +1,6 @@
 {
   "facility_code": "31900107",
-  "institution": "Rensselaer At Hartford",
+  "institution": "RENSSELAER AT HARTFORD",
   "city": "Hartford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "6120",
-  "email": true
+  "ope": "00280301"
 }

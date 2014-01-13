@@ -1,6 +1,6 @@
 {
   "facility_code": "10650440",
-  "institution": "Greer Police Department",
+  "institution": "GREER POLICE DEPARTMENT",
   "city": "Greer",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29650",
-  "email": false
+  "ope": null
 }

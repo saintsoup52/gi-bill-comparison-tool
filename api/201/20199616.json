@@ -1,6 +1,6 @@
 {
   "facility_code": "20199616",
-  "institution": "Burlington Northern Santa Fe Railway",
+  "institution": "BURLINGTON NORTHERN SANTA FE RAILWAY",
   "city": "Kansas City",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66106",
-  "email": true
+  "ope": null
 }

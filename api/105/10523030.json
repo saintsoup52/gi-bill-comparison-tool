@@ -1,6 +1,6 @@
 {
   "facility_code": "10523030",
-  "institution": "Ocean City Police Department",
+  "institution": "OCEAN CITY POLICE DEPARTMENT",
   "city": "Ocean City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8226",
-  "email": true
+  "ope": null
 }

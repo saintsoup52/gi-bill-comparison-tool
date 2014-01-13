@@ -1,6 +1,6 @@
 {
   "facility_code": "10073414",
-  "institution": "Indiana University Cyclotron Facility",
+  "institution": "INDIANA UNIVERSITY CYCLOTRON FACILITY",
   "city": "Bloomington",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47408",
-  "email": false
+  "ope": null
 }

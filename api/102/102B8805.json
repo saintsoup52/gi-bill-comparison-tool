@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8805",
-  "institution": "Sierra Conservation Center (Ca Dept Of Corrections)",
+  "institution": "SIERRA CONSERVATION CENTER (CA DEPT OF CORRECTIONS)",
   "city": "Jamestown",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95327",
-  "email": true
+  "ope": null
 }

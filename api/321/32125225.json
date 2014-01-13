@@ -1,6 +1,6 @@
 {
   "facility_code": "32125225",
-  "institution": "Umkc School Of Medicine",
+  "institution": "UMKC SCHOOL OF MEDICINE",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64108",
-  "email": true
+  "ope": null
 }

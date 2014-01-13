@@ -1,6 +1,6 @@
 {
   "facility_code": "10312838",
-  "institution": "Ambler Police Department",
+  "institution": "AMBLER POLICE DEPARTMENT",
   "city": "Ambler",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19002",
-  "email": false
+  "ope": null
 }

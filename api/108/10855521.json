@@ -1,6 +1,6 @@
 {
   "facility_code": "10855521",
-  "institution": "Mansfield Police Department",
+  "institution": "MANSFIELD POLICE DEPARTMENT",
   "city": "Mansfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2048",
-  "email": true
+  "ope": null
 }

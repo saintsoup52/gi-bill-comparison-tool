@@ -1,6 +1,6 @@
 {
   "facility_code": "10226103",
-  "institution": "Bullhead City Police Department",
+  "institution": "BULLHEAD CITY POLICE DEPARTMENT",
   "city": "Bullhead City",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "86442",
-  "email": false
+  "ope": null
 }

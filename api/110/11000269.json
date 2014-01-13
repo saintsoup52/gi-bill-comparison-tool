@@ -1,6 +1,6 @@
 {
   "facility_code": "11000269",
-  "institution": "Peking University",
+  "institution": "PEKING UNIVERSITY",
   "city": "Beijing",
   "state": "China",
   "country": "China",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

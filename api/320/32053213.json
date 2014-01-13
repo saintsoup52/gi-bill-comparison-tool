@@ -1,6 +1,6 @@
 {
   "facility_code": "32053213",
-  "institution": "Loyola University Medical Center - Department Of Radiology",
+  "institution": "LOYOLA UNIVERSITY MEDICAL CENTER - DEPARTMENT OF RADIOLOGY",
   "city": "Maywood",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60153",
-  "email": false
+  "ope": null
 }

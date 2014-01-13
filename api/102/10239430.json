@@ -1,6 +1,6 @@
 {
   "facility_code": "10239430",
-  "institution": "Hillside Fire Department",
+  "institution": "HILLSIDE FIRE DEPARTMENT",
   "city": "Hillside",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7205",
-  "email": false
+  "ope": null
 }

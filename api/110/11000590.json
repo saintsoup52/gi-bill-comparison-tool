@@ -1,6 +1,6 @@
 {
   "facility_code": "11000590",
-  "institution": "Medical University Of Lublin",
+  "institution": "MEDICAL UNIVERSITY OF LUBLIN",
   "city": "20-059 Lublin",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

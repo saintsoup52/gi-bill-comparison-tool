@@ -1,6 +1,6 @@
 {
   "facility_code": "14002849",
-  "institution": "Univ Of Wisc-Waukesha",
+  "institution": "UNIV OF WISC-WAUKESHA",
   "city": "Waukesha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "53188",
-  "email": true
+  "ope": "00389713"
 }

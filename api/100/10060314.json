@@ -1,6 +1,6 @@
 {
   "facility_code": "10060314",
-  "institution": "City Of Lawrence Fire Department",
+  "institution": "CITY OF LAWRENCE FIRE DEPARTMENT",
   "city": "Lawrence",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46226",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002878",
-  "institution": "Koc University",
+  "institution": "KOC UNIVERSITY",
   "city": "Isatnbul",
   "state": "Turkey (except Adana)",
   "country": "Turkey (except Adana)",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

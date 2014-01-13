@@ -1,6 +1,6 @@
 {
   "facility_code": "31200279",
-  "institution": "Esc Rennes School Of Business",
+  "institution": "ESC RENNES SCHOOL OF BUSINESS",
   "city": "Rennes Cedex",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

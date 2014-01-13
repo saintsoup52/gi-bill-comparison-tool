@@ -1,6 +1,6 @@
 {
   "facility_code": "12010133",
-  "institution": "New Hanover Regional Medical Center",
+  "institution": "NEW HANOVER REGIONAL MEDICAL CENTER",
   "city": "Wilmington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28401",
-  "email": true
+  "ope": null
 }

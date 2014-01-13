@@ -1,6 +1,6 @@
 {
   "facility_code": "10A05711",
-  "institution": "Central State Prison",
+  "institution": "CENTRAL STATE PRISON",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31208",
-  "email": true
+  "ope": null
 }

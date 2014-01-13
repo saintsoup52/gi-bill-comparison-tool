@@ -1,6 +1,6 @@
 {
   "facility_code": "10202626",
-  "institution": "Flathead County Sheriff'S Office",
+  "institution": "FLATHEAD COUNTY SHERIFF'S OFFICE",
   "city": "Kalispell",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59901",
-  "email": false
+  "ope": null
 }

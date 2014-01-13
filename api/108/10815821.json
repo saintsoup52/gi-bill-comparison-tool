@@ -1,6 +1,6 @@
 {
   "facility_code": "10815821",
-  "institution": "Cambridge Fire Department",
+  "institution": "CAMBRIDGE FIRE DEPARTMENT",
   "city": "Cambridge",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2138",
-  "email": false
+  "ope": null
 }

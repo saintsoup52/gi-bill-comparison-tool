@@ -1,6 +1,6 @@
 {
   "facility_code": "10460336",
-  "institution": "Hobart Police Department",
+  "institution": "HOBART POLICE DEPARTMENT",
   "city": "Hobart",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73651",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25C00438",
-  "institution": "Biospectra Inc.",
+  "institution": "BIOSPECTRA INC.",
   "city": "Stroudsburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18360",
-  "email": true
+  "ope": null
 }

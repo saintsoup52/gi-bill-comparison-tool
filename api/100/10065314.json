@@ -1,6 +1,6 @@
 {
   "facility_code": "10065314",
-  "institution": "New Albany Fire Department",
+  "institution": "NEW ALBANY FIRE DEPARTMENT",
   "city": "New Albany",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47150",
-  "email": false
+  "ope": null
 }

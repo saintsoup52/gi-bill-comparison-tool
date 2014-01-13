@@ -1,6 +1,6 @@
 {
   "facility_code": "10236503",
-  "institution": "Department Of Justice Us Attorney'S Office",
+  "institution": "DEPARTMENT OF JUSTICE US ATTORNEY'S OFFICE",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85004",
-  "email": false
+  "ope": null
 }

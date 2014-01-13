@@ -1,6 +1,6 @@
 {
   "facility_code": "10C00238",
-  "institution": "Fort Indiantown Gap",
+  "institution": "FORT INDIANTOWN GAP",
   "city": "Annville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17003",
-  "email": true
+  "ope": null
 }

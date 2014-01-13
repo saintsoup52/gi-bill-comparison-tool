@@ -1,6 +1,6 @@
 {
   "facility_code": "30010018",
-  "institution": "Disabled American Veterans Ch31",
+  "institution": "DISABLED AMERICAN VETERANS CH31",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70113",
-  "email": false
+  "ope": null
 }

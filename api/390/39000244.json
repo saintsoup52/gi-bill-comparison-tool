@@ -1,6 +1,6 @@
 {
   "facility_code": "39000244",
-  "institution": "Work Activity Center (Ch 35 Only)",
+  "institution": "WORK ACTIVITY CENTER (CH 35 ONLY)",
   "city": "Midvale",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84047",
-  "email": false
+  "ope": null
 }

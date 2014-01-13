@@ -1,6 +1,6 @@
 {
   "facility_code": "31600005",
-  "institution": "California College Of The Arts",
+  "institution": "CALIFORNIA COLLEGE OF THE ARTS",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94618",
-  "email": false
+  "ope": "00112701"
 }

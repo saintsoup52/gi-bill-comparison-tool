@@ -1,6 +1,6 @@
 {
   "facility_code": "103B6805",
-  "institution": "Department Of Veterans Affairs Sepulveda Opc (Chapter 31 Only)",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS SEPULVEDA OPC (CHAPTER 31 ONLY)",
   "city": "North Hills",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91343",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10017512",
-  "institution": "Adams County Sheriff'S Office",
+  "institution": "ADAMS COUNTY SHERIFF'S OFFICE",
   "city": "Council",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83612",
-  "email": false
+  "ope": null
 }

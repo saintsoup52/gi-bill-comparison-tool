@@ -1,6 +1,6 @@
 {
   "facility_code": "30020621",
-  "institution": "Sheet Metal Workers L.U. #17 Jatc",
+  "institution": "SHEET METAL WORKERS L.U. #17 JATC",
   "city": "Dorchester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2124",
-  "email": true
+  "ope": null
 }

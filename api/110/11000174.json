@@ -1,6 +1,6 @@
 {
   "facility_code": "11000174",
-  "institution": "Royal Holloway Univ Of London",
+  "institution": "ROYAL HOLLOWAY UNIV OF LONDON",
   "city": "Surrey",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

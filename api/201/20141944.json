@@ -1,6 +1,6 @@
 {
   "facility_code": "20141944",
-  "institution": "J P M Inc App",
+  "institution": "J P M INC APP",
   "city": "American Fork",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84003",
-  "email": false
+  "ope": null
 }

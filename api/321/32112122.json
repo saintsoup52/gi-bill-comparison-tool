@@ -1,6 +1,6 @@
 {
   "facility_code": "32112122",
-  "institution": "Genesys Regional Medical Center",
+  "institution": "GENESYS REGIONAL MEDICAL CENTER",
   "city": "Grand Blanc",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48439",
-  "email": true
+  "ope": null
 }

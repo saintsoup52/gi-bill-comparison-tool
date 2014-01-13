@@ -1,6 +1,6 @@
 {
   "facility_code": "10R04538",
-  "institution": "Pa Dept Of Public Welfare/Mayview State Hospital",
+  "institution": "PA DEPT OF PUBLIC WELFARE/MAYVIEW STATE HOSPITAL",
   "city": "Bridgeville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15017",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25201031",
-  "institution": "Hobbs High School",
+  "institution": "HOBBS HIGH SCHOOL",
   "city": "Hobbs",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88240",
-  "email": false
+  "ope": null
 }

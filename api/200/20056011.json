@@ -1,6 +1,6 @@
 {
   "facility_code": "20056011",
-  "institution": "Georgia Power Company Drs",
+  "institution": "GEORGIA POWER COMPANY DRS",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30318",
-  "email": true
+  "ope": null
 }

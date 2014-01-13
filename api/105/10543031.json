@@ -1,6 +1,6 @@
 {
   "facility_code": "10543031",
-  "institution": "Us Dept. Of The Interior Us Fish & Wildlife",
+  "institution": "US DEPT. OF THE INTERIOR US FISH & WILDLIFE",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87103",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10060614",
-  "institution": "Whiting Police Department",
+  "institution": "WHITING POLICE DEPARTMENT",
   "city": "Whiting",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46394",
-  "email": false
+  "ope": null
 }

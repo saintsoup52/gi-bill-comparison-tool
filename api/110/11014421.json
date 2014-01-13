@@ -1,6 +1,6 @@
 {
   "facility_code": "11014421",
-  "institution": "University Of Massachusetts At Dartmouth",
+  "institution": "UNIVERSITY OF MASSACHUSETTS AT DARTMOUTH",
   "city": "North Dartmouth",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2747",
-  "email": true
+  "ope": "00221000"
 }

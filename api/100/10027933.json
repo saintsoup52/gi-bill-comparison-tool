@@ -1,6 +1,6 @@
 {
   "facility_code": "10027933",
-  "institution": "Shelby Fire Department",
+  "institution": "SHELBY FIRE DEPARTMENT",
   "city": "Shelby",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28150",
-  "email": true
+  "ope": null
 }

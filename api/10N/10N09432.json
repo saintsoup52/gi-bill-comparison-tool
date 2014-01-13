@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09432",
-  "institution": "Scotia Police Department",
+  "institution": "SCOTIA POLICE DEPARTMENT",
   "city": "Scotia",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12302",
-  "email": true
+  "ope": null
 }

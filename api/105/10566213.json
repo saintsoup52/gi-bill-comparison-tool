@@ -1,6 +1,6 @@
 {
   "facility_code": "10566213",
-  "institution": "Logan Correctional Center",
+  "institution": "LOGAN CORRECTIONAL CENTER",
   "city": "Lincoln",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62656",
-  "email": true
+  "ope": null
 }

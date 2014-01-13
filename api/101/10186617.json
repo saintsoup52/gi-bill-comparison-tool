@@ -1,6 +1,6 @@
 {
   "facility_code": "10186617",
-  "institution": "Hopkinsville Police Department",
+  "institution": "HOPKINSVILLE POLICE DEPARTMENT",
   "city": "Hopkinsville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42240",
-  "email": true
+  "ope": null
 }

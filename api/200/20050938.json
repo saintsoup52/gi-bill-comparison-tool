@@ -1,6 +1,6 @@
 {
   "facility_code": "20050938",
-  "institution": "Western Pa Operating Engineers J Atp",
+  "institution": "WESTERN PA OPERATING ENGINEERS J ATP",
   "city": "New Alexandria",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15670",
-  "email": true
+  "ope": null
 }

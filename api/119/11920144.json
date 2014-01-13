@@ -1,6 +1,6 @@
 {
   "facility_code": "11920144",
-  "institution": "University Of Utah",
+  "institution": "UNIVERSITY OF UTAH",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "84112",
-  "email": true
+  "ope": "00367500"
 }

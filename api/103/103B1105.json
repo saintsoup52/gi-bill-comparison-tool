@@ -1,6 +1,6 @@
 {
   "facility_code": "103B1105",
-  "institution": "Carslbad Police Department",
+  "institution": "CARSLBAD POLICE DEPARTMENT",
   "city": "Carlsbad",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92010",
-  "email": false
+  "ope": null
 }

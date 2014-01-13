@@ -1,6 +1,6 @@
 {
   "facility_code": "10N28232",
-  "institution": "Suffolk County Police Department - 4th Precinct",
+  "institution": "SUFFOLK COUNTY POLICE DEPARTMENT - 4TH PRECINCT",
   "city": "Hauppauge",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11788",
-  "email": false
+  "ope": null
 }

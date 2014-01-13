@@ -1,6 +1,6 @@
 {
   "facility_code": "11840830",
-  "institution": "Rutgers The State University School Of Nursing Newark",
+  "institution": "RUTGERS THE STATE UNIVERSITY SCHOOL OF NURSING NEWARK",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7101",
-  "email": true
+  "ope": "00262902"
 }

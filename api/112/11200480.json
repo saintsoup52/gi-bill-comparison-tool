@@ -1,6 +1,6 @@
 {
   "facility_code": "11200480",
-  "institution": "Bayerische Julius Maximilians Universitat Wurzburg",
+  "institution": "BAYERISCHE JULIUS MAXIMILIANS UNIVERSITAT WURZBURG",
   "city": "Wurzburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

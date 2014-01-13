@@ -1,6 +1,6 @@
 {
   "facility_code": "12800505",
-  "institution": "University Of California San Diego Medical Center",
+  "institution": "UNIVERSITY OF CALIFORNIA SAN DIEGO MEDICAL CENTER",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92103",
-  "email": false
+  "ope": null
 }

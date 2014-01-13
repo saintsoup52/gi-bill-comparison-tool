@@ -1,6 +1,6 @@
 {
   "facility_code": "32904105",
-  "institution": "Scripps Mercy Hospital",
+  "institution": "SCRIPPS MERCY HOSPITAL",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92103",
-  "email": false
+  "ope": null
 }

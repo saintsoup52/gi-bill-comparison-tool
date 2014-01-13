@@ -1,6 +1,6 @@
 {
   "facility_code": "11000490",
-  "institution": "Warsaw University Of Technology",
+  "institution": "WARSAW UNIVERSITY OF TECHNOLOGY",
   "city": "Warsaw",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

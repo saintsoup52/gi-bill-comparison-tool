@@ -1,6 +1,6 @@
 {
   "facility_code": "10650540",
-  "institution": "Summerville Police Department",
+  "institution": "SUMMERVILLE POLICE DEPARTMENT",
   "city": "Summerville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29483",
-  "email": true
+  "ope": null
 }

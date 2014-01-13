@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10401",
-  "institution": "Social Security Admin/Oig - Birmingham",
+  "institution": "SOCIAL SECURITY ADMIN/OIG - BIRMINGHAM",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35285",
-  "email": true
+  "ope": null
 }

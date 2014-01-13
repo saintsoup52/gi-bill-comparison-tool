@@ -1,6 +1,6 @@
 {
   "facility_code": "10951521",
-  "institution": "Falmouth Police Department",
+  "institution": "FALMOUTH POLICE DEPARTMENT",
   "city": "Falmouth",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2540",
-  "email": true
+  "ope": null
 }

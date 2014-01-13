@@ -1,6 +1,6 @@
 {
   "facility_code": "31100779",
-  "institution": "Ecole Des Hautes Etudes En Sciences Sociales",
+  "institution": "ECOLE DES HAUTES ETUDES EN SCIENCES SOCIALES",
   "city": "13002 Marseille",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

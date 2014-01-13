@@ -1,6 +1,6 @@
 {
   "facility_code": "10443747",
-  "institution": "City Of Bonney Lake Police Department",
+  "institution": "CITY OF BONNEY LAKE POLICE DEPARTMENT",
   "city": "Bonney Lake",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98391",
-  "email": true
+  "ope": null
 }

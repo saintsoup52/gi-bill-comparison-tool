@@ -1,6 +1,6 @@
 {
   "facility_code": "25812013",
-  "institution": "Acme School Locksmith Division",
+  "institution": "ACME SCHOOL LOCKSMITH DIVISION",
   "city": "Worth",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60482",
-  "email": false
+  "ope": null
 }

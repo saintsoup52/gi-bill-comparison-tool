@@ -1,6 +1,6 @@
 {
   "facility_code": "10A87406",
-  "institution": "Glenwood Springs Police Department",
+  "institution": "GLENWOOD SPRINGS POLICE DEPARTMENT",
   "city": "Glenwood Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81601",
-  "email": false
+  "ope": null
 }

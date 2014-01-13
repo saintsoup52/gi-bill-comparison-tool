@@ -1,6 +1,6 @@
 {
   "facility_code": "46000638",
-  "institution": "Project Management Institute",
+  "institution": "PROJECT MANAGEMENT INSTITUTE",
   "city": "Newtown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19073",
-  "email": true
+  "ope": null
 }

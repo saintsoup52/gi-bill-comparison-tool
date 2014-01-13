@@ -1,6 +1,6 @@
 {
   "facility_code": "10502917",
-  "institution": "Us Penitentiary - Big Sandy",
+  "institution": "US PENITENTIARY - BIG SANDY",
   "city": "Inez",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41224",
-  "email": false
+  "ope": null
 }

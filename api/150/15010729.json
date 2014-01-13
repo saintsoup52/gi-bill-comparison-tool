@@ -1,6 +1,6 @@
 {
   "facility_code": "15010729",
-  "institution": "Kingswood Regional Hospital",
+  "institution": "KINGSWOOD REGIONAL HOSPITAL",
   "city": "Wolfeboro",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3894",
-  "email": true
+  "ope": null
 }

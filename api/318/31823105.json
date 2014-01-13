@@ -1,6 +1,6 @@
 {
   "facility_code": "31823105",
-  "institution": "Golden Gate University (San Francisco)",
+  "institution": "GOLDEN GATE UNIVERSITY (SAN FRANCISCO)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94105",
-  "email": false
+  "ope": "00120500"
 }

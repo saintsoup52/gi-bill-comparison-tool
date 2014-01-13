@@ -1,6 +1,6 @@
 {
   "facility_code": "15008505",
-  "institution": "Abc Adult Education Center (Ch 31)",
+  "institution": "ABC ADULT EDUCATION CENTER (CH 31)",
   "city": "Cerritos",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90703",
-  "email": false
+  "ope": null
 }

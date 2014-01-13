@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08111",
-  "institution": "College Park Fire Department",
+  "institution": "COLLEGE PARK FIRE DEPARTMENT",
   "city": "College Park",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30337",
-  "email": false
+  "ope": null
 }

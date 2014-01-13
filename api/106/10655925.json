@@ -1,6 +1,6 @@
 {
   "facility_code": "10655925",
-  "institution": "Jackson County Sheriff'S Dept.",
+  "institution": "JACKSON COUNTY SHERIFF'S DEPT.",
   "city": "Lee'S Summit",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64064",
-  "email": false
+  "ope": null
 }

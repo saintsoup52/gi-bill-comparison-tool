@@ -1,6 +1,6 @@
 {
   "facility_code": "10190920",
-  "institution": "Ruggles Golf Course Apg",
+  "institution": "RUGGLES GOLF COURSE APG",
   "city": "Apg",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21005",
-  "email": true
+  "ope": null
 }

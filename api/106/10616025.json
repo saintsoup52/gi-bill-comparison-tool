@@ -1,6 +1,6 @@
 {
   "facility_code": "10616025",
-  "institution": "Overland Police Dept.",
+  "institution": "OVERLAND POLICE DEPT.",
   "city": "Overland",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63114",
-  "email": false
+  "ope": null
 }

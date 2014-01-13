@@ -1,6 +1,6 @@
 {
   "facility_code": "12801033",
-  "institution": "Carolinas Medical Center/Graduate Medical Education",
+  "institution": "CAROLINAS MEDICAL CENTER/GRADUATE MEDICAL EDUCATION",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28232",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10011233",
-  "institution": "Guilford County Dept Of Emergency Services",
+  "institution": "GUILFORD COUNTY DEPT OF EMERGENCY SERVICES",
   "city": "Greensboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27409",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10R19038",
-  "institution": "Faa - Pittsburgh-Air Traffic Control Tower-Pittsburgh International Airport",
+  "institution": "FAA - PITTSBURGH-AIR TRAFFIC CONTROL TOWER-PITTSBURGH INTERNATIONAL AIRPORT",
   "city": "Coraopolis",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15108",
-  "email": true
+  "ope": null
 }

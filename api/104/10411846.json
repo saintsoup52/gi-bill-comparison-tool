@@ -1,6 +1,6 @@
 {
   "facility_code": "10411846",
-  "institution": "Buckingham Correctional Ctr",
+  "institution": "BUCKINGHAM CORRECTIONAL CTR",
   "city": "Dillwyn",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23936",
-  "email": false
+  "ope": null
 }

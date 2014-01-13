@@ -1,6 +1,6 @@
 {
   "facility_code": "31011605",
-  "institution": "University Of Santa Monica",
+  "institution": "UNIVERSITY OF SANTA MONICA",
   "city": "Santa Monica",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90404",
-  "email": false
+  "ope": null
 }

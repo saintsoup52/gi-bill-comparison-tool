@@ -1,6 +1,6 @@
 {
   "facility_code": "15105731",
-  "institution": "Rio Rancho High School",
+  "institution": "RIO RANCHO HIGH SCHOOL",
   "city": "Rio Rancho",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87124",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18871501",
-  "institution": "Birmingham Police Academy",
+  "institution": "BIRMINGHAM POLICE ACADEMY",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35205",
-  "email": true
+  "ope": null
 }

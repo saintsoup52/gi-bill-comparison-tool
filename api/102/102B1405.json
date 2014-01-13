@@ -1,6 +1,6 @@
 {
   "facility_code": "102B1405",
-  "institution": "Faa- Oakland Air Route Traffic Control Center (Artcc)",
+  "institution": "FAA- OAKLAND AIR ROUTE TRAFFIC CONTROL CENTER (ARTCC)",
   "city": "Fremont",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94536",
-  "email": true
+  "ope": null
 }

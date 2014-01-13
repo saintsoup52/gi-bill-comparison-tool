@@ -1,6 +1,6 @@
 {
   "facility_code": "15600025",
-  "institution": "Vashon High School",
+  "institution": "VASHON HIGH SCHOOL",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63106",
-  "email": false
+  "ope": null
 }

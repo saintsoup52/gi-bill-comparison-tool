@@ -1,6 +1,6 @@
 {
   "facility_code": "31007978",
-  "institution": "Royal College Of Surgeons",
+  "institution": "ROYAL COLLEGE OF SURGEONS",
   "city": "Dublin 2",
   "state": "Ireland",
   "country": "Ireland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

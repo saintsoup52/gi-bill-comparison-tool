@@ -1,6 +1,6 @@
 {
   "facility_code": "20040611",
-  "institution": "Stafford Tractor Company",
+  "institution": "STAFFORD TRACTOR COMPANY",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30045",
-  "email": false
+  "ope": null
 }

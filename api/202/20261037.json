@@ -1,6 +1,6 @@
 {
   "facility_code": "20261037",
-  "institution": "Boeing Portland Jatc",
+  "institution": "BOEING PORTLAND JATC",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97220",
-  "email": true
+  "ope": null
 }

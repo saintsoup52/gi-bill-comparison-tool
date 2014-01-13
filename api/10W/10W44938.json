@@ -1,6 +1,6 @@
 {
   "facility_code": "10W44938",
-  "institution": "Faa-Dubois Navigation/Communication/Envirom/Radar Sys Support Center.",
+  "institution": "FAA-DUBOIS NAVIGATION/COMMUNICATION/ENVIROM/RADAR SYS SUPPORT CENTER.",
   "city": "Renoldsville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15851",
-  "email": false
+  "ope": null
 }

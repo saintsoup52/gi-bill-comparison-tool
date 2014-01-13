@@ -1,6 +1,6 @@
 {
   "facility_code": "10052911",
-  "institution": "Comer Police Department",
+  "institution": "COMER POLICE DEPARTMENT",
   "city": "Comer",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30629",
-  "email": false
+  "ope": null
 }

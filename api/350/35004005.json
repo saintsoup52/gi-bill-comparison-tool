@@ -1,6 +1,6 @@
 {
   "facility_code": "35004005",
-  "institution": "Center For Employment Training (Chapter 31)",
+  "institution": "CENTER FOR EMPLOYMENT TRAINING (CHAPTER 31)",
   "city": "Marysville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "95901",
-  "email": false
+  "ope": "02332800"
 }

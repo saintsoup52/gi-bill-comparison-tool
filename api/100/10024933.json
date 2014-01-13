@@ -1,6 +1,6 @@
 {
   "facility_code": "10024933",
-  "institution": "Pitt County Sheriff'S Office",
+  "institution": "PITT COUNTY SHERIFF'S OFFICE",
   "city": "Greenville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27835",
-  "email": true
+  "ope": null
 }

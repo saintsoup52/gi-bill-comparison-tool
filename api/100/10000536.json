@@ -1,6 +1,6 @@
 {
   "facility_code": "10000536",
-  "institution": "Fairview Police Department",
+  "institution": "FAIRVIEW POLICE DEPARTMENT",
   "city": "Fairview",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73737",
-  "email": false
+  "ope": null
 }

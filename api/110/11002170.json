@@ -1,6 +1,6 @@
 {
   "facility_code": "11002170",
-  "institution": "Univ Of Technology Sydney",
+  "institution": "UNIV OF TECHNOLOGY SYDNEY",
   "city": "Broadway",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

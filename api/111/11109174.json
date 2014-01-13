@@ -1,6 +1,6 @@
 {
   "facility_code": "11109174",
-  "institution": "University Of Leicester",
+  "institution": "UNIVERSITY OF LEICESTER",
   "city": "Leicester",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

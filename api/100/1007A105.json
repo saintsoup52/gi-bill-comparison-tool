@@ -1,6 +1,6 @@
 {
   "facility_code": "1007A105",
-  "institution": "San Diego Sheriff'S Department",
+  "institution": "SAN DIEGO SHERIFF'S DEPARTMENT",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92101",
-  "email": false
+  "ope": null
 }

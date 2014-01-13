@@ -1,6 +1,6 @@
 {
   "facility_code": "10A92806",
-  "institution": "Faa - Rocky Mountain Metropolitan (Bjc) Atct",
+  "institution": "FAA - ROCKY MOUNTAIN METROPOLITAN (BJC) ATCT",
   "city": "Broomfield",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80020",
-  "email": true
+  "ope": null
 }

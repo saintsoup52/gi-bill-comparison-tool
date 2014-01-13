@@ -1,6 +1,6 @@
 {
   "facility_code": "10195522",
-  "institution": "Irs",
+  "institution": "IRS",
   "city": "Clinton Twp.",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48036",
-  "email": true
+  "ope": null
 }

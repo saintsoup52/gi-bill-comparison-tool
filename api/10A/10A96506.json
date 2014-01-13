@@ -1,6 +1,6 @@
 {
   "facility_code": "10A96506",
-  "institution": "Grand County Sheriff'S Office",
+  "institution": "GRAND COUNTY SHERIFF'S OFFICE",
   "city": "Hot Sulphur Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80451",
-  "email": true
+  "ope": null
 }

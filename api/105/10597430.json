@@ -1,6 +1,6 @@
 {
   "facility_code": "10597430",
-  "institution": "Teaneck Fire Department",
+  "institution": "TEANECK FIRE DEPARTMENT",
   "city": "Teaneck",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7666",
-  "email": true
+  "ope": null
 }

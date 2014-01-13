@@ -1,6 +1,6 @@
 {
   "facility_code": "10D20238",
-  "institution": "Pa Dept Of Environmental Protection Northcentral Region",
+  "institution": "PA DEPT OF ENVIRONMENTAL PROTECTION NORTHCENTRAL REGION",
   "city": "Williamsport",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17701",
-  "email": true
+  "ope": null
 }

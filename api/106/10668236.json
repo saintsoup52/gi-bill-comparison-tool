@@ -1,6 +1,6 @@
 {
   "facility_code": "10668236",
-  "institution": "Faa Tulsa International Airport",
+  "institution": "FAA TULSA INTERNATIONAL AIRPORT",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74115",
-  "email": false
+  "ope": null
 }

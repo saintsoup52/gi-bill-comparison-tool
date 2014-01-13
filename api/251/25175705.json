@@ -1,6 +1,6 @@
 {
   "facility_code": "25175705",
-  "institution": "Gds Institute",
+  "institution": "GDS INSTITUTE",
   "city": "South Gate",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90280",
-  "email": false
+  "ope": null
 }

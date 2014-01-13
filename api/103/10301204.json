@@ -1,6 +1,6 @@
 {
   "facility_code": "10301204",
-  "institution": "Usda Forest Service Ozark St Francis And Ouachita Nat Forests",
+  "institution": "USDA FOREST SERVICE OZARK ST FRANCIS AND OUACHITA NAT FORESTS",
   "city": "Russellville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72801",
-  "email": false
+  "ope": null
 }

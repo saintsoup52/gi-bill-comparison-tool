@@ -1,6 +1,6 @@
 {
   "facility_code": "18000130",
-  "institution": "Burlington County Institute Of Technology - Westampton",
+  "institution": "BURLINGTON COUNTY INSTITUTE OF TECHNOLOGY - WESTAMPTON",
   "city": "Westampton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8060",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31800705",
-  "institution": "University Of La Verne (Port Hueneme)",
+  "institution": "UNIVERSITY OF LA VERNE (PORT HUENEME)",
   "city": "Pt Mugu",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93042",
-  "email": false
+  "ope": "00121608"
 }

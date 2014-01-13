@@ -1,6 +1,6 @@
 {
   "facility_code": "20033211",
-  "institution": "Georgia Power Company - South Region/Valdosta",
+  "institution": "GEORGIA POWER COMPANY - SOUTH REGION/VALDOSTA",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31601",
-  "email": false
+  "ope": null
 }

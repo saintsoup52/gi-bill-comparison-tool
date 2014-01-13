@@ -1,6 +1,6 @@
 {
   "facility_code": "20189222",
-  "institution": "Rogers City Police Department",
+  "institution": "ROGERS CITY POLICE DEPARTMENT",
   "city": "Rogers City",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49779",
-  "email": true
+  "ope": null
 }

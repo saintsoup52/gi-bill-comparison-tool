@@ -1,6 +1,6 @@
 {
   "facility_code": "15481110",
-  "institution": "Lincoln High School",
+  "institution": "LINCOLN HIGH SCHOOL",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32311",
-  "email": true
+  "ope": null
 }

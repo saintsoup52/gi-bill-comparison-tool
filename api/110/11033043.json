@@ -1,6 +1,6 @@
 {
   "facility_code": "11033043",
-  "institution": "Education Service Center Region 16",
+  "institution": "EDUCATION SERVICE CENTER REGION 16",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79120",
-  "email": false
+  "ope": null
 }

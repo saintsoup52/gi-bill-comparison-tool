@@ -1,6 +1,6 @@
 {
   "facility_code": "10011611",
-  "institution": "Gainesville Fire Department",
+  "institution": "GAINESVILLE FIRE DEPARTMENT",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30501",
-  "email": false
+  "ope": null
 }

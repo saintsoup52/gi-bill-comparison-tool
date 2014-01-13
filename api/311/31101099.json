@@ -1,6 +1,6 @@
 {
   "facility_code": "31101099",
-  "institution": "Otago Polytechnic",
+  "institution": "OTAGO POLYTECHNIC",
   "city": "Dunedin",
   "state": "New Zealand",
   "country": "New Zealand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

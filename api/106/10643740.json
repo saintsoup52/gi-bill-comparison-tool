@@ -1,6 +1,6 @@
 {
   "facility_code": "10643740",
-  "institution": "Pacolet Police Department",
+  "institution": "PACOLET POLICE DEPARTMENT",
   "city": "Pacolet",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29372",
-  "email": false
+  "ope": null
 }

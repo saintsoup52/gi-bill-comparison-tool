@@ -1,6 +1,6 @@
 {
   "facility_code": "10N28732",
-  "institution": "New York State Park Police - Long Island Region",
+  "institution": "NEW YORK STATE PARK POLICE - LONG ISLAND REGION",
   "city": "Babylon",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11702",
-  "email": true
+  "ope": null
 }

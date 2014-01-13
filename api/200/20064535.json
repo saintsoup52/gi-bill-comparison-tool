@@ -1,6 +1,6 @@
 {
   "facility_code": "20064535",
-  "institution": "Bellevue Mfg Co  K",
+  "institution": "BELLEVUE MFG CO  K",
   "city": "Bellevue",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44811",
-  "email": false
+  "ope": null
 }

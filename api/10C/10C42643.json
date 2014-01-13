@@ -1,6 +1,6 @@
 {
   "facility_code": "10C42643",
-  "institution": "Texas Veterans Commission",
+  "institution": "TEXAS VETERANS COMMISSION",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77049",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10073914",
-  "institution": "Ossian Police Department",
+  "institution": "OSSIAN POLICE DEPARTMENT",
   "city": "Ossian",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46777",
-  "email": false
+  "ope": null
 }

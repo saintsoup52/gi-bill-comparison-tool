@@ -1,6 +1,6 @@
 {
   "facility_code": "10565013",
-  "institution": "Illinois Department Of Correction-Vandalia",
+  "institution": "ILLINOIS DEPARTMENT OF CORRECTION-VANDALIA",
   "city": "Vandalia",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62471",
-  "email": true
+  "ope": null
 }

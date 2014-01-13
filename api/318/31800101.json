@@ -1,6 +1,6 @@
 {
   "facility_code": "31800101",
-  "institution": "Embry-Riddle Aeronautical Univ Mobile",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV MOBILE",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36608",
-  "email": true
+  "ope": "00147900"
 }

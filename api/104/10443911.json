@@ -1,6 +1,6 @@
 {
   "facility_code": "10443911",
-  "institution": "Savannah Electric And Power Company",
+  "institution": "SAVANNAH ELECTRIC AND POWER COMPANY",
   "city": "Fort Wentworth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31407",
-  "email": false
+  "ope": null
 }

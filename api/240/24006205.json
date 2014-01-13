@@ -1,6 +1,6 @@
 {
   "facility_code": "24006205",
-  "institution": "Theatre Of Arts",
+  "institution": "THEATRE OF ARTS",
   "city": "Hollywood",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90028",
-  "email": false
+  "ope": null
 }

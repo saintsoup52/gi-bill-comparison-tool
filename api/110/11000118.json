@@ -1,6 +1,6 @@
 {
   "facility_code": "11000118",
-  "institution": "Mcneese State University",
+  "institution": "MCNEESE STATE UNIVERSITY",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70609",
-  "email": true
+  "ope": "00201700"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15017005",
-  "institution": "Metroed (Metropolitan Education District)",
+  "institution": "METROED (METROPOLITAN EDUCATION DISTRICT)",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95136",
-  "email": true
+  "ope": null
 }

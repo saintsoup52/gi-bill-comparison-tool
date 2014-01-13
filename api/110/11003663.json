@@ -1,6 +1,6 @@
 {
   "facility_code": "11003663",
-  "institution": "Universidad De Puerto Rico En Ponce (University Of Puerto Rico- Ponce)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO EN PONCE (UNIVERSITY OF PUERTO RICO- PONCE)",
   "city": "Ponce",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "732",
-  "email": true
+  "ope": "00965200"
 }

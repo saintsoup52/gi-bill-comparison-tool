@@ -1,6 +1,6 @@
 {
   "facility_code": "29453047",
-  "institution": "Luminous Works",
+  "institution": "LUMINOUS WORKS",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98107",
-  "email": true
+  "ope": null
 }

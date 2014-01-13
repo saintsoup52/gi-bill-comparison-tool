@@ -1,6 +1,6 @@
 {
   "facility_code": "10488317",
-  "institution": "Corbin Police Department",
+  "institution": "CORBIN POLICE DEPARTMENT",
   "city": "Corbin",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40702",
-  "email": false
+  "ope": null
 }

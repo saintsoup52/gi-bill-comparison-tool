@@ -1,6 +1,6 @@
 {
   "facility_code": "10N08132",
-  "institution": "City Of Watertown Fire Department",
+  "institution": "CITY OF WATERTOWN FIRE DEPARTMENT",
   "city": "Watertown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13601",
-  "email": false
+  "ope": null
 }

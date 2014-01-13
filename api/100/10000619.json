@@ -1,6 +1,6 @@
 {
   "facility_code": "10000619",
-  "institution": "Maine Department Of Public Safety",
+  "institution": "MAINE DEPARTMENT OF PUBLIC SAFETY",
   "city": "Augusta",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4333",
-  "email": false
+  "ope": null
 }

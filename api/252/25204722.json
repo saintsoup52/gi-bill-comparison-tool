@@ -1,6 +1,6 @@
 {
   "facility_code": "25204722",
-  "institution": "Medcerts",
+  "institution": "MEDCERTS",
   "city": "Livonia",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48154",
-  "email": false
+  "ope": null
 }

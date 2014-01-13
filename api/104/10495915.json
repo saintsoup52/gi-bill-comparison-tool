@@ -1,6 +1,6 @@
 {
   "facility_code": "10495915",
-  "institution": "Des Moines Vet Center",
+  "institution": "DES MOINES VET CENTER",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50310",
-  "email": false
+  "ope": null
 }

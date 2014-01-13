@@ -1,6 +1,6 @@
 {
   "facility_code": "30002047",
-  "institution": "Lu 112  - Neca Electrical Jatc",
+  "institution": "LU 112  - NECA ELECTRICAL JATC",
   "city": "Kennewick",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99336",
-  "email": true
+  "ope": null
 }

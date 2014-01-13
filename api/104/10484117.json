@@ -1,6 +1,6 @@
 {
   "facility_code": "10484117",
-  "institution": "Clinton Police Department",
+  "institution": "CLINTON POLICE DEPARTMENT",
   "city": "Clinton",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42031",
-  "email": false
+  "ope": null
 }

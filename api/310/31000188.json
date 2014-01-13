@@ -1,6 +1,6 @@
 {
   "facility_code": "31000188",
-  "institution": "University Of Oslo - See Remarks",
+  "institution": "UNIVERSITY OF OSLO - SEE REMARKS",
   "city": "N0317 Oslo",
   "state": "Norway",
   "country": "Norway",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

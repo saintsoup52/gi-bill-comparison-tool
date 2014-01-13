@@ -1,6 +1,6 @@
 {
   "facility_code": "10577230",
-  "institution": "Camden County Office Of The Prosecutor",
+  "institution": "CAMDEN COUNTY OFFICE OF THE PROSECUTOR",
   "city": "Camden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8102",
-  "email": true
+  "ope": null
 }

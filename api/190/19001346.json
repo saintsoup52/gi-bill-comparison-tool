@@ -1,6 +1,6 @@
 {
   "facility_code": "19001346",
-  "institution": "Us Department Of Labor",
+  "institution": "US DEPARTMENT OF LABOR",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23510",
-  "email": false
+  "ope": null
 }

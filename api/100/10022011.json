@@ -1,6 +1,6 @@
 {
   "facility_code": "10022011",
-  "institution": "St. Marys Fire Department",
+  "institution": "ST. MARYS FIRE DEPARTMENT",
   "city": "St. Marys",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31558",
-  "email": true
+  "ope": null
 }

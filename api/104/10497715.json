@@ -1,6 +1,6 @@
 {
   "facility_code": "10497715",
-  "institution": "Urbandale Police Department",
+  "institution": "URBANDALE POLICE DEPARTMENT",
   "city": "Urbandale",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50322",
-  "email": false
+  "ope": null
 }

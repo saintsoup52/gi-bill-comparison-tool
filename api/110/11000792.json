@@ -1,6 +1,6 @@
 {
   "facility_code": "11000792",
-  "institution": "Universidad De Belgrano",
+  "institution": "UNIVERSIDAD DE BELGRANO",
   "city": "Bueno Aires",
   "state": "Argentina",
   "country": "Argentina",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10050311",
-  "institution": "Milledgeville Police Department",
+  "institution": "MILLEDGEVILLE POLICE DEPARTMENT",
   "city": "Milledgeville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31061",
-  "email": false
+  "ope": null
 }

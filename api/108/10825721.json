@@ -1,6 +1,6 @@
 {
   "facility_code": "10825721",
-  "institution": "Weymouth Fire Department",
+  "institution": "WEYMOUTH FIRE DEPARTMENT",
   "city": "East Weymouth",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2189",
-  "email": true
+  "ope": null
 }

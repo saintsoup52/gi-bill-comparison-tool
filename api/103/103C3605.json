@@ -1,6 +1,6 @@
 {
   "facility_code": "103C3605",
-  "institution": "State Of California Edd (San Luis Obispo)(Ch31 Only)",
+  "institution": "STATE OF CALIFORNIA EDD (SAN LUIS OBISPO)(CH31 ONLY)",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93401",
-  "email": false
+  "ope": null
 }

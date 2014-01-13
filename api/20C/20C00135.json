@@ -1,6 +1,6 @@
 {
   "facility_code": "20C00135",
-  "institution": "Perry Nuclear Power Plant",
+  "institution": "PERRY NUCLEAR POWER PLANT",
   "city": "Perry",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44081",
-  "email": true
+  "ope": null
 }

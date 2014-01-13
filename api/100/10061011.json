@@ -1,6 +1,6 @@
 {
   "facility_code": "10061011",
-  "institution": "Whitfield Couty 911 Center",
+  "institution": "WHITFIELD COUTY 911 CENTER",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30720",
-  "email": true
+  "ope": null
 }

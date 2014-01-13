@@ -1,6 +1,6 @@
 {
   "facility_code": "18001130",
-  "institution": "Bergen County Police And Fire Academy",
+  "institution": "BERGEN COUNTY POLICE AND FIRE ACADEMY",
   "city": "Mahwah",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7430",
-  "email": true
+  "ope": null
 }

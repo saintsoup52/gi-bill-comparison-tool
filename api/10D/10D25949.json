@@ -1,6 +1,6 @@
 {
   "facility_code": "10D25949",
-  "institution": "Dwd/Det Office Of Veterans Services",
+  "institution": "DWD/DET OFFICE OF VETERANS SERVICES",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53707",
-  "email": false
+  "ope": null
 }

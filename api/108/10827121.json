@@ -1,6 +1,6 @@
 {
   "facility_code": "10827121",
-  "institution": "Wellesley Fire Department",
+  "institution": "WELLESLEY FIRE DEPARTMENT",
   "city": "Wellesley",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2481",
-  "email": true
+  "ope": null
 }

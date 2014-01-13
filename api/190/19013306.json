@@ -1,6 +1,6 @@
 {
   "facility_code": "19013306",
-  "institution": "General Services Administration (Gsa)",
+  "institution": "GENERAL SERVICES ADMINISTRATION (GSA)",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80225",
-  "email": false
+  "ope": null
 }

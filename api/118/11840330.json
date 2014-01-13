@@ -1,6 +1,6 @@
 {
   "facility_code": "11840330",
-  "institution": "Rutgers The State University School Of Health Related Professions",
+  "institution": "RUTGERS THE STATE UNIVERSITY SCHOOL OF HEALTH RELATED PROFESSIONS",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "7101",
-  "email": true
+  "ope": "01039409"
 }

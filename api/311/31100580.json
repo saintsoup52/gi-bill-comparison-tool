@@ -1,6 +1,6 @@
 {
   "facility_code": "31100580",
-  "institution": "University Of Passau",
+  "institution": "UNIVERSITY OF PASSAU",
   "city": "Passau",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

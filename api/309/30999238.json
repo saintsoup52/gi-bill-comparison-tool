@@ -1,6 +1,6 @@
 {
   "facility_code": "30999238",
-  "institution": "Pennsylvania Department Of Disabled American Veterans (Phila)",
+  "institution": "PENNSYLVANIA DEPARTMENT OF DISABLED AMERICAN VETERANS (PHILA)",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19101",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20300904",
-  "institution": "Saunders And Associates",
+  "institution": "SAUNDERS AND ASSOCIATES",
   "city": "Maumelle",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72113",
-  "email": false
+  "ope": null
 }

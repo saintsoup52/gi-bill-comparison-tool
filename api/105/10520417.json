@@ -1,6 +1,6 @@
 {
   "facility_code": "10520417",
-  "institution": "Fort Knox Fire Department",
+  "institution": "FORT KNOX FIRE DEPARTMENT",
   "city": "Fort Knox",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40121",
-  "email": false
+  "ope": null
 }

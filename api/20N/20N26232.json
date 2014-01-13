@@ -1,6 +1,6 @@
 {
   "facility_code": "20N26232",
-  "institution": "Aqueduct Services",
+  "institution": "AQUEDUCT SERVICES",
   "city": "Brewster",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10509",
-  "email": true
+  "ope": null
 }

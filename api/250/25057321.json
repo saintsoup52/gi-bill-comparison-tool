@@ -1,6 +1,6 @@
 {
   "facility_code": "25057321",
-  "institution": "Amdg Inc",
+  "institution": "AMDG INC",
   "city": "Framingham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1702",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C29643",
-  "institution": "Fort Hood Contracting Division",
+  "institution": "FORT HOOD CONTRACTING DIVISION",
   "city": "Fort Hood",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76544",
-  "email": true
+  "ope": null
 }

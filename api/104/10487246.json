@@ -1,6 +1,6 @@
 {
   "facility_code": "10487246",
-  "institution": "Arlington County Fire Dept",
+  "institution": "ARLINGTON COUNTY FIRE DEPT",
   "city": "Arlington",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22206",
-  "email": true
+  "ope": null
 }

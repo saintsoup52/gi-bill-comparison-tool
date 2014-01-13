@@ -1,6 +1,6 @@
 {
   "facility_code": "19032209",
-  "institution": "Us Customs & Border Protection",
+  "institution": "US CUSTOMS & BORDER PROTECTION",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20005",
-  "email": false
+  "ope": null
 }

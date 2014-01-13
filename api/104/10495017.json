@@ -1,6 +1,6 @@
 {
   "facility_code": "10495017",
-  "institution": "Transit Authority Of River City",
+  "institution": "TRANSIT AUTHORITY OF RIVER CITY",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40203",
-  "email": false
+  "ope": null
 }

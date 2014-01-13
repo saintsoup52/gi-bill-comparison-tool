@@ -1,6 +1,6 @@
 {
   "facility_code": "10534917",
-  "institution": "U.S. Army Deserter Information Point (Usadip)",
+  "institution": "U.S. ARMY DESERTER INFORMATION POINT (USADIP)",
   "city": "Fort Knox",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40121",
-  "email": false
+  "ope": null
 }

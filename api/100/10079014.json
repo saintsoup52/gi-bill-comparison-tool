@@ -1,6 +1,6 @@
 {
   "facility_code": "10079014",
-  "institution": "Indiana National Guard Inmap-Fms 13 Gary",
+  "institution": "INDIANA NATIONAL GUARD INMAP-FMS 13 GARY",
   "city": "Gary",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46402",
-  "email": false
+  "ope": null
 }

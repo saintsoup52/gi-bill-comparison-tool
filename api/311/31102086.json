@@ -1,6 +1,6 @@
 {
   "facility_code": "31102086",
-  "institution": "Universidad De Las Americas Puebla",
+  "institution": "UNIVERSIDAD DE LAS AMERICAS PUEBLA",
   "city": "Puebla,",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

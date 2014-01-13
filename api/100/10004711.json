@@ -1,6 +1,6 @@
 {
   "facility_code": "10004711",
-  "institution": "Mitchell County Correctional Institution",
+  "institution": "MITCHELL COUNTY CORRECTIONAL INSTITUTION",
   "city": "Camilla",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31730",
-  "email": false
+  "ope": null
 }

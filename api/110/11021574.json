@@ -1,6 +1,6 @@
 {
   "facility_code": "11021574",
-  "institution": "King'S College London",
+  "institution": "KING'S COLLEGE LONDON",
   "city": "London",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

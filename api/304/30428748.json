@@ -1,6 +1,6 @@
 {
   "facility_code": "30428748",
-  "institution": "International Union Of Operating Engineers Loc.132",
+  "institution": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOC.132",
   "city": "Ravenswood",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26164",
-  "email": true
+  "ope": null
 }

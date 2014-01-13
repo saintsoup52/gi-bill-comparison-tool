@@ -1,6 +1,6 @@
 {
   "facility_code": "20242145",
-  "institution": "Entergy Nuclear Power Northeast /Vt Yankee",
+  "institution": "ENTERGY NUCLEAR POWER NORTHEAST /VT YANKEE",
   "city": "Brattleboro",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5302",
-  "email": true
+  "ope": null
 }

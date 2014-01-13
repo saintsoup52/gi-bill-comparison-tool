@@ -1,6 +1,6 @@
 {
   "facility_code": "25151305",
-  "institution": "Fti",
+  "institution": "FTI",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90010",
-  "email": true
+  "ope": null
 }

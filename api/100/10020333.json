@@ -1,6 +1,6 @@
 {
   "facility_code": "10020333",
-  "institution": "Concord Fire Department",
+  "institution": "CONCORD FIRE DEPARTMENT",
   "city": "Concord",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28025",
-  "email": true
+  "ope": null
 }

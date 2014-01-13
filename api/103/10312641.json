@@ -1,6 +1,6 @@
 {
   "facility_code": "10312641",
-  "institution": "Spearfish Police Department",
+  "institution": "SPEARFISH POLICE DEPARTMENT",
   "city": "Spearfish",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57783",
-  "email": false
+  "ope": null
 }

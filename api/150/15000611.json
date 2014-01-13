@@ -1,6 +1,6 @@
 {
   "facility_code": "15000611",
-  "institution": "Georgia Public Safety Training Center (Gpstc) - Athens",
+  "institution": "GEORGIA PUBLIC SAFETY TRAINING CENTER (GPSTC) - ATHENS",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30605",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10011042",
-  "institution": "U.S. Department Of Veterans Affairs (Quality Client Services)",
+  "institution": "U.S. DEPARTMENT OF VETERANS AFFAIRS (QUALITY CLIENT SERVICES)",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37203",
-  "email": false
+  "ope": null
 }

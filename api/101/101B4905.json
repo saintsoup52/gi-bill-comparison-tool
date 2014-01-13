@@ -1,6 +1,6 @@
 {
   "facility_code": "101B4905",
-  "institution": "Sonoma County Dept Of Emergency Services",
+  "institution": "SONOMA COUNTY DEPT OF EMERGENCY SERVICES",
   "city": "Santa Rosa",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95403",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15010529",
-  "institution": "Keene High School",
+  "institution": "KEENE HIGH SCHOOL",
   "city": "Keene",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3431",
-  "email": false
+  "ope": null
 }

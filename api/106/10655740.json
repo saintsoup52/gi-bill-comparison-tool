@@ -1,6 +1,6 @@
 {
   "facility_code": "10655740",
-  "institution": "Federal Correctional Institution - Williamsburg",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - WILLIAMSBURG",
   "city": "Salters",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29590",
-  "email": false
+  "ope": null
 }

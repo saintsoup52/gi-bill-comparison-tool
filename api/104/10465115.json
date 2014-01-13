@@ -1,6 +1,6 @@
 {
   "facility_code": "10465115",
-  "institution": "Des Moines County Sheriffs Office",
+  "institution": "DES MOINES COUNTY SHERIFFS OFFICE",
   "city": "Burlington",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52601",
-  "email": false
+  "ope": null
 }

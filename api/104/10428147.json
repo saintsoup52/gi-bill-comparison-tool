@@ -1,6 +1,6 @@
 {
   "facility_code": "10428147",
-  "institution": "Pierce County Fire District #6",
+  "institution": "PIERCE COUNTY FIRE DISTRICT #6",
   "city": "Tacoma",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98445",
-  "email": true
+  "ope": null
 }

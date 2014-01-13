@@ -1,6 +1,6 @@
 {
   "facility_code": "17001013",
-  "institution": "Wheeling High School",
+  "institution": "WHEELING HIGH SCHOOL",
   "city": "Wheeling",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60090",
-  "email": false
+  "ope": null
 }

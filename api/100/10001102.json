@@ -1,6 +1,6 @@
 {
   "facility_code": "10001102",
-  "institution": "Federal Bureau Of Land Management",
+  "institution": "FEDERAL BUREAU OF LAND MANAGEMENT",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": false
+  "ope": null
 }

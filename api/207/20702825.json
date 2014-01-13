@@ -1,6 +1,6 @@
 {
   "facility_code": "20702825",
-  "institution": "At&T-Webster Groves",
+  "institution": "AT&T-WEBSTER GROVES",
   "city": "Webster Groves",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63119",
-  "email": false
+  "ope": null
 }

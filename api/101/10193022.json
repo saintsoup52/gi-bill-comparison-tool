@@ -1,6 +1,6 @@
 {
   "facility_code": "10193022",
-  "institution": "U.S. Customs & Border Protection Great Lakes Air & Marine Branch-Port Huron",
+  "institution": "U.S. CUSTOMS & BORDER PROTECTION GREAT LAKES AIR & MARINE BRANCH-PORT HURON",
   "city": "Marysville",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48040",
-  "email": true
+  "ope": null
 }

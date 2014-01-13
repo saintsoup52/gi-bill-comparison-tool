@@ -1,6 +1,6 @@
 {
   "facility_code": "35022918",
-  "institution": "Center For Non-Profit Resourses (Ch31)",
+  "institution": "CENTER FOR NON-PROFIT RESOURSES (CH31)",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70119",
-  "email": false
+  "ope": null
 }

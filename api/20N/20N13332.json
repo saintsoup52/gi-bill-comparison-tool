@@ -1,6 +1,6 @@
 {
   "facility_code": "20N13332",
-  "institution": "Verizon - Homer",
+  "institution": "VERIZON - HOMER",
   "city": "Homer",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13077",
-  "email": false
+  "ope": null
 }

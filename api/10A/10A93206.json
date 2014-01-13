@@ -1,6 +1,6 @@
 {
   "facility_code": "10A93206",
-  "institution": "Denver Water Department",
+  "institution": "DENVER WATER DEPARTMENT",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80204",
-  "email": true
+  "ope": null
 }

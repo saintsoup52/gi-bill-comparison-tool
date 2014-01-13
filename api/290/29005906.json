@@ -1,6 +1,6 @@
 {
   "facility_code": "29005906",
-  "institution": "Ipro",
+  "institution": "IPRO",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80915",
-  "email": true
+  "ope": null
 }

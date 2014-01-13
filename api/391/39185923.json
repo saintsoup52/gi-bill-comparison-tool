@@ -1,6 +1,6 @@
 {
   "facility_code": "39185923",
-  "institution": "Vinland Center",
+  "institution": "VINLAND CENTER",
   "city": "Loretto",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55357",
-  "email": false
+  "ope": null
 }

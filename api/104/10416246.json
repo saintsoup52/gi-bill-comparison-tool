@@ -1,6 +1,6 @@
 {
   "facility_code": "10416246",
-  "institution": "Military Personnel Services Corporation",
+  "institution": "MILITARY PERSONNEL SERVICES CORPORATION",
   "city": "Leesburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22041",
-  "email": true
+  "ope": null
 }

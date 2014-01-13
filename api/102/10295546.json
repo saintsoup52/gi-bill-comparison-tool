@@ -1,6 +1,6 @@
 {
   "facility_code": "10295546",
-  "institution": "Leesburg Police Dept",
+  "institution": "LEESBURG POLICE DEPT",
   "city": "Leesburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20176",
-  "email": false
+  "ope": null
 }

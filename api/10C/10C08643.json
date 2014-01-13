@@ -1,6 +1,6 @@
 {
   "facility_code": "10C08643",
-  "institution": "City Of Tyler Police Dept",
+  "institution": "CITY OF TYLER POLICE DEPT",
   "city": "Tyler",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75702",
-  "email": false
+  "ope": null
 }

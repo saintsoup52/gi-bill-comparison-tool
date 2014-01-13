@@ -1,6 +1,6 @@
 {
   "facility_code": "10233103",
-  "institution": "City Of Tempe (Ch 31 Only)",
+  "institution": "CITY OF TEMPE (CH 31 ONLY)",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85281",
-  "email": false
+  "ope": null
 }

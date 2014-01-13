@@ -1,6 +1,6 @@
 {
   "facility_code": "10014712",
-  "institution": "Sw Idaho Juvenile Detention Center",
+  "institution": "SW IDAHO JUVENILE DETENTION CENTER",
   "city": "Caldwell",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83605",
-  "email": false
+  "ope": null
 }

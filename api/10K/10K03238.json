@@ -1,6 +1,6 @@
 {
   "facility_code": "10K03238",
-  "institution": "Pennsylvania State Police - Coatesville",
+  "institution": "PENNSYLVANIA STATE POLICE - COATESVILLE",
   "city": "Coatesville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19320",
-  "email": true
+  "ope": null
 }

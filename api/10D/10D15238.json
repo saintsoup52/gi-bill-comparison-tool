@@ -1,6 +1,6 @@
 {
   "facility_code": "10D15238",
-  "institution": "West Chester Police Department",
+  "institution": "WEST CHESTER POLICE DEPARTMENT",
   "city": "West Chester",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19380",
-  "email": false
+  "ope": null
 }

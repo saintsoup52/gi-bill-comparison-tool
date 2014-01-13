@@ -1,6 +1,6 @@
 {
   "facility_code": "10050811",
-  "institution": "Paulding County Sheriff'S Office",
+  "institution": "PAULDING COUNTY SHERIFF'S OFFICE",
   "city": "Dallas",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30132",
-  "email": true
+  "ope": null
 }

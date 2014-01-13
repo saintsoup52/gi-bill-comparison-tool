@@ -1,6 +1,6 @@
 {
   "facility_code": "10005337",
-  "institution": "Central Point Police Department",
+  "institution": "CENTRAL POINT POLICE DEPARTMENT",
   "city": "Central Point",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97502",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11820104",
-  "institution": "Arkansas State University-Jonesboro",
+  "institution": "ARKANSAS STATE UNIVERSITY-JONESBORO",
   "city": "State University",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72467",
-  "email": false
+  "ope": "00109000"
 }

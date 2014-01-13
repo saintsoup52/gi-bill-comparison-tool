@@ -1,6 +1,6 @@
 {
   "facility_code": "10079218",
-  "institution": "Faa - Louis Armstrong International Atct",
+  "institution": "FAA - LOUIS ARMSTRONG INTERNATIONAL ATCT",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70141",
-  "email": true
+  "ope": null
 }

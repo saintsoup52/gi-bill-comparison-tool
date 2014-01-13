@@ -1,6 +1,6 @@
 {
   "facility_code": "15054321",
-  "institution": "North Shore Community College (Ch31 Only)",
+  "institution": "NORTH SHORE COMMUNITY COLLEGE (CH31 ONLY)",
   "city": "Beverly",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1915",
-  "email": false
+  "ope": null
 }

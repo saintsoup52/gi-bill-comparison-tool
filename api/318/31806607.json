@@ -1,6 +1,6 @@
 {
   "facility_code": "31806607",
-  "institution": "Yale University School Of Med Physician Associate",
+  "institution": "YALE UNIVERSITY SCHOOL OF MED PHYSICIAN ASSOCIATE",
   "city": "New Haven",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6510",
-  "email": true
+  "ope": "00142601"
 }

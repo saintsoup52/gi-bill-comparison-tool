@@ -1,6 +1,6 @@
 {
   "facility_code": "46003946",
-  "institution": "Va Dept Of Professional And Occupational Regulatio",
+  "institution": "VA DEPT OF PROFESSIONAL AND OCCUPATIONAL REGULATIO",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23230",
-  "email": true
+  "ope": null
 }

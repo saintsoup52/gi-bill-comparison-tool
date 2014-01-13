@@ -1,6 +1,6 @@
 {
   "facility_code": "10031333",
-  "institution": "City Of Graham Police Department",
+  "institution": "CITY OF GRAHAM POLICE DEPARTMENT",
   "city": "Graham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27253",
-  "email": true
+  "ope": null
 }

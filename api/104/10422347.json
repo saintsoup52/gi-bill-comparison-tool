@@ -1,6 +1,6 @@
 {
   "facility_code": "10422347",
-  "institution": "Sunnyside Police Department",
+  "institution": "SUNNYSIDE POLICE DEPARTMENT",
   "city": "Sunnyside",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98944",
-  "email": true
+  "ope": null
 }

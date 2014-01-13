@@ -1,6 +1,6 @@
 {
   "facility_code": "10029333",
-  "institution": "Atlantic Beach Police Department",
+  "institution": "ATLANTIC BEACH POLICE DEPARTMENT",
   "city": "Atlantic Beach",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28512",
-  "email": true
+  "ope": null
 }

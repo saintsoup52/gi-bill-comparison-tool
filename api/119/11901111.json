@@ -1,6 +1,6 @@
 {
   "facility_code": "11901111",
-  "institution": "Dalton State College",
+  "institution": "DALTON STATE COLLEGE",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "30720",
-  "email": true
+  "ope": "00395600"
 }

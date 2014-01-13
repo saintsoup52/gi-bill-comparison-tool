@@ -1,6 +1,6 @@
 {
   "facility_code": "10578313",
-  "institution": "South Beloit Police Department",
+  "institution": "SOUTH BELOIT POLICE DEPARTMENT",
   "city": "South Beloit",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61081",
-  "email": false
+  "ope": null
 }

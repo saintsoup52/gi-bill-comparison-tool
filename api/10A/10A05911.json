@@ -1,6 +1,6 @@
 {
   "facility_code": "10A05911",
-  "institution": "Whitworth Detention Center",
+  "institution": "WHITWORTH DETENTION CENTER",
   "city": "Hartwell",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30643",
-  "email": false
+  "ope": null
 }

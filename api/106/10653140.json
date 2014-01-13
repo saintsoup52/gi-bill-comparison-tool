@@ -1,6 +1,6 @@
 {
   "facility_code": "10653140",
-  "institution": "Station Ordnance Mcas Beaufort (Federal Ojt)",
+  "institution": "STATION ORDNANCE MCAS BEAUFORT (FEDERAL OJT)",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29906",
-  "email": false
+  "ope": null
 }

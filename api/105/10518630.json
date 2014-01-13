@@ -1,6 +1,6 @@
 {
   "facility_code": "10518630",
-  "institution": "Millburn Police Department",
+  "institution": "MILLBURN POLICE DEPARTMENT",
   "city": "Millburn",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7041",
-  "email": true
+  "ope": null
 }

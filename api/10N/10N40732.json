@@ -1,6 +1,6 @@
 {
   "facility_code": "10N40732",
-  "institution": "Farmingdale Republic Atc Tower",
+  "institution": "FARMINGDALE REPUBLIC ATC TOWER",
   "city": "Farmingdale",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11735",
-  "email": true
+  "ope": null
 }

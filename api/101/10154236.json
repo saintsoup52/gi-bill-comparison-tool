@@ -1,6 +1,6 @@
 {
   "facility_code": "10154236",
-  "institution": "Pauls Valley Police Department",
+  "institution": "PAULS VALLEY POLICE DEPARTMENT",
   "city": "Pauls Valley",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73075",
-  "email": false
+  "ope": null
 }

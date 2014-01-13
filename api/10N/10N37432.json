@@ -1,6 +1,6 @@
 {
   "facility_code": "10N37432",
-  "institution": "New York City Police Dept. - 104th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 104TH PRECINCT",
   "city": "Ridgewood",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11385",
-  "email": false
+  "ope": null
 }

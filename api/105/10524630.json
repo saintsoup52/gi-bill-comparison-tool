@@ -1,6 +1,6 @@
 {
   "facility_code": "10524630",
-  "institution": "Prospect Park Police Department",
+  "institution": "PROSPECT PARK POLICE DEPARTMENT",
   "city": "Prospect Park",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7508",
-  "email": false
+  "ope": null
 }

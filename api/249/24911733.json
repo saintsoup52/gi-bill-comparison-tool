@@ -1,6 +1,6 @@
 {
   "facility_code": "24911733",
-  "institution": "The Art Institute Of Raleigh Durham",
+  "institution": "THE ART INSTITUTE OF RALEIGH DURHAM",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "27701",
-  "email": true
+  "ope": "02110502"
 }

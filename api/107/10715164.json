@@ -1,6 +1,6 @@
 {
   "facility_code": "10715164",
-  "institution": "Faa Technical Operations Facilities",
+  "institution": "FAA TECHNICAL OPERATIONS FACILITIES",
   "city": "Hilo",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96720",
-  "email": false
+  "ope": null
 }

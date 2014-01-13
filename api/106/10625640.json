@@ -1,6 +1,6 @@
 {
   "facility_code": "10625640",
-  "institution": "Spartanburg County Detention Center",
+  "institution": "SPARTANBURG COUNTY DETENTION CENTER",
   "city": "Spartanburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29303",
-  "email": false
+  "ope": null
 }

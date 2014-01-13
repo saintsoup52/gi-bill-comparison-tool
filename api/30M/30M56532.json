@@ -1,6 +1,6 @@
 {
   "facility_code": "30M56532",
-  "institution": "American Lung Association Of The City Of New York",
+  "institution": "AMERICAN LUNG ASSOCIATION OF THE CITY OF NEW YORK",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10016",
-  "email": false
+  "ope": null
 }

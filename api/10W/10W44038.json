@@ -1,6 +1,6 @@
 {
   "facility_code": "10W44038",
-  "institution": "Faa - Middleton Radar/Communications/Environmental/Navigation/Communications Ssc",
+  "institution": "FAA - MIDDLETON RADAR/COMMUNICATIONS/ENVIRONMENTAL/NAVIGATION/COMMUNICATIONS SSC",
   "city": "Middletown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17057",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10W52538",
-  "institution": "Altoona Police Department",
+  "institution": "ALTOONA POLICE DEPARTMENT",
   "city": "Altoona",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16601",
-  "email": false
+  "ope": null
 }

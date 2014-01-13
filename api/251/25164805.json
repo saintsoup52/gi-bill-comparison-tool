@@ -1,6 +1,6 @@
 {
   "facility_code": "25164805",
-  "institution": "Caledonian",
+  "institution": "CALEDONIAN",
   "city": "Commerce",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90040",
-  "email": true
+  "ope": null
 }

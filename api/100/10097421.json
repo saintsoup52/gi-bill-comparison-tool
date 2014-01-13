@@ -1,6 +1,6 @@
 {
   "facility_code": "10097421",
-  "institution": "Mashpee Police Department",
+  "institution": "MASHPEE POLICE DEPARTMENT",
   "city": "Mashpee",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2649",
-  "email": true
+  "ope": null
 }

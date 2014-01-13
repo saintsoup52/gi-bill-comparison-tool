@@ -1,6 +1,6 @@
 {
   "facility_code": "10071114",
-  "institution": "Morgan County Sheriff'S Department",
+  "institution": "MORGAN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Martinsville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46151",
-  "email": false
+  "ope": null
 }

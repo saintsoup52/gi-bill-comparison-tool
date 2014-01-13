@@ -1,6 +1,6 @@
 {
   "facility_code": "15001137",
-  "institution": "Willamette High School",
+  "institution": "WILLAMETTE HIGH SCHOOL",
   "city": "Eugene",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97402",
-  "email": true
+  "ope": null
 }

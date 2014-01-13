@@ -1,6 +1,6 @@
 {
   "facility_code": "11902104",
-  "institution": "University Of Arkansas-Fort Smith",
+  "institution": "UNIVERSITY OF ARKANSAS-FORT SMITH",
   "city": "Fort Smith",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72913",
-  "email": false
+  "ope": "00111000"
 }

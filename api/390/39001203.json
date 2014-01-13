@@ -1,6 +1,6 @@
 {
   "facility_code": "39001203",
-  "institution": "Phoenix Urban League (Ch31 Only)",
+  "institution": "PHOENIX URBAN LEAGUE (CH31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85007",
-  "email": false
+  "ope": null
 }

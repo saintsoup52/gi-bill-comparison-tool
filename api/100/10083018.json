@@ -1,6 +1,6 @@
 {
   "facility_code": "10083018",
-  "institution": "Lake Charles Police Department",
+  "institution": "LAKE CHARLES POLICE DEPARTMENT",
   "city": "Lake Charles",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70601",
-  "email": true
+  "ope": null
 }

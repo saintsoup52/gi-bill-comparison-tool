@@ -1,6 +1,6 @@
 {
   "facility_code": "329A9538",
-  "institution": "Uhc Of Pgh Sch Of Cytotechnology",
+  "institution": "UHC OF PGH SCH OF CYTOTECHNOLOGY",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15213",
-  "email": false
+  "ope": null
 }

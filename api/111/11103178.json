@@ -1,6 +1,6 @@
 {
   "facility_code": "11103178",
-  "institution": "New Bulgarian University",
+  "institution": "NEW BULGARIAN UNIVERSITY",
   "city": "Sofia",
   "state": "Bulgaria",
   "country": "Bulgaria",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

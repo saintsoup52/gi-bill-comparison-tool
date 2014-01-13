@@ -1,6 +1,6 @@
 {
   "facility_code": "11102978",
-  "institution": "University Of Bucharest",
+  "institution": "UNIVERSITY OF BUCHAREST",
   "city": "Bucuresti",
   "state": "Romania",
   "country": "Romania",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

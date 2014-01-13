@@ -1,6 +1,6 @@
 {
   "facility_code": "10618725",
-  "institution": "St. Louis Fire Dept.",
+  "institution": "ST. LOUIS FIRE DEPT.",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63106",
-  "email": true
+  "ope": null
 }

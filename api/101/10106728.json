@@ -1,6 +1,6 @@
 {
   "facility_code": "10106728",
-  "institution": "Faa Reno Atct/Tracon/Twe-Rno",
+  "institution": "FAA RENO ATCT/TRACON/TWE-RNO",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89502",
-  "email": true
+  "ope": null
 }

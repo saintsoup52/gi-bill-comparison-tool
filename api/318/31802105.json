@@ -1,6 +1,6 @@
 {
   "facility_code": "31802105",
-  "institution": "Alliant International University (San Diego)",
+  "institution": "ALLIANT INTERNATIONAL UNIVERSITY (SAN DIEGO)",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92131",
-  "email": true
+  "ope": "01111700"
 }

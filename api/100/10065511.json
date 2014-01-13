@@ -1,6 +1,6 @@
 {
   "facility_code": "10065511",
-  "institution": "Vogtle Electric Generating Plant",
+  "institution": "VOGTLE ELECTRIC GENERATING PLANT",
   "city": "Waynesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30830",
-  "email": true
+  "ope": null
 }

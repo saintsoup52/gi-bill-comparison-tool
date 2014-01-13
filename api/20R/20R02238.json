@@ -1,6 +1,6 @@
 {
   "facility_code": "20R02238",
-  "institution": "Department Of Interior Office Of Surface Mining",
+  "institution": "DEPARTMENT OF INTERIOR OFFICE OF SURFACE MINING",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15904",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11902114",
-  "institution": "Indiana University At South Bend",
+  "institution": "INDIANA UNIVERSITY AT SOUTH BEND",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46634",
-  "email": false
+  "ope": "00181600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10191422",
-  "institution": "Faa Air Traffic Control Tower Flint/Tracon",
+  "institution": "FAA AIR TRAFFIC CONTROL TOWER FLINT/TRACON",
   "city": "Flint",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48507",
-  "email": true
+  "ope": null
 }

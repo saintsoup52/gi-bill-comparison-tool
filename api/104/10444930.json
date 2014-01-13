@@ -1,6 +1,6 @@
 {
   "facility_code": "10444930",
-  "institution": "Elizabeth Police Department",
+  "institution": "ELIZABETH POLICE DEPARTMENT",
   "city": "Elizabeth",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7201",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10202716",
-  "institution": "Lawrence Kansas Police Department",
+  "institution": "LAWRENCE KANSAS POLICE DEPARTMENT",
   "city": "Lawrence",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66049",
-  "email": false
+  "ope": null
 }

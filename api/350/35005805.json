@@ -1,6 +1,6 @@
 {
   "facility_code": "35005805",
-  "institution": "Los Angeles Urban League Automotive Training Center (Chapter 31 Only)",
+  "institution": "LOS ANGELES URBAN LEAGUE AUTOMOTIVE TRAINING CENTER (CHAPTER 31 ONLY)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90008",
-  "email": false
+  "ope": null
 }

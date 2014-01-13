@@ -1,6 +1,6 @@
 {
   "facility_code": "10C30843",
-  "institution": "Faa Ftw Ssc",
+  "institution": "FAA FTW SSC",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76106",
-  "email": false
+  "ope": null
 }

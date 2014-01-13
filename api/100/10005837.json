@@ -1,6 +1,6 @@
 {
   "facility_code": "10005837",
-  "institution": "Yamhill County Sheriff'S Office",
+  "institution": "YAMHILL COUNTY SHERIFF'S OFFICE",
   "city": "Mcminnville",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97128",
-  "email": true
+  "ope": null
 }

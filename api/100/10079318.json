@@ -1,6 +1,6 @@
 {
   "facility_code": "10079318",
-  "institution": "Faa - Baton Rouge (Atct)",
+  "institution": "FAA - BATON ROUGE (ATCT)",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70807",
-  "email": false
+  "ope": null
 }

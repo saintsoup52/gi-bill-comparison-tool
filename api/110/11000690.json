@@ -1,6 +1,6 @@
 {
   "facility_code": "11000690",
-  "institution": "Medical University Of Silesia",
+  "institution": "MEDICAL UNIVERSITY OF SILESIA",
   "city": "40-055 Katowice",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

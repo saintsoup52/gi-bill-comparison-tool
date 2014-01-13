@@ -1,6 +1,6 @@
 {
   "facility_code": "11801005",
-  "institution": "California State University-San Marcos",
+  "institution": "CALIFORNIA STATE UNIVERSITY-SAN MARCOS",
   "city": "San Marcos",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92096",
-  "email": false
+  "ope": "03011300"
 }

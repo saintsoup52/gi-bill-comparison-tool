@@ -1,6 +1,6 @@
 {
   "facility_code": "20199716",
-  "institution": "Burlington Northern Santa Fe Railway-Newton",
+  "institution": "BURLINGTON NORTHERN SANTA FE RAILWAY-NEWTON",
   "city": "Newton",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67114",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10022249",
-  "institution": "Dwd/Dws Job Service",
+  "institution": "DWD/DWS JOB SERVICE",
   "city": "Fond Du Lac",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54935",
-  "email": "No (SCO)"
+  "ope": null
 }

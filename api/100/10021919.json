@@ -1,6 +1,6 @@
 {
   "facility_code": "10021919",
-  "institution": "Farmington Police Department",
+  "institution": "FARMINGTON POLICE DEPARTMENT",
   "city": "Farmington",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4938",
-  "email": true
+  "ope": null
 }

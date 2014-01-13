@@ -1,6 +1,6 @@
 {
   "facility_code": "20D25549",
-  "institution": "Wisconsin Resource Center",
+  "institution": "WISCONSIN RESOURCE CENTER",
   "city": "Winnebago",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54985",
-  "email": false
+  "ope": null
 }

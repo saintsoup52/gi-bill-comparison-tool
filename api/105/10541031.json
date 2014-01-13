@@ -1,6 +1,6 @@
 {
   "facility_code": "10541031",
-  "institution": "Us Marshals Service",
+  "institution": "US MARSHALS SERVICE",
   "city": "Las Cruces",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88001",
-  "email": true
+  "ope": null
 }

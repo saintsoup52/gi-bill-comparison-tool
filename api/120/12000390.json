@@ -1,6 +1,6 @@
 {
   "facility_code": "12000390",
-  "institution": "Medical University Of Lodz",
+  "institution": "MEDICAL UNIVERSITY OF LODZ",
   "city": "Lodz",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

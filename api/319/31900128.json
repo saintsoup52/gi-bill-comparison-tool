@@ -1,6 +1,6 @@
 {
   "facility_code": "31900128",
-  "institution": "Embry-Riddle Aeronautical Univ Nas Fallon",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV NAS FALLON",
   "city": "Nas Fallon",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89407",
-  "email": true
+  "ope": "00147936"
 }

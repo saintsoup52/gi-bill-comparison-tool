@@ -1,6 +1,6 @@
 {
   "facility_code": "31000480",
-  "institution": "Universitat Bremen (University Of Bremen)",
+  "institution": "UNIVERSITAT BREMEN (UNIVERSITY OF BREMEN)",
   "city": "28334 Breman",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

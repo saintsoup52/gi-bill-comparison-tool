@@ -1,6 +1,6 @@
 {
   "facility_code": "25088143",
-  "institution": "Flightsafety Texas Dfw",
+  "institution": "FLIGHTSAFETY TEXAS DFW",
   "city": "Dfw Airport",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75261",
-  "email": false
+  "ope": null
 }

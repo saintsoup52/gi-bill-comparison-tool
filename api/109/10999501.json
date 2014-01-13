@@ -1,6 +1,6 @@
 {
   "facility_code": "10999501",
-  "institution": "Alabama Department Of Public Safety - Selma",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY - SELMA",
   "city": "Selma",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36701",
-  "email": true
+  "ope": null
 }

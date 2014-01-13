@@ -1,6 +1,6 @@
 {
   "facility_code": "10521930",
-  "institution": "North Brunswick Police Department",
+  "institution": "NORTH BRUNSWICK POLICE DEPARTMENT",
   "city": "North Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8902",
-  "email": true
+  "ope": null
 }

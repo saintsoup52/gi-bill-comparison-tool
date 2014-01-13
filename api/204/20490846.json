@@ -1,6 +1,6 @@
 {
   "facility_code": "20490846",
-  "institution": "Prince George County Police Dept",
+  "institution": "PRINCE GEORGE COUNTY POLICE DEPT",
   "city": "Prince George",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23875",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10262204",
-  "institution": "U Of A Physical Plant Department",
+  "institution": "U OF A PHYSICAL PLANT DEPARTMENT",
   "city": "Fayetteville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72701",
-  "email": false
+  "ope": null
 }

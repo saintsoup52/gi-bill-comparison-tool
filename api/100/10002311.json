@@ -1,6 +1,6 @@
 {
   "facility_code": "10002311",
-  "institution": "Pavo Police Department",
+  "institution": "PAVO POLICE DEPARTMENT",
   "city": "Pavo",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31778",
-  "email": true
+  "ope": null
 }

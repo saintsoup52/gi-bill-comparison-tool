@@ -1,6 +1,6 @@
 {
   "facility_code": "10590825",
-  "institution": "Maryville Treatment Center",
+  "institution": "MARYVILLE TREATMENT CENTER",
   "city": "Maryville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64468",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20204126",
-  "institution": "County Market Attn: Meat Dept",
+  "institution": "COUNTY MARKET ATTN: MEAT DEPT",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59405",
-  "email": false
+  "ope": null
 }

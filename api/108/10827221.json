@@ -1,6 +1,6 @@
 {
   "facility_code": "10827221",
-  "institution": "Shrewsbury Fire Department",
+  "institution": "SHREWSBURY FIRE DEPARTMENT",
   "city": "Shrewsbury",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1545",
-  "email": true
+  "ope": null
 }

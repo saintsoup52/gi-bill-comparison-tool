@@ -1,6 +1,6 @@
 {
   "facility_code": "15002002",
-  "institution": "West Valley High School",
+  "institution": "WEST VALLEY HIGH SCHOOL",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99709",
-  "email": true
+  "ope": null
 }

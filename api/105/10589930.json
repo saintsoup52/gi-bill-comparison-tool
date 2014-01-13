@@ -1,6 +1,6 @@
 {
   "facility_code": "10589930",
-  "institution": "New Jersey Department Of Human Services",
+  "institution": "NEW JERSEY DEPARTMENT OF HUMAN SERVICES",
   "city": "Morris Plains",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7950",
-  "email": false
+  "ope": null
 }

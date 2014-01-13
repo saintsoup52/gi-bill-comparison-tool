@@ -1,6 +1,6 @@
 {
   "facility_code": "10282304",
-  "institution": "Texarkana Police",
+  "institution": "TEXARKANA POLICE",
   "city": "Texarkana",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75504",
-  "email": false
+  "ope": null
 }

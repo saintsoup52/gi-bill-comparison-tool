@@ -1,6 +1,6 @@
 {
   "facility_code": "19000634",
-  "institution": "The Institute For Bus And Industry",
+  "institution": "THE INSTITUTE FOR BUS AND INDUSTRY",
   "city": "Fargo",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58103",
-  "email": false
+  "ope": null
 }

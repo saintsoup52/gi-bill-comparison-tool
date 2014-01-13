@@ -1,6 +1,6 @@
 {
   "facility_code": "15100545",
-  "institution": "Windham Southeast Supv Union ----",
+  "institution": "WINDHAM SOUTHEAST SUPV UNION ----",
   "city": "Brattleboro",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5301",
-  "email": false
+  "ope": null
 }

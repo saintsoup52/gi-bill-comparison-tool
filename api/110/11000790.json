@@ -1,6 +1,6 @@
 {
   "facility_code": "11000790",
-  "institution": "Wroclaw University Of Economics",
+  "institution": "WROCLAW UNIVERSITY OF ECONOMICS",
   "city": "53-345 Wroclaw",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

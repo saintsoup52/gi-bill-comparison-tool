@@ -1,6 +1,6 @@
 {
   "facility_code": "10702813",
-  "institution": "Faa - Springfield - Airway Transportation Systems",
+  "institution": "FAA - SPRINGFIELD - AIRWAY TRANSPORTATION SYSTEMS",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62711",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10464517",
-  "institution": "Jefferson County Police Dept",
+  "institution": "JEFFERSON COUNTY POLICE DEPT",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40221",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01201",
-  "institution": "Alabama Department Of Conservation District One",
+  "institution": "ALABAMA DEPARTMENT OF CONSERVATION DISTRICT ONE",
   "city": "Tanner",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35671",
-  "email": false
+  "ope": null
 }

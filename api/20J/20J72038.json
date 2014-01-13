@@ -1,6 +1,6 @@
 {
   "facility_code": "20J72038",
-  "institution": "Jst Corporation",
+  "institution": "JST CORPORATION",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17111",
-  "email": false
+  "ope": null
 }

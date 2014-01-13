@@ -1,6 +1,6 @@
 {
   "facility_code": "10C11743",
-  "institution": "Texas Veterans Commission Region V",
+  "institution": "TEXAS VETERANS COMMISSION REGION V",
   "city": "Lubbock",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79401",
-  "email": false
+  "ope": null
 }

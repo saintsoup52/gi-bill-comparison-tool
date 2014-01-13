@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00201",
-  "institution": "Alabama Department Of Public Safety Hamilton Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY HAMILTON POST",
   "city": "Hamilton",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35570",
-  "email": true
+  "ope": null
 }

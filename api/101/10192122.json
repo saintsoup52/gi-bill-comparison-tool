@@ -1,6 +1,6 @@
 {
   "facility_code": "10192122",
-  "institution": "Faa Air Traffic Control Tower Willow Run Airport-Belleville",
+  "institution": "FAA AIR TRAFFIC CONTROL TOWER WILLOW RUN AIRPORT-BELLEVILLE",
   "city": "Belleville",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48111",
-  "email": true
+  "ope": null
 }

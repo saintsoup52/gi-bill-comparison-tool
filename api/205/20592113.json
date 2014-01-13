@@ -1,6 +1,6 @@
 {
   "facility_code": "20592113",
-  "institution": "Faa/Spi Atct",
+  "institution": "FAA/SPI ATCT",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62707",
-  "email": true
+  "ope": null
 }

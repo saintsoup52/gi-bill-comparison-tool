@@ -1,6 +1,6 @@
 {
   "facility_code": "19A00233",
-  "institution": "Internal Revenue Service (Irs) Ch31 Only",
+  "institution": "INTERNAL REVENUE SERVICE (IRS) CH31 ONLY",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28262",
-  "email": true
+  "ope": null
 }

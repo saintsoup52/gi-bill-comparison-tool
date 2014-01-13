@@ -1,6 +1,6 @@
 {
   "facility_code": "11000270",
-  "institution": "Australian National University",
+  "institution": "AUSTRALIAN NATIONAL UNIVERSITY",
   "city": "Canberra",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

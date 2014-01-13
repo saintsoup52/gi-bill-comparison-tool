@@ -1,6 +1,6 @@
 {
   "facility_code": "10583313",
-  "institution": "Illinois State Police District #16",
+  "institution": "ILLINOIS STATE POLICE DISTRICT #16",
   "city": "Pecatonica",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61063",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C36643",
-  "institution": "Dhs Immigration & Customs Enforcement Irving",
+  "institution": "DHS IMMIGRATION & CUSTOMS ENFORCEMENT IRVING",
   "city": "Irving",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75062",
-  "email": false
+  "ope": null
 }

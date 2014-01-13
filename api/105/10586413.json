@@ -1,6 +1,6 @@
 {
   "facility_code": "10586413",
-  "institution": "Rockford Fire Department",
+  "institution": "ROCKFORD FIRE DEPARTMENT",
   "city": "Rockford",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61104",
-  "email": true
+  "ope": null
 }

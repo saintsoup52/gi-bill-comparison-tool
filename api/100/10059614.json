@@ -1,6 +1,6 @@
 {
   "facility_code": "10059614",
-  "institution": "Madison Police Department",
+  "institution": "MADISON POLICE DEPARTMENT",
   "city": "Madison",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47250",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21044843",
-  "institution": "The Art Institute Of Houston North",
+  "institution": "THE ART INSTITUTE OF HOUSTON NORTH",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77064",
-  "email": false
+  "ope": null
 }

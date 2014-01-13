@@ -1,6 +1,6 @@
 {
   "facility_code": "10N41832",
-  "institution": "Defense Contract Management Agency-Syracuse",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY-SYRACUSE",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13204",
-  "email": true
+  "ope": null
 }

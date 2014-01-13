@@ -1,6 +1,6 @@
 {
   "facility_code": "10040835",
-  "institution": "Cincinnati Police Department G",
+  "institution": "CINCINNATI POLICE DEPARTMENT G",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45214",
-  "email": false
+  "ope": null
 }

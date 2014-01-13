@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11410",
-  "institution": "Kissimmee Utility Authority",
+  "institution": "KISSIMMEE UTILITY AUTHORITY",
   "city": "Kissimmee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34742",
-  "email": true
+  "ope": null
 }

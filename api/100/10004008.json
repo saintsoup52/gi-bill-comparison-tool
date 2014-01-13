@@ -1,6 +1,6 @@
 {
   "facility_code": "10004008",
-  "institution": "Delmar Police Department",
+  "institution": "DELMAR POLICE DEPARTMENT",
   "city": "Delmar",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19940",
-  "email": false
+  "ope": null
 }

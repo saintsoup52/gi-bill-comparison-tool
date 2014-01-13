@@ -1,6 +1,6 @@
 {
   "facility_code": "10507517",
-  "institution": "West Point Police Department",
+  "institution": "WEST POINT POLICE DEPARTMENT",
   "city": "West Point",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40177",
-  "email": false
+  "ope": null
 }

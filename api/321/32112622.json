@@ -1,6 +1,6 @@
 {
   "facility_code": "32112622",
-  "institution": "Oakwood Hospital",
+  "institution": "OAKWOOD HOSPITAL",
   "city": "Dearborn",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48124",
-  "email": false
+  "ope": null
 }

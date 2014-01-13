@@ -1,6 +1,6 @@
 {
   "facility_code": "10N35332",
-  "institution": "New York City Dept. Of Corrections - Manhattan Detention Complex",
+  "institution": "NEW YORK CITY DEPT. OF CORRECTIONS - MANHATTAN DETENTION COMPLEX",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10013",
-  "email": true
+  "ope": null
 }

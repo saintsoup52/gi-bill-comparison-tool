@@ -1,6 +1,6 @@
 {
   "facility_code": "103B7705",
-  "institution": "Valley State Prison For Women",
+  "institution": "VALLEY STATE PRISON FOR WOMEN",
   "city": "Chowchilla",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93610",
-  "email": false
+  "ope": null
 }

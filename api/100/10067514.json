@@ -1,6 +1,6 @@
 {
   "facility_code": "10067514",
-  "institution": "Seymour Police Department",
+  "institution": "SEYMOUR POLICE DEPARTMENT",
   "city": "Seymour",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47274",
-  "email": false
+  "ope": null
 }

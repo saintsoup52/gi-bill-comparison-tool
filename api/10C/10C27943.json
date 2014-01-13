@@ -1,6 +1,6 @@
 {
   "facility_code": "10C27943",
-  "institution": "City Of Southlake Dps",
+  "institution": "CITY OF SOUTHLAKE DPS",
   "city": "Southlake",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76092",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000171",
-  "institution": "University Of Vienna",
+  "institution": "UNIVERSITY OF VIENNA",
   "city": "1010 Vienna",
   "state": "Austria",
   "country": "Austria",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

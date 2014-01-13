@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07311",
-  "institution": "Macon State Prison",
+  "institution": "MACON STATE PRISON",
   "city": "Oglethorpe",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31068",
-  "email": false
+  "ope": null
 }

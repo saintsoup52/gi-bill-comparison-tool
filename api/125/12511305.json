@@ -1,6 +1,6 @@
 {
   "facility_code": "12511305",
-  "institution": "Va Long Beach Healthcare System Dental Service",
+  "institution": "VA LONG BEACH HEALTHCARE SYSTEM DENTAL SERVICE",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90822",
-  "email": false
+  "ope": null
 }

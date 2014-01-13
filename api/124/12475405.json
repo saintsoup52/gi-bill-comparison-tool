@@ -1,6 +1,6 @@
 {
   "facility_code": "12475405",
-  "institution": "Dva Medical Center - San Francisco",
+  "institution": "DVA MEDICAL CENTER - SAN FRANCISCO",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94121",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "101B0205",
-  "institution": "Social Security Administration(Long Beach)(Ch 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(LONG BEACH)(CH 31 ONLY)",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90806",
-  "email": false
+  "ope": null
 }

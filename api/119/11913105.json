@@ -1,6 +1,6 @@
 {
   "facility_code": "11913105",
-  "institution": "California State University-San Bernardino",
+  "institution": "CALIFORNIA STATE UNIVERSITY-SAN BERNARDINO",
   "city": "San Bernardino",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92407",
-  "email": true
+  "ope": "00114200"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10589713",
-  "institution": "Libertyville Police Department",
+  "institution": "LIBERTYVILLE POLICE DEPARTMENT",
   "city": "Libertyville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60048",
-  "email": true
+  "ope": null
 }

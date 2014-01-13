@@ -1,6 +1,6 @@
 {
   "facility_code": "21100475",
-  "institution": "Acadia University",
+  "institution": "ACADIA UNIVERSITY",
   "city": "Wolfville",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

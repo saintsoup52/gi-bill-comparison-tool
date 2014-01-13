@@ -1,6 +1,6 @@
 {
   "facility_code": "31800318",
-  "institution": "Tulane Sch Of Public Health & Tropical Medicine",
+  "institution": "TULANE SCH OF PUBLIC HEALTH & TROPICAL MEDICINE",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70112",
-  "email": true
+  "ope": "00202903"
 }

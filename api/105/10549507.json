@@ -1,6 +1,6 @@
 {
   "facility_code": "10549507",
-  "institution": "Norwalk Fire Department",
+  "institution": "NORWALK FIRE DEPARTMENT",
   "city": "Norwalk",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6851",
-  "email": true
+  "ope": null
 }

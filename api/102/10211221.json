@@ -1,6 +1,6 @@
 {
   "facility_code": "10211221",
-  "institution": "Hanover Police Department",
+  "institution": "HANOVER POLICE DEPARTMENT",
   "city": "Hanover",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2339",
-  "email": true
+  "ope": null
 }

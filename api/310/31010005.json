@@ -1,6 +1,6 @@
 {
   "facility_code": "31010005",
-  "institution": "Psychoanalytic Institute Of Northern California",
+  "institution": "PSYCHOANALYTIC INSTITUTE OF NORTHERN CALIFORNIA",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94115",
-  "email": false
+  "ope": null
 }

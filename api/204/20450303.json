@@ -1,6 +1,6 @@
 {
   "facility_code": "20450303",
-  "institution": "Paradise Valley Hospital - Diag. Imaging & Cath Lab",
+  "institution": "PARADISE VALLEY HOSPITAL - DIAG. IMAGING & CATH LAB",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85032",
-  "email": true
+  "ope": null
 }

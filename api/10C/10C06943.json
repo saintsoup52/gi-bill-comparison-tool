@@ -1,6 +1,6 @@
 {
   "facility_code": "10C06943",
-  "institution": "Comanche Peak (Cpnpp)",
+  "institution": "COMANCHE PEAK (CPNPP)",
   "city": "Glen Rose",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76043",
-  "email": false
+  "ope": null
 }

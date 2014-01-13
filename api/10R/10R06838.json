@@ -1,6 +1,6 @@
 {
   "facility_code": "10R06838",
-  "institution": "Pennsylvania Job Service",
+  "institution": "PENNSYLVANIA JOB SERVICE",
   "city": "Mckeesport",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15132",
-  "email": false
+  "ope": null
 }

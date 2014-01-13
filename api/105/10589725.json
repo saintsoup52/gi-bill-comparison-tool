@@ -1,6 +1,6 @@
 {
   "facility_code": "10589725",
-  "institution": "Hannibal Fire Department",
+  "institution": "HANNIBAL FIRE DEPARTMENT",
   "city": "Hannibal",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63401",
-  "email": false
+  "ope": null
 }

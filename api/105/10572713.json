@@ -1,6 +1,6 @@
 {
   "facility_code": "10572713",
-  "institution": "Knox County Sheriff'S Department",
+  "institution": "KNOX COUNTY SHERIFF'S DEPARTMENT",
   "city": "Galesburg",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61401",
-  "email": true
+  "ope": null
 }

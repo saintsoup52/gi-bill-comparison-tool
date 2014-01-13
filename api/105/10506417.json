@@ -1,6 +1,6 @@
 {
   "facility_code": "10506417",
-  "institution": "Kentucky State Penitentiary",
+  "institution": "KENTUCKY STATE PENITENTIARY",
   "city": "Eddyville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42038",
-  "email": true
+  "ope": null
 }

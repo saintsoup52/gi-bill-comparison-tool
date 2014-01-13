@@ -1,6 +1,6 @@
 {
   "facility_code": "10009933",
-  "institution": "Durham Fire-Rescue",
+  "institution": "DURHAM FIRE-RESCUE",
   "city": "Durham",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27704",
-  "email": true
+  "ope": null
 }

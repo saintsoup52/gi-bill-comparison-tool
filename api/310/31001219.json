@@ -1,6 +1,6 @@
 {
   "facility_code": "31001219",
-  "institution": "University Of New England",
+  "institution": "UNIVERSITY OF NEW ENGLAND",
   "city": "Biddeford",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4005",
-  "email": true
+  "ope": "00205000"
 }

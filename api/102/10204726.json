@@ -1,6 +1,6 @@
 {
   "facility_code": "10204726",
-  "institution": "Billings Fire Department",
+  "institution": "BILLINGS FIRE DEPARTMENT",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59101",
-  "email": true
+  "ope": null
 }

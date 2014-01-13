@@ -1,6 +1,6 @@
 {
   "facility_code": "10674529",
-  "institution": "Kingston Police Department",
+  "institution": "KINGSTON POLICE DEPARTMENT",
   "city": "Kingston",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3848",
-  "email": false
+  "ope": null
 }

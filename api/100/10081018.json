@@ -1,6 +1,6 @@
 {
   "facility_code": "10081018",
-  "institution": "Faa - Lafayette System Support Center",
+  "institution": "FAA - LAFAYETTE SYSTEM SUPPORT CENTER",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70508",
-  "email": true
+  "ope": null
 }

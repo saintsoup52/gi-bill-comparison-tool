@@ -1,6 +1,6 @@
 {
   "facility_code": "10502530",
-  "institution": "Bloomfield Fire Department",
+  "institution": "BLOOMFIELD FIRE DEPARTMENT",
   "city": "Bloomfield",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7003",
-  "email": true
+  "ope": null
 }

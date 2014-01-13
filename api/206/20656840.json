@@ -1,6 +1,6 @@
 {
   "facility_code": "20656840",
-  "institution": "Firestone",
+  "institution": "FIRESTONE",
   "city": "Mt Pleasant",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29464",
-  "email": false
+  "ope": null
 }

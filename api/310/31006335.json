@@ -1,6 +1,6 @@
 {
   "facility_code": "31006335",
-  "institution": "University Of Dayton",
+  "institution": "UNIVERSITY OF DAYTON",
   "city": "Dayton",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "45469",
-  "email": true
+  "ope": "00312700"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15633232",
-  "institution": "New York Police Dept. - School Safety Division - Brooklyn",
+  "institution": "NEW YORK POLICE DEPT. - SCHOOL SAFETY DIVISION - BROOKLYN",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11217",
-  "email": false
+  "ope": null
 }

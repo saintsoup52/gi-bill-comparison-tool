@@ -1,6 +1,6 @@
 {
   "facility_code": "15003230",
-  "institution": "Teaneck High School",
+  "institution": "TEANECK HIGH SCHOOL",
   "city": "Teaneck",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7666",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20C40643",
-  "institution": "Edward Jones",
+  "institution": "EDWARD JONES",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76132",
-  "email": false
+  "ope": null
 }

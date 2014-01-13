@@ -1,6 +1,6 @@
 {
   "facility_code": "10008135",
-  "institution": "Nasa Lewis Research Center G K",
+  "institution": "NASA LEWIS RESEARCH CENTER G K",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44135",
-  "email": false
+  "ope": null
 }

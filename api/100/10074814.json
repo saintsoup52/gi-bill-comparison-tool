@@ -1,6 +1,6 @@
 {
   "facility_code": "10074814",
-  "institution": "Noblesville Fire Department",
+  "institution": "NOBLESVILLE FIRE DEPARTMENT",
   "city": "Noblesville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46060",
-  "email": false
+  "ope": null
 }

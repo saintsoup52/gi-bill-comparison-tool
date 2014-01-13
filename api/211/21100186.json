@@ -1,6 +1,6 @@
 {
   "facility_code": "21100186",
-  "institution": "Marist University Of Guadalajara",
+  "institution": "MARIST UNIVERSITY OF GUADALAJARA",
   "city": "Zapopan Jalisco",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

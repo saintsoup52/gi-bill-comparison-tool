@@ -1,6 +1,6 @@
 {
   "facility_code": "11905103",
-  "institution": "Arizona State University",
+  "institution": "ARIZONA STATE UNIVERSITY",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "85287",
-  "email": true
+  "ope": "00108100"
 }

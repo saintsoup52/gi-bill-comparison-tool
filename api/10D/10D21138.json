@@ -1,6 +1,6 @@
 {
   "facility_code": "10D21138",
-  "institution": "Steelton Police Dept",
+  "institution": "STEELTON POLICE DEPT",
   "city": "Steelton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17113",
-  "email": false
+  "ope": null
 }

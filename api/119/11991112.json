@@ -1,6 +1,6 @@
 {
   "facility_code": "11991112",
-  "institution": "Boise State University",
+  "institution": "BOISE STATE UNIVERSITY",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "83725",
-  "email": true
+  "ope": "00161600"
 }

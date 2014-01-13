@@ -1,6 +1,6 @@
 {
   "facility_code": "10008711",
-  "institution": "Loftiss Regional Youth Detention Center",
+  "institution": "LOFTISS REGIONAL YOUTH DETENTION CENTER",
   "city": "Thomasville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31792",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D21338",
-  "institution": "Harrisburg Bureau Of Police",
+  "institution": "HARRISBURG BUREAU OF POLICE",
   "city": "Harrisburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17101",
-  "email": true
+  "ope": null
 }

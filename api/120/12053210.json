@@ -1,6 +1,6 @@
 {
   "facility_code": "12053210",
-  "institution": "University Of Florida College Of Dentistry",
+  "institution": "UNIVERSITY OF FLORIDA COLLEGE OF DENTISTRY",
   "city": "Gainesville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32610",
-  "email": true
+  "ope": "00153500"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31002192",
-  "institution": "Universidad Tecnologica De Pereira",
+  "institution": "UNIVERSIDAD TECNOLOGICA DE PEREIRA",
   "city": "Pereira",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

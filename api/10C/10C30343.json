@@ -1,6 +1,6 @@
 {
   "facility_code": "10C30343",
-  "institution": "Us Customs And Border Protection Galveston",
+  "institution": "US CUSTOMS AND BORDER PROTECTION GALVESTON",
   "city": "Galveston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77550",
-  "email": false
+  "ope": null
 }

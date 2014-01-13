@@ -1,6 +1,6 @@
 {
   "facility_code": "46000409",
-  "institution": "American Petroleum Institute",
+  "institution": "AMERICAN PETROLEUM INSTITUTE",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20005",
-  "email": true
+  "ope": null
 }

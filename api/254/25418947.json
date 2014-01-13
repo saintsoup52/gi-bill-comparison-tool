@@ -1,6 +1,6 @@
 {
   "facility_code": "25418947",
-  "institution": "Seattle Film Institute",
+  "institution": "SEATTLE FILM INSTITUTE",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98122",
-  "email": true
+  "ope": "NONE"
 }

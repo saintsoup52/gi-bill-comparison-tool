@@ -1,6 +1,6 @@
 {
   "facility_code": "10578525",
-  "institution": "Boonville Correctional Center",
+  "institution": "BOONVILLE CORRECTIONAL CENTER",
   "city": "Boonville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65233",
-  "email": false
+  "ope": null
 }

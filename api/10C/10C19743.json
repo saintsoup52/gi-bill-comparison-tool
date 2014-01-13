@@ -1,6 +1,6 @@
 {
   "facility_code": "10C19743",
-  "institution": "Faa Dallas Love Dal",
+  "institution": "FAA DALLAS LOVE DAL",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75235",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10J76338",
-  "institution": "Us Army War College Csl/Dss",
+  "institution": "US ARMY WAR COLLEGE CSL/DSS",
   "city": "Carlisle",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17013",
-  "email": false
+  "ope": null
 }

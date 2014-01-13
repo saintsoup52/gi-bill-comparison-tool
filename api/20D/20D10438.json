@@ -1,6 +1,6 @@
 {
   "facility_code": "20D10438",
-  "institution": "Bemis Company Inc",
+  "institution": "BEMIS COMPANY INC",
   "city": "Hazleton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18201",
-  "email": false
+  "ope": null
 }

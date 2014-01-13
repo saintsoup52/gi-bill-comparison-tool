@@ -1,6 +1,6 @@
 {
   "facility_code": "10527230",
-  "institution": "Rockaway Township Police Department",
+  "institution": "ROCKAWAY TOWNSHIP POLICE DEPARTMENT",
   "city": "Rockaway",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7866",
-  "email": false
+  "ope": null
 }

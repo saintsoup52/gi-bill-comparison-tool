@@ -1,6 +1,6 @@
 {
   "facility_code": "249B3443",
-  "institution": "The Art Institute Of Houston",
+  "institution": "THE ART INSTITUTE OF HOUSTON",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "77027",
-  "email": false
+  "ope": "02117100"
 }

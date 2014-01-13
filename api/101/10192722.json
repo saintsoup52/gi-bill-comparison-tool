@@ -1,6 +1,6 @@
 {
   "facility_code": "10192722",
-  "institution": "Faa Federal Aviation Administration-Waterford",
+  "institution": "FAA FEDERAL AVIATION ADMINISTRATION-WATERFORD",
   "city": "Waterford",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48327",
-  "email": true
+  "ope": null
 }

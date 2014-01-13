@@ -1,6 +1,6 @@
 {
   "facility_code": "10017111",
-  "institution": "Georgia State Patrol - Post 19 (Swainsboro)",
+  "institution": "GEORGIA STATE PATROL - POST 19 (SWAINSBORO)",
   "city": "Swainsboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30401",
-  "email": false
+  "ope": null
 }

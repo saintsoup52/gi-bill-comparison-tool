@@ -1,6 +1,6 @@
 {
   "facility_code": "11003563",
-  "institution": "Universidad De Pr-Recinto Ciencias Medicas (Upr Medical Sciences Campus)",
+  "institution": "UNIVERSIDAD DE PR-RECINTO CIENCIAS MEDICAS (UPR MEDICAL SCIENCES CAMPUS)",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "936",
-  "email": true
+  "ope": "02460000"
 }

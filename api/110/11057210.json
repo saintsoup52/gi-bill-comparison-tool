@@ -1,6 +1,6 @@
 {
   "facility_code": "11057210",
-  "institution": "University Of Arkansas-Grad Resident Ctr Hurlburt Field",
+  "institution": "UNIVERSITY OF ARKANSAS-GRAD RESIDENT CTR HURLBURT FIELD",
   "city": "Hurlburt Field",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32544",
-  "email": false
+  "ope": "00110802"
 }

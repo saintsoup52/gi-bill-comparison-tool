@@ -1,6 +1,6 @@
 {
   "facility_code": "10C22543",
-  "institution": "Midland Police Dept",
+  "institution": "MIDLAND POLICE DEPT",
   "city": "Midland",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79701",
-  "email": false
+  "ope": null
 }

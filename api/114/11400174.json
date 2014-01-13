@@ -1,6 +1,6 @@
 {
   "facility_code": "11400174",
-  "institution": "Robert Gordon University",
+  "institution": "ROBERT GORDON UNIVERSITY",
   "city": "Aberdeen",
   "state": "Scotland",
   "country": "Scotland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

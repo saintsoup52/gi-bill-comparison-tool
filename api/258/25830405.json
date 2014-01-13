@@ -1,6 +1,6 @@
 {
   "facility_code": "25830405",
-  "institution": "High-Tech Institute (Hti)     (Chapter 31 Only)",
+  "institution": "HIGH-TECH INSTITUTE (HTI)     (CHAPTER 31 ONLY)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95825",
-  "email": false
+  "ope": null
 }

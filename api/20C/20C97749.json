@@ -1,6 +1,6 @@
 {
   "facility_code": "20C97749",
-  "institution": "General Motors Corperation",
+  "institution": "GENERAL MOTORS CORPERATION",
   "city": "Janesville",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53545",
-  "email": false
+  "ope": null
 }

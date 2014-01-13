@@ -1,6 +1,6 @@
 {
   "facility_code": "10578825",
-  "institution": "Farmington Correctional Center",
+  "institution": "FARMINGTON CORRECTIONAL CENTER",
   "city": "Farmington",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63640",
-  "email": true
+  "ope": null
 }

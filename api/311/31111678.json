@@ -1,6 +1,6 @@
 {
   "facility_code": "31111678",
-  "institution": "Imd - Inter Inst For Mngmt Dev",
+  "institution": "IMD - INTER INST FOR MNGMT DEV",
   "city": "Lausanne",
   "state": "Switzerland",
   "country": "Switzerland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

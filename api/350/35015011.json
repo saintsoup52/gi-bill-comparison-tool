@@ -1,6 +1,6 @@
 {
   "facility_code": "35015011",
-  "institution": "Paideia High School",
+  "institution": "PAIDEIA HIGH SCHOOL",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30307",
-  "email": true
+  "ope": null
 }

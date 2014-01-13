@@ -1,6 +1,6 @@
 {
   "facility_code": "101B2805",
-  "institution": "California Highway Patrol (Westminister)",
+  "institution": "CALIFORNIA HIGHWAY PATROL (WESTMINISTER)",
   "city": "Westminister",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92683",
-  "email": false
+  "ope": null
 }

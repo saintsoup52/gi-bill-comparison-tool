@@ -1,6 +1,6 @@
 {
   "facility_code": "18528132",
-  "institution": "Boces Broome-Tioga",
+  "institution": "BOCES BROOME-TIOGA",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "13905",
-  "email": true
+  "ope": "02153600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10000119",
-  "institution": "Portsmouth Naval Shipyard",
+  "institution": "PORTSMOUTH NAVAL SHIPYARD",
   "city": "Kittery",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3904",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20005623",
-  "institution": "St Paul Pipefitters Jac",
+  "institution": "ST PAUL PIPEFITTERS JAC",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55102",
-  "email": false
+  "ope": null
 }

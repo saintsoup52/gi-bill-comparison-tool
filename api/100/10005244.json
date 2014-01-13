@@ -1,6 +1,6 @@
 {
   "facility_code": "10005244",
-  "institution": "Brigham City Police Department Ojt",
+  "institution": "BRIGHAM CITY POLICE DEPARTMENT OJT",
   "city": "Brigham City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84302",
-  "email": false
+  "ope": null
 }

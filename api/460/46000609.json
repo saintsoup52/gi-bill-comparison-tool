@@ -1,6 +1,6 @@
 {
   "facility_code": "46000609",
-  "institution": "Federal Communications Commission",
+  "institution": "FEDERAL COMMUNICATIONS COMMISSION",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20554",
-  "email": true
+  "ope": null
 }

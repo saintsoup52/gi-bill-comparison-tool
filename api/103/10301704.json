@@ -1,6 +1,6 @@
 {
   "facility_code": "10301704",
-  "institution": "Arkansas Department Of Community Corrections Area 10",
+  "institution": "ARKANSAS DEPARTMENT OF COMMUNITY CORRECTIONS AREA 10",
   "city": "Benton",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72015",
-  "email": false
+  "ope": null
 }

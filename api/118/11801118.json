@@ -1,6 +1,6 @@
 {
   "facility_code": "11801118",
-  "institution": "Southern University - Baton Rouge",
+  "institution": "SOUTHERN UNIVERSITY - BATON ROUGE",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70813",
-  "email": false
+  "ope": "00202500"
 }

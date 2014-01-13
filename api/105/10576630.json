@@ -1,6 +1,6 @@
 {
   "facility_code": "10576630",
-  "institution": "Borough Of Allenhurst Police Department",
+  "institution": "BOROUGH OF ALLENHURST POLICE DEPARTMENT",
   "city": "Allenhurst",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7711",
-  "email": false
+  "ope": null
 }

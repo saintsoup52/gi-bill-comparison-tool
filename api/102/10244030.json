@@ -1,6 +1,6 @@
 {
   "facility_code": "10244030",
-  "institution": "Newark Fire Department",
+  "institution": "NEWARK FIRE DEPARTMENT",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7103",
-  "email": false
+  "ope": null
 }

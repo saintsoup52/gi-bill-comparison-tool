@@ -1,6 +1,6 @@
 {
   "facility_code": "10C41843",
-  "institution": "City Of Rowlett Police Department",
+  "institution": "CITY OF ROWLETT POLICE DEPARTMENT",
   "city": "Rowlett",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75088",
-  "email": false
+  "ope": null
 }

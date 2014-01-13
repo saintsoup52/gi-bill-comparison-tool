@@ -1,6 +1,6 @@
 {
   "facility_code": "10B82835",
-  "institution": "Lorain County Veterans Service Office",
+  "institution": "LORAIN COUNTY VETERANS SERVICE OFFICE",
   "city": "Elyria",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44030",
-  "email": false
+  "ope": null
 }

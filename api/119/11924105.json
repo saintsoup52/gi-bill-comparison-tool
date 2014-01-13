@@ -1,6 +1,6 @@
 {
   "facility_code": "11924105",
-  "institution": "California State University-Long Beach",
+  "institution": "CALIFORNIA STATE UNIVERSITY-LONG BEACH",
   "city": "Long Beach",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90815",
-  "email": true
+  "ope": "00113900"
 }

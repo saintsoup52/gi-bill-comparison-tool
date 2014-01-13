@@ -1,6 +1,6 @@
 {
   "facility_code": "10R05838",
-  "institution": "Va Regional Office Vr&E Division (Chap 31)",
+  "institution": "VA REGIONAL OFFICE VR&E DIVISION (CHAP 31)",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "email": false
+  "ope": null
 }

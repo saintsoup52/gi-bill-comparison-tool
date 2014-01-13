@@ -1,6 +1,6 @@
 {
   "facility_code": "25008828",
-  "institution": "Advanced Training Institute",
+  "institution": "ADVANCED TRAINING INSTITUTE",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "89118",
-  "email": true
+  "ope": "04171000"
 }

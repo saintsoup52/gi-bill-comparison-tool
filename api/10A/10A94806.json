@@ -1,6 +1,6 @@
 {
   "facility_code": "10A94806",
-  "institution": "Faa - Denver Artcc (Technical Operations)",
+  "institution": "FAA - DENVER ARTCC (TECHNICAL OPERATIONS)",
   "city": "Longmont",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80501",
-  "email": true
+  "ope": null
 }

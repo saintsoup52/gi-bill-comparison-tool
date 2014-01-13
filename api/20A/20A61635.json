@@ -1,6 +1,6 @@
 {
   "facility_code": "20A61635",
-  "institution": "Delco Corporation   K",
+  "institution": "DELCO CORPORATION   K",
   "city": "Akron",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44312",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10544730",
-  "institution": "Mercer County Sheriff'S Office",
+  "institution": "MERCER COUNTY SHERIFF'S OFFICE",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8650",
-  "email": false
+  "ope": null
 }

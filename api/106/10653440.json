@@ -1,6 +1,6 @@
 {
   "facility_code": "10653440",
-  "institution": "Georgetown City Police Department",
+  "institution": "GEORGETOWN CITY POLICE DEPARTMENT",
   "city": "Georgetown",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29440",
-  "email": false
+  "ope": null
 }

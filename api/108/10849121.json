@@ -1,6 +1,6 @@
 {
   "facility_code": "10849121",
-  "institution": "Mbta Police Department",
+  "institution": "MBTA POLICE DEPARTMENT",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2118",
-  "email": true
+  "ope": null
 }

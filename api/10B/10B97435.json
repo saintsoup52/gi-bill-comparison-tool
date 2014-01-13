@@ -1,6 +1,6 @@
 {
   "facility_code": "10B97435",
-  "institution": "Newark Division Of Police",
+  "institution": "NEWARK DIVISION OF POLICE",
   "city": "Newark",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43055",
-  "email": true
+  "ope": null
 }

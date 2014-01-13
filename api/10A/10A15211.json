@@ -1,6 +1,6 @@
 {
   "facility_code": "10A15211",
-  "institution": "Emanuel Probation Detention Center",
+  "institution": "EMANUEL PROBATION DETENTION CENTER",
   "city": "Twin City",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30471",
-  "email": false
+  "ope": null
 }

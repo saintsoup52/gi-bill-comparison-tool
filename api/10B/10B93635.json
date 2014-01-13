@@ -1,6 +1,6 @@
 {
   "facility_code": "10B93635",
-  "institution": "Port Columbus International Airport",
+  "institution": "PORT COLUMBUS INTERNATIONAL AIRPORT",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43219",
-  "email": true
+  "ope": null
 }

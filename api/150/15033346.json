@@ -1,6 +1,6 @@
 {
   "facility_code": "15033346",
-  "institution": "Richmond Technical Center",
+  "institution": "RICHMOND TECHNICAL CENTER",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23230",
-  "email": true
+  "ope": null
 }

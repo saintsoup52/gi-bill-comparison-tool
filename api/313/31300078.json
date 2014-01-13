@@ -1,6 +1,6 @@
 {
   "facility_code": "31300078",
-  "institution": "Barcelona Gse",
+  "institution": "BARCELONA GSE",
   "city": "Barcelona",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

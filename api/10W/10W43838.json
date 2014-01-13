@@ -1,6 +1,6 @@
 {
   "facility_code": "10W43838",
-  "institution": "Faa - Philadelphia Navigation/Communications/Environmental System Support Center",
+  "institution": "FAA - PHILADELPHIA NAVIGATION/COMMUNICATIONS/ENVIRONMENTAL SYSTEM SUPPORT CENTER",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19153",
-  "email": true
+  "ope": null
 }

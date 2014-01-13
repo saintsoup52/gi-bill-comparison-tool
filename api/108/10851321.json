@@ -1,6 +1,6 @@
 {
   "facility_code": "10851321",
-  "institution": "Billerica Fire Department",
+  "institution": "BILLERICA FIRE DEPARTMENT",
   "city": "Billerica",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1821",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "18506132",
-  "institution": "Boces Rockland County",
+  "institution": "BOCES ROCKLAND COUNTY",
   "city": "West Nyack",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "10994",
-  "email": true
+  "ope": "02272900"
 }

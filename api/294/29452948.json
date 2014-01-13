@@ -1,6 +1,6 @@
 {
   "facility_code": "29452948",
-  "institution": "Data Usa",
+  "institution": "DATA USA",
   "city": "Martinsburg",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25401",
-  "email": false
+  "ope": null
 }

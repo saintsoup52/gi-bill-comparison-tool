@@ -1,6 +1,6 @@
 {
   "facility_code": "10592613",
-  "institution": "Hillside Police Department",
+  "institution": "HILLSIDE POLICE DEPARTMENT",
   "city": "Hillside",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60162",
-  "email": true
+  "ope": null
 }

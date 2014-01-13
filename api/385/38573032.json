@@ -1,6 +1,6 @@
 {
   "facility_code": "38573032",
-  "institution": "New York University Hospitals Center/Rusk Inst.",
+  "institution": "NEW YORK UNIVERSITY HOSPITALS CENTER/RUSK INST.",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10016",
-  "email": true
+  "ope": null
 }

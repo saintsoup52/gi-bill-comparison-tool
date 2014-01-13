@@ -1,6 +1,6 @@
 {
   "facility_code": "10109620",
-  "institution": "Federal Correction Institution - Cumberland Maryland",
+  "institution": "FEDERAL CORRECTION INSTITUTION - CUMBERLAND MARYLAND",
   "city": "Cumberland",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21502",
-  "email": true
+  "ope": null
 }

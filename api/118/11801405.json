@@ -1,6 +1,6 @@
 {
   "facility_code": "11801405",
-  "institution": "Uc Berkeley Extension (Chapter 31 Only)",
+  "institution": "UC BERKELEY EXTENSION (CHAPTER 31 ONLY)",
   "city": "Berkeley",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94720",
-  "email": false
+  "ope": "00131200"
 }

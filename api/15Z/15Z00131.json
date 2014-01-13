@@ -1,6 +1,6 @@
 {
   "facility_code": "15Z00131",
-  "institution": "New Mexico Small Business Dev Ctr",
+  "institution": "NEW MEXICO SMALL BUSINESS DEV CTR",
   "city": "Santa Fe",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87508",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10669125",
-  "institution": "Defense Contract Management Agency",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY",
   "city": "St Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63103",
-  "email": true
+  "ope": null
 }

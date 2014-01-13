@@ -1,6 +1,6 @@
 {
   "facility_code": "31809621",
-  "institution": "Boston University Metropolitan College - Brussels Campus",
+  "institution": "BOSTON UNIVERSITY METROPOLITAN COLLEGE - BRUSSELS CAMPUS",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2215",
-  "email": true
+  "ope": "00213000"
 }

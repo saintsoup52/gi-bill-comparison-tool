@@ -1,6 +1,6 @@
 {
   "facility_code": "31801005",
-  "institution": "University Of La Verne-La Verne",
+  "institution": "UNIVERSITY OF LA VERNE-LA VERNE",
   "city": "La Verne",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "91750",
-  "email": false
+  "ope": "00121600"
 }

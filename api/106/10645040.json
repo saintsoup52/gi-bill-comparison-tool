@@ -1,6 +1,6 @@
 {
   "facility_code": "10645040",
-  "institution": "Lexington Police Department",
+  "institution": "LEXINGTON POLICE DEPARTMENT",
   "city": "Lexington",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29072",
-  "email": true
+  "ope": null
 }

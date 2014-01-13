@@ -1,6 +1,6 @@
 {
   "facility_code": "10070008",
-  "institution": "Federal Aviation Administration",
+  "institution": "FEDERAL AVIATION ADMINISTRATION",
   "city": "New Castle",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19720",
-  "email": true
+  "ope": null
 }

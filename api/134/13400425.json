@@ -1,6 +1,6 @@
 {
   "facility_code": "13400425",
-  "institution": "Truman State University",
+  "institution": "TRUMAN STATE UNIVERSITY",
   "city": "Kirksville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "63501",
-  "email": false
+  "ope": "00249500"
 }

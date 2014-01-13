@@ -1,6 +1,6 @@
 {
   "facility_code": "10C19643",
-  "institution": "Faa Alliance Afw",
+  "institution": "FAA ALLIANCE AFW",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76177",
-  "email": true
+  "ope": null
 }

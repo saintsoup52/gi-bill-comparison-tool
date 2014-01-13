@@ -1,6 +1,6 @@
 {
   "facility_code": "103B1005",
-  "institution": "Lassen County Sheriff'S Department",
+  "institution": "LASSEN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Susanville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96130",
-  "email": false
+  "ope": null
 }

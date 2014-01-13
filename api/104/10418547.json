@@ -1,6 +1,6 @@
 {
   "facility_code": "10418547",
-  "institution": "Longview Police Department",
+  "institution": "LONGVIEW POLICE DEPARTMENT",
   "city": "Longview",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98632",
-  "email": true
+  "ope": null
 }

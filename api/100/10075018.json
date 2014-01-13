@@ -1,6 +1,6 @@
 {
   "facility_code": "10075018",
-  "institution": "City Of Alexandria Recreation Dept (Ch 31)",
+  "institution": "CITY OF ALEXANDRIA RECREATION DEPT (CH 31)",
   "city": "Alexandria",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71307",
-  "email": false
+  "ope": null
 }

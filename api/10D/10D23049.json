@@ -1,6 +1,6 @@
 {
   "facility_code": "10D23049",
-  "institution": "Eau Claire Police Department",
+  "institution": "EAU CLAIRE POLICE DEPARTMENT",
   "city": "Eau Claire",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54702",
-  "email": false
+  "ope": null
 }

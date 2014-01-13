@@ -1,6 +1,6 @@
 {
   "facility_code": "10D22438",
-  "institution": "Naval Sypply Systems Command Weapon Systems Support Philadelphia Pa",
+  "institution": "NAVAL SYPPLY SYSTEMS COMMAND WEAPON SYSTEMS SUPPORT PHILADELPHIA PA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19111",
-  "email": true
+  "ope": null
 }

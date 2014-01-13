@@ -1,6 +1,6 @@
 {
   "facility_code": "10063008",
-  "institution": "Harrington Police Department",
+  "institution": "HARRINGTON POLICE DEPARTMENT",
   "city": "Harrington",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19952",
-  "email": true
+  "ope": null
 }

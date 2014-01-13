@@ -1,6 +1,6 @@
 {
   "facility_code": "10004111",
-  "institution": "Evans County Sherriff'S Department",
+  "institution": "EVANS COUNTY SHERRIFF'S DEPARTMENT",
   "city": "Claxton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30417",
-  "email": false
+  "ope": null
 }

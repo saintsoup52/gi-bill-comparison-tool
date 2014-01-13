@@ -1,6 +1,6 @@
 {
   "facility_code": "10011512",
-  "institution": "Coeur D'Alene Police Department",
+  "institution": "COEUR D'ALENE POLICE DEPARTMENT",
   "city": "Coeur D'Alene",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83815",
-  "email": false
+  "ope": null
 }

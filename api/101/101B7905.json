@@ -1,6 +1,6 @@
 {
   "facility_code": "101B7905",
-  "institution": "Mcas Camp Pendleton   Air Traffic Control Facility",
+  "institution": "MCAS CAMP PENDLETON   AIR TRAFFIC CONTROL FACILITY",
   "city": "Camp Pendleton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92055",
-  "email": false
+  "ope": null
 }

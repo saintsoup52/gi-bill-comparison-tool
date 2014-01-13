@@ -1,6 +1,6 @@
 {
   "facility_code": "10656440",
-  "institution": "Federal Aviation Administration (Faa) Greer Gsp Airport",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) GREER GSP AIRPORT",
   "city": "Greer",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29651",
-  "email": true
+  "ope": null
 }

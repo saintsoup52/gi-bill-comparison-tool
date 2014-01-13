@@ -1,6 +1,6 @@
 {
   "facility_code": "10462647",
-  "institution": "Olympia Police Department - Pto",
+  "institution": "OLYMPIA POLICE DEPARTMENT - PTO",
   "city": "Olympia",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98501",
-  "email": true
+  "ope": null
 }

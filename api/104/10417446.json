@@ -1,6 +1,6 @@
 {
   "facility_code": "10417446",
-  "institution": "Defense Contract Management Agency-Southern Virginia",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY-SOUTHERN VIRGINIA",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23666",
-  "email": true
+  "ope": null
 }

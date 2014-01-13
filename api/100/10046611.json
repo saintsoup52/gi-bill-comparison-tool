@@ -1,6 +1,6 @@
 {
   "facility_code": "10046611",
-  "institution": "Waycross Police Dept City Of",
+  "institution": "WAYCROSS POLICE DEPT CITY OF",
   "city": "Waycross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31501",
-  "email": false
+  "ope": null
 }

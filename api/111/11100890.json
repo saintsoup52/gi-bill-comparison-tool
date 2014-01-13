@@ -1,6 +1,6 @@
 {
   "facility_code": "11100890",
-  "institution": "The University Of Wroclaw",
+  "institution": "THE UNIVERSITY OF WROCLAW",
   "city": "Wroclaw",
   "state": "Poland",
   "country": "Poland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

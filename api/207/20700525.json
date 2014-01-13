@@ -1,6 +1,6 @@
 {
   "facility_code": "20700525",
-  "institution": "At&T",
+  "institution": "AT&T",
   "city": "Florissant",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63031",
-  "email": false
+  "ope": null
 }

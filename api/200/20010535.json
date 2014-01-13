@@ -1,6 +1,6 @@
 {
   "facility_code": "20010535",
-  "institution": "Ford Motor Co Lorain Assembly Plant    K",
+  "institution": "FORD MOTOR CO LORAIN ASSEMBLY PLANT    K",
   "city": "Lorain",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44053",
-  "email": false
+  "ope": null
 }

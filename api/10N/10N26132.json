@@ -1,6 +1,6 @@
 {
   "facility_code": "10N26132",
-  "institution": "Sidney Police Department",
+  "institution": "SIDNEY POLICE DEPARTMENT",
   "city": "Sidney",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13838",
-  "email": false
+  "ope": null
 }

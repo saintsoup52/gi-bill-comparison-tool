@@ -1,6 +1,6 @@
 {
   "facility_code": "20134137",
-  "institution": "Ontario Tatc",
+  "institution": "ONTARIO TATC",
   "city": "Ontario",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97914",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10709113",
-  "institution": "Bond County Sheriff",
+  "institution": "BOND COUNTY SHERIFF",
   "city": "Greenville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62246",
-  "email": true
+  "ope": null
 }

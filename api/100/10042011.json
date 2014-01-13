@@ -1,6 +1,6 @@
 {
   "facility_code": "10042011",
-  "institution": "Henry County Fire Department",
+  "institution": "HENRY COUNTY FIRE DEPARTMENT",
   "city": "Mcdonough",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30253",
-  "email": true
+  "ope": null
 }

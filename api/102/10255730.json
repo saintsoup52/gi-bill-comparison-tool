@@ -1,6 +1,6 @@
 {
   "facility_code": "10255730",
-  "institution": "City Of Trenton Fire Division",
+  "institution": "CITY OF TRENTON FIRE DIVISION",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8618",
-  "email": true
+  "ope": null
 }

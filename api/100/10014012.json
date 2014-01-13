@@ -1,6 +1,6 @@
 {
   "facility_code": "10014012",
-  "institution": "Federal Bureau Of Land Management (Ch 31)",
+  "institution": "FEDERAL BUREAU OF LAND MANAGEMENT (CH 31)",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83705",
-  "email": false
+  "ope": null
 }

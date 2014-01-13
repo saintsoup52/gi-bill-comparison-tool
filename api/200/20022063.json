@@ -1,6 +1,6 @@
 {
   "facility_code": "20022063",
-  "institution": "New Port Sales Inc (Ojt)",
+  "institution": "NEW PORT SALES INC (OJT)",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "922",
-  "email": false
+  "ope": null
 }

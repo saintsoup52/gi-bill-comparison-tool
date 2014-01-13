@@ -1,6 +1,6 @@
 {
   "facility_code": "11000185",
-  "institution": "Tokyo University Of Foreign Studies (Tufs)",
+  "institution": "TOKYO UNIVERSITY OF FOREIGN STUDIES (TUFS)",
   "city": "Fuchu-Shi",
   "state": "Japan",
   "country": "Japan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10900440",
-  "institution": "Department Of The Treasury - Irs",
+  "institution": "DEPARTMENT OF THE TREASURY - IRS",
   "city": "Greenville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29615",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10992601",
-  "institution": "Bessemer Police Department",
+  "institution": "BESSEMER POLICE DEPARTMENT",
   "city": "Bessemer",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35020",
-  "email": false
+  "ope": null
 }

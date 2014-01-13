@@ -1,6 +1,6 @@
 {
   "facility_code": "10A13210",
-  "institution": "Gulfport Police Department",
+  "institution": "GULFPORT POLICE DEPARTMENT",
   "city": "Gulfport",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33707",
-  "email": true
+  "ope": null
 }

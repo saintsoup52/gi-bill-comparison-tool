@@ -1,6 +1,6 @@
 {
   "facility_code": "10203316",
-  "institution": "Douglas County Sheriff",
+  "institution": "DOUGLAS COUNTY SHERIFF",
   "city": "Lawrence",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66044",
-  "email": false
+  "ope": null
 }

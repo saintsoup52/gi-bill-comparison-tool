@@ -1,6 +1,6 @@
 {
   "facility_code": "10229303",
-  "institution": "Faa Scottsdale Air Traffic Control Tower",
+  "institution": "FAA SCOTTSDALE AIR TRAFFIC CONTROL TOWER",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85260",
-  "email": true
+  "ope": null
 }

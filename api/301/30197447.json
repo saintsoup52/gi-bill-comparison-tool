@@ -1,6 +1,6 @@
 {
   "facility_code": "30197447",
-  "institution": "Puget Sound Electrical Jatc",
+  "institution": "PUGET SOUND ELECTRICAL JATC",
   "city": "Renton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98057",
-  "email": true
+  "ope": null
 }

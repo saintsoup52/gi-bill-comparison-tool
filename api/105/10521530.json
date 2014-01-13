@@ -1,6 +1,6 @@
 {
   "facility_code": "10521530",
-  "institution": "New Brunswick Police Department",
+  "institution": "NEW BRUNSWICK POLICE DEPARTMENT",
   "city": "New Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8901",
-  "email": false
+  "ope": null
 }

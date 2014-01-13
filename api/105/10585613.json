@@ -1,6 +1,6 @@
 {
   "facility_code": "10585613",
-  "institution": "Woodstock Police Department",
+  "institution": "WOODSTOCK POLICE DEPARTMENT",
   "city": "Woodstock",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60098",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10486648",
-  "institution": "Federal Aviation Admin(Faa)Clarksburg Navigation/Communications Ssc 84k",
+  "institution": "FEDERAL AVIATION ADMIN(FAA)CLARKSBURG NAVIGATION/COMMUNICATIONS SSC 84K",
   "city": "Bridgeport",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26330",
-  "email": true
+  "ope": null
 }

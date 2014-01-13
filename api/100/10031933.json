@@ -1,6 +1,6 @@
 {
   "facility_code": "10031933",
-  "institution": "City Of High Point Electric Department",
+  "institution": "CITY OF HIGH POINT ELECTRIC DEPARTMENT",
   "city": "High Point",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27261",
-  "email": true
+  "ope": null
 }

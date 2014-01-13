@@ -1,6 +1,6 @@
 {
   "facility_code": "10102128",
-  "institution": "Va Medical Center (Ch31)",
+  "institution": "VA MEDICAL CENTER (CH31)",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89520",
-  "email": false
+  "ope": null
 }

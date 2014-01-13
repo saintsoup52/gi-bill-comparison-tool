@@ -1,6 +1,6 @@
 {
   "facility_code": "20D00538",
-  "institution": "Lackawanna Ambulance",
+  "institution": "LACKAWANNA AMBULANCE",
   "city": "Scranton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18505",
-  "email": true
+  "ope": null
 }

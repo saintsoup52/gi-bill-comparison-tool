@@ -1,6 +1,6 @@
 {
   "facility_code": "10020849",
-  "institution": "Marshfield Electric & Water Department",
+  "institution": "MARSHFIELD ELECTRIC & WATER DEPARTMENT",
   "city": "Marshfield",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54449",
-  "email": false
+  "ope": null
 }

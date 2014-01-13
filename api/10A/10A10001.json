@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10001",
-  "institution": "Jefferson County Family Court",
+  "institution": "JEFFERSON COUNTY FAMILY COURT",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35204",
-  "email": false
+  "ope": null
 }

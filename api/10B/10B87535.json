@@ -1,6 +1,6 @@
 {
   "facility_code": "10B87535",
-  "institution": "Department Of Veterans Affairs",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44199",
-  "email": false
+  "ope": null
 }

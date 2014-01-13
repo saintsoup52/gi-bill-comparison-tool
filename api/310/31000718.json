@@ -1,6 +1,6 @@
 {
   "facility_code": "31000718",
-  "institution": "Loyola University",
+  "institution": "LOYOLA UNIVERSITY",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70118",
-  "email": true
+  "ope": "00201600"
 }

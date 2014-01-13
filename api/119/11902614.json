@@ -1,6 +1,6 @@
 {
   "facility_code": "11902614",
-  "institution": "Purdue University",
+  "institution": "PURDUE UNIVERSITY",
   "city": "West Lafayette",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "47907",
-  "email": true
+  "ope": "00182500"
 }

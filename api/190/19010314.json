@@ -1,6 +1,6 @@
 {
   "facility_code": "19010314",
-  "institution": "U.S. Department Of Veterans Affairs",
+  "institution": "U.S. DEPARTMENT OF VETERANS AFFAIRS",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46805",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10703313",
-  "institution": "Southern Illinois University-Edwardsville Police Department",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY-EDWARDSVILLE POLICE DEPARTMENT",
   "city": "Edwardsville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62026",
-  "email": false
+  "ope": null
 }

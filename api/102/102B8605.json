@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8605",
-  "institution": "Social Security Administration(Torrance)(Chapter 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(TORRANCE)(CHAPTER 31 ONLY)",
   "city": "Torrance",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90509",
-  "email": false
+  "ope": null
 }

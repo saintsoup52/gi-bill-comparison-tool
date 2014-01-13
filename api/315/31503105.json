@@ -1,6 +1,6 @@
 {
   "facility_code": "31503105",
-  "institution": "The Master'S College",
+  "institution": "THE MASTER'S COLLEGE",
   "city": "Santa Clarita",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "91321",
-  "email": false
+  "ope": "00122000"
 }

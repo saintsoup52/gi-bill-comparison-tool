@@ -1,6 +1,6 @@
 {
   "facility_code": "103C0605",
-  "institution": "State Of California Edd (Los Angeles) (Chapter 31 Only)",
+  "institution": "STATE OF CALIFORNIA EDD (LOS ANGELES) (CHAPTER 31 ONLY)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90061",
-  "email": false
+  "ope": null
 }

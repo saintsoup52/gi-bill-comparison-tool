@@ -1,6 +1,6 @@
 {
   "facility_code": "20502817",
-  "institution": "Whayne Supply Company",
+  "institution": "WHAYNE SUPPLY COMPANY",
   "city": "Paducah",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42001",
-  "email": false
+  "ope": null
 }

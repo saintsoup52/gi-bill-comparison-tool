@@ -1,6 +1,6 @@
 {
   "facility_code": "30M55632",
-  "institution": "Laborers' Internation Union Of North America",
+  "institution": "LABORERS' INTERNATION UNION OF NORTH AMERICA",
   "city": "Newburgh",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12550",
-  "email": true
+  "ope": null
 }

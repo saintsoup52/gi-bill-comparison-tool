@@ -1,6 +1,6 @@
 {
   "facility_code": "10714264",
-  "institution": "U.S. Fish And Wildlife Service",
+  "institution": "U.S. FISH AND WILDLIFE SERVICE",
   "city": "Honolulu Hi",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96850",
-  "email": false
+  "ope": null
 }

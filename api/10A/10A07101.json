@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07101",
-  "institution": "Us Army Garrison Engineering Division",
+  "institution": "US ARMY GARRISON ENGINEERING DIVISION",
   "city": "Redstone Arsenal",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35898",
-  "email": false
+  "ope": null
 }

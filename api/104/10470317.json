@@ -1,6 +1,6 @@
 {
   "facility_code": "10470317",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40507",
-  "email": false
+  "ope": null
 }

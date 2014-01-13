@@ -1,6 +1,6 @@
 {
   "facility_code": "10850321",
-  "institution": "Middlesex County Sheriff'S Department",
+  "institution": "MIDDLESEX COUNTY SHERIFF'S DEPARTMENT",
   "city": "Billerica",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1821",
-  "email": false
+  "ope": null
 }

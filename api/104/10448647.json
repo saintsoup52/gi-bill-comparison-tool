@@ -1,6 +1,6 @@
 {
   "facility_code": "10448647",
-  "institution": "Bothell Police Department",
+  "institution": "BOTHELL POLICE DEPARTMENT",
   "city": "Bothell",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98011",
-  "email": true
+  "ope": null
 }

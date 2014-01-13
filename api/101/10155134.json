@@ -1,6 +1,6 @@
 {
   "facility_code": "10155134",
-  "institution": "United States Army Corps Of Engineers",
+  "institution": "UNITED STATES ARMY CORPS OF ENGINEERS",
   "city": "Riverdale",
   "state": "ND",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "58565",
-  "email": false
+  "ope": null
 }

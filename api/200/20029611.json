@@ -1,6 +1,6 @@
 {
   "facility_code": "20029611",
-  "institution": "Emory Eastside Medical Center",
+  "institution": "EMORY EASTSIDE MEDICAL CENTER",
   "city": "Snellville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30087",
-  "email": false
+  "ope": null
 }

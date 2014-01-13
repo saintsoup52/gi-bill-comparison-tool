@@ -1,6 +1,6 @@
 {
   "facility_code": "20B64335",
-  "institution": "Reach (31)",
+  "institution": "REACH (31)",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43229",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11106005",
-  "institution": "San Jose State University",
+  "institution": "SAN JOSE STATE UNIVERSITY",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95192",
-  "email": true
+  "ope": "00115500"
 }

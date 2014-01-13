@@ -1,6 +1,6 @@
 {
   "facility_code": "10612540",
-  "institution": "Sc State University Police Dept",
+  "institution": "SC STATE UNIVERSITY POLICE DEPT",
   "city": "Orangeburg",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29117",
-  "email": false
+  "ope": null
 }

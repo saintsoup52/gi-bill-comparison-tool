@@ -1,6 +1,6 @@
 {
   "facility_code": "30207803",
-  "institution": "Disabled American Veterans Service Office (Ch31 Only)",
+  "institution": "DISABLED AMERICAN VETERANS SERVICE OFFICE (CH31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85012",
-  "email": false
+  "ope": null
 }

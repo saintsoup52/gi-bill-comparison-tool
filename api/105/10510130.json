@@ -1,6 +1,6 @@
 {
   "facility_code": "10510130",
-  "institution": "Freehold Township Police Department",
+  "institution": "FREEHOLD TOWNSHIP POLICE DEPARTMENT",
   "city": "Freehold",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7728",
-  "email": false
+  "ope": null
 }

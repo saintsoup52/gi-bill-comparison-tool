@@ -1,6 +1,6 @@
 {
   "facility_code": "103B6505",
-  "institution": "California State Prison- Solano",
+  "institution": "CALIFORNIA STATE PRISON- SOLANO",
   "city": "Vacaville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95696",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20001126",
-  "institution": "Pch Electric",
+  "institution": "PCH ELECTRIC",
   "city": "Helena",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59604",
-  "email": true
+  "ope": null
 }

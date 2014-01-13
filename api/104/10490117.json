@@ -1,6 +1,6 @@
 {
   "facility_code": "10490117",
-  "institution": "Newport Police Department",
+  "institution": "NEWPORT POLICE DEPARTMENT",
   "city": "Newport",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41071",
-  "email": false
+  "ope": null
 }

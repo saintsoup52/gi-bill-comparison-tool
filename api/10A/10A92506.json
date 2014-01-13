@@ -1,6 +1,6 @@
 {
   "facility_code": "10A92506",
-  "institution": "Faa - Denver Tracon",
+  "institution": "FAA - DENVER TRACON",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80249",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10005833",
-  "institution": "Town Of Tarboro-Dept Of Electric Utilities",
+  "institution": "TOWN OF TARBORO-DEPT OF ELECTRIC UTILITIES",
   "city": "Tarboro",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27886",
-  "email": true
+  "ope": null
 }

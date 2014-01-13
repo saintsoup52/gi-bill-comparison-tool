@@ -1,6 +1,6 @@
 {
   "facility_code": "10C32043",
-  "institution": "Fort Bliss Fire Department",
+  "institution": "FORT BLISS FIRE DEPARTMENT",
   "city": "El Paso",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79916",
-  "email": false
+  "ope": null
 }

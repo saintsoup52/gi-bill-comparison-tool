@@ -1,6 +1,6 @@
 {
   "facility_code": "20425421",
-  "institution": "Mccormick - Allum Company Inc",
+  "institution": "MCCORMICK - ALLUM COMPANY INC",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1104",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10027133",
-  "institution": "Gastonia Police Department",
+  "institution": "GASTONIA POLICE DEPARTMENT",
   "city": "Gastonia",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28052",
-  "email": true
+  "ope": null
 }

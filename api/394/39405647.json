@@ -1,6 +1,6 @@
 {
   "facility_code": "39405647",
-  "institution": "Peninsula Services (Ch31)",
+  "institution": "PENINSULA SERVICES (CH31)",
   "city": "Bremerton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98310",
-  "email": false
+  "ope": null
 }

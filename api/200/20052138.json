@@ -1,6 +1,6 @@
 {
   "facility_code": "20052138",
-  "institution": "Allegheny Co Jact Heat/Piping/Ac Indus",
+  "institution": "ALLEGHENY CO JACT HEAT/PIPING/AC INDUS",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15220",
-  "email": false
+  "ope": null
 }

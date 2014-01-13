@@ -1,6 +1,6 @@
 {
   "facility_code": "10013833",
-  "institution": "Ncdoc - Johnston Correctional Institution",
+  "institution": "NCDOC - JOHNSTON CORRECTIONAL INSTITUTION",
   "city": "Smithfield",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27577",
-  "email": true
+  "ope": null
 }

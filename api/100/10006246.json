@@ -1,6 +1,6 @@
 {
   "facility_code": "10006246",
-  "institution": "Nasa Langley Research Center",
+  "institution": "NASA LANGLEY RESEARCH CENTER",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23681",
-  "email": "No (SCO)"
+  "ope": null
 }

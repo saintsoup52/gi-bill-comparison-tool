@@ -1,6 +1,6 @@
 {
   "facility_code": "10377636",
-  "institution": "Del City Police Department (Wd Eff 020210)",
+  "institution": "DEL CITY POLICE DEPARTMENT (WD EFF 020210)",
   "city": "Del City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73155",
-  "email": false
+  "ope": null
 }

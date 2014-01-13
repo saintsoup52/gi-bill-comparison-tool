@@ -1,6 +1,6 @@
 {
   "facility_code": "10W52438",
-  "institution": "Warren County Prison",
+  "institution": "WARREN COUNTY PRISON",
   "city": "Warren",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16365",
-  "email": true
+  "ope": null
 }

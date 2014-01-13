@@ -1,6 +1,6 @@
 {
   "facility_code": "10418336",
-  "institution": "Blanchard Police Department",
+  "institution": "BLANCHARD POLICE DEPARTMENT",
   "city": "Blanchard",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73010",
-  "email": false
+  "ope": null
 }

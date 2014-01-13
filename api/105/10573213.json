@@ -1,6 +1,6 @@
 {
   "facility_code": "10573213",
-  "institution": "Illinois Department Of Natural Resources",
+  "institution": "ILLINOIS DEPARTMENT OF NATURAL RESOURCES",
   "city": "Keithsburg",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61442",
-  "email": false
+  "ope": null
 }

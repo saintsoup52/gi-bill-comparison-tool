@@ -1,6 +1,6 @@
 {
   "facility_code": "10C37943",
-  "institution": "Texas Health And Human Svc Commission",
+  "institution": "TEXAS HEALTH AND HUMAN SVC COMMISSION",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75224",
-  "email": false
+  "ope": null
 }

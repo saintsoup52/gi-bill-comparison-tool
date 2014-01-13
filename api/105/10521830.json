@@ -1,6 +1,6 @@
 {
   "facility_code": "10521830",
-  "institution": "Manchester Township Police Department",
+  "institution": "MANCHESTER TOWNSHIP POLICE DEPARTMENT",
   "city": "Manchester",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8759",
-  "email": true
+  "ope": null
 }

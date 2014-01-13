@@ -1,6 +1,6 @@
 {
   "facility_code": "20037237",
-  "institution": "Klamath Basin Industrial Tatc",
+  "institution": "KLAMATH BASIN INDUSTRIAL TATC",
   "city": "Klamath Falls",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97603",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20803435",
-  "institution": "United States Steel Corporation Cuyahoga Works K",
+  "institution": "UNITED STATES STEEL CORPORATION CUYAHOGA WORKS K",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44125",
-  "email": false
+  "ope": null
 }

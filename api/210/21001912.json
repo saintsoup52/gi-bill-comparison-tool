@@ -1,6 +1,6 @@
 {
   "facility_code": "21001912",
-  "institution": "Itt Technical Institute - Boise",
+  "institution": "ITT TECHNICAL INSTITUTE - BOISE",
   "city": "Boise",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83713",
-  "email": true
+  "ope": null
 }

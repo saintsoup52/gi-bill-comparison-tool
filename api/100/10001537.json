@@ -1,6 +1,6 @@
 {
   "facility_code": "10001537",
-  "institution": "Us Army Corps Of Engineers (Portland District)",
+  "institution": "US ARMY CORPS OF ENGINEERS (PORTLAND DISTRICT)",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97204",
-  "email": true
+  "ope": null
 }

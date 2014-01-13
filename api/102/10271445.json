@@ -1,6 +1,6 @@
 {
   "facility_code": "10271445",
-  "institution": "Town Of Wilmington",
+  "institution": "TOWN OF WILMINGTON",
   "city": "Wilmington",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5363",
-  "email": false
+  "ope": null
 }

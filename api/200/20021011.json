@@ -1,6 +1,6 @@
 {
   "facility_code": "20021011",
-  "institution": "Lockheed Martin Information Tech Prof. Services (Lmit)",
+  "institution": "LOCKHEED MARTIN INFORMATION TECH PROF. SERVICES (LMIT)",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30909",
-  "email": false
+  "ope": null
 }

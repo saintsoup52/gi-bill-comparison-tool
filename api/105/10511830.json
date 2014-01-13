@@ -1,6 +1,6 @@
 {
   "facility_code": "10511830",
-  "institution": "Ocean County Prosecutor'S Office",
+  "institution": "OCEAN COUNTY PROSECUTOR'S OFFICE",
   "city": "Toms River",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8754",
-  "email": true
+  "ope": null
 }

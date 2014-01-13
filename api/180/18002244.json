@@ -1,6 +1,6 @@
 {
   "facility_code": "18002244",
-  "institution": "Weber County Sheriff'S Office",
+  "institution": "WEBER COUNTY SHERIFF'S OFFICE",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84404",
-  "email": true
+  "ope": null
 }

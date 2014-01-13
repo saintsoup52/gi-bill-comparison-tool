@@ -1,6 +1,6 @@
 {
   "facility_code": "12801144",
-  "institution": "University Of Utah Hospital",
+  "institution": "UNIVERSITY OF UTAH HOSPITAL",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84132",
-  "email": true
+  "ope": null
 }

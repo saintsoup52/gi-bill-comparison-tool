@@ -1,6 +1,6 @@
 {
   "facility_code": "10019550",
-  "institution": "Va Medical Center",
+  "institution": "VA MEDICAL CENTER",
   "city": "Sheridan",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82801",
-  "email": "No (SCO)"
+  "ope": null
 }

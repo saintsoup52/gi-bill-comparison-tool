@@ -1,6 +1,6 @@
 {
   "facility_code": "10A92206",
-  "institution": "Boulder Police Department",
+  "institution": "BOULDER POLICE DEPARTMENT",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80301",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10046511",
-  "institution": "Us Army Corps Of Engineers (Chatsworth)",
+  "institution": "US ARMY CORPS OF ENGINEERS (CHATSWORTH)",
   "city": "Chatsworth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30705",
-  "email": true
+  "ope": null
 }

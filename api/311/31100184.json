@@ -1,6 +1,6 @@
 {
   "facility_code": "31100184",
-  "institution": "Politecnico Di Milano",
+  "institution": "POLITECNICO DI MILANO",
   "city": "Milan",
   "state": "Italy",
   "country": "Italy",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

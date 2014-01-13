@@ -1,6 +1,6 @@
 {
   "facility_code": "10075211",
-  "institution": "Georgia State Patrol Post - Dui Task Force",
+  "institution": "GEORGIA STATE PATROL POST - DUI TASK FORCE",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30336",
-  "email": true
+  "ope": null
 }

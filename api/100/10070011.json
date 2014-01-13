@@ -1,6 +1,6 @@
 {
   "facility_code": "10070011",
-  "institution": "Health & Human Services (Ch 31 Only)",
+  "institution": "HEALTH & HUMAN SERVICES (CH 31 ONLY)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30341",
-  "email": false
+  "ope": null
 }

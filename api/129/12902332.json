@@ -1,6 +1,6 @@
 {
   "facility_code": "12902332",
-  "institution": "James J. Peters Veterans Administration  Medical Center",
+  "institution": "JAMES J. PETERS VETERANS ADMINISTRATION  MEDICAL CENTER",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10468",
-  "email": true
+  "ope": null
 }

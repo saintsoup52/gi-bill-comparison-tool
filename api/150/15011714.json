@@ -1,6 +1,6 @@
 {
   "facility_code": "15011714",
-  "institution": "Westville Correctional Facility",
+  "institution": "WESTVILLE CORRECTIONAL FACILITY",
   "city": "Westville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46391",
-  "email": true
+  "ope": null
 }

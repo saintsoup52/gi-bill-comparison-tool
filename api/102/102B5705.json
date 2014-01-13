@@ -1,6 +1,6 @@
 {
   "facility_code": "102B5705",
-  "institution": "Faa- Palo Alto Atct",
+  "institution": "FAA- PALO ALTO ATCT",
   "city": "Palo Alto",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94303",
-  "email": false
+  "ope": null
 }

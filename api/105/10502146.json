@@ -1,6 +1,6 @@
 {
   "facility_code": "10502146",
-  "institution": "Department Of Homeland Security Us-Visit",
+  "institution": "DEPARTMENT OF HOMELAND SECURITY US-VISIT",
   "city": "Arlington",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22209",
-  "email": true
+  "ope": null
 }

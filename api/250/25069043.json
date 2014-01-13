@@ -1,6 +1,6 @@
 {
   "facility_code": "25069043",
-  "institution": "Dallas School Of Aeronautics",
+  "institution": "DALLAS SCHOOL OF AERONAUTICS",
   "city": "Addison",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75001",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11881010",
-  "institution": "Florida A&M University",
+  "institution": "FLORIDA A&M UNIVERSITY",
   "city": "Tallahassee",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32307",
-  "email": true
+  "ope": "00148000"
 }

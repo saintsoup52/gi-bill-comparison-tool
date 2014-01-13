@@ -1,6 +1,6 @@
 {
   "facility_code": "32528235",
-  "institution": "Cincinnati Children'S Hospital Medical Center",
+  "institution": "CINCINNATI CHILDREN'S HOSPITAL MEDICAL CENTER",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45229",
-  "email": true
+  "ope": null
 }

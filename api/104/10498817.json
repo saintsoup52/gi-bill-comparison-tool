@@ -1,6 +1,6 @@
 {
   "facility_code": "10498817",
-  "institution": "Sturgis Police Department",
+  "institution": "STURGIS POLICE DEPARTMENT",
   "city": "Sturgis",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42459",
-  "email": false
+  "ope": null
 }

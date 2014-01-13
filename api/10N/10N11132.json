@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11132",
-  "institution": "Herkimer County Sheriff'S Office",
+  "institution": "HERKIMER COUNTY SHERIFF'S OFFICE",
   "city": "Herkimer",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13350",
-  "email": false
+  "ope": null
 }

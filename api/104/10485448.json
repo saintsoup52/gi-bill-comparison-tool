@@ -1,6 +1,6 @@
 {
   "facility_code": "10485448",
-  "institution": "Kanawha County Sheriff'S Department",
+  "institution": "KANAWHA COUNTY SHERIFF'S DEPARTMENT",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25375",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D05438",
-  "institution": "Northeast Philadelphia Tower",
+  "institution": "NORTHEAST PHILADELPHIA TOWER",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19114",
-  "email": true
+  "ope": null
 }

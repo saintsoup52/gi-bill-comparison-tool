@@ -1,6 +1,6 @@
 {
   "facility_code": "10R15938",
-  "institution": "Social Security Administration - Pittsburgh",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - PITTSBURGH",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "email": false
+  "ope": null
 }

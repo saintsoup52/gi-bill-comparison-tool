@@ -1,6 +1,6 @@
 {
   "facility_code": "31100069",
-  "institution": "Bangkok University",
+  "institution": "BANGKOK UNIVERSITY",
   "city": "Bangkok 10110",
   "state": "Thailand",
   "country": "Thailand",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

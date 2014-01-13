@@ -1,6 +1,6 @@
 {
   "facility_code": "10020833",
-  "institution": "Mcas Cherry Point Fire Department",
+  "institution": "MCAS CHERRY POINT FIRE DEPARTMENT",
   "city": "Cherry Point",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28533",
-  "email": true
+  "ope": null
 }

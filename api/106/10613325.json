@@ -1,6 +1,6 @@
 {
   "facility_code": "10613325",
-  "institution": "Carroll County Sheriff'S Dept.",
+  "institution": "CARROLL COUNTY SHERIFF'S DEPT.",
   "city": "Carrollton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64633",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10216940",
-  "institution": "Goodman Correctional Institution",
+  "institution": "GOODMAN CORRECTIONAL INSTITUTION",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29210",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10032133",
-  "institution": "West Buncombe Fire Dept",
+  "institution": "WEST BUNCOMBE FIRE DEPT",
   "city": "Ashevile",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28802",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11509205",
-  "institution": "California State University-Fullerton",
+  "institution": "CALIFORNIA STATE UNIVERSITY-FULLERTON",
   "city": "Fullerton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92831",
-  "email": false
+  "ope": "00113700"
 }

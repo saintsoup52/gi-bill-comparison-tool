@@ -1,6 +1,6 @@
 {
   "facility_code": "10711425",
-  "institution": "Knob Noster Police Department",
+  "institution": "KNOB NOSTER POLICE DEPARTMENT",
   "city": "Knob Noster",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65336",
-  "email": false
+  "ope": null
 }

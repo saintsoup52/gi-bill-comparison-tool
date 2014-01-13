@@ -1,6 +1,6 @@
 {
   "facility_code": "10A08810",
-  "institution": "Federal Aviation Admin (Faa) Region Sw / Ft. Myers System Support Center",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) REGION SW / FT. MYERS SYSTEM SUPPORT CENTER",
   "city": "Ft. Myers",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33913",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31505305",
-  "institution": "California Institute Of Technology",
+  "institution": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
   "city": "Pasadena",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "91125",
-  "email": false
+  "ope": "00113100"
 }

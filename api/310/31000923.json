@@ -1,6 +1,6 @@
 {
   "facility_code": "31000923",
-  "institution": "Gustavus Adolphus College",
+  "institution": "GUSTAVUS ADOLPHUS COLLEGE",
   "city": "St Peter",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "56082",
-  "email": true
+  "ope": "00235300"
 }

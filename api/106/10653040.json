@@ -1,6 +1,6 @@
 {
   "facility_code": "10653040",
-  "institution": "Federal Correctional Institution (Estill)",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION (ESTILL)",
   "city": "Estill",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29918",
-  "email": true
+  "ope": null
 }

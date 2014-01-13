@@ -1,6 +1,6 @@
 {
   "facility_code": "10A92406",
-  "institution": "Faa - Colorado Springs (Tower)",
+  "institution": "FAA - COLORADO SPRINGS (TOWER)",
   "city": "Peterson Afb",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80914",
-  "email": true
+  "ope": null
 }

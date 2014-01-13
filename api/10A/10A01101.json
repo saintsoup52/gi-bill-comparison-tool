@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01101",
-  "institution": "Alabama Department Of Public Safety Opelika Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY OPELIKA POST",
   "city": "Opelika",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36801",
-  "email": false
+  "ope": null
 }

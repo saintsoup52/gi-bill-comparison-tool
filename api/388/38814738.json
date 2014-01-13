@@ -1,6 +1,6 @@
 {
   "facility_code": "38814738",
-  "institution": "Abilitech",
+  "institution": "ABILITECH",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19104",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20633825",
-  "institution": "Wal-Mart Distribution Center - Moberly",
+  "institution": "WAL-MART DISTRIBUTION CENTER - MOBERLY",
   "city": "Moberly",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65270",
-  "email": false
+  "ope": null
 }

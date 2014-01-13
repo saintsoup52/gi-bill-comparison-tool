@@ -1,6 +1,6 @@
 {
   "facility_code": "10502115",
-  "institution": "Dubuque Police Department",
+  "institution": "DUBUQUE POLICE DEPARTMENT",
   "city": "Dubuque",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52001",
-  "email": false
+  "ope": null
 }

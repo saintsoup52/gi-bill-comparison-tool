@@ -1,6 +1,6 @@
 {
   "facility_code": "10658925",
-  "institution": "Missouri Army National Guard - Fms #1",
+  "institution": "MISSOURI ARMY NATIONAL GUARD - FMS #1",
   "city": "Raytown",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64138",
-  "email": true
+  "ope": null
 }

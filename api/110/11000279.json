@@ -1,6 +1,6 @@
 {
   "facility_code": "11000279",
-  "institution": "Universite Nancy 2",
+  "institution": "UNIVERSITE NANCY 2",
   "city": "54015 Nancy Cedex",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

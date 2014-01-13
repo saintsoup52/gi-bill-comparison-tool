@@ -1,6 +1,6 @@
 {
   "facility_code": "32100492",
-  "institution": "Universidad Del  Valle",
+  "institution": "UNIVERSIDAD DEL  VALLE",
   "city": "Cochabamba",
   "state": "Bolivia",
   "country": "Bolivia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

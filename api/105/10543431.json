@@ -1,6 +1,6 @@
 {
   "facility_code": "10543431",
-  "institution": "City Of Rio Rancho",
+  "institution": "CITY OF RIO RANCHO",
   "city": "Rio Rancho",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87144",
-  "email": false
+  "ope": null
 }

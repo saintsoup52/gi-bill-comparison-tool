@@ -1,6 +1,6 @@
 {
   "facility_code": "12949335",
-  "institution": "Parma Community General Hosp Emergency Services Ed",
+  "institution": "PARMA COMMUNITY GENERAL HOSP EMERGENCY SERVICES ED",
   "city": "Parma",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44134",
-  "email": false
+  "ope": null
 }

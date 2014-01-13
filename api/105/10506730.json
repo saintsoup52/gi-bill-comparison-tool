@@ -1,6 +1,6 @@
 {
   "facility_code": "10506730",
-  "institution": "Hackettstown Police Department",
+  "institution": "HACKETTSTOWN POLICE DEPARTMENT",
   "city": "Hackettstown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7840",
-  "email": false
+  "ope": null
 }

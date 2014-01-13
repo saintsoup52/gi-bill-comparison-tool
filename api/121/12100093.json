@@ -1,6 +1,6 @@
 {
   "facility_code": "12100093",
-  "institution": "Karolinska Institutet",
+  "institution": "KAROLINSKA INSTITUTET",
   "city": "S-104 01 Stockholm",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": "No (SCO)"
+  "ope": null
 }

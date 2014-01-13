@@ -1,6 +1,6 @@
 {
   "facility_code": "10010311",
-  "institution": "Coffee Correctional Facility",
+  "institution": "COFFEE CORRECTIONAL FACILITY",
   "city": "Nichols",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31554",
-  "email": true
+  "ope": null
 }

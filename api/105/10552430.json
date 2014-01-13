@@ -1,6 +1,6 @@
 {
   "facility_code": "10552430",
-  "institution": "Pemberton Borough Police Department",
+  "institution": "PEMBERTON BOROUGH POLICE DEPARTMENT",
   "city": "Pemberton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8068",
-  "email": true
+  "ope": null
 }

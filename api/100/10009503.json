@@ -1,6 +1,6 @@
 {
   "facility_code": "10009503",
-  "institution": "Us Dept Of Energy Western Area Power Admin",
+  "institution": "US DEPT OF ENERGY WESTERN AREA POWER ADMIN",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85005",
-  "email": false
+  "ope": null
 }

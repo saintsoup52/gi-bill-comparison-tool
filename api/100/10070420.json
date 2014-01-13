@@ -1,6 +1,6 @@
 {
   "facility_code": "10070420",
-  "institution": "Annapolis Fire Departmet Jac",
+  "institution": "ANNAPOLIS FIRE DEPARTMET JAC",
   "city": "Annapolis",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21401",
-  "email": false
+  "ope": null
 }

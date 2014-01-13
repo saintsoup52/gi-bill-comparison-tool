@@ -1,6 +1,6 @@
 {
   "facility_code": "15Z00226",
-  "institution": "Montana Community Development Corp (Sbdc)",
+  "institution": "MONTANA COMMUNITY DEVELOPMENT CORP (SBDC)",
   "city": "Missoula",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59802",
-  "email": false
+  "ope": null
 }

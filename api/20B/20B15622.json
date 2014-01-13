@@ -1,6 +1,6 @@
 {
   "facility_code": "20B15622",
-  "institution": "Ac Rochester--Grand Rapids",
+  "institution": "AC ROCHESTER--GRAND RAPIDS",
   "city": "Grand Rapids",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49501",
-  "email": false
+  "ope": null
 }

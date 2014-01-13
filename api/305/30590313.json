@@ -1,6 +1,6 @@
 {
   "facility_code": "30590313",
-  "institution": "Exelon Nuclear Byron Station",
+  "institution": "EXELON NUCLEAR BYRON STATION",
   "city": "Byron",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61010",
-  "email": true
+  "ope": null
 }

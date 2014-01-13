@@ -1,6 +1,6 @@
 {
   "facility_code": "10595513",
-  "institution": "Algonquin Police Department",
+  "institution": "ALGONQUIN POLICE DEPARTMENT",
   "city": "Algonquin",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60012",
-  "email": true
+  "ope": null
 }

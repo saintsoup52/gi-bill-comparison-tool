@@ -1,6 +1,6 @@
 {
   "facility_code": "32801107",
-  "institution": "Bridgeport Hospital Residencies",
+  "institution": "BRIDGEPORT HOSPITAL RESIDENCIES",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "6610",
-  "email": false
+  "ope": "00618100"
 }

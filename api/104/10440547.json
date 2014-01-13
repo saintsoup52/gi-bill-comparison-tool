@@ -1,6 +1,6 @@
 {
   "facility_code": "10440547",
-  "institution": "Faa Boeing Field Tower Bfi",
+  "institution": "FAA BOEING FIELD TOWER BFI",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98108",
-  "email": true
+  "ope": null
 }

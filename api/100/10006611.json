@@ -1,6 +1,6 @@
 {
   "facility_code": "10006611",
-  "institution": "Liberty Regional Medical Center",
+  "institution": "LIBERTY REGIONAL MEDICAL CENTER",
   "city": "Hinesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31313",
-  "email": false
+  "ope": null
 }

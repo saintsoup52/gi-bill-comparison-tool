@@ -1,6 +1,6 @@
 {
   "facility_code": "10070108",
-  "institution": "Millsboro Police Department",
+  "institution": "MILLSBORO POLICE DEPARTMENT",
   "city": "Millsboro",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19966",
-  "email": false
+  "ope": null
 }

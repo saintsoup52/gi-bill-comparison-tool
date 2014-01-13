@@ -1,6 +1,6 @@
 {
   "facility_code": "10672636",
-  "institution": "Va Medical Center-Okc (Ch 31 Only)",
+  "institution": "VA MEDICAL CENTER-OKC (CH 31 ONLY)",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73104",
-  "email": false
+  "ope": null
 }

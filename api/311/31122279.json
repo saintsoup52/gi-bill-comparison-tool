@@ -1,6 +1,6 @@
 {
   "facility_code": "31122279",
-  "institution": "Universite De Bourgogne",
+  "institution": "UNIVERSITE DE BOURGOGNE",
   "city": "21014 Dijon Cedex",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

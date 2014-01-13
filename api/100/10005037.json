@@ -1,6 +1,6 @@
 {
   "facility_code": "10005037",
-  "institution": "Cottage Grove Police Department",
+  "institution": "COTTAGE GROVE POLICE DEPARTMENT",
   "city": "Cottage Grove",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97424",
-  "email": true
+  "ope": null
 }

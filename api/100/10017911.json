@@ -1,6 +1,6 @@
 {
   "facility_code": "10017911",
-  "institution": "Georgia State Patrol - Post 05 (Dalton)",
+  "institution": "GEORGIA STATE PATROL - POST 05 (DALTON)",
   "city": "Dalton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30720",
-  "email": true
+  "ope": null
 }

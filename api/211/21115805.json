@@ -1,6 +1,6 @@
 {
   "facility_code": "21115805",
-  "institution": "Abraham Lincoln University",
+  "institution": "ABRAHAM LINCOLN UNIVERSITY",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90010",
-  "email": false
+  "ope": "NONE"
 }

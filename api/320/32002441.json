@@ -1,6 +1,6 @@
 {
   "facility_code": "32002441",
-  "institution": "Sioux Valley Hosptial",
+  "institution": "SIOUX VALLEY HOSPTIAL",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57117",
-  "email": false
+  "ope": null
 }

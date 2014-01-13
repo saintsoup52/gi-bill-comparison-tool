@@ -1,6 +1,6 @@
 {
   "facility_code": "10N20632",
-  "institution": "New York State Department Of Transportation - Mexico",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - MEXICO",
   "city": "Mexico",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13114",
-  "email": false
+  "ope": null
 }

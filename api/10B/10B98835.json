@@ -1,6 +1,6 @@
 {
   "facility_code": "10B98835",
-  "institution": "Social Security Administration - Wooster",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - WOOSTER",
   "city": "Wooster",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44691",
-  "email": true
+  "ope": null
 }

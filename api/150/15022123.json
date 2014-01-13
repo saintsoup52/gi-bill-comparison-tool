@@ -1,6 +1,6 @@
 {
   "facility_code": "15022123",
-  "institution": "Edina High School",
+  "institution": "EDINA HIGH SCHOOL",
   "city": "Edina",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55439",
-  "email": false
+  "ope": null
 }

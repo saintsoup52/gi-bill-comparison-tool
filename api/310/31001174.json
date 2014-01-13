@@ -1,6 +1,6 @@
 {
   "facility_code": "31001174",
-  "institution": "The Honorable Society Of King'S Inns",
+  "institution": "THE HONORABLE SOCIETY OF KING'S INNS",
   "city": "Dublin 1",
   "state": "Ireland",
   "country": "Ireland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

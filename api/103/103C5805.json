@@ -1,6 +1,6 @@
 {
   "facility_code": "103C5805",
-  "institution": "Environmental Protection Agency (Ch31 Only)",
+  "institution": "ENVIRONMENTAL PROTECTION AGENCY (CH31 ONLY)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94105",
-  "email": false
+  "ope": null
 }

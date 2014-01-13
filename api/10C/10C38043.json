@@ -1,6 +1,6 @@
 {
   "facility_code": "10C38043",
-  "institution": "Dcma Lockheed Martin Fort Worth",
+  "institution": "DCMA LOCKHEED MARTIN FORT WORTH",
   "city": "Fort Worth",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76108",
-  "email": false
+  "ope": null
 }

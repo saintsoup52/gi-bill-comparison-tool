@@ -1,6 +1,6 @@
 {
   "facility_code": "15106831",
-  "institution": "Los Alamos Fire Department Academy",
+  "institution": "LOS ALAMOS FIRE DEPARTMENT ACADEMY",
   "city": "Los Alamos",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87544",
-  "email": true
+  "ope": null
 }

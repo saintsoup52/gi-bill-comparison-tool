@@ -1,6 +1,6 @@
 {
   "facility_code": "31967110",
-  "institution": "University Of Miami",
+  "institution": "UNIVERSITY OF MIAMI",
   "city": "Coral Gables",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "33124",
-  "email": true
+  "ope": "00153600"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09832",
-  "institution": "Yonkers Fire Department - Station 14",
+  "institution": "YONKERS FIRE DEPARTMENT - STATION 14",
   "city": "Yonkers",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10701",
-  "email": false
+  "ope": null
 }

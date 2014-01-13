@@ -1,6 +1,6 @@
 {
   "facility_code": "11102974",
-  "institution": "The University Of Liverpool",
+  "institution": "THE UNIVERSITY OF LIVERPOOL",
   "city": "Liverpool",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

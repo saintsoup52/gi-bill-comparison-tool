@@ -1,6 +1,6 @@
 {
   "facility_code": "25000139",
-  "institution": "New Horizons Computer Learning Center Of Rhode Island",
+  "institution": "NEW HORIZONS COMPUTER LEARNING CENTER OF RHODE ISLAND",
   "city": "Providence",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2908",
-  "email": true
+  "ope": null
 }

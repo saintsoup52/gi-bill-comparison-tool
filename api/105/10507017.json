@@ -1,6 +1,6 @@
 {
   "facility_code": "10507017",
-  "institution": "Elkhorn City Police Department",
+  "institution": "ELKHORN CITY POLICE DEPARTMENT",
   "city": "Elkhorn City",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41522",
-  "email": false
+  "ope": null
 }

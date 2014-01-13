@@ -1,6 +1,6 @@
 {
   "facility_code": "10108926",
-  "institution": "City Of Hamilton",
+  "institution": "CITY OF HAMILTON",
   "city": "Hamilton",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59840",
-  "email": false
+  "ope": null
 }

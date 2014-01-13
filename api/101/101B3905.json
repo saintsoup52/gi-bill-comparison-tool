@@ -1,6 +1,6 @@
 {
   "facility_code": "101B3905",
-  "institution": "California Highway Patrol-Redwood City Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL-REDWOOD CITY AREA",
   "city": "Redwood City",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94063",
-  "email": false
+  "ope": null
 }

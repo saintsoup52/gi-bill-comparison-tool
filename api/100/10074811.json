@@ -1,6 +1,6 @@
 {
   "facility_code": "10074811",
-  "institution": "Department Of Administrative Services",
+  "institution": "DEPARTMENT OF ADMINISTRATIVE SERVICES",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30334",
-  "email": true
+  "ope": null
 }

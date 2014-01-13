@@ -1,6 +1,6 @@
 {
   "facility_code": "10075011",
-  "institution": "North Georgia Detention Facility",
+  "institution": "NORTH GEORGIA DETENTION FACILITY",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30501",
-  "email": true
+  "ope": null
 }

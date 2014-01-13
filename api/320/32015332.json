@@ -1,6 +1,6 @@
 {
   "facility_code": "32015332",
-  "institution": "Long Island Jewish Medical Center",
+  "institution": "LONG ISLAND JEWISH MEDICAL CENTER",
   "city": "Great Neck",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11021",
-  "email": false
+  "ope": null
 }

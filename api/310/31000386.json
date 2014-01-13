@@ -1,6 +1,6 @@
 {
   "facility_code": "31000386",
-  "institution": "Universidad Vizcaya De Las Americas",
+  "institution": "UNIVERSIDAD VIZCAYA DE LAS AMERICAS",
   "city": "Uruapan",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

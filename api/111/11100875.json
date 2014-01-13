@@ -1,6 +1,6 @@
 {
   "facility_code": "11100875",
-  "institution": "University Of Saskatchewan",
+  "institution": "UNIVERSITY OF SASKATCHEWAN",
   "city": "Saskatoon",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

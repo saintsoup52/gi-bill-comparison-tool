@@ -1,6 +1,6 @@
 {
   "facility_code": "31117970",
-  "institution": "Central Institute Of Tech",
+  "institution": "CENTRAL INSTITUTE OF TECH",
   "city": "Perth",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10R07938",
-  "institution": "Mercer County Prison",
+  "institution": "MERCER COUNTY PRISON",
   "city": "Mercer",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16137",
-  "email": true
+  "ope": null
 }

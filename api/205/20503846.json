@@ -1,6 +1,6 @@
 {
   "facility_code": "20503846",
-  "institution": "Great Clips",
+  "institution": "GREAT CLIPS",
   "city": "Glen Allen",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23060",
-  "email": true
+  "ope": null
 }

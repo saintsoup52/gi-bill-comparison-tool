@@ -1,6 +1,6 @@
 {
   "facility_code": "10N46732",
-  "institution": "Internal Revenue Service",
+  "institution": "INTERNAL REVENUE SERVICE",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14202",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20262819",
-  "institution": "City Of Portland",
+  "institution": "CITY OF PORTLAND",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4104",
-  "email": false
+  "ope": null
 }

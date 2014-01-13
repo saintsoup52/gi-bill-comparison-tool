@@ -1,6 +1,6 @@
 {
   "facility_code": "11108874",
-  "institution": "City University London",
+  "institution": "CITY UNIVERSITY LONDON",
   "city": "London",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

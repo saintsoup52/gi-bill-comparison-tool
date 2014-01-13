@@ -1,6 +1,6 @@
 {
   "facility_code": "10053402",
-  "institution": "Faa Anchorage Zan Comm",
+  "institution": "FAA ANCHORAGE ZAN COMM",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99506",
-  "email": false
+  "ope": null
 }

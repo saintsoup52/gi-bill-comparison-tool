@@ -1,6 +1,6 @@
 {
   "facility_code": "15000502",
-  "institution": "Recreation Department",
+  "institution": "RECREATION DEPARTMENT",
   "city": "Ft Richardson",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99505",
-  "email": false
+  "ope": null
 }

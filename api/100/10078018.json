@@ -1,6 +1,6 @@
 {
   "facility_code": "10078018",
-  "institution": "Social Security Administration (Ch 31)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (CH 31)",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71105",
-  "email": false
+  "ope": null
 }

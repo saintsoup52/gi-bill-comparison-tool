@@ -1,6 +1,6 @@
 {
   "facility_code": "20B14422",
-  "institution": "Cpc Engineering Center",
+  "institution": "CPC ENGINEERING CENTER",
   "city": "Warren",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48090",
-  "email": false
+  "ope": null
 }

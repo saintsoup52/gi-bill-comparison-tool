@@ -1,6 +1,6 @@
 {
   "facility_code": "10006537",
-  "institution": "Beaverton Police Department",
+  "institution": "BEAVERTON POLICE DEPARTMENT",
   "city": "Beaverton",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97076",
-  "email": true
+  "ope": null
 }

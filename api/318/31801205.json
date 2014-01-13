@@ -1,6 +1,6 @@
 {
   "facility_code": "31801205",
-  "institution": "University Of La Verne (Vandenberg Afb)",
+  "institution": "UNIVERSITY OF LA VERNE (VANDENBERG AFB)",
   "city": "Vandenberg Afb",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93437",
-  "email": true
+  "ope": "00121609"
 }

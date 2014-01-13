@@ -1,6 +1,6 @@
 {
   "facility_code": "25002037",
-  "institution": "Infotec",
+  "institution": "INFOTEC",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97223",
-  "email": "No (SCO)"
+  "ope": null
 }

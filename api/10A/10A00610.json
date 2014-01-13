@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00610",
-  "institution": "Spessard Holland Golf Course (Brevard County)",
+  "institution": "SPESSARD HOLLAND GOLF COURSE (BREVARD COUNTY)",
   "city": "Melbourne Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32951",
-  "email": true
+  "ope": null
 }

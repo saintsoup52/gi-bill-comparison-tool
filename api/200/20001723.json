@@ -1,6 +1,6 @@
 {
   "facility_code": "20001723",
-  "institution": "North Central States Regional Training Ctr",
+  "institution": "NORTH CENTRAL STATES REGIONAL TRAINING CTR",
   "city": "St. Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55130",
-  "email": false
+  "ope": null
 }

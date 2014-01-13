@@ -1,6 +1,6 @@
 {
   "facility_code": "20A10701",
-  "institution": "Thompson Tractor Company Inc.",
+  "institution": "THOMPSON TRACTOR COMPANY INC.",
   "city": "Tarrant",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35217",
-  "email": true
+  "ope": null
 }

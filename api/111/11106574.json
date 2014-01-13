@@ -1,6 +1,6 @@
 {
   "facility_code": "11106574",
-  "institution": "University Of Oxford",
+  "institution": "UNIVERSITY OF OXFORD",
   "city": "Oxford",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11101780",
-  "institution": "Goethe University Frankfurt",
+  "institution": "GOETHE UNIVERSITY FRANKFURT",
   "city": "Frankfurt Am Main",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

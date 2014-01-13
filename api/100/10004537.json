@@ -1,6 +1,6 @@
 {
   "facility_code": "10004537",
-  "institution": "Hillsboro Police Department",
+  "institution": "HILLSBORO POLICE DEPARTMENT",
   "city": "Hillsboro",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97123",
-  "email": true
+  "ope": null
 }

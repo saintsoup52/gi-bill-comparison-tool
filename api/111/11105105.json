@@ -1,6 +1,6 @@
 {
   "facility_code": "11105105",
-  "institution": "San Diego Unified School District",
+  "institution": "SAN DIEGO UNIFIED SCHOOL DISTRICT",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92109",
-  "email": false
+  "ope": null
 }

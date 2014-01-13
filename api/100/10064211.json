@@ -1,6 +1,6 @@
 {
   "facility_code": "10064211",
-  "institution": "Cornelia Police Department",
+  "institution": "CORNELIA POLICE DEPARTMENT",
   "city": "Cornelia",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30531",
-  "email": true
+  "ope": null
 }

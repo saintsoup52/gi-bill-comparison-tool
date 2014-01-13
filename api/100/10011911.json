@@ -1,6 +1,6 @@
 {
   "facility_code": "10011911",
-  "institution": "Dot/Faa Airway Facilities Division",
+  "institution": "DOT/FAA AIRWAY FACILITIES DIVISION",
   "city": "Hampton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30228",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C11843",
-  "institution": "Texas Veterans Commission Region Iv",
+  "institution": "TEXAS VETERANS COMMISSION REGION IV",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77227",
-  "email": false
+  "ope": null
 }

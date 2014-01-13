@@ -1,6 +1,6 @@
 {
   "facility_code": "103C2905",
-  "institution": "Faa- Lawndale (Chapter 31 Only)",
+  "institution": "FAA- LAWNDALE (CHAPTER 31 ONLY)",
   "city": "Lawndale",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90261",
-  "email": false
+  "ope": null
 }

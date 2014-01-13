@@ -1,6 +1,6 @@
 {
   "facility_code": "10998401",
-  "institution": "Decatur Police Training Center",
+  "institution": "DECATUR POLICE TRAINING CENTER",
   "city": "Decatur",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35603",
-  "email": false
+  "ope": null
 }

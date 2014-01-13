@@ -1,6 +1,6 @@
 {
   "facility_code": "10N35820",
-  "institution": "Us Customs And Border Protection - Baltimore",
+  "institution": "US CUSTOMS AND BORDER PROTECTION - BALTIMORE",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21202",
-  "email": true
+  "ope": null
 }

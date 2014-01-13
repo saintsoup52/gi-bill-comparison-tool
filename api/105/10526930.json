@@ -1,6 +1,6 @@
 {
   "facility_code": "10526930",
-  "institution": "Red Bank Police Department",
+  "institution": "RED BANK POLICE DEPARTMENT",
   "city": "Red Ba Nk",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7701",
-  "email": true
+  "ope": null
 }

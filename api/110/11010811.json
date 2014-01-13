@@ -1,6 +1,6 @@
 {
   "facility_code": "11010811",
-  "institution": "Georgia Gwinnett College",
+  "institution": "GEORGIA GWINNETT COLLEGE",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30043",
-  "email": true
+  "ope": "04142900"
 }

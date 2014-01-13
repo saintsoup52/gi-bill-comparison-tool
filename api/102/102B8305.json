@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8305",
-  "institution": "Glendale Police Department",
+  "institution": "GLENDALE POLICE DEPARTMENT",
   "city": "Glendale",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91206",
-  "email": false
+  "ope": null
 }

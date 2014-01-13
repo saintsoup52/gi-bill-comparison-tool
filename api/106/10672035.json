@@ -1,6 +1,6 @@
 {
   "facility_code": "10672035",
-  "institution": "National Weather Service    C0",
+  "institution": "NATIONAL WEATHER SERVICE    C0",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43219",
-  "email": "No (SCO)"
+  "ope": null
 }

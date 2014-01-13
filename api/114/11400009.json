@@ -1,6 +1,6 @@
 {
   "facility_code": "11400009",
-  "institution": "University Of The District Of Columbia",
+  "institution": "UNIVERSITY OF THE DISTRICT OF COLUMBIA",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20008",
-  "email": false
+  "ope": "00144100"
 }

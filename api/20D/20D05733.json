@@ -1,6 +1,6 @@
 {
   "facility_code": "20D05733",
-  "institution": "C.T. Transportation Llc",
+  "institution": "C.T. TRANSPORTATION LLC",
   "city": "Mocksville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27028",
-  "email": true
+  "ope": null
 }

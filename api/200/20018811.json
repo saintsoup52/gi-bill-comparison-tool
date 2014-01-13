@@ -1,6 +1,6 @@
 {
   "facility_code": "20018811",
-  "institution": "Georgia Power Company Atlanta Region",
+  "institution": "GEORGIA POWER COMPANY ATLANTA REGION",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30312",
-  "email": false
+  "ope": null
 }

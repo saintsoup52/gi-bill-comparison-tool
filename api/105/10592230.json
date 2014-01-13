@@ -1,6 +1,6 @@
 {
   "facility_code": "10592230",
-  "institution": "Branchburg Township Police Department",
+  "institution": "BRANCHBURG TOWNSHIP POLICE DEPARTMENT",
   "city": "Branchburg",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8876",
-  "email": false
+  "ope": null
 }

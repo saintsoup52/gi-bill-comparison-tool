@@ -1,6 +1,6 @@
 {
   "facility_code": "20504446",
-  "institution": "Harris Electric Company Of Virginia Inc",
+  "institution": "HARRIS ELECTRIC COMPANY OF VIRGINIA INC",
   "city": "Richmond",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23230",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10644240",
-  "institution": "Air Traffic Control Facility - Mcas Beaufort",
+  "institution": "AIR TRAFFIC CONTROL FACILITY - MCAS BEAUFORT",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29904",
-  "email": false
+  "ope": null
 }

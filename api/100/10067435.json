@@ -1,6 +1,6 @@
 {
   "facility_code": "10067435",
-  "institution": "East Cleveland Fire Department K",
+  "institution": "EAST CLEVELAND FIRE DEPARTMENT K",
   "city": "East Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44112",
-  "email": false
+  "ope": null
 }

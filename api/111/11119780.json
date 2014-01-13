@@ -1,6 +1,6 @@
 {
   "facility_code": "11119780",
-  "institution": "Albert-Ludwigs Universitat Freiburg",
+  "institution": "ALBERT-LUDWIGS UNIVERSITAT FREIBURG",
   "city": "Freiburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

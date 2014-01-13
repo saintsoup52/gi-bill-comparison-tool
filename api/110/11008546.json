@@ -1,6 +1,6 @@
 {
   "facility_code": "11008546",
-  "institution": "University Of Maryland University College - Ft. Belvoir",
+  "institution": "UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE - FT. BELVOIR",
   "city": "Ft. Belvoir",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22060",
-  "email": false
+  "ope": null
 }

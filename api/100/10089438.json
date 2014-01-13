@@ -1,6 +1,6 @@
 {
   "facility_code": "10089438",
-  "institution": "City Of Pittsburgh Fire Bureau",
+  "institution": "CITY OF PITTSBURGH FIRE BUREAU",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15219",
-  "email": true
+  "ope": null
 }

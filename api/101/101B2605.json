@@ -1,6 +1,6 @@
 {
   "facility_code": "101B2605",
-  "institution": "Faa- Bakersfield Tower/ Tracon",
+  "institution": "FAA- BAKERSFIELD TOWER/ TRACON",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93308",
-  "email": true
+  "ope": null
 }

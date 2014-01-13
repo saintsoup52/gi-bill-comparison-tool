@@ -1,6 +1,6 @@
 {
   "facility_code": "10500121",
-  "institution": "104th Fighter Wing Barnes Ang Base",
+  "institution": "104TH FIGHTER WING BARNES ANG BASE",
   "city": "Westfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1085",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20589040",
-  "institution": "Mccormick Correctional Institution",
+  "institution": "MCCORMICK CORRECTIONAL INSTITUTION",
   "city": "Mccormick",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29899",
-  "email": true
+  "ope": null
 }

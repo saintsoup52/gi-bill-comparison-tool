@@ -1,6 +1,6 @@
 {
   "facility_code": "10R04438",
-  "institution": "Department Of Housing And Urban Development",
+  "institution": "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19107",
-  "email": false
+  "ope": null
 }

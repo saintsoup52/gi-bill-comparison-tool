@@ -1,6 +1,6 @@
 {
   "facility_code": "10072811",
-  "institution": "Georgia Bureau Of Investigations",
+  "institution": "GEORGIA BUREAU OF INVESTIGATIONS",
   "city": "Carrollton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30117",
-  "email": true
+  "ope": null
 }

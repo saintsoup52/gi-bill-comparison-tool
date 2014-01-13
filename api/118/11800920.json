@@ -1,6 +1,6 @@
 {
   "facility_code": "11800920",
-  "institution": "University Of Maryland. School Of Social Work",
+  "institution": "UNIVERSITY OF MARYLAND. SCHOOL OF SOCIAL WORK",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21201",
-  "email": true
+  "ope": "00210400"
 }

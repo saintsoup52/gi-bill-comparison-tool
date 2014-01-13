@@ -1,6 +1,6 @@
 {
   "facility_code": "20010114",
-  "institution": "South Bend And Vicinity Electrical Jatc",
+  "institution": "SOUTH BEND AND VICINITY ELECTRICAL JATC",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46619",
-  "email": true
+  "ope": null
 }

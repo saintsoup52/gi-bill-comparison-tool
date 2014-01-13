@@ -1,6 +1,6 @@
 {
   "facility_code": "31004092",
-  "institution": "University Of Cema",
+  "institution": "UNIVERSITY OF CEMA",
   "city": "Buenos Aires",
   "state": "Argentina",
   "country": "Argentina",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

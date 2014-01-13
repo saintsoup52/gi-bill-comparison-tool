@@ -1,6 +1,6 @@
 {
   "facility_code": "10442447",
-  "institution": "King County Department Of Adult & Juvenile Detention",
+  "institution": "KING COUNTY DEPARTMENT OF ADULT & JUVENILE DETENTION",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98104",
-  "email": true
+  "ope": null
 }

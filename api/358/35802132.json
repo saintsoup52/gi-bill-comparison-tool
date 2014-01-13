@@ -1,6 +1,6 @@
 {
   "facility_code": "35802132",
-  "institution": "Art Students League Of New York",
+  "institution": "ART STUDENTS LEAGUE OF NEW YORK",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10019",
-  "email": true
+  "ope": null
 }

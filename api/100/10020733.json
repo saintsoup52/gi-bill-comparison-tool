@@ -1,6 +1,6 @@
 {
   "facility_code": "10020733",
-  "institution": "City Of Fayetteville Police Department",
+  "institution": "CITY OF FAYETTEVILLE POLICE DEPARTMENT",
   "city": "Fayetteville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28301",
-  "email": true
+  "ope": null
 }

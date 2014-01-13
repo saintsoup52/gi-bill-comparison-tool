@@ -1,6 +1,6 @@
 {
   "facility_code": "32929820",
-  "institution": "St. Agnes Hospital - Medical Residency - General Surgery",
+  "institution": "ST. AGNES HOSPITAL - MEDICAL RESIDENCY - GENERAL SURGERY",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21229",
-  "email": true
+  "ope": null
 }

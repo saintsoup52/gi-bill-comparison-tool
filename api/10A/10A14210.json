@@ -1,6 +1,6 @@
 {
   "facility_code": "10A14210",
-  "institution": "Federal Aviation Admn (Faa) Palm Bch Int'L System Service Center",
+  "institution": "FEDERAL AVIATION ADMN (FAA) PALM BCH INT'L SYSTEM SERVICE CENTER",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33406",
-  "email": false
+  "ope": null
 }

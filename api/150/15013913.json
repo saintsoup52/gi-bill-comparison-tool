@@ -1,6 +1,6 @@
 {
   "facility_code": "15013913",
-  "institution": "Larkin High School",
+  "institution": "LARKIN HIGH SCHOOL",
   "city": "Elgin",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60123",
-  "email": false
+  "ope": null
 }

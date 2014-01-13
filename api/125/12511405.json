@@ -1,6 +1,6 @@
 {
   "facility_code": "12511405",
-  "institution": "Dva West Los Angeles Medical Center",
+  "institution": "DVA WEST LOS ANGELES MEDICAL CENTER",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90073",
-  "email": false
+  "ope": null
 }

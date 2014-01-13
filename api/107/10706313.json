@@ -1,6 +1,6 @@
 {
   "facility_code": "10706313",
-  "institution": "North Riverside Police Department",
+  "institution": "NORTH RIVERSIDE POLICE DEPARTMENT",
   "city": "North Riverside",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60546",
-  "email": true
+  "ope": null
 }

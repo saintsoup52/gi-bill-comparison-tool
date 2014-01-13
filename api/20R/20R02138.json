@@ -1,6 +1,6 @@
 {
   "facility_code": "20R02138",
-  "institution": "Us Dept Of Interior Office Of Surface Mining",
+  "institution": "US DEPT OF INTERIOR OFFICE OF SURFACE MINING",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15220",
-  "email": false
+  "ope": null
 }

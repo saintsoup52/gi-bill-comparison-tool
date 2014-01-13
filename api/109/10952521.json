@@ -1,6 +1,6 @@
 {
   "facility_code": "10952521",
-  "institution": "Saugus Police Department",
+  "institution": "SAUGUS POLICE DEPARTMENT",
   "city": "Saugus",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1906",
-  "email": true
+  "ope": null
 }

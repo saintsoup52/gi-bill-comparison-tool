@@ -1,6 +1,6 @@
 {
   "facility_code": "20509242",
-  "institution": "Kaphcc",
+  "institution": "KAPHCC",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37917",
-  "email": false
+  "ope": null
 }

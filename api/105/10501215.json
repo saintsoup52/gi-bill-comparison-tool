@@ -1,6 +1,6 @@
 {
   "facility_code": "10501215",
-  "institution": "Des Moines Area Community College (Ojt)",
+  "institution": "DES MOINES AREA COMMUNITY COLLEGE (OJT)",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50023",
-  "email": true
+  "ope": null
 }

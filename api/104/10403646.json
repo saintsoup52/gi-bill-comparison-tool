@@ -1,6 +1,6 @@
 {
   "facility_code": "10403646",
-  "institution": "Chesapeake Sheriff'S Office",
+  "institution": "CHESAPEAKE SHERIFF'S OFFICE",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23323",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02710",
-  "institution": "Federal Aviation Admin (Faa)  Palm Beach Tracon/Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA)  PALM BEACH TRACON/TOWER",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33406",
-  "email": true
+  "ope": null
 }

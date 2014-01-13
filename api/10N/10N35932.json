@@ -1,6 +1,6 @@
 {
   "facility_code": "10N35932",
-  "institution": "New York City Police Dept. - 122nd Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 122ND PRECINCT",
   "city": "Staten Island",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14085",
-  "email": false
+  "ope": null
 }

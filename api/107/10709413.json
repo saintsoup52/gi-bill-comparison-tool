@@ -1,6 +1,6 @@
 {
   "facility_code": "10709413",
-  "institution": "Collinsville Police Department",
+  "institution": "COLLINSVILLE POLICE DEPARTMENT",
   "city": "Collinsville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62234",
-  "email": true
+  "ope": null
 }

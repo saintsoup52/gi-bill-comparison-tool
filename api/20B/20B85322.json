@@ -1,6 +1,6 @@
 {
   "facility_code": "20B85322",
-  "institution": "Michigan Department Of Corrections Carson City Correctional Facility",
+  "institution": "MICHIGAN DEPARTMENT OF CORRECTIONS CARSON CITY CORRECTIONAL FACILITY",
   "city": "Carson City",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48811",
-  "email": true
+  "ope": null
 }

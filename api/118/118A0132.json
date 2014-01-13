@@ -1,6 +1,6 @@
 {
   "facility_code": "118A0132",
-  "institution": "Lehman College - Cuny",
+  "institution": "LEHMAN COLLEGE - CUNY",
   "city": "Bronx",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10468",
-  "email": true
+  "ope": "00702200"
 }

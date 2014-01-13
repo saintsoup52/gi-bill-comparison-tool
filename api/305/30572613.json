@@ -1,6 +1,6 @@
 {
   "facility_code": "30572613",
-  "institution": "Urbana Police Department",
+  "institution": "URBANA POLICE DEPARTMENT",
   "city": "Urbana",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61801",
-  "email": false
+  "ope": null
 }

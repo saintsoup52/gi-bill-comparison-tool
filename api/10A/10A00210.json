@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00210",
-  "institution": "Cape Coral Fire Department",
+  "institution": "CAPE CORAL FIRE DEPARTMENT",
   "city": "Cape Coral",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33990",
-  "email": true
+  "ope": null
 }

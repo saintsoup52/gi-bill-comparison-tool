@@ -1,6 +1,6 @@
 {
   "facility_code": "10132607",
-  "institution": "U.S. Marshall Service District Of Connecticut",
+  "institution": "U.S. MARSHALL SERVICE DISTRICT OF CONNECTICUT",
   "city": "Bridgeport",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6604",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "21001816",
-  "institution": "Wichita Technical Institute-Wichita",
+  "institution": "WICHITA TECHNICAL INSTITUTE-WICHITA",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "67213",
-  "email": true
+  "ope": "01050300"
 }

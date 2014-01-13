@@ -1,6 +1,6 @@
 {
   "facility_code": "11107674",
-  "institution": "Queen'S University Of Belfast",
+  "institution": "QUEEN'S UNIVERSITY OF BELFAST",
   "city": "Belfast",
   "state": "Northern Ireland",
   "country": "Northern Ireland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

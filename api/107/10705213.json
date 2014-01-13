@@ -1,6 +1,6 @@
 {
   "facility_code": "10705213",
-  "institution": "Cicero Police Department",
+  "institution": "CICERO POLICE DEPARTMENT",
   "city": "Cicero",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60804",
-  "email": false
+  "ope": null
 }

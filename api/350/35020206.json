@@ -1,6 +1,6 @@
 {
   "facility_code": "35020206",
-  "institution": "Highlands Ranch Public Safety Training Institute",
+  "institution": "HIGHLANDS RANCH PUBLIC SAFETY TRAINING INSTITUTE",
   "city": "Littleton",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80125",
-  "email": true
+  "ope": null
 }

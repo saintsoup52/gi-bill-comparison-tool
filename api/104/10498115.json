@@ -1,6 +1,6 @@
 {
   "facility_code": "10498115",
-  "institution": "Federal Aviation Administration-Cedr Rapids Atct",
+  "institution": "FEDERAL AVIATION ADMINISTRATION-CEDR RAPIDS ATCT",
   "city": "Cedar Rapids",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52404",
-  "email": true
+  "ope": null
 }

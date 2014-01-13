@@ -1,6 +1,6 @@
 {
   "facility_code": "20414249",
-  "institution": "The Falk Corporation",
+  "institution": "THE FALK CORPORATION",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53201",
-  "email": false
+  "ope": null
 }

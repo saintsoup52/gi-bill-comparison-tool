@@ -1,6 +1,6 @@
 {
   "facility_code": "10K03338",
-  "institution": "Pennsylvania State Police Troop H - Carlisle",
+  "institution": "PENNSYLVANIA STATE POLICE TROOP H - CARLISLE",
   "city": "Carlisle",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17015",
-  "email": true
+  "ope": null
 }

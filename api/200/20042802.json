@@ -1,6 +1,6 @@
 {
   "facility_code": "20042802",
-  "institution": "Open Systems Inc. (Ch31)",
+  "institution": "OPEN SYSTEMS INC. (CH31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99503",
-  "email": false
+  "ope": null
 }

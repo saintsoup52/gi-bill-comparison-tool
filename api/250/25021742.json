@@ -1,6 +1,6 @@
 {
   "facility_code": "25021742",
-  "institution": "New Horizons Clc Memphis",
+  "institution": "NEW HORIZONS CLC MEMPHIS",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38118",
-  "email": true
+  "ope": null
 }

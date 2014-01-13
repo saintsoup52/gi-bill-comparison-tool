@@ -1,6 +1,6 @@
 {
   "facility_code": "10234503",
-  "institution": "Red Mountain Senior Center",
+  "institution": "RED MOUNTAIN SENIOR CENTER",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85207",
-  "email": false
+  "ope": null
 }

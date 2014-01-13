@@ -1,6 +1,6 @@
 {
   "facility_code": "10296504",
-  "institution": "City Of Russellville",
+  "institution": "CITY OF RUSSELLVILLE",
   "city": "Russellville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72801",
-  "email": false
+  "ope": null
 }

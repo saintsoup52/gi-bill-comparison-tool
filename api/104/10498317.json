@@ -1,6 +1,6 @@
 {
   "facility_code": "10498317",
-  "institution": "Hopkins County Jail",
+  "institution": "HOPKINS COUNTY JAIL",
   "city": "Madisonville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42431",
-  "email": false
+  "ope": null
 }

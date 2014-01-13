@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38132",
-  "institution": "Cayuga Correctional Facility",
+  "institution": "CAYUGA CORRECTIONAL FACILITY",
   "city": "Moravia",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13118",
-  "email": false
+  "ope": null
 }

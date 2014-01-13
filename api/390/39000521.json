@@ -1,6 +1,6 @@
 {
   "facility_code": "39000521",
-  "institution": "Boston Center For Adult Education",
+  "institution": "BOSTON CENTER FOR ADULT EDUCATION",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2116",
-  "email": false
+  "ope": null
 }

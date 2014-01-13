@@ -1,6 +1,6 @@
 {
   "facility_code": "102B1705",
-  "institution": "Faa- Los Angeles Tower",
+  "institution": "FAA- LOS ANGELES TOWER",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90045",
-  "email": false
+  "ope": null
 }

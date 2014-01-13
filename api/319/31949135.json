@@ -1,6 +1,6 @@
 {
   "facility_code": "31949135",
-  "institution": "Cedarville University",
+  "institution": "CEDARVILLE UNIVERSITY",
   "city": "Cedarville",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "45314",
-  "email": true
+  "ope": "00302500"
 }

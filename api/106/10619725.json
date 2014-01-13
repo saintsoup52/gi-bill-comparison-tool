@@ -1,6 +1,6 @@
 {
   "facility_code": "10619725",
-  "institution": "City Of Farmington Police Dept.",
+  "institution": "CITY OF FARMINGTON POLICE DEPT.",
   "city": "Farmington",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63640",
-  "email": false
+  "ope": null
 }

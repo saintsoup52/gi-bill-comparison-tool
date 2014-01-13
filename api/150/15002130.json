@@ -1,6 +1,6 @@
 {
   "facility_code": "15002130",
-  "institution": "Jackson Township School District",
+  "institution": "JACKSON TOWNSHIP SCHOOL DISTRICT",
   "city": "Jackson",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8527",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10508430",
-  "institution": "Essex County Sheriff'S Department",
+  "institution": "ESSEX COUNTY SHERIFF'S DEPARTMENT",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7102",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10008511",
-  "institution": "Albany Regional Youth Detention Center",
+  "institution": "ALBANY REGIONAL YOUTH DETENTION CENTER",
   "city": "Albany",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31701",
-  "email": false
+  "ope": null
 }

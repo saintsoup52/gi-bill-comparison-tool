@@ -1,6 +1,6 @@
 {
   "facility_code": "10N07732",
-  "institution": "New York State University Police - Suny New Paltz",
+  "institution": "NEW YORK STATE UNIVERSITY POLICE - SUNY NEW PALTZ",
   "city": "New Paltz",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12561",
-  "email": false
+  "ope": null
 }

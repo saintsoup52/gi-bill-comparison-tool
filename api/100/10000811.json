@@ -1,6 +1,6 @@
 {
   "facility_code": "10000811",
-  "institution": "Valdosta State Univ - Ojt",
+  "institution": "VALDOSTA STATE UNIV - OJT",
   "city": "Valdosta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31602",
-  "email": false
+  "ope": null
 }

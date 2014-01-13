@@ -1,6 +1,6 @@
 {
   "facility_code": "101B8905",
-  "institution": "California Highway Patrol- Santa Cruz Area",
+  "institution": "CALIFORNIA HIGHWAY PATROL- SANTA CRUZ AREA",
   "city": "Aptos",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95003",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "34000179",
-  "institution": "International School Of Mgmt",
+  "institution": "INTERNATIONAL SCHOOL OF MGMT",
   "city": "Paris",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": "04050300"
 }

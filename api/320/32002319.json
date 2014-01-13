@@ -1,6 +1,6 @@
 {
   "facility_code": "32002319",
-  "institution": "Maine Medical Center",
+  "institution": "MAINE MEDICAL CENTER",
   "city": "Portland",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4102",
-  "email": false
+  "ope": null
 }

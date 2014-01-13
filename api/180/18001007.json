@@ -1,6 +1,6 @@
 {
   "facility_code": "18001007",
-  "institution": "Eli Whitney Technical High School",
+  "institution": "ELI WHITNEY TECHNICAL HIGH SCHOOL",
   "city": "Hamden",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "6514",
-  "email": true
+  "ope": "00730000"
 }

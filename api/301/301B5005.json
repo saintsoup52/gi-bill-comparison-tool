@@ -1,6 +1,6 @@
 {
   "facility_code": "301B5005",
-  "institution": "Oakland And Vicinity Meat Industry Jac",
+  "institution": "OAKLAND AND VICINITY MEAT INDUSTRY JAC",
   "city": "Hayward",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94544",
-  "email": false
+  "ope": null
 }

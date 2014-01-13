@@ -1,6 +1,6 @@
 {
   "facility_code": "10N45432",
-  "institution": "Nypd Patrol Borough Queens South Irt (Impact Response Team)",
+  "institution": "NYPD PATROL BOROUGH QUEENS SOUTH IRT (IMPACT RESPONSE TEAM)",
   "city": "Jamaica",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11432",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "29108428",
-  "institution": "Health South (Ch31)",
+  "institution": "HEALTH SOUTH (CH31)",
   "city": "N Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89030",
-  "email": false
+  "ope": null
 }

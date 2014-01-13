@@ -1,6 +1,6 @@
 {
   "facility_code": "10062214",
-  "institution": "Plainfield Police Department",
+  "institution": "PLAINFIELD POLICE DEPARTMENT",
   "city": "Plainfield",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46168",
-  "email": false
+  "ope": null
 }

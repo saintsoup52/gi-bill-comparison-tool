@@ -1,6 +1,6 @@
 {
   "facility_code": "10N31132",
-  "institution": "New York City Dept. Of Corrections - Rose Singer",
+  "institution": "NEW YORK CITY DEPT. OF CORRECTIONS - ROSE SINGER",
   "city": "East Elmhurst",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11370",
-  "email": true
+  "ope": null
 }

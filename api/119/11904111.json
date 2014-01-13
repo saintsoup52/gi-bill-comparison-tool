@@ -1,6 +1,6 @@
 {
   "facility_code": "11904111",
-  "institution": "Georgia College & State University",
+  "institution": "GEORGIA COLLEGE & STATE UNIVERSITY",
   "city": "Milledgeville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "31061",
-  "email": true
+  "ope": "00160200"
 }

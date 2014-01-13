@@ -1,6 +1,6 @@
 {
   "facility_code": "10830630",
-  "institution": "New Jersey State Park Police",
+  "institution": "NEW JERSEY STATE PARK POLICE",
   "city": "Annandale",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8801",
-  "email": false
+  "ope": null
 }

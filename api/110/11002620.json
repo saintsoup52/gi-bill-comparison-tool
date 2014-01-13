@@ -1,6 +1,6 @@
 {
   "facility_code": "11002620",
-  "institution": "Md State Dept Of Health Community Health Services",
+  "institution": "MD STATE DEPT OF HEALTH COMMUNITY HEALTH SERVICES",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21201",
-  "email": "No (SCO)"
+  "ope": null
 }

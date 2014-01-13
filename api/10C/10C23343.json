@@ -1,6 +1,6 @@
 {
   "facility_code": "10C23343",
-  "institution": "Corpus Christi Police Department",
+  "institution": "CORPUS CHRISTI POLICE DEPARTMENT",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78401",
-  "email": false
+  "ope": null
 }

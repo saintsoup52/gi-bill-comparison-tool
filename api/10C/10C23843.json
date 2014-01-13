@@ -1,6 +1,6 @@
 {
   "facility_code": "10C23843",
-  "institution": "City Of Corpus Christi Water Dept-Waste Water Div",
+  "institution": "CITY OF CORPUS CHRISTI WATER DEPT-WASTE WATER DIV",
   "city": "Corpus Christi",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78401",
-  "email": true
+  "ope": null
 }

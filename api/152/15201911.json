@@ -1,6 +1,6 @@
 {
   "facility_code": "15201911",
-  "institution": "Tucker High School",
+  "institution": "TUCKER HIGH SCHOOL",
   "city": "Tucker",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30084",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "24944503",
-  "institution": "Sonoran Desert Institute",
+  "institution": "SONORAN DESERT INSTITUTE",
   "city": "Scottsdale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85258",
-  "email": true
+  "ope": null
 }

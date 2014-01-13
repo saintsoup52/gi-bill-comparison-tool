@@ -1,6 +1,6 @@
 {
   "facility_code": "10243030",
-  "institution": "Kearny Fire Department",
+  "institution": "KEARNY FIRE DEPARTMENT",
   "city": "Kearny",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7032",
-  "email": false
+  "ope": null
 }

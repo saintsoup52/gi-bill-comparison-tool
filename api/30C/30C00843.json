@@ -1,6 +1,6 @@
 {
   "facility_code": "30C00843",
-  "institution": "East Texas Electrical Jatc",
+  "institution": "EAST TEXAS ELECTRICAL JATC",
   "city": "Longview",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75601",
-  "email": false
+  "ope": null
 }

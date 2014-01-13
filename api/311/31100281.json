@@ -1,6 +1,6 @@
 {
   "facility_code": "31100281",
-  "institution": "Aristotle University Of Thessaloniki (School Of Engineering)",
+  "institution": "ARISTOTLE UNIVERSITY OF THESSALONIKI (SCHOOL OF ENGINEERING)",
   "city": "54006 Thessaloniki",
   "state": "Greece",
   "country": "Greece",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

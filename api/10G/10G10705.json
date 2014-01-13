@@ -1,6 +1,6 @@
 {
   "facility_code": "10G10705",
-  "institution": "Federal Correctional Institution Terminal Island",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION TERMINAL ISLAND",
   "city": "Terminal Island",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90731",
-  "email": false
+  "ope": null
 }

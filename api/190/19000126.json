@@ -1,6 +1,6 @@
 {
   "facility_code": "19000126",
-  "institution": "Montana Veterans Affairs Division",
+  "institution": "MONTANA VETERANS AFFAIRS DIVISION",
   "city": "Kalispell",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59901",
-  "email": false
+  "ope": null
 }

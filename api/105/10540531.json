@@ -1,6 +1,6 @@
 {
   "facility_code": "10540531",
-  "institution": "Us Of Land Management (Ch31)",
+  "institution": "US OF LAND MANAGEMENT (CH31)",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87107",
-  "email": false
+  "ope": null
 }

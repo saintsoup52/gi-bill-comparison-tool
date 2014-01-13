@@ -1,6 +1,6 @@
 {
   "facility_code": "11100270",
-  "institution": "Swinburne University Of Tech",
+  "institution": "SWINBURNE UNIVERSITY OF TECH",
   "city": "Hawthorn",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

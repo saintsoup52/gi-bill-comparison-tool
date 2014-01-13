@@ -1,6 +1,6 @@
 {
   "facility_code": "13000116",
-  "institution": "Emporia State University",
+  "institution": "EMPORIA STATE UNIVERSITY",
   "city": "Emporia",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "66801",
-  "email": true
+  "ope": "00192700"
 }

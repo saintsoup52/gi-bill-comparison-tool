@@ -1,6 +1,6 @@
 {
   "facility_code": "10586813",
-  "institution": "Metropolitan Correctional Center",
+  "institution": "METROPOLITAN CORRECTIONAL CENTER",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60605",
-  "email": true
+  "ope": null
 }

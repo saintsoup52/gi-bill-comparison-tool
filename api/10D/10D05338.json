@@ -1,6 +1,6 @@
 {
   "facility_code": "10D05338",
-  "institution": "Philadelphia International Airport",
+  "institution": "PHILADELPHIA INTERNATIONAL AIRPORT",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19153",
-  "email": true
+  "ope": null
 }

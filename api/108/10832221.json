@@ -1,6 +1,6 @@
 {
   "facility_code": "10832221",
-  "institution": "Massachusetts Army National Guard",
+  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD",
   "city": "Framingham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1702",
-  "email": false
+  "ope": null
 }

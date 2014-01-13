@@ -1,6 +1,6 @@
 {
   "facility_code": "103B3605",
-  "institution": "Social Security Administration(San Fernando)(Chapter 31)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(SAN FERNANDO)(CHAPTER 31)",
   "city": "San Fernando",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91340",
-  "email": false
+  "ope": null
 }

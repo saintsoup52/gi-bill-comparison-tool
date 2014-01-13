@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12810",
-  "institution": "Sarasota County Justice Center",
+  "institution": "SARASOTA COUNTY JUSTICE CENTER",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34237",
-  "email": false
+  "ope": null
 }

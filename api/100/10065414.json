@@ -1,6 +1,6 @@
 {
   "facility_code": "10065414",
-  "institution": "Scottsburg Police Department",
+  "institution": "SCOTTSBURG POLICE DEPARTMENT",
   "city": "Scottsburg",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47170",
-  "email": false
+  "ope": null
 }

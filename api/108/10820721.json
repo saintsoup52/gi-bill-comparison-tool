@@ -1,6 +1,6 @@
 {
   "facility_code": "10820721",
-  "institution": "Newton Fire Department",
+  "institution": "NEWTON FIRE DEPARTMENT",
   "city": "Newton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2459",
-  "email": true
+  "ope": null
 }

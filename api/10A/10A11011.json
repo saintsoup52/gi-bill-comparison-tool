@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11011",
-  "institution": "Johnson State Prison",
+  "institution": "JOHNSON STATE PRISON",
   "city": "Wrightsville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31096",
-  "email": true
+  "ope": null
 }

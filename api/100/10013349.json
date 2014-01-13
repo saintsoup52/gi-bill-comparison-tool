@@ -1,6 +1,6 @@
 {
   "facility_code": "10013349",
-  "institution": "Portage County Sheriffs Dept",
+  "institution": "PORTAGE COUNTY SHERIFFS DEPT",
   "city": "Stevens Point",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54481",
-  "email": false
+  "ope": null
 }

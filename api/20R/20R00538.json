@@ -1,6 +1,6 @@
 {
   "facility_code": "20R00538",
-  "institution": "Us Forest Service Allegheny National Forest",
+  "institution": "US FOREST SERVICE ALLEGHENY NATIONAL FOREST",
   "city": "Warren",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16365",
-  "email": false
+  "ope": null
 }

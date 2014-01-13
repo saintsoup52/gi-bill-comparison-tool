@@ -1,6 +1,6 @@
 {
   "facility_code": "15116448",
-  "institution": "Charleston Job Corp Center",
+  "institution": "CHARLESTON JOB CORP CENTER",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25311",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B91035",
-  "institution": "City Of Westlake Police Department",
+  "institution": "CITY OF WESTLAKE POLICE DEPARTMENT",
   "city": "Westlake",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44145",
-  "email": false
+  "ope": null
 }

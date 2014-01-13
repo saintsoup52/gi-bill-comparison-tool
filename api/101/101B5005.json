@@ -1,6 +1,6 @@
 {
   "facility_code": "101B5005",
-  "institution": "Us Dept Of Interior Us Fish & Wildlife Svc. (Ch 31)",
+  "institution": "US DEPT OF INTERIOR US FISH & WILDLIFE SVC. (CH 31)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95825",
-  "email": false
+  "ope": null
 }

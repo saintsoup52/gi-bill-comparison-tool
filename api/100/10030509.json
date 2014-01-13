@@ -1,6 +1,6 @@
 {
   "facility_code": "10030509",
-  "institution": "Office Of Personnel Management",
+  "institution": "OFFICE OF PERSONNEL MANAGEMENT",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20415",
-  "email": false
+  "ope": null
 }

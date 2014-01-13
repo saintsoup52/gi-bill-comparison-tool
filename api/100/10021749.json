@@ -1,6 +1,6 @@
 {
   "facility_code": "10021749",
-  "institution": "Mrt Inc",
+  "institution": "MRT INC",
   "city": "Appleton",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54911",
-  "email": false
+  "ope": null
 }

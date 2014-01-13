@@ -1,6 +1,6 @@
 {
   "facility_code": "10510030",
-  "institution": "Freehold Borough Police Department",
+  "institution": "FREEHOLD BOROUGH POLICE DEPARTMENT",
   "city": "Freehold",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7728",
-  "email": true
+  "ope": null
 }

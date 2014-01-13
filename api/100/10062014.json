@@ -1,6 +1,6 @@
 {
   "facility_code": "10062014",
-  "institution": "Winona Lake Police Department",
+  "institution": "WINONA LAKE POLICE DEPARTMENT",
   "city": "Winona Lake",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46590",
-  "email": false
+  "ope": null
 }

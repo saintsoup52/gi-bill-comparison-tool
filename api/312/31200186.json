@@ -1,6 +1,6 @@
 {
   "facility_code": "31200186",
-  "institution": "Cetys Universidad Baja Calif",
+  "institution": "CETYS UNIVERSIDAD BAJA CALIF",
   "city": "Mexicali",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

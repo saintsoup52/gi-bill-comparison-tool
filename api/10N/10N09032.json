@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09032",
-  "institution": "Town Of Warwick Police",
+  "institution": "TOWN OF WARWICK POLICE",
   "city": "Warwick",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10990",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10056611",
-  "institution": "Plant E. I. Hatch",
+  "institution": "PLANT E. I. HATCH",
   "city": "Baxley",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31513",
-  "email": true
+  "ope": null
 }

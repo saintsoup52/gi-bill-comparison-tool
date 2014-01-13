@@ -1,6 +1,6 @@
 {
   "facility_code": "20041811",
-  "institution": "Dave And Buster'S",
+  "institution": "DAVE AND BUSTER'S",
   "city": "Duluth",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30096",
-  "email": false
+  "ope": null
 }

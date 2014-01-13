@@ -1,6 +1,6 @@
 {
   "facility_code": "20008123",
-  "institution": "Mpls-St Paul Sprinklerfitters Jac",
+  "institution": "MPLS-ST PAUL SPRINKLERFITTERS JAC",
   "city": "Mpls",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55413",
-  "email": true
+  "ope": null
 }

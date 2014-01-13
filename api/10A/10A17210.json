@@ -1,6 +1,6 @@
 {
   "facility_code": "10A17210",
-  "institution": "Housing Authority Of The City Of Fort Lauderdale Inj",
+  "institution": "HOUSING AUTHORITY OF THE CITY OF FORT LAUDERDALE INJ",
   "city": "Ft Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33312",
-  "email": true
+  "ope": null
 }

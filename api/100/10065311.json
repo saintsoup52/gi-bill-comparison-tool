@@ -1,6 +1,6 @@
 {
   "facility_code": "10065311",
-  "institution": "Jackson County Correctional Institute",
+  "institution": "JACKSON COUNTY CORRECTIONAL INSTITUTE",
   "city": "Jefferson",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30549",
-  "email": true
+  "ope": null
 }

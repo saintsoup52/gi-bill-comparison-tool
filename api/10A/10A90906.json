@@ -1,6 +1,6 @@
 {
   "facility_code": "10A90906",
-  "institution": "Summit County Sheriff'S Office",
+  "institution": "SUMMIT COUNTY SHERIFF'S OFFICE",
   "city": "Breckenridge",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80424",
-  "email": false
+  "ope": null
 }

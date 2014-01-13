@@ -1,6 +1,6 @@
 {
   "facility_code": "20X31105",
-  "institution": "San Diego Cty Cement Masons Jac",
+  "institution": "SAN DIEGO CTY CEMENT MASONS JAC",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92103",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10K02838",
-  "institution": "Us Dept Of Justice - Us Marshall Service",
+  "institution": "US DEPT OF JUSTICE - US MARSHALL SERVICE",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10W44138",
-  "institution": "Faa - Allentown Radar/Navigation/Communications/Environmental Ssc",
+  "institution": "FAA - ALLENTOWN RADAR/NAVIGATION/COMMUNICATIONS/ENVIRONMENTAL SSC",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18109",
-  "email": true
+  "ope": null
 }

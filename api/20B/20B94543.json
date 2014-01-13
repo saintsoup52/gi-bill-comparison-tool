@@ -1,6 +1,6 @@
 {
   "facility_code": "20B94543",
-  "institution": "Pbs Appraisal Service",
+  "institution": "PBS APPRAISAL SERVICE",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77025",
-  "email": false
+  "ope": null
 }

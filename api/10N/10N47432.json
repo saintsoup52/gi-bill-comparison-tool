@@ -1,6 +1,6 @@
 {
   "facility_code": "10N47432",
-  "institution": "Faa Syracuse System Support Center (Ssc)",
+  "institution": "FAA SYRACUSE SYSTEM SUPPORT CENTER (SSC)",
   "city": "North Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13212",
-  "email": true
+  "ope": null
 }

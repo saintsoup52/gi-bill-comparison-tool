@@ -1,6 +1,6 @@
 {
   "facility_code": "10498315",
-  "institution": "Federal Aviation Administration - Airport Traffic Control Tower",
+  "institution": "FEDERAL AVIATION ADMINISTRATION - AIRPORT TRAFFIC CONTROL TOWER",
   "city": "Des Moines",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50321",
-  "email": true
+  "ope": null
 }

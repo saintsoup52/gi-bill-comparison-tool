@@ -1,6 +1,6 @@
 {
   "facility_code": "26011120",
-  "institution": "Htr - Chapter 31",
+  "institution": "HTR - CHAPTER 31",
   "city": "Rockville",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20852",
-  "email": false
+  "ope": null
 }

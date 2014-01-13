@@ -1,6 +1,6 @@
 {
   "facility_code": "15025246",
-  "institution": "Chesapeake Center For Science & Tech",
+  "institution": "CHESAPEAKE CENTER FOR SCIENCE & TECH",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23322",
-  "email": true
+  "ope": null
 }

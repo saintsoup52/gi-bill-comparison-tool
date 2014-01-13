@@ -1,6 +1,6 @@
 {
   "facility_code": "10562513",
-  "institution": "Olney Police Department",
+  "institution": "OLNEY POLICE DEPARTMENT",
   "city": "Olney",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62450",
-  "email": false
+  "ope": null
 }

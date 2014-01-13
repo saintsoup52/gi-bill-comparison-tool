@@ -1,6 +1,6 @@
 {
   "facility_code": "10567813",
-  "institution": "Illinois Youth Center-Chicago",
+  "institution": "ILLINOIS YOUTH CENTER-CHICAGO",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60612",
-  "email": true
+  "ope": null
 }

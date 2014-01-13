@@ -1,6 +1,6 @@
 {
   "facility_code": "20150538",
-  "institution": "Ibew Jatc Local #375",
+  "institution": "IBEW JATC LOCAL #375",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18102",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10674825",
-  "institution": "New Madrid Police Department",
+  "institution": "NEW MADRID POLICE DEPARTMENT",
   "city": "New Madrid",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63869",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "13310032",
-  "institution": "Suny College At Cortland",
+  "institution": "SUNY COLLEGE AT CORTLAND",
   "city": "Cortland",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "13045",
-  "email": true
+  "ope": "00284300"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10007042",
-  "institution": "Metro Nashville Police Department - Ojt",
+  "institution": "METRO NASHVILLE POLICE DEPARTMENT - OJT",
   "city": "Nashville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37201",
-  "email": false
+  "ope": null
 }

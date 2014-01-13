@@ -1,6 +1,6 @@
 {
   "facility_code": "10024633",
-  "institution": "Chapel Hill Fire Department",
+  "institution": "CHAPEL HILL FIRE DEPARTMENT",
   "city": "Chapel Hill",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27514",
-  "email": true
+  "ope": null
 }

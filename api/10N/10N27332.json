@@ -1,6 +1,6 @@
 {
   "facility_code": "10N27332",
-  "institution": "Washington Correctional Facility",
+  "institution": "WASHINGTON CORRECTIONAL FACILITY",
   "city": "Comstock",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12821",
-  "email": false
+  "ope": null
 }

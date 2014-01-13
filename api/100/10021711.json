@@ -1,6 +1,6 @@
 {
   "facility_code": "10021711",
-  "institution": "Fairburn Police Department",
+  "institution": "FAIRBURN POLICE DEPARTMENT",
   "city": "Fairburn",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30213",
-  "email": false
+  "ope": null
 }

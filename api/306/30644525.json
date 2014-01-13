@@ -1,6 +1,6 @@
 {
   "facility_code": "30644525",
-  "institution": "Local 350 Jatc",
+  "institution": "LOCAL 350 JATC",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63139",
-  "email": false
+  "ope": null
 }

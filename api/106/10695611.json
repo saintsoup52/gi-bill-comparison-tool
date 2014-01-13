@@ -1,6 +1,6 @@
 {
   "facility_code": "10695611",
-  "institution": "Us Army Fac Eng Appr Program",
+  "institution": "US ARMY FAC ENG APPR PROGRAM",
   "city": "Fort Mcpherson",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30330",
-  "email": false
+  "ope": null
 }

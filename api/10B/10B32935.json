@@ -1,6 +1,6 @@
 {
   "facility_code": "10B32935",
-  "institution": "Va Outpatient Clinic (Ch31)",
+  "institution": "VA OUTPATIENT CLINIC (CH31)",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43221",
-  "email": "No (SCO)"
+  "ope": null
 }

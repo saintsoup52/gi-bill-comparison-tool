@@ -1,6 +1,6 @@
 {
   "facility_code": "11119480",
-  "institution": "Karlsruhe Institute Of Technology",
+  "institution": "KARLSRUHE INSTITUTE OF TECHNOLOGY",
   "city": "Karlsrhue",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

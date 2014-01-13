@@ -1,6 +1,6 @@
 {
   "facility_code": "10A15110",
-  "institution": "Lee County Health Department",
+  "institution": "LEE COUNTY HEALTH DEPARTMENT",
   "city": "Ft. Myers",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33916",
-  "email": true
+  "ope": null
 }

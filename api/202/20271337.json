@@ -1,6 +1,6 @@
 {
   "facility_code": "20271337",
-  "institution": "On-Semiconductor Inc. Electrical Jatc",
+  "institution": "ON-SEMICONDUCTOR INC. ELECTRICAL JATC",
   "city": "Gresham",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97030",
-  "email": true
+  "ope": null
 }

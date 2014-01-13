@@ -1,6 +1,6 @@
 {
   "facility_code": "11803107",
-  "institution": "University Of Connecticut Groton Campus",
+  "institution": "UNIVERSITY OF CONNECTICUT GROTON CAMPUS",
   "city": "Groton",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6340",
-  "email": false
+  "ope": "00141705"
 }

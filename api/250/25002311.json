@@ -1,6 +1,6 @@
 {
   "facility_code": "25002311",
-  "institution": "New Horizons Clc Atlanta",
+  "institution": "NEW HORIZONS CLC ATLANTA",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30346",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10012612",
-  "institution": "Kootenai County Sheriff'S Department",
+  "institution": "KOOTENAI COUNTY SHERIFF'S DEPARTMENT",
   "city": "Coeur D'Alene",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83815",
-  "email": false
+  "ope": null
 }

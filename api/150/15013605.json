@@ -1,6 +1,6 @@
 {
   "facility_code": "15013605",
-  "institution": "Los Angeles County Sheriff'S Dept Training Ctr.",
+  "institution": "LOS ANGELES COUNTY SHERIFF'S DEPT TRAINING CTR.",
   "city": "Whittier",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90033",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10415446",
-  "institution": "Alexandria Sheriff'S Office",
+  "institution": "ALEXANDRIA SHERIFF'S OFFICE",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22314",
-  "email": true
+  "ope": null
 }

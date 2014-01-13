@@ -1,6 +1,6 @@
 {
   "facility_code": "10C35743",
-  "institution": "Naval Air Station Kingsville Fire Dept",
+  "institution": "NAVAL AIR STATION KINGSVILLE FIRE DEPT",
   "city": "Kingsville",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78363",
-  "email": false
+  "ope": null
 }

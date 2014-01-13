@@ -1,6 +1,6 @@
 {
   "facility_code": "17050421",
-  "institution": "Boston Latin School",
+  "institution": "BOSTON LATIN SCHOOL",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2115",
-  "email": false
+  "ope": null
 }

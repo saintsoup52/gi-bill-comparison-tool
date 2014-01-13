@@ -1,6 +1,6 @@
 {
   "facility_code": "10A02610",
-  "institution": "Federal Aviation Admin (Faa) Orlando Executive Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) ORLANDO EXECUTIVE TOWER",
   "city": "Orlando",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32807",
-  "email": true
+  "ope": null
 }

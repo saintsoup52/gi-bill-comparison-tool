@@ -1,6 +1,6 @@
 {
   "facility_code": "10440047",
-  "institution": "Faa Paine/Everett Tower",
+  "institution": "FAA PAINE/EVERETT TOWER",
   "city": "Everett",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98204",
-  "email": true
+  "ope": null
 }

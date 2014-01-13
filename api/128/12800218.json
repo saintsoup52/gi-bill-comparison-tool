@@ -1,6 +1,6 @@
 {
   "facility_code": "12800218",
-  "institution": "Lafayette Gen Med Ctr Sch Of Health Sciences",
+  "institution": "LAFAYETTE GEN MED CTR SCH OF HEALTH SCIENCES",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70503",
-  "email": true
+  "ope": null
 }

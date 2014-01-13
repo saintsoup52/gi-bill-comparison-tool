@@ -1,6 +1,6 @@
 {
   "facility_code": "12000933",
-  "institution": "Unc Hospitals/Graduate Medical Education",
+  "institution": "UNC HOSPITALS/GRADUATE MEDICAL EDUCATION",
   "city": "Chapel Hill",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27514",
-  "email": true
+  "ope": null
 }

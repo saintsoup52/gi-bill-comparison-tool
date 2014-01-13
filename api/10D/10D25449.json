@@ -1,6 +1,6 @@
 {
   "facility_code": "10D25449",
-  "institution": "City Of Kenosha Police Department",
+  "institution": "CITY OF KENOSHA POLICE DEPARTMENT",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53140",
-  "email": false
+  "ope": null
 }

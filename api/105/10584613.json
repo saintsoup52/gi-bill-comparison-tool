@@ -1,6 +1,6 @@
 {
   "facility_code": "10584613",
-  "institution": "Cary Police Department",
+  "institution": "CARY POLICE DEPARTMENT",
   "city": "Cary",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60013",
-  "email": true
+  "ope": null
 }

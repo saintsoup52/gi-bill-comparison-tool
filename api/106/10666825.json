@@ -1,6 +1,6 @@
 {
   "facility_code": "10666825",
-  "institution": "Hollister Police Department",
+  "institution": "HOLLISTER POLICE DEPARTMENT",
   "city": "Hollister",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65672",
-  "email": false
+  "ope": null
 }

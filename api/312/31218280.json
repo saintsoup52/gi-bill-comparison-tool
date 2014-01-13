@@ -1,6 +1,6 @@
 {
   "facility_code": "31218280",
-  "institution": "Jacobs University",
+  "institution": "JACOBS UNIVERSITY",
   "city": "Bremen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

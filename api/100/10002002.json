@@ -1,6 +1,6 @@
 {
   "facility_code": "10002002",
-  "institution": "Anchorage Police Dept Training Center",
+  "institution": "ANCHORAGE POLICE DEPT TRAINING CENTER",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99502",
-  "email": true
+  "ope": null
 }

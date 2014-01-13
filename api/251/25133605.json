@@ -1,6 +1,6 @@
 {
   "facility_code": "25133605",
-  "institution": "Donahue Assessment Center (Chapter 31)",
+  "institution": "DONAHUE ASSESSMENT CENTER (CHAPTER 31)",
   "city": "Ventura",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93003",
-  "email": false
+  "ope": null
 }

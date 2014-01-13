@@ -1,6 +1,6 @@
 {
   "facility_code": "10000238",
-  "institution": "Veterans Health Administration (Vamc-Erie)",
+  "institution": "VETERANS HEALTH ADMINISTRATION (VAMC-ERIE)",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16504",
-  "email": false
+  "ope": null
 }

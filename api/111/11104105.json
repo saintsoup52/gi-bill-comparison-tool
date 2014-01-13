@@ -1,6 +1,6 @@
 {
   "facility_code": "11104105",
-  "institution": "University Of California  Merced",
+  "institution": "UNIVERSITY OF CALIFORNIA  MERCED",
   "city": "Merced",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95344",
-  "email": false
+  "ope": "04127100"
 }

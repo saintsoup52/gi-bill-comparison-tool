@@ -1,6 +1,6 @@
 {
   "facility_code": "31000611",
-  "institution": "Spring Hill College",
+  "institution": "SPRING HILL COLLEGE",
   "city": "Norcross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30093",
-  "email": true
+  "ope": "00104100"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11010138",
-  "institution": "Slippery Rock University Of Pennsylvania",
+  "institution": "SLIPPERY ROCK UNIVERSITY OF PENNSYLVANIA",
   "city": "Slippery Rock",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "16057",
-  "email": true
+  "ope": "00332700"
 }

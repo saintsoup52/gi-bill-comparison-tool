@@ -1,6 +1,6 @@
 {
   "facility_code": "20188112",
-  "institution": "Idaho National Laboratory",
+  "institution": "IDAHO NATIONAL LABORATORY",
   "city": "Scoville",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83415",
-  "email": true
+  "ope": null
 }

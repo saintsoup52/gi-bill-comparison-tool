@@ -1,6 +1,6 @@
 {
   "facility_code": "102B3505",
-  "institution": "Faa- El Monte Air Traffic Control Tower",
+  "institution": "FAA- EL MONTE AIR TRAFFIC CONTROL TOWER",
   "city": "El Monte",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "91732",
-  "email": false
+  "ope": null
 }

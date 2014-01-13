@@ -1,6 +1,6 @@
 {
   "facility_code": "20D27049",
-  "institution": "Shared Medical Services (Ch31 Only)",
+  "institution": "SHARED MEDICAL SERVICES (CH31 ONLY)",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53714",
-  "email": "No (SCO)"
+  "ope": null
 }

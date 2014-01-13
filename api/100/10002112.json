@@ -1,6 +1,6 @@
 {
   "facility_code": "10002112",
-  "institution": "American Falls Police Department",
+  "institution": "AMERICAN FALLS POLICE DEPARTMENT",
   "city": "American Falls",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83211",
-  "email": false
+  "ope": null
 }

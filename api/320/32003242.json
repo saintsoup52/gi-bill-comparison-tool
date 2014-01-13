@@ -1,6 +1,6 @@
 {
   "facility_code": "32003242",
-  "institution": "Methodist University Hospital",
+  "institution": "METHODIST UNIVERSITY HOSPITAL",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38104",
-  "email": false
+  "ope": null
 }

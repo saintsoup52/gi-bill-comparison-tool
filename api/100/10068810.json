@@ -1,6 +1,6 @@
 {
   "facility_code": "10068810",
-  "institution": "Eglin Jac",
+  "institution": "EGLIN JAC",
   "city": "Eglin Air Force Base",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32542",
-  "email": "No (SCO)"
+  "ope": null
 }

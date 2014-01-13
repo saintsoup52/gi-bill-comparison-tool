@@ -1,6 +1,6 @@
 {
   "facility_code": "10667425",
-  "institution": "Truman Va Hospital -Columbia",
+  "institution": "TRUMAN VA HOSPITAL -COLUMBIA",
   "city": "Columbia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65202",
-  "email": true
+  "ope": null
 }

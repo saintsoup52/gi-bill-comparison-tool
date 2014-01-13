@@ -1,6 +1,6 @@
 {
   "facility_code": "10072411",
-  "institution": "Appling Pre-Release Center",
+  "institution": "APPLING PRE-RELEASE CENTER",
   "city": "Baxley",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31513",
-  "email": true
+  "ope": null
 }

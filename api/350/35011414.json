@@ -1,6 +1,6 @@
 {
   "facility_code": "35011414",
-  "institution": "New Haven Adams Township Ems",
+  "institution": "NEW HAVEN ADAMS TOWNSHIP EMS",
   "city": "New Haven",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46774",
-  "email": false
+  "ope": null
 }

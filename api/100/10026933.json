@@ -1,6 +1,6 @@
 {
   "facility_code": "10026933",
-  "institution": "Havelock Police Department",
+  "institution": "HAVELOCK POLICE DEPARTMENT",
   "city": "Havelock",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28532",
-  "email": true
+  "ope": null
 }

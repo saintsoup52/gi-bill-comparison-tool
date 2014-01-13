@@ -1,6 +1,6 @@
 {
   "facility_code": "10403746",
-  "institution": "Newport News Police Dept",
+  "institution": "NEWPORT NEWS POLICE DEPT",
   "city": "Newport News",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23605",
-  "email": true
+  "ope": null
 }

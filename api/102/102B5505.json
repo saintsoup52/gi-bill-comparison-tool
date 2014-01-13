@@ -1,6 +1,6 @@
 {
   "facility_code": "102B5505",
-  "institution": "Social Security Administration(Oxnard)(Chapter 31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION(OXNARD)(CHAPTER 31 ONLY)",
   "city": "Oxnard",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93030",
-  "email": false
+  "ope": null
 }

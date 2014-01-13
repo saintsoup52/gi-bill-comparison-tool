@@ -1,6 +1,6 @@
 {
   "facility_code": "11001774",
-  "institution": "University Of St. Andrews",
+  "institution": "UNIVERSITY OF ST. ANDREWS",
   "city": "St Andrews",
   "state": "Scotland",
   "country": "Scotland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

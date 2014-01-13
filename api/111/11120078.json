@@ -1,6 +1,6 @@
 {
   "facility_code": "11120078",
-  "institution": "Abo Akademi University",
+  "institution": "ABO AKADEMI UNIVERSITY",
   "city": "Abo",
   "state": "Finland",
   "country": "Finland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

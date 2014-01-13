@@ -1,6 +1,6 @@
 {
   "facility_code": "10457211",
-  "institution": "Thomson Police Department",
+  "institution": "THOMSON POLICE DEPARTMENT",
   "city": "Thomson",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30824",
-  "email": true
+  "ope": null
 }

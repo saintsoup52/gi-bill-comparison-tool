@@ -1,6 +1,6 @@
 {
   "facility_code": "10005209",
-  "institution": "Bureau Of Engraving And Printing Us Department Of Treasury",
+  "institution": "BUREAU OF ENGRAVING AND PRINTING US DEPARTMENT OF TREASURY",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20228",
-  "email": false
+  "ope": null
 }

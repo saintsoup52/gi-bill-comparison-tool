@@ -1,6 +1,6 @@
 {
   "facility_code": "10039935",
-  "institution": "Columbus Division Of Police  G",
+  "institution": "COLUMBUS DIVISION OF POLICE  G",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43215",
-  "email": true
+  "ope": null
 }

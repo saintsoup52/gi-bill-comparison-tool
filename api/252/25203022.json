@@ -1,6 +1,6 @@
 {
   "facility_code": "25203022",
-  "institution": "Abc Training And Testing",
+  "institution": "ABC TRAINING AND TESTING",
   "city": "Horton",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49246",
-  "email": false
+  "ope": null
 }

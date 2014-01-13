@@ -1,6 +1,6 @@
 {
   "facility_code": "25020203",
-  "institution": "Arizona Aero-Tech",
+  "institution": "ARIZONA AERO-TECH",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85706",
-  "email": true
+  "ope": null
 }

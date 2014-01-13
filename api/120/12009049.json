@@ -1,6 +1,6 @@
 {
   "facility_code": "12009049",
-  "institution": "Univ Of Wisc Sch Of Medicine & Public Health",
+  "institution": "UNIV OF WISC SCH OF MEDICINE & PUBLIC HEALTH",
   "city": "Madison",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53715",
-  "email": false
+  "ope": null
 }

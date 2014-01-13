@@ -1,6 +1,6 @@
 {
   "facility_code": "10A93606",
-  "institution": "Weld County Sheriff'S Office",
+  "institution": "WELD COUNTY SHERIFF'S OFFICE",
   "city": "Greeley",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80931",
-  "email": false
+  "ope": null
 }

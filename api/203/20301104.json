@@ -1,6 +1,6 @@
 {
   "facility_code": "20301104",
-  "institution": "Field Maintenance Supply #6",
+  "institution": "FIELD MAINTENANCE SUPPLY #6",
   "city": "Hazen",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72064",
-  "email": false
+  "ope": null
 }

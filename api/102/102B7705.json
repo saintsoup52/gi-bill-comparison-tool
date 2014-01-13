@@ -1,6 +1,6 @@
 {
   "facility_code": "102B7705",
-  "institution": "San Quentin State Prison",
+  "institution": "SAN QUENTIN STATE PRISON",
   "city": "San Quentin",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94964",
-  "email": false
+  "ope": null
 }

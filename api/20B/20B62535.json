@@ -1,6 +1,6 @@
 {
   "facility_code": "20B62535",
-  "institution": "Toledo Edison Company  -  K",
+  "institution": "TOLEDO EDISON COMPANY  -  K",
   "city": "Toledo",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43652",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30064410",
-  "institution": "St Petersburg Electrical Jatc",
+  "institution": "ST PETERSBURG ELECTRICAL JATC",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33705",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10301226",
-  "institution": "Federal Aviation Administration (Faa) Atc Tower Great Falls",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) ATC TOWER GREAT FALLS",
   "city": "Great Falls",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59404",
-  "email": true
+  "ope": null
 }

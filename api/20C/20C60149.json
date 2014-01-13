@@ -1,6 +1,6 @@
 {
   "facility_code": "20C60149",
-  "institution": "Acme Die Casting",
+  "institution": "ACME DIE CASTING",
   "city": "Racine",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53406",
-  "email": false
+  "ope": null
 }

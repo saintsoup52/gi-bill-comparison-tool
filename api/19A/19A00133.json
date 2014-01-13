@@ -1,6 +1,6 @@
 {
   "facility_code": "19A00133",
-  "institution": "North Carolina Department Of Veterans Affairs (Ch 31 Only)",
+  "institution": "NORTH CAROLINA DEPARTMENT OF VETERANS AFFAIRS (CH 31 ONLY)",
   "city": "Winston Salem",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27155",
-  "email": false
+  "ope": null
 }

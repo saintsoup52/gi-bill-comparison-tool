@@ -1,6 +1,6 @@
 {
   "facility_code": "20054611",
-  "institution": "Georgia Power Company - Augusta Tmc",
+  "institution": "GEORGIA POWER COMPANY - AUGUSTA TMC",
   "city": "Augusta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30909",
-  "email": true
+  "ope": null
 }

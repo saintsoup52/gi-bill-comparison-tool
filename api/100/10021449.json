@@ -1,6 +1,6 @@
 {
   "facility_code": "10021449",
-  "institution": "Clark County Sheriff'S Dept",
+  "institution": "CLARK COUNTY SHERIFF'S DEPT",
   "city": "Neillsville",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54456",
-  "email": false
+  "ope": null
 }

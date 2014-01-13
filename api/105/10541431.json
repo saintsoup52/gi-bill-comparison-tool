@@ -1,6 +1,6 @@
 {
   "facility_code": "10541431",
-  "institution": "Clovis Police Department",
+  "institution": "CLOVIS POLICE DEPARTMENT",
   "city": "Clovis",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88101",
-  "email": true
+  "ope": null
 }

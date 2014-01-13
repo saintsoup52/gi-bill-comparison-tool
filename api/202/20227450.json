@@ -1,6 +1,6 @@
 {
   "facility_code": "20227450",
-  "institution": "Ac Electric",
+  "institution": "AC ELECTRIC",
   "city": "Powell",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82435",
-  "email": true
+  "ope": null
 }

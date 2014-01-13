@@ -1,6 +1,6 @@
 {
   "facility_code": "46000335",
-  "institution": "National Registry Of Emergency Medical Technicians",
+  "institution": "NATIONAL REGISTRY OF EMERGENCY MEDICAL TECHNICIANS",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43229",
-  "email": true
+  "ope": null
 }

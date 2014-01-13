@@ -1,6 +1,6 @@
 {
   "facility_code": "10498117",
-  "institution": "Hardin County Sheriff'S Office",
+  "institution": "HARDIN COUNTY SHERIFF'S OFFICE",
   "city": "Elizabethtown",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42701",
-  "email": false
+  "ope": null
 }

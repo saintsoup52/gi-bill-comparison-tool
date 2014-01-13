@@ -1,6 +1,6 @@
 {
   "facility_code": "46001038",
-  "institution": "Software Engineering Institute",
+  "institution": "SOFTWARE ENGINEERING INSTITUTE",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15213",
-  "email": false
+  "ope": null
 }

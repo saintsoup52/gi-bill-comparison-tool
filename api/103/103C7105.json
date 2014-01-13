@@ -1,6 +1,6 @@
 {
   "facility_code": "103C7105",
-  "institution": "San Luis Obispo Sheriff'S Office",
+  "institution": "SAN LUIS OBISPO SHERIFF'S OFFICE",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93405",
-  "email": false
+  "ope": null
 }

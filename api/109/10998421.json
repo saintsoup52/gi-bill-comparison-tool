@@ -1,6 +1,6 @@
 {
   "facility_code": "10998421",
-  "institution": "Gloucester Fire Department",
+  "institution": "GLOUCESTER FIRE DEPARTMENT",
   "city": "Gloucester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1903",
-  "email": false
+  "ope": null
 }

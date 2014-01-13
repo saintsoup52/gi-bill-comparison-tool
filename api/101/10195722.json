@@ -1,6 +1,6 @@
 {
   "facility_code": "10195722",
-  "institution": "State Of Michigan Macomb County Dept. Of Human Services",
+  "institution": "STATE OF MICHIGAN MACOMB COUNTY DEPT. OF HUMAN SERVICES",
   "city": "Clinton Twp",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48036",
-  "email": true
+  "ope": null
 }

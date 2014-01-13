@@ -1,6 +1,6 @@
 {
   "facility_code": "10107828",
-  "institution": "Dept Of Veterans Affairs - Reno",
+  "institution": "DEPT OF VETERANS AFFAIRS - RENO",
   "city": "Reno",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89511",
-  "email": true
+  "ope": null
 }

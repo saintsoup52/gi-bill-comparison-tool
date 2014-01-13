@@ -1,6 +1,6 @@
 {
   "facility_code": "11816121",
-  "institution": "University Of Massachusetts/Amherst",
+  "institution": "UNIVERSITY OF MASSACHUSETTS/AMHERST",
   "city": "Amherst",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "1003",
-  "email": true
+  "ope": "00222100"
 }

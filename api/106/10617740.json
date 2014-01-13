@@ -1,6 +1,6 @@
 {
   "facility_code": "10617740",
-  "institution": "Lee Correctional Institute",
+  "institution": "LEE CORRECTIONAL INSTITUTE",
   "city": "Bishopville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29010",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32120105",
-  "institution": "Center For Palliative Studies - San Diego Hospice",
+  "institution": "CENTER FOR PALLIATIVE STUDIES - SAN DIEGO HOSPICE",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92103",
-  "email": false
+  "ope": null
 }

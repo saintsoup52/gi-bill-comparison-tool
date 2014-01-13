@@ -1,6 +1,6 @@
 {
   "facility_code": "10A82806",
-  "institution": "Cdc - Sterling Correctional Facility",
+  "institution": "CDC - STERLING CORRECTIONAL FACILITY",
   "city": "Sterling",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80751",
-  "email": false
+  "ope": null
 }

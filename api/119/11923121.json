@@ -1,6 +1,6 @@
 {
   "facility_code": "11923121",
-  "institution": "University Of Massachusetts/Boston",
+  "institution": "UNIVERSITY OF MASSACHUSETTS/BOSTON",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2125",
-  "email": true
+  "ope": "00222200"
 }

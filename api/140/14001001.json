@@ -1,6 +1,6 @@
 {
   "facility_code": "14001001",
-  "institution": "Southern Union State C.C.",
+  "institution": "SOUTHERN UNION STATE C.C.",
   "city": "Wadley",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "36276",
-  "email": true
+  "ope": "00104000"
 }

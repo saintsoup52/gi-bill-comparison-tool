@@ -1,6 +1,6 @@
 {
   "facility_code": "10023063",
-  "institution": "Puerto Rico Army National Guard",
+  "institution": "PUERTO RICO ARMY NATIONAL GUARD",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "902",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A95606",
-  "institution": "Thames Electric",
+  "institution": "THAMES ELECTRIC",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80219",
-  "email": true
+  "ope": null
 }

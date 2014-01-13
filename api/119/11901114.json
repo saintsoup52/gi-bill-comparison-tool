@@ -1,6 +1,6 @@
 {
   "facility_code": "11901114",
-  "institution": "Indiana University At Kokomo",
+  "institution": "INDIANA UNIVERSITY AT KOKOMO",
   "city": "Kokomo",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46904",
-  "email": false
+  "ope": "00181400"
 }

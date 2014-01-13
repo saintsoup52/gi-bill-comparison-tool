@@ -1,6 +1,6 @@
 {
   "facility_code": "31001111",
-  "institution": "Piedmont College",
+  "institution": "PIEDMONT COLLEGE",
   "city": "Demorest",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30535",
-  "email": true
+  "ope": "00158800"
 }

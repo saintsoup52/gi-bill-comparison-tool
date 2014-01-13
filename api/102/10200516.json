@@ -1,6 +1,6 @@
 {
   "facility_code": "10200516",
-  "institution": "Faa-Technical Operation-Quu Ssc:1",
+  "institution": "FAA-TECHNICAL OPERATION-QUU SSC:1",
   "city": "New Century",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66031",
-  "email": true
+  "ope": null
 }

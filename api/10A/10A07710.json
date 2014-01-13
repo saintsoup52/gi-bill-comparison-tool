@@ -1,6 +1,6 @@
 {
   "facility_code": "10A07710",
-  "institution": "Va Mental Health Outpatient Clinic Ch 31 Only",
+  "institution": "VA MENTAL HEALTH OUTPATIENT CLINIC CH 31 ONLY",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33612",
-  "email": false
+  "ope": null
 }

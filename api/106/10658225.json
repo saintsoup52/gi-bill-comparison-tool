@@ -1,6 +1,6 @@
 {
   "facility_code": "10658225",
-  "institution": "Umkc Police Department",
+  "institution": "UMKC POLICE DEPARTMENT",
   "city": "Kansas City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64110",
-  "email": false
+  "ope": null
 }

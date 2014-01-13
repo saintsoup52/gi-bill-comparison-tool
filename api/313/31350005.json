@@ -1,6 +1,6 @@
 {
   "facility_code": "31350005",
-  "institution": "Mills College",
+  "institution": "MILLS COLLEGE",
   "city": "Oakland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94613",
-  "email": true
+  "ope": "00123800"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10413446",
-  "institution": "Virginia Correctional Ctr For Women",
+  "institution": "VIRGINIA CORRECTIONAL CTR FOR WOMEN",
   "city": "Goochland",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23063",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10482048",
-  "institution": "West Virginia State Police Troopers",
+  "institution": "WEST VIRGINIA STATE POLICE TROOPERS",
   "city": "So Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25309",
-  "email": true
+  "ope": null
 }

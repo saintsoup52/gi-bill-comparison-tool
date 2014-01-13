@@ -1,6 +1,6 @@
 {
   "facility_code": "10000229",
-  "institution": "Boston Consolidated Tracon/Faa",
+  "institution": "BOSTON CONSOLIDATED TRACON/FAA",
   "city": "Merrimack",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3054",
-  "email": true
+  "ope": null
 }

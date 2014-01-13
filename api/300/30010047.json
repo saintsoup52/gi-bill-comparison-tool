@@ -1,6 +1,6 @@
 {
   "facility_code": "30010047",
-  "institution": "Iam/Boeing Joint Apprenticeship Committee",
+  "institution": "IAM/BOEING JOINT APPRENTICESHIP COMMITTEE",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98124",
-  "email": true
+  "ope": null
 }

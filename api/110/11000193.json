@@ -1,6 +1,6 @@
 {
   "facility_code": "11000193",
-  "institution": "Lulea University Of Technology",
+  "institution": "LULEA UNIVERSITY OF TECHNOLOGY",
   "city": "Se-971 87 Lulea",
   "state": "Sweden",
   "country": "Sweden",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

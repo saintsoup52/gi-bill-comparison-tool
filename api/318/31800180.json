@@ -1,6 +1,6 @@
 {
   "facility_code": "31800180",
-  "institution": "International University In Germany",
+  "institution": "INTERNATIONAL UNIVERSITY IN GERMANY",
   "city": "D-76646 Bruchsal",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

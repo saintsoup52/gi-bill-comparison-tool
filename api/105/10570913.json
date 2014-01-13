@@ -1,6 +1,6 @@
 {
   "facility_code": "10570913",
-  "institution": "Mt. Vernon Police Department",
+  "institution": "MT. VERNON POLICE DEPARTMENT",
   "city": "Mt. Vernon",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62864",
-  "email": true
+  "ope": null
 }

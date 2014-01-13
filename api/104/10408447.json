@@ -1,6 +1,6 @@
 {
   "facility_code": "10408447",
-  "institution": "City Of Snoqualmie (Ch31)",
+  "institution": "CITY OF SNOQUALMIE (CH31)",
   "city": "Snoqualmie",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98065",
-  "email": false
+  "ope": null
 }

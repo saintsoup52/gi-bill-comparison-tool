@@ -1,6 +1,6 @@
 {
   "facility_code": "10588913",
-  "institution": "Buffalo Grove Police Department",
+  "institution": "BUFFALO GROVE POLICE DEPARTMENT",
   "city": "Buffalo Grove",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60089",
-  "email": true
+  "ope": null
 }

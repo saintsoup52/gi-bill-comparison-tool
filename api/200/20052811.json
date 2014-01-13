@@ -1,6 +1,6 @@
 {
   "facility_code": "20052811",
-  "institution": "Elekta Inc",
+  "institution": "ELEKTA INC",
   "city": "Norcross",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30092",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10774022",
-  "institution": "State Of Michigan Dept Of State Police -Ojt-",
+  "institution": "STATE OF MICHIGAN DEPT OF STATE POLICE -OJT-",
   "city": "Lansing",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48913",
-  "email": true
+  "ope": null
 }

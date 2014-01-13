@@ -1,6 +1,6 @@
 {
   "facility_code": "10691325",
-  "institution": "Billings Police Department",
+  "institution": "BILLINGS POLICE DEPARTMENT",
   "city": "Billings",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65610",
-  "email": false
+  "ope": null
 }

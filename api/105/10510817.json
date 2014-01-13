@@ -1,6 +1,6 @@
 {
   "facility_code": "10510817",
-  "institution": "University Of Kentucky Police Department",
+  "institution": "UNIVERSITY OF KENTUCKY POLICE DEPARTMENT",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40506",
-  "email": false
+  "ope": null
 }

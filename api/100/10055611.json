@@ -1,6 +1,6 @@
 {
   "facility_code": "10055611",
-  "institution": "Georgia Department Of Labor - Field Services",
+  "institution": "GEORGIA DEPARTMENT OF LABOR - FIELD SERVICES",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30303",
-  "email": false
+  "ope": null
 }

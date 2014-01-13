@@ -1,6 +1,6 @@
 {
   "facility_code": "22100080",
-  "institution": "Ludwig-Maximilians-Universitat",
+  "institution": "LUDWIG-MAXIMILIANS-UNIVERSITAT",
   "city": "D-80539 Munich",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

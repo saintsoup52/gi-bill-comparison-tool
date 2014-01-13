@@ -1,6 +1,6 @@
 {
   "facility_code": "20584725",
-  "institution": "Comp-U-Temps",
+  "institution": "COMP-U-TEMPS",
   "city": "Hermann",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65041",
-  "email": false
+  "ope": null
 }

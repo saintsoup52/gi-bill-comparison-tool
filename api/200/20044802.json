@@ -1,6 +1,6 @@
 {
   "facility_code": "20044802",
-  "institution": "Alaska Laborers Training Trust",
+  "institution": "ALASKA LABORERS TRAINING TRUST",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99515",
-  "email": true
+  "ope": null
 }

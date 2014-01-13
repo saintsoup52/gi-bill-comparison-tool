@@ -1,6 +1,6 @@
 {
   "facility_code": "10614825",
-  "institution": "Marshall Police Dept.",
+  "institution": "MARSHALL POLICE DEPT.",
   "city": "Marshall",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65340",
-  "email": false
+  "ope": null
 }

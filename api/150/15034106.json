@@ -1,6 +1,6 @@
 {
   "facility_code": "15034106",
-  "institution": "Las Animas High School",
+  "institution": "LAS ANIMAS HIGH SCHOOL",
   "city": "Las Animas",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81054",
-  "email": true
+  "ope": null
 }

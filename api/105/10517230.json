@@ -1,6 +1,6 @@
 {
   "facility_code": "10517230",
-  "institution": "Lindenwold Police Department",
+  "institution": "LINDENWOLD POLICE DEPARTMENT",
   "city": "Lindenwold",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8021",
-  "email": false
+  "ope": null
 }

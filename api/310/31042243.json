@@ -1,6 +1,6 @@
 {
   "facility_code": "31042243",
-  "institution": "Embry Riddle Aeronautical University Fort Bliss",
+  "institution": "EMBRY RIDDLE AERONAUTICAL UNIVERSITY FORT BLISS",
   "city": "Fort Bliss",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79918",
-  "email": false
+  "ope": "00147900"
 }

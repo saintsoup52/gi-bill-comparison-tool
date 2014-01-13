@@ -1,6 +1,6 @@
 {
   "facility_code": "10K01438",
-  "institution": "County Of Adams - Sheriffs Office",
+  "institution": "COUNTY OF ADAMS - SHERIFFS OFFICE",
   "city": "Gettysburg",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17325",
-  "email": true
+  "ope": null
 }

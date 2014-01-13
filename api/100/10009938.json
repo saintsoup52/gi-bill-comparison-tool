@@ -1,6 +1,6 @@
 {
   "facility_code": "10009938",
-  "institution": "Social Security Administration Mars Pa",
+  "institution": "SOCIAL SECURITY ADMINISTRATION MARS PA",
   "city": "Mars",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16046",
-  "email": true
+  "ope": null
 }

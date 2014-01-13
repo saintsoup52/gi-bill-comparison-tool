@@ -1,6 +1,6 @@
 {
   "facility_code": "34003440",
-  "institution": "Anderson University",
+  "institution": "ANDERSON UNIVERSITY",
   "city": "Anderson",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29621",
-  "email": true
+  "ope": "00341800"
 }

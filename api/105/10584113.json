@@ -1,6 +1,6 @@
 {
   "facility_code": "10584113",
-  "institution": "Evanston Police Department",
+  "institution": "EVANSTON POLICE DEPARTMENT",
   "city": "Evanston",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60201",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10K01738",
-  "institution": "Independence National Historical Park - Philadelphia",
+  "institution": "INDEPENDENCE NATIONAL HISTORICAL PARK - PHILADELPHIA",
   "city": "Philadelphia",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19106",
-  "email": true
+  "ope": null
 }

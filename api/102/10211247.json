@@ -1,6 +1,6 @@
 {
   "facility_code": "10211247",
-  "institution": "Oak Harbor Police Department-Inactive",
+  "institution": "OAK HARBOR POLICE DEPARTMENT-INACTIVE",
   "city": "Oak Harbor",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98277",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01010",
-  "institution": "Lake County Sheriff'S Office - Detention Center",
+  "institution": "LAKE COUNTY SHERIFF'S OFFICE - DETENTION CENTER",
   "city": "Tavares",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32778",
-  "email": false
+  "ope": null
 }

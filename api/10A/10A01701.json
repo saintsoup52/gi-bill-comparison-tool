@@ -1,6 +1,6 @@
 {
   "facility_code": "10A01701",
-  "institution": "Alabama Department Of Conservation District Two",
+  "institution": "ALABAMA DEPARTMENT OF CONSERVATION DISTRICT TWO",
   "city": "Jacksonville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36265",
-  "email": false
+  "ope": null
 }

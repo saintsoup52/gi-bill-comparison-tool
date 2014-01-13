@@ -1,6 +1,6 @@
 {
   "facility_code": "31001023",
-  "institution": "Hamline University",
+  "institution": "HAMLINE UNIVERSITY",
   "city": "St Paul",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "55104",
-  "email": false
+  "ope": "00235400"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10K00638",
-  "institution": "East Pennsboro Township Police Department",
+  "institution": "EAST PENNSBORO TOWNSHIP POLICE DEPARTMENT",
   "city": "Enola",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17025",
-  "email": true
+  "ope": null
 }

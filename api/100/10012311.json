@@ -1,6 +1,6 @@
 {
   "facility_code": "10012311",
-  "institution": "Columbus Police Department",
+  "institution": "COLUMBUS POLICE DEPARTMENT",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31902",
-  "email": true
+  "ope": null
 }

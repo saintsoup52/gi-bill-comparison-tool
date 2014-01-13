@@ -1,6 +1,6 @@
 {
   "facility_code": "101B8505",
-  "institution": "City Of Riverside Police Department",
+  "institution": "CITY OF RIVERSIDE POLICE DEPARTMENT",
   "city": "Riverside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92501",
-  "email": true
+  "ope": null
 }

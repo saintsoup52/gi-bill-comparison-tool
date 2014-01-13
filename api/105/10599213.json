@@ -1,6 +1,6 @@
 {
   "facility_code": "10599213",
-  "institution": "United States Marshals Service",
+  "institution": "UNITED STATES MARSHALS SERVICE",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60604",
-  "email": true
+  "ope": null
 }

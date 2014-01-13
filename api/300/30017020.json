@@ -1,6 +1,6 @@
 {
   "facility_code": "30017020",
-  "institution": "Washington Dc Jnt Elec Aprnt & Tng Comm Neca-Loc26",
+  "institution": "WASHINGTON DC JNT ELEC APRNT & TNG COMM NECA-LOC26",
   "city": "Lanham",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20706",
-  "email": false
+  "ope": null
 }

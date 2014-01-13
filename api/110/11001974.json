@@ -1,6 +1,6 @@
 {
   "facility_code": "11001974",
-  "institution": "University Of Bedfordshire",
+  "institution": "UNIVERSITY OF BEDFORDSHIRE",
   "city": "Luton",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "101B8005",
-  "institution": "Va Medical Center (Ch31)",
+  "institution": "VA MEDICAL CENTER (CH31)",
   "city": "Fresno",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93703",
-  "email": false
+  "ope": null
 }

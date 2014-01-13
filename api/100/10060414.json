@@ -1,6 +1,6 @@
 {
   "facility_code": "10060414",
-  "institution": "Richmond Police Department",
+  "institution": "RICHMOND POLICE DEPARTMENT",
   "city": "Richmond",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47374",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20275837",
-  "institution": "Oregon Lbme Jtc-Ma 1144",
+  "institution": "OREGON LBME JTC-MA 1144",
   "city": "Portland",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97217",
-  "email": true
+  "ope": null
 }

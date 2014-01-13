@@ -1,6 +1,6 @@
 {
   "facility_code": "20055711",
-  "institution": "Pierre Foods",
+  "institution": "PIERRE FOODS",
   "city": "Rome",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30165",
-  "email": true
+  "ope": null
 }

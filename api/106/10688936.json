@@ -1,6 +1,6 @@
 {
   "facility_code": "10688936",
-  "institution": "Faa Oklahoma City Flight Inspection Field Office",
+  "institution": "FAA OKLAHOMA CITY FLIGHT INSPECTION FIELD OFFICE",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73169",
-  "email": true
+  "ope": null
 }

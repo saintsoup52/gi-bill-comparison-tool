@@ -1,6 +1,6 @@
 {
   "facility_code": "20775618",
-  "institution": "Baton Rouge Electrical J A T C",
+  "institution": "BATON ROUGE ELECTRICAL J A T C",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70817",
-  "email": false
+  "ope": null
 }

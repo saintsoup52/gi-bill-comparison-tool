@@ -1,6 +1,6 @@
 {
   "facility_code": "31100369",
-  "institution": "Middle East Technical University (Metu)",
+  "institution": "MIDDLE EAST TECHNICAL UNIVERSITY (METU)",
   "city": " Ankara",
   "state": "Turkey (except Adana)",
   "country": "Turkey (except Adana)",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

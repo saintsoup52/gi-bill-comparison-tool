@@ -1,6 +1,6 @@
 {
   "facility_code": "31807121",
-  "institution": "Tufts University School Of Medicine",
+  "institution": "TUFTS UNIVERSITY SCHOOL OF MEDICINE",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2111",
-  "email": true
+  "ope": "00221904"
 }

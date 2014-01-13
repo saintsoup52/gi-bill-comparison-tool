@@ -1,6 +1,6 @@
 {
   "facility_code": "20144707",
-  "institution": "Becton Dickinson And Company",
+  "institution": "BECTON DICKINSON AND COMPANY",
   "city": "Canaan",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6018",
-  "email": false
+  "ope": null
 }

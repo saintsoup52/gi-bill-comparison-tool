@@ -1,6 +1,6 @@
 {
   "facility_code": "20597213",
-  "institution": "Bnsf Railway Co",
+  "institution": "BNSF RAILWAY CO",
   "city": "Galesburg",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61401",
-  "email": true
+  "ope": null
 }

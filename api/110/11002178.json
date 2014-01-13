@@ -1,6 +1,6 @@
 {
   "facility_code": "11002178",
-  "institution": "Aarhus University",
+  "institution": "AARHUS UNIVERSITY",
   "city": "Dk-8000 Aarhus C",
   "state": "Denmark",
   "country": "Denmark",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "15002144",
-  "institution": "Cottonwood High School",
+  "institution": "COTTONWOOD HIGH SCHOOL",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84121",
-  "email": true
+  "ope": null
 }

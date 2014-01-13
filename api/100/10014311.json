@@ -1,6 +1,6 @@
 {
   "facility_code": "10014311",
-  "institution": "Atlanta Fire Department Station #18",
+  "institution": "ATLANTA FIRE DEPARTMENT STATION #18",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30317",
-  "email": false
+  "ope": null
 }

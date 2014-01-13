@@ -1,6 +1,6 @@
 {
   "facility_code": "31000292",
-  "institution": "Universidade Do Vale Do Paraiba",
+  "institution": "UNIVERSIDADE DO VALE DO PARAIBA",
   "city": "Sao Jose Dos Campo",
   "state": "Brazil",
   "country": "Brazil",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

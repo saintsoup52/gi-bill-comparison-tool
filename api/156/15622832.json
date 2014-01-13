@@ -1,6 +1,6 @@
 {
   "facility_code": "15622832",
-  "institution": "New York Hospital Medical Center Of Queens",
+  "institution": "NEW YORK HOSPITAL MEDICAL CENTER OF QUEENS",
   "city": "Flushing",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11355",
-  "email": false
+  "ope": null
 }

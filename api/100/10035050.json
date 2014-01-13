@@ -1,6 +1,6 @@
 {
   "facility_code": "10035050",
-  "institution": "Wyoming State Penitentiary",
+  "institution": "WYOMING STATE PENITENTIARY",
   "city": "Rawlins",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82301",
-  "email": true
+  "ope": null
 }

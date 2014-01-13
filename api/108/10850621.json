@@ -1,6 +1,6 @@
 {
   "facility_code": "10850621",
-  "institution": "Faa-Bedford Tower (Massachusetts)",
+  "institution": "FAA-BEDFORD TOWER (MASSACHUSETTS)",
   "city": "Bedford",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1730",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10816321",
-  "institution": "Brookline Police Department",
+  "institution": "BROOKLINE POLICE DEPARTMENT",
   "city": "Brookline",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2445",
-  "email": true
+  "ope": null
 }

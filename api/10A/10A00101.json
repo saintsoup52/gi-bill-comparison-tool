@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00101",
-  "institution": "Alabama Department Of Public Safety  Birmingham Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY  BIRMINGHAM POST",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35204",
-  "email": false
+  "ope": null
 }

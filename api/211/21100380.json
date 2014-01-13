@@ -1,6 +1,6 @@
 {
   "facility_code": "21100380",
-  "institution": "Munich Business School",
+  "institution": "MUNICH BUSINESS SCHOOL",
   "city": "Munchen",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

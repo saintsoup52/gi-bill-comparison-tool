@@ -1,6 +1,6 @@
 {
   "facility_code": "11901012",
-  "institution": "University Of Idaho",
+  "institution": "UNIVERSITY OF IDAHO",
   "city": "Moscow",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "83844",
-  "email": true
+  "ope": "00162600"
 }

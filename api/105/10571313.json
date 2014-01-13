@@ -1,6 +1,6 @@
 {
   "facility_code": "10571313",
-  "institution": "Macomb Police Department",
+  "institution": "MACOMB POLICE DEPARTMENT",
   "city": "Macomb",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61455",
-  "email": true
+  "ope": null
 }

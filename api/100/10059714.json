@@ -1,6 +1,6 @@
 {
   "facility_code": "10059714",
-  "institution": "Vanderburgh County Sheriff'S Department",
+  "institution": "VANDERBURGH COUNTY SHERIFF'S DEPARTMENT",
   "city": "Evansville",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47711",
-  "email": true
+  "ope": null
 }

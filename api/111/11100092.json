@@ -1,6 +1,6 @@
 {
   "facility_code": "11100092",
-  "institution": "Pontificia Universidad Javeriana",
+  "institution": "PONTIFICIA UNIVERSIDAD JAVERIANA",
   "city": "Santafe De Bogota",
   "state": "Colombia",
   "country": "Colombia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

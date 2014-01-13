@@ -1,6 +1,6 @@
 {
   "facility_code": "10625440",
-  "institution": "Lancaster County Sheriffs Office",
+  "institution": "LANCASTER COUNTY SHERIFFS OFFICE",
   "city": "Lancaster",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29720",
-  "email": false
+  "ope": null
 }

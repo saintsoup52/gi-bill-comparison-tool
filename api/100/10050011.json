@@ -1,6 +1,6 @@
 {
   "facility_code": "10050011",
-  "institution": "Vidalia Police Department",
+  "institution": "VIDALIA POLICE DEPARTMENT",
   "city": "Vidalia",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30474",
-  "email": false
+  "ope": null
 }

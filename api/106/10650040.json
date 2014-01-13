@@ -1,6 +1,6 @@
 {
   "facility_code": "10650040",
-  "institution": "Chester County Sheriff'S Office",
+  "institution": "CHESTER COUNTY SHERIFF'S OFFICE",
   "city": "Chester",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29706",
-  "email": false
+  "ope": null
 }

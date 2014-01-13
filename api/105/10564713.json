@@ -1,6 +1,6 @@
 {
   "facility_code": "10564713",
-  "institution": "City Of Quincy Police Department",
+  "institution": "CITY OF QUINCY POLICE DEPARTMENT",
   "city": "Quincy",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62301",
-  "email": false
+  "ope": null
 }

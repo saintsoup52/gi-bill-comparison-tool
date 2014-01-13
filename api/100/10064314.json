@@ -1,6 +1,6 @@
 {
   "facility_code": "10064314",
-  "institution": "Vincennes Police Department",
+  "institution": "VINCENNES POLICE DEPARTMENT",
   "city": "Vincennes",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47591",
-  "email": false
+  "ope": null
 }

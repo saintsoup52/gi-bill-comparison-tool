@@ -1,6 +1,6 @@
 {
   "facility_code": "10205816",
-  "institution": "Montgomery County Community Correction",
+  "institution": "MONTGOMERY COUNTY COMMUNITY CORRECTION",
   "city": "Independence",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67301",
-  "email": false
+  "ope": null
 }

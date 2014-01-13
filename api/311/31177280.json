@@ -1,6 +1,6 @@
 {
   "facility_code": "31177280",
-  "institution": "Technische Universitat Hamburg-Harburg",
+  "institution": "TECHNISCHE UNIVERSITAT HAMBURG-HARBURG",
   "city": "Hamburg",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

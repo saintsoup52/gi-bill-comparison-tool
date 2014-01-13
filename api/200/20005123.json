@@ -1,6 +1,6 @@
 {
   "facility_code": "20005123",
-  "institution": "Minnesota Power Company",
+  "institution": "MINNESOTA POWER COMPANY",
   "city": "Duluth",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55802",
-  "email": false
+  "ope": null
 }

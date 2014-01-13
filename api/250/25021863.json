@@ -1,6 +1,6 @@
 {
   "facility_code": "25021863",
-  "institution": "Escuela Tecnica De Electricidad-Ponce",
+  "institution": "ESCUELA TECNICA DE ELECTRICIDAD-PONCE",
   "city": "Ponce",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "730",
-  "email": true
+  "ope": null
 }

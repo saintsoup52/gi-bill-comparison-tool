@@ -1,6 +1,6 @@
 {
   "facility_code": "30590613",
-  "institution": "Exelon Quad Cities Nuclear Generating Station",
+  "institution": "EXELON QUAD CITIES NUCLEAR GENERATING STATION",
   "city": "Cordova",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61242",
-  "email": true
+  "ope": null
 }

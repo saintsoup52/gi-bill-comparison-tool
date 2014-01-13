@@ -1,6 +1,6 @@
 {
   "facility_code": "11200680",
-  "institution": "Hochschule Kempten",
+  "institution": "HOCHSCHULE KEMPTEN",
   "city": "Kempten",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

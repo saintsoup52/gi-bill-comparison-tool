@@ -1,6 +1,6 @@
 {
   "facility_code": "10N03832",
-  "institution": "Lakeview S.I.C.F.",
+  "institution": "LAKEVIEW S.I.C.F.",
   "city": "Brocton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14716",
-  "email": false
+  "ope": null
 }

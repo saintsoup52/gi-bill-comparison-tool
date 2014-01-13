@@ -1,6 +1,6 @@
 {
   "facility_code": "20888521",
-  "institution": "New England Power Group Inc.",
+  "institution": "NEW ENGLAND POWER GROUP INC.",
   "city": "Woburn",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1801",
-  "email": true
+  "ope": null
 }

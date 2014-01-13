@@ -1,6 +1,6 @@
 {
   "facility_code": "19001046",
-  "institution": "Department Of The Treasury/Irs Office",
+  "institution": "DEPARTMENT OF THE TREASURY/IRS OFFICE",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23666",
-  "email": true
+  "ope": null
 }

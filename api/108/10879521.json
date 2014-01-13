@@ -1,6 +1,6 @@
 {
   "facility_code": "10879521",
-  "institution": "Plymouth County Sheriff'S Department",
+  "institution": "PLYMOUTH COUNTY SHERIFF'S DEPARTMENT",
   "city": "Plymouth",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2360",
-  "email": true
+  "ope": null
 }

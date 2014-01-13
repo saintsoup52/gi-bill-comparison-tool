@@ -1,6 +1,6 @@
 {
   "facility_code": "10571513",
-  "institution": "Greenville Police Department",
+  "institution": "GREENVILLE POLICE DEPARTMENT",
   "city": "Greenville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62246",
-  "email": false
+  "ope": null
 }

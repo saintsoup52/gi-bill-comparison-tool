@@ -1,6 +1,6 @@
 {
   "facility_code": "10015911",
-  "institution": "Gwinnett County Comprehensive Correctional Complex",
+  "institution": "GWINNETT COUNTY COMPREHENSIVE CORRECTIONAL COMPLEX",
   "city": "Lawrenceville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30043",
-  "email": false
+  "ope": null
 }

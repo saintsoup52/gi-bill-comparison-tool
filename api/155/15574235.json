@@ -1,6 +1,6 @@
 {
   "facility_code": "15574235",
-  "institution": "Northwest High School",
+  "institution": "NORTHWEST HIGH SCHOOL",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45231",
-  "email": true
+  "ope": null
 }

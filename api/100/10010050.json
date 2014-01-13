@@ -1,6 +1,6 @@
 {
   "facility_code": "10010050",
-  "institution": "Casper Police Department",
+  "institution": "CASPER POLICE DEPARTMENT",
   "city": "Casper",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82601",
-  "email": true
+  "ope": null
 }

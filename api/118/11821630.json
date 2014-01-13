@@ -1,6 +1,6 @@
 {
   "facility_code": "11821630",
-  "institution": "Rutgers The State University Graduate Schools (New Brunswick)",
+  "institution": "RUTGERS THE STATE UNIVERSITY GRADUATE SCHOOLS (NEW BRUNSWICK)",
   "city": "New Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8903",
-  "email": true
+  "ope": "00262900"
 }

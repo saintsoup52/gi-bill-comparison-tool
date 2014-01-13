@@ -1,6 +1,6 @@
 {
   "facility_code": "14901126",
-  "institution": "Montana State University - Gallatin College",
+  "institution": "MONTANA STATE UNIVERSITY - GALLATIN COLLEGE",
   "city": "Bozeman",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "59717",
-  "email": true
+  "ope": "00253200"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10J66438",
-  "institution": "Juniata County Prison",
+  "institution": "JUNIATA COUNTY PRISON",
   "city": "Mifflintown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17059",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11906105",
-  "institution": "Humboldt State University",
+  "institution": "HUMBOLDT STATE UNIVERSITY",
   "city": "Arcata",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95521",
-  "email": true
+  "ope": "00114900"
 }

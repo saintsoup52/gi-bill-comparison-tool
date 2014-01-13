@@ -1,6 +1,6 @@
 {
   "facility_code": "10660140",
-  "institution": "Mcas Beaufort Fire Rescue",
+  "institution": "MCAS BEAUFORT FIRE RESCUE",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29904",
-  "email": true
+  "ope": null
 }

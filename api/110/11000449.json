@@ -1,6 +1,6 @@
 {
   "facility_code": "11000449",
-  "institution": "Univ Of Wisc-Milwaukee",
+  "institution": "UNIV OF WISC-MILWAUKEE",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53201",
-  "email": true
+  "ope": "00389600"
 }

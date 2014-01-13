@@ -1,6 +1,6 @@
 {
   "facility_code": "10081314",
-  "institution": "City Of Anderson Municipal Light & Power",
+  "institution": "CITY OF ANDERSON MUNICIPAL LIGHT & POWER",
   "city": "Anderson",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46011",
-  "email": false
+  "ope": null
 }

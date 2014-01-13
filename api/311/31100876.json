@@ -1,6 +1,6 @@
 {
   "facility_code": "31100876",
-  "institution": "Universidad De Palermo",
+  "institution": "UNIVERSIDAD DE PALERMO",
   "city": "Ciudad Autonoma De",
   "state": "Argentina",
   "country": "Argentina",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

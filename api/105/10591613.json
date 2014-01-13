@@ -1,6 +1,6 @@
 {
   "facility_code": "10591613",
-  "institution": "Kendall County Sheriff'S Office",
+  "institution": "KENDALL COUNTY SHERIFF'S OFFICE",
   "city": "Yorkville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60560",
-  "email": true
+  "ope": null
 }

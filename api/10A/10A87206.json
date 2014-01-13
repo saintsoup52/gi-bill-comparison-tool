@@ -1,6 +1,6 @@
 {
   "facility_code": "10A87206",
-  "institution": "Us Forest Service Rocky Mtn Research Station",
+  "institution": "US FOREST SERVICE ROCKY MTN RESEARCH STATION",
   "city": "Fort Collins",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80526",
-  "email": "No (SCO)"
+  "ope": null
 }

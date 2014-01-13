@@ -1,6 +1,6 @@
 {
   "facility_code": "10458315",
-  "institution": "University Of Iowa Health Care",
+  "institution": "UNIVERSITY OF IOWA HEALTH CARE",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52242",
-  "email": false
+  "ope": null
 }

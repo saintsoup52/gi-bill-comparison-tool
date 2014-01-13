@@ -1,6 +1,6 @@
 {
   "facility_code": "10040523",
-  "institution": "Rochester Fire Department",
+  "institution": "ROCHESTER FIRE DEPARTMENT",
   "city": "Rochester",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55904",
-  "email": false
+  "ope": null
 }

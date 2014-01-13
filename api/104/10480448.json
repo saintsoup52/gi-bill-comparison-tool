@@ -1,6 +1,6 @@
 {
   "facility_code": "10480448",
-  "institution": "West Virginia Division Of Veterans Affairs",
+  "institution": "WEST VIRGINIA DIVISION OF VETERANS AFFAIRS",
   "city": "Charleston",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25301",
-  "email": true
+  "ope": null
 }

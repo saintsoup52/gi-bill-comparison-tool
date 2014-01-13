@@ -1,6 +1,6 @@
 {
   "facility_code": "10558630",
-  "institution": "Middletown Township Police Department",
+  "institution": "MIDDLETOWN TOWNSHIP POLICE DEPARTMENT",
   "city": "Middletown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7748",
-  "email": true
+  "ope": null
 }

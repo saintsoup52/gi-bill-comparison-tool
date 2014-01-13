@@ -1,6 +1,6 @@
 {
   "facility_code": "31112276",
-  "institution": "Universidad Veritas S.A.",
+  "institution": "UNIVERSIDAD VERITAS S.A.",
   "city": "San Jose",
   "state": "Costa Rica",
   "country": "Costa Rica",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

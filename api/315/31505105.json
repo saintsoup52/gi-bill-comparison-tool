@@ -1,6 +1,6 @@
 {
   "facility_code": "31505105",
-  "institution": "University Of Southern California",
+  "institution": "UNIVERSITY OF SOUTHERN CALIFORNIA",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90089",
-  "email": false
+  "ope": "00132800"
 }

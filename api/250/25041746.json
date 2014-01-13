@@ -1,6 +1,6 @@
 {
   "facility_code": "25041746",
-  "institution": "The Skin Care Center",
+  "institution": "THE SKIN CARE CENTER",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22309",
-  "email": true
+  "ope": null
 }

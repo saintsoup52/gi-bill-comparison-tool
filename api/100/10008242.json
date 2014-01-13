@@ -1,6 +1,6 @@
 {
   "facility_code": "10008242",
-  "institution": "Internal Revenue Service Memphis - Chapter 31 Only",
+  "institution": "INTERNAL REVENUE SERVICE MEMPHIS - CHAPTER 31 ONLY",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38118",
-  "email": false
+  "ope": null
 }

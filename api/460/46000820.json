@@ -1,6 +1,6 @@
 {
   "facility_code": "46000820",
-  "institution": "Maryland Real Estate Commission",
+  "institution": "MARYLAND REAL ESTATE COMMISSION",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21202",
-  "email": true
+  "ope": null
 }

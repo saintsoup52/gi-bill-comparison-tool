@@ -1,6 +1,6 @@
 {
   "facility_code": "10P32238",
-  "institution": "Pennsylvania State Police Hazelton Troop N",
+  "institution": "PENNSYLVANIA STATE POLICE HAZELTON TROOP N",
   "city": "West Hazelton",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18201",
-  "email": true
+  "ope": null
 }

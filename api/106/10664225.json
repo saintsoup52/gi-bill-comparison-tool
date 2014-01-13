@@ -1,6 +1,6 @@
 {
   "facility_code": "10664225",
-  "institution": "4207th Us Army Hospital - 89th Rsc",
+  "institution": "4207TH US ARMY HOSPITAL - 89TH RSC",
   "city": "Greentop",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63546",
-  "email": false
+  "ope": null
 }

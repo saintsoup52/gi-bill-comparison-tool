@@ -1,6 +1,6 @@
 {
   "facility_code": "10B32323",
-  "institution": "Us Marshals Service    District Of Minnesota",
+  "institution": "US MARSHALS SERVICE    DISTRICT OF MINNESOTA",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55415",
-  "email": "No (SCO)"
+  "ope": null
 }

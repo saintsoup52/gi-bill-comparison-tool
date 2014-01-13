@@ -1,6 +1,6 @@
 {
   "facility_code": "10000419",
-  "institution": "Social Security Administration - Waterville",
+  "institution": "SOCIAL SECURITY ADMINISTRATION - WATERVILLE",
   "city": "Waterville",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4901",
-  "email": false
+  "ope": null
 }

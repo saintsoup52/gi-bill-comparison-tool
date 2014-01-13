@@ -1,6 +1,6 @@
 {
   "facility_code": "10003508",
-  "institution": "Laurel Police Department",
+  "institution": "LAUREL POLICE DEPARTMENT",
   "city": "Laurel",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19956",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25020508",
-  "institution": "Kfw Medical Institute Of Delaware",
+  "institution": "KFW MEDICAL INSTITUTE OF DELAWARE",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19711",
-  "email": false
+  "ope": null
 }

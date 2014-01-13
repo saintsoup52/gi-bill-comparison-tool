@@ -1,6 +1,6 @@
 {
   "facility_code": "31003420",
-  "institution": "Embry-Riddle Aeronautical Univ Andrews Afb",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV ANDREWS AFB",
   "city": "Andrews Afb",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20762",
-  "email": true
+  "ope": "00147905"
 }

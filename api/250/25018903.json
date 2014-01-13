@@ -1,6 +1,6 @@
 {
   "facility_code": "25018903",
-  "institution": "Mesa Pilot Development",
+  "institution": "MESA PILOT DEVELOPMENT",
   "city": "Mesa",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85212",
-  "email": true
+  "ope": null
 }

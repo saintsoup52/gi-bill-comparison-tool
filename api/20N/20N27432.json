@@ -1,6 +1,6 @@
 {
   "facility_code": "20N27432",
-  "institution": "Novelis Corporation",
+  "institution": "NOVELIS CORPORATION",
   "city": "Oswego",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13126",
-  "email": true
+  "ope": null
 }

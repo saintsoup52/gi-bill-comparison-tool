@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00801",
-  "institution": "Alabama Department Of Public Safety Jacksonville Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY JACKSONVILLE POST",
   "city": "Jacksonville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36265",
-  "email": true
+  "ope": null
 }

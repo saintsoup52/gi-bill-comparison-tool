@@ -1,6 +1,6 @@
 {
   "facility_code": "10288904",
-  "institution": "Faa Ft Smith Atct",
+  "institution": "FAA FT SMITH ATCT",
   "city": "Ft Smith",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72903",
-  "email": false
+  "ope": null
 }

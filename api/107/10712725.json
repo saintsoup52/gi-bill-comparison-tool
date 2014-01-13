@@ -1,6 +1,6 @@
 {
   "facility_code": "10712725",
-  "institution": "Us Army Mscoe-Pmid",
+  "institution": "US ARMY MSCOE-PMID",
   "city": "Fort Leonard Wood",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65473",
-  "email": false
+  "ope": null
 }

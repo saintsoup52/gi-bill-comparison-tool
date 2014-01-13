@@ -1,6 +1,6 @@
 {
   "facility_code": "10045747",
-  "institution": "Yakima Fire Department",
+  "institution": "YAKIMA FIRE DEPARTMENT",
   "city": "Yakima",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98901",
-  "email": false
+  "ope": null
 }

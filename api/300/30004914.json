@@ -1,6 +1,6 @@
 {
   "facility_code": "30004914",
-  "institution": "Options",
+  "institution": "OPTIONS",
   "city": "Bloomington",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47402",
-  "email": false
+  "ope": null
 }

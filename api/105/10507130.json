@@ -1,6 +1,6 @@
 {
   "facility_code": "10507130",
-  "institution": "Toms River Police Department",
+  "institution": "TOMS RIVER POLICE DEPARTMENT",
   "city": "Toms River",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8753",
-  "email": true
+  "ope": null
 }

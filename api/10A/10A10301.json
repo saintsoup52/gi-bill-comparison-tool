@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10301",
-  "institution": "Uab Medical Center (Ch31)",
+  "institution": "UAB MEDICAL CENTER (CH31)",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35294",
-  "email": false
+  "ope": null
 }

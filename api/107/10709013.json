@@ -1,6 +1,6 @@
 {
   "facility_code": "10709013",
-  "institution": "Union County Sheriff",
+  "institution": "UNION COUNTY SHERIFF",
   "city": "Jonesboro",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62952",
-  "email": true
+  "ope": null
 }

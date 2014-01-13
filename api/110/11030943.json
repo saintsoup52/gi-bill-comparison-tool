@@ -1,6 +1,6 @@
 {
   "facility_code": "11030943",
-  "institution": "Education Service Center Region 12",
+  "institution": "EDUCATION SERVICE CENTER REGION 12",
   "city": "Waco",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76702",
-  "email": false
+  "ope": null
 }

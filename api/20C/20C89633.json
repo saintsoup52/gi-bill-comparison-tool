@@ -1,6 +1,6 @@
 {
   "facility_code": "20C89633",
-  "institution": "Newcomb And Company",
+  "institution": "NEWCOMB AND COMPANY",
   "city": "Raleigh",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27608",
-  "email": false
+  "ope": null
 }

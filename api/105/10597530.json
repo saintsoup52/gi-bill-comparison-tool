@@ -1,6 +1,6 @@
 {
   "facility_code": "10597530",
-  "institution": "West Orange Fire Department",
+  "institution": "WEST ORANGE FIRE DEPARTMENT",
   "city": "West Orange",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7072",
-  "email": true
+  "ope": null
 }

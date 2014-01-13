@@ -1,6 +1,6 @@
 {
   "facility_code": "10576013",
-  "institution": "Boone County Sheriff'S Dept.",
+  "institution": "BOONE COUNTY SHERIFF'S DEPT.",
   "city": "Belvidere",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61008",
-  "email": true
+  "ope": null
 }

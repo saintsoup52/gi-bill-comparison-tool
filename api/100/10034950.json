@@ -1,6 +1,6 @@
 {
   "facility_code": "10034950",
-  "institution": "Wyoming Medium Correctional Institution",
+  "institution": "WYOMING MEDIUM CORRECTIONAL INSTITUTION",
   "city": "Torrington",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82240",
-  "email": true
+  "ope": null
 }

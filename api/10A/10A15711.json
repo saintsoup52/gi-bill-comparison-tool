@@ -1,6 +1,6 @@
 {
   "facility_code": "10A15711",
-  "institution": "Marta Rail/Electronics",
+  "institution": "MARTA RAIL/ELECTRONICS",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30324",
-  "email": true
+  "ope": null
 }

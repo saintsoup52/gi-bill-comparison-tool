@@ -1,6 +1,6 @@
 {
   "facility_code": "10A12310",
-  "institution": "Walton County Sheriff'S Office",
+  "institution": "WALTON COUNTY SHERIFF'S OFFICE",
   "city": "Defuniak Springs",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32435",
-  "email": true
+  "ope": null
 }

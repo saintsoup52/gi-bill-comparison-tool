@@ -1,6 +1,6 @@
 {
   "facility_code": "10379101",
-  "institution": "Federal Correctional Institute",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTE",
   "city": "Talladega",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35160",
-  "email": false
+  "ope": null
 }

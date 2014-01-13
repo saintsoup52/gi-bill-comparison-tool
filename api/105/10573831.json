@@ -1,6 +1,6 @@
 {
   "facility_code": "10573831",
-  "institution": "U. S. Dept. Of Veterans Affairs Medical Center",
+  "institution": "U. S. DEPT. OF VETERANS AFFAIRS MEDICAL CENTER",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87108",
-  "email": false
+  "ope": null
 }

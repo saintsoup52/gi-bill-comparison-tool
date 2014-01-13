@@ -1,6 +1,6 @@
 {
   "facility_code": "10122711",
-  "institution": "Thomaston Police Department",
+  "institution": "THOMASTON POLICE DEPARTMENT",
   "city": "Thomaston",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30286",
-  "email": false
+  "ope": null
 }

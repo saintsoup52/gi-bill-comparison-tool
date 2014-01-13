@@ -1,6 +1,6 @@
 {
   "facility_code": "11902105",
-  "institution": "University Of California- Santa Cruz",
+  "institution": "UNIVERSITY OF CALIFORNIA- SANTA CRUZ",
   "city": "Santa Cruz",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95064",
-  "email": false
+  "ope": "00132100"
 }

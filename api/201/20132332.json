@@ -1,6 +1,6 @@
 {
   "facility_code": "20132332",
-  "institution": "International Union Of Operating Engineers Local 30",
+  "institution": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 30",
   "city": "Richmond Hill",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11418",
-  "email": true
+  "ope": null
 }

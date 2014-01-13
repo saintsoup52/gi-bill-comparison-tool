@@ -1,6 +1,6 @@
 {
   "facility_code": "25005644",
-  "institution": "Emedco (Ch 31)",
+  "institution": "EMEDCO (CH 31)",
   "city": "Sandy",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84070",
-  "email": false
+  "ope": null
 }

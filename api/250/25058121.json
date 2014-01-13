@@ -1,6 +1,6 @@
 {
   "facility_code": "25058121",
-  "institution": "Springfield Educational Center",
+  "institution": "SPRINGFIELD EDUCATIONAL CENTER",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1108",
-  "email": false
+  "ope": null
 }

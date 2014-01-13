@@ -1,6 +1,6 @@
 {
   "facility_code": "31900213",
-  "institution": "Rush University",
+  "institution": "RUSH UNIVERSITY",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60612",
-  "email": true
+  "ope": "00980000"
 }

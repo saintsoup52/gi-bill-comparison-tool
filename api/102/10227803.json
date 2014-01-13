@@ -1,6 +1,6 @@
 {
   "facility_code": "10227803",
-  "institution": "Pima County Sheriff'S Department",
+  "institution": "PIMA COUNTY SHERIFF'S DEPARTMENT",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85714",
-  "email": true
+  "ope": null
 }

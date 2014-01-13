@@ -1,6 +1,6 @@
 {
   "facility_code": "10999210",
-  "institution": "U.S. Customs And Border Protection - Tampa Office",
+  "institution": "U.S. CUSTOMS AND BORDER PROTECTION - TAMPA OFFICE",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33605",
-  "email": true
+  "ope": null
 }

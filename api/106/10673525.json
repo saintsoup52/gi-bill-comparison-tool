@@ -1,6 +1,6 @@
 {
   "facility_code": "10673525",
-  "institution": "General Leonard Wood Army Comm Hospital",
+  "institution": "GENERAL LEONARD WOOD ARMY COMM HOSPITAL",
   "city": "Fort Leonard Wood",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65473",
-  "email": false
+  "ope": null
 }

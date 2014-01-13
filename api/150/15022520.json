@@ -1,6 +1,6 @@
 {
   "facility_code": "15022520",
-  "institution": "University Of Maryland Police Academy",
+  "institution": "UNIVERSITY OF MARYLAND POLICE ACADEMY",
   "city": "College Park",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20742",
-  "email": true
+  "ope": null
 }

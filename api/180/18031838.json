@@ -1,6 +1,6 @@
 {
   "facility_code": "18031838",
-  "institution": "Pittsburgh Police Training Academy",
+  "institution": "PITTSBURGH POLICE TRAINING ACADEMY",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15206",
-  "email": true
+  "ope": null
 }

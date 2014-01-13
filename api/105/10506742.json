@@ -1,6 +1,6 @@
 {
   "facility_code": "10506742",
-  "institution": "Military Entrance Processing Station Memphis - Chapter 31 Only",
+  "institution": "MILITARY ENTRANCE PROCESSING STATION MEMPHIS - CHAPTER 31 ONLY",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38103",
-  "email": false
+  "ope": null
 }

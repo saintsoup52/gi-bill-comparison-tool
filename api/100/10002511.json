@@ -1,6 +1,6 @@
 {
   "facility_code": "10002511",
-  "institution": "Lincoln County Sheriff'S Department",
+  "institution": "LINCOLN COUNTY SHERIFF'S DEPARTMENT",
   "city": "Lincolnton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30817",
-  "email": false
+  "ope": null
 }

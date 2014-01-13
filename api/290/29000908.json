@@ -1,6 +1,6 @@
 {
   "facility_code": "29000908",
-  "institution": "Institute For The Dev Of Human Resources (Chap 31)",
+  "institution": "INSTITUTE FOR THE DEV OF HUMAN RESOURCES (CHAP 31)",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19702",
-  "email": false
+  "ope": null
 }

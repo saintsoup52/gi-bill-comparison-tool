@@ -1,6 +1,6 @@
 {
   "facility_code": "11102075",
-  "institution": "Concordia University",
+  "institution": "CONCORDIA UNIVERSITY",
   "city": "Montreal",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

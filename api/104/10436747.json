@@ -1,6 +1,6 @@
 {
   "facility_code": "10436747",
-  "institution": "Port Angeles Police Department",
+  "institution": "PORT ANGELES POLICE DEPARTMENT",
   "city": "Port Angeles",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98362",
-  "email": true
+  "ope": null
 }

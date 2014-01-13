@@ -1,6 +1,6 @@
 {
   "facility_code": "10072711",
-  "institution": "U.S. Department Of Justice",
+  "institution": "U.S. DEPARTMENT OF JUSTICE",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30303",
-  "email": false
+  "ope": null
 }

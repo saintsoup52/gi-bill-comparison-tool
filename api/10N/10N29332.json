@@ -1,6 +1,6 @@
 {
   "facility_code": "10N29332",
-  "institution": "Tupper Lake Police Department",
+  "institution": "TUPPER LAKE POLICE DEPARTMENT",
   "city": "Tupper Lake",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12986",
-  "email": false
+  "ope": null
 }

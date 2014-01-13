@@ -1,6 +1,6 @@
 {
   "facility_code": "10190620",
-  "institution": "Sears Home Services",
+  "institution": "SEARS HOME SERVICES",
   "city": "Glen Burnie",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21060",
-  "email": false
+  "ope": null
 }

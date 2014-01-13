@@ -1,6 +1,6 @@
 {
   "facility_code": "102B3205",
-  "institution": "Faa- Camarillo Tower",
+  "institution": "FAA- CAMARILLO TOWER",
   "city": "Camarillo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93010",
-  "email": false
+  "ope": null
 }

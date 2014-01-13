@@ -1,6 +1,6 @@
 {
   "facility_code": "10C22843",
-  "institution": "Balch Springs Police Department",
+  "institution": "BALCH SPRINGS POLICE DEPARTMENT",
   "city": "Balch Springs",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75180",
-  "email": false
+  "ope": null
 }

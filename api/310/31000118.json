@@ -1,6 +1,6 @@
 {
   "facility_code": "31000118",
-  "institution": "Dillard University",
+  "institution": "DILLARD UNIVERSITY",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70122",
-  "email": true
+  "ope": "00200400"
 }

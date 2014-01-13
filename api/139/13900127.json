@@ -1,6 +1,6 @@
 {
   "facility_code": "13900127",
-  "institution": "Chadron State College",
+  "institution": "CHADRON STATE COLLEGE",
   "city": "Chadron",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "69337",
-  "email": true
+  "ope": "00253900"
 }

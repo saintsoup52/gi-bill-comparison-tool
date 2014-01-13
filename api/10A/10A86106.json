@@ -1,6 +1,6 @@
 {
   "facility_code": "10A86106",
-  "institution": "Federal Correctional Complex",
+  "institution": "FEDERAL CORRECTIONAL COMPLEX",
   "city": "Florence",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81226",
-  "email": false
+  "ope": null
 }

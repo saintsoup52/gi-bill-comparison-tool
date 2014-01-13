@@ -1,6 +1,6 @@
 {
   "facility_code": "10034250",
-  "institution": "University Of Wyoming Police Department",
+  "institution": "UNIVERSITY OF WYOMING POLICE DEPARTMENT",
   "city": "Laramie",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82071",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N32932",
-  "institution": "Long Island Railroad Bethpage Facility",
+  "institution": "LONG ISLAND RAILROAD BETHPAGE FACILITY",
   "city": "Bethpage",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11714",
-  "email": false
+  "ope": null
 }

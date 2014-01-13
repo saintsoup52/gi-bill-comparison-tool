@@ -1,6 +1,6 @@
 {
   "facility_code": "10N30632",
-  "institution": "New York City Police Dept. - 111th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 111TH PRECINCT",
   "city": "Bayside",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11361",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30911521",
-  "institution": "Massachusetts Institute Of Technology- Nuclear Reactor Laboratory",
+  "institution": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY- NUCLEAR REACTOR LABORATORY",
   "city": "Cambridge",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2139",
-  "email": true
+  "ope": null
 }

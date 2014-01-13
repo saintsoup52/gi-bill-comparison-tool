@@ -1,6 +1,6 @@
 {
   "facility_code": "10512817",
-  "institution": "Campbellsville Police Department",
+  "institution": "CAMPBELLSVILLE POLICE DEPARTMENT",
   "city": "Campbellsville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42718",
-  "email": false
+  "ope": null
 }

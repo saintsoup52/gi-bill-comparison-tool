@@ -1,6 +1,6 @@
 {
   "facility_code": "10R08738",
-  "institution": "Altoona Public Library",
+  "institution": "ALTOONA PUBLIC LIBRARY",
   "city": "Altoona",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16602",
-  "email": false
+  "ope": null
 }

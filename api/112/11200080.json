@@ -1,6 +1,6 @@
 {
   "facility_code": "11200080",
-  "institution": "Technical University Berlin",
+  "institution": "TECHNICAL UNIVERSITY BERLIN",
   "city": "Berlin",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

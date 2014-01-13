@@ -1,6 +1,6 @@
 {
   "facility_code": "103B0005",
-  "institution": "Corcoran State Prison",
+  "institution": "CORCORAN STATE PRISON",
   "city": "Corcoran",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93212",
-  "email": false
+  "ope": null
 }

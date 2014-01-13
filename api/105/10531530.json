@@ -1,6 +1,6 @@
 {
   "facility_code": "10531530",
-  "institution": "Somerset County Sheriff'S Department",
+  "institution": "SOMERSET COUNTY SHERIFF'S DEPARTMENT",
   "city": "Somerville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8876",
-  "email": false
+  "ope": null
 }

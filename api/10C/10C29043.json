@@ -1,6 +1,6 @@
 {
   "facility_code": "10C29043",
-  "institution": "Keller Isd",
+  "institution": "KELLER ISD",
   "city": "Keller",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76248",
-  "email": false
+  "ope": null
 }

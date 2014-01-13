@@ -1,6 +1,6 @@
 {
   "facility_code": "20473515",
-  "institution": "Marshalltown Fire Department",
+  "institution": "MARSHALLTOWN FIRE DEPARTMENT",
   "city": "Marshalltown",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50158",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10010444",
-  "institution": "Usdi - Blm Price Field Office (Ch 31)",
+  "institution": "USDI - BLM PRICE FIELD OFFICE (CH 31)",
   "city": "Price",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84501",
-  "email": false
+  "ope": null
 }

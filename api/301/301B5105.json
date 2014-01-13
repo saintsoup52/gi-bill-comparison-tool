@@ -1,6 +1,6 @@
 {
   "facility_code": "301B5105",
-  "institution": "Disabled American Veterans (Chapter 31 Only)",
+  "institution": "DISABLED AMERICAN VETERANS (CHAPTER 31 ONLY)",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90024",
-  "email": false
+  "ope": null
 }

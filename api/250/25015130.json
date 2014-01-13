@@ -1,6 +1,6 @@
 {
   "facility_code": "25015130",
-  "institution": "Com-Tec Institute",
+  "institution": "COM-TEC INSTITUTE",
   "city": "East Orange",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7017",
-  "email": false
+  "ope": null
 }

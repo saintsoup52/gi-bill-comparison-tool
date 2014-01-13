@@ -1,6 +1,6 @@
 {
   "facility_code": "18815230",
-  "institution": "Bergen County Technical Institute",
+  "institution": "BERGEN COUNTY TECHNICAL INSTITUTE",
   "city": "Hackensack",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "7601",
-  "email": true
+  "ope": "02312000"
 }

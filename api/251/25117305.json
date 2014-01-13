@@ -1,6 +1,6 @@
 {
   "facility_code": "25117305",
-  "institution": "Test Ndt Inc (Chapter 31)",
+  "institution": "TEST NDT INC (CHAPTER 31)",
   "city": "Brea",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92821",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10009211",
-  "institution": "Armstrong Atlantic State Univ. Dept Of Public Safety",
+  "institution": "ARMSTRONG ATLANTIC STATE UNIV. DEPT OF PUBLIC SAFETY",
   "city": "Savannah",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31419",
-  "email": false
+  "ope": null
 }

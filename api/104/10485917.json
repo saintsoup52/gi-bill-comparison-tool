@@ -1,6 +1,6 @@
 {
   "facility_code": "10485917",
-  "institution": "Barlow Police Department",
+  "institution": "BARLOW POLICE DEPARTMENT",
   "city": "Barlow",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42024",
-  "email": false
+  "ope": null
 }

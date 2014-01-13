@@ -1,6 +1,6 @@
 {
   "facility_code": "10D17438",
-  "institution": "Phila Co Assistance Off",
+  "institution": "PHILA CO ASSISTANCE OFF",
   "city": "Phila",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19130",
-  "email": false
+  "ope": null
 }

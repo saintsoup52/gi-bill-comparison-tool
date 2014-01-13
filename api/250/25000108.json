@@ -1,6 +1,6 @@
 {
   "facility_code": "25000108",
-  "institution": "Corexcel",
+  "institution": "COREXCEL",
   "city": "Wilmington",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19810",
-  "email": false
+  "ope": null
 }

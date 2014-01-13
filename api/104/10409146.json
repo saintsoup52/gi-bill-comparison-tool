@@ -1,6 +1,6 @@
 {
   "facility_code": "10409146",
-  "institution": "Greensville Correctional Ctr",
+  "institution": "GREENSVILLE CORRECTIONAL CTR",
   "city": "Jarratt",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23870",
-  "email": false
+  "ope": null
 }

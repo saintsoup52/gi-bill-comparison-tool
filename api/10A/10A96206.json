@@ -1,6 +1,6 @@
 {
   "facility_code": "10A96206",
-  "institution": "Wheat Ridge Police Department",
+  "institution": "WHEAT RIDGE POLICE DEPARTMENT",
   "city": "Wheat Ridge",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80033",
-  "email": false
+  "ope": null
 }

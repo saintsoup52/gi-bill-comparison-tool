@@ -1,6 +1,6 @@
 {
   "facility_code": "31001085",
-  "institution": "Sophia University",
+  "institution": "SOPHIA UNIVERSITY",
   "city": "Chiyoda-Ku",
   "state": "Japan",
   "country": "Japan",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

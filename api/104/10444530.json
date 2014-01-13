@@ -1,6 +1,6 @@
 {
   "facility_code": "10444530",
-  "institution": "Harrison Police Department",
+  "institution": "HARRISON POLICE DEPARTMENT",
   "city": "Harrison",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7029",
-  "email": false
+  "ope": null
 }

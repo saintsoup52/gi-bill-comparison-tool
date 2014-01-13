@@ -1,6 +1,6 @@
 {
   "facility_code": "101B9805",
-  "institution": "El Cajon Police Department",
+  "institution": "EL CAJON POLICE DEPARTMENT",
   "city": "El Cajon",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92020",
-  "email": true
+  "ope": null
 }

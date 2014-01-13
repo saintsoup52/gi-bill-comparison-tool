@@ -1,6 +1,6 @@
 {
   "facility_code": "10994311",
-  "institution": "Kingsland Police Department",
+  "institution": "KINGSLAND POLICE DEPARTMENT",
   "city": "Kingsland",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31548",
-  "email": true
+  "ope": null
 }

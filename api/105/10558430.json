@@ -1,6 +1,6 @@
 {
   "facility_code": "10558430",
-  "institution": "Union County Police Department",
+  "institution": "UNION COUNTY POLICE DEPARTMENT",
   "city": "Westfield",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7090",
-  "email": false
+  "ope": null
 }

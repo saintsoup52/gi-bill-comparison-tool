@@ -1,6 +1,6 @@
 {
   "facility_code": "10053102",
-  "institution": "Southwest Alaska System Support Center",
+  "institution": "SOUTHWEST ALASKA SYSTEM SUPPORT CENTER",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99506",
-  "email": false
+  "ope": null
 }

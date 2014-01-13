@@ -1,6 +1,6 @@
 {
   "facility_code": "10A94006",
-  "institution": "University Of Colorado Police Department",
+  "institution": "UNIVERSITY OF COLORADO POLICE DEPARTMENT",
   "city": "Boulder",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80309",
-  "email": false
+  "ope": null
 }

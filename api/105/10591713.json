@@ -1,6 +1,6 @@
 {
   "facility_code": "10591713",
-  "institution": "Plano Police Department",
+  "institution": "PLANO POLICE DEPARTMENT",
   "city": "Plano",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60545",
-  "email": false
+  "ope": null
 }

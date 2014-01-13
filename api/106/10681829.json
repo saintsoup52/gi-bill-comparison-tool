@@ -1,6 +1,6 @@
 {
   "facility_code": "10681829",
-  "institution": "Hooksett Police Department",
+  "institution": "HOOKSETT POLICE DEPARTMENT",
   "city": "Hooksett",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3106",
-  "email": true
+  "ope": null
 }

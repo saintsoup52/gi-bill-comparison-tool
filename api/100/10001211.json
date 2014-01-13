@@ -1,6 +1,6 @@
 {
   "facility_code": "10001211",
-  "institution": "Georgia Bureau Of Investigation - Region 3 (Americus)",
+  "institution": "GEORGIA BUREAU OF INVESTIGATION - REGION 3 (AMERICUS)",
   "city": "Americus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31709",
-  "email": false
+  "ope": null
 }

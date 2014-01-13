@@ -1,6 +1,6 @@
 {
   "facility_code": "32436047",
-  "institution": "Virginia Mason Medical Center",
+  "institution": "VIRGINIA MASON MEDICAL CENTER",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98101",
-  "email": true
+  "ope": null
 }

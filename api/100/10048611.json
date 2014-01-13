@@ -1,6 +1,6 @@
 {
   "facility_code": "10048611",
-  "institution": "Clayton County Sheriff'S Department",
+  "institution": "CLAYTON COUNTY SHERIFF'S DEPARTMENT",
   "city": "Jonesboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30236",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10362330",
-  "institution": "Us Naval Air Engineering Center",
+  "institution": "US NAVAL AIR ENGINEERING CENTER",
   "city": "Lakehurst",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8733",
-  "email": false
+  "ope": null
 }

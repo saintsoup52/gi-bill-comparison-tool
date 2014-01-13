@@ -1,6 +1,6 @@
 {
   "facility_code": "19001550",
-  "institution": "Usda/Natural Resources Conservation Service",
+  "institution": "USDA/NATURAL RESOURCES CONSERVATION SERVICE",
   "city": "Lovell",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82431",
-  "email": false
+  "ope": null
 }

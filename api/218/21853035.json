@@ -1,6 +1,6 @@
 {
   "facility_code": "21853035",
-  "institution": "Devry-University-Cincinnati",
+  "institution": "DEVRY-UNIVERSITY-CINCINNATI",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "45249",
-  "email": true
+  "ope": "01072773"
 }

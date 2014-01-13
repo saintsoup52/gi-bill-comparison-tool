@@ -1,6 +1,6 @@
 {
   "facility_code": "10463936",
-  "institution": "North Fork Correctional Facility",
+  "institution": "NORTH FORK CORRECTIONAL FACILITY",
   "city": "Sayre",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73662",
-  "email": false
+  "ope": null
 }

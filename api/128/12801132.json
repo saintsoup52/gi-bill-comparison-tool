@@ -1,6 +1,6 @@
 {
   "facility_code": "12801132",
-  "institution": "Suny Upstate Medical University (University Hospital)",
+  "institution": "SUNY UPSTATE MEDICAL UNIVERSITY (UNIVERSITY HOSPITAL)",
   "city": "Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13210",
-  "email": false
+  "ope": null
 }

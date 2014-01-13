@@ -1,6 +1,6 @@
 {
   "facility_code": "19000441",
-  "institution": "Va Medical Center - Sioux Falls",
+  "institution": "VA MEDICAL CENTER - SIOUX FALLS",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57117",
-  "email": false
+  "ope": null
 }

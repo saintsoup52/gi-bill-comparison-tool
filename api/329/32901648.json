@@ -1,6 +1,6 @@
 {
   "facility_code": "32901648",
-  "institution": "Wheeling Hospital Radiology Program",
+  "institution": "WHEELING HOSPITAL RADIOLOGY PROGRAM",
   "city": "Wheeling",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "26003",
-  "email": true
+  "ope": null
 }

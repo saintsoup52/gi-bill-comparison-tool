@@ -1,6 +1,6 @@
 {
   "facility_code": "10003333",
-  "institution": "City Of Hickory",
+  "institution": "CITY OF HICKORY",
   "city": "Hickory",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28603",
-  "email": false
+  "ope": null
 }

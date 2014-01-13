@@ -1,6 +1,6 @@
 {
   "facility_code": "10517630",
-  "institution": "Middlesex County Sheriff'S Department",
+  "institution": "MIDDLESEX COUNTY SHERIFF'S DEPARTMENT",
   "city": "New Brunswick",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8903",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N43132",
-  "institution": "New York State University Police - Suny At Buffalo",
+  "institution": "NEW YORK STATE UNIVERSITY POLICE - SUNY AT BUFFALO",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14260",
-  "email": true
+  "ope": null
 }

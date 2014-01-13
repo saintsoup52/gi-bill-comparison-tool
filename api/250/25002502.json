@@ -1,6 +1,6 @@
 {
   "facility_code": "25002502",
-  "institution": "Compucom Systems Inc (Ch 31 Only)",
+  "institution": "COMPUCOM SYSTEMS INC (CH 31 ONLY)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99501",
-  "email": false
+  "ope": null
 }

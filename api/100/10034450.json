@@ -1,6 +1,6 @@
 {
   "facility_code": "10034450",
-  "institution": "Faa - Casper Ssc (National County Airport)",
+  "institution": "FAA - CASPER SSC (NATIONAL COUNTY AIRPORT)",
   "city": "Casper",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82604",
-  "email": false
+  "ope": null
 }

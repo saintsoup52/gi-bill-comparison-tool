@@ -1,6 +1,6 @@
 {
   "facility_code": "10543630",
-  "institution": "Logan Township Police Department",
+  "institution": "LOGAN TOWNSHIP POLICE DEPARTMENT",
   "city": "Bridgeport",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8014",
-  "email": false
+  "ope": null
 }

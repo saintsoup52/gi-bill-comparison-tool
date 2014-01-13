@@ -1,6 +1,6 @@
 {
   "facility_code": "10994610",
-  "institution": "Titusville Police Department",
+  "institution": "TITUSVILLE POLICE DEPARTMENT",
   "city": "Titusville",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32780",
-  "email": true
+  "ope": null
 }

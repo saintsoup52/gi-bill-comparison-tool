@@ -1,6 +1,6 @@
 {
   "facility_code": "10352417",
-  "institution": "Federal Bureau Of Prisons /Federal Medical Center",
+  "institution": "FEDERAL BUREAU OF PRISONS /FEDERAL MEDICAL CENTER",
   "city": "Lexington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40511",
-  "email": false
+  "ope": null
 }

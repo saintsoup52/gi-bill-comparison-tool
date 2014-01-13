@@ -1,6 +1,6 @@
 {
   "facility_code": "30590213",
-  "institution": "Department Of Human Services Detention And Treatment Facility",
+  "institution": "DEPARTMENT OF HUMAN SERVICES DETENTION AND TREATMENT FACILITY",
   "city": "Rushville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62681",
-  "email": true
+  "ope": null
 }

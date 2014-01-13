@@ -1,6 +1,6 @@
 {
   "facility_code": "10228003",
-  "institution": "Customs & Border Protection - Oracle Rd",
+  "institution": "CUSTOMS & BORDER PROTECTION - ORACLE RD",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85705",
-  "email": false
+  "ope": null
 }

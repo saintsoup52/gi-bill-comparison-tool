@@ -1,6 +1,6 @@
 {
   "facility_code": "10A00301",
-  "institution": "Alabama Department Of Public Safety Huntsville Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY HUNTSVILLE POST",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35801",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10007937",
-  "institution": "Ontario Police Department",
+  "institution": "ONTARIO POLICE DEPARTMENT",
   "city": "Ontario",
   "state": "OR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "97914",
-  "email": true
+  "ope": null
 }

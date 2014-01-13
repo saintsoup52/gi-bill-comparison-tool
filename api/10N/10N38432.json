@@ -1,6 +1,6 @@
 {
   "facility_code": "10N38432",
-  "institution": "Wheeler-Sack Army Airfield",
+  "institution": "WHEELER-SACK ARMY AIRFIELD",
   "city": "Ft Drum",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13602",
-  "email": true
+  "ope": null
 }

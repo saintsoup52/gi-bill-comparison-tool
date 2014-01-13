@@ -1,6 +1,6 @@
 {
   "facility_code": "10023733",
-  "institution": "Mecklenburg County Sheriff'S Office",
+  "institution": "MECKLENBURG COUNTY SHERIFF'S OFFICE",
   "city": "Charlotte",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28269",
-  "email": true
+  "ope": null
 }

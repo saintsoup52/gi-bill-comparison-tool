@@ -1,6 +1,6 @@
 {
   "facility_code": "12920235",
-  "institution": "Ohio State University Hospital",
+  "institution": "OHIO STATE UNIVERSITY HOSPITAL",
   "city": "Columbus",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43210",
-  "email": false
+  "ope": null
 }

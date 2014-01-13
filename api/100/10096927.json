@@ -1,6 +1,6 @@
 {
   "facility_code": "10096927",
-  "institution": "Lavista Police Department",
+  "institution": "LAVISTA POLICE DEPARTMENT",
   "city": "Lavista",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68128",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "19013106",
-  "institution": "Florissant Fossil Beds National Monument",
+  "institution": "FLORISSANT FOSSIL BEDS NATIONAL MONUMENT",
   "city": "Florissant",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80816",
-  "email": false
+  "ope": null
 }

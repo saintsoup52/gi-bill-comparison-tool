@@ -1,6 +1,6 @@
 {
   "facility_code": "11800605",
-  "institution": "Southern Illinois University-Naval Hospital",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY-NAVAL HOSPITAL",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92134",
-  "email": false
+  "ope": "00175818"
 }

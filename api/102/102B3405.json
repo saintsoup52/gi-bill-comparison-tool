@@ -1,6 +1,6 @@
 {
   "facility_code": "102B3405",
-  "institution": "Faa- Concord Air Traffic Control Tower",
+  "institution": "FAA- CONCORD AIR TRAFFIC CONTROL TOWER",
   "city": "Concord",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94520",
-  "email": false
+  "ope": null
 }

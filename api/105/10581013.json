@@ -1,6 +1,6 @@
 {
   "facility_code": "10581013",
-  "institution": "Bensenville Police Department",
+  "institution": "BENSENVILLE POLICE DEPARTMENT",
   "city": "Bensenville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60106",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10005411",
-  "institution": "Macon Regional Youth Detention Center",
+  "institution": "MACON REGIONAL YOUTH DETENTION CENTER",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31201",
-  "email": false
+  "ope": null
 }

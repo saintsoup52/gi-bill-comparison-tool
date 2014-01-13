@@ -1,6 +1,6 @@
 {
   "facility_code": "20285604",
-  "institution": "Sherwood Police Dpt",
+  "institution": "SHERWOOD POLICE DPT",
   "city": "Sherwood",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72120",
-  "email": false
+  "ope": null
 }

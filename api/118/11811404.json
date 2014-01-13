@@ -1,6 +1,6 @@
 {
   "facility_code": "11811404",
-  "institution": "University Of Arkansas At Little Rock",
+  "institution": "UNIVERSITY OF ARKANSAS AT LITTLE ROCK",
   "city": "Little Rock",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "72204",
-  "email": false
+  "ope": "00110100"
 }

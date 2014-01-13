@@ -1,6 +1,6 @@
 {
   "facility_code": "10404346",
-  "institution": "Fire Dist 2 Norfolk Naval Shipyard",
+  "institution": "FIRE DIST 2 NORFOLK NAVAL SHIPYARD",
   "city": "Portsmouth",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23709",
-  "email": true
+  "ope": null
 }

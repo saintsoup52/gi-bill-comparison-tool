@@ -1,6 +1,6 @@
 {
   "facility_code": "10223303",
-  "institution": "Arizona Air National Guard (Ch31 Only)",
+  "institution": "ARIZONA AIR NATIONAL GUARD (CH31 ONLY)",
   "city": "Tucson",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85706",
-  "email": false
+  "ope": null
 }

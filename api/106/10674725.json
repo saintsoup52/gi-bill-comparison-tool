@@ -1,6 +1,6 @@
 {
   "facility_code": "10674725",
-  "institution": "Berkley Police Department",
+  "institution": "BERKLEY POLICE DEPARTMENT",
   "city": "Berkley",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63134",
-  "email": false
+  "ope": null
 }

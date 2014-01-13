@@ -1,6 +1,6 @@
 {
   "facility_code": "10630340",
-  "institution": "City Of Sumter",
+  "institution": "CITY OF SUMTER",
   "city": "Sumter",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29151",
-  "email": false
+  "ope": null
 }

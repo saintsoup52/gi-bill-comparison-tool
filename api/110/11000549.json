@@ -1,6 +1,6 @@
 {
   "facility_code": "11000549",
-  "institution": "Univ Of Wisc-Oshkosh",
+  "institution": "UNIV OF WISC-OSHKOSH",
   "city": "Oshkosh",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "54901",
-  "email": false
+  "ope": "00392000"
 }

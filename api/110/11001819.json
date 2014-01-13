@@ -1,6 +1,6 @@
 {
   "facility_code": "11001819",
-  "institution": "University Of Maine At Machias",
+  "institution": "UNIVERSITY OF MAINE AT MACHIAS",
   "city": "Machias",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4654",
-  "email": true
+  "ope": "00205500"
 }

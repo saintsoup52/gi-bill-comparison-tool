@@ -1,6 +1,6 @@
 {
   "facility_code": "10C07543",
-  "institution": "Houston Police Dept",
+  "institution": "HOUSTON POLICE DEPT",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77002",
-  "email": false
+  "ope": null
 }

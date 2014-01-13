@@ -1,6 +1,6 @@
 {
   "facility_code": "10592725",
-  "institution": "Sullivan Police Department",
+  "institution": "SULLIVAN POLICE DEPARTMENT",
   "city": "Sullivan",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63080",
-  "email": false
+  "ope": null
 }

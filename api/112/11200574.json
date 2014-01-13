@@ -1,6 +1,6 @@
 {
   "facility_code": "11200574",
-  "institution": "Bangor University",
+  "institution": "BANGOR UNIVERSITY",
   "city": "Bangor",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

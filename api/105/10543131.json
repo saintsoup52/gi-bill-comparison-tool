@@ -1,6 +1,6 @@
 {
   "facility_code": "10543131",
-  "institution": "U.S. Dept. Of Housing & Urban Development",
+  "institution": "U.S. DEPT. OF HOUSING & URBAN DEVELOPMENT",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87103",
-  "email": false
+  "ope": null
 }

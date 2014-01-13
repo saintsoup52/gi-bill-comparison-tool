@@ -1,6 +1,6 @@
 {
   "facility_code": "10573013",
-  "institution": "Washington Police Dept.",
+  "institution": "WASHINGTON POLICE DEPT.",
   "city": "Washington",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61571",
-  "email": false
+  "ope": null
 }

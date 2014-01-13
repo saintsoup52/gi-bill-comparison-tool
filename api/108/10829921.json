@@ -1,6 +1,6 @@
 {
   "facility_code": "10829921",
-  "institution": "Boston Housing Authority",
+  "institution": "BOSTON HOUSING AUTHORITY",
   "city": "Jamacia Plain",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2130",
-  "email": false
+  "ope": null
 }

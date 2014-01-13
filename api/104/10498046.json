@@ -1,6 +1,6 @@
 {
   "facility_code": "10498046",
-  "institution": "Pulaski Police Dept",
+  "institution": "PULASKI POLICE DEPT",
   "city": "Pulaski",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24301",
-  "email": false
+  "ope": null
 }

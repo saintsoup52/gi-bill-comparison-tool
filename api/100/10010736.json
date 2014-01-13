@@ -1,6 +1,6 @@
 {
   "facility_code": "10010736",
-  "institution": "Oklahoma City Fire Dept",
+  "institution": "OKLAHOMA CITY FIRE DEPT",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73106",
-  "email": false
+  "ope": null
 }

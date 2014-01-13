@@ -1,6 +1,6 @@
 {
   "facility_code": "10167427",
-  "institution": "Western Area Power Administration U.S. Dept Of Energy",
+  "institution": "WESTERN AREA POWER ADMINISTRATION U.S. DEPT OF ENERGY",
   "city": "Gering",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "69341",
-  "email": true
+  "ope": null
 }

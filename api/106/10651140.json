@@ -1,6 +1,6 @@
 {
   "facility_code": "10651140",
-  "institution": "Anderson Police Department",
+  "institution": "ANDERSON POLICE DEPARTMENT",
   "city": "Anderson",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29624",
-  "email": false
+  "ope": null
 }

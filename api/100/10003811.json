@@ -1,6 +1,6 @@
 {
   "facility_code": "10003811",
-  "institution": "Chamblee Police Department",
+  "institution": "CHAMBLEE POLICE DEPARTMENT",
   "city": "Chamblee",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30341",
-  "email": true
+  "ope": null
 }

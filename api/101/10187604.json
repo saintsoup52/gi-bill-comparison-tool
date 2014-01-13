@@ -1,6 +1,6 @@
 {
   "facility_code": "10187604",
-  "institution": "Us Army Corps Of Engineers",
+  "institution": "US ARMY CORPS OF ENGINEERS",
   "city": "Russellville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72201",
-  "email": false
+  "ope": null
 }

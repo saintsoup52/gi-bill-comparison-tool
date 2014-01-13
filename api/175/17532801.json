@@ -1,6 +1,6 @@
 {
   "facility_code": "17532801",
-  "institution": "New Brockton High School",
+  "institution": "NEW BROCKTON HIGH SCHOOL",
   "city": "New Brockton",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36351",
-  "email": true
+  "ope": null
 }

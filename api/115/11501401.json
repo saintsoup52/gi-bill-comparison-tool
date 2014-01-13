@@ -1,6 +1,6 @@
 {
   "facility_code": "11501401",
-  "institution": "University Of Alabama - Huntsville",
+  "institution": "UNIVERSITY OF ALABAMA - HUNTSVILLE",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35899",
-  "email": true
+  "ope": "00105500"
 }

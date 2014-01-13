@@ -1,6 +1,6 @@
 {
   "facility_code": "10503130",
-  "institution": "Burlington City Police Department",
+  "institution": "BURLINGTON CITY POLICE DEPARTMENT",
   "city": "Burlington",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8016",
-  "email": false
+  "ope": null
 }

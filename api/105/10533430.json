@@ -1,6 +1,6 @@
 {
   "facility_code": "10533430",
-  "institution": "Trenton Police Department",
+  "institution": "TRENTON POLICE DEPARTMENT",
   "city": "Trenton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8609",
-  "email": true
+  "ope": null
 }

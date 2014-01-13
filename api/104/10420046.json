@@ -1,6 +1,6 @@
 {
   "facility_code": "10420046",
-  "institution": "Virginia State Police Area Office #23",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #23",
   "city": "Halifax",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24558",
-  "email": true
+  "ope": null
 }

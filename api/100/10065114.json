@@ -1,6 +1,6 @@
 {
   "facility_code": "10065114",
-  "institution": "Duke Energy",
+  "institution": "DUKE ENERGY",
   "city": "Plainfield",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46168",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10526530",
-  "institution": "Ringwood Police Department",
+  "institution": "RINGWOOD POLICE DEPARTMENT",
   "city": "Ringwood",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7456",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11802107",
-  "institution": "University Of Connecticut - Main Campus",
+  "institution": "UNIVERSITY OF CONNECTICUT - MAIN CAMPUS",
   "city": "Storrs",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6269",
-  "email": true
+  "ope": "00141700"
 }

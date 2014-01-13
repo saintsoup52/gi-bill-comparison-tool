@@ -1,6 +1,6 @@
 {
   "facility_code": "10248530",
-  "institution": "Passaic Fire Department",
+  "institution": "PASSAIC FIRE DEPARTMENT",
   "city": "Passaic",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7055",
-  "email": false
+  "ope": null
 }

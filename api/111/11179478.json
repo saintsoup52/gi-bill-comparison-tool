@@ -1,6 +1,6 @@
 {
   "facility_code": "11179478",
-  "institution": "Bern University Of Applied Sciences",
+  "institution": "BERN UNIVERSITY OF APPLIED SCIENCES",
   "city": "Burgdof",
   "state": "Switzerland",
   "country": "Switzerland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

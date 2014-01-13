@@ -1,6 +1,6 @@
 {
   "facility_code": "11800175",
-  "institution": "Algoma University College",
+  "institution": "ALGOMA UNIVERSITY COLLEGE",
   "city": "Sault Ste. Marie",
   "state": "Canada",
   "country": "Canada",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

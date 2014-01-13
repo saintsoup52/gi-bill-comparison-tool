@@ -1,6 +1,6 @@
 {
   "facility_code": "25001650",
-  "institution": "Sage Technical Services - Cheyenne",
+  "institution": "SAGE TECHNICAL SERVICES - CHEYENNE",
   "city": "Cheyenne",
   "state": "WY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "82007",
-  "email": false
+  "ope": null
 }

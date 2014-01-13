@@ -1,6 +1,6 @@
 {
   "facility_code": "10312741",
-  "institution": "Sisseton Police Department",
+  "institution": "SISSETON POLICE DEPARTMENT",
   "city": "Sisseton",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57262",
-  "email": false
+  "ope": null
 }

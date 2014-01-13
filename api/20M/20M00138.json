@@ -1,6 +1,6 @@
 {
   "facility_code": "20M00138",
-  "institution": "Home Health Resource",
+  "institution": "HOME HEALTH RESOURCE",
   "city": "Altoona",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16602",
-  "email": true
+  "ope": null
 }

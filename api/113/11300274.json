@@ -1,6 +1,6 @@
 {
   "facility_code": "11300274",
-  "institution": "Institute Of Technology - Carlow",
+  "institution": "INSTITUTE OF TECHNOLOGY - CARLOW",
   "city": "Carlow",
   "state": "Ireland",
   "country": "Ireland",
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": "03067500"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10642725",
-  "institution": "Sedalia Police Dept.",
+  "institution": "SEDALIA POLICE DEPT.",
   "city": "Sedalia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65301",
-  "email": false
+  "ope": null
 }

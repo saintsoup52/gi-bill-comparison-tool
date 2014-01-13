@@ -1,6 +1,6 @@
 {
   "facility_code": "10B90135",
-  "institution": "North Ridgeville Police Department (G)",
+  "institution": "NORTH RIDGEVILLE POLICE DEPARTMENT (G)",
   "city": "North Ridgeville",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44039",
-  "email": false
+  "ope": null
 }

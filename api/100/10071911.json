@@ -1,6 +1,6 @@
 {
   "facility_code": "10071911",
-  "institution": "Georgia Department Of Defense",
+  "institution": "GEORGIA DEPARTMENT OF DEFENSE",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30061",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A06510",
-  "institution": "Volusia County Sheriff'S Office",
+  "institution": "VOLUSIA COUNTY SHERIFF'S OFFICE",
   "city": "Daytona Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "32124",
-  "email": true
+  "ope": null
 }

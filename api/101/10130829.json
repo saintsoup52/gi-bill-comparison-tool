@@ -1,6 +1,6 @@
 {
   "facility_code": "10130829",
-  "institution": "Dover Fire Department",
+  "institution": "DOVER FIRE DEPARTMENT",
   "city": "Dover",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3820",
-  "email": false
+  "ope": null
 }

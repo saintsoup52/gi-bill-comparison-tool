@@ -1,6 +1,6 @@
 {
   "facility_code": "20531649",
-  "institution": "Beloit Corporation",
+  "institution": "BELOIT CORPORATION",
   "city": "Beloit",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53511",
-  "email": false
+  "ope": null
 }

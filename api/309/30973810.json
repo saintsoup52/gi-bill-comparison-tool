@@ -1,6 +1,6 @@
 {
   "facility_code": "30973810",
-  "institution": "Florida East Coast Electrical Teledata Jatc",
+  "institution": "FLORIDA EAST COAST ELECTRICAL TELEDATA JATC",
   "city": "Fort Lauderdale",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33316",
-  "email": false
+  "ope": null
 }

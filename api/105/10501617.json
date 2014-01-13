@@ -1,6 +1,6 @@
 {
   "facility_code": "10501617",
-  "institution": "Pulaski County Sheriff Department",
+  "institution": "PULASKI COUNTY SHERIFF DEPARTMENT",
   "city": "Somerset",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42501",
-  "email": false
+  "ope": null
 }

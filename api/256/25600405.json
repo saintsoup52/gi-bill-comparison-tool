@@ -1,6 +1,6 @@
 {
   "facility_code": "25600405",
-  "institution": "National Air College",
+  "institution": "NATIONAL AIR COLLEGE",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92123",
-  "email": true
+  "ope": null
 }

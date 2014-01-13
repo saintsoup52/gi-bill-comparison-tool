@@ -1,6 +1,6 @@
 {
   "facility_code": "25060016",
-  "institution": "Flight Safety International-Wichita",
+  "institution": "FLIGHT SAFETY INTERNATIONAL-WICHITA",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67206",
-  "email": true
+  "ope": null
 }

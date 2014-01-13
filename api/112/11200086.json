@@ -1,6 +1,6 @@
 {
   "facility_code": "11200086",
-  "institution": "University Of Guadalajara",
+  "institution": "UNIVERSITY OF GUADALAJARA",
   "city": "Guadalajara",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

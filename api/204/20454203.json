@@ -1,6 +1,6 @@
 {
   "facility_code": "20454203",
-  "institution": "Tucson Electric Power Company - Springerville Generating Station",
+  "institution": "TUCSON ELECTRIC POWER COMPANY - SPRINGERVILLE GENERATING STATION",
   "city": "Springerville",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85938",
-  "email": false
+  "ope": null
 }

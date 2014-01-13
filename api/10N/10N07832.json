@@ -1,6 +1,6 @@
 {
   "facility_code": "10N07832",
-  "institution": "New York City Sheriff'S Office",
+  "institution": "NEW YORK CITY SHERIFF'S OFFICE",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10007",
-  "email": false
+  "ope": null
 }

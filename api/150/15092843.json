@@ -1,6 +1,6 @@
 {
   "facility_code": "15092843",
-  "institution": "Pasadena Police Acad",
+  "institution": "PASADENA POLICE ACAD",
   "city": "Pasadena",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77505",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10078718",
-  "institution": "Lafayette Police Department (Ch31)",
+  "institution": "LAFAYETTE POLICE DEPARTMENT (CH31)",
   "city": "Lafayette",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70503",
-  "email": false
+  "ope": null
 }

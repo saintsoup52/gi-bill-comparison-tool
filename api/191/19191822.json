@@ -1,6 +1,6 @@
 {
   "facility_code": "19191822",
-  "institution": "Federal Bureau Of Investigation",
+  "institution": "FEDERAL BUREAU OF INVESTIGATION",
   "city": "East Lansing",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48823",
-  "email": false
+  "ope": null
 }

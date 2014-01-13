@@ -1,6 +1,6 @@
 {
   "facility_code": "17599248",
-  "institution": "Logan High School",
+  "institution": "LOGAN HIGH SCHOOL",
   "city": "Logan",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "25601",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31512835",
-  "institution": "Embry-Riddle Aeronautical University",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY",
   "city": "Fairborn",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45324",
-  "email": true
+  "ope": "00147900"
 }

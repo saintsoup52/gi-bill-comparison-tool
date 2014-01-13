@@ -1,6 +1,6 @@
 {
   "facility_code": "10302441",
-  "institution": "Watertown Police Department",
+  "institution": "WATERTOWN POLICE DEPARTMENT",
   "city": "Watertown",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57201",
-  "email": false
+  "ope": null
 }

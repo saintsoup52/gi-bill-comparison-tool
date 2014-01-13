@@ -1,6 +1,6 @@
 {
   "facility_code": "10C17443",
-  "institution": "City Of Lorena",
+  "institution": "CITY OF LORENA",
   "city": "Lorena",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76655",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10311838",
-  "institution": "York City Police Department",
+  "institution": "YORK CITY POLICE DEPARTMENT",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17401",
-  "email": true
+  "ope": null
 }

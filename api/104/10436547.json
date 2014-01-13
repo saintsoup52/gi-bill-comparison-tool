@@ -1,6 +1,6 @@
 {
   "facility_code": "10436547",
-  "institution": "Spokane Police Department",
+  "institution": "SPOKANE POLICE DEPARTMENT",
   "city": "Spokane",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99212",
-  "email": true
+  "ope": null
 }

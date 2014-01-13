@@ -1,6 +1,6 @@
 {
   "facility_code": "11000512",
-  "institution": "Idaho State University Psychology Clinic (Ch 31)",
+  "institution": "IDAHO STATE UNIVERSITY PSYCHOLOGY CLINIC (CH 31)",
   "city": "Pocatello",
   "state": "ID",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "83209",
-  "email": false
+  "ope": "00162000"
 }

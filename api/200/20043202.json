@@ -1,6 +1,6 @@
 {
   "facility_code": "20043202",
-  "institution": "Ketchikan Pulp Company (Ch31)",
+  "institution": "KETCHIKAN PULP COMPANY (CH31)",
   "city": "Ketchikan",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99901",
-  "email": false
+  "ope": null
 }

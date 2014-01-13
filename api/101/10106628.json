@@ -1,6 +1,6 @@
 {
   "facility_code": "10106628",
-  "institution": "U.S Department Of Housing & Urban Development",
+  "institution": "U.S DEPARTMENT OF HOUSING & URBAN DEVELOPMENT",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89101",
-  "email": false
+  "ope": null
 }

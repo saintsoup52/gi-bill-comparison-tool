@@ -1,6 +1,6 @@
 {
   "facility_code": "20072120",
-  "institution": "Sasha'S Hair Emporium",
+  "institution": "SASHA'S HAIR EMPORIUM",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21224",
-  "email": false
+  "ope": null
 }

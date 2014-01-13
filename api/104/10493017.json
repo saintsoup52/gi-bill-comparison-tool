@@ -1,6 +1,6 @@
 {
   "facility_code": "10493017",
-  "institution": "Versailles Police Department",
+  "institution": "VERSAILLES POLICE DEPARTMENT",
   "city": "Versailles",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40383",
-  "email": false
+  "ope": null
 }

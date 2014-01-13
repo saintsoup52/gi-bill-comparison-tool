@@ -1,6 +1,6 @@
 {
   "facility_code": "32907438",
-  "institution": "Memorial Hospital",
+  "institution": "MEMORIAL HOSPITAL",
   "city": "York",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17405",
-  "email": true
+  "ope": null
 }

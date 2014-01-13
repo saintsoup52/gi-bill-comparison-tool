@@ -1,6 +1,6 @@
 {
   "facility_code": "30C32343",
-  "institution": "City Of Strawn Water Treatment Plant",
+  "institution": "CITY OF STRAWN WATER TREATMENT PLANT",
   "city": "Strawn",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76745",
-  "email": false
+  "ope": null
 }

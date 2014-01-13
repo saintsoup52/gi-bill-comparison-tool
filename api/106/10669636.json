@@ -1,6 +1,6 @@
 {
   "facility_code": "10669636",
-  "institution": "Chandler Police Department (Wd Eff 022410)",
+  "institution": "CHANDLER POLICE DEPARTMENT (WD EFF 022410)",
   "city": "Chandler",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74834",
-  "email": false
+  "ope": null
 }

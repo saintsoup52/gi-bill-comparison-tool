@@ -1,6 +1,6 @@
 {
   "facility_code": "20900229",
-  "institution": "Sam Mechanical",
+  "institution": "SAM MECHANICAL",
   "city": "Manchester",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3104",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10598613",
-  "institution": "Illinois State Police - District 17",
+  "institution": "ILLINOIS STATE POLICE - DISTRICT 17",
   "city": "Lasalle",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61301",
-  "email": true
+  "ope": null
 }

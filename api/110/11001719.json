@@ -1,6 +1,6 @@
 {
   "facility_code": "11001719",
-  "institution": "University Of Maine At Presque Isle",
+  "institution": "UNIVERSITY OF MAINE AT PRESQUE ISLE",
   "city": "Presque Isle",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4769",
-  "email": true
+  "ope": "00203300"
 }

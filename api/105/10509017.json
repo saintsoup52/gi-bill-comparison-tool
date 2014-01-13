@@ -1,6 +1,6 @@
 {
   "facility_code": "10509017",
-  "institution": "Green River Correctional Complex",
+  "institution": "GREEN RIVER CORRECTIONAL COMPLEX",
   "city": "Central City",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42330",
-  "email": false
+  "ope": null
 }

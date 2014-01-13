@@ -1,6 +1,6 @@
 {
   "facility_code": "10643725",
-  "institution": "Raytown Mo. Police Dept.",
+  "institution": "RAYTOWN MO. POLICE DEPT.",
   "city": "Raytown",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64133",
-  "email": false
+  "ope": null
 }

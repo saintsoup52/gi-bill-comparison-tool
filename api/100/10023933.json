@@ -1,6 +1,6 @@
 {
   "facility_code": "10023933",
-  "institution": "City Of Rocky Mount Police Dept.",
+  "institution": "CITY OF ROCKY MOUNT POLICE DEPT.",
   "city": "Rocky Mount",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27802",
-  "email": true
+  "ope": null
 }

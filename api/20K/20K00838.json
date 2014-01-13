@@ -1,6 +1,6 @@
 {
   "facility_code": "20K00838",
-  "institution": "Susquehanna University Public Safety",
+  "institution": "SUSQUEHANNA UNIVERSITY PUBLIC SAFETY",
   "city": "Selinsgrove Pa",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17870",
-  "email": true
+  "ope": null
 }

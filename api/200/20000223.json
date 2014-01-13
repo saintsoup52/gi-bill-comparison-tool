@@ -1,6 +1,6 @@
 {
   "facility_code": "20000223",
-  "institution": "Minneapolis Electrical Jatc",
+  "institution": "MINNEAPOLIS ELECTRICAL JATC",
   "city": "St. Michael",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55376",
-  "email": false
+  "ope": null
 }

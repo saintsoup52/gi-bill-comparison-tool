@@ -1,6 +1,6 @@
 {
   "facility_code": "11810013",
-  "institution": "Southern Illinois Univ Carbondale Ntc Great Lakes",
+  "institution": "SOUTHERN ILLINOIS UNIV CARBONDALE NTC GREAT LAKES",
   "city": "Great Lakes",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60088",
-  "email": true
+  "ope": "00175839"
 }

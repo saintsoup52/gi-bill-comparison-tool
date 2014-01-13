@@ -1,6 +1,6 @@
 {
   "facility_code": "10C31643",
-  "institution": "Longview Police Department",
+  "institution": "LONGVIEW POLICE DEPARTMENT",
   "city": "Longview",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75601",
-  "email": false
+  "ope": null
 }

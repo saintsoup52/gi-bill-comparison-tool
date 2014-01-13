@@ -1,6 +1,6 @@
 {
   "facility_code": "10492046",
-  "institution": "Chesapeake Police Dept",
+  "institution": "CHESAPEAKE POLICE DEPT",
   "city": "Chesapeake",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23323",
-  "email": true
+  "ope": null
 }

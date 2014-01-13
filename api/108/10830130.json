@@ -1,6 +1,6 @@
 {
   "facility_code": "10830130",
-  "institution": "New Jersey State Park Service - Wharton State Forest",
+  "institution": "NEW JERSEY STATE PARK SERVICE - WHARTON STATE FOREST",
   "city": "Hammonton",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8037",
-  "email": true
+  "ope": null
 }

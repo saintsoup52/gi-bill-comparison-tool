@@ -1,6 +1,6 @@
 {
   "facility_code": "10022811",
-  "institution": "Screven County Prison",
+  "institution": "SCREVEN COUNTY PRISON",
   "city": "Sylvania",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30467",
-  "email": false
+  "ope": null
 }

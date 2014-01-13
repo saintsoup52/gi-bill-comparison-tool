@@ -1,6 +1,6 @@
 {
   "facility_code": "10N05932",
-  "institution": "New York State Department Of Transportation - Watertown",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - WATERTOWN",
   "city": "Watertown",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13601",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10N34932",
-  "institution": "New York City Dep Police - 6th Precinct",
+  "institution": "NEW YORK CITY DEP POLICE - 6TH PRECINCT",
   "city": "Yorktown Heights",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10598",
-  "email": true
+  "ope": null
 }

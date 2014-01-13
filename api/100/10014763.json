@@ -1,6 +1,6 @@
 {
   "facility_code": "10014763",
-  "institution": "Us Department Of Housing & Urban Dev (Ch 31)",
+  "institution": "US DEPARTMENT OF HOUSING & URBAN DEV (CH 31)",
   "city": "Hato Rey",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "918",
-  "email": false
+  "ope": null
 }

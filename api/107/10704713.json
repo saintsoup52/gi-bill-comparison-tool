@@ -1,6 +1,6 @@
 {
   "facility_code": "10704713",
-  "institution": "Cook County Sheriffs Dept.",
+  "institution": "COOK COUNTY SHERIFFS DEPT.",
   "city": "Palos Hills",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60465",
-  "email": true
+  "ope": null
 }

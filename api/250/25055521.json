@@ -1,6 +1,6 @@
 {
   "facility_code": "25055521",
-  "institution": "New England Institute Of Hvac Inc",
+  "institution": "NEW ENGLAND INSTITUTE OF HVAC INC",
   "city": "Lowell",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1851",
-  "email": true
+  "ope": null
 }

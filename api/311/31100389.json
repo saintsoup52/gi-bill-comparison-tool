@@ -1,6 +1,6 @@
 {
   "facility_code": "31100389",
-  "institution": "Univ Interamericana De Panama",
+  "institution": "UNIV INTERAMERICANA DE PANAMA",
   "city": "Republic Of Panama",
   "state": "Panama",
   "country": "Panama",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

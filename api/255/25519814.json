@@ -1,6 +1,6 @@
 {
   "facility_code": "25519814",
-  "institution": "Michiana College (Ch 31)",
+  "institution": "MICHIANA COLLEGE (CH 31)",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46617",
-  "email": false
+  "ope": null
 }

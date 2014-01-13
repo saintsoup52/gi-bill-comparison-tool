@@ -1,6 +1,6 @@
 {
   "facility_code": "10201716",
-  "institution": "Overland Park Police Department",
+  "institution": "OVERLAND PARK POLICE DEPARTMENT",
   "city": "Overland Park",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66213",
-  "email": true
+  "ope": null
 }

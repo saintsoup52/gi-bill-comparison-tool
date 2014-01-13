@@ -1,6 +1,6 @@
 {
   "facility_code": "10040902",
-  "institution": "State Of Alaska Dol",
+  "institution": "STATE OF ALASKA DOL",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99503",
-  "email": false
+  "ope": null
 }

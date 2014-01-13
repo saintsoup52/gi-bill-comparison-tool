@@ -1,6 +1,6 @@
 {
   "facility_code": "10507817",
-  "institution": "Albany Police Department",
+  "institution": "ALBANY POLICE DEPARTMENT",
   "city": "Albany",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42602",
-  "email": false
+  "ope": null
 }

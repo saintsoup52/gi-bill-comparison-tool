@@ -1,6 +1,6 @@
 {
   "facility_code": "10N19732",
-  "institution": "New York City Police Dept. - 94th Precinct",
+  "institution": "NEW YORK CITY POLICE DEPT. - 94TH PRECINCT",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11222",
-  "email": false
+  "ope": null
 }

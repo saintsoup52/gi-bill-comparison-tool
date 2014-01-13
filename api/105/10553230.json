@@ -1,6 +1,6 @@
 {
   "facility_code": "10553230",
-  "institution": "Gloucester County Sheriff'S Department",
+  "institution": "GLOUCESTER COUNTY SHERIFF'S DEPARTMENT",
   "city": "Paulsboro",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8066",
-  "email": true
+  "ope": null
 }

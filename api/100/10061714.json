@@ -1,6 +1,6 @@
 {
   "facility_code": "10061714",
-  "institution": "Chesterton Police Department",
+  "institution": "CHESTERTON POLICE DEPARTMENT",
   "city": "Chesterton",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46304",
-  "email": false
+  "ope": null
 }

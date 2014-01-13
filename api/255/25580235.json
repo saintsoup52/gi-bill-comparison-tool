@@ -1,6 +1,6 @@
 {
   "facility_code": "25580235",
-  "institution": "Max Technical Training",
+  "institution": "MAX TECHNICAL TRAINING",
   "city": "Mason",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45040",
-  "email": true
+  "ope": null
 }

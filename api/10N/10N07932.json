@@ -1,6 +1,6 @@
 {
   "facility_code": "10N07932",
-  "institution": "New York State Park Police - Thousand Islands",
+  "institution": "NEW YORK STATE PARK POLICE - THOUSAND ISLANDS",
   "city": "Alexandria Bay",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13601",
-  "email": false
+  "ope": null
 }

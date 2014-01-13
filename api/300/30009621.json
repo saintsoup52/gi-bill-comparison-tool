@@ -1,6 +1,6 @@
 {
   "facility_code": "30009621",
-  "institution": "New England Carpenters Training Center",
+  "institution": "NEW ENGLAND CARPENTERS TRAINING CENTER",
   "city": "Millbury",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1527",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A04201",
-  "institution": "Russell County Sheriffs Department",
+  "institution": "RUSSELL COUNTY SHERIFFS DEPARTMENT",
   "city": "Phenix City",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36868",
-  "email": true
+  "ope": null
 }

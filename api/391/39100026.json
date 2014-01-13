@@ -1,6 +1,6 @@
 {
   "facility_code": "39100026",
-  "institution": "Liftt",
+  "institution": "LIFTT",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59102",
-  "email": false
+  "ope": null
 }

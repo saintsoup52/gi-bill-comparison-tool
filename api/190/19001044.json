@@ -1,6 +1,6 @@
 {
   "facility_code": "19001044",
-  "institution": "Va Medical Center (Ch31)",
+  "institution": "VA MEDICAL CENTER (CH31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84148",
-  "email": false
+  "ope": null
 }

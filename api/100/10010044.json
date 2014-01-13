@@ -1,6 +1,6 @@
 {
   "facility_code": "10010044",
-  "institution": "Usda Soil Conservation Serv",
+  "institution": "USDA SOIL CONSERVATION SERV",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84147",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "25005003",
-  "institution": "Chandler Air Service Inc.",
+  "institution": "CHANDLER AIR SERVICE INC.",
   "city": "Chandler",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85249",
-  "email": true
+  "ope": null
 }

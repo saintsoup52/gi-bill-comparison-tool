@@ -1,6 +1,6 @@
 {
   "facility_code": "10500017",
-  "institution": "Federal Correctional Institution - Manchester",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION - MANCHESTER",
   "city": "Manchester",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40962",
-  "email": true
+  "ope": null
 }

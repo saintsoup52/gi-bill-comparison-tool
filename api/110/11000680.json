@@ -1,6 +1,6 @@
 {
   "facility_code": "11000680",
-  "institution": "University Of Cologne",
+  "institution": "UNIVERSITY OF COLOGNE",
   "city": "Cologne",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

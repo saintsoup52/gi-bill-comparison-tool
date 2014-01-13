@@ -1,6 +1,6 @@
 {
   "facility_code": "10B86235",
-  "institution": "Village Of New Albany Police Department (G)",
+  "institution": "VILLAGE OF NEW ALBANY POLICE DEPARTMENT (G)",
   "city": "New Albany",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43054",
-  "email": false
+  "ope": null
 }

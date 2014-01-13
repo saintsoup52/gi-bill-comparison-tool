@@ -1,6 +1,6 @@
 {
   "facility_code": "10075711",
-  "institution": "Georgia Department Of State Veterans Service (Ch31 Only)",
+  "institution": "GEORGIA DEPARTMENT OF STATE VETERANS SERVICE (CH31 ONLY)",
   "city": "Conyers",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30012",
-  "email": false
+  "ope": null
 }

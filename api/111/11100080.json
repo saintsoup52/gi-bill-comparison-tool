@@ -1,6 +1,6 @@
 {
   "facility_code": "11100080",
-  "institution": "Rheinishe Friedrich-Wilhelms Universitaet",
+  "institution": "RHEINISHE FRIEDRICH-WILHELMS UNIVERSITAET",
   "city": "5330 Bonn 1",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

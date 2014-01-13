@@ -1,6 +1,6 @@
 {
   "facility_code": "11002070",
-  "institution": "Deakin University",
+  "institution": "DEAKIN UNIVERSITY",
   "city": "Burwood",
   "state": "Australia",
   "country": "Australia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

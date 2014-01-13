@@ -1,6 +1,6 @@
 {
   "facility_code": "10501446",
-  "institution": "Purcellville Volunteer Fire Station",
+  "institution": "PURCELLVILLE VOLUNTEER FIRE STATION",
   "city": "Purcellville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20132",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10542931",
-  "institution": "City Of Albuquerque Senior Affairs Dept",
+  "institution": "CITY OF ALBUQUERQUE SENIOR AFFAIRS DEPT",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87110",
-  "email": false
+  "ope": null
 }

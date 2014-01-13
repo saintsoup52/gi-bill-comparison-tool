@@ -1,6 +1,6 @@
 {
   "facility_code": "10A10701",
-  "institution": "Amrdec - Army (Chapter 31 Only)",
+  "institution": "AMRDEC - ARMY (CHAPTER 31 ONLY)",
   "city": "Redstone Arsenal",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35898",
-  "email": true
+  "ope": null
 }

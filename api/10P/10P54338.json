@@ -1,6 +1,6 @@
 {
   "facility_code": "10P54338",
-  "institution": "Lycoming County Prison",
+  "institution": "LYCOMING COUNTY PRISON",
   "city": "Williamsport",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17701",
-  "email": true
+  "ope": null
 }

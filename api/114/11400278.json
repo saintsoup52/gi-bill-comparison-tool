@@ -1,6 +1,6 @@
 {
   "facility_code": "11400278",
-  "institution": "Universiteit Utrecht",
+  "institution": "UNIVERSITEIT UTRECHT",
   "city": "Tc Utrecht",
   "state": "Netherlands",
   "country": "Netherlands",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

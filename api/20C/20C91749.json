@@ -1,6 +1,6 @@
 {
   "facility_code": "20C91749",
-  "institution": "Feichtner-Fredrich Corp",
+  "institution": "FEICHTNER-FREDRICH CORP",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53143",
-  "email": false
+  "ope": null
 }

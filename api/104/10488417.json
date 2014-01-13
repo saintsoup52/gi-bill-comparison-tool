@@ -1,6 +1,6 @@
 {
   "facility_code": "10488417",
-  "institution": "Worthington Police Department",
+  "institution": "WORTHINGTON POLICE DEPARTMENT",
   "city": "Worthington",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41183",
-  "email": false
+  "ope": null
 }

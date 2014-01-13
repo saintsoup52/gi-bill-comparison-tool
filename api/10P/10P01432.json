@@ -1,6 +1,6 @@
 {
   "facility_code": "10P01432",
-  "institution": "New York State Office Of General Services Human Resources Management",
+  "institution": "NEW YORK STATE OFFICE OF GENERAL SERVICES HUMAN RESOURCES MANAGEMENT",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12242",
-  "email": true
+  "ope": null
 }

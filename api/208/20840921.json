@@ -1,6 +1,6 @@
 {
   "facility_code": "20840921",
-  "institution": "Entergy Nuclear Operatons Inc. (Pilgrim Power Plant)",
+  "institution": "ENTERGY NUCLEAR OPERATONS INC. (PILGRIM POWER PLANT)",
   "city": "Plymouth",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2360",
-  "email": false
+  "ope": null
 }

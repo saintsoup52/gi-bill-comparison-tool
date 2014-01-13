@@ -1,6 +1,6 @@
 {
   "facility_code": "10234603",
-  "institution": "Arizona Dept Of Veteran Services - Yuma",
+  "institution": "ARIZONA DEPT OF VETERAN SERVICES - YUMA",
   "city": "Yuma",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85346",
-  "email": false
+  "ope": null
 }

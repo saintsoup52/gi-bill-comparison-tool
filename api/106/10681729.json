@@ -1,6 +1,6 @@
 {
   "facility_code": "10681729",
-  "institution": "Us Department Of Justice",
+  "institution": "US DEPARTMENT OF JUSTICE",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3301",
-  "email": false
+  "ope": null
 }

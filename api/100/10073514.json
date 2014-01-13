@@ -1,6 +1,6 @@
 {
   "facility_code": "10073514",
-  "institution": "Defense Contract Management Agency-(Dcma)",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY-(DCMA)",
   "city": "Indianapolis",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46249",
-  "email": false
+  "ope": null
 }

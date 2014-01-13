@@ -1,6 +1,6 @@
 {
   "facility_code": "11918122",
-  "institution": "Western Michigan University",
+  "institution": "WESTERN MICHIGAN UNIVERSITY",
   "city": "Kalamazoo",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49008",
-  "email": true
+  "ope": "00233000"
 }

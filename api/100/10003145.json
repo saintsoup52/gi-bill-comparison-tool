@@ -1,6 +1,6 @@
 {
   "facility_code": "10003145",
-  "institution": "Vermont State Police",
+  "institution": "VERMONT STATE POLICE",
   "city": "Pittsford",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5763",
-  "email": true
+  "ope": null
 }

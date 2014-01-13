@@ -1,6 +1,6 @@
 {
   "facility_code": "11100520",
-  "institution": "St Mary'S College Of Maryland",
+  "institution": "ST MARY'S COLLEGE OF MARYLAND",
   "city": "St Mary'S City",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20686",
-  "email": true
+  "ope": "00209500"
 }

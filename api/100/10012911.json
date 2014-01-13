@@ -1,6 +1,6 @@
 {
   "facility_code": "10012911",
-  "institution": "Muscogee County Sheriff'S Office",
+  "institution": "MUSCOGEE COUNTY SHERIFF'S OFFICE",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31902",
-  "email": true
+  "ope": null
 }

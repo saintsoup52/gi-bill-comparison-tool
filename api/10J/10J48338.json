@@ -1,6 +1,6 @@
 {
   "facility_code": "10J48338",
-  "institution": "Lower Merion Township Police Department",
+  "institution": "LOWER MERION TOWNSHIP POLICE DEPARTMENT",
   "city": "Ardmore",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19003",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20051811",
-  "institution": "Dekalb Medical Center - Patient Access",
+  "institution": "DEKALB MEDICAL CENTER - PATIENT ACCESS",
   "city": "Decatur",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30033",
-  "email": true
+  "ope": null
 }

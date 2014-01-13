@@ -1,6 +1,6 @@
 {
   "facility_code": "10521417",
-  "institution": "State Police Post #7",
+  "institution": "STATE POLICE POST #7",
   "city": "Richmond",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40475",
-  "email": false
+  "ope": null
 }

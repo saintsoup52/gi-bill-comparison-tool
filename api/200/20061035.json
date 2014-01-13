@@ -1,6 +1,6 @@
 {
   "facility_code": "20061035",
-  "institution": "Toledo Edison Company G K",
+  "institution": "TOLEDO EDISON COMPANY G K",
   "city": "Oak Harbor",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "43449",
-  "email": false
+  "ope": null
 }

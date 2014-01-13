@@ -1,6 +1,6 @@
 {
   "facility_code": "14002201",
-  "institution": "Enterprise State Com Col",
+  "institution": "ENTERPRISE STATE COM COL",
   "city": "Enterprise",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "36330",
-  "email": true
+  "ope": "00101500"
 }

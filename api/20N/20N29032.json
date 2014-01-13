@@ -1,6 +1,6 @@
 {
   "facility_code": "20N29032",
-  "institution": "Huntington Bay Police Department",
+  "institution": "HUNTINGTON BAY POLICE DEPARTMENT",
   "city": "Huntington Bay",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11743",
-  "email": false
+  "ope": null
 }

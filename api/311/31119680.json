@@ -1,6 +1,6 @@
 {
   "facility_code": "31119680",
-  "institution": "Sae Institute - Stuttgart Gmbh",
+  "institution": "SAE INSTITUTE - STUTTGART GMBH",
   "city": "Stuttgart",
   "state": "Germany",
   "country": "Germany",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

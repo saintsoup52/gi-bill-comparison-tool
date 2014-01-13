@@ -1,6 +1,6 @@
 {
   "facility_code": "25163605",
-  "institution": "Test & Measurement Inc. (Ch31 Only)",
+  "institution": "TEST & MEASUREMENT INC. (CH31 ONLY)",
   "city": "Ventura",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93003",
-  "email": false
+  "ope": null
 }

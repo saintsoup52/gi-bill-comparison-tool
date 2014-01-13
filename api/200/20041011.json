@@ -1,6 +1,6 @@
 {
   "facility_code": "20041011",
-  "institution": "Perimeter Bobcat",
+  "institution": "PERIMETER BOBCAT",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30340",
-  "email": false
+  "ope": null
 }

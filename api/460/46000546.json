@@ -1,6 +1,6 @@
 {
   "facility_code": "46000546",
-  "institution": "American Physical Therapy Association",
+  "institution": "AMERICAN PHYSICAL THERAPY ASSOCIATION",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22314",
-  "email": true
+  "ope": null
 }

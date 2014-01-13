@@ -1,6 +1,6 @@
 {
   "facility_code": "10020741",
-  "institution": "Sioux Falls Police Dept",
+  "institution": "SIOUX FALLS POLICE DEPT",
   "city": "Sioux Falls",
   "state": "SD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "57104",
-  "email": false
+  "ope": null
 }

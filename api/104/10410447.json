@@ -1,6 +1,6 @@
 {
   "facility_code": "10410447",
-  "institution": "Kent Police Department",
+  "institution": "KENT POLICE DEPARTMENT",
   "city": "Kent",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98032",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C18443",
-  "institution": "Faa Houston Atct Iah",
+  "institution": "FAA HOUSTON ATCT IAH",
   "city": "Houston",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "77032",
-  "email": false
+  "ope": null
 }

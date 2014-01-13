@@ -1,6 +1,6 @@
 {
   "facility_code": "10N09332",
-  "institution": "Town Of Clarkstown Police",
+  "institution": "TOWN OF CLARKSTOWN POLICE",
   "city": "New City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "10956",
-  "email": false
+  "ope": null
 }

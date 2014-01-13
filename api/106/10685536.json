@@ -1,6 +1,6 @@
 {
   "facility_code": "10685536",
-  "institution": "Garfield County Sheriff",
+  "institution": "GARFIELD COUNTY SHERIFF",
   "city": "Enid",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73701",
-  "email": false
+  "ope": null
 }

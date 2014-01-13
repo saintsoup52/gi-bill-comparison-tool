@@ -1,6 +1,6 @@
 {
   "facility_code": "20200139",
-  "institution": "New England Detroit Diesel-Allison",
+  "institution": "NEW ENGLAND DETROIT DIESEL-ALLISON",
   "city": "Cranston",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2920",
-  "email": false
+  "ope": null
 }

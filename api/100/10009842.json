@@ -1,6 +1,6 @@
 {
   "facility_code": "10009842",
-  "institution": "Internal Revenue Service - Knoxville - Chapter 31 Only",
+  "institution": "INTERNAL REVENUE SERVICE - KNOXVILLE - CHAPTER 31 ONLY",
   "city": "Knoxville",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37902",
-  "email": false
+  "ope": null
 }

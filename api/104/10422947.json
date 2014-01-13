@@ -1,6 +1,6 @@
 {
   "facility_code": "10422947",
-  "institution": "Kirkland Police Department",
+  "institution": "KIRKLAND POLICE DEPARTMENT",
   "city": "Kirkland",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98033",
-  "email": true
+  "ope": null
 }

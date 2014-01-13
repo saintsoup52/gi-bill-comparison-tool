@@ -1,6 +1,6 @@
 {
   "facility_code": "10000719",
-  "institution": "Maine Department Of Agriculture",
+  "institution": "MAINE DEPARTMENT OF AGRICULTURE",
   "city": "Presque Isle",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "4769",
-  "email": false
+  "ope": null
 }

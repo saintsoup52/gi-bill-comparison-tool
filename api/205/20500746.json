@@ -1,6 +1,6 @@
 {
   "facility_code": "20500746",
-  "institution": "Owens-Illinois Plant #29",
+  "institution": "OWENS-ILLINOIS PLANT #29",
   "city": "Ringgold",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24586",
-  "email": false
+  "ope": null
 }

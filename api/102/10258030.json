@@ -1,6 +1,6 @@
 {
   "facility_code": "10258030",
-  "institution": "New Jersey Institute Of Technology Police Program",
+  "institution": "NEW JERSEY INSTITUTE OF TECHNOLOGY POLICE PROGRAM",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7102",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20D22149",
-  "institution": "Daimler Chrysler Corporation",
+  "institution": "DAIMLER CHRYSLER CORPORATION",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53144",
-  "email": false
+  "ope": null
 }

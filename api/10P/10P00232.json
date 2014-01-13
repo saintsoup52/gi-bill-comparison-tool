@@ -1,6 +1,6 @@
 {
   "facility_code": "10P00232",
-  "institution": "New York State Department Of Transportation Fulton-Montgomery Residency",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION FULTON-MONTGOMERY RESIDENCY",
   "city": "Fultonville",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12072",
-  "email": true
+  "ope": null
 }

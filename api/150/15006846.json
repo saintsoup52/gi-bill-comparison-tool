@@ -1,6 +1,6 @@
 {
   "facility_code": "15006846",
-  "institution": "University Of Virginia Health System - Radiography",
+  "institution": "UNIVERSITY OF VIRGINIA HEALTH SYSTEM - RADIOGRAPHY",
   "city": "Charlottesville",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22908",
-  "email": true
+  "ope": null
 }

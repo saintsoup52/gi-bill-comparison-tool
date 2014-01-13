@@ -1,6 +1,6 @@
 {
   "facility_code": "10N40132",
-  "institution": "Syracuse Faa Air Traffic Control Tower",
+  "institution": "SYRACUSE FAA AIR TRAFFIC CONTROL TOWER",
   "city": "North Syracuse",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13212",
-  "email": true
+  "ope": null
 }

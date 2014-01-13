@@ -1,6 +1,6 @@
 {
   "facility_code": "20000106",
-  "institution": "Tony Ps Highland",
+  "institution": "TONY PS HIGHLAND",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80211",
-  "email": true
+  "ope": null
 }

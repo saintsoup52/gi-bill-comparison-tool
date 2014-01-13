@@ -1,6 +1,6 @@
 {
   "facility_code": "11801229",
-  "institution": "Granite State College - Main Campus",
+  "institution": "GRANITE STATE COLLEGE - MAIN CAMPUS",
   "city": "Concord",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "3301",
-  "email": true
+  "ope": "03101300"
 }

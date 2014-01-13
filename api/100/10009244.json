@@ -1,6 +1,6 @@
 {
   "facility_code": "10009244",
-  "institution": "Social Security Administration",
+  "institution": "SOCIAL SECURITY ADMINISTRATION",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84138",
-  "email": false
+  "ope": null
 }

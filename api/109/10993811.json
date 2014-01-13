@@ -1,6 +1,6 @@
 {
   "facility_code": "10993811",
-  "institution": "Columbus Tech Maintenance Dept",
+  "institution": "COLUMBUS TECH MAINTENANCE DEPT",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31995",
-  "email": false
+  "ope": null
 }

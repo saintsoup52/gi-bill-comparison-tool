@@ -1,6 +1,6 @@
 {
   "facility_code": "25525617",
-  "institution": "Dreamland",
+  "institution": "DREAMLAND",
   "city": "Louisville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "40203",
-  "email": false
+  "ope": null
 }

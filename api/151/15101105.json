@@ -1,6 +1,6 @@
 {
   "facility_code": "15101105",
-  "institution": "Sacramento County Office Of Education -Rop",
+  "institution": "SACRAMENTO COUNTY OFFICE OF EDUCATION -ROP",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95826",
-  "email": true
+  "ope": null
 }

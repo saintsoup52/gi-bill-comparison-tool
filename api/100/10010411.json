@@ -1,6 +1,6 @@
 {
   "facility_code": "10010411",
-  "institution": "Greene County Sheriff'S Office",
+  "institution": "GREENE COUNTY SHERIFF'S OFFICE",
   "city": "Greensboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30642",
-  "email": false
+  "ope": null
 }

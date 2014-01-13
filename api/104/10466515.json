@@ -1,6 +1,6 @@
 {
   "facility_code": "10466515",
-  "institution": "Council Bluffs Police Department",
+  "institution": "COUNCIL BLUFFS POLICE DEPARTMENT",
   "city": "Council Bluffs",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "51501",
-  "email": false
+  "ope": null
 }

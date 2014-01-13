@@ -1,6 +1,6 @@
 {
   "facility_code": "29102928",
-  "institution": "Pepsi-Cola Company (Ch31)",
+  "institution": "PEPSI-COLA COMPANY (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89102",
-  "email": false
+  "ope": null
 }

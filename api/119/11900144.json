@@ -1,6 +1,6 @@
 {
   "facility_code": "11900144",
-  "institution": "Utah Valley University",
+  "institution": "UTAH VALLEY UNIVERSITY",
   "city": "Orem",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "84058",
-  "email": true
+  "ope": "00402700"
 }

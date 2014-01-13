@@ -1,6 +1,6 @@
 {
   "facility_code": "32003409",
-  "institution": "Children'S National Medical Center",
+  "institution": "CHILDREN'S NATIONAL MEDICAL CENTER",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20010",
-  "email": false
+  "ope": null
 }

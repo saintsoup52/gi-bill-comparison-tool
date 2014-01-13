@@ -1,6 +1,6 @@
 {
   "facility_code": "20N32832",
-  "institution": "Con Edison The Learning Center",
+  "institution": "CON EDISON THE LEARNING CENTER",
   "city": "Long Island City",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11101",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20825111",
-  "institution": "Exopack",
+  "institution": "EXOPACK",
   "city": "Tifton",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31794",
-  "email": false
+  "ope": null
 }

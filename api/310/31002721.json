@@ -1,6 +1,6 @@
 {
   "facility_code": "31002721",
-  "institution": "Wellesley College",
+  "institution": "WELLESLEY COLLEGE",
   "city": "Wellesley",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2481",
-  "email": true
+  "ope": "00222400"
 }

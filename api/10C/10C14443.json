@@ -1,6 +1,6 @@
 {
   "facility_code": "10C14443",
-  "institution": "Dallas Police Dept Police Trng Sect Ojt",
+  "institution": "DALLAS POLICE DEPT POLICE TRNG SECT OJT",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75237",
-  "email": false
+  "ope": null
 }

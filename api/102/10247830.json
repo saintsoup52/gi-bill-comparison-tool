@@ -1,6 +1,6 @@
 {
   "facility_code": "10247830",
-  "institution": "Mendham Township Police Department",
+  "institution": "MENDHAM TOWNSHIP POLICE DEPARTMENT",
   "city": "Brookside",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7926",
-  "email": true
+  "ope": null
 }

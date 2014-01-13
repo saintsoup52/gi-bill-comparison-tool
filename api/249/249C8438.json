@@ -1,6 +1,6 @@
 {
   "facility_code": "249C8438",
-  "institution": "Pennsylvania Institute Of Health & Technology",
+  "institution": "PENNSYLVANIA INSTITUTE OF HEALTH & TECHNOLOGY",
   "city": "Mount Braddock",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "15465",
-  "email": false
+  "ope": "00500701"
 }

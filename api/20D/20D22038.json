@@ -1,6 +1,6 @@
 {
   "facility_code": "20D22038",
-  "institution": "Operating Engineers Local 542 J.A.T.C.",
+  "institution": "OPERATING ENGINEERS LOCAL 542 J.A.T.C.",
   "city": "Fort Washington",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19034",
-  "email": true
+  "ope": null
 }

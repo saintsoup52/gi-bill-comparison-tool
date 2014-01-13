@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11611",
-  "institution": "Washington State Prison",
+  "institution": "WASHINGTON STATE PRISON",
   "city": "Davisboro",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31018",
-  "email": true
+  "ope": null
 }

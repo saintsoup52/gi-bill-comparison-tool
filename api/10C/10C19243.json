@@ -1,6 +1,6 @@
 {
   "facility_code": "10C19243",
-  "institution": "Faa Midland Maf",
+  "institution": "FAA MIDLAND MAF",
   "city": "Midland",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79711",
-  "email": false
+  "ope": null
 }

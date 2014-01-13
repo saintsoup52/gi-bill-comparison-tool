@@ -1,6 +1,6 @@
 {
   "facility_code": "15000527",
-  "institution": "Aurora High School",
+  "institution": "AURORA HIGH SCHOOL",
   "city": "Aurora",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68818",
-  "email": false
+  "ope": null
 }

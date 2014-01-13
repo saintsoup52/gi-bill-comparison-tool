@@ -1,6 +1,6 @@
 {
   "facility_code": "32903106",
-  "institution": "Penrose-St.Francis Health Sys Dept Of Pathology",
+  "institution": "PENROSE-ST.FRANCIS HEALTH SYS DEPT OF PATHOLOGY",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80907",
-  "email": true
+  "ope": null
 }

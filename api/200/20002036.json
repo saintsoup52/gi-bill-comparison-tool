@@ -1,6 +1,6 @@
 {
   "facility_code": "20002036",
-  "institution": "Tulsa Electric Jatc",
+  "institution": "TULSA ELECTRIC JATC",
   "city": "Tulsa",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "74159",
-  "email": false
+  "ope": null
 }

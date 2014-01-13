@@ -1,6 +1,6 @@
 {
   "facility_code": "10200926",
-  "institution": "Federal Bureau Of Land Management",
+  "institution": "FEDERAL BUREAU OF LAND MANAGEMENT",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59101",
-  "email": false
+  "ope": null
 }

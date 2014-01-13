@@ -1,6 +1,6 @@
 {
   "facility_code": "10C20343",
-  "institution": "Frisco Police Department",
+  "institution": "FRISCO POLICE DEPARTMENT",
   "city": "Frisco",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75034",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "29000502",
-  "institution": "O'Malley Ice Arena (Ch31)",
+  "institution": "O'MALLEY ICE ARENA (CH31)",
   "city": "Anchorage",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "99515",
-  "email": false
+  "ope": null
 }

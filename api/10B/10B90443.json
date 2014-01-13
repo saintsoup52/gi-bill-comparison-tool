@@ -1,6 +1,6 @@
 {
   "facility_code": "10B90443",
-  "institution": "Us Dept Of Veterans Affairs Vsd Ch31",
+  "institution": "US DEPT OF VETERANS AFFAIRS VSD CH31",
   "city": "Waco",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76799",
-  "email": "No (SCO)"
+  "ope": null
 }

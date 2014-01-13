@@ -1,6 +1,6 @@
 {
   "facility_code": "10683229",
-  "institution": "Derry Police Department",
+  "institution": "DERRY POLICE DEPARTMENT",
   "city": "Derry",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3038",
-  "email": true
+  "ope": null
 }

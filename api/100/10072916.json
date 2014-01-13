@@ -1,6 +1,6 @@
 {
   "facility_code": "10072916",
-  "institution": "Junction City Police Department",
+  "institution": "JUNCTION CITY POLICE DEPARTMENT",
   "city": "Junction City",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "66441",
-  "email": false
+  "ope": null
 }

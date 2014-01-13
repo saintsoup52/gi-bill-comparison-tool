@@ -1,6 +1,6 @@
 {
   "facility_code": "301B0105",
-  "institution": "Los Angeles County Intercommunication & Sound Jac",
+  "institution": "LOS ANGELES COUNTY INTERCOMMUNICATION & SOUND JAC",
   "city": "City Of Commerce",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90040",
-  "email": false
+  "ope": null
 }

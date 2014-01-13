@@ -1,6 +1,6 @@
 {
   "facility_code": "10549030",
-  "institution": "Hudson County Department Of Corrections",
+  "institution": "HUDSON COUNTY DEPARTMENT OF CORRECTIONS",
   "city": "South Kearney",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7032",
-  "email": false
+  "ope": null
 }

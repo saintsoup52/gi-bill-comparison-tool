@@ -1,6 +1,6 @@
 {
   "facility_code": "10120031",
-  "institution": "Farmington Police Department",
+  "institution": "FARMINGTON POLICE DEPARTMENT",
   "city": "Farmington",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87401",
-  "email": false
+  "ope": null
 }

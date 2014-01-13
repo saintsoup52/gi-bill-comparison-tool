@@ -1,6 +1,6 @@
 {
   "facility_code": "11901102",
-  "institution": "University Of Alaska - Fairbanks",
+  "institution": "UNIVERSITY OF ALASKA - FAIRBANKS",
   "city": "Fairbanks",
   "state": "AK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "99775",
-  "email": true
+  "ope": "00106300"
 }

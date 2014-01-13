@@ -1,6 +1,6 @@
 {
   "facility_code": "11000663",
-  "institution": "Conservatorio De Musica De Puerto Rico",
+  "institution": "CONSERVATORIO DE MUSICA DE PUERTO RICO",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "907",
-  "email": true
+  "ope": "01081900"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10011011",
-  "institution": "Clayton County Fire Department",
+  "institution": "CLAYTON COUNTY FIRE DEPARTMENT",
   "city": "Riverdale",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30274",
-  "email": false
+  "ope": null
 }

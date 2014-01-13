@@ -1,6 +1,6 @@
 {
   "facility_code": "11904122",
-  "institution": "Ferris State University",
+  "institution": "FERRIS STATE UNIVERSITY",
   "city": "Big Rapids",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49307",
-  "email": true
+  "ope": "00226000"
 }

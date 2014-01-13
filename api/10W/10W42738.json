@@ -1,6 +1,6 @@
 {
   "facility_code": "10W42738",
-  "institution": "Department Of Corrections Ccc (Pittsburgh - S Aiken Ave)",
+  "institution": "DEPARTMENT OF CORRECTIONS CCC (PITTSBURGH - S AIKEN AVE)",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15232",
-  "email": false
+  "ope": null
 }

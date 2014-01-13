@@ -1,6 +1,6 @@
 {
   "facility_code": "15004713",
-  "institution": "Homewood-Flossmoor High School",
+  "institution": "HOMEWOOD-FLOSSMOOR HIGH SCHOOL",
   "city": "Flossmoor",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60422",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "32808307",
-  "institution": "Bristol Hospital Ems Regional Trng Ctr",
+  "institution": "BRISTOL HOSPITAL EMS REGIONAL TRNG CTR",
   "city": "Bristol",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6010",
-  "email": false
+  "ope": null
 }

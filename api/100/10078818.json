@@ -1,6 +1,6 @@
 {
   "facility_code": "10078818",
-  "institution": "Buckhalter Center For Recovery (Ch 31)",
+  "institution": "BUCKHALTER CENTER FOR RECOVERY (CH 31)",
   "city": "Shreveport",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71101",
-  "email": false
+  "ope": null
 }

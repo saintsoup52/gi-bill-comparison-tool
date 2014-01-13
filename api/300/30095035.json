@@ -1,6 +1,6 @@
 {
   "facility_code": "30095035",
-  "institution": "Va Medical Center Voc Rehab Center (Ch31)",
+  "institution": "VA MEDICAL CENTER VOC REHAB CENTER (CH31)",
   "city": "Cincinnati",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "45220",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35020720",
-  "institution": "Pittsburgh Institute Of Aeronautics",
+  "institution": "PITTSBURGH INSTITUTE OF AERONAUTICS",
   "city": "Hagerstown",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21742",
-  "email": true
+  "ope": null
 }

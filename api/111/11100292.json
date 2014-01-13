@@ -1,6 +1,6 @@
 {
   "facility_code": "11100292",
-  "institution": "Universidad Nuestra Senora De La Paz",
+  "institution": "UNIVERSIDAD NUESTRA SENORA DE LA PAZ",
   "city": "La Paz  Bolivia",
   "state": "Bolivia",
   "country": "Bolivia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

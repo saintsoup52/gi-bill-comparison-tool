@@ -1,6 +1,6 @@
 {
   "facility_code": "11850010",
-  "institution": "St Petersburg College-St Petersburg/Gibbs Campus",
+  "institution": "ST PETERSBURG COLLEGE-ST PETERSBURG/GIBBS CAMPUS",
   "city": "St. Petersburg",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "33733",
-  "email": true
+  "ope": "00152802"
 }

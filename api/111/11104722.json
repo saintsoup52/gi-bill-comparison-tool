@@ -1,6 +1,6 @@
 {
   "facility_code": "11104722",
-  "institution": "Vincennes University U.S.A.G. - Selfridge",
+  "institution": "VINCENNES UNIVERSITY U.S.A.G. - SELFRIDGE",
   "city": "Selfridge",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "48045",
-  "email": true
+  "ope": "00184300"
 }

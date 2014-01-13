@@ -1,6 +1,6 @@
 {
   "facility_code": "31810121",
-  "institution": "Wentworth Institute Of Technology",
+  "institution": "WENTWORTH INSTITUTE OF TECHNOLOGY",
   "city": "Boston",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2115",
-  "email": true
+  "ope": "00222500"
 }

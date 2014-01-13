@@ -1,6 +1,6 @@
 {
   "facility_code": "10118939",
-  "institution": "Cranston Fire Department",
+  "institution": "CRANSTON FIRE DEPARTMENT",
   "city": "Cranston",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2910",
-  "email": true
+  "ope": null
 }

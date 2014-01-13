@@ -1,6 +1,6 @@
 {
   "facility_code": "102B0805",
-  "institution": "Federal Correctional Institute- Herlong",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTE- HERLONG",
   "city": "Herlong",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96113",
-  "email": true
+  "ope": null
 }

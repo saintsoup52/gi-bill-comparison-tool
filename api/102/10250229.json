@@ -1,6 +1,6 @@
 {
   "facility_code": "10250229",
-  "institution": "Franklin Police Department",
+  "institution": "FRANKLIN POLICE DEPARTMENT",
   "city": "Franklin",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3235",
-  "email": false
+  "ope": null
 }

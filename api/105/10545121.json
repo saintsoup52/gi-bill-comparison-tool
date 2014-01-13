@@ -1,6 +1,6 @@
 {
   "facility_code": "10545121",
-  "institution": "Bourne Police Department",
+  "institution": "BOURNE POLICE DEPARTMENT",
   "city": "Bourne",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2532",
-  "email": true
+  "ope": null
 }

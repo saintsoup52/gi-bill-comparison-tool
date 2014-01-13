@@ -1,6 +1,6 @@
 {
   "facility_code": "11802418",
-  "institution": "Lsu Health Sciences Center - Baton Rouge",
+  "institution": "LSU HEALTH SCIENCES CENTER - BATON ROUGE",
   "city": "Baton Rouge",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70808",
-  "email": false
+  "ope": "00201000"
 }

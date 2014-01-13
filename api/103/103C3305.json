@@ -1,6 +1,6 @@
 {
   "facility_code": "103C3305",
-  "institution": "Veterans Health Admin- Monterey (Chapter 31 Only)",
+  "institution": "VETERANS HEALTH ADMIN- MONTEREY (CHAPTER 31 ONLY)",
   "city": "Seaside",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93955",
-  "email": false
+  "ope": null
 }

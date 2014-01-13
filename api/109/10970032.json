@@ -1,6 +1,6 @@
 {
   "facility_code": "10970032",
-  "institution": "Buffalo Fire Department",
+  "institution": "BUFFALO FIRE DEPARTMENT",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14202",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10080618",
-  "institution": "Zachary Police Department",
+  "institution": "ZACHARY POLICE DEPARTMENT",
   "city": "Zachary",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70791",
-  "email": false
+  "ope": null
 }

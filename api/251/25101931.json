@@ -1,6 +1,6 @@
 {
   "facility_code": "25101931",
-  "institution": "New Mexico School Of Natural Therapeutics",
+  "institution": "NEW MEXICO SCHOOL OF NATURAL THERAPEUTICS",
   "city": "Albuquerque",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87108",
-  "email": true
+  "ope": null
 }

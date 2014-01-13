@@ -1,6 +1,6 @@
 {
   "facility_code": "10520230",
-  "institution": "Montvale Police Department",
+  "institution": "MONTVALE POLICE DEPARTMENT",
   "city": "Montvale",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7645",
-  "email": false
+  "ope": null
 }

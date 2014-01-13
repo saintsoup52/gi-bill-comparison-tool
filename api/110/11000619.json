@@ -1,6 +1,6 @@
 {
   "facility_code": "11000619",
-  "institution": "University Of Maine At Orono",
+  "institution": "UNIVERSITY OF MAINE AT ORONO",
   "city": "Orono",
   "state": "ME",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4469",
-  "email": true
+  "ope": "00205300"
 }

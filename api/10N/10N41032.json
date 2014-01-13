@@ -1,6 +1,6 @@
 {
   "facility_code": "10N41032",
-  "institution": "Jfk International Airport",
+  "institution": "JFK INTERNATIONAL AIRPORT",
   "city": "Jamaica",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11430",
-  "email": true
+  "ope": null
 }

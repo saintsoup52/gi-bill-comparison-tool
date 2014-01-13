@@ -1,6 +1,6 @@
 {
   "facility_code": "10230903",
-  "institution": "Flagstaff Police Department",
+  "institution": "FLAGSTAFF POLICE DEPARTMENT",
   "city": "Flagstaff",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "86001",
-  "email": false
+  "ope": null
 }

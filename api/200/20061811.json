@@ -1,6 +1,6 @@
 {
   "facility_code": "20061811",
-  "institution": "East-West Express Inc",
+  "institution": "EAST-WEST EXPRESS INC",
   "city": "Villa Rica",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30180",
-  "email": true
+  "ope": null
 }

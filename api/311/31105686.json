@@ -1,6 +1,6 @@
 {
   "facility_code": "31105686",
-  "institution": "Instituto Tecnologico Autonomo De Mexico",
+  "institution": "INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO",
   "city": "San Angel,",
   "state": "Mexico",
   "country": "Mexico",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

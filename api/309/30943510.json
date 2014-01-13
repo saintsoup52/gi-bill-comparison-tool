@@ -1,6 +1,6 @@
 {
   "facility_code": "30943510",
-  "institution": "Tampa Operating Engineers Jac",
+  "institution": "TAMPA OPERATING ENGINEERS JAC",
   "city": "Mango",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33550",
-  "email": true
+  "ope": null
 }

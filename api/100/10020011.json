@@ -1,6 +1,6 @@
 {
   "facility_code": "10020011",
-  "institution": "Rincon Police Department",
+  "institution": "RINCON POLICE DEPARTMENT",
   "city": "Rincon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31326",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10606425",
-  "institution": "Boonville Police Dept.",
+  "institution": "BOONVILLE POLICE DEPT.",
   "city": "Boonville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65233",
-  "email": false
+  "ope": null
 }

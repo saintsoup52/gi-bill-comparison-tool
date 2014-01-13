@@ -1,6 +1,6 @@
 {
   "facility_code": "10118731",
-  "institution": "Portales Police Department",
+  "institution": "PORTALES POLICE DEPARTMENT",
   "city": "Portales",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88130",
-  "email": true
+  "ope": null
 }

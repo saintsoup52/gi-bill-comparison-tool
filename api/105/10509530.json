@@ -1,6 +1,6 @@
 {
   "facility_code": "10509530",
-  "institution": "Fort Lee Police Department",
+  "institution": "FORT LEE POLICE DEPARTMENT",
   "city": "Fort Lee",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7024",
-  "email": false
+  "ope": null
 }

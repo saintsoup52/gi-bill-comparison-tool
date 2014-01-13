@@ -1,6 +1,6 @@
 {
   "facility_code": "15000844",
-  "institution": "Utah State Dept Of Workforce Services (Ch 31)",
+  "institution": "UTAH STATE DEPT OF WORKFORCE SERVICES (CH 31)",
   "city": "Salt Lake City",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84101",
-  "email": false
+  "ope": null
 }

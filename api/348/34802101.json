@@ -1,6 +1,6 @@
 {
   "facility_code": "34802101",
-  "institution": "Faulkner University - B'Ham",
+  "institution": "FAULKNER UNIVERSITY - B'HAM",
   "city": "Hoover",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35244",
-  "email": true
+  "ope": "00100301"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10A11301",
-  "institution": "U.S. Coast Guard Sector Mobile",
+  "institution": "U.S. COAST GUARD SECTOR MOBILE",
   "city": "Mobile",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36615",
-  "email": true
+  "ope": null
 }

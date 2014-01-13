@@ -1,6 +1,6 @@
 {
   "facility_code": "10083618",
-  "institution": "Veterans Health Administration -- New Orleans",
+  "institution": "VETERANS HEALTH ADMINISTRATION -- NEW ORLEANS",
   "city": "New Orleans",
   "state": "LA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "70112",
-  "email": false
+  "ope": null
 }

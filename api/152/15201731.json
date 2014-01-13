@@ -1,6 +1,6 @@
 {
   "facility_code": "15201731",
-  "institution": "Chaparral High School",
+  "institution": "CHAPARRAL HIGH SCHOOL",
   "city": "Chaparral",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88081",
-  "email": true
+  "ope": null
 }

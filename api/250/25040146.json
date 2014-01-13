@@ -1,6 +1,6 @@
 {
   "facility_code": "25040146",
-  "institution": "Ameritrain-Withdrawn",
+  "institution": "AMERITRAIN-WITHDRAWN",
   "city": "Tysons Corner",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22182",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10483448",
-  "institution": "Allegheny Power",
+  "institution": "ALLEGHENY POWER",
   "city": "Ronceverte",
   "state": "WV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24970",
-  "email": true
+  "ope": null
 }

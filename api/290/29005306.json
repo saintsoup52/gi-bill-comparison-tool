@@ -1,6 +1,6 @@
 {
   "facility_code": "29005306",
-  "institution": "Center For Personalized Education For Physicians",
+  "institution": "CENTER FOR PERSONALIZED EDUCATION FOR PHYSICIANS",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80230",
-  "email": false
+  "ope": null
 }

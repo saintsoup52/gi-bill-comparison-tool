@@ -1,6 +1,6 @@
 {
   "facility_code": "103B7905",
-  "institution": "Defense Contract Management Agency (Carson)",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (CARSON)",
   "city": "Carson",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90746",
-  "email": false
+  "ope": null
 }

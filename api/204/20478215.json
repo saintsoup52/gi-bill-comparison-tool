@@ -1,6 +1,6 @@
 {
   "facility_code": "20478215",
-  "institution": "Monsanto Company",
+  "institution": "MONSANTO COMPANY",
   "city": "Muscatine",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "52761",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "30207903",
-  "institution": "Navajo Generating Station",
+  "institution": "NAVAJO GENERATING STATION",
   "city": "Page",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "86040",
-  "email": false
+  "ope": null
 }

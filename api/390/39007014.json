@@ -1,6 +1,6 @@
 {
   "facility_code": "39007014",
-  "institution": "Chapter Two",
+  "institution": "CHAPTER TWO",
   "city": "Fort Wayne",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46805",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000608",
-  "institution": "Southern Illinois University At Carbondale",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY AT CARBONDALE",
   "city": "Dover Afb",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19902",
-  "email": true
+  "ope": "00175827"
 }

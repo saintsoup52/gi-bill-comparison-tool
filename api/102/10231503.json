@@ -1,6 +1,6 @@
 {
   "facility_code": "10231503",
-  "institution": "City Of Chandler (Chapter 31 Only)",
+  "institution": "CITY OF CHANDLER (CHAPTER 31 ONLY)",
   "city": "Chandler",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85224",
-  "email": false
+  "ope": null
 }

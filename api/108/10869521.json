@@ -1,6 +1,6 @@
 {
   "facility_code": "10869521",
-  "institution": "Stoneham Police Department",
+  "institution": "STONEHAM POLICE DEPARTMENT",
   "city": "Stoneham",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2180",
-  "email": true
+  "ope": null
 }

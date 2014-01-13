@@ -1,6 +1,6 @@
 {
   "facility_code": "25005844",
-  "institution": "Sage Technical Services - Slc",
+  "institution": "SAGE TECHNICAL SERVICES - SLC",
   "city": "North Salt Lake",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84054",
-  "email": true
+  "ope": null
 }

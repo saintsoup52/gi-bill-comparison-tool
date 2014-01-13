@@ -1,6 +1,6 @@
 {
   "facility_code": "10997521",
-  "institution": "Defense Contract Management Agency Westover Afb",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY WESTOVER AFB",
   "city": "Chicopee",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1022",
-  "email": true
+  "ope": null
 }

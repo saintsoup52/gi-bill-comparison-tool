@@ -1,6 +1,6 @@
 {
   "facility_code": "10B23035",
-  "institution": "Cleveland Fire Department  K",
+  "institution": "CLEVELAND FIRE DEPARTMENT  K",
   "city": "Cleveland",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44114",
-  "email": true
+  "ope": null
 }

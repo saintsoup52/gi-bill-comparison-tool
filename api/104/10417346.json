@@ -1,6 +1,6 @@
 {
   "facility_code": "10417346",
-  "institution": "James City County Police Department",
+  "institution": "JAMES CITY COUNTY POLICE DEPARTMENT",
   "city": "Williamsburg",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23185",
-  "email": true
+  "ope": null
 }

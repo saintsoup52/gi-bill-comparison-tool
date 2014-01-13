@@ -1,6 +1,6 @@
 {
   "facility_code": "10022911",
-  "institution": "Donalsonville Police Department",
+  "institution": "DONALSONVILLE POLICE DEPARTMENT",
   "city": "Donalsonville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "39845",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20025211",
-  "institution": "Oglethorpe Power Corporation",
+  "institution": "OGLETHORPE POWER CORPORATION",
   "city": "Cedartown",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30125",
-  "email": false
+  "ope": null
 }

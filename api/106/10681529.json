@@ -1,6 +1,6 @@
 {
   "facility_code": "10681529",
-  "institution": "Boscawen Police Department",
+  "institution": "BOSCAWEN POLICE DEPARTMENT",
   "city": "Boscawen",
   "state": "NH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "3303",
-  "email": false
+  "ope": null
 }

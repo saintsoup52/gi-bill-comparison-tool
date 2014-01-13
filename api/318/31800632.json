@@ -1,6 +1,6 @@
 {
   "facility_code": "31800632",
-  "institution": "Nyu School Of Medicine",
+  "institution": "NYU SCHOOL OF MEDICINE",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10016",
-  "email": false
+  "ope": "00278500"
 }

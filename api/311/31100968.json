@@ -1,6 +1,6 @@
 {
   "facility_code": "31100968",
-  "institution": "The American University In Cairo",
+  "institution": "THE AMERICAN UNIVERSITY IN CAIRO",
   "city": "New Cairo",
   "state": "Egypt",
   "country": "Egypt",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10B33123",
-  "institution": "Faa Minneapolis Atct",
+  "institution": "FAA MINNEAPOLIS ATCT",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55450",
-  "email": false
+  "ope": null
 }

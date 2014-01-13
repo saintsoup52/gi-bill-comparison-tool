@@ -1,6 +1,6 @@
 {
   "facility_code": "10N49132",
-  "institution": "New York State Dept Of Labor - Albany",
+  "institution": "NEW YORK STATE DEPT OF LABOR - ALBANY",
   "city": "Albany",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12240",
-  "email": false
+  "ope": null
 }

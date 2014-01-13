@@ -1,6 +1,6 @@
 {
   "facility_code": "10N11432",
-  "institution": "Fishkill Correctional Facility",
+  "institution": "FISHKILL CORRECTIONAL FACILITY",
   "city": "Beacon",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12508",
-  "email": false
+  "ope": null
 }

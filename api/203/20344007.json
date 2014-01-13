@@ -1,6 +1,6 @@
 {
   "facility_code": "20344007",
-  "institution": "Otto Company Aka The Otto Compant",
+  "institution": "OTTO COMPANY AKA THE OTTO COMPANT",
   "city": "Danbury",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6810",
-  "email": false
+  "ope": null
 }

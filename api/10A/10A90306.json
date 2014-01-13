@@ -1,6 +1,6 @@
 {
   "facility_code": "10A90306",
-  "institution": "Opm Federal Investigative Services Division",
+  "institution": "OPM FEDERAL INVESTIGATIVE SERVICES DIVISION",
   "city": "Colorado Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80918",
-  "email": false
+  "ope": null
 }

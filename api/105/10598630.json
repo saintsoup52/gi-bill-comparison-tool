@@ -1,6 +1,6 @@
 {
   "facility_code": "10598630",
-  "institution": "Pleasantville Police Department",
+  "institution": "PLEASANTVILLE POLICE DEPARTMENT",
   "city": "Pleasantville",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8232",
-  "email": true
+  "ope": null
 }

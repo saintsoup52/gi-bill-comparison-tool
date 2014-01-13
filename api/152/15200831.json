@@ -1,6 +1,6 @@
 {
   "facility_code": "15200831",
-  "institution": "Ruidoso High School",
+  "institution": "RUIDOSO HIGH SCHOOL",
   "city": "Ruidoso",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88345",
-  "email": false
+  "ope": null
 }

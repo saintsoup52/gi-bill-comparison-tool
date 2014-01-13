@@ -1,6 +1,6 @@
 {
   "facility_code": "10R04738",
-  "institution": "Department Of Public Welfare",
+  "institution": "DEPARTMENT OF PUBLIC WELFARE",
   "city": "Pittsburgh",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "email": false
+  "ope": null
 }

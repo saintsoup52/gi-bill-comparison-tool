@@ -1,6 +1,6 @@
 {
   "facility_code": "31902201",
-  "institution": "Oakwood University",
+  "institution": "OAKWOOD UNIVERSITY",
   "city": "Huntsville",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35896",
-  "email": true
+  "ope": "00103300"
 }

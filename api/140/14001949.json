@@ -1,6 +1,6 @@
 {
   "facility_code": "14001949",
-  "institution": "Univ Of Wisc-Manitowoc",
+  "institution": "UNIV OF WISC-MANITOWOC",
   "city": "Manitowoc",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "54220",
-  "email": false
+  "ope": "00389700"
 }

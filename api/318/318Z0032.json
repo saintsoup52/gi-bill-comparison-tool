@@ -1,6 +1,6 @@
 {
   "facility_code": "318Z0032",
-  "institution": "New York Institute Of Technology - New York City",
+  "institution": "NEW YORK INSTITUTE OF TECHNOLOGY - NEW YORK CITY",
   "city": "New York",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10023",
-  "email": true
+  "ope": "00278201"
 }

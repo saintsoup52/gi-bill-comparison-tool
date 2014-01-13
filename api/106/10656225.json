@@ -1,6 +1,6 @@
 {
   "facility_code": "10656225",
-  "institution": "Independence Fire Dept.",
+  "institution": "INDEPENDENCE FIRE DEPT.",
   "city": "Independence",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64050",
-  "email": true
+  "ope": null
 }

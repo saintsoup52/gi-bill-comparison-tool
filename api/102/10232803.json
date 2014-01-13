@@ -1,6 +1,6 @@
 {
   "facility_code": "10232803",
-  "institution": "Coolidge Police Department",
+  "institution": "COOLIDGE POLICE DEPARTMENT",
   "city": "Coolidge",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85128",
-  "email": false
+  "ope": null
 }

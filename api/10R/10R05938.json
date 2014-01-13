@@ -1,6 +1,6 @@
 {
   "facility_code": "10R05938",
-  "institution": "Department Of Labor & Industry-Johnstown Job Ctr",
+  "institution": "DEPARTMENT OF LABOR & INDUSTRY-JOHNSTOWN JOB CTR",
   "city": "Johnstown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15901",
-  "email": false
+  "ope": null
 }

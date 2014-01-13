@@ -1,6 +1,6 @@
 {
   "facility_code": "25003007",
-  "institution": "Ridley-Lowell Danbury Campus",
+  "institution": "RIDLEY-LOWELL DANBURY CAMPUS",
   "city": "Danbury",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "6810",
-  "email": true
+  "ope": "02112303"
 }

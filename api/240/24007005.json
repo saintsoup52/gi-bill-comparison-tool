@@ -1,6 +1,6 @@
 {
   "facility_code": "24007005",
-  "institution": "Heald Online Service Center",
+  "institution": "HEALD ONLINE SERVICE CENTER",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95834",
-  "email": false
+  "ope": null
 }

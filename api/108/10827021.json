@@ -1,6 +1,6 @@
 {
   "facility_code": "10827021",
-  "institution": "Worcester Fire Department",
+  "institution": "WORCESTER FIRE DEPARTMENT",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1605",
-  "email": true
+  "ope": null
 }

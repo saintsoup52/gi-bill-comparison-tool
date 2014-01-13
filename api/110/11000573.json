@@ -1,6 +1,6 @@
 {
   "facility_code": "11000573",
-  "institution": "University Of Kent-Brussels",
+  "institution": "UNIVERSITY OF KENT-BRUSSELS",
   "city": "Brussels",
   "state": "Belgium",
   "country": "Belgium",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

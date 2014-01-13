@@ -1,6 +1,6 @@
 {
   "facility_code": "30F01505",
-  "institution": "Southern California Operating Engineers Jac",
+  "institution": "SOUTHERN CALIFORNIA OPERATING ENGINEERS JAC",
   "city": "Whittier",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90601",
-  "email": false
+  "ope": null
 }

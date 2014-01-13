@@ -1,6 +1,6 @@
 {
   "facility_code": "10699325",
-  "institution": "Department Of Veterans Affairs-Rvsr",
+  "institution": "DEPARTMENT OF VETERANS AFFAIRS-RVSR",
   "city": "St. Louis",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63103",
-  "email": false
+  "ope": null
 }

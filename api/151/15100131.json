@@ -1,6 +1,6 @@
 {
   "facility_code": "15100131",
-  "institution": "Clovis High School",
+  "institution": "CLOVIS HIGH SCHOOL",
   "city": "Clovis",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "88101",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10C28843",
-  "institution": "U.S. Dept Of Housing And Urban Dev Field Pol And Mgmt",
+  "institution": "U.S. DEPT OF HOUSING AND URBAN DEV FIELD POL AND MGMT",
   "city": "Dallas",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75202",
-  "email": false
+  "ope": null
 }

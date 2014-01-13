@@ -1,6 +1,6 @@
 {
   "facility_code": "10595413",
-  "institution": "Cahokia Police Department",
+  "institution": "CAHOKIA POLICE DEPARTMENT",
   "city": "Cahokia",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62206",
-  "email": true
+  "ope": null
 }

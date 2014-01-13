@@ -1,6 +1,6 @@
 {
   "facility_code": "10056711",
-  "institution": "City Of Atlanta Department Of Corrections",
+  "institution": "CITY OF ATLANTA DEPARTMENT OF CORRECTIONS",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30303",
-  "email": false
+  "ope": null
 }

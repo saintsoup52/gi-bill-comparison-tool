@@ -1,6 +1,6 @@
 {
   "facility_code": "10C26843",
-  "institution": "Abilene Fire Department",
+  "institution": "ABILENE FIRE DEPARTMENT",
   "city": "Abilene",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79603",
-  "email": false
+  "ope": null
 }

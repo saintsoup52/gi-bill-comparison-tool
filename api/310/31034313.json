@@ -1,6 +1,6 @@
 {
   "facility_code": "31034313",
-  "institution": "Moody Bible Institute",
+  "institution": "MOODY BIBLE INSTITUTE",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60610",
-  "email": true
+  "ope": "00172700"
 }

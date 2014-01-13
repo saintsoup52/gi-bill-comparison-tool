@@ -1,6 +1,6 @@
 {
   "facility_code": "12800115",
-  "institution": "University Of Iowa Hosp/Clinic Ems Learning Resource Center",
+  "institution": "UNIVERSITY OF IOWA HOSP/CLINIC EMS LEARNING RESOURCE CENTER",
   "city": "Iowa City",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "52242",
-  "email": false
+  "ope": "00189200"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11003163",
-  "institution": "Universidad De Puerto Rico En Humacao (University Of Puerto Rico-Humacao)",
+  "institution": "UNIVERSIDAD DE PUERTO RICO EN HUMACAO (UNIVERSITY OF PUERTO RICO-HUMACAO)",
   "city": "Humacao",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "792",
-  "email": true
+  "ope": "00394300"
 }

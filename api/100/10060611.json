@@ -1,6 +1,6 @@
 {
   "facility_code": "10060611",
-  "institution": "Columbia High School",
+  "institution": "COLUMBIA HIGH SCHOOL",
   "city": "Decatur",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30032",
-  "email": true
+  "ope": null
 }

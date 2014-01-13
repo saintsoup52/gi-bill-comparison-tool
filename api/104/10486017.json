@@ -1,6 +1,6 @@
 {
   "facility_code": "10486017",
-  "institution": "Russellville Police Department",
+  "institution": "RUSSELLVILLE POLICE DEPARTMENT",
   "city": "Russellville",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42276",
-  "email": false
+  "ope": null
 }

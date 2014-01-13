@@ -1,6 +1,6 @@
 {
   "facility_code": "102B5005",
-  "institution": "Beaumont Police Department",
+  "institution": "BEAUMONT POLICE DEPARTMENT",
   "city": "Beaumont",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92223",
-  "email": false
+  "ope": null
 }

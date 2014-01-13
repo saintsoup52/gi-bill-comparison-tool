@@ -1,6 +1,6 @@
 {
   "facility_code": "11400074",
-  "institution": "University Of Dundee",
+  "institution": "UNIVERSITY OF DUNDEE",
   "city": "Nethergate",
   "state": "Scotland",
   "country": "Scotland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10992110",
-  "institution": "Tampa Police Department",
+  "institution": "TAMPA POLICE DEPARTMENT",
   "city": "Tampa",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33602",
-  "email": true
+  "ope": null
 }

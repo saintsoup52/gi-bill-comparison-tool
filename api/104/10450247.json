@@ -1,6 +1,6 @@
 {
   "facility_code": "10450247",
-  "institution": "Washington State Patrol/Commercial Vehicle Division",
+  "institution": "WASHINGTON STATE PATROL/COMMERCIAL VEHICLE DIVISION",
   "city": "Shelton",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98584",
-  "email": true
+  "ope": null
 }

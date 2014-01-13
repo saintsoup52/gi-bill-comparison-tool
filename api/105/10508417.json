@@ -1,6 +1,6 @@
 {
   "facility_code": "10508417",
-  "institution": "Hazard Police Department",
+  "institution": "HAZARD POLICE DEPARTMENT",
   "city": "Hazard",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "41701",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10413646",
-  "institution": "Hanover County Sheriff'S Office",
+  "institution": "HANOVER COUNTY SHERIFF'S OFFICE",
   "city": "Hannover",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23069",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10300704",
-  "institution": "Usacc Rdecom (Us Army Research)",
+  "institution": "USACC RDECOM (US ARMY RESEARCH)",
   "city": "Pine Bluff",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "71602",
-  "email": false
+  "ope": null
 }

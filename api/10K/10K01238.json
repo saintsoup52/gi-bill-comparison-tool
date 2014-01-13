@@ -1,6 +1,6 @@
 {
   "facility_code": "10K01238",
-  "institution": "Department Of Military And Veterans Affairs",
+  "institution": "DEPARTMENT OF MILITARY AND VETERANS AFFAIRS",
   "city": "Annville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17003",
-  "email": true
+  "ope": null
 }

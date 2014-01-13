@@ -1,6 +1,6 @@
 {
   "facility_code": "10A20311",
-  "institution": "Houston County Sheriff'S Dept (Warner Robins)",
+  "institution": "HOUSTON COUNTY SHERIFF'S DEPT (WARNER ROBINS)",
   "city": "Warner Robins",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31088",
-  "email": true
+  "ope": null
 }

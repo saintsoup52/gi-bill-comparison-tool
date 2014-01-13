@@ -1,6 +1,6 @@
 {
   "facility_code": "39000411",
-  "institution": "American Red Cross (Ch31)",
+  "institution": "AMERICAN RED CROSS (CH31)",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31201",
-  "email": false
+  "ope": null
 }

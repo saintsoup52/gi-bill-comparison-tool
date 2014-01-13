@@ -1,6 +1,6 @@
 {
   "facility_code": "15005713",
-  "institution": "University Of Illinois-Illinois Fire Service Institute",
+  "institution": "UNIVERSITY OF ILLINOIS-ILLINOIS FIRE SERVICE INSTITUTE",
   "city": "Champaign",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "61820",
-  "email": true
+  "ope": null
 }

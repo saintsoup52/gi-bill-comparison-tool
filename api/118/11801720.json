@@ -1,6 +1,6 @@
 {
   "facility_code": "11801720",
-  "institution": "University Of Maryland University College",
+  "institution": "UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE",
   "city": "Adelphi",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20783",
-  "email": true
+  "ope": "01164400"
 }

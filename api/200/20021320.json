@@ -1,6 +1,6 @@
 {
   "facility_code": "20021320",
-  "institution": "Dm Bowman Inc",
+  "institution": "DM BOWMAN INC",
   "city": "Williamsport",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21795",
-  "email": true
+  "ope": null
 }

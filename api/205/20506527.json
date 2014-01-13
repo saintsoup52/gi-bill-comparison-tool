@@ -1,6 +1,6 @@
 {
   "facility_code": "20506527",
-  "institution": "Offutt Air Force Base",
+  "institution": "OFFUTT AIR FORCE BASE",
   "city": "Offutt",
   "state": "NE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "68113",
-  "email": false
+  "ope": null
 }

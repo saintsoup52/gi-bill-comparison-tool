@@ -1,6 +1,6 @@
 {
   "facility_code": "20D19833",
-  "institution": "Cummins Rocky Mount Engine Plant",
+  "institution": "CUMMINS ROCKY MOUNT ENGINE PLANT",
   "city": "Whitakers",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27891",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10061114",
-  "institution": "Bloomington Police Department",
+  "institution": "BLOOMINGTON POLICE DEPARTMENT",
   "city": "Bloomington",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47401",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20B04223",
-  "institution": "Us West",
+  "institution": "US WEST",
   "city": "White Bear Lake",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "55110",
-  "email": false
+  "ope": null
 }

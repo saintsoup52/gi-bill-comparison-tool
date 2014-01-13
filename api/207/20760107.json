@@ -1,6 +1,6 @@
 {
   "facility_code": "20760107",
-  "institution": "Trumpf Inc",
+  "institution": "TRUMPF INC",
   "city": "Farmington",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6032",
-  "email": false
+  "ope": null
 }

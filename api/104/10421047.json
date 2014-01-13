@@ -1,6 +1,6 @@
 {
   "facility_code": "10421047",
-  "institution": "City Of Othello Police Department",
+  "institution": "CITY OF OTHELLO POLICE DEPARTMENT",
   "city": "Othello",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98344",
-  "email": true
+  "ope": null
 }

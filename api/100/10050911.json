@@ -1,6 +1,6 @@
 {
   "facility_code": "10050911",
-  "institution": "Georgia Dol Rehabilitation Unit (Ch 31 Only)",
+  "institution": "GEORGIA DOL REHABILITATION UNIT (CH 31 ONLY)",
   "city": "Gainesville",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30503",
-  "email": false
+  "ope": null
 }

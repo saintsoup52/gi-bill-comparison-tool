@@ -1,6 +1,6 @@
 {
   "facility_code": "11801440",
-  "institution": "University Of South Carolina - Beaufort",
+  "institution": "UNIVERSITY OF SOUTH CAROLINA - BEAUFORT",
   "city": "Beaufort",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29902",
-  "email": true
+  "ope": "00345000"
 }

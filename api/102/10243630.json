@@ -1,6 +1,6 @@
 {
   "facility_code": "10243630",
-  "institution": "Linden Fire Department",
+  "institution": "LINDEN FIRE DEPARTMENT",
   "city": "Linden",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7036",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10534030",
-  "institution": "Verona Police Department",
+  "institution": "VERONA POLICE DEPARTMENT",
   "city": "Verona",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7044",
-  "email": false
+  "ope": null
 }

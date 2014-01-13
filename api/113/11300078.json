@@ -1,6 +1,6 @@
 {
   "facility_code": "11300078",
-  "institution": "University Of Lugano",
+  "institution": "UNIVERSITY OF LUGANO",
   "city": "Lugano",
   "state": "Switzerland",
   "country": "Switzerland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

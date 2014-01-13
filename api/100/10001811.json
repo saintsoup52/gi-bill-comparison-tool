@@ -1,6 +1,6 @@
 {
   "facility_code": "10001811",
-  "institution": "Macon Youth Development Campus",
+  "institution": "MACON YOUTH DEVELOPMENT CAMPUS",
   "city": "Macon",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31201",
-  "email": false
+  "ope": null
 }

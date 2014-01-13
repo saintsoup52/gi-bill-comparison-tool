@@ -1,6 +1,6 @@
 {
   "facility_code": "10029033",
-  "institution": "Tyrrell County Sheriffs Department",
+  "institution": "TYRRELL COUNTY SHERIFFS DEPARTMENT",
   "city": "Columbia",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27925",
-  "email": true
+  "ope": null
 }

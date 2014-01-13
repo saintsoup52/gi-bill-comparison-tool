@@ -1,6 +1,6 @@
 {
   "facility_code": "25007930",
-  "institution": "Lascomp Institute Of It",
+  "institution": "LASCOMP INSTITUTE OF IT",
   "city": "Montvale",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7645",
-  "email": true
+  "ope": null
 }

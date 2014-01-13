@@ -1,6 +1,6 @@
 {
   "facility_code": "10581413",
-  "institution": "Westmont Police Department",
+  "institution": "WESTMONT POLICE DEPARTMENT",
   "city": "Westmont",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60559",
-  "email": false
+  "ope": null
 }

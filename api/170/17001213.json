@@ -1,6 +1,6 @@
 {
   "facility_code": "17001213",
-  "institution": "Oak Park And River Forest High School",
+  "institution": "OAK PARK AND RIVER FOREST HIGH SCHOOL",
   "city": "Oak Park",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60302",
-  "email": false
+  "ope": null
 }

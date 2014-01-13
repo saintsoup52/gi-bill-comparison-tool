@@ -1,6 +1,6 @@
 {
   "facility_code": "103C7905",
-  "institution": "Midway Cafe (Ch31 Only)",
+  "institution": "MIDWAY CAFE (CH31 ONLY)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94102",
-  "email": false
+  "ope": null
 }

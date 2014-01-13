@@ -1,6 +1,6 @@
 {
   "facility_code": "25016409",
-  "institution": "Bar/Bri",
+  "institution": "BAR/BRI",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20036",
-  "email": false
+  "ope": null
 }

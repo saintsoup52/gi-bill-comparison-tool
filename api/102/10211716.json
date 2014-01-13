@@ -1,6 +1,6 @@
 {
   "facility_code": "10211716",
-  "institution": "Liberal Police Department",
+  "institution": "LIBERAL POLICE DEPARTMENT",
   "city": "Liberal",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67901",
-  "email": false
+  "ope": null
 }

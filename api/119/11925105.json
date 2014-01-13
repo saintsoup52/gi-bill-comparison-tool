@@ -1,6 +1,6 @@
 {
   "facility_code": "11925105",
-  "institution": "California Polytechnic State University",
+  "institution": "CALIFORNIA POLYTECHNIC STATE UNIVERSITY",
   "city": "San Luis Obispo",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "93407",
-  "email": false
+  "ope": "00114300"
 }

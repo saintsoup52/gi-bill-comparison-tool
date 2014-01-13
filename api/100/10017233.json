@@ -1,6 +1,6 @@
 {
   "facility_code": "10017233",
-  "institution": "City Of Washington Dept Of Fire-Rescue-Ems",
+  "institution": "CITY OF WASHINGTON DEPT OF FIRE-RESCUE-EMS",
   "city": "Washington",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27889",
-  "email": false
+  "ope": null
 }

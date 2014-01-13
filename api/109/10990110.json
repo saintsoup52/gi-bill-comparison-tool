@@ -1,6 +1,6 @@
 {
   "facility_code": "10990110",
-  "institution": "Homestead Air Reserve Base",
+  "institution": "HOMESTEAD AIR RESERVE BASE",
   "city": "Homestead",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33039",
-  "email": false
+  "ope": null
 }

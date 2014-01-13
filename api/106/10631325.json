@@ -1,6 +1,6 @@
 {
   "facility_code": "10631325",
-  "institution": "Osage Beach Dept.Of Public Safety",
+  "institution": "OSAGE BEACH DEPT.OF PUBLIC SAFETY",
   "city": "Osage Beach",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65065",
-  "email": false
+  "ope": null
 }

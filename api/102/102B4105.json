@@ -1,6 +1,6 @@
 {
   "facility_code": "102B4105",
-  "institution": "Faa- Palm Springs Atct",
+  "institution": "FAA- PALM SPRINGS ATCT",
   "city": "Palm Springs",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92262",
-  "email": false
+  "ope": null
 }

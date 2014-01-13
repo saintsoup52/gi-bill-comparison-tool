@@ -1,6 +1,6 @@
 {
   "facility_code": "10756704",
-  "institution": "Va Hospital",
+  "institution": "VA HOSPITAL",
   "city": "Fayetteville",
   "state": "AR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "72701",
-  "email": "No (SCO)"
+  "ope": null
 }

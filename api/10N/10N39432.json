@@ -1,6 +1,6 @@
 {
   "facility_code": "10N39432",
-  "institution": "New York State Department Of Environmental Conservation - Ojt",
+  "institution": "NEW YORK STATE DEPARTMENT OF ENVIRONMENTAL CONSERVATION - OJT",
   "city": "Fulton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13069",
-  "email": true
+  "ope": null
 }

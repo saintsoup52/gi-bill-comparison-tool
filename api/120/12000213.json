@@ -1,6 +1,6 @@
 {
   "facility_code": "12000213",
-  "institution": "Southern Illinois University-School Of Medicine Residency",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY-SCHOOL OF MEDICINE RESIDENCY",
   "city": "Springfield",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "62794",
-  "email": false
+  "ope": "00175800"
 }

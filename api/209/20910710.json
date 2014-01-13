@@ -1,6 +1,6 @@
 {
   "facility_code": "20910710",
-  "institution": "St Petersburg Fire & Rescue Ij",
+  "institution": "ST PETERSBURG FIRE & RESCUE IJ",
   "city": "St Petersburg",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33701",
-  "email": true
+  "ope": null
 }

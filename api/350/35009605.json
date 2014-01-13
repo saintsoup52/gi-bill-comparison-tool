@@ -1,6 +1,6 @@
 {
   "facility_code": "35009605",
-  "institution": "Center For Employment Training (Coachella)",
+  "institution": "CENTER FOR EMPLOYMENT TRAINING (COACHELLA)",
   "city": "Coachella",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "92263",
-  "email": true
+  "ope": null
 }

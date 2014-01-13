@@ -1,6 +1,6 @@
 {
   "facility_code": "20C87933",
-  "institution": "Hickory Springs Manufacturing Company",
+  "institution": "HICKORY SPRINGS MANUFACTURING COMPANY",
   "city": "Hickory",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "28603",
-  "email": false
+  "ope": null
 }

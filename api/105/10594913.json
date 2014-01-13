@@ -1,6 +1,6 @@
 {
   "facility_code": "10594913",
-  "institution": "New Lenox Police Department",
+  "institution": "NEW LENOX POLICE DEPARTMENT",
   "city": "New Lenox",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60451",
-  "email": false
+  "ope": null
 }

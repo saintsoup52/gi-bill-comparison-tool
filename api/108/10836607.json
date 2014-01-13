@@ -1,6 +1,6 @@
 {
   "facility_code": "10836607",
-  "institution": "Defense Contract Management Agency (Dcma) Sikorski Aircraft Stratford",
+  "institution": "DEFENSE CONTRACT MANAGEMENT AGENCY (DCMA) SIKORSKI AIRCRAFT STRATFORD",
   "city": "Stratford",
   "state": "CT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "6615",
-  "email": false
+  "ope": null
 }

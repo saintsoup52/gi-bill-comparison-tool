@@ -1,6 +1,6 @@
 {
   "facility_code": "10W53838",
-  "institution": "Erie Police Department",
+  "institution": "ERIE POLICE DEPARTMENT",
   "city": "Erie",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16501",
-  "email": true
+  "ope": null
 }

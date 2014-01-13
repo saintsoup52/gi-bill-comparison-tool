@@ -1,6 +1,6 @@
 {
   "facility_code": "10616825",
-  "institution": "City Of St. Robert",
+  "institution": "CITY OF ST. ROBERT",
   "city": "St. Robert",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65584",
-  "email": false
+  "ope": null
 }

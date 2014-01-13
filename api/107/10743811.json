@@ -1,6 +1,6 @@
 {
   "facility_code": "10743811",
-  "institution": "Marietta Fire Department",
+  "institution": "MARIETTA FIRE DEPARTMENT",
   "city": "Marietta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30060",
-  "email": true
+  "ope": null
 }

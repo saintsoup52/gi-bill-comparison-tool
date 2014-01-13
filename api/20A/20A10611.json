@@ -1,6 +1,6 @@
 {
   "facility_code": "20A10611",
-  "institution": "F. S. Inc.                           (Ch 31 Only)",
+  "institution": "F. S. INC.                           (CH 31 ONLY)",
   "city": "Columbus",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31901",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11101378",
-  "institution": "Universitat Rovira I Virgili (Fundacio)",
+  "institution": "UNIVERSITAT ROVIRA I VIRGILI (FUNDACIO)",
   "city": "43203 Reus (Tarragona)",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

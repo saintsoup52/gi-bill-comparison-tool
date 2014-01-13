@@ -1,6 +1,6 @@
 {
   "facility_code": "20843413",
-  "institution": "National Weather Service",
+  "institution": "NATIONAL WEATHER SERVICE",
   "city": "Chicago",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60666",
-  "email": false
+  "ope": null
 }

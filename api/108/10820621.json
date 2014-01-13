@@ -1,6 +1,6 @@
 {
   "facility_code": "10820621",
-  "institution": "Va Medical Center Northampton Ma Chapter 31",
+  "institution": "VA MEDICAL CENTER NORTHAMPTON MA CHAPTER 31",
   "city": "Northampton",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1060",
-  "email": false
+  "ope": null
 }

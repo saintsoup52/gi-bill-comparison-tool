@@ -1,6 +1,6 @@
 {
   "facility_code": "103C7605",
-  "institution": "Ca Dept Of Corrections (Stockton)(Ch31 Only)",
+  "institution": "CA DEPT OF CORRECTIONS (STOCKTON)(CH31 ONLY)",
   "city": "Stockton",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95213",
-  "email": false
+  "ope": null
 }

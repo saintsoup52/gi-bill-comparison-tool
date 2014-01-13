@@ -1,6 +1,6 @@
 {
   "facility_code": "15008605",
-  "institution": "Hiram Johnson H.S. Rop (Ch 31)",
+  "institution": "HIRAM JOHNSON H.S. ROP (CH 31)",
   "city": "Sacramento",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95820",
-  "email": false
+  "ope": null
 }

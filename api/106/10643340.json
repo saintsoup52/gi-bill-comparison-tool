@@ -1,6 +1,6 @@
 {
   "facility_code": "10643340",
-  "institution": "City Of Bishopville Police Department",
+  "institution": "CITY OF BISHOPVILLE POLICE DEPARTMENT",
   "city": "Bishopville",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29210",
-  "email": false
+  "ope": null
 }

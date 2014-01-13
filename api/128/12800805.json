@@ -1,6 +1,6 @@
 {
   "facility_code": "12800805",
-  "institution": "Los Angeles County Usc Medical Center  Dept Of Orthopaedic Surgery",
+  "institution": "LOS ANGELES COUNTY USC MEDICAL CENTER  DEPT OF ORTHOPAEDIC SURGERY",
   "city": "Los Angeles",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "90033",
-  "email": false
+  "ope": null
 }

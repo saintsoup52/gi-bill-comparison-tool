@@ -1,6 +1,6 @@
 {
   "facility_code": "20021442",
-  "institution": "Memphis Steamfitters Jac",
+  "institution": "MEMPHIS STEAMFITTERS JAC",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38108",
-  "email": false
+  "ope": null
 }

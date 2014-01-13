@@ -1,6 +1,6 @@
 {
   "facility_code": "31105078",
-  "institution": "Esade Escuela Superior De Admin. Y Direccion De Empresas",
+  "institution": "ESADE ESCUELA SUPERIOR DE ADMIN. Y DIRECCION DE EMPRESAS",
   "city": "08034 Barcelona",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

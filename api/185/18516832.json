@@ -1,6 +1,6 @@
 {
   "facility_code": "18516832",
-  "institution": "Boces Cattaraugus Allegany Erie & Wyoming",
+  "institution": "BOCES CATTARAUGUS ALLEGANY ERIE & WYOMING",
   "city": "Olean",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "14760",
-  "email": true
+  "ope": "02110900"
 }

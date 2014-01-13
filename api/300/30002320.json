@@ -1,6 +1,6 @@
 {
   "facility_code": "30002320",
-  "institution": "Sheet Metal Local No. 100",
+  "institution": "SHEET METAL LOCAL NO. 100",
   "city": "Cumberland",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21502",
-  "email": false
+  "ope": null
 }

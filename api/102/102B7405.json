@@ -1,6 +1,6 @@
 {
   "facility_code": "102B7405",
-  "institution": "Naval Base Ventura County Air Traffic Control Facility",
+  "institution": "NAVAL BASE VENTURA COUNTY AIR TRAFFIC CONTROL FACILITY",
   "city": "Port Hueneme",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93042",
-  "email": false
+  "ope": null
 }

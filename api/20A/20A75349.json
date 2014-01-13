@@ -1,6 +1,6 @@
 {
   "facility_code": "20A75349",
-  "institution": "Wisconsin Job Service",
+  "institution": "WISCONSIN JOB SERVICE",
   "city": "Kenosha",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53141",
-  "email": false
+  "ope": null
 }

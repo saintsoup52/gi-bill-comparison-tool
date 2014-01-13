@@ -1,6 +1,6 @@
 {
   "facility_code": "11910105",
-  "institution": "San Diego State University",
+  "institution": "SAN DIEGO STATE UNIVERSITY",
   "city": "San Diego",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92182",
-  "email": true
+  "ope": "00115100"
 }

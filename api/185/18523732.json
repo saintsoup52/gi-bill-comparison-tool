@@ -1,6 +1,6 @@
 {
   "facility_code": "18523732",
-  "institution": "Boces Monroe 1",
+  "institution": "BOCES MONROE 1",
   "city": "Fairport",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14450",
-  "email": true
+  "ope": null
 }

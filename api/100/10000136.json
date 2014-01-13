@@ -1,6 +1,6 @@
 {
   "facility_code": "10000136",
-  "institution": "Us Department Of Justice Federal Bureau Of Prisons",
+  "institution": "US DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS",
   "city": "Oklahoma City",
   "state": "OK",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "73169",
-  "email": false
+  "ope": null
 }

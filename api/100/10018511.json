@@ -1,6 +1,6 @@
 {
   "facility_code": "10018511",
-  "institution": "Barrow County Sheriff'S Office",
+  "institution": "BARROW COUNTY SHERIFF'S OFFICE",
   "city": "Winder",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30680",
-  "email": true
+  "ope": null
 }

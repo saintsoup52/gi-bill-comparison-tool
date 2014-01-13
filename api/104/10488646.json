@@ -1,6 +1,6 @@
 {
   "facility_code": "10488646",
-  "institution": "King William County Shefiffs Office",
+  "institution": "KING WILLIAM COUNTY SHEFIFFS OFFICE",
   "city": "King William",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23806",
-  "email": false
+  "ope": null
 }

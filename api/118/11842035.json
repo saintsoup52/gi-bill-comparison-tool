@@ -1,6 +1,6 @@
 {
   "facility_code": "11842035",
-  "institution": "Kent State University-Main Campus",
+  "institution": "KENT STATE UNIVERSITY-MAIN CAMPUS",
   "city": "Kent",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "44242",
-  "email": true
+  "ope": "00305100"
 }

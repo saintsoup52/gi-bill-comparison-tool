@@ -1,6 +1,6 @@
 {
   "facility_code": "10076335",
-  "institution": "Euclid Police Department  G",
+  "institution": "EUCLID POLICE DEPARTMENT  G",
   "city": "Euclid",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44123",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "35014123",
-  "institution": "Minnesota Resource Center",
+  "institution": "MINNESOTA RESOURCE CENTER",
   "city": "Minneapolis",
   "state": "MN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53404",
-  "email": false
+  "ope": null
 }

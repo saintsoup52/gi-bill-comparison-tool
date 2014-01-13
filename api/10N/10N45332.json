@@ -1,6 +1,6 @@
 {
   "facility_code": "10N45332",
-  "institution": "City Of Binghamton - Bureau Of Police",
+  "institution": "CITY OF BINGHAMTON - BUREAU OF POLICE",
   "city": "Binghamton",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13901",
-  "email": true
+  "ope": null
 }

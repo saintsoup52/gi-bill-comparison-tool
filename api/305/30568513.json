@@ -1,6 +1,6 @@
 {
   "facility_code": "30568513",
-  "institution": "Ameren Illinois",
+  "institution": "AMEREN ILLINOIS",
   "city": "Decatur",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62521",
-  "email": true
+  "ope": null
 }

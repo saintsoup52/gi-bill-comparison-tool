@@ -1,6 +1,6 @@
 {
   "facility_code": "10014543",
-  "institution": "Red River Army Depot",
+  "institution": "RED RIVER ARMY DEPOT",
   "city": "Texarkana",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75507",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11200209",
-  "institution": "Gallaudet University",
+  "institution": "GALLAUDET UNIVERSITY",
   "city": "Washington",
   "state": "DC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20002",
-  "email": false
+  "ope": "00144300"
 }

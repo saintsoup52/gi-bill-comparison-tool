@@ -1,6 +1,6 @@
 {
   "facility_code": "10226403",
-  "institution": "Tempe Police Department",
+  "institution": "TEMPE POLICE DEPARTMENT",
   "city": "Tempe",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85280",
-  "email": true
+  "ope": null
 }

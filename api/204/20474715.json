@@ -1,6 +1,6 @@
 {
   "facility_code": "20474715",
-  "institution": "Adams County Sheriff",
+  "institution": "ADAMS COUNTY SHERIFF",
   "city": "Corning",
   "state": "IA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "50841",
-  "email": true
+  "ope": null
 }

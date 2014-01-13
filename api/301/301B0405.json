@@ -1,6 +1,6 @@
 {
   "facility_code": "301B0405",
-  "institution": "Contra Costa Electrical Jatc",
+  "institution": "CONTRA COSTA ELECTRICAL JATC",
   "city": "Martinez",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94553",
-  "email": false
+  "ope": null
 }

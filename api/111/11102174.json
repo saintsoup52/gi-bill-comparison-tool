@@ -1,6 +1,6 @@
 {
   "facility_code": "11102174",
-  "institution": "Bournemouth University",
+  "institution": "BOURNEMOUTH UNIVERSITY",
   "city": "Poole",
   "state": "United Kingdom",
   "country": "United Kingdom",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

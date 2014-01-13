@@ -1,6 +1,6 @@
 {
   "facility_code": "10707713",
-  "institution": "Okawville Police Department",
+  "institution": "OKAWVILLE POLICE DEPARTMENT",
   "city": "Okawville",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "62271",
-  "email": true
+  "ope": null
 }

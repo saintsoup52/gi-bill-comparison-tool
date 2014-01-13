@@ -1,6 +1,6 @@
 {
   "facility_code": "103C8905",
-  "institution": "Social Security Administration (Oroville)(Ch31 Only)",
+  "institution": "SOCIAL SECURITY ADMINISTRATION (OROVILLE)(CH31 ONLY)",
   "city": "Oroville",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95965",
-  "email": false
+  "ope": null
 }

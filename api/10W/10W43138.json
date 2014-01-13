@@ -1,6 +1,6 @@
 {
   "facility_code": "10W43138",
-  "institution": "Clinton County Correctional Facility",
+  "institution": "CLINTON COUNTY CORRECTIONAL FACILITY",
   "city": "Mcelhattan",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17748",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10701425",
-  "institution": "Us Office Of Personnel Management-Special Agent Program",
+  "institution": "US OFFICE OF PERSONNEL MANAGEMENT-SPECIAL AGENT PROGRAM",
   "city": "Liberty",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64068",
-  "email": false
+  "ope": null
 }

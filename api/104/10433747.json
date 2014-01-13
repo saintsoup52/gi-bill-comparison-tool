@@ -1,6 +1,6 @@
 {
   "facility_code": "10433747",
-  "institution": "Kitsap County Sheriff'S Office",
+  "institution": "KITSAP COUNTY SHERIFF'S OFFICE",
   "city": "Port Orchard",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98366",
-  "email": true
+  "ope": null
 }

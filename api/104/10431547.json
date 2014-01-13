@@ -1,6 +1,6 @@
 {
   "facility_code": "10431547",
-  "institution": "Abc Supply Company Inc. - Ch 31 Only",
+  "institution": "ABC SUPPLY COMPANY INC. - CH 31 ONLY",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "98108",
-  "email": false
+  "ope": null
 }

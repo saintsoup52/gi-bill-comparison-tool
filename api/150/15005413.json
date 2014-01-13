@@ -1,6 +1,6 @@
 {
   "facility_code": "15005413",
-  "institution": "Waukegan High School",
+  "institution": "WAUKEGAN HIGH SCHOOL",
   "city": "Waukegan",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60085",
-  "email": true
+  "ope": null
 }

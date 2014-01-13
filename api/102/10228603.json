@@ -1,6 +1,6 @@
 {
   "facility_code": "10228603",
-  "institution": "Goodyear Fire Department",
+  "institution": "GOODYEAR FIRE DEPARTMENT",
   "city": "Goodyear",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85338",
-  "email": false
+  "ope": null
 }

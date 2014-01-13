@@ -1,6 +1,6 @@
 {
   "facility_code": "10534530",
-  "institution": "Union City Police Department",
+  "institution": "UNION CITY POLICE DEPARTMENT",
   "city": "Union City",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7087",
-  "email": false
+  "ope": null
 }

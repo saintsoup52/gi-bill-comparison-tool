@@ -1,6 +1,6 @@
 {
   "facility_code": "10505517",
-  "institution": "Hardin County Detention Center",
+  "institution": "HARDIN COUNTY DETENTION CENTER",
   "city": "Elizabethtown",
   "state": "KY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "42702",
-  "email": false
+  "ope": null
 }

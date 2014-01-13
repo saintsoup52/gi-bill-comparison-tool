@@ -1,6 +1,6 @@
 {
   "facility_code": "20013214",
-  "institution": "Daimler Chrysler Corp. Kokomo Complex - Casting Plant",
+  "institution": "DAIMLER CHRYSLER CORP. KOKOMO COMPLEX - CASTING PLANT",
   "city": "Kokomo",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46904",
-  "email": false
+  "ope": null
 }

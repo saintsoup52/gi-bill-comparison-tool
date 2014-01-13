@@ -1,6 +1,6 @@
 {
   "facility_code": "102B8205",
-  "institution": "State Of California Edd- Bakersfield (Chapter 31 Only)",
+  "institution": "STATE OF CALIFORNIA EDD- BAKERSFIELD (CHAPTER 31 ONLY)",
   "city": "Bakersfield",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "93307",
-  "email": false
+  "ope": null
 }

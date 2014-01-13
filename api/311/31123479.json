@@ -1,6 +1,6 @@
 {
   "facility_code": "31123479",
-  "institution": "L'Institut Internationale D'Informatique Salonais",
+  "institution": "L'INSTITUT INTERNATIONALE D'INFORMATIQUE SALONAIS",
   "city": "13300 Salon-De-Provence",
   "state": "France",
   "country": "France",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

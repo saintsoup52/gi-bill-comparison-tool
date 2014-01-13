@@ -1,6 +1,6 @@
 {
   "facility_code": "10540230",
-  "institution": "Ewing Township Police Department",
+  "institution": "EWING TOWNSHIP POLICE DEPARTMENT",
   "city": "Ewing",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8628",
-  "email": false
+  "ope": null
 }

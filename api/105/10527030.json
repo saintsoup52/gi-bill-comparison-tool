@@ -1,6 +1,6 @@
 {
   "facility_code": "10527030",
-  "institution": "Ramsey Police Department",
+  "institution": "RAMSEY POLICE DEPARTMENT",
   "city": "Ramsey",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7446",
-  "email": true
+  "ope": null
 }

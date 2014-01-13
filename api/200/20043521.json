@@ -1,6 +1,6 @@
 {
   "facility_code": "20043521",
-  "institution": "Quest Diagnostics/Athena Diagnostics",
+  "institution": "QUEST DIAGNOSTICS/ATHENA DIAGNOSTICS",
   "city": "Worcester",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1605",
-  "email": true
+  "ope": null
 }

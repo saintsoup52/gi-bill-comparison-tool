@@ -1,6 +1,6 @@
 {
   "facility_code": "11000296",
-  "institution": "University Of The West Indies",
+  "institution": "UNIVERSITY OF THE WEST INDIES",
   "city": "Mona",
   "state": "Jamaica",
   "country": "Jamaica",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

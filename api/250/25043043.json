@@ -1,6 +1,6 @@
 {
   "facility_code": "25043043",
-  "institution": "Atds",
+  "institution": "ATDS",
   "city": "Elm Mott",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76640",
-  "email": false
+  "ope": null
 }

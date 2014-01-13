@@ -1,6 +1,6 @@
 {
   "facility_code": "12901206",
-  "institution": "Denver Health Medical Center - Dental Clinic",
+  "institution": "DENVER HEALTH MEDICAL CENTER - DENTAL CLINIC",
   "city": "Denver",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80204",
-  "email": true
+  "ope": null
 }

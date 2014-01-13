@@ -1,6 +1,6 @@
 {
   "facility_code": "10820030",
-  "institution": "Juvenile Medium Security Facility",
+  "institution": "JUVENILE MEDIUM SECURITY FACILITY",
   "city": "Bordentown",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8505",
-  "email": false
+  "ope": null
 }

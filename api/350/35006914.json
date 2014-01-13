@@ -1,6 +1,6 @@
 {
   "facility_code": "35006914",
-  "institution": "Memorial Hospital Of South Bend",
+  "institution": "MEMORIAL HOSPITAL OF SOUTH BEND",
   "city": "South Bend",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "46601",
-  "email": false
+  "ope": "00420500"
 }

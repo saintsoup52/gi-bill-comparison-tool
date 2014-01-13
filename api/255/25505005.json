@@ -1,6 +1,6 @@
 {
   "facility_code": "25505005",
-  "institution": "Nice Air",
+  "institution": "NICE AIR",
   "city": "San Jose",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95148",
-  "email": true
+  "ope": null
 }

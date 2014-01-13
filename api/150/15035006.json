@@ -1,6 +1,6 @@
 {
   "facility_code": "15035006",
-  "institution": "Pagosa Springs High School",
+  "institution": "PAGOSA SPRINGS HIGH SCHOOL",
   "city": "Pagosa Springs",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81147",
-  "email": true
+  "ope": null
 }

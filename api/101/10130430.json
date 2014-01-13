@@ -1,6 +1,6 @@
 {
   "facility_code": "10130430",
-  "institution": "West Orange Police Department",
+  "institution": "WEST ORANGE POLICE DEPARTMENT",
   "city": "West Orange",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "7052",
-  "email": true
+  "ope": null
 }

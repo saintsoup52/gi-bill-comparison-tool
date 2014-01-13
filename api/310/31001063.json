@@ -1,6 +1,6 @@
 {
   "facility_code": "31001063",
-  "institution": "Universidad Carlos Albizu",
+  "institution": "UNIVERSIDAD CARLOS ALBIZU",
   "city": "San Juan",
   "state": "PR",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "902",
-  "email": true
+  "ope": "01072400"
 }

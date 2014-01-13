@@ -1,6 +1,6 @@
 {
   "facility_code": "20704425",
-  "institution": "Ameren Ue",
+  "institution": "AMEREN UE",
   "city": "Jefferson City",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65101",
-  "email": false
+  "ope": null
 }

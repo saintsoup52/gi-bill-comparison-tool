@@ -1,6 +1,6 @@
 {
   "facility_code": "10122946",
-  "institution": "Fire Dist 2 Naval Weapons Station Site Mgr",
+  "institution": "FIRE DIST 2 NAVAL WEAPONS STATION SITE MGR",
   "city": "Yorktown",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23691",
-  "email": true
+  "ope": null
 }

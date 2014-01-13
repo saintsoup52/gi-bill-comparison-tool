@@ -1,6 +1,6 @@
 {
   "facility_code": "21200178",
-  "institution": "Nebrija Universidad",
+  "institution": "NEBRIJA UNIVERSIDAD",
   "city": "Madrid",
   "state": "Spain",
   "country": "Spain",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10D27249",
-  "institution": "Va Regional Office",
+  "institution": "VA REGIONAL OFFICE",
   "city": "Milwaukee",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "53214",
-  "email": false
+  "ope": null
 }

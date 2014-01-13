@@ -1,6 +1,6 @@
 {
   "facility_code": "10C29443",
-  "institution": "Us Marshals Svc Western Dist Of Tx",
+  "institution": "US MARSHALS SVC WESTERN DIST OF TX",
   "city": "Alpine",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79830",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31101778",
-  "institution": "Moscow Power Engineering Institute",
+  "institution": "MOSCOW POWER ENGINEERING INSTITUTE",
   "city": "E-250 Moscow",
   "state": "Russia",
   "country": "Russia",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": false
+  "ope": null
 }

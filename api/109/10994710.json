@@ -1,6 +1,6 @@
 {
   "facility_code": "10994710",
-  "institution": "West Palm Beach Police Department",
+  "institution": "WEST PALM BEACH POLICE DEPARTMENT",
   "city": "West Palm Beach",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "33401",
-  "email": false
+  "ope": null
 }

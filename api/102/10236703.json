@@ -1,6 +1,6 @@
 {
   "facility_code": "10236703",
-  "institution": "City Of Avondale",
+  "institution": "CITY OF AVONDALE",
   "city": "Avondale",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85323",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10203916",
-  "institution": "Sedgwick County Sheriff'S Office",
+  "institution": "SEDGWICK COUNTY SHERIFF'S OFFICE",
   "city": "Wichita",
   "state": "KS",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "67204",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31808047",
-  "institution": "Seattle University",
+  "institution": "SEATTLE UNIVERSITY",
   "city": "Seattle",
   "state": "WA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "98122",
-  "email": true
+  "ope": "00379000"
 }

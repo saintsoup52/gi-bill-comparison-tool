@@ -1,6 +1,6 @@
 {
   "facility_code": "10701413",
-  "institution": "Gilman Police Department",
+  "institution": "GILMAN POLICE DEPARTMENT",
   "city": "Gilman",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60938",
-  "email": false
+  "ope": null
 }

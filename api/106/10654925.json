@@ -1,6 +1,6 @@
 {
   "facility_code": "10654925",
-  "institution": "Belton Police Dept.",
+  "institution": "BELTON POLICE DEPT.",
   "city": "Belton",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64012",
-  "email": false
+  "ope": null
 }

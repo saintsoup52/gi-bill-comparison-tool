@@ -1,6 +1,6 @@
 {
   "facility_code": "10068011",
-  "institution": "Georgia Department Of Transportation - Bridge Maintenance Unit",
+  "institution": "GEORGIA DEPARTMENT OF TRANSPORTATION - BRIDGE MAINTENANCE UNIT",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30116",
-  "email": true
+  "ope": null
 }

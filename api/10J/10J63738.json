@@ -1,6 +1,6 @@
 {
   "facility_code": "10J63738",
-  "institution": "Mifflin County Correctional Facility",
+  "institution": "MIFFLIN COUNTY CORRECTIONAL FACILITY",
   "city": "Lewistown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17044",
-  "email": false
+  "ope": null
 }

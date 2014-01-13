@@ -1,6 +1,6 @@
 {
   "facility_code": "10595025",
-  "institution": "Cassville Police Dept.",
+  "institution": "CASSVILLE POLICE DEPT.",
   "city": "Cassville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65625",
-  "email": false
+  "ope": null
 }

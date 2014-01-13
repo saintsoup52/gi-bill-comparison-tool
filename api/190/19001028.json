@@ -1,6 +1,6 @@
 {
   "facility_code": "19001028",
-  "institution": "Monte Vista Hospital (Ch31)",
+  "institution": "MONTE VISTA HOSPITAL (CH31)",
   "city": "Las Vegas",
   "state": "NV",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "89103",
-  "email": false
+  "ope": null
 }

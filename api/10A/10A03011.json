@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03011",
-  "institution": "Tybee Island Police Dept",
+  "institution": "TYBEE ISLAND POLICE DEPT",
   "city": "Tybee Island",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31328",
-  "email": false
+  "ope": null
 }

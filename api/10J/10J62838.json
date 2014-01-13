@@ -1,6 +1,6 @@
 {
   "facility_code": "10J62838",
-  "institution": "Bradford County Correctional Facility",
+  "institution": "BRADFORD COUNTY CORRECTIONAL FACILITY",
   "city": "Troy",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16947",
-  "email": true
+  "ope": null
 }

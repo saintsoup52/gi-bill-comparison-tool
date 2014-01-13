@@ -1,6 +1,6 @@
 {
   "facility_code": "20541231",
-  "institution": "Aps 4 Corners Power Plant",
+  "institution": "APS 4 CORNERS POWER PLANT",
   "city": "Fruitland",
   "state": "NM",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "87416",
-  "email": true
+  "ope": null
 }

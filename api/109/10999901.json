@@ -1,6 +1,6 @@
 {
   "facility_code": "10999901",
-  "institution": "Alabama Department Of Public Safety Montgomery Post",
+  "institution": "ALABAMA DEPARTMENT OF PUBLIC SAFETY MONTGOMERY POST",
   "city": "Montgomery",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36109",
-  "email": true
+  "ope": null
 }

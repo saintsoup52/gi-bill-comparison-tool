@@ -1,6 +1,6 @@
 {
   "facility_code": "20512246",
-  "institution": "Studio Ph 4.5",
+  "institution": "STUDIO PH 4.5",
   "city": "Alexandria",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "22314",
-  "email": true
+  "ope": null
 }

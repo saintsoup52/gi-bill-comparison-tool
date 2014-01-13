@@ -1,6 +1,6 @@
 {
   "facility_code": "10C40043",
-  "institution": "Arlington Fire Department Ojt",
+  "institution": "ARLINGTON FIRE DEPARTMENT OJT",
   "city": "Arlington",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "76013",
-  "email": false
+  "ope": null
 }

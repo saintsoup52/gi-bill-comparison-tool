@@ -1,6 +1,6 @@
 {
   "facility_code": "32015522",
-  "institution": "Garden City Hospital",
+  "institution": "GARDEN CITY HOSPITAL",
   "city": "Garden City",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "48135",
-  "email": false
+  "ope": null
 }

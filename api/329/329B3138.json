@@ -1,6 +1,6 @@
 {
   "facility_code": "329B3138",
-  "institution": "Heritage Val Hlth Syst The Med Ctr-Beaver",
+  "institution": "HERITAGE VAL HLTH SYST THE MED CTR-BEAVER",
   "city": "Beaver Falls",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15010",
-  "email": false
+  "ope": null
 }

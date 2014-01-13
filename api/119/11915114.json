@@ -1,6 +1,6 @@
 {
   "facility_code": "11915114",
-  "institution": "Indiana State University",
+  "institution": "INDIANA STATE UNIVERSITY",
   "city": "Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "47809",
-  "email": true
+  "ope": "00180700"
 }

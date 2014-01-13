@@ -1,6 +1,6 @@
 {
   "facility_code": "31059310",
-  "institution": "Polytechnic University Of Puerto Rico- Miami Campus",
+  "institution": "POLYTECHNIC UNIVERSITY OF PUERTO RICO- MIAMI CAMPUS",
   "city": "Miami",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "33166",
-  "email": true
+  "ope": "02100001"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31813311",
-  "institution": "Embry-Riddle Aeronautical Univ (Robins Afb)",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV (ROBINS AFB)",
   "city": "Robins Afb",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31098",
-  "email": true
+  "ope": "00147992"
 }

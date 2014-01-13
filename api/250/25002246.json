@@ -1,6 +1,6 @@
 {
   "facility_code": "25002246",
-  "institution": "Safeguard",
+  "institution": "SAFEGUARD",
   "city": "North Tazewell",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "24630",
-  "email": true
+  "ope": null
 }

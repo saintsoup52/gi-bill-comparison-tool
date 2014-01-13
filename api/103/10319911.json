@@ -1,6 +1,6 @@
 {
   "facility_code": "10319911",
-  "institution": "Warner Robins Fire Dept",
+  "institution": "WARNER ROBINS FIRE DEPT",
   "city": "Warner Robins",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "31099",
-  "email": false
+  "ope": null
 }

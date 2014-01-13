@@ -1,6 +1,6 @@
 {
   "facility_code": "12007820",
-  "institution": "Prince Georges General Hospital",
+  "institution": "PRINCE GEORGES GENERAL HOSPITAL",
   "city": "Prince George",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "20785",
-  "email": "No (SCO)"
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10R17938",
-  "institution": "Federal Correctional Institute Mckean",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTE MCKEAN",
   "city": "Bradford",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "16701",
-  "email": true
+  "ope": null
 }

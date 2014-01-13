@@ -1,6 +1,6 @@
 {
   "facility_code": "21003103",
-  "institution": "Dunlap-Stone University",
+  "institution": "DUNLAP-STONE UNIVERSITY",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85024",
-  "email": true
+  "ope": null
 }

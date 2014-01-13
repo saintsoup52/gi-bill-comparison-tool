@@ -1,6 +1,6 @@
 {
   "facility_code": "10069811",
-  "institution": "Federal Deposit Insurance Corporation (Fdic)",
+  "institution": "FEDERAL DEPOSIT INSURANCE CORPORATION (FDIC)",
   "city": "Atlanta",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30309",
-  "email": true
+  "ope": null
 }

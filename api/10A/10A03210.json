@@ -1,6 +1,6 @@
 {
   "facility_code": "10A03210",
-  "institution": "Federal Aviation Admin (Faa) Sarasota Tower",
+  "institution": "FEDERAL AVIATION ADMIN (FAA) SARASOTA TOWER",
   "city": "Sarasota",
   "state": "FL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "34243",
-  "email": true
+  "ope": null
 }

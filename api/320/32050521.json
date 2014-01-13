@@ -1,6 +1,6 @@
 {
   "facility_code": "32050521",
-  "institution": "Bay State Medical Center",
+  "institution": "BAY STATE MEDICAL CENTER",
   "city": "Springfield",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "1199",
-  "email": true
+  "ope": "00635200"
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10011544",
-  "institution": "Department Of The Treasury (Irs)",
+  "institution": "DEPARTMENT OF THE TREASURY (IRS)",
   "city": "Ogden",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "84404",
-  "email": false
+  "ope": null
 }

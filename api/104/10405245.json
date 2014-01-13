@@ -1,6 +1,6 @@
 {
   "facility_code": "10405245",
-  "institution": "Rutland City Police Department",
+  "institution": "RUTLAND CITY POLICE DEPARTMENT",
   "city": "Rutland",
   "state": "VT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "5701",
-  "email": false
+  "ope": null
 }

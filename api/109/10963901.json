@@ -1,6 +1,6 @@
 {
   "facility_code": "10963901",
-  "institution": "(Chapter 31)Va Medical Center",
+  "institution": "(CHAPTER 31)VA MEDICAL CENTER",
   "city": "Birmingham",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "35233",
-  "email": false
+  "ope": null
 }

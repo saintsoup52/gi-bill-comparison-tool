@@ -1,6 +1,6 @@
 {
   "facility_code": "10A91406",
-  "institution": "Lakewood Police Department",
+  "institution": "LAKEWOOD POLICE DEPARTMENT",
   "city": "Lakewood",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80232",
-  "email": false
+  "ope": null
 }

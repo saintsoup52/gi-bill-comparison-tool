@@ -1,6 +1,6 @@
 {
   "facility_code": "10056511",
-  "institution": "Lyons Police Department",
+  "institution": "LYONS POLICE DEPARTMENT",
   "city": "Lyons",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30436",
-  "email": false
+  "ope": null
 }

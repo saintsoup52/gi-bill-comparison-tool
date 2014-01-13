@@ -1,6 +1,6 @@
 {
   "facility_code": "10603925",
-  "institution": "Carterville Police Dept.",
+  "institution": "CARTERVILLE POLICE DEPT.",
   "city": "Carterville",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "64835",
-  "email": false
+  "ope": null
 }

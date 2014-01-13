@@ -1,6 +1,6 @@
 {
   "facility_code": "15574325",
-  "institution": "Smith-Cotton High School",
+  "institution": "SMITH-COTTON HIGH SCHOOL",
   "city": "Sedalia",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "65301",
-  "email": false
+  "ope": null
 }

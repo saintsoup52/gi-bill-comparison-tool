@@ -1,6 +1,6 @@
 {
   "facility_code": "103B8805",
-  "institution": "Woodland Police Department",
+  "institution": "WOODLAND POLICE DEPARTMENT",
   "city": "Woodland",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "95695",
-  "email": false
+  "ope": null
 }

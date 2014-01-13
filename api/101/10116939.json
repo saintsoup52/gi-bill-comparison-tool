@@ -1,6 +1,6 @@
 {
   "facility_code": "10116939",
-  "institution": "Pawtucket Police Department",
+  "institution": "PAWTUCKET POLICE DEPARTMENT",
   "city": "Pawtucket",
   "state": "RI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "2860",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "20G40432",
-  "institution": "Sheet Metal Workers' #112 Jatc",
+  "institution": "SHEET METAL WORKERS' #112 JATC",
   "city": "Elmira",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "14902",
-  "email": false
+  "ope": null
 }

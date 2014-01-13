@@ -1,6 +1,6 @@
 {
   "facility_code": "10069614",
-  "institution": "West Lafayette Police Department",
+  "institution": "WEST LAFAYETTE POLICE DEPARTMENT",
   "city": "West Lafayette",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "47906",
-  "email": false
+  "ope": null
 }

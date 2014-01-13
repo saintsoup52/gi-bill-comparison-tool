@@ -1,6 +1,6 @@
 {
   "facility_code": "10A87806",
-  "institution": "Colorado State Patrol Academy",
+  "institution": "COLORADO STATE PATROL ACADEMY",
   "city": "Golden",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "80401",
-  "email": true
+  "ope": null
 }

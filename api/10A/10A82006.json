@@ -1,6 +1,6 @@
 {
   "facility_code": "10A82006",
-  "institution": "Cdc - Colorado State Penitentiary/Centennial Correctional Fac",
+  "institution": "CDC - COLORADO STATE PENITENTIARY/CENTENNIAL CORRECTIONAL FAC",
   "city": "Canon City",
   "state": "CO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "81215",
-  "email": true
+  "ope": null
 }

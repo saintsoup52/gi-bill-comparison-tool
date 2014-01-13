@@ -1,6 +1,6 @@
 {
   "facility_code": "25107764",
-  "institution": "Comp Usa (Ch31)",
+  "institution": "COMP USA (CH31)",
   "city": "Wapahu",
   "state": "HI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "96797",
-  "email": false
+  "ope": null
 }

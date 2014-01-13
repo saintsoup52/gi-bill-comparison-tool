@@ -1,6 +1,6 @@
 {
   "facility_code": "15026846",
-  "institution": "Norfolk Technical Center",
+  "institution": "NORFOLK TECHNICAL CENTER",
   "city": "Norfolk",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23502",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11000849",
-  "institution": "Univ Of Wisc-Stevens Point",
+  "institution": "UNIV OF WISC-STEVENS POINT",
   "city": "Stevens Point",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "54481",
-  "email": false
+  "ope": "00392400"
 }

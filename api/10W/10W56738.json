@@ -1,6 +1,6 @@
 {
   "facility_code": "10W56738",
-  "institution": "Federal Correctional Institution- Loretto",
+  "institution": "FEDERAL CORRECTIONAL INSTITUTION- LORETTO",
   "city": "Loretto",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15940",
-  "email": true
+  "ope": null
 }

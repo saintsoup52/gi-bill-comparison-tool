@@ -1,6 +1,6 @@
 {
   "facility_code": "20000742",
-  "institution": "Oak Ridge Electrical Jatc",
+  "institution": "OAK RIDGE ELECTRICAL JATC",
   "city": "Oak Ridge",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37831",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "10403346",
-  "institution": "Virginia State Police Area Office #46",
+  "institution": "VIRGINIA STATE POLICE AREA OFFICE #46",
   "city": "Hampton",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23666",
-  "email": true
+  "ope": null
 }

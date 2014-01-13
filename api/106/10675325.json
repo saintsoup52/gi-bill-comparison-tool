@@ -1,6 +1,6 @@
 {
   "facility_code": "10675325",
-  "institution": "Cape Girardeau Police Department",
+  "institution": "CAPE GIRARDEAU POLICE DEPARTMENT",
   "city": "Cape Girardeau",
   "state": "MO",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "63701",
-  "email": true
+  "ope": null
 }

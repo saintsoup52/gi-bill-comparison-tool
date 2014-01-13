@@ -1,6 +1,6 @@
 {
   "facility_code": "31002101",
-  "institution": "Embry-Riddle Aeronautical Univ Ft Rucker",
+  "institution": "EMBRY-RIDDLE AERONAUTICAL UNIV FT RUCKER",
   "city": "Ft Rucker",
   "state": "AL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "36362",
-  "email": true
+  "ope": "00147994"
 }

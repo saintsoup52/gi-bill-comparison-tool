@@ -1,6 +1,6 @@
 {
   "facility_code": "10607513",
-  "institution": "Darien Police Department",
+  "institution": "DARIEN POLICE DEPARTMENT",
   "city": "Darien",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "60561",
-  "email": false
+  "ope": null
 }

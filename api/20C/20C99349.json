@@ -1,6 +1,6 @@
 {
   "facility_code": "20C99349",
-  "institution": "Vpi  Llc",
+  "institution": "VPI  LLC",
   "city": "Manitowoc",
   "state": "WI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "54220",
-  "email": false
+  "ope": null
 }

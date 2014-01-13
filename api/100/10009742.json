@@ -1,6 +1,6 @@
 {
   "facility_code": "10009742",
-  "institution": "Federal Aviation Administration Tracon - Memphis",
+  "institution": "FEDERAL AVIATION ADMINISTRATION TRACON - MEMPHIS",
   "city": "Memphis",
   "state": "TN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "38116",
-  "email": false
+  "ope": null
 }

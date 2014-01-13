@@ -1,6 +1,6 @@
 {
   "facility_code": "32900108",
-  "institution": "Christiana Care Health System (Newark)",
+  "institution": "CHRISTIANA CARE HEALTH SYSTEM (NEWARK)",
   "city": "Newark",
   "state": "DE",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "19718",
-  "email": true
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "11300374",
-  "institution": "Dublin Institute Of Technology",
+  "institution": "DUBLIN INSTITUTE OF TECHNOLOGY",
   "city": "Dublin 2",
   "state": "Ireland",
   "country": "Ireland",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

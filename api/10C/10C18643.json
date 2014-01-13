@@ -1,6 +1,6 @@
 {
   "facility_code": "10C18643",
-  "institution": "Faa Abilene Abi",
+  "institution": "FAA ABILENE ABI",
   "city": "Abilene",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79602",
-  "email": true
+  "ope": null
 }

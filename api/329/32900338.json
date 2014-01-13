@@ -1,6 +1,6 @@
 {
   "facility_code": "32900338",
-  "institution": "Sacred Heart Hospital",
+  "institution": "SACRED HEART HOSPITAL",
   "city": "Allentown",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "18102",
-  "email": true
+  "ope": null
 }

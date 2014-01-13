@@ -1,6 +1,6 @@
 {
   "facility_code": "10228103",
-  "institution": "Dept Of Economic Security (Ch31 Only)",
+  "institution": "DEPT OF ECONOMIC SECURITY (CH31 ONLY)",
   "city": "Phoenix",
   "state": "AZ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "85012",
-  "email": false
+  "ope": null
 }

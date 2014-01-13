@@ -1,6 +1,6 @@
 {
   "facility_code": "10409346",
-  "institution": "Sussex I State Prison",
+  "institution": "SUSSEX I STATE PRISON",
   "city": "Waverly",
   "state": "VA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "23891",
-  "email": false
+  "ope": null
 }

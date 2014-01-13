@@ -1,6 +1,6 @@
 {
   "facility_code": "10544130",
-  "institution": "Mantoloking Police Department",
+  "institution": "MANTOLOKING POLICE DEPARTMENT",
   "city": "Mantoloking",
   "state": "NJ",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "8738",
-  "email": false
+  "ope": null
 }

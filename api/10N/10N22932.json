@@ -1,6 +1,6 @@
 {
   "facility_code": "10N22932",
-  "institution": "New York State Department Of Transportation - Waterloo",
+  "institution": "NEW YORK STATE DEPARTMENT OF TRANSPORTATION - WATERLOO",
   "city": "Waterloo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "13165",
-  "email": false
+  "ope": null
 }

@@ -1,6 +1,6 @@
 {
   "facility_code": "31910414",
-  "institution": "Rose-Hulman Institute Of Technology",
+  "institution": "ROSE-HULMAN INSTITUTE OF TECHNOLOGY",
   "city": "Terre Haute",
   "state": "IN",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "47803",
-  "email": true
+  "ope": "00183000"
 }

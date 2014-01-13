@@ -1,6 +1,6 @@
 {
   "facility_code": "10018411",
-  "institution": "Athens-Clarke County Police Services",
+  "institution": "ATHENS-CLARKE COUNTY POLICE SERVICES",
   "city": "Athens",
   "state": "GA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30605",
-  "email": true
+  "ope": null
 }

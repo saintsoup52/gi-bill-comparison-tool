@@ -1,6 +1,6 @@
 {
   "facility_code": "10D20438",
-  "institution": "Montoursville Police Department",
+  "institution": "MONTOURSVILLE POLICE DEPARTMENT",
   "city": "Montoursville",
   "state": "PA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "17754",
-  "email": false
+  "ope": null
 }

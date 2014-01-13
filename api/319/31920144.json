@@ -1,6 +1,6 @@
 {
   "facility_code": "31920144",
-  "institution": "Brigham Young University",
+  "institution": "BRIGHAM YOUNG UNIVERSITY",
   "city": "Provo",
   "state": "UT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "84602",
-  "email": true
+  "ope": "00367000"
 }

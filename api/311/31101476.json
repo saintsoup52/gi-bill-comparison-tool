@@ -1,6 +1,6 @@
 {
   "facility_code": "31101476",
-  "institution": "Apec University",
+  "institution": "APEC UNIVERSITY",
   "city": "Santo Domingo",
   "state": "Dominican Republic",
   "country": "Dominican Republic",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": null,
-  "email": true
+  "ope": null
 }

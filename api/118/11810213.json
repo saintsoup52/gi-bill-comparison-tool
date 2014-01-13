@@ -1,6 +1,6 @@
 {
   "facility_code": "11810213",
-  "institution": "Southern Illinois University At East St. Louis",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY AT EAST ST. LOUIS",
   "city": "East St. Louis",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "62201",
-  "email": true
+  "ope": "00175800"
 }

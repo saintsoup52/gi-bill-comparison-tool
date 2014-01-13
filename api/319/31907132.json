@@ -1,6 +1,6 @@
 {
   "facility_code": "31907132",
-  "institution": "Manhattanville College",
+  "institution": "MANHATTANVILLE COLLEGE",
   "city": "Purchase",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10577",
-  "email": true
+  "ope": "00276000"
 }

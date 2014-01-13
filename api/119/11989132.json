@@ -1,6 +1,6 @@
 {
   "facility_code": "11989132",
-  "institution": "Suny University At Buffalo Office Of Veterans",
+  "institution": "SUNY UNIVERSITY AT BUFFALO OFFICE OF VETERANS",
   "city": "Buffalo",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "14261",
-  "email": true
+  "ope": "00284200"
 }

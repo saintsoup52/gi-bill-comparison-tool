@@ -1,6 +1,6 @@
 {
   "facility_code": "10C18743",
-  "institution": "Faa Amarillo Ama",
+  "institution": "FAA AMARILLO AMA",
   "city": "Amarillo",
   "state": "TX",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "79108",
-  "email": true
+  "ope": null
 }

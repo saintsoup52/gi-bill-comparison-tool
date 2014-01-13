@@ -1,6 +1,6 @@
 {
   "facility_code": "30001020",
-  "institution": "Baltimore Operating Engineers Jatc Local No. 37",
+  "institution": "BALTIMORE OPERATING ENGINEERS JATC LOCAL NO. 37",
   "city": "Baltimore",
   "state": "MD",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "21214",
-  "email": false
+  "ope": null
 }

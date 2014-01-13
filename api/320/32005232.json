@@ -1,6 +1,6 @@
 {
   "facility_code": "32005232",
-  "institution": "Brookdale Hospital & Medical Center",
+  "institution": "BROOKDALE HOSPITAL & MEDICAL CENTER",
   "city": "Brooklyn",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "11212",
-  "email": false
+  "ope": null
 }

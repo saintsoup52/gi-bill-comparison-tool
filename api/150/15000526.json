@@ -1,6 +1,6 @@
 {
   "facility_code": "15000526",
-  "institution": "Msu Northern - Veteran'S Upward Bound",
+  "institution": "MSU NORTHERN - VETERAN'S UPWARD BOUND",
   "city": "Billings",
   "state": "MT",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59101",
-  "email": true
+  "ope": null
 }

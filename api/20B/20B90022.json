@@ -1,6 +1,6 @@
 {
   "facility_code": "20B90022",
-  "institution": "Michigan Department Of Corrections Marquette Branch Prison",
+  "institution": "MICHIGAN DEPARTMENT OF CORRECTIONS MARQUETTE BRANCH PRISON",
   "city": "Marquette",
   "state": "MI",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "49855",
-  "email": true
+  "ope": null
 }

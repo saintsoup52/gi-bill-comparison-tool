@@ -1,6 +1,6 @@
 {
   "facility_code": "31001413",
-  "institution": "Illinois Wesleyan University",
+  "institution": "ILLINOIS WESLEYAN UNIVERSITY",
   "city": "Bloomington",
   "state": "IL",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "61702",
-  "email": false
+  "ope": "00169600"
 }

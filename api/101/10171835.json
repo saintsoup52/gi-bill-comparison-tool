@@ -1,6 +1,6 @@
 {
   "facility_code": "10171835",
-  "institution": "Girard Police Department  G",
+  "institution": "GIRARD POLICE DEPARTMENT  G",
   "city": "Girard",
   "state": "OH",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "44420",
-  "email": false
+  "ope": null
 }

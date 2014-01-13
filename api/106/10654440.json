@@ -1,6 +1,6 @@
 {
   "facility_code": "10654440",
-  "institution": "Yrt2",
+  "institution": "YRT2",
   "city": "Columbia",
   "state": "SC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29170",
-  "email": false
+  "ope": null
 }

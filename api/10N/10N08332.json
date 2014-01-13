@@ -1,6 +1,6 @@
 {
   "facility_code": "10N08332",
-  "institution": "Schoharie County Sheriff'S Office",
+  "institution": "SCHOHARIE COUNTY SHERIFF'S OFFICE",
   "city": "Schoharie",
   "state": "NY",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "12157",
-  "email": false
+  "ope": null
 }

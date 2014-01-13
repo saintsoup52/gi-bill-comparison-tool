@@ -1,6 +1,6 @@
 {
   "facility_code": "10013933",
-  "institution": "Ncdoc - Nash Correctional Institution",
+  "institution": "NCDOC - NASH CORRECTIONAL INSTITUTION",
   "city": "Nashville",
   "state": "NC",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "27856",
-  "email": true
+  "ope": null
 }

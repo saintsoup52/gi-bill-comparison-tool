@@ -1,6 +1,6 @@
 {
   "facility_code": "31802021",
-  "institution": "Arnold Arboretum Of Harvard University",
+  "institution": "ARNOLD ARBORETUM OF HARVARD UNIVERSITY",
   "city": "Cambridge",
   "state": "MA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "2138",
-  "email": false
+  "ope": "00215500"
 }

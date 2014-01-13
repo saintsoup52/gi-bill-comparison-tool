@@ -1,6 +1,6 @@
 {
   "facility_code": "10318205",
-  "institution": "San Francisco Police Academy (San Francisco Police Dept.)",
+  "institution": "SAN FRANCISCO POLICE ACADEMY (SAN FRANCISCO POLICE DEPT.)",
   "city": "San Francisco",
   "state": "CA",
   "country": "USA",
@@ -17,5 +17,5 @@
   "indicator_group": null,
   "salary": null,
   "zip": "94103",
-  "email": false
+  "ope": null
 }
