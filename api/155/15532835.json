@@ -11,11 +11,11 @@
   "cross": 383312,
   "grad_rate": 74.1,
   "grad_rate_rank": 971,
-  "default_rate": 0.0,
-  "avg_stu_loan_debt": 0,
-  "avg_stu_loan_debt_rank": 0,
+  "default_rate": null,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
   "zip": "44663",
-  "ope": "03065900"
+  "ope": "3065900"
 }

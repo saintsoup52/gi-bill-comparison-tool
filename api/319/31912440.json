@@ -12,10 +12,10 @@
   "grad_rate": 40.0,
   "grad_rate_rank": 1248,
   "default_rate": 15.3,
-  "avg_stu_loan_debt": 0,
-  "avg_stu_loan_debt_rank": 0,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
   "indicator_group": 1,
   "salary": null,
   "zip": "29203",
-  "ope": "03856400"
+  "ope": "3856400"
 }

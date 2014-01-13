@@ -9,13 +9,13 @@
   "yr": null,
   "gibill": null,
   "cross": 444370,
-  "grad_rate": 0.0,
-  "grad_rate_rank": 0,
+  "grad_rate": null,
+  "grad_rate_rank": null,
   "default_rate": 29.5,
   "avg_stu_loan_debt": 5161,
   "avg_stu_loan_debt_rank": 256,
   "indicator_group": 5,
   "salary": null,
   "zip": "33014",
-  "ope": "03491400"
+  "ope": "3491400"
 }

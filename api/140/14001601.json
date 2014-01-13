@@ -12,10 +12,10 @@
   "grad_rate": 15.5,
   "grad_rate_rank": 1091,
   "default_rate": 20.0,
-  "avg_stu_loan_debt": 0,
-  "avg_stu_loan_debt_rank": 0,
+  "avg_stu_loan_debt": null,
+  "avg_stu_loan_debt_rank": null,
   "indicator_group": 2,
   "salary": null,
   "zip": "35902",
-  "ope": "00101700"
+  "ope": "101700"
 }
