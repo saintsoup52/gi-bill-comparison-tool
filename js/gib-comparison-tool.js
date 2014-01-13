@@ -844,6 +844,9 @@ var GIBComparisonTool = function () {
           GIBComparisonTool.update();
           $('#veteran-indicators').show();
           $('#school-indicators').show();
+          
+          // Track when institution is selected
+          _gaq.push(["_trackEvent", "School Interactions", "School Added", formData.facility_code]);
         },
         focus: function (event, ui) {
           event.preventDefault();
