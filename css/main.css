@@ -271,7 +271,7 @@ sup {
 }
 
 .comparison table td {
-  padding: 0 25px;
+  padding: 5px 25px;
   color: #fff;
 }
 
@@ -287,18 +287,25 @@ sup {
   padding-left: 100px;
 }
 
-.comparison #benefit-estimator th#institution { font-size: 30px; }
-.comparison #benefit-estimator th#location {}
-.comparison #benefit-estimator th#type {
+.comparison #benefit-estimator td#institution {
+  padding-left: 100px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.comparison #benefit-estimator td#location {
+  padding-left: 100px;
+}
+.comparison #benefit-estimator td#type {
+  padding-left: 100px;
   font-style: italic;
 }
 
 .comparison #benefit-estimator table.inactive {
   background: #808080 url('../img/dollar_sign.png') 3.5% 50% no-repeat;
 }
-.comparison #benefit-estimator table.inactive th#institution,
-.comparison #benefit-estimator table.inactive th#location,
-.comparison #benefit-estimator table.inactive th#type {
+.comparison #benefit-estimator table.inactive td#institution,
+.comparison #benefit-estimator table.inactive td#location,
+.comparison #benefit-estimator table.inactive td#type {
   display: none;
 }
 
