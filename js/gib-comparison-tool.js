@@ -784,16 +784,28 @@ var GIBComparisonTool = function () {
         $('#loan-default-rates-chart').html('<p>Not Reported</p>');
         $('#median-borrowing-chart').html('<p>Not Reported</p>');
       } else {
+        // Draw the charts
         $('#online-classes').show();
         $('#school-indicators').show();
-        // Draw the charts
+        
         if (institution.grad_rate != null) {
           drawGraduationRate();
         } else {
           $('#graduation-rates-chart').html('<p>Not Reported</p>');
         }
-        drawLoanDefaultRates();
-        drawMedianBorrowingChart();
+        
+        if (institution.default_rate != null) {
+          drawLoanDefaultRates();
+        } else {
+          $('#loan-default-rates-chart').html('<p>Not Reported</p>');
+        }
+        
+        if (institution.avg_stu_loan_debt != null) {
+          drawMedianBorrowingChart();
+        } else {
+          $('#median-borrowing-chart').html('<p>Not Reported</p>');
+        }
+        
       }
       
       // More information about school link
