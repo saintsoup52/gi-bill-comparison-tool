@@ -62,220 +62,226 @@ layout: va
 
 <div class="heading solid orange"><h3>GI Bill<sup>&reg;</sup> Comparison Tool Beta</h3></div>
 
-<h2><i>Calculate your benefits and research approved programs.</i></h2>
-
-<!-- ================================================== -->
-<!--                 Eligibility Section                -->
-<!-- ================================================== -->
-
-<div class="heading solid navy"><h3>Eligibility</h3></div>
-
-<!-- Cumulative Post 9-11 Active Duty Service -->
-<div class="form-group">
-  <label>Cumulative Post 9-11 Active Duty Service:</label>
-  
-  <select id="cumulative-service" name="Cumulative Post 9-11 Active Duty Service">
-    <option value="1.0">36+ months: 100% (includes BASIC)</option>
-    <option value="0.9">30 months: 90% (includes BASIC)</option>
-    <option value="0.8">24 months: 80% (includes BASIC)</option>
-    <option value="0.7">18 months: 70% (excludes BASIC)</option>
-    <option value="0.6">12 months: 60% (excludes BASIC)</option>
-    <option value="0.5">6 months: 50% (excludes BASIC)</option>
-    <option value="0.4">90 days: 40% (excludes BASIC)</option>
-    <option value="0.0">Less than 90 days 0% (excludes BASIC)</option>
-    <option value="1.0">GYSGT Fry Scholarship: 100%</option>
-    <option value="service discharge">Service-Connected Discharge: 100%</option>
-  </select>
-  
-  <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#cumulativeservice" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a>
+<div class="left-sidebar">
+  <h2>Calculate your benefits and research approved programs.</h2>
 </div>
 
-<!-- Military Status -->
-<div class="form-group">
-  <label>Military Status:</label>
-  
-  <select id="military-status" name="Military Status">
-    <option value="veteran">Veteran</option>
-    <option value="active duty">Active Duty</option>
-    <option value="national guard / reserves">National Guard / Reserves</option>
-    <option value="spouse">Spouse</option>
-    <option value="child">Child</option>
-  </select>
-  
-  <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#militarystatus" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a>
-</div>
+<div class="right-content">
 
-<!-- Spouse on Active Duty -->
-<div id="spouse-active-duty-form" class="form-group">
-  <label>Is your husband or wife on active duty?</label>
+  <!-- ================================================== -->
+  <!--                 Eligibility Section                -->
+  <!-- ================================================== -->
+
+  <div class="heading solid navy"><h3>Eligibility</h3></div>
+
+  <!-- Cumulative Post 9-11 Active Duty Service -->
+  <div class="form-group">
+    <label>Cumulative Post 9-11 Active Duty Service:</label>
     
-  <label class="radio">Yes</label>
-  <input id="spouse-active-duty-yes" name="Spouse Active Duty" type="radio" value="yes">
-  
-  <label class="radio">No</label>
-  <input id="spouse-active-duty-no" name="Spouse Active Duty" type="radio" value="no" checked>
-</div>
-
-<div class="clear"></div>
-
-<!-- ================================================== -->
-<!--       School / Employer Information Section        -->
-<!-- ================================================== -->
-
-<div class="heading solid navy"><h3>School / Employer Information</h3></div>
-
-<div class="form-group school-employer">
-  <div class="ui-widget">
-    <input id="institution-search" placeholder="Search for a School or Employer"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#schoolname" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a>
+    <select id="cumulative-service" name="Cumulative Post 9-11 Active Duty Service">
+      <option value="1.0">36+ months: 100% (includes BASIC)</option>
+      <option value="0.9">30 months: 90% (includes BASIC)</option>
+      <option value="0.8">24 months: 80% (includes BASIC)</option>
+      <option value="0.7">18 months: 70% (excludes BASIC)</option>
+      <option value="0.6">12 months: 60% (excludes BASIC)</option>
+      <option value="0.5">6 months: 50% (excludes BASIC)</option>
+      <option value="0.4">90 days: 40% (excludes BASIC)</option>
+      <option value="0.0">Less than 90 days 0% (excludes BASIC)</option>
+      <option value="1.0">GYSGT Fry Scholarship: 100%</option>
+      <option value="service discharge">Service-Connected Discharge: 100%</option>
+    </select>
+    
+    <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#cumulativeservice" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a>
   </div>
-</div>
 
-<div id="online-classes" class="form-group">
-  <label>Taking all online classes?</label>
-  
-  <label class="radio">Yes</label>
-  <input id="online-yes" name="Online Courses" type="radio" value="yes">
-  
-  <label class="radio">No</label>
-  <input id="online-no" name="Online Courses" type="radio" value="no" checked>
-</div>
+  <!-- Military Status -->
+  <div class="form-group">
+    <label>Military Status:</label>
+    
+    <select id="military-status" name="Military Status">
+      <option value="veteran">Veteran</option>
+      <option value="active duty">Active Duty</option>
+      <option value="national guard / reserves">National Guard / Reserves</option>
+      <option value="spouse">Spouse</option>
+      <option value="child">Child</option>
+    </select>
+    
+    <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#militarystatus" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a>
+  </div>
 
-<div class="clear"></div>
+  <!-- Spouse on Active Duty -->
+  <div id="spouse-active-duty-form" class="form-group">
+    <label>Is your husband or wife on active duty?</label>
+      
+    <label class="radio">Yes
+      <input id="spouse-active-duty-yes" name="Spouse Active Duty" type="radio" value="yes">
+    </label>
+    
+    <label class="radio">No
+      <input id="spouse-active-duty-no" name="Spouse Active Duty" type="radio" value="no" checked>
+    </label>
+  </div>
 
-<!-- ================================================== -->
-<!--                  Benefit Estimator                 -->
-<!-- ================================================== -->
+  <div class="clear"></div>
 
-<div id="benefit-estimator">
-  
-  <table class="inactive">
-    <thead>
-      <tr>
-        <th class="title" colspan="2">Benefit Estimator</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th id="institution" colspan="2"></th>
-      </tr>
-      <tr>
-        <th id="location" colspan="2" class="normal"></th>
-      </tr>
-      <tr>
-        <th id="type" colspan="2" class="normal"></th>
-      </tr>
-      <tr>
-        <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#tuitionfees" target="_blank" alt="Click here for more information." title="Click here for more information.">Tuition / Fees:</a></th>
-        <td id="tuition-fees">$ / year</td>
-      </tr>
-      <tr>
-        <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#housingallowance" target="_blank" alt="Click here for more information." title="Click here for more information.">Housing Allowance:</a></th>
-        <td id="housing-allowance">$ / month</td>
-      </tr>
-      <tr>
-        <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#bookstipend" target="_blank" alt="Click here for more information." title="Click here for more information.">Book Stipend:</a></th>
-        <td id="book-stipend">$ / year</td>
-      </tr>
-      <tr>
-        <td id="voc-rehab" colspan="2">FYI: <a href="http://www.vba.va.gov/bln/vre/" target="_blank" alt="Click here for more information." title="Click here for more information.">Voc Rehab</a> may provide more additional education benefits.</td>
-      </tr>
-    </tbody>
-  </table>
-  
-</div>
+  <!-- ================================================== -->
+  <!--       School / Employer Information Section        -->
+  <!-- ================================================== -->
 
-<!-- ================================================== -->
-<!--                  Veteran Indicators                -->
-<!-- ================================================== -->
+  <div class="heading solid navy"><h3>School / Employer Information</h3></div>
 
-<div id="veteran-indicators">
-  
-  <table>
-    <thead>
-      <tr>
-        <th class="title" colspan="2">Veteran Indicators<span class="source"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#sourcedata" target="_blank" alt="Click here for more information." title="Click here for more information.">Source</a></span></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#principles" target=" _blank" alt="Click here for more information." title="Click here for more information.">Principles of Excellence:</a></th>
-        <td id="poe"></td>
-      </tr>
-      <tr>
-        <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#yellowribbon" target="_blank" alt="Click here for more information." title="Click here for more information.">Yellow Ribbon:</a></th>
-        <td id="yr"></td>
-      </tr>
-      <tr>
-        <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#gibillben" target="_blank" alt="Click here for more information." title="Click here for more information.">GI Bill Beneficiaries:</a></th>
-        <td id="gibill"></td>
-      </tr>
-    </tbody>
-  </table>
+  <div class="form-group school-employer">
+    <div class="ui-widget">
+      <input id="institution-search" placeholder="Search for a School or Employer"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#schoolname" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a>
+    </div>
+  </div>
 
-</div>
+  <div id="online-classes" class="form-group">
+    <label>Taking all online classes?</label>
+    
+    <label class="radio">Yes
+      <input id="online-yes" name="Online Courses" type="radio" value="yes">
+    </label>
+    
+    <label class="radio">No
+      <input id="online-no" name="Online Courses" type="radio" value="no" checked>
+    </label>
+  </div>
 
-<!-- ================================================== -->
-<!--      School Indicators (Non-Veteran Specific)      -->
-<!-- ================================================== -->
+  <div class="clear"></div>
 
-<div id="school-indicators">
-  
-  <table>
-    <thead>
-      <tr>
-        <th class="title">School Indicators, Non-Veteran Specific<span class="source"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#sourcedata" target="_blank" alt="Click here for more information." title="Click here for more information.">Source</span></a></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <div class="school-indicators-box">
-            <div class="description">
-              <h2>Graduation Rates<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#gradrate" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a></h2>
-              <p>Percent of full-time students that graduated within 150% of the expected time for completion. Graduation rate data are based on undergraduate students who enrolled full-time and have never enrolled in college before. This may not represent all undergraduates that attend this institution.</p>
-            </div>
-            <div>
-              <div id="graduation-rates-chart"></div>
-            </div>
-          </div>
+  <!-- ================================================== -->
+  <!--                  Benefit Estimator                 -->
+  <!-- ================================================== -->
 
-          <div class="school-indicators-box">
-            <div class="description">
-              <h2>Loan Default Rates<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#cdr" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a></h2>
-              <p>Percent of student borrowers that failed to repay their Federal student loans within three years of entering repayment.</p>
-            </div>
-            <div>
-              <div id="loan-default-rates-chart"></div>
-            </div>
-          </div>
+  <div id="benefit-estimator">
+    
+    <div class="heading solid navy table"><h3>Benefit Estimator</h3></div>
+    
+    <table class="dark-background inactive">
+      <tbody>
+        <tr><th colspan="2"></th></tr>
+        <tr>
+          <th id="institution" colspan="2"></th>
+        </tr>
+        <tr>
+          <th id="location" colspan="2" class="normal"></th>
+        </tr>
+        <tr>
+          <th id="type" colspan="2" class="normal"></th>
+        </tr>
+        <tr>
+          <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#tuitionfees" target="_blank" alt="Click here for more information." title="Click here for more information.">Tuition / Fees:</a></th>
+          <td id="tuition-fees">$ / year</td>
+        </tr>
+        <tr>
+          <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#housingallowance" target="_blank" alt="Click here for more information." title="Click here for more information.">Housing Allowance:</a></th>
+          <td id="housing-allowance">$ / month</td>
+        </tr>
+        <tr>
+          <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#bookstipend" target="_blank" alt="Click here for more information." title="Click here for more information.">Book Stipend:</a></th>
+          <td id="book-stipend">$ / year</td>
+        </tr>
+        <tr>
+          <th id="voc-rehab" colspan="2">FYI: <a href="http://www.vba.va.gov/bln/vre/" target="_blank" alt="Click here for more information." title="Click here for more information.">Voc Rehab</a> may provide more additional education benefits.</th>
+        </tr>
+        <tr><th colspan="2"></th></tr>
+      </tbody>
+    </table>
+    
+  </div>
 
-          <div class="school-indicators-box">
-            <div class="description">
-              <h2>Median Borrowing<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#borrowing" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a></h2>
-              <p>Families who borrow typically take out this amount in Federal loans for a student's undergraduate study. Your borrowing may be different. <a href="http://studentaid.ed.gov/repay-loans/understand/plans">Learn about repayment options.</a></p>
-            </div>
-            <div>
-              <div id="median-borrowing-chart"></div>
-            </div>
-          </div>
+  <!-- ================================================== -->
+  <!--                  Veteran Indicators                -->
+  <!-- ================================================== -->
+
+  <div id="veteran-indicators">
+    
+    <div class="heading solid navy table"><h3>Veteran Indicators<span class="source"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#sourcedata" target="_blank" alt="Click here for more information." title="Click here for more information.">Source</a></span></h3></div>
+    
+    <table class="dark-background">
+      <tbody>
+        <tr><th colspan="2"></th></tr>
+        <tr>
+          <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#principles" target=" _blank" alt="Click here for more information." title="Click here for more information.">Principles of Excellence:</a></th>
+          <td id="poe"></td>
+        </tr>
+        <tr>
+          <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#yellowribbon" target="_blank" alt="Click here for more information." title="Click here for more information.">Yellow Ribbon: <img src="img/yellow_ribbon.gif" class="yellow-ribbon"></a></th>
+          <td id="yr"></td>
+        </tr>
+        <tr>
+          <th><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#gibillben" target="_blank" alt="Click here for more information." title="Click here for more information.">GI Bill Beneficiaries:</a></th>
+          <td id="gibill"></td>
+        </tr>
+        <tr><th colspan="2"></th></tr>
+      </tbody>
+    </table>
+
+  </div>
+
+  <!-- ================================================== -->
+  <!--      School Indicators (Non-Veteran Specific)      -->
+  <!-- ================================================== -->
+
+  <div id="school-indicators">
+    
+    <div class="heading solid navy table"><h3>School Indicators, Non-Veteran Specific<span class="source"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#sourcedata" target="_blank" alt="Click here for more information." title="Click here for more information.">Source</a></span></h3></div>
+    
+    <table>
+      <tbody>
+        <tr>
+          <td>
           
-          <div class="school-indicators-box">
-            <div id="navigator-link"></div>
-          </div>
-          
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  
-</div>
+            <div class="box">
+              <div class="description">
+                <h2>Graduation Rates<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#gradrate" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a></h2>
+                <p>Percent of full-time students that graduated within 150% of the expected time for completion. Graduation rate data are based on undergraduate students who enrolled full-time and have never enrolled in college before. This may not represent all undergraduates that attend this institution.</p>
+              </div>
+              <div>
+                <div id="graduation-rates-chart"></div>
+              </div>
+            </div>
 
-<!-- ================================================== -->
-<!--          More Information About the Tool           -->
-<!-- ================================================== -->
+            <div class="box">
+              <div class="description">
+                <h2>Loan Default Rates<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#cdr" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a></h2>
+                <p>Percent of student borrowers that failed to repay their Federal student loans within three years of entering repayment.</p>
+              </div>
+              <div>
+                <div id="loan-default-rates-chart"></div>
+              </div>
+            </div>
 
-<div class="about-this-school">
-  <a href="http://gibill.va.gov/student_tools/compare/about.html" target="_blank">About this Tool</a>
-  <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#feedback"target="_blank">Feedback</a>
-  <a href="http://gibill.va.gov/student_tools/compare/about.html#share" target="_blank">Share</a>
+            <div class="box">
+              <div class="description">
+                <h2>Median Borrowing<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#borrowing" target="_blank" alt="Click here for more information." title="Click here for more information."><img class="info" src="img/info.jpg"></a></h2>
+                <p>Families who borrow typically take out this amount in Federal loans for a student's undergraduate study. Your borrowing may be different. <a href="http://studentaid.ed.gov/repay-loans/understand/plans">Learn about repayment options.</a></p>
+              </div>
+              <div>
+                <div id="median-borrowing-chart"></div>
+              </div>
+            </div>
+            
+            <div class="box">
+              <div id="navigator-link"></div>
+            </div>
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    
+  </div>
+
+  <!-- ================================================== -->
+  <!--          More Information About the Tool           -->
+  <!-- ================================================== -->
+
+  <div class="about-this-tool">
+    <a href="http://gibill.va.gov/student_tools/compare/about.html" target="_blank">About this Tool</a>
+    <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#feedback"target="_blank">Feedback</a>
+    <a href="http://gibill.va.gov/student_tools/compare/about.html#share" target="_blank">Share</a>
+  </div>
+
 </div>
