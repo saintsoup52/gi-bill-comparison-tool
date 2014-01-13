@@ -40,9 +40,6 @@ task :build do
       end
     end
     
-    # Convert institution names to titlecase
-    f[1] = f[1].titlecase
-    
     # Convert data types (numbers)
     unless f[5] == nil;  f[5] = f[5].to_i   end # bah
     unless f[8] == nil;  f[8] = f[8].to_i   end # gibill
