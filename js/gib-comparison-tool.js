@@ -787,7 +787,7 @@ var GIBComparisonTool = function () {
         $('#online-classes').show();
         $('#school-indicators').show();
         // Draw the charts
-        if (institution.grad_rate) {
+        if (institution.grad_rate != null) {
           drawGraduationRate();
         } else {
           $('#graduation-rates-chart').html('<p>Not Reported</p>');
