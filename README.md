@@ -18,7 +18,7 @@ To build the site, simply run `jekyll build` in the command line. The site will 
 
 The application uses a lot of open data from a CSV file named `data.csv` in the [`_data/`](/_data) directory with the following headers (in this order):
 
-| facility_code | institution | city   | state  | country | bah     | poe     | yr      | gibill  | cross   | grad_rate | grad_rate_rank | default_rate | avg_stu_loan_debt | avg_stu_loan_debt_rank | indicator_group | salary | zip    | email  |
+| facility_code | institution | city   | state  | country | bah     | poe     | yr      | gibill  | cross   | grad_rate | grad_rate_rank | default_rate | avg_stu_loan_debt | avg_stu_loan_debt_rank | indicator_group | salary | zip    | ope    |
 | ------------- | ----------- | ------ | ------ | ------- | ------- | ------- | ------- | ------- | ------- | --------- | -------------- | ------------ | ----------------- | ---------------------- | --------------- | ------ | ------ | ------ |
 | String        | String      | String | String | String  | Integer | Boolean | Boolean | Integer | Integer | Float     | Integer        | Float        | Integer           | Integer                | Integer         | String | String | String |
 
