@@ -14,7 +14,9 @@ layout: va
   <div class="box">
     <span>EXPLORE<br>YOUR CAREER</span>
     <a href="http://www.benefits.va.gov/gibill/careerscope.asp" target="_blank">
-      <div class="icon explore"></div>
+      <div class="icon">
+        <img id="icon-explore" src="img/explore-normal.png" alt="explore your career">
+      </div>
       <span>CareerScope</span>
     </a>
   </div>
@@ -22,7 +24,9 @@ layout: va
   <div class="box">
     <span>COMPARE<br>SCHOOLS</span>
     <a href="http://www.benefits.va.gov/gibill/comparison">
-      <div class="icon compare"></div>
+      <div class="icon">
+        <img id="icon-compare" src="img/compare-normal.png" alt="compare schools">
+      </div>
       <span>GI Bill<br>Comparison Tool</span>
     </a>
   </div>
@@ -30,7 +34,9 @@ layout: va
   <div class="box">
     <span>CHOOSE<br>A SCHOOL</span>
     <a href="http://www.benefits.va.gov/gibill/choosing_a_school.asp" target="_blank">
-      <div class="icon choose"></div>
+      <div class="icon">
+        <img id="icon-choose" src="img/choose-normal.png" alt="choose a school">
+      </div>
       <span>Decision Guide</span>
     </a>
   </div>
@@ -38,7 +44,9 @@ layout: va
   <div class="box">
     <span>APPLY FOR<br>GI BILL</span>
     <a href="http://vabenefits.vba.va.gov/vonapp/" target="_blank">
-      <div class="icon apply"></div>
+      <div class="icon">
+        <img id="icon-apply" src="img/apply-normal.png" alt="apply for GI Bill">
+      </div>
       <span>VONAPP</span>
     </a>
   </div>
@@ -46,7 +54,9 @@ layout: va
   <div class="box">
     <span>SUCCEED<br>IN SCHOOL</span>
     <a href="http://www.benefits.va.gov/vocrehab/edu_voc_counseling.asp" target="_blank">
-      <div class="icon succeed"></div>
+      <div class="icon">
+        <img id="icon-succeed" src="img/succeed-normal.png" alt="succeed in school">
+      </div>
       <span>Educational<br>Counseling</span>
     </a>
   </div>
@@ -54,7 +64,9 @@ layout: va
   <div class="box">
     <span>FIND<br>EMPLOYMENT</span>
     <a href="https://www.ebenefits.va.gov/ebenefits-portal/ebenefits.portal?_nfpb=true&amp;_nfxr=false&amp;_pageLabel=Jobs" target="_blank">
-      <div class="icon employ"></div>
+      <div class="icon">
+        <img id="icon-employ" src="img/employ-normal.png" alt="find employment">
+      </div>
       <span>Career Center</span>
     </a>
   </div>
@@ -111,7 +123,7 @@ layout: va
 
   <!-- Spouse on Active Duty -->
   <div id="spouse-active-duty-form" class="form-group">
-    <label>Is your husband or wife on active duty?</label>
+    <span class="question">Is your husband or wife on active duty?</span>
       
     <label class="radio" for="spouse-active-duty-yes">Yes</label>
     <input id="spouse-active-duty-yes" name="Spouse Active Duty" type="radio" value="yes">
@@ -128,14 +140,15 @@ layout: va
 
   <div class="heading solid navy"><h3>School / Employer Information</h3></div>
 
-  <div class="form-group school-employer">
+  <div class="form-group">
     <div class="ui-widget">
+      <label class="institution-search-label" for="institution-search">Enter a school or employer name to search:</label>
       <input id="institution-search" placeholder="Search for a School or Employer" alt="Enter school/employer name" title="Enter school/employer name"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#schoolname" target="_blank"><img class="info" src="img/info.jpg" alt="Click here for more information about selecting a school/employer." title="Click here for more information about selecting a school/employer"></a>
     </div>
   </div>
 
   <div id="online-classes" class="form-group">
-    <label>Taking all online classes?</label>
+    <span class="question">Taking all online classes?</span>
     
     <label class="radio" for="online-yes">Yes</label>
     <input id="online-yes" name="Online Courses" type="radio" value="yes">

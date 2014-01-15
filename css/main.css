@@ -91,6 +91,17 @@ sup {
 
 .comparison .timeline .icon {
   margin: 10px auto;
+}
+
+/*
+
+This isn't recommended by 508. Use proper <img> instead.
+Commenting out for now to keep around.
+
+Use with for example: <div class="icon explore"></div>
+
+.comparison .timeline .icon {
+  margin: 10px auto;
   width: 36px;
   height: 36px;
 }
@@ -123,6 +134,7 @@ sup {
 .comparison .timeline .icon.employ {
   background-image: url('../img/employ.png');
 }
+*/
 
 /* Main Content */
 
@@ -200,7 +212,8 @@ sup {
   float: right;
 }
 
-.comparison .form-group label {
+.comparison .form-group label,
+.comparison .form-group span.question {
   margin-right: 10px;
   float: left;
   font-size: 16px;
@@ -237,6 +250,10 @@ sup {
 
 .comparison .form-group #institution-search {
   width: 600px;
+}
+
+.comparison .form-group .institution-search-label {
+  display: none;
 }
 
 /* Tables */
