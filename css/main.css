@@ -59,6 +59,10 @@ sup {
   clear: both;
 }
 
+.comparison .hidden {
+  display: none;
+}
+
 /* Timeline */
 
 .comparison .timeline {
