@@ -409,11 +409,17 @@ div.topnav-dd-inner {
     text-decoration: none;
 }
 
-:focus {
-    -moz-outline-style: none;
-}
 .current {
     background-color: #e5f5fc;
+}
+
+a:focus {
+    -moz-outline-style: none;
+    outline: 1px dashed #90F;
+}
+
+input:focus {
+    outline: 1px dashed #90F;
 }
 
 /* End Breadcrumbs */
