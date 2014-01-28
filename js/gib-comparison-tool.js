@@ -161,11 +161,11 @@ var GIBComparisonTool = function () {
    */
   var formatLocation = function () {
     if (institution.country != "USA") {
-      calculated.location = "" + institution.city + ", "
-                               + institution.country;
+      calculated.location = "" + institution.city + ", " +
+                                 institution.country;
     } else {
-      calculated.location = "" + institution.city + ", "
-                               + institution.state;
+      calculated.location = "" + institution.city + ", " +
+                                 institution.state;
     }
   };
   
@@ -710,7 +710,7 @@ var GIBComparisonTool = function () {
         y2 = y + r * Math.sin(Math.PI * endAngle / 180);
     
     return 'M'+x+' '+y+' L'+x1+' '+y1+' A'+r+' '+r+' 0 0 1 '+x2+' '+y2+' z';
-  }
+  };
   
   
   /*
@@ -776,7 +776,7 @@ var GIBComparisonTool = function () {
       if (calculated.institution_type == "OJT / Apprenticeship") {
         $('#online-classes').hide();
         $('#school-indicators').hide();
-      } else if (institution.indicator_group == null ||
+      } else if (institution.indicator_group === null ||
                  institution.indicator_group == 4) {
         // Don't display charts only, say "not reported"
         $('#school-indicators').show();
@@ -788,19 +788,19 @@ var GIBComparisonTool = function () {
         $('#online-classes').show();
         $('#school-indicators').show();
         
-        if (institution.grad_rate != null) {
+        if (institution.grad_rate !== null) {
           drawGraduationRate();
         } else {
           $('#graduation-rates-chart').html('<p>Not Reported</p>');
         }
         
-        if (institution.default_rate != null) {
+        if (institution.default_rate !== null) {
           drawLoanDefaultRates();
         } else {
           $('#loan-default-rates-chart').html('<p>Not Reported</p>');
         }
         
-        if (institution.avg_stu_loan_debt != null) {
+        if (institution.avg_stu_loan_debt !== null) {
           drawMedianBorrowingChart();
         } else {
           $('#median-borrowing-chart').html('<p>Not Reported</p>');
