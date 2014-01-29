@@ -249,7 +249,7 @@ li#nav-the-gov a.first-level {width: 130px;}
 
 li#nav-home:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll 0px -34px transparent;}
 
-li#nav-blog:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll 0px -34px transparent;}
+li#nav-blog:hover a.first-level, .nav-hover {background: url("../images/homesprite.png") no-repeat scroll 0px -34px transparent;}
 
 li#nav-media-center:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -65px -34px transparent;}
 

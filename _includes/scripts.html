@@ -65,3 +65,55 @@
     }
   );
 </script>
+
+
+<script>
+  $('#nav-blog .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-blog');
+  });
+  
+  $('#nav-media-center .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-media-center');
+  });
+  
+  $('#nav-issues .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-issues');
+  });
+  
+  $('#nav-the-admin .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-the-admin');
+  });
+  
+  $('#nav-the-wh .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-the-wh');
+  });
+  
+  $('#nav-the-gov .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-the-gov');
+  });
+  
+  $('#topnav').hover(function () {
+    unselectNav();
+  });
+  
+  $(document).keyup(function(e) {
+    if (e.keyCode == 27) {
+      unselectNav();
+    }
+  });
+  
+  $('.topnav-dd-outer a').blur(function () {
+    unselectNav();
+  });
+  
+  function selectNavItem (id) {
+    $('#'+ id +' .topnav-dd-outer').css('left', 'auto');
+    $('li#'+ id +' a.first-level').addClass('nav-hover');
+  }
+  
+  function unselectNav () {
+    $('.topnav-dd-outer').css('left', '');
+    $('li a.first-level').removeClass('nav-hover');
+  }
+  
+</script>
