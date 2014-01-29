@@ -64,8 +64,14 @@ sup {
   clear: both;
 }
 
+/* Make content hidden: webaim.org/techniques/css/invisiblecontent */
 .comparison .hidden {
-  display: none;
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
 /* Timeline */
@@ -90,12 +96,16 @@ sup {
   width: 125px;
 }
 
+.comparison .timeline .box:last-child {
+  margin-right: 0;
+}
+
 .comparison .timeline .box span {
   font-size: 12px;
 }
 
-.comparison .timeline .box:last-child {
-  margin-right: 0;
+.comparison .timeline .box a {
+  display: block;
 }
 
 .comparison .timeline .icon {
