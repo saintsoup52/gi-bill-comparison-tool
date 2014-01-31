@@ -228,7 +228,7 @@ var GIBComparisonTool = function () {
       calculated.tuition_fees = "";
     } else if ((calculated.institution_type == "Public School") &&
                (institution.country == "USA")) {
-      calculated.tuition_fees = formatCurrency(Math.round(calculated.tier * 100)) +
+      calculated.tuition_fees = Math.round(calculated.tier * 100) +
                                 "% of instate tuition";
     } else {
       calculated.tuition_fees = formatCurrency(Math.round(TFCAP * calculated.tier)) +
