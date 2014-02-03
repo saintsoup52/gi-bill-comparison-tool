@@ -184,6 +184,19 @@ var GIBComparisonTool = function () {
   
   
   /*
+   * Formats numbers
+   */
+  var formatNumber = function (num) {
+    var str = num.toString();
+    if (str.length > 3) {
+       return str.slice(0, -3) + "," + str.slice(-3);
+    } else {
+      return str;
+    }
+  };
+  
+  
+  /*
    * Determine the type of institution
    */
   var getInstitutionType = function () {
@@ -764,7 +777,7 @@ var GIBComparisonTool = function () {
       
       $('#poe').html(institution.poe ? 'Yes' : 'No');
       $('#yr').html(institution.yr ? 'Yes' : 'No');
-      $('#gibill').html(institution.gibill ? institution.gibill : 0);
+      $('#gibill').html(institution.gibill ? formatNumber(institution.gibill) : 0);
       
       // Show/hide the vocational rehab link
       if (formData.cumulative_service == "service discharge") {
