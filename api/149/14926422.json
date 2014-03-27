@@ -5,7 +5,7 @@
   "state": "MI",
   "country": "USA",
   "bah": 1104,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 245,
   "cross": 171483,
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "49686",
-  "ope": "230200"
+  "ope": "00230200"
 }

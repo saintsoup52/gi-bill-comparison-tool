@@ -5,7 +5,7 @@
   "state": "KS",
   "country": "USA",
   "bah": 1158,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 72,
   "cross": 452018,
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "66214",
-  "ope": "4051301"
+  "ope": "04051301"
 }

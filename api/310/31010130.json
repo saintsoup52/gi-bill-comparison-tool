@@ -5,7 +5,7 @@
   "state": "NJ",
   "country": "USA",
   "bah": 1542,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 26,
   "cross": 169248,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "8641",
-  "ope": "224331"
+  "ope": "00224300"
 }

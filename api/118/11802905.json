@@ -5,8 +5,8 @@
   "state": "CA",
   "country": "USA",
   "bah": 2025,
-  "poe": null,
-  "yr": null,
+  "poe": true,
+  "yr": true,
   "gibill": 14,
   "cross": 149222,
   "grad_rate": 47.6,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92069",
-  "ope": "175882"
+  "ope": "00175800"
 }

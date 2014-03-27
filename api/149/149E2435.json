@@ -5,7 +5,7 @@
   "state": "OH",
   "country": "USA",
   "bah": 1194,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 208,
   "cross": 201672,
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "43055",
-  "ope": "1104600"
+  "ope": "01104600"
 }

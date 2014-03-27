@@ -50,6 +50,7 @@ task :build do
     unless f[13] == nil; f[13] = f[13].to_i end # avg_stu_loan_debt
     unless f[14] == nil; f[14] = f[14].to_i end # avg_stu_loan_debt_rank
     unless f[15] == nil; f[15] = f[15].to_i end # indicator_group
+    unless f[18] == nil; f[18].tr!('"', '') end # ope
     
     # Save row to array
     data.push Hash[row.headers[0..-1].zip(f[0..-1])]

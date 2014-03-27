@@ -8,14 +8,14 @@
   "poe": null,
   "yr": null,
   "gibill": null,
-  "cross": null,
-  "grad_rate": null,
-  "grad_rate_rank": null,
-  "default_rate": null,
-  "avg_stu_loan_debt": null,
-  "avg_stu_loan_debt_rank": null,
-  "indicator_group": null,
+  "cross": 231837,
+  "grad_rate": 41.4,
+  "grad_rate_rank": 1197,
+  "default_rate": 6.8,
+  "avg_stu_loan_debt": 22315,
+  "avg_stu_loan_debt_rank": 1456,
+  "indicator_group": 1,
   "salary": null,
   "zip": "24016",
-  "ope": null
+  "ope": "00662200"
 }

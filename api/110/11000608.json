@@ -5,8 +5,8 @@
   "state": "DE",
   "country": "USA",
   "bah": 1335,
-  "poe": null,
-  "yr": null,
+  "poe": true,
+  "yr": true,
   "gibill": 10,
   "cross": 149222,
   "grad_rate": 47.6,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19902",
-  "ope": "175827"
+  "ope": "00175800"
 }

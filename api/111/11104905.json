@@ -5,7 +5,7 @@
   "state": "CA",
   "country": "USA",
   "bah": 2292,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 14,
   "cross": 110565,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92831",
-  "ope": "113700"
+  "ope": "00113700"
 }

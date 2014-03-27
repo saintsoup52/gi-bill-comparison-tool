@@ -5,8 +5,8 @@
   "state": "TN",
   "country": "USA",
   "bah": 1320,
-  "poe": null,
-  "yr": null,
+  "poe": true,
+  "yr": true,
   "gibill": 5,
   "cross": 149222,
   "grad_rate": 47.6,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "38054",
-  "ope": "175816"
+  "ope": "00175800"
 }

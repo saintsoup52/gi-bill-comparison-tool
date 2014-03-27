@@ -5,7 +5,7 @@
   "state": "CT",
   "country": "USA",
   "bah": 1878,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 2,
   "cross": 129020,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6030",
-  "ope": "141708"
+  "ope": "00141708"
 }

@@ -5,7 +5,7 @@
   "state": "MN",
   "country": "USA",
   "bah": 1449,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 106,
   "cross": 173887,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "55402",
-  "ope": "1024800"
+  "ope": "01024800"
 }

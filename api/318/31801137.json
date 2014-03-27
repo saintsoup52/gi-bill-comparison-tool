@@ -5,7 +5,7 @@
   "state": "OR",
   "country": "USA",
   "bah": 1449,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 41,
   "cross": 209065,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "97128",
-  "ope": "319800"
+  "ope": "00319800"
 }

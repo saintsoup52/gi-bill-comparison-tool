@@ -5,7 +5,7 @@
   "state": "AZ",
   "country": "USA",
   "bah": 1461,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 393,
   "cross": 364016,
@@ -17,5 +17,5 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "85032",
-  "ope": "2623600"
+  "ope": "02623600"
 }

@@ -6,7 +6,7 @@
   "country": "USA",
   "bah": 3258,
   "poe": true,
-  "yr": null,
+  "yr": true,
   "gibill": 7,
   "cross": 190424,
   "grad_rate": null,
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "10021",
-  "ope": "271101"
+  "ope": "00271101"
 }

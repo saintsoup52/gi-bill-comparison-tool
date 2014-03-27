@@ -5,8 +5,8 @@
   "state": "CT",
   "country": "USA",
   "bah": 1425,
-  "poe": null,
-  "yr": null,
+  "poe": true,
+  "yr": true,
   "gibill": 20,
   "cross": 149222,
   "grad_rate": 47.6,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "6349",
-  "ope": "175840"
+  "ope": "00175800"
 }

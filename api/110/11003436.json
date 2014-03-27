@@ -5,7 +5,7 @@
   "state": "OK",
   "country": "USA",
   "bah": 948,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 9,
   "cross": 207315,
@@ -17,5 +17,5 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "74107",
-  "ope": "1128200"
+  "ope": "01128200"
 }

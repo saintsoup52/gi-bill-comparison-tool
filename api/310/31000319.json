@@ -5,7 +5,7 @@
   "state": "ME",
   "country": "USA",
   "bah": 1203,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 154,
   "cross": 161165,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "4401",
-  "ope": "204300"
+  "ope": "00204300"
 }

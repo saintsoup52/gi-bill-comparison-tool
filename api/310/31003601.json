@@ -5,7 +5,7 @@
   "state": "AL",
   "country": "USA",
   "bah": 1143,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 33,
   "cross": 102270,
@@ -17,5 +17,5 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35403",
-  "ope": "104400"
+  "ope": "00104400"
 }

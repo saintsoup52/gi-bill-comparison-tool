@@ -5,7 +5,7 @@
   "state": "GA",
   "country": "USA",
   "bah": 978,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 245,
   "cross": 139250,
@@ -17,5 +17,5 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "31520",
-  "ope": "155800"
+  "ope": "00155800"
 }
