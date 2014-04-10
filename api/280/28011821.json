@@ -1,7 +1,7 @@
 {
   "facility_code": "28011821",
   "institution": "PETERSON SCHOOL WOBURN MA",
-  "city": "Woburn",
+  "city": "WOBURN",
   "state": "MA",
   "country": "USA",
   "bah": 2373,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1801",
+  "zip": "01801",
   "ope": null
 }

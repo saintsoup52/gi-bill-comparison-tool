@@ -1,13 +1,13 @@
 {
   "facility_code": "31907163",
   "institution": "INTERAMERICAN UNIVERSITY BARRANQUITAS (UNIVERSIDAD INTERAMERICANA-BARRANQUITAS)",
-  "city": "Barranquitas",
+  "city": "BARRANQUITAS",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 86,
+  "gibill": 83,
   "cross": 242644,
   "grad_rate": 37.0,
   "grad_rate_rank": 1335,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 76,
   "indicator_group": 1,
   "salary": null,
-  "zip": "794",
+  "zip": "00794",
   "ope": "00393806"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10667425",
   "institution": "TRUMAN VA HOSPITAL -COLUMBIA",
-  "city": "Columbia",
+  "city": "COLUMBIA",
   "state": "MO",
   "country": "USA",
   "bah": 876,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "65202",
+  "zip": "65201",
   "ope": null
 }

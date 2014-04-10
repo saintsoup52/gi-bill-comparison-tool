@@ -1,13 +1,13 @@
 {
   "facility_code": "15013329",
   "institution": "PINKERTON ACADEMY",
-  "city": "Derry",
+  "city": "DERRY",
   "state": "NH",
   "country": "USA",
   "bah": 1413,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3038",
+  "zip": "03038",
   "ope": null
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "18003939",
   "institution": "PROVIDENCE POLICE TRAINING ACADEMY",
-  "city": "Providence",
+  "city": "PROVIDENCE",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2908",
+  "zip": "02908",
   "ope": null
 }

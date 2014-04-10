@@ -1,13 +1,13 @@
 {
   "facility_code": "11989132",
   "institution": "SUNY UNIVERSITY AT BUFFALO OFFICE OF VETERANS",
-  "city": "Buffalo",
+  "city": "BUFFALO",
   "state": "NY",
   "country": "USA",
   "bah": 1410,
   "poe": true,
   "yr": true,
-  "gibill": 362,
+  "gibill": 384,
   "cross": 196130,
   "grad_rate": 48.1,
   "grad_rate_rank": 956,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 623,
   "indicator_group": 1,
   "salary": null,
-  "zip": "14261",
+  "zip": "14214",
   "ope": "00284200"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10831921",
-  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD",
-  "city": "Whitinsville",
+  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD WHITINSVILLE",
+  "city": "WHITINSVILLE",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1588",
+  "zip": "01588",
   "ope": null
 }

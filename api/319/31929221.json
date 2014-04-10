@@ -1,13 +1,13 @@
 {
   "facility_code": "31929221",
   "institution": "PARK UNIVERSITY HANSCOM AFB",
-  "city": "Bedford",
+  "city": "BEDFORD",
   "state": "MA",
   "country": "USA",
   "bah": 2373,
   "poe": true,
   "yr": null,
-  "gibill": 20,
+  "gibill": 21,
   "cross": 178721,
   "grad_rate": 40.9,
   "grad_rate_rank": 1216,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 298,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1731",
+  "zip": "01731",
   "ope": "00249800"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25014133",
   "institution": "TRANSTECH INC",
-  "city": "Conover",
+  "city": "NEWTON",
   "state": "NC",
   "country": "USA",
   "bah": 1005,
   "poe": true,
   "yr": null,
-  "gibill": 9,
+  "gibill": 10,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "28613",
+  "zip": "28658",
   "ope": null
 }

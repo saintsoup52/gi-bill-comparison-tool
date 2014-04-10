@@ -4,10 +4,10 @@
   "city": "Wynnewood",
   "state": "PA",
   "country": "USA",
-  "bah": 1758,
+  "bah": 2025,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 216047,
   "grad_rate": 80.0,
   "grad_rate_rank": 159,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 348,
   "indicator_group": 1,
   "salary": null,
-  "zip": "19018",
+  "zip": "19096",
   "ope": "00336400"
 }

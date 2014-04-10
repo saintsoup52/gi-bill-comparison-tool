@@ -1,7 +1,7 @@
 {
   "facility_code": "17014521",
   "institution": "ANDOVER HIGH SCHOOL",
-  "city": "Andover",
+  "city": "ANDOVER",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1810",
+  "zip": "01810",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "11841530",
-  "institution": "UNIV. OF MEDICINE AND DENTISTRY OF NJ GRADUATE SCHOOL OF BIOMEDICAL SCIENCES",
-  "city": "Stratford",
+  "institution": "ROWAN UNIVERSITY - GRADUATE SCHOOL OF BIOMEDICAL SCIENCES",
+  "city": "Glassboro",
   "state": "NJ",
   "country": "USA",
   "bah": 1758,
   "poe": null,
   "yr": null,
-  "gibill": 4,
+  "gibill": null,
   "cross": 187222,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 589,
   "indicator_group": 1,
   "salary": null,
-  "zip": "8084",
+  "zip": "08028",
   "ope": "01039400"
 }

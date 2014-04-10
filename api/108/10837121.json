@@ -1,7 +1,7 @@
 {
   "facility_code": "10837121",
   "institution": "RUTLAND POLICE DEPARTMENT",
-  "city": "Rutland",
+  "city": "RUTLAND",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1543",
+  "zip": "01543",
   "ope": null
 }

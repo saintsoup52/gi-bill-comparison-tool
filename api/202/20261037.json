@@ -1,7 +1,7 @@
 {
   "facility_code": "20261037",
   "institution": "BOEING PORTLAND JATC",
-  "city": "Portland",
+  "city": "PORTLAND",
   "state": "OR",
   "country": "USA",
   "bah": 1449,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "97220",
+  "zip": "97230",
   "ope": null
 }

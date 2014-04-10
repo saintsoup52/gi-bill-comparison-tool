@@ -1,7 +1,7 @@
 {
   "facility_code": "37015421",
   "institution": "NORTHFIELD MOUNT HERMAN SCHOOL",
-  "city": "Northfield",
+  "city": "NORTHFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1332,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1360",
+  "zip": "01360",
   "ope": null
 }

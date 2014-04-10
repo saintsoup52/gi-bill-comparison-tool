@@ -1,13 +1,13 @@
 {
   "facility_code": "31910521",
   "institution": "SCHOOL OF THE MUSEUM OF FINE ARTS",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": true,
-  "gibill": 6,
+  "gibill": 7,
   "cross": 166984,
   "grad_rate": 57.5,
   "grad_rate_rank": 651,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1115,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2115",
+  "zip": "02115",
   "ope": "00466700"
 }

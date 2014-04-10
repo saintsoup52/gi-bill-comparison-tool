@@ -1,13 +1,13 @@
 {
   "facility_code": "31516435",
   "institution": "GODS BIBLE SCHOOL AND COLLEGE",
-  "city": "Cincinnati",
+  "city": "CINCINNATI",
   "state": "OH",
   "country": "USA",
-  "bah": null,
+  "bah": 1320,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 202903,
   "grad_rate": 26.9,
   "grad_rate_rank": 1596,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 29,
   "indicator_group": 1,
   "salary": null,
-  "zip": "45210",
+  "zip": "45202",
   "ope": "02220500"
 }

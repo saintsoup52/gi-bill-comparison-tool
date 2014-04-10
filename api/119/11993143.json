@@ -1,13 +1,13 @@
 {
   "facility_code": "11993143",
   "institution": "TARLETON STATE UNIVERSITY",
-  "city": "Stephenville",
+  "city": "STEPHENVILLE",
   "state": "TX",
   "country": "USA",
   "bah": 1086,
   "poe": true,
   "yr": null,
-  "gibill": 479,
+  "gibill": 512,
   "cross": 228529,
   "grad_rate": 38.9,
   "grad_rate_rank": 1288,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 628,
   "indicator_group": 1,
   "salary": null,
-  "zip": "76402",
+  "zip": "76401",
   "ope": "00363100"
 }

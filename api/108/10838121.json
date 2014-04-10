@@ -1,7 +1,7 @@
 {
   "facility_code": "10838121",
   "institution": "HANSCOM A.F.B. FIRE DEPARTMENT",
-  "city": "Hanscom",
+  "city": "HANSCOM",
   "state": "MA",
   "country": "USA",
   "bah": 2373,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1731",
+  "zip": "01731",
   "ope": null
 }

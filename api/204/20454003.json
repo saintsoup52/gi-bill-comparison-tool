@@ -1,10 +1,10 @@
 {
   "facility_code": "20454003",
   "institution": "ASPEN COMMUNICATIONS - PRESCOTT",
-  "city": "Prescott",
+  "city": "PRESCOTT",
   "state": "AZ",
   "country": "USA",
-  "bah": 1284,
+  "bah": 1461,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "86301",
+  "zip": "86004",
   "ope": null
 }

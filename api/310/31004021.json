@@ -1,13 +1,13 @@
 {
   "facility_code": "31004021",
   "institution": "BABSON COLLEGE",
-  "city": "Wellesley",
+  "city": "WELLESLEY",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 34,
+  "gibill": 33,
   "cross": 164580,
   "grad_rate": 90.1,
   "grad_rate_rank": 62,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1549,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2457",
+  "zip": "02457",
   "ope": "00212100"
 }

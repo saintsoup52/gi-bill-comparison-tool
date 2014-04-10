@@ -1,13 +1,13 @@
 {
   "facility_code": "25757207",
   "institution": "BRANFORD HALL CAREER INSTITUTE - WINDSOR",
-  "city": "Windsor",
+  "city": "WINDSOR",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": null,
-  "gibill": 6,
+  "gibill": 10,
   "cross": 430096,
   "grad_rate": 54.0,
   "grad_rate_rank": 1838,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 766,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6095",
+  "zip": "06095",
   "ope": "02074001"
 }

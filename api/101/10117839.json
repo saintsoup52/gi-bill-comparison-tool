@@ -1,7 +1,7 @@
 {
   "facility_code": "10117839",
   "institution": "WARREN POLICE DEPARTMENT",
-  "city": "Warren",
+  "city": "WARREN",
   "state": "RI",
   "country": "USA",
   "bah": 1716,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2885",
+  "zip": "02885",
   "ope": null
 }

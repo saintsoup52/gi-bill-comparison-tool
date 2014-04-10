@@ -1,7 +1,7 @@
 {
   "facility_code": "10021719",
   "institution": "KENNEBEC COUNTY SHERIFFS DEPARTMENT",
-  "city": "Augusta",
+  "city": "AUGUSTA",
   "state": "ME",
   "country": "USA",
   "bah": 1026,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4330",
+  "zip": "04330",
   "ope": null
 }

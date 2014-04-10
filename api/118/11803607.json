@@ -1,13 +1,13 @@
 {
   "facility_code": "11803607",
   "institution": "UNIVERSITY OF CONNECTICUT MBA STAMFORD CAMPUS",
-  "city": "Stamford",
+  "city": "STAMFORD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 5,
+  "gibill": 3,
   "cross": 436836,
   "grad_rate": 53.4,
   "grad_rate_rank": 797,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1360,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6901",
+  "zip": "06901",
   "ope": "00141702"
 }

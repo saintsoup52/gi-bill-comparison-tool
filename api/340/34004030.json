@@ -1,13 +1,13 @@
 {
   "facility_code": "34004030",
-  "institution": "SOMERSET CHRISTIAN COLLEGE",
+  "institution": "PILLAR COLLEGE",
   "city": "Newark",
   "state": "NJ",
   "country": "USA",
   "bah": 2256,
   "poe": true,
   "yr": true,
-  "gibill": 20,
+  "gibill": 19,
   "cross": 440794,
   "grad_rate": 50.0,
   "grad_rate_rank": 893,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 476,
   "indicator_group": 1,
   "salary": null,
-  "zip": "7102",
+  "zip": "07102",
   "ope": "03666300"
 }

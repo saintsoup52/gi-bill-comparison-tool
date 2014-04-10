@@ -1,13 +1,13 @@
 {
   "facility_code": "21852135",
   "institution": "UNIVERSITY OF PHOENIX - CLEVELAND",
-  "city": "Independence",
+  "city": "BEACHWOOD",
   "state": "OH",
   "country": "USA",
   "bah": 1251,
   "poe": true,
   "yr": true,
-  "gibill": 59,
+  "gibill": 48,
   "cross": 439297,
   "grad_rate": 8.0,
   "grad_rate_rank": 1846,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 637,
   "indicator_group": 1,
   "salary": null,
-  "zip": "44131",
+  "zip": "44122",
   "ope": "42098831"
 }

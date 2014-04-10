@@ -1,7 +1,7 @@
 {
   "facility_code": "32900507",
   "institution": "HARTFORD HOSPITAL SCHOOL OF ALLIED HEALTH",
-  "city": "Hartford",
+  "city": "HARTFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6106",
+  "zip": "06106",
   "ope": null
 }

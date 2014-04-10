@@ -1,13 +1,13 @@
 {
   "facility_code": "14002263",
   "institution": "INSTITUTO TECNOLOGICO PR GUAYAMA",
-  "city": "Guayama",
+  "city": "GUAYAMA",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 9,
+  "gibill": 11,
   "cross": 242556,
   "grad_rate": 48.1,
   "grad_rate_rank": 289,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 2,
   "salary": null,
-  "zip": "784",
+  "zip": "00784",
   "ope": "02241904"
 }

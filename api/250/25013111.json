@@ -1,13 +1,13 @@
 {
   "facility_code": "25013111",
   "institution": "SOUTHEASTERN TRADE SCHOOLS INC DBA SOUTHEASTERN BEAUTY/BARBER SCHOOLS",
-  "city": "Columbus",
+  "city": "COLUMBUS",
   "state": "GA",
   "country": "USA",
   "bah": 1305,
   "poe": null,
   "yr": null,
-  "gibill": 12,
+  "gibill": 8,
   "cross": 406060,
   "grad_rate": 78.3,
   "grad_rate_rank": 741,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 704,
   "indicator_group": 5,
   "salary": null,
-  "zip": "31917",
+  "zip": "31907",
   "ope": "02354500"
 }

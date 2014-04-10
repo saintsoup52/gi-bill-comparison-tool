@@ -1,7 +1,7 @@
 {
   "facility_code": "10518630",
   "institution": "MILLBURN POLICE DEPARTMENT",
-  "city": "Millburn",
+  "city": "MILLBURN",
   "state": "NJ",
   "country": "USA",
   "bah": 2256,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "7041",
+  "zip": "07041",
   "ope": null
 }

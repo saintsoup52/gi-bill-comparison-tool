@@ -1,7 +1,7 @@
 {
   "facility_code": "18064121",
   "institution": "CAREER CENTER",
-  "city": "Worcester",
+  "city": "WORCESTER",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1605",
+  "zip": "01605",
   "ope": null
 }

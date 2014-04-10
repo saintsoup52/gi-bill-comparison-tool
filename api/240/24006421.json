@@ -1,13 +1,13 @@
 {
   "facility_code": "24006421",
-  "institution": "LE CORDON BLEU OF CULINARY ARTS",
-  "city": "Cambridge",
+  "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS-BOSTON",
+  "city": "CAMBRIDGE",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": null,
+  "gibill": 40,
   "cross": 452054,
   "grad_rate": 48.1,
   "grad_rate_rank": 411,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 651,
   "indicator_group": 3,
   "salary": null,
-  "zip": "2142",
+  "zip": "02142",
   "ope": "02616704"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31802710",
-  "institution": "FLORIDA INSTITUTE OF TECHNOLOGY-SPACEPORT GRAD CTR - PATRICK AFB",
-  "city": "Rockledge",
+  "institution": "FLORIDA INSTITUTE OF TECHNOLOGY - SPACEPORT GRADUATE CENTER",
+  "city": "TITUSVILLE",
   "state": "FL",
   "country": "USA",
   "bah": 1281,
   "poe": true,
   "yr": true,
-  "gibill": 5,
+  "gibill": 3,
   "cross": 133881,
   "grad_rate": 54.6,
   "grad_rate_rank": 750,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 120,
   "indicator_group": 1,
   "salary": null,
-  "zip": "32955",
+  "zip": "32780",
   "ope": "00146900"
 }

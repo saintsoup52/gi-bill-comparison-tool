@@ -1,13 +1,13 @@
 {
   "facility_code": "25054421",
   "institution": "SPA TECH INSTITUTE",
-  "city": "Ipswich",
+  "city": "IPSWICH",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
   "poe": null,
   "yr": null,
-  "gibill": 6,
+  "gibill": 5,
   "cross": 445638,
   "grad_rate": 83.3,
   "grad_rate_rank": 504,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 452,
   "indicator_group": 5,
   "salary": null,
-  "zip": "1938",
+  "zip": "01938",
   "ope": "02104402"
 }

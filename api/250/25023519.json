@@ -1,7 +1,7 @@
 {
   "facility_code": "25023519",
   "institution": "BOATWISE",
-  "city": "Kittery Point",
+  "city": "KITTERY POINT",
   "state": "ME",
   "country": "USA",
   "bah": 1413,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3905",
+  "zip": "03905",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31000921",
   "institution": "COLLEGE OF THE HOLY CROSS",
-  "city": "Worcester",
+  "city": "WORCESTER",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": null,
   "yr": true,
-  "gibill": 14,
+  "gibill": 16,
   "cross": 166124,
   "grad_rate": 92.9,
   "grad_rate_rank": 34,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1868,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1610",
+  "zip": "01610",
   "ope": "00214100"
 }

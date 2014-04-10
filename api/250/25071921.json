@@ -1,13 +1,13 @@
 {
   "facility_code": "25071921",
   "institution": "PORTER AND CHESTER INSTITUTE WESTBOROUGH",
-  "city": "Westborough",
+  "city": "WESTBOROUGH",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": null,
   "yr": null,
-  "gibill": 42,
+  "gibill": 39,
   "cross": 130174,
   "grad_rate": 70.0,
   "grad_rate_rank": 1175,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1812,
   "indicator_group": 5,
   "salary": null,
-  "zip": "1581",
+  "zip": "01581",
   "ope": "01077900"
 }

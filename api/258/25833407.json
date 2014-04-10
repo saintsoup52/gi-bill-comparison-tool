@@ -1,13 +1,13 @@
 {
   "facility_code": "25833407",
   "institution": "A.B. TRAINING CENTER LLC",
-  "city": "Waterford",
+  "city": "WATERFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": true,
   "yr": null,
-  "gibill": 6,
+  "gibill": 10,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6385",
+  "zip": "06385",
   "ope": "04193400"
 }

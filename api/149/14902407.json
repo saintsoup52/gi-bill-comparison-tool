@@ -1,13 +1,13 @@
 {
   "facility_code": "14902407",
   "institution": "QUINEBAUG VALLEY COMMUNITY COLLEGE",
-  "city": "Danielson",
+  "city": "DANIELSON",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": true,
   "yr": null,
-  "gibill": 94,
+  "gibill": 121,
   "cross": 130217,
   "grad_rate": 15.1,
   "grad_rate_rank": 1107,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 23,
   "indicator_group": 2,
   "salary": null,
-  "zip": "6239",
+  "zip": "06239",
   "ope": "01053000"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31015721",
   "institution": "WHEELOCK COLLEGE",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": true,
-  "gibill": 6,
+  "gibill": 8,
   "cross": 168290,
   "grad_rate": 58.1,
   "grad_rate_rank": 624,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2215",
+  "zip": "02215",
   "ope": "00222800"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25132143",
   "institution": "ACTION CAREER TRAINING III",
-  "city": "Killeen",
+  "city": "KILLEEN",
   "state": "TX",
   "country": "USA",
   "bah": 1026,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 31,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "76540",
+  "zip": "76541",
   "ope": null
 }

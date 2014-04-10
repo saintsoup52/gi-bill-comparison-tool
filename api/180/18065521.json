@@ -1,13 +1,13 @@
 {
   "facility_code": "18065521",
   "institution": "MINUTEMAN TECHNICAL INSTITUTE",
-  "city": "Lexington",
+  "city": "LEXINGTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": 2,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2421",
+  "zip": "02421",
   "ope": "03106300"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "28060121",
   "institution": "EMPIRE BEAUTY SCHOOL MALDEN",
-  "city": "Malden",
+  "city": "MALDEN",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 2,
+  "gibill": 1,
   "cross": 407179,
   "grad_rate": 66.7,
   "grad_rate_rank": 1331,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2148",
+  "zip": "02148",
   "ope": "01054211"
 }

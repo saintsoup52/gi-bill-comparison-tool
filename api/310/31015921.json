@@ -1,13 +1,13 @@
 {
   "facility_code": "31015921",
   "institution": "BAY PATH COLLEGE",
-  "city": "Longmeadow",
+  "city": "LONGMEADOW",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": null,
-  "gibill": 30,
+  "gibill": 42,
   "cross": 164632,
   "grad_rate": 50.0,
   "grad_rate_rank": 893,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 806,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1106",
+  "zip": "01106",
   "ope": "00212200"
 }

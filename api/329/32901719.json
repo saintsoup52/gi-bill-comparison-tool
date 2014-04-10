@@ -1,13 +1,13 @@
 {
   "facility_code": "32901719",
   "institution": "MAINE MEDICAL CENTER SCHOOL OF SURGICAL TECH",
-  "city": "South Portland",
+  "city": "SOUTH PORTLAND",
   "state": "ME",
   "country": "USA",
   "bah": 1488,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": 3,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4106",
+  "zip": "04106",
   "ope": "02111000"
 }

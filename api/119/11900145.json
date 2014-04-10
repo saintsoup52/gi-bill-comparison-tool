@@ -6,8 +6,8 @@
   "country": "USA",
   "bah": 1365,
   "poe": true,
-  "yr": null,
-  "gibill": 81,
+  "yr": true,
+  "gibill": 94,
   "cross": 231165,
   "grad_rate": 50.2,
   "grad_rate_rank": 261,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1114,
   "indicator_group": 2,
   "salary": null,
-  "zip": "5061",
+  "zip": "05061",
   "ope": "00369800"
 }

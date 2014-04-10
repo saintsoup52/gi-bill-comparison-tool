@@ -1,13 +1,13 @@
 {
   "facility_code": "28032307",
   "institution": "PAUL MITCHELL THE SCHOOL - DANBURY",
-  "city": "Danbury",
+  "city": "DANBURY",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 2,
   "cross": 128540,
   "grad_rate": 55.0,
   "grad_rate_rank": 1801,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 730,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6810",
+  "zip": "06810",
   "ope": "00887300"
 }

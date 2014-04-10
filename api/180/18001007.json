@@ -1,13 +1,13 @@
 {
   "facility_code": "18001007",
   "institution": "ELI WHITNEY TECHNICAL HIGH SCHOOL",
-  "city": "Hamden",
+  "city": "HAMDEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": 441317,
   "grad_rate": 82.0,
   "grad_rate_rank": 554,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6514",
+  "zip": "06514",
   "ope": "00730000"
 }

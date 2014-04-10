@@ -1,7 +1,7 @@
 {
   "facility_code": "32630021",
   "institution": "BETH ISRAEL HOSPITAL DEPARTMENT OF ANESTHESIA",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2215",
+  "zip": "02215",
   "ope": null
 }

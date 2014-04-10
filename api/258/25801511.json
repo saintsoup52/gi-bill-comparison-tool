@@ -1,13 +1,13 @@
 {
   "facility_code": "25801511",
   "institution": "PACIFIC INSTITUTE OF TECHNOLOGY",
-  "city": "Mcdonough",
+  "city": "Morrow",
   "state": "GA",
   "country": "USA",
   "bah": 1164,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 8,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "30253",
+  "zip": "30260",
   "ope": null
 }

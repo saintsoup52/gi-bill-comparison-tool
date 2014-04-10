@@ -1,13 +1,13 @@
 {
   "facility_code": "15068519",
   "institution": "PISCATAQUIS VALLEY ADULT EDUCATION",
-  "city": "Dover Foxcroft",
+  "city": "DOVER FOXCROFT",
   "state": "ME",
   "country": "USA",
   "bah": 1056,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4426",
+  "zip": "04426",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "32902239",
   "institution": "RHODE ISLAND HOSPITAL",
-  "city": "Providence",
+  "city": "PROVIDENCE",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": 217439,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2903",
+  "zip": "02903",
   "ope": "01155100"
 }

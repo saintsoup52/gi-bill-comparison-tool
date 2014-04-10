@@ -1,13 +1,13 @@
 {
   "facility_code": "13000145",
   "institution": "CASTLETON STATE COLLEGE",
-  "city": "Castleton",
+  "city": "CASTLETON",
   "state": "VT",
   "country": "USA",
   "bah": 1299,
   "poe": true,
   "yr": true,
-  "gibill": 78,
+  "gibill": 90,
   "cross": 230834,
   "grad_rate": 40.0,
   "grad_rate_rank": 1248,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1303,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5735",
+  "zip": "05735",
   "ope": "00368300"
 }

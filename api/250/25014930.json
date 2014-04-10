@@ -1,13 +1,13 @@
 {
   "facility_code": "25014930",
   "institution": "MEDICAL CONSULTANTS INSTRUCTIONAL TRAINING CENTER",
-  "city": "Millville",
+  "city": "MILLVILLE",
   "state": "NJ",
   "country": "USA",
   "bah": 1392,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": 2,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "8332",
+  "zip": "08332",
   "ope": null
 }

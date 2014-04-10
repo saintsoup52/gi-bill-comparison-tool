@@ -1,7 +1,7 @@
 {
   "facility_code": "10833421",
   "institution": "SOUTH HADLEY FIRE DEPARTMENT DISTRICT 1",
-  "city": "South Hadley",
+  "city": "SOUTH HADLEY",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1075",
+  "zip": "01075",
   "ope": null
 }

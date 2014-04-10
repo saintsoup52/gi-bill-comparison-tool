@@ -1,13 +1,13 @@
 {
   "facility_code": "31806807",
   "institution": "YALE UNIVERSITY SCHOOL OF NURSING",
-  "city": "New Haven",
+  "city": "NEW HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": true,
-  "gibill": 3,
+  "gibill": 5,
   "cross": 130794,
   "grad_rate": 96.2,
   "grad_rate_rank": 11,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 499,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6536",
+  "zip": "06536",
   "ope": "00142600"
 }

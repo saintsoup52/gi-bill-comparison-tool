@@ -1,13 +1,13 @@
 {
   "facility_code": "31000607",
   "institution": "WESLEYAN UNIVERSITY",
-  "city": "Middletown",
+  "city": "MIDDLETOWN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": true,
-  "gibill": 15,
+  "gibill": 9,
   "cross": 130697,
   "grad_rate": 90.6,
   "grad_rate_rank": 56,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 843,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6459",
+  "zip": "06459",
   "ope": "00142400"
 }

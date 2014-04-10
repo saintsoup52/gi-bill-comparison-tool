@@ -1,13 +1,13 @@
 {
   "facility_code": "21807321",
   "institution": "UNIVERSITY OF PHOENIX - GREATER BOSTON CAMPUS",
-  "city": "Braintree",
+  "city": "Quincy",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 181,
+  "gibill": 165,
   "cross": 440420,
   "grad_rate": 4.7,
   "grad_rate_rank": 1858,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 637,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2184",
+  "zip": "02169",
   "ope": "32098874"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "15050021",
   "institution": "WORCESTER POLICE ACADEMY",
-  "city": "Worcester",
+  "city": "WORCESTER",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 6,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1608",
+  "zip": "01608",
   "ope": null
 }

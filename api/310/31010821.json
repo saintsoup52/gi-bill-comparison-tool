@@ -1,13 +1,13 @@
 {
   "facility_code": "31010821",
   "institution": "BERKLEE COLLEGE OF MUSIC",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 177,
+  "gibill": 212,
   "cross": 164748,
   "grad_rate": 59.4,
   "grad_rate_rank": 580,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1964,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2215",
+  "zip": "02215",
   "ope": "00212600"
 }

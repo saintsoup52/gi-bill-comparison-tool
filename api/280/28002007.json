@@ -1,13 +1,13 @@
 {
   "facility_code": "28002007",
   "institution": "MARINELLO SCHOOL OF BEAUTY - EAST HARTFORD",
-  "city": "East Hartford",
+  "city": "EAST HARTFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": 4,
   "cross": 128957,
   "grad_rate": 36.1,
   "grad_rate_rank": 2150,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 875,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6108",
+  "zip": "06108",
   "ope": "01041700"
 }

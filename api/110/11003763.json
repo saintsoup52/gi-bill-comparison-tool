@@ -1,13 +1,13 @@
 {
   "facility_code": "11003763",
   "institution": "UNIVERSIDAD DE PUERTO RICO-BAYAMON (UNIVERSITY OF PUERTO RICO-BAYAM?N)",
-  "city": "Bayamon",
+  "city": "BAYAMON",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 75,
+  "gibill": 73,
   "cross": 243133,
   "grad_rate": 45.7,
   "grad_rate_rank": 1042,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 24,
   "indicator_group": 1,
   "salary": null,
-  "zip": "959",
+  "zip": "00959",
   "ope": "00394208"
 }

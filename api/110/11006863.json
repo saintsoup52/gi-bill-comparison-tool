@@ -1,13 +1,13 @@
 {
   "facility_code": "11006863",
   "institution": "ESCUELA ARTES PLASTICAS PR",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 11,
+  "gibill": 10,
   "cross": 241951,
   "grad_rate": 27.3,
   "grad_rate_rank": 1588,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 1,
   "salary": null,
-  "zip": "902",
+  "zip": "00902",
   "ope": "02569400"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "24051921",
   "institution": "FINE MORTUARY COLLEGE",
-  "city": "Norwood",
+  "city": "NORWOOD",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 6,
   "cross": 436599,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1096,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2062",
+  "zip": "02062",
   "ope": "03316400"
 }

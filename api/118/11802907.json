@@ -1,13 +1,13 @@
 {
   "facility_code": "11802907",
   "institution": "UNIVERSITY OF CONNECTICUT TORRINGTON CAMPUS",
-  "city": "Torrington",
+  "city": "TORRINGTON",
   "state": "CT",
   "country": "USA",
   "bah": 1461,
   "poe": true,
   "yr": null,
-  "gibill": 11,
+  "gibill": 7,
   "cross": 129020,
   "grad_rate": 82.1,
   "grad_rate_rank": 127,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1360,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6790",
+  "zip": "06790",
   "ope": "00141700"
 }

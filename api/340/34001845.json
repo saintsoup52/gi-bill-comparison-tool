@@ -1,13 +1,13 @@
 {
   "facility_code": "34001845",
   "institution": "STERLING COLLEGE",
-  "city": "Crafftsbury",
+  "city": "Crafftsbury Common",
   "state": "VT",
   "country": "USA",
   "bah": 1137,
   "poe": true,
   "yr": true,
-  "gibill": 9,
+  "gibill": 6,
   "cross": 231095,
   "grad_rate": 57.1,
   "grad_rate_rank": 666,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 445,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5827",
+  "zip": "05827",
   "ope": "02143500"
 }

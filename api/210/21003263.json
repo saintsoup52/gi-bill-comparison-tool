@@ -1,13 +1,13 @@
 {
   "facility_code": "21003263",
   "institution": "NATIONAL UNIVERSITY COLLEGE RIO GRANDE",
-  "city": "Rio Grande",
+  "city": "RIO GRANDE",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 39,
+  "gibill": 49,
   "cross": 444042,
   "grad_rate": 22.3,
   "grad_rate_rank": 871,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 99,
   "indicator_group": 2,
   "salary": null,
-  "zip": "745",
+  "zip": "00745",
   "ope": "02260602"
 }

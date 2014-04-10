@@ -1,13 +1,13 @@
 {
   "facility_code": "31920121",
   "institution": "ASSUMPTION COLLEGE",
-  "city": "Worcester",
+  "city": "WORCESTER",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": true,
   "yr": true,
-  "gibill": 29,
+  "gibill": 28,
   "cross": 164562,
   "grad_rate": 74.7,
   "grad_rate_rank": 235,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1615",
+  "zip": "01615",
   "ope": "00211800"
 }

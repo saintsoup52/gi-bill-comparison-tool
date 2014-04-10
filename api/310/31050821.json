@@ -1,13 +1,13 @@
 {
   "facility_code": "31050821",
   "institution": "MGH INSTITUTE OF HEALTH PROFESSIONS",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 11,
+  "gibill": 13,
   "cross": 166869,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1711,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2129",
+  "zip": "02129",
   "ope": "02231600"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25013833",
   "institution": "GRACE COLLEGE OF BARBERING",
-  "city": "Ayden",
+  "city": "GREENVILLE",
   "state": "NC",
   "country": "USA",
   "bah": 1077,
   "poe": true,
   "yr": null,
-  "gibill": null,
+  "gibill": 2,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "28513",
+  "zip": "27834",
   "ope": "04214600"
 }

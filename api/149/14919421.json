@@ -1,13 +1,13 @@
 {
   "facility_code": "14919421",
   "institution": "GREENFIELD COMMUNITY COLLEGE",
-  "city": "Greenfield",
+  "city": "GREENFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1332,
   "poe": true,
   "yr": null,
-  "gibill": 116,
+  "gibill": 107,
   "cross": 165981,
   "grad_rate": 24.6,
   "grad_rate_rank": 802,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 214,
   "indicator_group": 2,
   "salary": null,
-  "zip": "1301",
+  "zip": "01301",
   "ope": "00216900"
 }

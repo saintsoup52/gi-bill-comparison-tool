@@ -1,13 +1,13 @@
 {
   "facility_code": "25757307",
   "institution": "BRANFORD HALL CAREER INSTITUTE - SOUTHINGTON",
-  "city": "Southington",
+  "city": "SOUTHINGTON",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": null,
-  "gibill": 15,
+  "gibill": 23,
   "cross": 434520,
   "grad_rate": 60.6,
   "grad_rate_rank": 1615,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 766,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6489",
+  "zip": "06489",
   "ope": "02074002"
 }

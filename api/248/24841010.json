@@ -1,13 +1,13 @@
 {
   "facility_code": "24841010",
   "institution": "DADE MEDICAL COLLEGE-MIAMI",
-  "city": "Miami",
+  "city": "MIAMI",
   "state": "FL",
   "country": "USA",
   "bah": 1950,
   "poe": true,
   "yr": null,
-  "gibill": 4,
+  "gibill": 5,
   "cross": 444574,
   "grad_rate": 71.0,
   "grad_rate_rank": 86,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1152,
   "indicator_group": 2,
   "salary": null,
-  "zip": "33125",
+  "zip": "33126",
   "ope": "03832300"
 }

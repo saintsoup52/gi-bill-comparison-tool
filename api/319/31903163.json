@@ -1,13 +1,13 @@
 {
   "facility_code": "31903163",
   "institution": "UNIVERSIDAD DEL ESTE",
-  "city": "Carolina",
+  "city": "CAROLINA",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 477,
+  "gibill": 468,
   "cross": 243346,
   "grad_rate": 22.5,
   "grad_rate_rank": 1678,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 5,
   "indicator_group": 1,
   "salary": null,
-  "zip": "984",
+  "zip": "00984",
   "ope": "00394100"
 }

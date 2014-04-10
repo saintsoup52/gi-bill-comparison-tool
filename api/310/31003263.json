@@ -1,13 +1,13 @@
 {
   "facility_code": "31003263",
   "institution": "ESCUELA MEDICINA SAN JUAN BAUTISTA",
-  "city": "Caguas",
+  "city": "CAGUAS",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 3,
+  "gibill": 4,
   "cross": 430670,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 105,
   "indicator_group": 4,
   "salary": null,
-  "zip": "725",
+  "zip": "00725",
   "ope": "03177300"
 }

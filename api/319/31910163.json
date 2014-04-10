@@ -1,13 +1,13 @@
 {
   "facility_code": "31910163",
   "institution": "INTERAMERICAN UNIVERSITY METRO CAMPUS  (UNIVERSIDAD INTERAMERICANA - METRO)",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 472,
+  "gibill": 489,
   "cross": 242653,
   "grad_rate": 27.8,
   "grad_rate_rank": 1579,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 76,
   "indicator_group": 1,
   "salary": null,
-  "zip": "919",
+  "zip": "00919",
   "ope": "00393800"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "15071521",
   "institution": "DEDHAM HIGH SCHOOL",
-  "city": "Dedham",
+  "city": "DEDHAM",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2026",
+  "zip": "02026",
   "ope": null
 }

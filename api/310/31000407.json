@@ -1,13 +1,13 @@
 {
   "facility_code": "31000407",
   "institution": "TRINITY COLLEGE",
-  "city": "Hartford",
+  "city": "HARTFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": true,
-  "gibill": 11,
+  "gibill": 13,
   "cross": 130590,
   "grad_rate": 83.1,
   "grad_rate_rank": 118,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1455,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6106",
+  "zip": "06106",
   "ope": "00141400"
 }

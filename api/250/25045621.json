@@ -1,13 +1,13 @@
 {
   "facility_code": "25045621",
   "institution": "EMPIRE BEAUTY SCHOOL FRAMINGHAM",
-  "city": "Framingham",
+  "city": "FRAMINGHAM",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": 443678,
   "grad_rate": 75.0,
   "grad_rate_rank": 905,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 978,
   "indicator_group": 5,
   "salary": null,
-  "zip": "1702",
+  "zip": "01702",
   "ope": "02079400"
 }

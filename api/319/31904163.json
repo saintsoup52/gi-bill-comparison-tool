@@ -1,13 +1,13 @@
 {
   "facility_code": "31904163",
   "institution": "UNIVERSIDAD METROPOLITANA",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 327,
+  "gibill": 340,
   "cross": 241739,
   "grad_rate": 19.6,
   "grad_rate_rank": 1719,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 9,
   "indicator_group": 1,
   "salary": null,
-  "zip": "928",
+  "zip": "00928",
   "ope": "02587500"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "11922121",
   "institution": "WORCESTER STATE UNIVERSITY",
-  "city": "Worcester",
+  "city": "WORCESTER",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": true,
   "yr": null,
-  "gibill": 174,
+  "gibill": 162,
   "cross": 168430,
   "grad_rate": 51.0,
   "grad_rate_rank": 867,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 356,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1602",
+  "zip": "01602",
   "ope": "00219000"
 }

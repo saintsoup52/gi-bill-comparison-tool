@@ -1,13 +1,13 @@
 {
   "facility_code": "25051721",
   "institution": "MARINELLO SCHOOL OF BEAUTY- NORTHAMPTON MA",
-  "city": "Northampton",
+  "city": "NORTHAMPTON",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": true,
   "yr": null,
-  "gibill": 3,
+  "gibill": 2,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1060",
+  "zip": "01060",
   "ope": null
 }

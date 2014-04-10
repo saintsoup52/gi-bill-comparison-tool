@@ -1,13 +1,13 @@
 {
   "facility_code": "25112364",
-  "institution": "HONU WATERSPORT LLC DBA HAWAII SCUBA UNIVERSITY",
-  "city": "Honolulu",
+  "institution": "HAWAII SCUBA UNIV - 435 ULRICH WAY BLDG 2110 SCHOFIELD BARRACKS HONOLULU96857",
+  "city": "HONOLULU",
   "state": "HI",
   "country": "USA",
   "bah": 2256,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 16,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "96853",
+  "zip": "96820",
   "ope": null
 }

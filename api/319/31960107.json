@@ -1,13 +1,13 @@
 {
   "facility_code": "31960107",
   "institution": "ALBERTUS MAGNUS COLLEGE",
-  "city": "New Haven",
+  "city": "NEW HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": true,
-  "gibill": 56,
+  "gibill": 50,
   "cross": 128498,
   "grad_rate": 42.8,
   "grad_rate_rank": 1149,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1807,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6511",
+  "zip": "06511",
   "ope": "00137400"
 }

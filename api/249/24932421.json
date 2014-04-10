@@ -1,13 +1,13 @@
 {
   "facility_code": "24932421",
   "institution": "SANFORD BROWN COLLEGE",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 6,
+  "gibill": 4,
   "cross": 166276,
   "grad_rate": 38.7,
   "grad_rate_rank": 433,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1071,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2116",
+  "zip": "02116",
   "ope": "00748100"
 }

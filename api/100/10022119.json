@@ -1,7 +1,7 @@
 {
   "facility_code": "10022119",
   "institution": "ELLSWORTH POLICE DEPARTMENT",
-  "city": "Ellsworth",
+  "city": "ELLSWORTH",
   "state": "ME",
   "country": "USA",
   "bah": 1170,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4605",
+  "zip": "04605",
   "ope": null
 }

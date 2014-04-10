@@ -1,13 +1,13 @@
 {
   "facility_code": "25009537",
   "institution": "NATIONAL PERSONAL TRAINING INSTITUTE INC",
-  "city": "Portland",
+  "city": "BEAVERTON",
   "state": "OR",
   "country": "USA",
   "bah": 1449,
   "poe": true,
   "yr": null,
-  "gibill": 8,
+  "gibill": 16,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "97219",
+  "zip": "97005",
   "ope": null
 }

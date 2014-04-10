@@ -1,13 +1,13 @@
 {
   "facility_code": "25066713",
   "institution": "UNIVERSAL TECHNICAL INSTITUTE",
-  "city": "Glendale Heights",
+  "city": "Lisle",
   "state": "IL",
   "country": "USA",
   "bah": 1740,
   "poe": true,
   "yr": null,
-  "gibill": 243,
+  "gibill": 285,
   "cross": 366191,
   "grad_rate": 54.5,
   "grad_rate_rank": 1818,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1991,
   "indicator_group": 5,
   "salary": null,
-  "zip": "60139",
+  "zip": "60532",
   "ope": "00822101"
 }

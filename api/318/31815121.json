@@ -1,13 +1,13 @@
 {
   "facility_code": "31815121",
   "institution": "SUFFOLK UNIVERSITY",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 169,
+  "gibill": 160,
   "cross": 168005,
   "grad_rate": 55.9,
   "grad_rate_rank": 705,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2114",
+  "zip": "02114",
   "ope": "00221800"
 }

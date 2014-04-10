@@ -1,13 +1,13 @@
 {
   "facility_code": "31013645",
   "institution": "UNION INSTITUTE & UNIVERSITY",
-  "city": "Berlin",
+  "city": "BERLIN",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": true,
   "yr": true,
-  "gibill": 10,
+  "gibill": 12,
   "cross": 206279,
   "grad_rate": 26.7,
   "grad_rate_rank": 1603,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 819,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5602",
+  "zip": "05602",
   "ope": "01092300"
 }

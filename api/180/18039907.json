@@ -1,13 +1,13 @@
 {
   "facility_code": "18039907",
   "institution": "PLATT TECHNICAL HIGH SCHOOL",
-  "city": "Milford",
+  "city": "MILFORD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 417275,
   "grad_rate": 89.5,
   "grad_rate_rank": 290,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6461",
+  "zip": "06461",
   "ope": "02565000"
 }

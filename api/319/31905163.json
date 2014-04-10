@@ -1,13 +1,13 @@
 {
   "facility_code": "31905163",
-  "institution": "INTERAMERICAN UNIVERSITY SAN GERMAN (UNIVERSIDAD INTERAMERICANA-SAN GERM?N)",
-  "city": "San German",
+  "institution": "INTERAMERICAN UNIVERSITY SAN GERMAN (UNIVERSIDAD INTERAMERICANA-SAN GERMAN)",
+  "city": "SAN GERMAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 235,
+  "gibill": 249,
   "cross": 242617,
   "grad_rate": 38.7,
   "grad_rate_rank": 1294,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 76,
   "indicator_group": 1,
   "salary": null,
-  "zip": "683",
+  "zip": "00683",
   "ope": "00393803"
 }

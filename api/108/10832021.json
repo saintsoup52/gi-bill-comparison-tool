@@ -1,7 +1,7 @@
 {
   "facility_code": "10832021",
-  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD",
-  "city": "Camp Edwards",
+  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD CAMP EDWARDS",
+  "city": "CAMP EDWARDS",
   "state": "MA",
   "country": "USA",
   "bah": 1671,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2542",
+  "zip": "02542",
   "ope": null
 }

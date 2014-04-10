@@ -1,7 +1,7 @@
 {
   "facility_code": "15058421",
   "institution": "SPRINGFIELD FIRE DEPARTMENT'S TRAINING CENTER",
-  "city": "Springfield",
+  "city": "SPRINGFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1105",
+  "zip": "01105",
   "ope": null
 }

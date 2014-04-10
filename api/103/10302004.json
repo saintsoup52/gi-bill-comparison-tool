@@ -1,10 +1,10 @@
 {
   "facility_code": "10302004",
-  "institution": "RAVEN SERVICES",
-  "city": "Little Rock",
+  "institution": "CITY OF PARAGOULD POLICE DEPARTMENT",
+  "city": "PARAGOULD",
   "state": "AR",
   "country": "USA",
-  "bah": 1098,
+  "bah": 1005,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "72204",
+  "zip": "72450",
   "ope": null
 }

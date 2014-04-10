@@ -1,7 +1,7 @@
 {
   "facility_code": "32050221",
   "institution": "MASSACHUSETTS GENERAL HOSPITAL",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2114",
+  "zip": "02114",
   "ope": "02137200"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31002221",
   "institution": "SIMMONS COLLEGE",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 36,
+  "gibill": 49,
   "cross": 167783,
   "grad_rate": 66.5,
   "grad_rate_rank": 392,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2115",
+  "zip": "02115",
   "ope": "00220800"
 }

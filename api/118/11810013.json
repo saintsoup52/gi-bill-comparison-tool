@@ -1,13 +1,13 @@
 {
   "facility_code": "11810013",
-  "institution": "SOUTHERN ILLINOIS UNIV CARBONDALE NTC GREAT LAKES",
-  "city": "Great Lakes",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY UCLC",
+  "city": " GRAYS LAKE",
   "state": "IL",
   "country": "USA",
   "bah": 1482,
   "poe": true,
   "yr": true,
-  "gibill": 25,
+  "gibill": 19,
   "cross": 149222,
   "grad_rate": 47.6,
   "grad_rate_rank": 980,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 816,
   "indicator_group": 1,
   "salary": null,
-  "zip": "60088",
+  "zip": "60030",
   "ope": "00175800"
 }

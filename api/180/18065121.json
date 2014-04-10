@@ -1,13 +1,13 @@
 {
   "facility_code": "18065121",
   "institution": "SPRINGFIELD POLICE DEPARTMENT ACADEMY & TRAINING DIVISION",
-  "city": "Springfield",
+  "city": "SPRINGFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1104",
+  "zip": "01104",
   "ope": null
 }

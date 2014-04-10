@@ -1,13 +1,13 @@
 {
   "facility_code": "25002363",
   "institution": "LICEO DE ARTE Y DISENOS",
-  "city": "Caguas",
+  "city": "CAGUAS",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 3,
   "cross": 376330,
   "grad_rate": 77.9,
   "grad_rate_rank": 760,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "725",
+  "zip": "00725",
   "ope": "03025900"
 }

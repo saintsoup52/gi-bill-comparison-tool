@@ -1,13 +1,13 @@
 {
   "facility_code": "14930421",
   "institution": "QUINCY COLLEGE",
-  "city": "Quincy",
+  "city": "QUINCY",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 242,
+  "gibill": 282,
   "cross": 167525,
   "grad_rate": 22.1,
   "grad_rate_rank": 875,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 498,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2169",
+  "zip": "02169",
   "ope": "00220500"
 }

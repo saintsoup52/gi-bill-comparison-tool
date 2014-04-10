@@ -1,13 +1,13 @@
 {
   "facility_code": "31903121",
   "institution": "STONEHILL COLLEGE",
-  "city": "Easton",
+  "city": "EASTON",
   "state": "MA",
   "country": "USA",
   "bah": 1749,
   "poe": true,
   "yr": true,
-  "gibill": 17,
+  "gibill": 21,
   "cross": 167996,
   "grad_rate": 80.5,
   "grad_rate_rank": 151,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1868,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2357",
+  "zip": "02357",
   "ope": "00221700"
 }

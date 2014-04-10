@@ -1,13 +1,13 @@
 {
   "facility_code": "31917121",
   "institution": "MONTSERRAT COLLEGE OF ART",
-  "city": "Beverly",
+  "city": "BEVERLY",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 1,
+  "gibill": 6,
   "cross": 166911,
   "grad_rate": 53.8,
   "grad_rate_rank": 779,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 966,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1915",
+  "zip": "01915",
   "ope": "02063000"
 }

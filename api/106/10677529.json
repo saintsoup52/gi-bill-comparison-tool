@@ -1,7 +1,7 @@
 {
   "facility_code": "10677529",
   "institution": "SALEM FIRE DEPARTMENT",
-  "city": "Salem",
+  "city": "SALEM",
   "state": "NH",
   "country": "USA",
   "bah": 1413,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3079",
+  "zip": "03079",
   "ope": null
 }

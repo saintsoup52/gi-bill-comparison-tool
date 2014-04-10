@@ -1,13 +1,13 @@
 {
   "facility_code": "11802207",
   "institution": "UNIVERSITY OF CONNECTICUT WATERBURY CAMPUS",
-  "city": "Waterbury",
+  "city": "WATERBURY",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 28,
+  "gibill": 23,
   "cross": 436818,
   "grad_rate": 51.2,
   "grad_rate_rank": 859,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1360,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6710",
+  "zip": "06710",
   "ope": "00141704"
 }

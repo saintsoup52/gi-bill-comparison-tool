@@ -1,13 +1,13 @@
 {
   "facility_code": "28051739",
   "institution": "EMPIRE BEAUTY SCHOOL WARWICK RI",
-  "city": "Warwick",
+  "city": "WARWICK",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": true,
   "yr": null,
-  "gibill": 5,
+  "gibill": 2,
   "cross": 217581,
   "grad_rate": 62.7,
   "grad_rate_rank": 1529,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2886",
+  "zip": "02886",
   "ope": "01260608"
 }

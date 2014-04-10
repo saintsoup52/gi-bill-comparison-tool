@@ -1,13 +1,13 @@
 {
   "facility_code": "11003663",
   "institution": "UNIVERSIDAD DE PUERTO RICO EN PONCE (UNIVERSITY OF PUERTO RICO- PONCE)",
-  "city": "Ponce",
+  "city": "PONCE",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 63,
+  "gibill": 75,
   "cross": 243212,
   "grad_rate": 45.5,
   "grad_rate_rank": 1050,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 17,
   "indicator_group": 1,
   "salary": null,
-  "zip": "732",
+  "zip": "00732",
   "ope": "00394210"
 }

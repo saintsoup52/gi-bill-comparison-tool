@@ -1,7 +1,7 @@
 {
   "facility_code": "10829721",
   "institution": "WALPOLE POLICE DEPARTMENT",
-  "city": "Walpole",
+  "city": "WALPOLE",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2081",
+  "zip": "02081",
   "ope": null
 }

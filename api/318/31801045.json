@@ -1,13 +1,13 @@
 {
   "facility_code": "31801045",
   "institution": "NORWICH UNIVERSITY",
-  "city": "Northfield",
+  "city": "NORTHFIELD",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": true,
   "yr": true,
-  "gibill": 588,
+  "gibill": 633,
   "cross": 230995,
   "grad_rate": 53.5,
   "grad_rate_rank": 794,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1658,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5663",
+  "zip": "05663",
   "ope": "00369200"
 }

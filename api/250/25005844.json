@@ -1,13 +1,13 @@
 {
   "facility_code": "25005844",
   "institution": "SAGE TECHNICAL SERVICES - SLC",
-  "city": "North Salt Lake",
+  "city": "SANDY",
   "state": "UT",
   "country": "USA",
   "bah": 1233,
   "poe": null,
   "yr": null,
-  "gibill": 7,
+  "gibill": 17,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "84054",
+  "zip": "84070",
   "ope": null
 }

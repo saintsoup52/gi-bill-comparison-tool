@@ -1,13 +1,13 @@
 {
   "facility_code": "31002321",
   "institution": "SMITH COLLEGE",
-  "city": "Northampton",
+  "city": "NORTHAMPTON",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": true,
-  "gibill": 20,
+  "gibill": 17,
   "cross": 167835,
   "grad_rate": 85.4,
   "grad_rate_rank": 96,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1229,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1063",
+  "zip": "01063",
   "ope": "00220900"
 }

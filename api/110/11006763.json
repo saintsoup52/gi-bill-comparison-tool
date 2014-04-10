@@ -1,13 +1,13 @@
 {
   "facility_code": "11006763",
   "institution": "CENTRO DE ESTUDIOS AVANZADOS PUERTO RICO Y EL CARIBE",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 2,
   "cross": 241793,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 4,
   "salary": null,
-  "zip": "902",
+  "zip": "00902",
   "ope": "02166000"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "15015529",
   "institution": "ALTON CENTRAL SCHOOL",
-  "city": "Alton",
+  "city": "ALTON",
   "state": "NH",
   "country": "USA",
   "bah": 1446,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3809",
+  "zip": "03809",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "11000339",
   "institution": "UNIVERSITY OF RHODE ISLAND",
-  "city": "Kingston",
+  "city": "KINGSTON",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": true,
   "yr": null,
-  "gibill": 360,
+  "gibill": 379,
   "cross": 217484,
   "grad_rate": 62.9,
   "grad_rate_rank": 490,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1303,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2881",
+  "zip": "02881",
   "ope": "00341400"
 }

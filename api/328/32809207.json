@@ -1,13 +1,13 @@
 {
   "facility_code": "32809207",
   "institution": "ST VINCENT'S COLLEGE",
-  "city": "Bridgeport",
+  "city": "BRIDGEPORT",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": 8,
+  "gibill": 17,
   "cross": 130448,
   "grad_rate": 60.0,
   "grad_rate_rank": 170,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1106,
   "indicator_group": 2,
   "salary": null,
-  "zip": "6606",
+  "zip": "06606",
   "ope": "00619100"
 }

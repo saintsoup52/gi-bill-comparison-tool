@@ -1,13 +1,13 @@
 {
   "facility_code": "31001221",
   "institution": "EMERSON COLLEGE",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 50,
+  "gibill": 47,
   "cross": 165662,
   "grad_rate": 81.7,
   "grad_rate_rank": 133,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1574,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2116",
+  "zip": "02116",
   "ope": "00214600"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31001063",
   "institution": "UNIVERSIDAD CARLOS ALBIZU",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 13,
+  "gibill": 20,
   "cross": 241331,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 256,
   "indicator_group": 1,
   "salary": null,
-  "zip": "902",
+  "zip": "00902",
   "ope": "01072400"
 }

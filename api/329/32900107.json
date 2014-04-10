@@ -1,13 +1,13 @@
 {
   "facility_code": "32900107",
   "institution": "HARTFORD HOSPITAL RESIDENCY",
-  "city": "Hartford",
+  "city": "HARTFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6102",
+  "zip": "06102",
   "ope": null
 }

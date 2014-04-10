@@ -1,13 +1,13 @@
 {
   "facility_code": "11812121",
   "institution": "FRAMINGHAM STATE UNIVERSITY",
-  "city": "Framingham",
+  "city": "FRAMINGHAM",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 137,
+  "gibill": 167,
   "cross": 165866,
   "grad_rate": 51.5,
   "grad_rate_rank": 848,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 314,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1701",
+  "zip": "01701",
   "ope": "00218500"
 }

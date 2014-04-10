@@ -1,13 +1,13 @@
 {
   "facility_code": "21834007",
   "institution": "UNIVERSITY OF PHOENIX-FAIRFIELD COUNTY CAMPUS",
-  "city": "Norwalk",
+  "city": "NORWALK",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": true,
-  "gibill": 14,
+  "gibill": 6,
   "cross": 448822,
   "grad_rate": 14.6,
   "grad_rate_rank": 1784,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 637,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6854",
+  "zip": "06854",
   "ope": "32098811"
 }

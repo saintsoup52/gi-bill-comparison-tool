@@ -1,13 +1,13 @@
 {
   "facility_code": "31912121",
   "institution": "NICHOLS COLLEGE",
-  "city": "Dudley",
+  "city": "DUDLEY",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": null,
   "yr": true,
-  "gibill": 27,
+  "gibill": 29,
   "cross": 167260,
   "grad_rate": 49.8,
   "grad_rate_rank": 910,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1179,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1571",
+  "zip": "01571",
   "ope": "00219700"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10827121",
   "institution": "WELLESLEY FIRE DEPARTMENT",
-  "city": "Wellesley",
+  "city": "WELLESLEY",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2481",
+  "zip": "02481",
   "ope": null
 }

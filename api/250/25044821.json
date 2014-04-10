@@ -1,13 +1,13 @@
 {
   "facility_code": "25044821",
   "institution": "BAY STATE SCHOOL OF TECHNOLOGY INC.",
-  "city": "Canton",
+  "city": "CANTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 18,
+  "gibill": 32,
   "cross": 164678,
   "grad_rate": 72.9,
   "grad_rate_rank": 1037,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 907,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2021",
+  "zip": "02021",
   "ope": "02338200"
 }

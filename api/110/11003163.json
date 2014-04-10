@@ -1,13 +1,13 @@
 {
   "facility_code": "11003163",
   "institution": "UNIVERSIDAD DE PUERTO RICO EN HUMACAO (UNIVERSITY OF PUERTO RICO-HUMACAO)",
-  "city": "Humacao",
+  "city": "HUMACAO",
   "state": "PR",
   "country": "USA",
   "bah": 1900,
   "poe": true,
   "yr": null,
-  "gibill": 49,
+  "gibill": 58,
   "cross": 243179,
   "grad_rate": 43.4,
   "grad_rate_rank": 1123,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 16,
   "indicator_group": 1,
   "salary": null,
-  "zip": "792",
+  "zip": "00792",
   "ope": "00394205"
 }

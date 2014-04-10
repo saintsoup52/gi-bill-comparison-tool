@@ -1,7 +1,7 @@
 {
   "facility_code": "10030519",
   "institution": "UNIVERSITY OF MAINE PUBLIC SAFETY",
-  "city": "Orono",
+  "city": "ORONO",
   "state": "ME",
   "country": "USA",
   "bah": 1203,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4469",
+  "zip": "04469",
   "ope": null
 }

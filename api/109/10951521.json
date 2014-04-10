@@ -1,7 +1,7 @@
 {
   "facility_code": "10951521",
   "institution": "FALMOUTH POLICE DEPARTMENT",
-  "city": "Falmouth",
+  "city": "FALMOUTH",
   "state": "MA",
   "country": "USA",
   "bah": 1671,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2540",
+  "zip": "02540",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25102939",
   "institution": "PAUL MITCHELL THE SCHOOL",
-  "city": "Cranston",
+  "city": "CRANSTON",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": null,
   "yr": null,
-  "gibill": 3,
+  "gibill": 9,
   "cross": 443641,
   "grad_rate": 61.3,
   "grad_rate_rank": 1583,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1887,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2920",
+  "zip": "02920",
   "ope": "02531802"
 }

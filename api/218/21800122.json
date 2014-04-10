@@ -1,13 +1,13 @@
 {
   "facility_code": "21800122",
   "institution": "UNIVERSITY OF PHOENIX METRO DETROIT CAMPUS",
-  "city": "Southfield",
+  "city": "DETROIT",
   "state": "MI",
   "country": "USA",
   "bah": 1521,
   "poe": true,
   "yr": true,
-  "gibill": 138,
+  "gibill": 110,
   "cross": 421018,
   "grad_rate": 10.5,
   "grad_rate_rank": 1824,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 637,
   "indicator_group": 1,
   "salary": null,
-  "zip": "48076",
+  "zip": "48226",
   "ope": "02098870"
 }

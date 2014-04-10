@@ -1,13 +1,13 @@
 {
   "facility_code": "18520232",
-  "institution": "SOUTHERN WESTCHESTER BOCES",
-  "city": "Elmsford",
+  "institution": "SOUTHERN WESTCHESTER BOCES CENTER FOR ADULT & COMMUNITY SERVICES",
+  "city": "Harrison",
   "state": "NY",
   "country": "USA",
   "bah": 2490,
   "poe": null,
   "yr": null,
-  "gibill": 3,
+  "gibill": 11,
   "cross": 193122,
   "grad_rate": 69.5,
   "grad_rate_rank": 1211,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "10523",
+  "zip": "10528",
   "ope": "01064100"
 }

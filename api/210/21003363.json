@@ -1,13 +1,13 @@
 {
   "facility_code": "21003363",
   "institution": "NATIONAL UNIVERSITY COLLEGE -PONCE",
-  "city": "Coto Laurel",
+  "city": "COTO LAUREL",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 28,
+  "gibill": 40,
   "cross": 458469,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 17,
   "indicator_group": 1,
   "salary": null,
-  "zip": "780",
+  "zip": "00780",
   "ope": "02260603"
 }

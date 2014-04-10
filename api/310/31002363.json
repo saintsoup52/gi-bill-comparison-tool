@@ -1,13 +1,13 @@
 {
   "facility_code": "31002363",
   "institution": "INTERAMERICAN UNIVERSITY LAW SCHOOL(UNIVERSIDAD INTERAMERICANA-DERECHO/LEYES)",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 23,
+  "gibill": 22,
   "cross": 242723,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 45,
   "indicator_group": 4,
   "salary": null,
-  "zip": "936",
+  "zip": "00936",
   "ope": "00393801"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31810132",
   "institution": "NYACK COLLEGE AND ALLIANCE THEOLOGICAL",
-  "city": "New York",
+  "city": "NEW YORK",
   "state": "NY",
   "country": "USA",
   "bah": 3258,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 50,
   "cross": 194161,
   "grad_rate": 45.7,
   "grad_rate_rank": 1042,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1007,
   "indicator_group": 1,
   "salary": null,
-  "zip": "10013",
+  "zip": "10004",
   "ope": "00279000"
 }

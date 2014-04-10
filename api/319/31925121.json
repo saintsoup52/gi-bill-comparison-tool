@@ -1,13 +1,13 @@
 {
   "facility_code": "31925121",
   "institution": "BOSTON BAPTIST COLLEGE",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": true,
-  "gibill": 3,
+  "gibill": 6,
   "cross": 164614,
   "grad_rate": 25.0,
   "grad_rate_rank": 1629,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1299,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2136",
+  "zip": "02136",
   "ope": "03248300"
 }

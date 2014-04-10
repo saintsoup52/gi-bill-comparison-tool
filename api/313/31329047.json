@@ -1,13 +1,13 @@
 {
   "facility_code": "31329047",
   "institution": "FULLER THEOLOGICAL SEMINARY",
-  "city": "Seattle",
+  "city": "SEATTLE",
   "state": "WA",
   "country": "USA",
   "bah": 1671,
   "poe": true,
   "yr": null,
-  "gibill": 7,
+  "gibill": 9,
   "cross": 114840,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 4,
   "salary": null,
-  "zip": "98109",
+  "zip": "98133",
   "ope": "00120000"
 }

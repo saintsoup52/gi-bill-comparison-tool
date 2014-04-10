@@ -1,13 +1,13 @@
 {
   "facility_code": "24005121",
   "institution": "ITT TECHNICAL INSTITUTE NORWOOD",
-  "city": "Norwood",
+  "city": "NORWOOD",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 104,
+  "gibill": 103,
   "cross": 366580,
   "grad_rate": 34.7,
   "grad_rate_rank": 510,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1247,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2062",
+  "zip": "02062",
   "ope": "10732903"
 }

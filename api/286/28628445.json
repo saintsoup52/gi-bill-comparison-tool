@@ -1,13 +1,13 @@
 {
   "facility_code": "28628445",
-  "institution": "VERMONT COLLEGE OF COSMETOLOGY DBA THE SALON PROFESSIONAL ACADEMY",
+  "institution": "VERMONT COLLEGE OF COSMETOLOGY",
   "city": "Williston",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": 250832,
   "grad_rate": 83.6,
   "grad_rate_rank": 491,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1488,
   "indicator_group": 5,
   "salary": null,
-  "zip": "5495",
+  "zip": "05495",
   "ope": "00857500"
 }

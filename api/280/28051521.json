@@ -1,13 +1,13 @@
 {
   "facility_code": "28051521",
-  "institution": "LABARON HAIRDRESSING ACADEMY",
-  "city": "New Bedford",
+  "institution": "LABARON HAIRDRESSING ACADEMIES",
+  "city": "NEW BEDFORD",
   "state": "MA",
   "country": "USA",
   "bah": 1716,
   "poe": null,
   "yr": null,
-  "gibill": 2,
+  "gibill": 1,
   "cross": 166328,
   "grad_rate": 82.9,
   "grad_rate_rank": 527,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 259,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2740",
+  "zip": "02740",
   "ope": "02325700"
 }

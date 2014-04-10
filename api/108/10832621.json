@@ -1,7 +1,7 @@
 {
   "facility_code": "10832621",
-  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD",
-  "city": "Milford",
+  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD MILFORD",
+  "city": "MILFORD",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1757",
+  "zip": "01757",
   "ope": null
 }

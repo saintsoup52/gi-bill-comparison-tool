@@ -1,7 +1,7 @@
 {
   "facility_code": "10023519",
   "institution": "LIVERMORE FALLS POLICE DEPARTMENT",
-  "city": "Livermore Falls",
+  "city": "LIVERMORE FALLS",
   "state": "ME",
   "country": "USA",
   "bah": 1026,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4254",
+  "zip": "04254",
   "ope": null
 }

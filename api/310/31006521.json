@@ -1,13 +1,13 @@
 {
   "facility_code": "31006521",
   "institution": "MASSACHUSETTS COLLEGE OF PHARMACY &  HEALTH SCIENCES",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 55,
+  "gibill": 54,
   "cross": 166656,
   "grad_rate": 66.4,
   "grad_rate_rank": 397,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1435,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2115",
+  "zip": "02115",
   "ope": "00216500"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "30305047",
   "institution": "RENTON POLICE DEPARTMENT",
-  "city": "Renton",
+  "city": "RENTON",
   "state": "WA",
   "country": "USA",
   "bah": 1671,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "98055",
+  "zip": "98057",
   "ope": null
 }

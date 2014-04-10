@@ -1,13 +1,13 @@
 {
   "facility_code": "11003463",
   "institution": "UNIVERSIDAD DE PUERTO RICO EN CAYEY (UNIVERSITY OF PUERTO RICO-CAYEY)",
-  "city": "Cayey",
+  "city": "CAYEY",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 88,
+  "gibill": 96,
   "cross": 243151,
   "grad_rate": 39.8,
   "grad_rate_rank": 1261,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 17,
   "indicator_group": 1,
   "salary": null,
-  "zip": "736",
+  "zip": "00736",
   "ope": "00394204"
 }

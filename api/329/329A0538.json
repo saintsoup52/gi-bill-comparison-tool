@@ -1,7 +1,7 @@
 {
   "facility_code": "329A0538",
-  "institution": "THE READING HOSPITAL AND MEDICAL CENTER  SCHOOL OF CLINICAL LABORATORY SCIENCE",
-  "city": "Reading",
+  "institution": "READING HOSPITAL",
+  "city": "West Reading",
   "state": "PA",
   "country": "USA",
   "bah": 1038,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1783,
   "indicator_group": 5,
   "salary": null,
-  "zip": "19612",
+  "zip": "19611",
   "ope": "00656500"
 }

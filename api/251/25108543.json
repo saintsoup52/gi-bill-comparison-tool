@@ -1,13 +1,13 @@
 {
   "facility_code": "25108543",
   "institution": "MILESTONE TECHNICAL INSTITUTE",
-  "city": "Houston",
+  "city": "HOUSTON",
   "state": "TX",
   "country": "USA",
   "bah": 1623,
   "poe": null,
   "yr": null,
-  "gibill": 6,
+  "gibill": 23,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "77074",
+  "zip": "77036",
   "ope": null
 }

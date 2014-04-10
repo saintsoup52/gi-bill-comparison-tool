@@ -1,7 +1,7 @@
 {
   "facility_code": "31802021",
   "institution": "ARNOLD ARBORETUM OF HARVARD UNIVERSITY",
-  "city": "Cambridge",
+  "city": "CAMBRIDGE",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 223,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2138",
+  "zip": "02138",
   "ope": "00215500"
 }

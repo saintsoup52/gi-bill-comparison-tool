@@ -1,13 +1,13 @@
 {
   "facility_code": "31050621",
   "institution": "CAMBRIDGE COLLEGE/INSTITUTE OF OPEN EDUCATION",
-  "city": "Cambridge",
+  "city": "CAMBRIDGE",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 33,
+  "gibill": 40,
   "cross": 165167,
   "grad_rate": 0.0,
   "grad_rate_rank": 1873,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1004,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2138",
+  "zip": "02138",
   "ope": "02182900"
 }

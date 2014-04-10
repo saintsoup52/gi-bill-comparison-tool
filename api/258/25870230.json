@@ -1,13 +1,13 @@
 {
   "facility_code": "25870230",
   "institution": "CORTIVA INSTITUTE",
-  "city": "Hoboken",
+  "city": "HOBOKEN",
   "state": "NJ",
   "country": "USA",
   "bah": 2256,
   "poe": true,
   "yr": null,
-  "gibill": null,
+  "gibill": 2,
   "cross": 460640,
   "grad_rate": 68.8,
   "grad_rate_rank": 1241,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 611,
   "indicator_group": 5,
   "salary": null,
-  "zip": "7030",
+  "zip": "07030",
   "ope": "03766301"
 }

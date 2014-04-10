@@ -1,7 +1,7 @@
 {
   "facility_code": "10839321",
   "institution": "MIDDLEBORO FIRE DEPARTMENT",
-  "city": "Middleboro",
+  "city": "MIDDLEBORO",
   "state": "MA",
   "country": "USA",
   "bah": 1749,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2346",
+  "zip": "02346",
   "ope": null
 }

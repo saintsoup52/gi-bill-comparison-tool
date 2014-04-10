@@ -1,13 +1,13 @@
 {
   "facility_code": "28054907",
   "institution": "MARINELLO SCHOOL OF BEAUTY - NIANTIC",
-  "city": "Niantic",
+  "city": "NIANTIC",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": true,
   "yr": null,
-  "gibill": 2,
+  "gibill": 7,
   "cross": 445993,
   "grad_rate": 58.8,
   "grad_rate_rank": 1674,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 645,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6357",
+  "zip": "06357",
   "ope": "03927300"
 }

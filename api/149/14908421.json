@@ -1,13 +1,13 @@
 {
   "facility_code": "14908421",
   "institution": "MASSACHUSETTS BAY COMMUNITY COLLEGE",
-  "city": "Wellesley Hills",
+  "city": "WELLESLEY HILLS",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 152,
+  "gibill": 167,
   "cross": 166647,
   "grad_rate": 14.2,
   "grad_rate_rank": 1145,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 179,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2481",
+  "zip": "02481",
   "ope": "00217100"
 }

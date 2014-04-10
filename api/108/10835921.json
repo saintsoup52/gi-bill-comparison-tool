@@ -1,7 +1,7 @@
 {
   "facility_code": "10835921",
-  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD",
-  "city": "Chicopee",
+  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD CHICOPEE",
+  "city": "CHICOPEE",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1022",
+  "zip": "01022",
   "ope": null
 }

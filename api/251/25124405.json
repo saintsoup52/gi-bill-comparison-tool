@@ -1,13 +1,13 @@
 {
   "facility_code": "25124405",
   "institution": "CAPSTONE COLLEGE",
-  "city": "Van Nuys",
+  "city": "PASADENA",
   "state": "CA",
   "country": "USA",
   "bah": 2292,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 3,
   "cross": 377759,
   "grad_rate": 70.7,
   "grad_rate_rank": 1142,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 403,
   "indicator_group": 5,
   "salary": null,
-  "zip": "91402",
+  "zip": "91103",
   "ope": "03019900"
 }

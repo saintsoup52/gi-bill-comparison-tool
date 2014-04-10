@@ -1,13 +1,13 @@
 {
   "facility_code": "25025363",
   "institution": "INSTITUTO DE BANCA Y COMERCIO CAGUAS",
-  "city": "Caguas",
+  "city": "CAGUAS",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 14,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "726",
+  "zip": "00726",
   "ope": "02166428"
 }

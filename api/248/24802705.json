@@ -1,13 +1,13 @@
 {
   "facility_code": "24802705",
-  "institution": "SAN JOAQUIN VALLEY COLLEGE (RANCHO CUCAMONGA)",
-  "city": "Rancho Cucamonga",
+  "institution": "SAN JOAQUIN VALLEY COLLEGE (ONTARIO)",
+  "city": "ONTARIO",
   "state": "CA",
   "country": "USA",
-  "bah": 1389,
+  "bah": 2292,
   "poe": true,
   "yr": null,
-  "gibill": 39,
+  "gibill": 41,
   "cross": 442444,
   "grad_rate": 69.9,
   "grad_rate_rank": 93,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1120,
   "indicator_group": 2,
   "salary": null,
-  "zip": "91730",
+  "zip": "91764",
   "ope": "02120704"
 }

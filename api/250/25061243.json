@@ -1,13 +1,13 @@
 {
   "facility_code": "25061243",
   "institution": "INTERNATIONAL SCHOOLS DALLAS",
-  "city": "Dallas",
+  "city": "DALLAS",
   "state": "TX",
   "country": "USA",
   "bah": 1611,
   "poe": true,
   "yr": null,
-  "gibill": 3,
+  "gibill": 4,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "75217",
+  "zip": "75241",
   "ope": null
 }

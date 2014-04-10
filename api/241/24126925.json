@@ -1,13 +1,13 @@
 {
   "facility_code": "24126925",
   "institution": "COURT REPORTING INSTITUTE OF ST. LOUIS",
-  "city": "Clayton",
+  "city": "KANSAS CITY",
   "state": "MO",
   "country": "USA",
-  "bah": 1332,
+  "bah": 1158,
   "poe": true,
   "yr": true,
-  "gibill": null,
+  "gibill": 4,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "63105",
+  "zip": "64117",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "32919521",
   "institution": "SIGNATURE HEALTHCARE BROCKTON HOSPITAL SCHOOL OF NURSING",
-  "city": "Brockton",
+  "city": "BROCKTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 2,
+  "gibill": 4,
   "cross": 165060,
   "grad_rate": 33.3,
   "grad_rate_rank": 2177,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1991,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2302",
+  "zip": "02302",
   "ope": "00632200"
 }

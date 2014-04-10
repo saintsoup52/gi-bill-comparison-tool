@@ -1,7 +1,7 @@
 {
   "facility_code": "15060621",
   "institution": "LYNNFIELD HIGH SCHOOL",
-  "city": "Lynnfield",
+  "city": "LYNNFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1940",
+  "zip": "01940",
   "ope": null
 }

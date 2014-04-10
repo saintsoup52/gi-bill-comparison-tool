@@ -1,13 +1,13 @@
 {
   "facility_code": "25538005",
   "institution": "WESTECH COLLEGE",
-  "city": "Ontario",
+  "city": "FONTANA",
   "state": "CA",
   "country": "USA",
-  "bah": 2292,
+  "bah": 1389,
   "poe": null,
   "yr": null,
-  "gibill": 18,
+  "gibill": 22,
   "cross": 382276,
   "grad_rate": 84.0,
   "grad_rate_rank": 473,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1069,
   "indicator_group": 5,
   "salary": null,
-  "zip": "91764",
+  "zip": "92335",
   "ope": "03062300"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31000121",
   "institution": "AMERICAN INTERNATIONAL COLLEGE",
-  "city": "Springfield",
+  "city": "SPRINGFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": true,
-  "gibill": 57,
+  "gibill": 63,
   "cross": 164447,
   "grad_rate": 39.4,
   "grad_rate_rank": 1269,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1223,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1109",
+  "zip": "01109",
   "ope": "00211400"
 }

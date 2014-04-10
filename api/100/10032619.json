@@ -1,7 +1,7 @@
 {
   "facility_code": "10032619",
   "institution": "DEXTER POLICE DEPARTMENT",
-  "city": "Dexter",
+  "city": "DEXTER",
   "state": "ME",
   "country": "USA",
   "bah": 1203,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4930",
+  "zip": "04930",
   "ope": null
 }

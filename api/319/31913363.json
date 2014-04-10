@@ -1,13 +1,13 @@
 {
   "facility_code": "31913363",
   "institution": "UNIVERSIDAD PENTECOSTAL MIZPA",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 4,
   "cross": 441690,
   "grad_rate": 33.3,
   "grad_rate_rank": 1432,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 1,
   "salary": null,
-  "zip": "928",
+  "zip": "00928",
   "ope": "03531300"
 }

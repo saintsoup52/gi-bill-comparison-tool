@@ -1,13 +1,13 @@
 {
   "facility_code": "34923421",
   "institution": "LABOURE COLLEGE",
-  "city": "Boston",
+  "city": "Milton",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 8,
   "cross": 165264,
   "grad_rate": 37.9,
   "grad_rate_rank": 448,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1381,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2124",
+  "zip": "02186",
   "ope": "00632400"
 }

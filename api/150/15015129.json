@@ -1,7 +1,7 @@
 {
   "facility_code": "15015129",
   "institution": "HOLLIS/BROOKLINE HIGH SCHOOL",
-  "city": "Hollis",
+  "city": "HOLLIS",
   "state": "NH",
   "country": "USA",
   "bah": 1539,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3049",
+  "zip": "03049",
   "ope": null
 }

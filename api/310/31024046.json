@@ -1,13 +1,13 @@
 {
   "facility_code": "31024046",
   "institution": "BAPTIST THEOLOGICAL SEMINARY AT RICHMOND",
-  "city": "Richmond",
+  "city": "HENRICO",
   "state": "VA",
   "country": "USA",
   "bah": 1299,
   "poe": null,
   "yr": null,
-  "gibill": 4,
+  "gibill": 3,
   "cross": 366793,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 4,
   "salary": null,
-  "zip": "23227",
+  "zip": "23228",
   "ope": "03116900"
 }

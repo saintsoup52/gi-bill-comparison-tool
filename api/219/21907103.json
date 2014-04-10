@@ -1,13 +1,13 @@
 {
   "facility_code": "21907103",
   "institution": "UNIVERSITY OF PHOENIX (ONLINE)",
-  "city": "Phoenix",
+  "city": "TEMPE",
   "state": "AZ",
   "country": "USA",
   "bah": 1461,
   "poe": true,
   "yr": true,
-  "gibill": 28261,
+  "gibill": 27168,
   "cross": 372213,
   "grad_rate": 19.0,
   "grad_rate_rank": 971,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1065,
   "indicator_group": 2,
   "salary": null,
-  "zip": "85034",
+  "zip": "85282",
   "ope": "12098850"
 }

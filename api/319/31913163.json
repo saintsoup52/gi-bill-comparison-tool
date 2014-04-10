@@ -1,13 +1,13 @@
 {
   "facility_code": "31913163",
   "institution": "EDP UNIVERSITY OF PR INC",
-  "city": "San Sebastian",
+  "city": "SAN SEBASTIAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 16,
+  "gibill": 15,
   "cross": 241836,
   "grad_rate": 22.9,
   "grad_rate_rank": 847,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 93,
   "indicator_group": 2,
   "salary": null,
-  "zip": "685",
+  "zip": "00685",
   "ope": "02165101"
 }

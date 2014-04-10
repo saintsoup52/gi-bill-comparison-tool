@@ -1,13 +1,13 @@
 {
   "facility_code": "11006965",
   "institution": "UNIVERSITY VIRGIN ISLANDS ST.THOMAS",
-  "city": "Charlotte Amalie",
+  "city": "CHARLOTTE AMALIE",
   "state": "VI",
   "country": "USA",
   "bah": 2556,
   "poe": null,
   "yr": null,
-  "gibill": 37,
+  "gibill": 45,
   "cross": 243665,
   "grad_rate": 32.3,
   "grad_rate_rank": 1465,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 105,
   "indicator_group": 1,
   "salary": null,
-  "zip": "802",
+  "zip": "00802",
   "ope": "00394600"
 }

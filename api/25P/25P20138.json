@@ -1,13 +1,13 @@
 {
   "facility_code": "25P20138",
   "institution": "NEW HORIZONS COMPUTER LEARNING CENTER OF READING",
-  "city": "Reading",
+  "city": "Wyomissing",
   "state": "PA",
   "country": "USA",
   "bah": 1038,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 2,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "19604",
+  "zip": "19610",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "14816121",
   "institution": "MASSASOIT COMMUNITY COLLEGE",
-  "city": "Brockton",
+  "city": "BROCKTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 371,
+  "gibill": 392,
   "cross": 166823,
   "grad_rate": 13.8,
   "grad_rate_rank": 1166,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 206,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2302",
+  "zip": "02302",
   "ope": "00217700"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25830707",
   "institution": "NORTH HAVEN ACADEMY/ PAUL MITCHELL PARTNER SCHOOL",
-  "city": "North Haven",
+  "city": "NORTH HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": 129349,
   "grad_rate": 73.3,
   "grad_rate_rank": 1015,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1834,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6473",
+  "zip": "06473",
   "ope": "02112700"
 }

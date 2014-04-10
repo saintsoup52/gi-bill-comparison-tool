@@ -1,7 +1,7 @@
 {
   "facility_code": "10826321",
   "institution": "SAUGUS FIRE DEPARTMENT",
-  "city": "Saugus",
+  "city": "SAUGUS",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1906",
+  "zip": "01906",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25080121",
   "institution": "LINCOLN TECHNICAL INSTITUTE BROCKTON",
-  "city": "Brockton",
+  "city": "BROCKTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 14,
+  "gibill": 17,
   "cross": 425889,
   "grad_rate": 51.6,
   "grad_rate_rank": 1909,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2301",
+  "zip": "02301",
   "ope": "03232302"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25102739",
   "institution": "LINCOLN TECHNICAL INSTITUTE",
-  "city": "Lincoln",
+  "city": "LINCOLN",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": true,
   "yr": null,
-  "gibill": 23,
+  "gibill": 21,
   "cross": 433101,
   "grad_rate": 70.4,
   "grad_rate_rank": 1156,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2865",
+  "zip": "02865",
   "ope": "03232300"
 }

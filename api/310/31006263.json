@@ -1,13 +1,13 @@
 {
   "facility_code": "31006263",
   "institution": "UNIVERSIDAD CENTRAL DE BAYAMON",
-  "city": "Bayamon",
+  "city": "BAYAMON",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 46,
+  "gibill": 42,
   "cross": 243568,
   "grad_rate": 55.6,
   "grad_rate_rank": 344,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 188,
   "indicator_group": 3,
   "salary": null,
-  "zip": "960",
+  "zip": "00960",
   "ope": "02163300"
 }

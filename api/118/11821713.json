@@ -1,13 +1,13 @@
 {
   "facility_code": "11821713",
-  "institution": "SOUTHERN ILLINOIS UNIVERSITY WED",
-  "city": "Great Lakes Ntc",
+  "institution": "SOUTHERN ILLINOIS UNIVERSITY- GREAT LAKES",
+  "city": "great lakes",
   "state": "IL",
   "country": "USA",
   "bah": 1482,
   "poe": true,
   "yr": true,
-  "gibill": 14,
+  "gibill": 11,
   "cross": 149222,
   "grad_rate": 47.6,
   "grad_rate_rank": 980,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 816,
   "indicator_group": 1,
   "salary": null,
-  "zip": "60088",
+  "zip": "60030",
   "ope": "00175800"
 }

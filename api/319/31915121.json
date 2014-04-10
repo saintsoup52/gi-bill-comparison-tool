@@ -1,13 +1,13 @@
 {
   "facility_code": "31915121",
   "institution": "NEW ENGLAND COLLEGE OF OPTOMETRY",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 167093,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2115",
+  "zip": "02115",
   "ope": "00216400"
 }

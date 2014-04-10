@@ -1,13 +1,13 @@
 {
   "facility_code": "25171205",
   "institution": "MARINELLO SCHOOLS OF BEAUTY (CHICO)",
-  "city": "Chico",
+  "city": "CHICO",
   "state": "CA",
   "country": "USA",
   "bah": 1551,
   "poe": true,
   "yr": null,
-  "gibill": 5,
+  "gibill": 6,
   "cross": 118921,
   "grad_rate": 49.0,
   "grad_rate_rank": 1971,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 598,
   "indicator_group": 5,
   "salary": null,
-  "zip": "95928",
+  "zip": "95926",
   "ope": "02338700"
 }

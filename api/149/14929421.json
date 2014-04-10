@@ -1,13 +1,13 @@
 {
   "facility_code": "14929421",
   "institution": "QUINSIGAMOND COMMUNITY COLLEGE",
-  "city": "Worcester",
+  "city": "WORCESTER",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": null,
   "yr": null,
-  "gibill": 296,
+  "gibill": 306,
   "cross": 167534,
   "grad_rate": 14.3,
   "grad_rate_rank": 1139,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 131,
   "indicator_group": 2,
   "salary": null,
-  "zip": "1606",
+  "zip": "01606",
   "ope": "00217500"
 }

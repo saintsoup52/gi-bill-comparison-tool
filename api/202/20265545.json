@@ -1,7 +1,7 @@
 {
   "facility_code": "20265545",
   "institution": "HAZELETT",
-  "city": "Colchestr",
+  "city": "COLCHESTR",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "5446",
+  "zip": "05446",
   "ope": null
 }

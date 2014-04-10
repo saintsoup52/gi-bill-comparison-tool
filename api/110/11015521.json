@@ -1,13 +1,13 @@
 {
   "facility_code": "11015521",
   "institution": "MASSACHUSETTS COLLEGE OF LIBERAL ARTS",
-  "city": "North Adams",
+  "city": "NORTH ADAMS",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": null,
-  "gibill": 41,
+  "gibill": 46,
   "cross": 167288,
   "grad_rate": 46.8,
   "grad_rate_rank": 1009,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 737,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1247",
+  "zip": "01247",
   "ope": "00218700"
 }

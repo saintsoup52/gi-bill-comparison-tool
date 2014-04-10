@@ -1,13 +1,13 @@
 {
   "facility_code": "34005821",
   "institution": "BAY STATE COLLEGE",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 52,
+  "gibill": 68,
   "cross": 164641,
   "grad_rate": 47.1,
   "grad_rate_rank": 304,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1113,
   "indicator_group": 2,
   "salary": null,
-  "zip": "2116",
+  "zip": "02116",
   "ope": "00396500"
 }

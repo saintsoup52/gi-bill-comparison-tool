@@ -1,13 +1,13 @@
 {
   "facility_code": "14001063",
   "institution": "COLEGIO UNIVERSITARIO DE SAN JUAN",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 37,
+  "gibill": 50,
   "cross": 241720,
   "grad_rate": 34.2,
   "grad_rate_rank": 521,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 2,
   "salary": null,
-  "zip": "936",
+  "zip": "00936",
   "ope": "01056700"
 }

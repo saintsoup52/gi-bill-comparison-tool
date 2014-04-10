@@ -1,7 +1,7 @@
 {
   "facility_code": "10830321",
   "institution": "FALL RIVER POLICE DEPARTMENT",
-  "city": "Fall River",
+  "city": "FALL RIVER",
   "state": "MA",
   "country": "USA",
   "bah": 1716,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2723",
+  "zip": "02723",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "17005129",
   "institution": "PORTSMOUTH SENIOR HIGH SCHOOL",
-  "city": "Portsmouth",
+  "city": "PORTSMOUTH",
   "state": "NH",
   "country": "USA",
   "bah": 1413,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3801",
+  "zip": "03801",
   "ope": null
 }

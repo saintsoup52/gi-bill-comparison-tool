@@ -1,7 +1,7 @@
 {
   "facility_code": "10840021",
   "institution": "UNIVERSITY OF MASSACHUSETTS AMHERST  PHYSICAL PLANT",
-  "city": "Amherst",
+  "city": "AMHERST",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1003",
+  "zip": "01003",
   "ope": null
 }

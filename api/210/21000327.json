@@ -1,13 +1,13 @@
 {
   "facility_code": "21000327",
   "institution": "UNIVERSITY OF PHOENIX - OMAHA",
-  "city": "Omaha",
+  "city": "OMAHA",
   "state": "NE",
   "country": "USA",
-  "bah": 1155,
+  "bah": 1158,
   "poe": true,
   "yr": true,
-  "gibill": 20,
+  "gibill": 14,
   "cross": 448521,
   "grad_rate": 4.2,
   "grad_rate_rank": 1862,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 637,
   "indicator_group": 1,
   "salary": null,
-  "zip": "68154",
+  "zip": "68514",
   "ope": "32098897"
 }

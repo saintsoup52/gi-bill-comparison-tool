@@ -1,7 +1,7 @@
 {
   "facility_code": "10820721",
   "institution": "NEWTON FIRE DEPARTMENT",
-  "city": "Newton",
+  "city": "NEWTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2459",
+  "zip": "02459",
   "ope": null
 }

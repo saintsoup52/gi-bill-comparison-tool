@@ -1,13 +1,13 @@
 {
   "facility_code": "11003863",
   "institution": "UNIVERSIDAD DE PUERTO RICO-AGUADILLA (UNIVERSITY OF PUERTO RICO-AGUADILLA)",
-  "city": "Aguadilla",
+  "city": "AGUADILLA",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 62,
+  "gibill": 67,
   "cross": 243106,
   "grad_rate": 30.0,
   "grad_rate_rank": 1533,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 17,
   "indicator_group": 1,
   "salary": null,
-  "zip": "604",
+  "zip": "00604",
   "ope": "00394206"
 }

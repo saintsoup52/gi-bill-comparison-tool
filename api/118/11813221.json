@@ -1,13 +1,13 @@
 {
   "facility_code": "11813221",
   "institution": "WESTFIELD STATE UNIVERSITY",
-  "city": "Westfield",
+  "city": "WESTFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": true,
   "yr": true,
-  "gibill": 257,
+  "gibill": 346,
   "cross": 168263,
   "grad_rate": 59.8,
   "grad_rate_rank": 571,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 624,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1086",
+  "zip": "01086",
   "ope": "00218900"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "21805346",
   "institution": "UNIVERSITY OF PHOENIX-RICHMOND",
-  "city": "Richmond",
+  "city": "GLEN ALLEN",
   "state": "VA",
   "country": "USA",
   "bah": 1299,
   "poe": true,
   "yr": true,
-  "gibill": 90,
+  "gibill": 103,
   "cross": 446756,
   "grad_rate": 3.9,
   "grad_rate_rank": 1864,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 637,
   "indicator_group": 1,
   "salary": null,
-  "zip": "23230",
+  "zip": "23060",
   "ope": "42098891"
 }

@@ -1,10 +1,10 @@
 {
   "facility_code": "10807142",
-  "institution": "TENNESSEE VALLEY AUTH DIV OF FOSSIL & HYDRO POWER - KNOXVILLE",
-  "city": "Knoxville",
+  "institution": "TENNESSEE VALLEY AUTH DIV OF FOSSIL & HYDRO POWER - CHATTANOOGA",
+  "city": "CHATTANOOGA",
   "state": "TN",
   "country": "USA",
-  "bah": 1074,
+  "bah": 1104,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "37902",
+  "zip": "37402",
   "ope": null
 }

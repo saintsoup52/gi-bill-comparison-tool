@@ -1,13 +1,13 @@
 {
   "facility_code": "15143307",
   "institution": "CONNECTICUT FIRE ACADEMY",
-  "city": "Windsor Locks",
+  "city": "WINDSOR LOCKS",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": 3,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6096",
+  "zip": "06096",
   "ope": null
 }

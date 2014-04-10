@@ -1,13 +1,13 @@
 {
   "facility_code": "31010305",
   "institution": "BERGIN UNIVERSITY OF CANINE STUDIES",
-  "city": "Santa Rosa",
+  "city": "ROHNERT PARK",
   "state": "CA",
   "country": "USA",
   "bah": 1983,
   "poe": true,
   "yr": null,
-  "gibill": 5,
+  "gibill": 6,
   "cross": 461643,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 757,
   "indicator_group": 2,
   "salary": null,
-  "zip": "95407",
+  "zip": "94928",
   "ope": "04176300"
 }

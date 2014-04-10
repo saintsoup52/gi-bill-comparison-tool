@@ -1,13 +1,13 @@
 {
   "facility_code": "25306547",
   "institution": "CRAWFORD NAUTICAL SCHOOL",
-  "city": "Seattle",
+  "city": "SEATTLE",
   "state": "WA",
   "country": "USA",
   "bah": 1671,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 4,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "98104",
+  "zip": "98107",
   "ope": null
 }

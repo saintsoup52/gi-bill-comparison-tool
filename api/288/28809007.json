@@ -1,13 +1,13 @@
 {
   "facility_code": "28809007",
   "institution": "LINCOLN TECHNICAL INSTITUTE - EAST WINDSOR",
-  "city": "East Windsor",
+  "city": "EAST WINDSOR",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": true,
   "yr": null,
-  "gibill": 72,
+  "gibill": 111,
   "cross": 129181,
   "grad_rate": 64.3,
   "grad_rate_rank": 1455,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1880,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6088",
+  "zip": "06088",
   "ope": "00730306"
 }

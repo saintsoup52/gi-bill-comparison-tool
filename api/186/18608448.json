@@ -1,13 +1,13 @@
 {
   "facility_code": "18608448",
   "institution": "BOONE COUNTY CAREER & TECHNICAL CENTER",
-  "city": "Danville",
+  "city": "Foster",
   "state": "WV",
   "country": "USA",
   "bah": 942,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": 4,
   "cross": 237224,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "25053",
+  "zip": "25081",
   "ope": "02244100"
 }

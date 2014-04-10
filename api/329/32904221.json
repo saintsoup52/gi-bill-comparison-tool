@@ -1,7 +1,7 @@
 {
   "facility_code": "32904221",
-  "institution": "NEW ENGLAND MEDICAL CENTER (AFFILIATE WITH TUFTS U",
-  "city": "Boston",
+  "institution": "TUFTS MEDICAL CENTER (AFFILIATE WITH TUFTS UNIVERSITY)",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 938,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2111",
+  "zip": "02111",
   "ope": "00221900"
 }

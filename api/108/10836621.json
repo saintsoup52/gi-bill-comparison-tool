@@ -1,7 +1,7 @@
 {
   "facility_code": "10836621",
   "institution": "EAST BRIDGEWATER POLICE DEPARTMENT",
-  "city": "East Bridgewater",
+  "city": "EAST BRIDGEWATER",
   "state": "MA",
   "country": "USA",
   "bah": 1749,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2333",
+  "zip": "02333",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31011121",
   "institution": "GORDON CONWELL THEOLOGICAL SEMINARY",
-  "city": "South Hamilton",
+  "city": "SOUTH HAMILTON",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
   "poe": true,
   "yr": true,
-  "gibill": 24,
+  "gibill": 27,
   "cross": 165945,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 54,
   "indicator_group": 4,
   "salary": null,
-  "zip": "1982",
+  "zip": "01982",
   "ope": "00974700"
 }

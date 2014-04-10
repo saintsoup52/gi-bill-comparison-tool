@@ -1,13 +1,13 @@
 {
   "facility_code": "25024123",
   "institution": "PCI ACADEMY",
-  "city": "New Hope",
+  "city": "PLYMOUTH",
   "state": "MN",
   "country": "USA",
   "bah": 1449,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 443979,
   "grad_rate": 80.0,
   "grad_rate_rank": 635,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1784,
   "indicator_group": 5,
   "salary": null,
-  "zip": "55428",
+  "zip": "55446",
   "ope": "02160901"
 }

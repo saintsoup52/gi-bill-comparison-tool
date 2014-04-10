@@ -1,13 +1,13 @@
 {
   "facility_code": "14805110",
-  "institution": "HILLSBOROUGH COMMUNITY COLLEGE-DALE MABRY",
-  "city": "Tampa",
+  "institution": "HILLSBOROUGH COMMUNITY COLLEGE-COLLABORATION STUDIO",
+  "city": "TAMPA",
   "state": "FL",
   "country": "USA",
   "bah": 1662,
   "poe": true,
   "yr": null,
-  "gibill": 756,
+  "gibill": 1395,
   "cross": 134495,
   "grad_rate": 28.3,
   "grad_rate_rank": 677,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 385,
   "indicator_group": 2,
   "salary": null,
-  "zip": "33630",
+  "zip": "33605",
   "ope": "00787000"
 }

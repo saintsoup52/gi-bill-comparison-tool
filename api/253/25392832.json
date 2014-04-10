@@ -1,13 +1,13 @@
 {
   "facility_code": "25392832",
   "institution": "BUFFALO CDL TRAINING INSTITUTE",
-  "city": "Buffalo",
+  "city": "BUFFALO",
   "state": "NY",
   "country": "USA",
   "bah": 1410,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": 20,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "14223",
+  "zip": "14216",
   "ope": null
 }

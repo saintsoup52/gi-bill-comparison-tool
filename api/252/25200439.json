@@ -1,13 +1,13 @@
 {
   "facility_code": "25200439",
   "institution": "911 PROGRAMS INC.",
-  "city": "Wakefield",
+  "city": "Warwick",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 3,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2879",
+  "zip": "02886",
   "ope": null
 }

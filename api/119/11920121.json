@@ -1,13 +1,13 @@
 {
   "facility_code": "11920121",
   "institution": "BRIDGEWATER STATE UNIVERSITY",
-  "city": "Bridgewater",
+  "city": "BRIDGEWATER",
   "state": "MA",
   "country": "USA",
   "bah": 1749,
   "poe": true,
   "yr": true,
-  "gibill": 374,
+  "gibill": 365,
   "cross": 165024,
   "grad_rate": 54.4,
   "grad_rate_rank": 755,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 907,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2325",
+  "zip": "02325",
   "ope": "00218300"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25001107",
   "institution": "PORTER AND CHESTER INSTITUTE - ENFIELD",
-  "city": "Enfield",
+  "city": "ENFIELD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": null,
-  "gibill": 9,
+  "gibill": 20,
   "cross": 130156,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6082",
+  "zip": "06082",
   "ope": "01077903"
 }

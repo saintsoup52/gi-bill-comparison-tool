@@ -1,7 +1,7 @@
 {
   "facility_code": "20780529",
   "institution": "TOWN OF EPPING",
-  "city": "Epping",
+  "city": "EPPING",
   "state": "NH",
   "country": "USA",
   "bah": 1413,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3042",
+  "zip": "03042",
   "ope": null
 }

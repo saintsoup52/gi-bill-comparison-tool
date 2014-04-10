@@ -1,13 +1,13 @@
 {
   "facility_code": "25488410",
   "institution": "CONNECTICUT SCHOOL OF BROADCASTING - ORLANDO",
-  "city": "Orlando",
+  "city": "ORLANDO",
   "state": "FL",
   "country": "USA",
   "bah": 1302,
   "poe": null,
   "yr": null,
-  "gibill": 10,
+  "gibill": 4,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "32839",
+  "zip": "32819",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "18055921",
   "institution": "MASSACHUSETTS STATE POLICE ACADEMY",
-  "city": "Framingham",
+  "city": "New Braintree",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 15,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1702",
+  "zip": "01702",
   "ope": null
 }

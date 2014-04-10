@@ -1,13 +1,13 @@
 {
   "facility_code": "21977107",
   "institution": "PAIER COLLEGE OF ART INC",
-  "city": "Hamden",
+  "city": "HAMDEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 6,
   "cross": 130110,
   "grad_rate": 66.7,
   "grad_rate_rank": 382,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 599,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6514",
+  "zip": "06514",
   "ope": "00745900"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "21151522",
   "institution": "ITT TECHNICAL INSTITUTE- GRAND RAPIDS",
-  "city": "Grand Rapids",
+  "city": "WYOMING",
   "state": "MI",
   "country": "USA",
   "bah": 1017,
   "poe": true,
   "yr": true,
-  "gibill": 9,
+  "gibill": 14,
   "cross": 479576,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "49525",
+  "zip": "49519",
   "ope": "10732947"
 }

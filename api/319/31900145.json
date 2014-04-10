@@ -1,13 +1,13 @@
 {
   "facility_code": "31900145",
   "institution": "CHAMPLAIN COLLEGE",
-  "city": "Burlington",
+  "city": "BURLINGTON",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": true,
   "yr": true,
-  "gibill": 139,
+  "gibill": 169,
   "cross": 230852,
   "grad_rate": 64.2,
   "grad_rate_rank": 459,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1926,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5402",
+  "zip": "05402",
   "ope": "00368400"
 }

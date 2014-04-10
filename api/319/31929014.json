@@ -1,13 +1,13 @@
 {
   "facility_code": "31929014",
-  "institution": "INDIANA INSTITUTE OF TECHNOLOGY - HAMMOND",
-  "city": "Hammond",
+  "institution": "INDIANA INSTITUTE OF TECHNOLOGY - MUNSTER",
+  "city": "Munster",
   "state": "IN",
   "country": "USA",
   "bah": 1152,
   "poe": null,
   "yr": true,
-  "gibill": 3,
+  "gibill": 6,
   "cross": 151290,
   "grad_rate": 30.7,
   "grad_rate_rank": 1516,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 627,
   "indicator_group": 1,
   "salary": null,
-  "zip": "46320",
+  "zip": "46321",
   "ope": "00180500"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31003107",
   "institution": "SACRED HEART UNIVERSITY-REGISTRARS OFFICE",
-  "city": "Fairfield",
+  "city": "FAIRFIELD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": true,
-  "gibill": 81,
+  "gibill": 89,
   "cross": 130253,
   "grad_rate": 62.8,
   "grad_rate_rank": 493,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1334,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6825",
+  "zip": "06825",
   "ope": "00140300"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31012145",
   "institution": "WORLD LEARNING SIT GRADUATE INSTITUTE",
-  "city": "Brattleboro",
+  "city": "BRATTLEBORO",
   "state": "VT",
   "country": "USA",
   "bah": 1332,
   "poe": true,
   "yr": true,
-  "gibill": 5,
+  "gibill": 3,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "5302",
+  "zip": "05302",
   "ope": null
 }

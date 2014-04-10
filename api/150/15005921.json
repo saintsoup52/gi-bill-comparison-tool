@@ -1,7 +1,7 @@
 {
   "facility_code": "15005921",
   "institution": "NEWBURYPORT HIGH SCHOOL",
-  "city": "Newburyport",
+  "city": "NEWBURYPORT",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1950",
+  "zip": "01950",
   "ope": null
 }

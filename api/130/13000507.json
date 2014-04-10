@@ -1,13 +1,13 @@
 {
   "facility_code": "13000507",
   "institution": "EASTERN CONN STATE UNIVERSITY FINANCIAL AID OFC",
-  "city": "Willimantic",
+  "city": "WILLIMANTIC",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": true,
   "yr": true,
-  "gibill": 216,
+  "gibill": 199,
   "cross": 129215,
   "grad_rate": 52.7,
   "grad_rate_rank": 813,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 966,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6226",
+  "zip": "06226",
   "ope": "00142500"
 }

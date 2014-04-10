@@ -1,7 +1,7 @@
 {
   "facility_code": "10024663",
-  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - SAN JUAN ARTCC (EN ROUTE CENTER)",
-  "city": "Carolina",
+  "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - SAN JUAN CERAP",
+  "city": "CAROLINA",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "979",
+  "zip": "00979",
   "ope": null
 }

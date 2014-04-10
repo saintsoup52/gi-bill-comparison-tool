@@ -1,13 +1,13 @@
 {
   "facility_code": "14913407",
   "institution": "ASNUNTUCK COMMUNITY COLLEGE",
-  "city": "Enfield",
+  "city": "ENFIELD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": true,
   "yr": null,
-  "gibill": 105,
+  "gibill": 133,
   "cross": 128577,
   "grad_rate": 40.3,
   "grad_rate_rank": 455,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 105,
   "indicator_group": 3,
   "salary": null,
-  "zip": "6082",
+  "zip": "06082",
   "ope": "01115000"
 }

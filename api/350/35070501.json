@@ -1,13 +1,13 @@
 {
   "facility_code": "35070501",
-  "institution": "FORERUNNER SCHOOL OF MINISTRY",
-  "city": "Pinson",
+  "institution": "THE FORERUNNER SCHOOL OF MINISTRY",
+  "city": "BIRMINGHAM",
   "state": "AL",
   "country": "USA",
   "bah": 1113,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "35126",
+  "zip": "35235",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31902163",
   "institution": "UNIVERSIDAD DEL TURABO",
-  "city": "Gurabo",
+  "city": "GURABO",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 545,
+  "gibill": 529,
   "cross": 243601,
   "grad_rate": 16.4,
   "grad_rate_rank": 1760,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 5,
   "indicator_group": 1,
   "salary": null,
-  "zip": "778",
+  "zip": "00778",
   "ope": "01171900"
 }

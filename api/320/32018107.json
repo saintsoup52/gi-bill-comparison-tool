@@ -1,7 +1,7 @@
 {
   "facility_code": "32018107",
   "institution": "YALE NEW HAVEN HOSPITAL",
-  "city": "New Haven",
+  "city": "NEW HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6510",
+  "zip": "06510",
   "ope": "02296100"
 }

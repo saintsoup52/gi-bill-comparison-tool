@@ -1,13 +1,13 @@
 {
   "facility_code": "31912863",
   "institution": "HUMACAO COMMUNITY COLLEGE",
-  "city": "Humacao",
+  "city": "HUMACAO",
   "state": "PR",
   "country": "USA",
   "bah": 1900,
   "poe": null,
   "yr": null,
-  "gibill": 27,
+  "gibill": 24,
   "cross": 242121,
   "grad_rate": 47.6,
   "grad_rate_rank": 295,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 2,
   "salary": null,
-  "zip": "792",
+  "zip": "00792",
   "ope": "02340600"
 }

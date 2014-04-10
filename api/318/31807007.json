@@ -1,13 +1,13 @@
 {
   "facility_code": "31807007",
   "institution": "YALE UNIVERSITY SCHOOL OF LAW",
-  "city": "New Haven",
+  "city": "NEW HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": true,
-  "gibill": 10,
+  "gibill": 11,
   "cross": 130794,
   "grad_rate": 96.2,
   "grad_rate_rank": 11,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 499,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6520",
+  "zip": "06520",
   "ope": "00142600"
 }

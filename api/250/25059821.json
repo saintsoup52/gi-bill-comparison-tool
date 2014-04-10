@@ -1,13 +1,13 @@
 {
   "facility_code": "25059821",
   "institution": "CAPE COD ELECTRICAL SCHOOL",
-  "city": "South Dennis",
+  "city": "SOUTH DENNIS",
   "state": "MA",
   "country": "USA",
   "bah": 1671,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2660",
+  "zip": "02660",
   "ope": null
 }

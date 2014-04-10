@@ -1,13 +1,13 @@
 {
   "facility_code": "18005507",
   "institution": "NORWICH TECHNICAL HIGH SCHOOL",
-  "city": "Norwich",
+  "city": "NORWICH",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 431707,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6360",
+  "zip": "06360",
   "ope": "01184300"
 }

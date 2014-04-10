@@ -1,7 +1,7 @@
 {
   "facility_code": "32920521",
   "institution": "LAWRENCE GENERAL HOSPITAL SCHOOL OF MED TECHNOLOGY",
-  "city": "Lawrence",
+  "city": "LAWRENCE",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1842",
+  "zip": "01842",
   "ope": null
 }

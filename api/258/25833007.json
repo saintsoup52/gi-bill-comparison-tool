@@ -1,13 +1,13 @@
 {
   "facility_code": "25833007",
   "institution": "OXFORD ACADEMY OF HAIR DESIGN INC.",
-  "city": "Seymour",
+  "city": "SEYMOUR",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": 3,
   "cross": 455798,
   "grad_rate": 86.2,
   "grad_rate_rank": 398,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1471,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6483",
+  "zip": "06483",
   "ope": "04145400"
 }

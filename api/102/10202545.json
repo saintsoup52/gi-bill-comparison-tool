@@ -1,7 +1,7 @@
 {
   "facility_code": "10202545",
   "institution": "WOODSTOCK POLICE DEPT",
-  "city": "Woodstock",
+  "city": "WOODSTOCK",
   "state": "VT",
   "country": "USA",
   "bah": 1413,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "5091",
+  "zip": "05091",
   "ope": null
 }

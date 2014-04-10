@@ -1,13 +1,13 @@
 {
   "facility_code": "31006121",
   "institution": "WORCESTER POLYTECHNIC INSTITUTE",
-  "city": "Worcester",
+  "city": "WORCESTER",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": true,
   "yr": true,
-  "gibill": 51,
+  "gibill": 54,
   "cross": 168421,
   "grad_rate": 83.5,
   "grad_rate_rank": 112,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1913,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1609",
+  "zip": "01609",
   "ope": "00223300"
 }

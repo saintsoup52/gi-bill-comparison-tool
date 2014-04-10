@@ -1,13 +1,13 @@
 {
   "facility_code": "31924721",
   "institution": "MASSACHUSETTS SCHOOL OF LAW",
-  "city": "Andover",
+  "city": "ANDOVER",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
   "poe": null,
   "yr": null,
-  "gibill": 16,
+  "gibill": 21,
   "cross": 369002,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 4,
   "salary": null,
-  "zip": "1810",
+  "zip": "01810",
   "ope": "03235300"
 }

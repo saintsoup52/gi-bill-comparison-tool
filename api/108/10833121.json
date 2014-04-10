@@ -1,7 +1,7 @@
 {
   "facility_code": "10833121",
   "institution": "TAUNTON POLICE DEPARTMENT",
-  "city": "Taunton",
+  "city": "TAUNTON",
   "state": "MA",
   "country": "USA",
   "bah": 1575,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2780",
+  "zip": "02780",
   "ope": null
 }

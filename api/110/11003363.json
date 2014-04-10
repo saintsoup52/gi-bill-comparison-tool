@@ -1,13 +1,13 @@
 {
   "facility_code": "11003363",
   "institution": "UNIVERSIDAD DE PUERTO RICO ARECIBO (UNIVERSITY OF PUERTO RICO-ARECIBO)",
-  "city": "Arecibo",
+  "city": "ARECIBO",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 53,
+  "gibill": 62,
   "cross": 243115,
   "grad_rate": 51.1,
   "grad_rate_rank": 863,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 17,
   "indicator_group": 1,
   "salary": null,
-  "zip": "614",
+  "zip": "00614",
   "ope": "00394207"
 }

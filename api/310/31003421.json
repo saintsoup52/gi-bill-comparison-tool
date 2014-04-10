@@ -1,13 +1,13 @@
 {
   "facility_code": "31003421",
   "institution": "MERRIMACK COLLEGE",
-  "city": "North Andover",
+  "city": "NORTH ANDOVER",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
   "poe": null,
   "yr": true,
-  "gibill": 31,
+  "gibill": 42,
   "cross": 166850,
   "grad_rate": 63.9,
   "grad_rate_rank": 469,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1845",
+  "zip": "01845",
   "ope": "00212000"
 }

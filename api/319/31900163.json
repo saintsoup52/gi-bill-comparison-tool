@@ -1,13 +1,13 @@
 {
   "facility_code": "31900163",
   "institution": "INTERAMERICAN UNIVERSITY AGUADILLA (UNIVERSIDAD INTERAMERICANA-AGUADILLA)",
-  "city": "Aguadilla",
+  "city": "AGUADILLA",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 333,
+  "gibill": 340,
   "cross": 242626,
   "grad_rate": 25.0,
   "grad_rate_rank": 1629,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 76,
   "indicator_group": 1,
   "salary": null,
-  "zip": "605",
+  "zip": "00605",
   "ope": "00393804"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "26004807",
   "institution": "STONE ACADEMY - WEST HAVEN",
-  "city": "West Haven",
+  "city": "WEST HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 7,
   "cross": 130509,
   "grad_rate": 69.5,
   "grad_rate_rank": 1211,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1635,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6516",
+  "zip": "06516",
   "ope": "01242500"
 }

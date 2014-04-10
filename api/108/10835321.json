@@ -1,7 +1,7 @@
 {
   "facility_code": "10835321",
   "institution": "MATTAPOISETT POLICE DEPARTMENT",
-  "city": "Mattapoisett",
+  "city": "MATTAPOISETT",
   "state": "MA",
   "country": "USA",
   "bah": 1671,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2739",
+  "zip": "02739",
   "ope": null
 }

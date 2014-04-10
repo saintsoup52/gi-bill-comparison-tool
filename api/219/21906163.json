@@ -1,13 +1,13 @@
 {
   "facility_code": "21906163",
   "institution": "COLUMBIA CENTRO UNIVERSITARIO",
-  "city": "Caguas",
+  "city": "CAGUAS",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 42,
+  "gibill": 46,
   "cross": 241304,
   "grad_rate": 23.6,
   "grad_rate_rank": 832,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 2,
   "salary": null,
-  "zip": "726",
+  "zip": "00726",
   "ope": "00890200"
 }

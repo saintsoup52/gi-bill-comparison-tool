@@ -1,7 +1,7 @@
 {
   "facility_code": "15102545",
   "institution": "WINDSOR HIGH SCHOOL",
-  "city": "Windsor",
+  "city": "WINDSOR",
   "state": "VT",
   "country": "USA",
   "bah": 1413,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "5089",
+  "zip": "05089",
   "ope": null
 }

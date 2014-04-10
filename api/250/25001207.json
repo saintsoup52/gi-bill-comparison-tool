@@ -1,13 +1,13 @@
 {
   "facility_code": "25001207",
   "institution": "PORTER AND CHESTER INSTITUTE - STRATFORD",
-  "city": "Stratford",
+  "city": "STRATFORD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 34,
+  "gibill": 55,
   "cross": 130174,
   "grad_rate": 70.0,
   "grad_rate_rank": 1175,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1812,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6615",
+  "zip": "06615",
   "ope": "01077900"
 }

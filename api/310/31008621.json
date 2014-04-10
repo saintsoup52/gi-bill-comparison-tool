@@ -1,13 +1,13 @@
 {
   "facility_code": "31008621",
   "institution": "GORDON COLLEGE",
-  "city": "Wenham",
+  "city": "WENHAM",
   "state": "MA",
   "country": "USA",
   "bah": 1842,
   "poe": null,
   "yr": true,
-  "gibill": 18,
+  "gibill": 17,
   "cross": 165936,
   "grad_rate": 73.7,
   "grad_rate_rank": 253,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1549,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1984",
+  "zip": "01984",
   "ope": "00215300"
 }

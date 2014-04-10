@@ -1,13 +1,13 @@
 {
   "facility_code": "28103639",
   "institution": "NEW ENGLAND TRACTOR TRAILER TRAINING SCHOOL (R.I.)",
-  "city": "Pawtucket",
+  "city": "PAWTUCKET",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": true,
   "yr": null,
-  "gibill": 39,
+  "gibill": 47,
   "cross": 217323,
   "grad_rate": 77.5,
   "grad_rate_rank": 789,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 299,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2860",
+  "zip": "02860",
   "ope": "02584400"
 }

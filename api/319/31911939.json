@@ -1,13 +1,13 @@
 {
   "facility_code": "31911939",
   "institution": "ROGER WILLIAMS UNIVERSITY (LAW SCHOOL)",
-  "city": "Bristol",
+  "city": "BRISTOL",
   "state": "RI",
   "country": "USA",
   "bah": 1716,
   "poe": true,
   "yr": true,
-  "gibill": 17,
+  "gibill": 18,
   "cross": 409616,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 104,
   "indicator_group": 4,
   "salary": null,
-  "zip": "2809",
+  "zip": "02809",
   "ope": "00341001"
 }

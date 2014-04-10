@@ -1,13 +1,13 @@
 {
   "facility_code": "31003363",
   "institution": "PONCE SCHOOL OF MEDICINE",
-  "city": "Ponce",
+  "city": "PONCE",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 10,
+  "gibill": 12,
   "cross": 243081,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 4,
   "salary": null,
-  "zip": "732",
+  "zip": "00732",
   "ope": "02482400"
 }

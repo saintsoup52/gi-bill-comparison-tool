@@ -1,7 +1,7 @@
 {
   "facility_code": "32005821",
   "institution": "CHILDRENS HOSPITAL MEDICAL CENTER",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2115",
+  "zip": "02115",
   "ope": "00632500"
 }

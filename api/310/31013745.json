@@ -1,13 +1,13 @@
 {
   "facility_code": "31013745",
   "institution": "VERMONT COLLEGE OF FINE ARTS",
-  "city": "Montpelier",
+  "city": "MONTPELIER",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": null,
   "yr": true,
-  "gibill": 2,
+  "gibill": 6,
   "cross": 455992,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 4,
   "salary": null,
-  "zip": "5602",
+  "zip": "05602",
   "ope": "00369700"
 }

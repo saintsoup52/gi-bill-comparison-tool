@@ -1,13 +1,13 @@
 {
   "facility_code": "25002744",
-  "institution": "NEW HORIZONS -  WEST VALLEY CITY",
-  "city": "West Valley City",
+  "institution": "NEW HORIZONS COMPUTER LEARNING CENTER",
+  "city": "SALT LAKE CITY",
   "state": "UT",
   "country": "USA",
   "bah": 1233,
   "poe": null,
   "yr": null,
-  "gibill": 8,
+  "gibill": 12,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "84119",
+  "zip": "84107",
   "ope": null
 }

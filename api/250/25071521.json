@@ -1,13 +1,13 @@
 {
   "facility_code": "25071521",
   "institution": "THE FURNITURE INSTITUTE OF MASSACHUSETTS",
-  "city": "Beverly",
+  "city": "BEVERLY",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1915",
+  "zip": "01915",
   "ope": null
 }

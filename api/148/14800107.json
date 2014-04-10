@@ -1,13 +1,13 @@
 {
   "facility_code": "14800107",
   "institution": "GATEWAY COMMUNITY COLLEGE",
-  "city": "New Haven",
+  "city": "NEW HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 349,
+  "gibill": 409,
   "cross": 130396,
   "grad_rate": 8.2,
   "grad_rate_rank": 1336,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 23,
   "indicator_group": 2,
   "salary": null,
-  "zip": "6510",
+  "zip": "06510",
   "ope": "00803700"
 }

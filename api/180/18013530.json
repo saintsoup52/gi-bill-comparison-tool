@@ -1,13 +1,13 @@
 {
   "facility_code": "18013530",
   "institution": "SALEM COUNTY VOCATIONAL-TECHNICAL SCHOOLS",
-  "city": "Woodstown",
+  "city": "Carney's Point",
   "state": "NJ",
   "country": "USA",
   "bah": 1758,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": 2,
   "cross": 365268,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "8098",
+  "zip": "08069",
   "ope": "02211300"
 }

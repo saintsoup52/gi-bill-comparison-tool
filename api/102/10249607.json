@@ -1,7 +1,7 @@
 {
   "facility_code": "10249607",
   "institution": "FEDERAL CORRECTIONAL INSTITUTION DANBURY",
-  "city": "Danbury",
+  "city": "DANBURY",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6811",
+  "zip": "06811",
   "ope": null
 }

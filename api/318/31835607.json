@@ -1,13 +1,13 @@
 {
   "facility_code": "31835607",
   "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY - EAST HARTFORD CAMPUS",
-  "city": "East Hartford",
+  "city": "EAST HARTFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": true,
   "yr": true,
-  "gibill": 6,
+  "gibill": 11,
   "cross": 426314,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6108",
+  "zip": "06108",
   "ope": "10147934"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10829321",
   "institution": "WATERTOWN FIRE DEPARTMENT",
-  "city": "Watertown",
+  "city": "WATERTOWN",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2474",
+  "zip": "02474",
   "ope": null
 }

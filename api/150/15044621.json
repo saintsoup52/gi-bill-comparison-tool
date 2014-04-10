@@ -1,13 +1,13 @@
 {
   "facility_code": "15044621",
   "institution": "UPPER CAPE COD REGIONAL TECHNICAL SCHOOL",
-  "city": "Bourne",
+  "city": "BOURNE",
   "state": "MA",
   "country": "USA",
   "bah": 1671,
   "poe": null,
   "yr": null,
-  "gibill": 3,
+  "gibill": 5,
   "cross": 373711,
   "grad_rate": 84.7,
   "grad_rate_rank": 447,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2532",
+  "zip": "02532",
   "ope": "00466900"
 }

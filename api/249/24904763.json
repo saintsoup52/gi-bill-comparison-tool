@@ -1,13 +1,13 @@
 {
   "facility_code": "24904763",
   "institution": "INSTITUTO COMERCIAL PRJR COLLEGE ARECIBO (ICPR JUNIOR COLLEGE)",
-  "city": "Arecibo",
+  "city": "ARECIBO",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 11,
+  "gibill": 17,
   "cross": 242130,
   "grad_rate": 39.0,
   "grad_rate_rank": 462,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 64,
   "indicator_group": 3,
   "salary": null,
-  "zip": "614",
+  "zip": "00614",
   "ope": "01194001"
 }

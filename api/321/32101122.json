@@ -1,7 +1,7 @@
 {
   "facility_code": "32101122",
-  "institution": "HENRY FORD MACOMB HOSPITAL - WARREN CAMPUS",
-  "city": "Warren",
+  "institution": "HENRY FORD MACOMB HOSPITAL - CLINTON TOWNSHIP CAMPUS",
+  "city": "CLINTON TOWNSHIP",
   "state": "MI",
   "country": "USA",
   "bah": 1521,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "48089",
+  "zip": "48038",
   "ope": null
 }

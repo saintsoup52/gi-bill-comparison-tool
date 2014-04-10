@@ -1,13 +1,13 @@
 {
   "facility_code": "25080321",
   "institution": "LINCOLN TECHNICAL INSTITUTE LOWELL MA CAMPUS",
-  "city": "Lowell",
+  "city": "LOWELL",
   "state": "MA",
   "country": "USA",
   "bah": 2373,
   "poe": true,
   "yr": null,
-  "gibill": 7,
+  "gibill": 12,
   "cross": 440952,
   "grad_rate": 46.2,
   "grad_rate_rank": 2013,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "1852",
+  "zip": "01852",
   "ope": "03232310"
 }

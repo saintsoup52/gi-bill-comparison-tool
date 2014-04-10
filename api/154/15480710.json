@@ -1,13 +1,13 @@
 {
   "facility_code": "15480710",
   "institution": "FRED D LEAREY TECHNICAL CENTER",
-  "city": "Tampa",
+  "city": "TAMPA",
   "state": "FL",
   "country": "USA",
   "bah": 1662,
   "poe": true,
   "yr": null,
-  "gibill": null,
+  "gibill": 10,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "33610",
+  "zip": "33614",
   "ope": "04225800"
 }

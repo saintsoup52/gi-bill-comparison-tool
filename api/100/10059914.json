@@ -1,7 +1,7 @@
 {
   "facility_code": "10059914",
   "institution": "LAWRENCE POLICE DEPARTMENT",
-  "city": "Lawrence",
+  "city": "LAWRENCE",
   "state": "IN",
   "country": "USA",
   "bah": 1245,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "46226",
+  "zip": "46216",
   "ope": null
 }

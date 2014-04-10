@@ -1,13 +1,13 @@
 {
   "facility_code": "31010030",
   "institution": "WILMINGTON UNIVERSITY AT JOINT BASE MCGUIRE-DIX-LAKEHURST",
-  "city": "Joint Base Mdl",
+  "city": "Joint Base MDL",
   "state": "NJ",
   "country": "USA",
   "bah": 1542,
   "poe": true,
   "yr": true,
-  "gibill": 106,
+  "gibill": 84,
   "cross": 131113,
   "grad_rate": 33.7,
   "grad_rate_rank": 1418,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 484,
   "indicator_group": 1,
   "salary": null,
-  "zip": "8641",
+  "zip": "08641",
   "ope": "00794800"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31900107",
   "institution": "RENSSELAER AT HARTFORD",
-  "city": "Hartford",
+  "city": "HARTFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": true,
-  "gibill": 3,
+  "gibill": 4,
   "cross": 129428,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 108,
   "indicator_group": 4,
   "salary": null,
-  "zip": "6120",
+  "zip": "06120",
   "ope": "00280301"
 }

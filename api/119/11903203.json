@@ -1,11 +1,11 @@
 {
   "facility_code": "11903203",
   "institution": "UNIVERSITY OF ARIZONA COLLEGE OF MEDICINE",
-  "city": "Tucson",
+  "city": "TUCSON",
   "state": "AZ",
   "country": "USA",
   "bah": 1176,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": null,
   "cross": 104179,

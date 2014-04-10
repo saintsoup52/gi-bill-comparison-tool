@@ -2,9 +2,9 @@
   "facility_code": "10000251",
   "institution": "ARMY CONTRACTING COMMAND - BCC 409TH",
   "city": null,
-  "state": "0",
+  "state": null,
   "country": null,
-  "bah": 1429,
+  "bah": null,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "9263",
+  "zip": "09263",
   "ope": null
 }

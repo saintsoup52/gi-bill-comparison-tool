@@ -1,13 +1,13 @@
 {
   "facility_code": "11840530",
-  "institution": "UNIVERSITY OF MEDICINE AND DENTISTRY OF NEW JERSEY SCHOOL OF OSTEOPATHIC MED.",
+  "institution": "ROWAN UNIVERSITY - SCHOOL OF OSTEOPATHIC MEDICINE",
   "city": "Stratford",
   "state": "NJ",
   "country": "USA",
   "bah": 1758,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 3,
   "cross": 187222,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 589,
   "indicator_group": 1,
   "salary": null,
-  "zip": "8084",
+  "zip": "08084",
   "ope": "01039400"
 }

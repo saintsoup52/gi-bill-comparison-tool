@@ -1,13 +1,13 @@
 {
   "facility_code": "31921121",
   "institution": "SPRINGFIELD COLLEGE SPRINGFIELD MA",
-  "city": "Springfield",
+  "city": "SPRINGFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": true,
   "yr": true,
-  "gibill": 54,
+  "gibill": 62,
   "cross": 167899,
   "grad_rate": 66.3,
   "grad_rate_rank": 400,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1292,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1109",
+  "zip": "01109",
   "ope": "00221100"
 }

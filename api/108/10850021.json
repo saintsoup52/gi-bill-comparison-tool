@@ -1,7 +1,7 @@
 {
   "facility_code": "10850021",
   "institution": "PLYMOUTH FIRE DEPARTMENT",
-  "city": "Plymouth",
+  "city": "PLYMOUTH",
   "state": "MA",
   "country": "USA",
   "bah": 1749,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2360",
+  "zip": "02360",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25043521",
   "institution": "CORTIVA INSTITUTE-BOSTON",
-  "city": "Watertown",
+  "city": "WATERTOWN",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 5,
+  "gibill": 7,
   "cross": 166975,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1019,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2472",
+  "zip": "02472",
   "ope": "02491700"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "32810207",
-  "institution": "STAMFORD HOSPITAL SCHOOL OF RADIOGRAPHY",
-  "city": "Stamford",
+  "institution": "STAMFORD HOSPITAL",
+  "city": "STAMFORD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6904",
+  "zip": "06904",
   "ope": null
 }

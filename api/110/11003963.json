@@ -1,13 +1,13 @@
 {
   "facility_code": "11003963",
   "institution": "UNIVERSIDAD DE PUERTO RICO EN CAROLINA (UNIVERSITY OF PUERTO RICO-CAROLINA)",
-  "city": "Carolina",
+  "city": "CAROLINA",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 61,
+  "gibill": 67,
   "cross": 243142,
   "grad_rate": 30.8,
   "grad_rate_rank": 1515,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 10,
   "indicator_group": 1,
   "salary": null,
-  "zip": "984",
+  "zip": "00984",
   "ope": "00394209"
 }

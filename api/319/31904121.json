@@ -1,13 +1,13 @@
 {
   "facility_code": "31904121",
   "institution": "WESTERN NEW ENGLAND UNIVERSITY",
-  "city": "Springfield",
+  "city": "SPRINGFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": true,
   "yr": true,
-  "gibill": 81,
+  "gibill": 82,
   "cross": 168254,
   "grad_rate": 61.9,
   "grad_rate_rank": 517,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1119",
+  "zip": "01119",
   "ope": "00222600"
 }

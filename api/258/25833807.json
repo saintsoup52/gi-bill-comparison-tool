@@ -1,13 +1,13 @@
 {
   "facility_code": "25833807",
   "institution": "BRANFORD ACADEMY OF HAIR & COSMETOLOGY",
-  "city": "Branford",
+  "city": "BRANFORD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": true,
-  "gibill": 1,
+  "gibill": 3,
   "cross": 451042,
   "grad_rate": 90.0,
   "grad_rate_rank": 267,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6405",
+  "zip": "06405",
   "ope": "04128800"
 }

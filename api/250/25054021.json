@@ -1,13 +1,13 @@
 {
   "facility_code": "25054021",
   "institution": "MASSACHUSETTS SCHOOL OF INFORMATION TECHNOLOGY",
-  "city": "Taunton",
+  "city": "TAUNTON",
   "state": "MA",
   "country": "USA",
   "bah": 1575,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2780",
+  "zip": "02780",
   "ope": null
 }

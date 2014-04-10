@@ -1,13 +1,13 @@
 {
   "facility_code": "11802407",
   "institution": "UNIVERSITY OF CONNECTICUT SCHOOL OF LAW",
-  "city": "Hartford",
+  "city": "HARTFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": true,
   "yr": null,
-  "gibill": 14,
+  "gibill": 17,
   "cross": 129020,
   "grad_rate": 82.1,
   "grad_rate_rank": 127,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1360,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6105",
+  "zip": "06105",
   "ope": "00141700"
 }

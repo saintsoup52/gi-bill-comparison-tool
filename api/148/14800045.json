@@ -1,13 +1,13 @@
 {
   "facility_code": "14800045",
   "institution": "COMMUNITY COLLEGE OF VERMONT",
-  "city": "Montpelier",
+  "city": "montpelier",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": true,
   "yr": true,
-  "gibill": 360,
+  "gibill": 342,
   "cross": 230861,
   "grad_rate": 14.1,
   "grad_rate_rank": 1154,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 341,
   "indicator_group": 2,
   "salary": null,
-  "zip": "5601",
+  "zip": "05601",
   "ope": "01116700"
 }

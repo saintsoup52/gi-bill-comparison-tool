@@ -1,7 +1,7 @@
 {
   "facility_code": "20829921",
   "institution": "ADAMS PLUMBING & HEATING",
-  "city": "Adams",
+  "city": "ADAMS",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1220",
+  "zip": "01220",
   "ope": null
 }

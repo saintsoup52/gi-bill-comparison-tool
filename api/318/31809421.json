@@ -1,13 +1,13 @@
 {
   "facility_code": "31809421",
   "institution": "BOSTON UNIV SCHOOL OF THEOLOGY",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 164988,
   "grad_rate": 83.9,
   "grad_rate_rank": 110,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2215",
+  "zip": "02215",
   "ope": "00213000"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10838521",
   "institution": "NATICK FIRE DEPARTMENT",
-  "city": "Natick",
+  "city": "NATICK",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1760",
+  "zip": "01760",
   "ope": null
 }

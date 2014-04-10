@@ -1,13 +1,13 @@
 {
   "facility_code": "31000439",
   "institution": "SALVE REGINA UNIVERSITY",
-  "city": "Newport",
+  "city": "NEWPORT",
   "state": "RI",
   "country": "USA",
   "bah": 1716,
   "poe": null,
   "yr": true,
-  "gibill": 60,
+  "gibill": 61,
   "cross": 217536,
   "grad_rate": 72.2,
   "grad_rate_rank": 281,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1868,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2840",
+  "zip": "02840",
   "ope": "00341100"
 }

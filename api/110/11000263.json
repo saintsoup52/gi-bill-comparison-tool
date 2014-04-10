@@ -1,13 +1,13 @@
 {
   "facility_code": "11000263",
   "institution": "UNIVERSIDAD DE PUERTO RICO-RIO PIEDRAS (UNIVERSITY OF PUERTO RICO)",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 189,
+  "gibill": 205,
   "cross": 243221,
   "grad_rate": 31.7,
   "grad_rate_rank": 1487,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 74,
   "indicator_group": 1,
   "salary": null,
-  "zip": "931",
+  "zip": "00931",
   "ope": "00394201"
 }

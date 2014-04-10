@@ -1,7 +1,7 @@
 {
   "facility_code": "10831821",
-  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD",
-  "city": "Fall River",
+  "institution": "MASSACHUSETTS ARMY NATIONAL GUARD FALL RIVER",
+  "city": "FALL RIVER",
   "state": "MA",
   "country": "USA",
   "bah": 1716,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2724",
+  "zip": "02724",
   "ope": null
 }

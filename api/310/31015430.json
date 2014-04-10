@@ -1,13 +1,13 @@
 {
   "facility_code": "31015430",
   "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY - JOINT BASE MCGUIRE-DIX-LAKEHURST",
-  "city": "Joint Base Mdl",
+  "city": "Joint Base MDL",
   "state": "NJ",
   "country": "USA",
   "bah": 1542,
   "poe": true,
   "yr": true,
-  "gibill": 49,
+  "gibill": 52,
   "cross": 426314,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "8641",
+  "zip": "08641",
   "ope": "00147973"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "17050421",
   "institution": "BOSTON LATIN SCHOOL",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2115",
+  "zip": "02115",
   "ope": null
 }

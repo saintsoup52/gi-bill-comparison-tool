@@ -1,10 +1,10 @@
 {
   "facility_code": "20563440",
-  "institution": "WACKENHUT SERVICES INC",
-  "city": "Aiken",
+  "institution": "WSI -SAVANNAH RIVER SITE",
+  "city": "AIKEN",
   "state": "SC",
   "country": "USA",
-  "bah": 1188,
+  "bah": 1092,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "29601",
+  "zip": "29802",
   "ope": null
 }

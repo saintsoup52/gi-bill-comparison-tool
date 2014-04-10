@@ -1,13 +1,13 @@
 {
   "facility_code": "15052821",
   "institution": "MASSACHUSETTS FIREFIGHTING ACADEMY",
-  "city": "Stow",
+  "city": "STOW",
   "state": "MA",
   "country": "USA",
   "bah": 1542,
   "poe": null,
   "yr": null,
-  "gibill": 19,
+  "gibill": 10,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1775",
+  "zip": "01775",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31016621",
   "institution": "LASELL COLLEGE",
-  "city": "Newton",
+  "city": "NEWTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": true,
-  "gibill": 31,
+  "gibill": 33,
   "cross": 166391,
   "grad_rate": 44.4,
   "grad_rate_rank": 1091,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2466",
+  "zip": "02466",
   "ope": "00215800"
 }

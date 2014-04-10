@@ -1,13 +1,13 @@
 {
   "facility_code": "25832807",
   "institution": "CONNECTICUT INSTITUTE OF HAIR DESIGN",
-  "city": "Wolcott",
+  "city": "WOLCOTT",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": 365569,
   "grad_rate": 90.7,
   "grad_rate_rank": 250,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 704,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6716",
+  "zip": "06716",
   "ope": "02148700"
 }

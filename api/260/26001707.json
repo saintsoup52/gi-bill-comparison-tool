@@ -1,13 +1,13 @@
 {
   "facility_code": "26001707",
   "institution": "RIDLEY-LOWELL NEW LONDON CAMPUS",
-  "city": "New London",
+  "city": "NEW LONDON",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": null,
   "yr": null,
-  "gibill": 16,
+  "gibill": 24,
   "cross": 129969,
   "grad_rate": 50.0,
   "grad_rate_rank": 1940,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1056,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6320",
+  "zip": "06320",
   "ope": "02112300"
 }

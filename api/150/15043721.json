@@ -1,13 +1,13 @@
 {
   "facility_code": "15043721",
   "institution": "BLUE HILLS REGIONAL TECHNICAL SCHOOL",
-  "city": "Canton",
+  "city": "CANTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 2,
+  "gibill": 1,
   "cross": 243799,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2021",
+  "zip": "02021",
   "ope": "00552300"
 }

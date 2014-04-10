@@ -1,7 +1,7 @@
 {
   "facility_code": "46000307",
   "institution": "EASTCONN",
-  "city": "Hampton",
+  "city": "HAMPTON",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6247",
+  "zip": "06247",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25080221",
   "institution": "INSTITUTE FOR EMERGENCY MEDICAL EDUCATION",
-  "city": "Bourne",
+  "city": "BOURNE",
   "state": "MA",
   "country": "USA",
   "bah": 1671,
   "poe": null,
   "yr": null,
-  "gibill": 2,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2532",
+  "zip": "02532",
   "ope": null
 }

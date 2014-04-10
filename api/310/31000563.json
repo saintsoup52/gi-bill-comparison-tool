@@ -1,13 +1,13 @@
 {
   "facility_code": "31000563",
   "institution": "UNIVERSIDAD DEL SAGRADO CORAZON",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 96,
+  "gibill": 106,
   "cross": 243443,
   "grad_rate": 34.5,
   "grad_rate_rank": 1404,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 155,
   "indicator_group": 1,
   "salary": null,
-  "zip": "914",
+  "zip": "00914",
   "ope": "00393700"
 }

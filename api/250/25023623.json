@@ -1,13 +1,13 @@
 {
   "facility_code": "25023623",
   "institution": "TRANSPORTATION CENTER FOR EXCELLENCE INC",
-  "city": "Eagan",
+  "city": "INVER GROVE HEIGHTS",
   "state": "MN",
   "country": "USA",
   "bah": 1449,
   "poe": null,
   "yr": null,
-  "gibill": 3,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "55121",
+  "zip": "55077",
   "ope": null
 }

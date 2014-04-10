@@ -1,13 +1,13 @@
 {
   "facility_code": "25166005",
-  "institution": "GURNICK ACADEMY OF MEDICAL ARTS (FRESNO)",
-  "city": "Fresno",
+  "institution": "GURNICK ACADEMY OF MEDICAL ARTS FRESNO",
+  "city": "FRESNO",
   "state": "CA",
   "country": "USA",
   "bah": 1308,
   "poe": null,
   "yr": null,
-  "gibill": 4,
+  "gibill": 6,
   "cross": 459213,
   "grad_rate": 85.3,
   "grad_rate_rank": 430,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1961,
   "indicator_group": 5,
   "salary": null,
-  "zip": "93704",
+  "zip": "93711",
   "ope": "04169800"
 }

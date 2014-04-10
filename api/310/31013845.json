@@ -1,13 +1,13 @@
 {
   "facility_code": "31013845",
   "institution": "ALBANY COLLEGE OF PHARMACY & HEALTH SCIENCES",
-  "city": "Colchester",
+  "city": "COLCHESTER",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 188526,
   "grad_rate": 69.8,
   "grad_rate_rank": 316,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1435,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5446",
+  "zip": "05446",
   "ope": "00288500"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31908163",
   "institution": "INTERAMERICAN UNIVERSITY FAJARDO (UNIVERSIDAD INTERAMERICANA-FAJARDO)",
-  "city": "Fajardo",
+  "city": "FAJARDO",
   "state": "PR",
   "country": "USA",
   "bah": 1900,
   "poe": true,
   "yr": null,
-  "gibill": 102,
+  "gibill": 122,
   "cross": 242680,
   "grad_rate": 27.2,
   "grad_rate_rank": 1591,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 76,
   "indicator_group": 1,
   "salary": null,
-  "zip": "738",
+  "zip": "00738",
   "ope": "00393807"
 }

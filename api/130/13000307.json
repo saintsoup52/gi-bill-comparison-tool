@@ -1,13 +1,13 @@
 {
   "facility_code": "13000307",
   "institution": "SOUTHERN CONN STATE UNIVERSITY",
-  "city": "New Haven",
+  "city": "NEW HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": true,
-  "gibill": 374,
+  "gibill": 336,
   "cross": 130493,
   "grad_rate": 43.7,
   "grad_rate_rank": 1114,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 987,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6515",
+  "zip": "06515",
   "ope": "00140600"
 }

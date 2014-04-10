@@ -1,13 +1,13 @@
 {
   "facility_code": "15007007",
   "institution": "NEW CANAAN HIGH SCHOOL",
-  "city": "New Canaan",
+  "city": "NEW CANAAN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6840",
+  "zip": "06840",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "14002363",
   "institution": "INSTITUTO TECNOLOGICO DE PR MANATI",
-  "city": "Manati",
+  "city": "MANATI",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 6,
+  "gibill": 5,
   "cross": 242316,
   "grad_rate": 60.2,
   "grad_rate_rank": 1628,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "674",
+  "zip": "00674",
   "ope": "02170300"
 }

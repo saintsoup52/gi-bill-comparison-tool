@@ -1,13 +1,13 @@
 {
   "facility_code": "18007807",
   "institution": "VINAL TECHNICAL HIGH SCHOOL",
-  "city": "Middletown",
+  "city": "MIDDLETOWN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 441335,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6457",
+  "zip": "06457",
   "ope": "01169700"
 }

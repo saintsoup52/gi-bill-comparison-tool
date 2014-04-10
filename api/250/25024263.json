@@ -1,13 +1,13 @@
 {
   "facility_code": "25024263",
   "institution": "INSTITUTO DE BANCA Y COMERCIO-FAJARDO",
-  "city": "Fajardo",
+  "city": "FAJARDO",
   "state": "PR",
   "country": "USA",
   "bah": 1900,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 7,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "738",
+  "zip": "00738",
   "ope": "02166407"
 }

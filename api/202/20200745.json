@@ -1,7 +1,7 @@
 {
   "facility_code": "20200745",
   "institution": "STOWE AUTO SERVICE",
-  "city": "Stowe",
+  "city": "STOWE",
   "state": "VT",
   "country": "USA",
   "bah": 1461,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "5672",
+  "zip": "05672",
   "ope": null
 }

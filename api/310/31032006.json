@@ -1,13 +1,13 @@
 {
   "facility_code": "31032006",
   "institution": "CHARIS BIBLE COLLEGE",
-  "city": "Colorado Springs",
+  "city": "Woodland Park",
   "state": "CO",
   "country": "USA",
   "bah": 1350,
   "poe": null,
   "yr": null,
-  "gibill": 32,
+  "gibill": 33,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "80907",
+  "zip": "80863",
   "ope": null
 }

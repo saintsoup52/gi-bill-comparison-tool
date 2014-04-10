@@ -1,10 +1,10 @@
 {
   "facility_code": "10052302",
   "institution": "FEDERAL AVIATION ADMINISTRATION (FAA) - ANCHORAGE ARTCC",
-  "city": "Anchorage",
+  "city": "ANCHORAGE",
   "state": "AK",
   "country": "USA",
-  "bah": null,
+  "bah": 2097,
   "poe": null,
   "yr": null,
   "gibill": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "99056",
+  "zip": "99506",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "15792207",
   "institution": "CONNECTICUT POLICE ACADEMY",
-  "city": "Meriden",
+  "city": "MERIDEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 15,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6450",
+  "zip": "06450",
   "ope": null
 }

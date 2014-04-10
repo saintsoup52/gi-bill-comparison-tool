@@ -1,13 +1,13 @@
 {
   "facility_code": "25367232",
   "institution": "SAE INSTITUTE OF TECHNOLOGY",
-  "city": "New York",
+  "city": "NEW YORK",
   "state": "NY",
   "country": "USA",
   "bah": 3258,
   "poe": true,
   "yr": null,
-  "gibill": 18,
+  "gibill": 53,
   "cross": 459462,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "10001",
+  "zip": "10011",
   "ope": "03988300"
 }

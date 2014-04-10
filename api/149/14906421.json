@@ -1,7 +1,7 @@
 {
   "facility_code": "14906421",
   "institution": "HOLYOKE COMMUNITY COLLEGE",
-  "city": "Holyoke",
+  "city": "HOLYOKE",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 179,
   "indicator_group": 2,
   "salary": null,
-  "zip": "1040",
+  "zip": "01040",
   "ope": "00217000"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25835207",
   "institution": "MARINELLO SCHOOL OF BEAUTY - TORRINGTON",
-  "city": "Torrington",
+  "city": "TORRINGTON",
   "state": "CT",
   "country": "USA",
   "bah": 1461,
   "poe": true,
   "yr": null,
-  "gibill": 2,
+  "gibill": 1,
   "cross": 451778,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6790",
+  "zip": "06790",
   "ope": "03927301"
 }

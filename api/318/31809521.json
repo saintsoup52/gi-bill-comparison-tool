@@ -1,7 +1,7 @@
 {
   "facility_code": "31809521",
   "institution": "BOSTON UNIV SCHOOL OF MGMT ***SEE REMARKS****",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2115",
+  "zip": "02115",
   "ope": "00213000"
 }

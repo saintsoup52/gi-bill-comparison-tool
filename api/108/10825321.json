@@ -1,7 +1,7 @@
 {
   "facility_code": "10825321",
   "institution": "LOWELL FIRE DEPARTMENT",
-  "city": "Lowell",
+  "city": "LOWELL",
   "state": "MA",
   "country": "USA",
   "bah": 2373,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1852",
+  "zip": "01852",
   "ope": null
 }

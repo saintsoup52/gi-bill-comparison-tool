@@ -1,13 +1,13 @@
 {
   "facility_code": "25054521",
   "institution": "NEW ENGLAND SCHOOL OF ARCHITECTURAL WOODWORKING",
-  "city": "Easthampton",
+  "city": "EASTHAMPTON",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": null,
-  "gibill": 2,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1027",
+  "zip": "01027",
   "ope": null
 }

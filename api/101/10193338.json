@@ -1,7 +1,7 @@
 {
   "facility_code": "10193338",
   "institution": "PHILADELPHIA FIRE DEPT",
-  "city": "Philadelphia",
+  "city": "PHILADELPHIA",
   "state": "PA",
   "country": "USA",
   "bah": 1758,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "19136",
+  "zip": "19123",
   "ope": null
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10831721",
-  "institution": "MASSACHUSETTS NATIONAL GUARD FIELD MAINTENANCE SHOP #2",
-  "city": "Westfield",
+  "institution": "MASSACHUSETTS NATIONAL GUARD FIELD MAINTENANCE SHOP #2 WESTFIELD",
+  "city": "WESTFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1085",
+  "zip": "01085",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "15044221",
   "institution": "NORTHERN BERKSHIRE VOCATIONAL RSD/MCCANN TECHNICAL SCHOOL",
-  "city": "North Adams",
+  "city": "NORTH ADAMS",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 419095,
   "grad_rate": 87.5,
   "grad_rate_rank": 344,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "1247",
+  "zip": "01247",
   "ope": "00555700"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "11801620",
   "institution": "UNIVERSITY OF MARYLAND BALTIMORE COUNTY",
-  "city": "Baltimore",
+  "city": "BALTIMORE",
   "state": "MD",
   "country": "USA",
   "bah": 1959,
   "poe": null,
   "yr": null,
-  "gibill": 327,
+  "gibill": 347,
   "cross": 163268,
   "grad_rate": 60.5,
   "grad_rate_rank": 551,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1007,
   "indicator_group": 1,
   "salary": null,
-  "zip": "21228",
+  "zip": "21250",
   "ope": "00210500"
 }

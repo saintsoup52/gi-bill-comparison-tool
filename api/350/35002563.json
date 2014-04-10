@@ -1,13 +1,13 @@
 {
   "facility_code": "35002563",
   "institution": "TRINITY COLLEGE",
-  "city": "Ponce",
+  "city": "PONCE",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 3,
+  "gibill": 6,
   "cross": 431929,
   "grad_rate": 50.9,
   "grad_rate_rank": 1931,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "732",
+  "zip": "00732",
   "ope": "03115900"
 }

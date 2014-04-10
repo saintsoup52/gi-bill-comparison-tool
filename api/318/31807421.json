@@ -1,13 +1,13 @@
 {
   "facility_code": "31807421",
   "institution": "CUMMINGS SCHOOL OF VETERINARY MEDICINE AT TUFTS UNIVERSITY",
-  "city": "North Grafton",
+  "city": "NORTH GRAFTON",
   "state": "MA",
   "country": "USA",
   "bah": 1497,
   "poe": null,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": 168148,
   "grad_rate": 92.3,
   "grad_rate_rank": 39,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 938,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1536",
+  "zip": "01536",
   "ope": "00221900"
 }

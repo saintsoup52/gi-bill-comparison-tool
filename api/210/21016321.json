@@ -1,7 +1,7 @@
 {
   "facility_code": "21016321",
   "institution": "BARBRI BAR REVIEW",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2116",
+  "zip": "02116",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31807321",
   "institution": "TUFTS UNIVERSITY",
-  "city": "Medford",
+  "city": "MEDFORD",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": true,
-  "gibill": 26,
+  "gibill": 28,
   "cross": 168148,
   "grad_rate": 92.3,
   "grad_rate_rank": 39,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 938,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2155",
+  "zip": "02155",
   "ope": "00221900"
 }

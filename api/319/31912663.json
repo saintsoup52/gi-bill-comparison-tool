@@ -1,13 +1,13 @@
 {
   "facility_code": "31912663",
   "institution": "PONTIFICIA UNIVERSIDAD CATOLICA DE PR (PONTIFICAL CATHOLIC UNIVERSITY OF PR)",
-  "city": "Ponce",
+  "city": "PONCE",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 396,
+  "gibill": 397,
   "cross": 241410,
   "grad_rate": 33.1,
   "grad_rate_rank": 1448,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 68,
   "indicator_group": 1,
   "salary": null,
-  "zip": "717",
+  "zip": "00717",
   "ope": "00393600"
 }

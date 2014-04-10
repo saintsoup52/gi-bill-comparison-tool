@@ -1,13 +1,13 @@
 {
   "facility_code": "25046021",
   "institution": "CATHERINE HINDS INSTITUTE OF ESTHETICS",
-  "city": "Woburn",
+  "city": "WOBURN",
   "state": "MA",
   "country": "USA",
   "bah": 2373,
   "poe": true,
   "yr": null,
-  "gibill": 4,
+  "gibill": 5,
   "cross": 165255,
   "grad_rate": 85.7,
   "grad_rate_rank": 415,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 452,
   "indicator_group": 5,
   "salary": null,
-  "zip": "1801",
+  "zip": "01801",
   "ope": "02220400"
 }

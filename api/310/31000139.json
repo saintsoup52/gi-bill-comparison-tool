@@ -1,13 +1,13 @@
 {
   "facility_code": "31000139",
   "institution": "BROWN UNIVERSITY",
-  "city": "Providence",
+  "city": "PROVIDENCE",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": true,
   "yr": true,
-  "gibill": 42,
+  "gibill": 39,
   "cross": 217156,
   "grad_rate": 95.2,
   "grad_rate_rank": 18,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 781,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2912",
+  "zip": "02912",
   "ope": "00340100"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "11007065",
   "institution": "UNIVERSITY VIRGIN ISLANDS ST.CROIX",
-  "city": "St Croix",
+  "city": "ST CROIX",
   "state": "VI",
   "country": "USA",
   "bah": 2222,
   "poe": null,
   "yr": null,
-  "gibill": 45,
+  "gibill": 47,
   "cross": 243665,
   "grad_rate": 32.3,
   "grad_rate_rank": 1465,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 105,
   "indicator_group": 1,
   "salary": null,
-  "zip": "850",
+  "zip": "00850",
   "ope": "00394600"
 }

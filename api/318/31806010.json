@@ -1,13 +1,13 @@
 {
   "facility_code": "31806010",
   "institution": "EMBRY-RIDDLE AERO UNIV-NAS JACKSONVILLE",
-  "city": "Nas Jacksonville",
+  "city": "FLEMING ISLAND",
   "state": "FL",
   "country": "USA",
   "bah": 1311,
   "poe": true,
   "yr": true,
-  "gibill": 332,
+  "gibill": 220,
   "cross": 426314,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "32212",
+  "zip": "32003",
   "ope": "00147916"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25004545",
   "institution": "ADVANCED WELDING INSTITUTE",
-  "city": "S. Burlington",
+  "city": "S. BURLINGTON",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": true,
   "yr": null,
-  "gibill": 3,
+  "gibill": 5,
   "cross": 456001,
   "grad_rate": 91.7,
   "grad_rate_rank": 224,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 949,
   "indicator_group": 5,
   "salary": null,
-  "zip": "5403",
+  "zip": "05403",
   "ope": "04146900"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10021919",
   "institution": "FARMINGTON POLICE DEPARTMENT",
-  "city": "Farmington",
+  "city": "FARMINGTON",
   "state": "ME",
   "country": "USA",
   "bah": 1104,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4938",
+  "zip": "04938",
   "ope": null
 }

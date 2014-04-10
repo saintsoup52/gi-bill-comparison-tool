@@ -1,7 +1,7 @@
 {
   "facility_code": "10345142",
   "institution": "MEMPHIS LIGHT GAS AND WATER DIVISION",
-  "city": "Memphis",
+  "city": "MEMPHIS",
   "state": "TN",
   "country": "USA",
   "bah": 1320,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "38101",
+  "zip": "38128",
   "ope": null
 }

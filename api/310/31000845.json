@@ -1,13 +1,13 @@
 {
   "facility_code": "31000845",
   "institution": "GODDARD COLLEGE",
-  "city": "Plainfield",
+  "city": "PLAINFIELD",
   "state": "VT",
   "country": "USA",
   "bah": 1818,
   "poe": null,
   "yr": true,
-  "gibill": 14,
+  "gibill": 15,
   "cross": 230889,
   "grad_rate": 8.3,
   "grad_rate_rank": 1842,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1157,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5667",
+  "zip": "05667",
   "ope": "00368600"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "20041307",
   "institution": "CAMSAN INC",
-  "city": "Stamford",
+  "city": "STAMFORD",
   "state": "CT",
   "country": "USA",
   "bah": 1461,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6069",
+  "zip": "06069",
   "ope": null
 }

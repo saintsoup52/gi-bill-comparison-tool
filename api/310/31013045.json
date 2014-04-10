@@ -1,13 +1,13 @@
 {
   "facility_code": "31013045",
   "institution": "SPRINGFIELD COLLEGE / SCHOOL OF HUMAN SERVICES",
-  "city": "St Johnsbury",
+  "city": "ST JOHNSBURY",
   "state": "VT",
   "country": "USA",
   "bah": 1119,
   "poe": null,
   "yr": true,
-  "gibill": 3,
+  "gibill": 5,
   "cross": 167899,
   "grad_rate": 66.3,
   "grad_rate_rank": 400,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1292,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5819",
+  "zip": "05819",
   "ope": "00221100"
 }

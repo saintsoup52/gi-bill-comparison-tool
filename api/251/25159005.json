@@ -1,13 +1,13 @@
 {
   "facility_code": "25159005",
-  "institution": "MILAN INSTITUTE (INDIO)",
-  "city": "Indio",
+  "institution": "MILAN INSTITUTE  INDIO",
+  "city": "PALM DESERT",
   "state": "CA",
   "country": "USA",
   "bah": 1737,
   "poe": null,
   "yr": null,
-  "gibill": 3,
+  "gibill": 4,
   "cross": 442657,
   "grad_rate": 72.5,
   "grad_rate_rank": 1055,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "92201",
+  "zip": "92211",
   "ope": "03098705"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "28033707",
   "institution": "NEW ENGLAND TRACTOR TRAILER TRAINING SCH OF CT SOMERS",
-  "city": "Somers",
+  "city": "SOMERS",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": true,
   "yr": null,
-  "gibill": 39,
+  "gibill": 68,
   "cross": 129932,
   "grad_rate": 74.2,
   "grad_rate_rank": 967,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 298,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6071",
+  "zip": "06071",
   "ope": "02202500"
 }

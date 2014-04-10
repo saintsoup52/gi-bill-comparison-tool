@@ -1,13 +1,13 @@
 {
   "facility_code": "11803107",
   "institution": "UNIVERSITY OF CONNECTICUT GROTON CAMPUS",
-  "city": "Groton",
+  "city": "GROTON",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": true,
   "yr": null,
-  "gibill": 71,
+  "gibill": 66,
   "cross": 436827,
   "grad_rate": 47.6,
   "grad_rate_rank": 980,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1360,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6340",
+  "zip": "06340",
   "ope": "00141705"
 }

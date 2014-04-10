@@ -1,13 +1,13 @@
 {
   "facility_code": "31807121",
   "institution": "TUFTS UNIVERSITY SCHOOL OF MEDICINE",
-  "city": "Boston",
+  "city": "BOSTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": 3,
+  "gibill": 5,
   "cross": 168148,
   "grad_rate": 92.3,
   "grad_rate_rank": 39,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 938,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2111",
+  "zip": "02111",
   "ope": "00221900"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "14906407",
   "institution": "THREE RIVERS COMMUNITY COLLEGE",
-  "city": "Norwich",
+  "city": "NORWICH",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": null,
   "yr": null,
-  "gibill": 452,
+  "gibill": 435,
   "cross": 129808,
   "grad_rate": 11.2,
   "grad_rate_rank": 1249,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 323,
   "indicator_group": 2,
   "salary": null,
-  "zip": "6360",
+  "zip": "06360",
   "ope": "00976500"
 }

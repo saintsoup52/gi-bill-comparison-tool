@@ -1,13 +1,13 @@
 {
   "facility_code": "25001007",
   "institution": "PORTER AND CHESTER INSTITUTE - ROCKY HILL",
-  "city": "Rocky Hill",
+  "city": "ROCKY HILL",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": null,
-  "gibill": 31,
+  "gibill": 58,
   "cross": 130174,
   "grad_rate": 70.0,
   "grad_rate_rank": 1175,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1812,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6067",
+  "zip": "06067",
   "ope": "01077900"
 }

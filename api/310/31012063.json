@@ -1,13 +1,13 @@
 {
   "facility_code": "31012063",
   "institution": "AMERICAN UNIVERSITY",
-  "city": "Bayamon",
+  "city": "BAYAMON",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 84,
+  "gibill": 85,
   "cross": 241100,
   "grad_rate": 31.2,
   "grad_rate_rank": 1503,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 11,
   "indicator_group": 1,
   "salary": null,
-  "zip": "960",
+  "zip": "00960",
   "ope": "01194100"
 }

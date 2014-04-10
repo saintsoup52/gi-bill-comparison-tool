@@ -1,13 +1,13 @@
 {
   "facility_code": "25054921",
   "institution": "BRANFORD HALL CAREER INSTITUTE",
-  "city": "Springfield",
+  "city": "SPRINGFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": null,
-  "gibill": 29,
+  "gibill": 37,
   "cross": 438805,
   "grad_rate": 54.7,
   "grad_rate_rank": 1813,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 766,
   "indicator_group": 5,
   "salary": null,
-  "zip": "1104",
+  "zip": "01104",
   "ope": "02074003"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "31002821",
   "institution": "WHEATON COLLEGE",
-  "city": "Norton",
+  "city": "NORTON",
   "state": "MA",
   "country": "USA",
   "bah": 1575,
   "poe": null,
   "yr": true,
-  "gibill": 3,
+  "gibill": 8,
   "cross": 168281,
   "grad_rate": 82.0,
   "grad_rate_rank": 129,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1564,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2766",
+  "zip": "02766",
   "ope": "00222700"
 }

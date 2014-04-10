@@ -1,13 +1,13 @@
 {
   "facility_code": "25002707",
   "institution": "NEW ENGLAND TRACTOR TRAILER TRAINING SCHOOL OF CT - BRIDGEPORT",
-  "city": "Bridgeport",
+  "city": "BRIDGEPORT",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 18,
+  "gibill": 43,
   "cross": 129932,
   "grad_rate": 74.2,
   "grad_rate_rank": 967,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 298,
   "indicator_group": 5,
   "salary": null,
-  "zip": "6608",
+  "zip": "06608",
   "ope": "02202500"
 }

@@ -1,7 +1,7 @@
 {
   "facility_code": "10667529",
   "institution": "GILFORD POLICE DEPARTMENT",
-  "city": "Gilford",
+  "city": "GILFORD",
   "state": "NH",
   "country": "USA",
   "bah": 1446,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "3249",
+  "zip": "03249",
   "ope": null
 }

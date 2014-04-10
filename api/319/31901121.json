@@ -1,13 +1,13 @@
 {
   "facility_code": "31901121",
   "institution": "CURRY COLLEGE",
-  "city": "Milton",
+  "city": "MILTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": true,
-  "gibill": 108,
+  "gibill": 125,
   "cross": 165529,
   "grad_rate": 42.7,
   "grad_rate_rank": 1153,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1549,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2186",
+  "zip": "02186",
   "ope": "00214300"
 }

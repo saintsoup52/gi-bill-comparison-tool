@@ -1,7 +1,7 @@
 {
   "facility_code": "11814121",
   "institution": "FITCHBURG STATE UNIVERSITY",
-  "city": "Fitchburg",
+  "city": "FITCHBURG",
   "state": "MA",
   "country": "USA",
   "bah": 1542,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 595,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1420",
+  "zip": "01420",
   "ope": "00218400"
 }

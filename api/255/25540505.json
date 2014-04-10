@@ -1,13 +1,13 @@
 {
   "facility_code": "25540505",
   "institution": "CALIFORNIA HEALING ARTS COLLEGE",
-  "city": "West Los Angeles",
+  "city": "CARSON",
   "state": "CA",
   "country": "USA",
   "bah": 2292,
   "poe": true,
   "yr": null,
-  "gibill": 20,
+  "gibill": 19,
   "cross": 442985,
   "grad_rate": 62.7,
   "grad_rate_rank": 1529,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "90025",
+  "zip": "90746",
   "ope": "03681300"
 }

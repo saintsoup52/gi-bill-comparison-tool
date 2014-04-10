@@ -1,13 +1,13 @@
 {
   "facility_code": "15140007",
   "institution": "NEW LONDON ADULT & CONTINUING EDUCATION",
-  "city": "New London",
+  "city": "NEW LONDON",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6320",
+  "zip": "06320",
   "ope": null
 }

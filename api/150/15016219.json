@@ -1,13 +1,13 @@
 {
   "facility_code": "15016219",
   "institution": "MEDOMAK VALLEY HIGH SCHOOL (DAY PROGRAM)",
-  "city": "Waldoboro",
+  "city": "WALDOBORO",
   "state": "ME",
   "country": "USA",
   "bah": 1170,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4572",
+  "zip": "04572",
   "ope": null
 }

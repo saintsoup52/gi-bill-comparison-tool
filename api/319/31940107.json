@@ -1,13 +1,13 @@
 {
   "facility_code": "31940107",
   "institution": "UNIVERSITY OF NEW HAVEN",
-  "city": "West Haven",
+  "city": "WEST HAVEN",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": true,
-  "gibill": 237,
+  "gibill": 291,
   "cross": 129941,
   "grad_rate": 56.0,
   "grad_rate_rank": 703,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1595,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6516",
+  "zip": "06516",
   "ope": "00139700"
 }

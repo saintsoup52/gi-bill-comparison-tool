@@ -1,7 +1,7 @@
 {
   "facility_code": "20828121",
   "institution": "RELCO",
-  "city": "Easton",
+  "city": "EASTON",
   "state": "MA",
   "country": "USA",
   "bah": 1749,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2375",
+  "zip": "02375",
   "ope": null
 }

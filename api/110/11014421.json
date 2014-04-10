@@ -1,13 +1,13 @@
 {
   "facility_code": "11014421",
   "institution": "UNIVERSITY OF MASSACHUSETTS AT DARTMOUTH",
-  "city": "North Dartmouth",
+  "city": "NORTH DARTMOUTH",
   "state": "MA",
   "country": "USA",
   "bah": 1716,
   "poe": null,
   "yr": null,
-  "gibill": 208,
+  "gibill": 207,
   "cross": 167987,
   "grad_rate": 49.9,
   "grad_rate_rank": 909,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1115,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2747",
+  "zip": "02747",
   "ope": "00221000"
 }

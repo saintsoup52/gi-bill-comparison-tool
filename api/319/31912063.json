@@ -1,13 +1,13 @@
 {
   "facility_code": "31912063",
   "institution": "INTERAMERICAN UNIVERSITY BAYAMON (UNIVERSIDAD INTERAMERICANA-BAYAM?N)",
-  "city": "Bayamon",
+  "city": "BAYAMON",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 258,
+  "gibill": 245,
   "cross": 242705,
   "grad_rate": 25.0,
   "grad_rate_rank": 1629,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 76,
   "indicator_group": 1,
   "salary": null,
-  "zip": "957",
+  "zip": "00957",
   "ope": "00393811"
 }

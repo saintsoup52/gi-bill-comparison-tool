@@ -1,13 +1,13 @@
 {
   "facility_code": "31903139",
   "institution": "BRYANT UNIVERSITY",
-  "city": "Smithfield",
+  "city": "SMITHFIELD",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": null,
   "yr": true,
-  "gibill": 28,
+  "gibill": 34,
   "cross": 217165,
   "grad_rate": 80.4,
   "grad_rate_rank": 154,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1868,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2917",
+  "zip": "02917",
   "ope": "00340200"
 }

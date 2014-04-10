@@ -1,13 +1,13 @@
 {
   "facility_code": "34000145",
   "institution": "GREEN MOUNTAIN COLLEGE",
-  "city": "Poultney",
+  "city": "POULTNEY",
   "state": "VT",
   "country": "USA",
   "bah": 1299,
-  "poe": null,
+  "poe": true,
   "yr": true,
-  "gibill": 14,
+  "gibill": 25,
   "cross": 230898,
   "grad_rate": 41.7,
   "grad_rate_rank": 1184,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1549,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5764",
+  "zip": "05764",
   "ope": "00368700"
 }

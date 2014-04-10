@@ -1,13 +1,13 @@
 {
   "facility_code": "25514517",
   "institution": "KENTUCKY HORSESHOEING SCHOOL",
-  "city": "Richmond",
+  "city": "RICHMOND",
   "state": "KY",
   "country": "USA",
   "bah": 1038,
   "poe": null,
   "yr": null,
-  "gibill": 7,
+  "gibill": 16,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "40476",
+  "zip": "40475",
   "ope": null
 }

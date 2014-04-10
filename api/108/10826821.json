@@ -1,7 +1,7 @@
 {
   "facility_code": "10826821",
   "institution": "CHICOPEE FIRE DEPARTMENT",
-  "city": "Chicopee",
+  "city": "CHICOPEE",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1020",
+  "zip": "01020",
   "ope": null
 }

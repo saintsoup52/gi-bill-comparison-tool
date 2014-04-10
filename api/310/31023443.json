@@ -1,13 +1,13 @@
 {
   "facility_code": "31023443",
   "institution": "WEBSTER UNIVERSITY FT BLISS",
-  "city": "Ft Bliss",
+  "city": "FT BLISS",
   "state": "TX",
   "country": "USA",
   "bah": 1167,
   "poe": true,
   "yr": true,
-  "gibill": 136,
+  "gibill": 146,
   "cross": 179894,
   "grad_rate": 64.1,
   "grad_rate_rank": 463,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1360,
   "indicator_group": 1,
   "salary": null,
-  "zip": "79916",
+  "zip": "79906",
   "ope": "00252100"
 }

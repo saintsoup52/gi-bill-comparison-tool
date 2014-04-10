@@ -1,13 +1,13 @@
 {
   "facility_code": "25049421",
   "institution": "THE ELIZABETH GRADY SCHOOL OF ESTHETICS",
-  "city": "Medford",
+  "city": "MEDFORD",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 3,
   "cross": 362782,
   "grad_rate": 97.2,
   "grad_rate_rank": 100,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 452,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2155",
+  "zip": "02155",
   "ope": "02523900"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25804905",
   "institution": "WESTERN PACIFIC TRUCK SCHOOL(MODESTO)",
-  "city": "Modesto",
+  "city": "MODESTO",
   "state": "CA",
   "country": "USA",
   "bah": 1050,
   "poe": true,
   "yr": null,
-  "gibill": 6,
+  "gibill": 8,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "95358",
+  "zip": "95354",
   "ope": null
 }

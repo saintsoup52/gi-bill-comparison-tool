@@ -1,13 +1,13 @@
 {
   "facility_code": "35038407",
   "institution": "NEW BRITAIN EMERGENCY MEDICAL SERVICES ACADEMY",
-  "city": "New Britain",
+  "city": "NEW BRITAIN",
   "state": "CT",
   "country": "USA",
   "bah": 1878,
   "poe": null,
   "yr": null,
-  "gibill": 5,
+  "gibill": 15,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6051",
+  "zip": "06051",
   "ope": null
 }

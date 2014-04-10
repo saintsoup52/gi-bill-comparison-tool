@@ -1,13 +1,13 @@
 {
   "facility_code": "31000807",
   "institution": "UNIVERSITY OF BRIDGEPORT",
-  "city": "Bridgeport",
+  "city": "BRIDGEPORT",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": true,
-  "gibill": 52,
+  "gibill": 64,
   "cross": 128744,
   "grad_rate": 32.0,
   "grad_rate_rank": 1478,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1416,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6601",
+  "zip": "06601",
   "ope": "00141600"
 }

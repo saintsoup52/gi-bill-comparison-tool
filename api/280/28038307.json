@@ -1,13 +1,13 @@
 {
   "facility_code": "28038307",
   "institution": "CONNECTICUT SCHOOL OF BROADCASTING-STRATFORD",
-  "city": "Stratford",
+  "city": "STRATFORD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": null,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "6615",
+  "zip": "06615",
   "ope": null
 }

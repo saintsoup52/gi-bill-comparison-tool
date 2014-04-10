@@ -1,13 +1,13 @@
 {
   "facility_code": "31010230",
   "institution": "SOUTHERN ILLINOIS UNIVERSITY AT CARBONDALE - JOINT BASE MCGUIRE-DIX-LAKEHURST",
-  "city": "Joint Base Mdl",
+  "city": "Joint Base MDL",
   "state": "NJ",
   "country": "USA",
   "bah": 1542,
   "poe": true,
   "yr": true,
-  "gibill": 18,
+  "gibill": 11,
   "cross": 149222,
   "grad_rate": 47.6,
   "grad_rate_rank": 980,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 816,
   "indicator_group": 1,
   "salary": null,
-  "zip": "8641",
+  "zip": "08641",
   "ope": "00175800"
 }

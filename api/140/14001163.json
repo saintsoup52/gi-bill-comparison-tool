@@ -1,13 +1,13 @@
 {
   "facility_code": "14001163",
   "institution": "INSTITUTO TECNOLOGICO PR SAN JUAN",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": null,
   "yr": null,
-  "gibill": 12,
+  "gibill": 13,
   "cross": 242583,
   "grad_rate": 53.8,
   "grad_rate_rank": 231,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 2,
   "salary": null,
-  "zip": "924",
+  "zip": "00924",
   "ope": "02241907"
 }

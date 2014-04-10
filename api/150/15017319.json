@@ -1,13 +1,13 @@
 {
   "facility_code": "15017319",
   "institution": "CARIBOU HIGH SCHOOL (DAY)",
-  "city": "Caribou",
+  "city": "CARIBOU",
   "state": "ME",
   "country": "USA",
   "bah": 858,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4736",
+  "zip": "04736",
   "ope": null
 }

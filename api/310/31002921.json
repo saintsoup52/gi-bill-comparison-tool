@@ -1,13 +1,13 @@
 {
   "facility_code": "31002921",
   "institution": "WILLIAMS COLLEGE",
-  "city": "Williamstown",
+  "city": "WILLIAMSTOWN",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": true,
   "yr": true,
-  "gibill": 3,
+  "gibill": 4,
   "cross": 168342,
   "grad_rate": 96.4,
   "grad_rate_rank": 10,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 729,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1267",
+  "zip": "01267",
   "ope": "00222900"
 }

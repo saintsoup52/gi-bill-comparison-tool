@@ -1,13 +1,13 @@
 {
   "facility_code": "31001438",
-  "institution": "PALMER THEOLOGICAL SEMINARY",
-  "city": "Wynnewood",
+  "institution": "PALMER THEOLOGICAL SEMINARY OF EASTERN UNIVERSITY",
+  "city": "King of Prussia",
   "state": "PA",
   "country": "USA",
   "bah": 2025,
   "poe": null,
   "yr": null,
-  "gibill": 7,
+  "gibill": 2,
   "cross": 212124,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "19096",
+  "zip": "19460",
   "ope": "00326000"
 }

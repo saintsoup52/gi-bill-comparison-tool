@@ -7,7 +7,7 @@
   "bah": 1986,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 1,
   "cross": 479965,
   "grad_rate": 96.3,
   "grad_rate_rank": 124,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 5,
   "salary": null,
-  "zip": "7712",
+  "zip": "07712",
   "ope": "04207500"
 }

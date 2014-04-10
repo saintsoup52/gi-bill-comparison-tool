@@ -1,13 +1,13 @@
 {
   "facility_code": "35819921",
   "institution": "BOSTON UNIVERSITY'S CENTER FOR DIGITAL IMAGING ARTS",
-  "city": "Waltham",
+  "city": "WALTHAM",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": true,
   "yr": null,
-  "gibill": 54,
+  "gibill": 20,
   "cross": 164988,
   "grad_rate": 83.9,
   "grad_rate_rank": 110,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2453",
+  "zip": "02453",
   "ope": "00213000"
 }

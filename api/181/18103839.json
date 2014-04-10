@@ -1,13 +1,13 @@
 {
   "facility_code": "18103839",
   "institution": "R I DEPARTMENT OF CORRECTIONS TRAINING ACADEMY",
-  "city": "Cranston",
+  "city": "CRANSTON",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": null,
   "yr": null,
-  "gibill": 2,
+  "gibill": 1,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2920",
+  "zip": "02920",
   "ope": null
 }

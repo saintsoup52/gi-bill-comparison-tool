@@ -1,7 +1,7 @@
 {
   "facility_code": "10840221",
   "institution": "PEABODY FIRE DEPARTMENT",
-  "city": "Peabody",
+  "city": "PEABODY",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1960",
+  "zip": "01960",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25164705",
   "institution": "GURNICK ACADEMY OF MEDICAL ARTS (MODESTO)",
-  "city": "Modesto",
+  "city": "MODESTO",
   "state": "CA",
   "country": "USA",
   "bah": 1050,
   "poe": null,
   "yr": null,
-  "gibill": 8,
+  "gibill": 7,
   "cross": 459213,
   "grad_rate": 85.3,
   "grad_rate_rank": 430,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1961,
   "indicator_group": 5,
   "salary": null,
-  "zip": "95350",
+  "zip": "95356",
   "ope": "04169800"
 }

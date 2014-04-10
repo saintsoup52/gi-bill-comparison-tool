@@ -1,7 +1,7 @@
 {
   "facility_code": "10054245",
   "institution": "SPRINGFIELD POLICE DEPT",
-  "city": "Springfield",
+  "city": "SPRINGFIELD",
   "state": "VT",
   "country": "USA",
   "bah": 1413,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "5156",
+  "zip": "05156",
   "ope": null
 }

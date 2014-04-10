@@ -1,13 +1,13 @@
 {
   "facility_code": "15038521",
   "institution": "SOUTHEASTERN TECHNICAL INSTITUTE",
-  "city": "South Easton",
+  "city": "SOUTH EASTON",
   "state": "MA",
   "country": "USA",
   "bah": 1749,
   "poe": true,
   "yr": null,
-  "gibill": 1,
+  "gibill": 2,
   "cross": 167871,
   "grad_rate": 81.9,
   "grad_rate_rank": 558,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1075,
   "indicator_group": 5,
   "salary": null,
-  "zip": "2375",
+  "zip": "02375",
   "ope": "01238600"
 }

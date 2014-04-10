@@ -1,13 +1,13 @@
 {
   "facility_code": "25022363",
   "institution": "LICEO DE ARTE Y TECNOLOGIA",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 24,
+  "gibill": 48,
   "cross": 242820,
   "grad_rate": 31.6,
   "grad_rate_rank": 2189,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 17,
   "indicator_group": 5,
   "salary": null,
-  "zip": "919",
+  "zip": "00919",
   "ope": "02195800"
 }

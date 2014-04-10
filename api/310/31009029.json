@@ -1,13 +1,13 @@
 {
   "facility_code": "31009029",
-  "institution": "COLBY-SAWYER COLLEGE",
+  "institution": "COLBY SAWYER COLLEGE",
   "city": "New London",
   "state": "NH",
   "country": "USA",
   "bah": 1539,
   "poe": null,
   "yr": true,
-  "gibill": 16,
+  "gibill": 15,
   "cross": 182634,
   "grad_rate": 55.9,
   "grad_rate_rank": 705,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1588,
   "indicator_group": 1,
   "salary": null,
-  "zip": "3257",
+  "zip": "03257",
   "ope": "00257200"
 }

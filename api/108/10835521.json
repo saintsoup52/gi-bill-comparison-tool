@@ -1,7 +1,7 @@
 {
   "facility_code": "10835521",
   "institution": "ACUSHNET POLICE DEPARTMENT",
-  "city": "Acushnet",
+  "city": "ACUSHNET",
   "state": "MA",
   "country": "USA",
   "bah": 1716,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2743",
+  "zip": "02743",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "14901421",
   "institution": "BERKSHIRE COMMUNITY COLLEGE",
-  "city": "Pittsfield",
+  "city": "PITTSFIELD",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": true,
   "yr": true,
-  "gibill": 79,
+  "gibill": 82,
   "cross": 164775,
   "grad_rate": 24.8,
   "grad_rate_rank": 793,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 425,
   "indicator_group": 2,
   "salary": null,
-  "zip": "1201",
+  "zip": "01201",
   "ope": "00216700"
 }

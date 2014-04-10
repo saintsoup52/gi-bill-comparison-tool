@@ -1,7 +1,7 @@
 {
   "facility_code": "20C10843",
   "institution": "BMW OF DALLAS",
-  "city": "Dallas",
+  "city": "DALLAS",
   "state": "TX",
   "country": "USA",
   "bah": 1611,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "75234",
+  "zip": "75209",
   "ope": null
 }

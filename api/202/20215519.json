@@ -1,7 +1,7 @@
 {
   "facility_code": "20215519",
   "institution": "EASTERN FIRE PROTECTION COMPANY",
-  "city": "Bangor",
+  "city": "BANGOR",
   "state": "ME",
   "country": "USA",
   "bah": 1203,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "4401",
+  "zip": "04401",
   "ope": null
 }

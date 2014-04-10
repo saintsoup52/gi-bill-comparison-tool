@@ -1,13 +1,13 @@
 {
   "facility_code": "31000145",
   "institution": "BENNINGTON COLLEGE",
-  "city": "Bennington",
+  "city": "BENNINGTON",
   "state": "VT",
   "country": "USA",
   "bah": 1332,
   "poe": null,
   "yr": true,
-  "gibill": 3,
+  "gibill": 2,
   "cross": 230816,
   "grad_rate": 63.8,
   "grad_rate_rank": 470,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1513,
   "indicator_group": 1,
   "salary": null,
-  "zip": "5201",
+  "zip": "05201",
   "ope": "00368200"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "11312507",
   "institution": "SOUTHERN ILLINOIS UNIV CARBONDALE GROTON",
-  "city": "Groton",
+  "city": "GROTON",
   "state": "CT",
   "country": "USA",
   "bah": 1425,
   "poe": true,
   "yr": true,
-  "gibill": 20,
+  "gibill": 6,
   "cross": 149222,
   "grad_rate": 47.6,
   "grad_rate_rank": 980,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 816,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6349",
+  "zip": "06349",
   "ope": "00175800"
 }

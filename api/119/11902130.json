@@ -1,13 +1,13 @@
 {
   "facility_code": "11902130",
-  "institution": "THE RICHARD STOCKTON COLLEGE OF NEW JERSEY",
+  "institution": "RICHARD STOCKTON COLLEGE OF NEW JERSEY",
   "city": "Galloway",
   "state": "NJ",
   "country": "USA",
   "bah": 1536,
-  "poe": null,
+  "poe": true,
   "yr": true,
-  "gibill": 225,
+  "gibill": 264,
   "cross": 186876,
   "grad_rate": 64.1,
   "grad_rate_rank": 463,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1007,
   "indicator_group": 1,
   "salary": null,
-  "zip": "8205",
+  "zip": "08205",
   "ope": "00934500"
 }

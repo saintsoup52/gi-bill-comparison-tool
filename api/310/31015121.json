@@ -1,13 +1,13 @@
 {
   "facility_code": "31015121",
   "institution": "MASSACHUSETTS SCHOOL OF PROFESSIONAL PSYCHOLOGY",
-  "city": "Newton",
+  "city": "NEWTON",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
   "poe": null,
   "yr": true,
-  "gibill": 9,
+  "gibill": 12,
   "cross": 166717,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": 4,
   "salary": null,
-  "zip": "2459",
+  "zip": "02459",
   "ope": "02163600"
 }

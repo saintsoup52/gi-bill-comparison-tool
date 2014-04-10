@@ -1,13 +1,13 @@
 {
   "facility_code": "11000139",
   "institution": "RHODE ISLAND COLLEGE - RECORDS OFFICE",
-  "city": "Providence",
+  "city": "PROVIDENCE",
   "state": "RI",
   "country": "USA",
   "bah": 1575,
   "poe": true,
   "yr": null,
-  "gibill": 263,
+  "gibill": 282,
   "cross": 217420,
   "grad_rate": 43.1,
   "grad_rate_rank": 1129,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 404,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2908",
+  "zip": "02908",
   "ope": "00340700"
 }

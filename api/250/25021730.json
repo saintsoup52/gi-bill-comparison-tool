@@ -1,13 +1,13 @@
 {
   "facility_code": "25021730",
   "institution": "NATIONAL CAREER INSTITUTE",
-  "city": "East Orange",
+  "city": "EAST ORANGE",
   "state": "NJ",
   "country": "USA",
   "bah": 2256,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 7,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "7018",
+  "zip": "07018",
   "ope": null
 }

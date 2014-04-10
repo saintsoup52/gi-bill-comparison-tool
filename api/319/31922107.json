@@ -1,13 +1,13 @@
 {
   "facility_code": "31922107",
   "institution": "FAIRFIELD UNIVERSITY",
-  "city": "Fairfield",
+  "city": "FAIRFIELD",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": true,
-  "gibill": 39,
+  "gibill": 50,
   "cross": 129242,
   "grad_rate": 80.8,
   "grad_rate_rank": 146,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1712,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6824",
+  "zip": "06824",
   "ope": "00138500"
 }

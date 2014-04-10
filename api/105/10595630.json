@@ -1,7 +1,7 @@
 {
   "facility_code": "10595630",
   "institution": "ATLANTIC CITY FLIGHT INSPECTION FIELD OFFICE",
-  "city": "Atlantic City",
+  "city": "ATLANTIC CITY",
   "state": "NJ",
   "country": "USA",
   "bah": 1536,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "8405",
+  "zip": "08405",
   "ope": null
 }

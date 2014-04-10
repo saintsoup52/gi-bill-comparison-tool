@@ -1,13 +1,13 @@
 {
   "facility_code": "11003563",
   "institution": "UNIVERSIDAD DE PR-RECINTO CIENCIAS MEDICAS (UPR MEDICAL SCIENCES CAMPUS)",
-  "city": "San Juan",
+  "city": "SAN JUAN",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 28,
+  "gibill": 32,
   "cross": 243203,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 51,
   "indicator_group": 1,
   "salary": null,
-  "zip": "936",
+  "zip": "00936",
   "ope": "00394203"
 }

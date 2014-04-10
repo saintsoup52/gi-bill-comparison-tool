@@ -5,9 +5,9 @@
   "state": "NJ",
   "country": "USA",
   "bah": 2256,
-  "poe": null,
+  "poe": true,
   "yr": true,
-  "gibill": 155,
+  "gibill": 165,
   "cross": 187444,
   "grad_rate": 47.5,
   "grad_rate_rank": 985,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1007,
   "indicator_group": 1,
   "salary": null,
-  "zip": "7470",
+  "zip": "07470",
   "ope": "00262500"
 }

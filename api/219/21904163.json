@@ -1,13 +1,13 @@
 {
   "facility_code": "21904163",
   "institution": "NATIONAL UNIVERSITY COLLEGE (BAYAMON)",
-  "city": "Bayamon",
+  "city": "BAYAMON",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
   "poe": true,
   "yr": null,
-  "gibill": 109,
+  "gibill": 161,
   "cross": 242972,
   "grad_rate": 18.7,
   "grad_rate_rank": 982,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 99,
   "indicator_group": 2,
   "salary": null,
-  "zip": "960",
+  "zip": "00960",
   "ope": "02260600"
 }

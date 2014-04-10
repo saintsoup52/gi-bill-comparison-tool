@@ -1,13 +1,13 @@
 {
   "facility_code": "31004107",
   "institution": "HOLY APOSTLES COLLEGE AND SEMINARY",
-  "city": "Cromwell",
+  "city": "CROMWELL",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": null,
-  "gibill": 7,
+  "gibill": 13,
   "cross": 129534,
   "grad_rate": 25.0,
   "grad_rate_rank": 1629,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 99,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6416",
+  "zip": "06416",
   "ope": "00138900"
 }

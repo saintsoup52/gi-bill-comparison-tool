@@ -1,13 +1,13 @@
 {
   "facility_code": "11000149",
   "institution": "UNIV OF WISCONSIN-MADISON",
-  "city": "Madison",
+  "city": "MADISON",
   "state": "WI",
   "country": "USA",
   "bah": 1410,
   "poe": true,
   "yr": true,
-  "gibill": 497,
+  "gibill": 452,
   "cross": 240444,
   "grad_rate": 81.8,
   "grad_rate_rank": 131,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1303,
   "indicator_group": 1,
   "salary": null,
-  "zip": "53706",
+  "zip": "53715",
   "ope": "00389500"
 }

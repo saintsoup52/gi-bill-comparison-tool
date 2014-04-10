@@ -1,13 +1,13 @@
 {
   "facility_code": "21836110",
-  "institution": "INTERNATIONAL ACADEMY OF DESIGN & TECHNOLOGY-ONLINE TAMPA",
-  "city": "Tampa",
+  "institution": "INTERNATIONAL ACADEMY OF DESIGN & TECHNOLOGY-ONLINE",
+  "city": "TAMPA",
   "state": "FL",
   "country": "USA",
   "bah": 1662,
   "poe": true,
   "yr": true,
-  "gibill": 250,
+  "gibill": 347,
   "cross": 456296,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "33634",
+  "zip": "33614",
   "ope": "03031400"
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "25051321",
   "institution": "UNITED TRACTOR TRAILER SCHOOL INC.",
-  "city": "Chicopee",
+  "city": "CHICOPEE",
   "state": "MA",
   "country": "USA",
   "bah": 1620,
   "poe": null,
   "yr": null,
-  "gibill": 7,
+  "gibill": 12,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "1020",
+  "zip": "01020",
   "ope": null
 }

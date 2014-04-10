@@ -1,13 +1,13 @@
 {
   "facility_code": "24904463",
   "institution": "INSTITUTO COMERCIAL PRJR COLLEGE MAYAGUEZ (ICPR JUNIOR COLLEGE)",
-  "city": "Mayaguez",
+  "city": "MAYAGUEZ",
   "state": "PR",
   "country": "USA",
   "bah": 1725,
   "poe": true,
   "yr": null,
-  "gibill": 28,
+  "gibill": 38,
   "cross": 242149,
   "grad_rate": 39.7,
   "grad_rate_rank": 460,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 64,
   "indicator_group": 3,
   "salary": null,
-  "zip": "681",
+  "zip": "00681",
   "ope": "01194002"
 }

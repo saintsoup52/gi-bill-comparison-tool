@@ -1,7 +1,7 @@
 {
   "facility_code": "10839521",
   "institution": "BROOKLINE FIRE DEPARTMENT",
-  "city": "Brookline",
+  "city": "BROOKLINE",
   "state": "MA",
   "country": "USA",
   "bah": 2454,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "2467",
+  "zip": "02467",
   "ope": null
 }

@@ -1,13 +1,13 @@
 {
   "facility_code": "11811321",
   "institution": "UNIVERSITY OF MASSACHUSETTS LOWELL",
-  "city": "Lowell",
+  "city": "LOWELL",
   "state": "MA",
   "country": "USA",
   "bah": 2373,
   "poe": true,
   "yr": true,
-  "gibill": 514,
+  "gibill": 586,
   "cross": 166513,
   "grad_rate": 53.8,
   "grad_rate_rank": 779,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1323,
   "indicator_group": 1,
   "salary": null,
-  "zip": "1854",
+  "zip": "01854",
   "ope": "00216100"
 }

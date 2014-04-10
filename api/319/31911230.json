@@ -1,13 +1,13 @@
 {
   "facility_code": "31911230",
   "institution": "OUR LADY OF LOURDES MEDICAL CENTER NURSE ANESTHESIA PROGRAM",
-  "city": "Camden",
+  "city": "CAMDEN",
   "state": "NJ",
   "country": "USA",
   "bah": 1758,
   "poe": null,
   "yr": null,
-  "gibill": null,
+  "gibill": 2,
   "cross": null,
   "grad_rate": null,
   "grad_rate_rank": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "8103",
+  "zip": "08103",
   "ope": "02135900"
 }

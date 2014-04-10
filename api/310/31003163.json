@@ -1,7 +1,7 @@
 {
   "facility_code": "31003163",
   "institution": "UNIVERSIDAD CENTRAL DEL CARIBE",
-  "city": "Bayamon",
+  "city": "BAYAMON",
   "state": "PR",
   "country": "USA",
   "bah": 1700,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 188,
   "indicator_group": 3,
   "salary": null,
-  "zip": "960",
+  "zip": "00960",
   "ope": "02163300"
 }

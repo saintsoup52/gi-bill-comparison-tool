@@ -5,7 +5,7 @@
   "state": "RI",
   "country": "USA",
   "bah": 1575,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": 27,
   "cross": 217402,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 1816,
   "indicator_group": 1,
   "salary": null,
-  "zip": "2918",
+  "zip": "02918",
   "ope": "00340600"
 }

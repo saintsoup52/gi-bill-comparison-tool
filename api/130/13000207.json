@@ -1,13 +1,13 @@
 {
   "facility_code": "13000207",
   "institution": "WESTERN CONNECTICUT STATE UNIVERSITY",
-  "city": "Danbury",
+  "city": "DANBURY",
   "state": "CT",
   "country": "USA",
   "bah": 2202,
   "poe": true,
   "yr": true,
-  "gibill": 179,
+  "gibill": 174,
   "cross": 130776,
   "grad_rate": 42.3,
   "grad_rate_rank": 1166,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": 594,
   "indicator_group": 1,
   "salary": null,
-  "zip": "6810",
+  "zip": "06810",
   "ope": "00138000"
 }
