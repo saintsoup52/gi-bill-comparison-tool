@@ -10,6 +10,7 @@ class String
   end
 end
 
+
 desc "Build API"
 task :build do
   
@@ -50,6 +51,7 @@ task :build do
     unless f[13] == nil; f[13] = f[13].to_i end # avg_stu_loan_debt
     unless f[14] == nil; f[14] = f[14].to_i end # avg_stu_loan_debt_rank
     unless f[15] == nil; f[15] = f[15].to_i end # indicator_group
+    unless f[17] == nil; f[17] = f[17].rjust(5, '0') end # zip
     unless f[18] == nil; f[18].tr!('"', '') end # ope
     
     # Save row to array

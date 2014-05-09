@@ -5,7 +5,7 @@
   "state": "CO",
   "country": "USA",
   "bah": 1635,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 17,
   "cross": 127273,

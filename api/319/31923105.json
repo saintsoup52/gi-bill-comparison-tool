@@ -5,7 +5,7 @@
   "state": "CA",
   "country": "USA",
   "bah": 2292,
-  "poe": null,
+  "poe": true,
   "yr": true,
   "gibill": 45,
   "cross": 120537,

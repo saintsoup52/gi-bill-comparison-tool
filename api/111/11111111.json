@@ -1,12 +1,12 @@
 {
-  "facility_code": "21014546",
-  "institution": "STRATFORD UNIVERSITY",
-  "city": "VIRGINIA BEACH",
-  "state": "VA",
+  "facility_code": "11111111",
+  "institution": "University of the United States- EXAMPLE ONLY",
+  "city": "Anytown",
+  "state": "USA",
   "country": "USA",
-  "bah": 1518,
+  "bah": 1429,
   "poe": true,
-  "yr": null,
+  "yr": true,
   "gibill": null,
   "cross": null,
   "grad_rate": null,
@@ -16,6 +16,6 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "zip": "23462",
+  "zip": null,
   "ope": null
 }
