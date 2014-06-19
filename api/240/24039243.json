@@ -5,7 +5,7 @@
   "state": "TX",
   "country": "USA",
   "bah": 1107,
-  "poe": null,
+  "poe": true,
   "yr": null,
   "gibill": null,
   "cross": null,
