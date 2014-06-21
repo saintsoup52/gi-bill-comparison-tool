@@ -64,13 +64,11 @@ task :build do
   institutions = []
   
   data.each do |el|
-    if el[:country] == "USA"
-      institution_name = "#{el[:institution]} (#{el[:city]}, #{el[:state]})"
-    else
-      institution_name = "#{el[:institution]} (#{el[:city]}, #{el[:country]})"
-    end
-    
-    institutions.push Array[el[:facility_code], institution_name]
+    institutions.push Array[el[:facility_code],
+                            el[:institution],
+                            el[:city].to_s.upcase,
+                            el[:state].to_s.upcase,
+                            el[:country].to_s.upcase]
   end
   
   File.open("api/institutions.json", 'w') { |f| f.write(institutions.to_json) }

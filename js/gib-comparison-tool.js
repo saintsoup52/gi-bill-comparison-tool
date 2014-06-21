@@ -868,7 +868,11 @@ var GIBComparisonTool = function () {
     $.getJSON("api/institutions.json", function (data) {
       
       for (var i = 0; i < data.length; i++) {
-        institutions.push({ value: data[i][0], label: data[i][1] });
+        if (data[i][4] == "USA") {
+          institutions.push({ value: data[i][0], label: data[i][1] + ' (' + data[i][2] + ', ' + data[i][3] + ')'});
+        } else {
+          institutions.push({ value: data[i][0], label: data[i][1] + ' (' + data[i][2] + ', ' + data[i][4] + ')'});
+        }
       }
       
       $('#institution-search').autocomplete({
