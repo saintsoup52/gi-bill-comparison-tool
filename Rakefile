@@ -41,7 +41,11 @@ task :build do
       end
     end
     
-    # Convert data types (numbers)
+    # Convert data types
+    f[1].to_s.upcase!
+    f[2].to_s.upcase!
+    f[3].to_s.upcase!
+    f[4].to_s.upcase!
     unless f[5] == nil;  f[5] = f[5].to_i   end # bah
     unless f[8] == nil;  f[8] = f[8].to_i   end # gibill
     unless f[9] == nil;  f[9] = f[9].to_i   end # cross
@@ -64,11 +68,8 @@ task :build do
   institutions = []
   
   data.each do |el|
-    institutions.push Array[el[:facility_code],
-                            el[:institution],
-                            el[:city].to_s.upcase,
-                            el[:state].to_s.upcase,
-                            el[:country].to_s.upcase]
+    institutions.push Array[el[:facility_code], el[:institution],
+                            el[:city], el[:state], el[:country]]
   end
   
   File.open("api/institutions.json", 'w') { |f| f.write(institutions.to_json) }
