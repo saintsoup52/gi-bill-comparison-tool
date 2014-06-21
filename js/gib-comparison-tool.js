@@ -826,6 +826,21 @@ var GIBComparisonTool = function () {
         "<p><a href='http://nces.ed.gov/collegenavigator/?id=" +
         institution.cross +
         "' target='newtab'>More information about your school &rsaquo;&rsaquo;</a></p>");
+      
+      if (institution.student_veteran) {
+        $('#sva-chapter').html('<a href="'+ institution.student_veteran_link +'" target="_blank">Link &raquo;</a>');
+        $('#sva-chapter-field').show();
+      } else {
+        $('#sva-chapter-field').hide();
+      }
+      
+      console.log("====== " + institution.institution + " ======");
+      console.log("=== Institution ===");
+      console.log(institution);
+      console.log("=== Form Data ===");
+      console.log(formData);
+      console.log("=== Calculated Values ===");
+      console.log(calculated);
     });
   };
   
