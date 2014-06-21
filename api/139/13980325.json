@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "63701",
-  "ope": "00250100"
+  "ope": "00250100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6750",
+  "tuition_out_of_state": "11985",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/113365822024464/?fref=ts"
 }

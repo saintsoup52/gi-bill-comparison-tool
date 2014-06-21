@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90747",
-  "ope": "00114100"
+  "ope": "00114100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6095",
+  "tuition_out_of_state": "17753",
+  "student_veteran": true,
+  "student_veteran_link": "http://www3.csudh.edu/student-affairs/veterans-affairs/veterans-alliance/default.html"
 }

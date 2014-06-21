@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "65305",
-  "ope": "00808000"
+  "ope": "00808000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3810",
+  "tuition_out_of_state": "5700",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

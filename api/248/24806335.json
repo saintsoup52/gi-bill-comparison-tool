@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "43026",
-  "ope": "02158503"
+  "ope": "02158503",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "8140",
+  "tuition_out_of_state": "8140",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "77036",
-  "ope": "03422400"
+  "ope": "03422400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "9468",
+  "tuition_out_of_state": "9468",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

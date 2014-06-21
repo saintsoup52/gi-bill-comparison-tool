@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "27708",
-  "ope": "00292000"
+  "ope": "00292000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "43623",
+  "tuition_out_of_state": "43623",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/dukeveterans"
 }

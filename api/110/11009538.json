@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "16444",
-  "ope": "00332100"
+  "ope": "00332100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8578",
+  "tuition_out_of_state": "12315",
+  "student_veteran": true,
+  "student_veteran_link": "http://veterans.edinboro.edu"
 }

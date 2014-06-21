@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "26241",
-  "ope": "00381100"
+  "ope": "00381100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "23820",
+  "tuition_out_of_state": "23820",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.dewv.edu/campus-life/student-veterans"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "78728",
-  "ope": "02117102"
+  "ope": "02117102",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "17808",
+  "tuition_out_of_state": "17808",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

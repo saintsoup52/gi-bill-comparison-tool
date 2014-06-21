@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "37411",
-  "ope": "02204200"
+  "ope": "02204200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "9265",
+  "tuition_out_of_state": "9265",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

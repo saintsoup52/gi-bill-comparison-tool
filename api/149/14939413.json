@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "60411",
-  "ope": "00164000"
+  "ope": "00164000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6600",
+  "tuition_out_of_state": "7560",
+  "student_veteran": true,
+  "student_veteran_link": "http://prairiestate.edu/vetsclub/index.html"
 }

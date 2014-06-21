@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "45324",
-  "ope": "04074300"
+  "ope": "04074300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "17375",
+  "tuition_out_of_state": "17375",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

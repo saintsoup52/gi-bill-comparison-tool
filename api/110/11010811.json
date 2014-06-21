@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30043",
-  "ope": "04142900"
+  "ope": "04142900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5082",
+  "tuition_out_of_state": "14308",
+  "student_veteran": true,
+  "student_veteran_link": "https://getinvolved.ggc.e d u/organization/covert"
 }

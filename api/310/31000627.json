@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "68025",
-  "ope": "00255300"
+  "ope": "00255300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "25994",
+  "tuition_out_of_state": "25994",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "85069",
-  "ope": "00108100"
+  "ope": "00108100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9724",
+  "tuition_out_of_state": "22977",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.ASUTempeVets.com"
 }

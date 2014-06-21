@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "46268",
-  "ope": "02245505"
+  "ope": "02245505",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "19957",
+  "tuition_out_of_state": "19957",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

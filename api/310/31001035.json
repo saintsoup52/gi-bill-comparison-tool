@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "43512",
-  "ope": "00304100"
+  "ope": "00304100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "27360",
+  "tuition_out_of_state": "27360",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

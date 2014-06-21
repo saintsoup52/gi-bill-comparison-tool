@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "68602",
-  "ope": "02099500"
+  "ope": "02099500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2640",
+  "tuition_out_of_state": "3840",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.cccneb.edu/veterans"
 }

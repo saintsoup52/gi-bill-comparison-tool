@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "84601",
-  "ope": "02360800"
+  "ope": "02360800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "14835",
+  "tuition_out_of_state": "14835",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

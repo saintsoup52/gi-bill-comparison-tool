@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "50325",
-  "ope": "00190000"
+  "ope": "00190000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "23210",
+  "tuition_out_of_state": "23210",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

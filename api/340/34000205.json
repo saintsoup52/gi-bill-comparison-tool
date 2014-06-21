@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94614",
-  "ope": "03752400"
+  "ope": "03752400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "7946",
+  "tuition_out_of_state": "7946",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

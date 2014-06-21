@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92707",
-  "ope": "00132200"
+  "ope": "00132200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "39338",
+  "tuition_out_of_state": "39338",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "05405",
-  "ope": "00369600"
+  "ope": "00369600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "15284",
+  "tuition_out_of_state": "35612",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.uvm.edu/~vco/"
 }

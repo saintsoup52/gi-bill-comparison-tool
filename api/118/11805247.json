@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "98402",
-  "ope": "00379801"
+  "ope": "00379801",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "11902",
+  "tuition_out_of_state": "29457",
+  "student_veteran": true,
+  "student_veteran_link": "https://tacoma.collegiatelink.net/organization/svo"
 }

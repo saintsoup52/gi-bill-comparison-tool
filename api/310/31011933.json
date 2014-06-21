@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "28547",
-  "ope": "00213000"
+  "ope": "00213000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "42994",
+  "tuition_out_of_state": "42994",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.bu.edu"
 }

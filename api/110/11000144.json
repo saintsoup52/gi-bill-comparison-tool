@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "84720",
-  "ope": "00367800"
+  "ope": "00367800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5576",
+  "tuition_out_of_state": "16984",
+  "student_veteran": true,
+  "student_veteran_link": "https://tbirdconnection.collegiatelink.net/organization/SV-SUU"
 }

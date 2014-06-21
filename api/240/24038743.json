@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "76011",
-  "ope": "03542300"
+  "ope": "03542300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": null,
+  "student_veteran_link": null
 }

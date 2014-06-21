@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "84115",
-  "ope": "00367700"
+  "ope": "00367700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5940",
+  "tuition_out_of_state": "16200",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/USUVeteranAssociation"
 }

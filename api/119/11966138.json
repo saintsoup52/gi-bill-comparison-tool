@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "15419",
-  "ope": "00331600"
+  "ope": "00331600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9379",
+  "tuition_out_of_state": "13825",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.calu.edu/current-students/student-services/veterans/veterans-club/index.htm"
 }

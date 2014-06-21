@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "06515",
-  "ope": "00140600"
+  "ope": "00140600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8570",
+  "tuition_out_of_state": "19573",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/email/unreachable/#!/SCSUVeterans"
 }

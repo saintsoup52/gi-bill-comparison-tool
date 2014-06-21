@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "86503",
-  "ope": "02357600"
+  "ope": "02357600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2590",
+  "tuition_out_of_state": "3790",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

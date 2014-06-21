@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "37932",
-  "ope": "72098831"
+  "ope": "72098831",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "10240",
+  "tuition_out_of_state": "10240",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

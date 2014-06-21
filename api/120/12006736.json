@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "74135",
-  "ope": "00318400"
+  "ope": "00318400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8706",
+  "tuition_out_of_state": "20343",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/OU-Student-Veterans-Association-SVA/274024639303493?ref=hl"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "63113",
-  "ope": "01250000"
+  "ope": "01250000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "14134",
+  "tuition_out_of_state": "14134",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

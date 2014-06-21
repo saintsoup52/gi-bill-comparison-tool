@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29152",
-  "ope": "00152600"
+  "ope": "00152600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "19370",
+  "tuition_out_of_state": "19370",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.saintleo.edu/resources/veteran-services.aspx"
 }

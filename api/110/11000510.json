@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32611",
-  "ope": "00153500"
+  "ope": "00153500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6143",
+  "tuition_out_of_state": "28420",
+  "student_veteran": true,
+  "student_veteran_link": "https://ufl.collegiatelink.net/organization/cvs"
 }

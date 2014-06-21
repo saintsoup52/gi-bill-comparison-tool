@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "12308",
-  "ope": "00288900"
+  "ope": "00288900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "45219",
+  "tuition_out_of_state": "45219",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

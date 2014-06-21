@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "36109",
-  "ope": "02341002"
+  "ope": "02341002",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "20173",
+  "tuition_out_of_state": "20173",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

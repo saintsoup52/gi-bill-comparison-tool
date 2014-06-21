@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "84003",
-  "ope": "04161900"
+  "ope": "04161900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": null,
+  "student_veteran_link": null
 }

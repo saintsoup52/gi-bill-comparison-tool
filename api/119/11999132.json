@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10010",
-  "ope": "00727300"
+  "ope": "00727300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5910",
+  "tuition_out_of_state": "12120",
+  "student_veteran": true,
+  "student_veteran_link": "http://baruchveterans.org/"
 }

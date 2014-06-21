@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80920",
-  "ope": "00405702"
+  "ope": "00405702",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "12135",
+  "tuition_out_of_state": "12135",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

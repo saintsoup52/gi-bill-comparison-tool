@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "77002",
-  "ope": "00361200"
+  "ope": "00361200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5022",
+  "tuition_out_of_state": "13446",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.uhd.edu/veterans/"
 }

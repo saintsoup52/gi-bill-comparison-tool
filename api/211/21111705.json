@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94608",
-  "ope": "03973300"
+  "ope": "03973300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "23302",
+  "tuition_out_of_state": "23302",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

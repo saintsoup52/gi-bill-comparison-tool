@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "15717",
-  "ope": "00915705"
+  "ope": "00915705",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/groups/171592443444/"
 }

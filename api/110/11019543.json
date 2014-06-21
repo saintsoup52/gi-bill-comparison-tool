@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "75799",
-  "ope": "01116300"
+  "ope": "01116300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7222",
+  "tuition_out_of_state": "17752",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

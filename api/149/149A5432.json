@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "10595",
-  "ope": "00288100"
+  "ope": "00288100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "4703",
+  "tuition_out_of_state": "12193",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/Westchester-Veterans-Association/263931110293712"
 }

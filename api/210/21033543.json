@@ -17,5 +17,12 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "78745",
-  "ope": "03156400"
+  "ope": "03156400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/AOMA-Student-Veterans-Organization/788240357870471?ref=hl"
 }

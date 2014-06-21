@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "97603",
-  "ope": "03428300"
+  "ope": "03428300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "3435",
+  "tuition_out_of_state": "6243",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

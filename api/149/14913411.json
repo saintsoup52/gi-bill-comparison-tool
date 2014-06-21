@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "30121",
-  "ope": "00950700"
+  "ope": "00950700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2443",
+  "tuition_out_of_state": "7945",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/SVA.GHC/"
 }

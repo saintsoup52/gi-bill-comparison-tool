@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95616",
-  "ope": "00131300"
+  "ope": "00131300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "13877",
+  "tuition_out_of_state": "36755",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/DavisStudentVet/"
 }

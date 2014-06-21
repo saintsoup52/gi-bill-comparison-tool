@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "07717",
-  "ope": "03766301"
+  "ope": "03766301",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "9775",
+  "tuition_out_of_state": "9775",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "81004",
-  "ope": "02116300"
+  "ope": "02116300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3235",
+  "tuition_out_of_state": "11630",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

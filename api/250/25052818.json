@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "70809",
-  "ope": "03480300"
+  "ope": "03480300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "14480",
+  "tuition_out_of_state": "14480",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

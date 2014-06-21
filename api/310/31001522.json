@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49076",
-  "ope": "00230800"
+  "ope": "00230800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "21971",
+  "tuition_out_of_state": "21971",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

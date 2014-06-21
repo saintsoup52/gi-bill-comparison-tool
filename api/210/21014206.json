@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80014",
-  "ope": "04127700"
+  "ope": "04127700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "9325",
+  "tuition_out_of_state": "9325",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

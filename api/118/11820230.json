@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "08903",
-  "ope": "00262900"
+  "ope": "00262900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "13073",
+  "tuition_out_of_state": "26393",
+  "student_veteran": true,
+  "student_veteran_link": "http://ucc.rutgers.edu/veterans-rutgers/ru-s.e.r.v.e"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "01086",
-  "ope": "00218900"
+  "ope": "00218900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8297",
+  "tuition_out_of_state": "14377",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/wsuveteransassociation"
 }

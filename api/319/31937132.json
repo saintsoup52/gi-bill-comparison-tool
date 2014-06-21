@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10027",
-  "ope": "00270700"
+  "ope": "00270700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "47246",
+  "tuition_out_of_state": "47246",
+  "student_veteran": true,
+  "student_veteran_link": "http://milvets.columbia.edu"
 }

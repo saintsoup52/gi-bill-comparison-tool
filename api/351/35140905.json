@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "95525",
-  "ope": "03025600"
+  "ope": "03025600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "12750",
+  "tuition_out_of_state": "12750",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

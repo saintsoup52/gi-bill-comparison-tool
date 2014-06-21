@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "90806",
-  "ope": "00121900"
+  "ope": "00121900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1366",
+  "tuition_out_of_state": "7218",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/page/lbcc-veterans-club#!/pages/LBCC-Veterans-Club/175909475932200"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "75074",
-  "ope": "02361400"
+  "ope": "02361400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2044",
+  "tuition_out_of_state": "3694",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

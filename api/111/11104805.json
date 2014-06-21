@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92182",
-  "ope": "00115100"
+  "ope": "00115100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6578",
+  "tuition_out_of_state": "18236",
+  "student_veteran": true,
+  "student_veteran_link": "http://svosdsu.com"
 }

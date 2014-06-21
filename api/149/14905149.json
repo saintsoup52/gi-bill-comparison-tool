@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "54401",
-  "ope": "00538700"
+  "ope": "00538700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3852",
+  "tuition_out_of_state": "5606",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/NTCVetsClub"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "28329",
-  "ope": "00789200"
+  "ope": "00789200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2285",
+  "tuition_out_of_state": "8429",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32405",
-  "ope": "00148900"
+  "ope": "00148900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6402",
+  "tuition_out_of_state": "21570",
+  "student_veteran": true,
+  "student_veteran_link": "http://veterans.fsu.edu/Collegiate-Veterans-Association"
 }

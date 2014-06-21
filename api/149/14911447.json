@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "98337",
-  "ope": "00378400"
+  "ope": "00378400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "3726",
+  "tuition_out_of_state": "4197",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

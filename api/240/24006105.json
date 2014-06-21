@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "92234",
-  "ope": "04115600"
+  "ope": "04115600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "12800",
+  "tuition_out_of_state": "12800",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

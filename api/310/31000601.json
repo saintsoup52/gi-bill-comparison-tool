@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36106",
-  "ope": "00101900"
+  "ope": "00101900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "22500",
+  "tuition_out_of_state": "22500",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

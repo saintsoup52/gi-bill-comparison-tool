@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19001",
-  "ope": "00332913"
+  "ope": "00332913",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "13356",
+  "tuition_out_of_state": "19912",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/pages/Veterans-Organization-of-Penn-State-Abington/178210272219363"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80217",
-  "ope": "00136000"
+  "ope": "00136000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5341",
+  "tuition_out_of_state": "17022",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/338731390154/"
 }

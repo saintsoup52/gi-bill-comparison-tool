@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53818",
-  "ope": "00392100"
+  "ope": "00392100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7457",
+  "tuition_out_of_state": "15030",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

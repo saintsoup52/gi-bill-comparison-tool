@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60506",
-  "ope": "00163400"
+  "ope": "00163400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "20100",
+  "tuition_out_of_state": "20100",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

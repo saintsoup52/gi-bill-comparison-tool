@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "78712",
-  "ope": "00365800"
+  "ope": "00365800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9790",
+  "tuition_out_of_state": "33128",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.texasvets.org"
 }

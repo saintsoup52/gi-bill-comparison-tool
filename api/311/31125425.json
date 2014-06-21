@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "64109",
-  "ope": "04119100"
+  "ope": "04119100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "6000",
+  "tuition_out_of_state": "6000",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

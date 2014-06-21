@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "75038",
-  "ope": "02077400"
+  "ope": "02077400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2490",
+  "tuition_out_of_state": "3960",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/nlcva/"
 }

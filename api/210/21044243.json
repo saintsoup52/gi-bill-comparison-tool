@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "77042",
-  "ope": "02113610"
+  "ope": "02113610",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "14674",
+  "tuition_out_of_state": "14674",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

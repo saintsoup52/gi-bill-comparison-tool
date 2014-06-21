@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "30906",
-  "ope": "00559900"
+  "ope": "00559900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2232",
+  "tuition_out_of_state": "4152",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.augustatech.edu"
 }

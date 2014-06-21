@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "38478",
-  "ope": "00350400"
+  "ope": "00350400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "21368",
+  "tuition_out_of_state": "21368",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/MMCVeteransClub"
 }

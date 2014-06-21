@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "02115",
-  "ope": "00214700"
+  "ope": "00214700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "33650",
+  "tuition_out_of_state": "33650",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "22314",
-  "ope": "00144400"
+  "ope": "00144400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "45780",
+  "tuition_out_of_state": "45780",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.gwveterans.com/"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "97331",
-  "ope": "00321000"
+  "ope": "00321000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "8138",
+  "tuition_out_of_state": "22322",
+  "student_veteran": true,
+  "student_veteran_link": "http://groups.oregonstate.edu/vfsa/"
 }

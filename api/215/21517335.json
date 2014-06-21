@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "45212",
-  "ope": "00732960"
+  "ope": "00732960",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "18048",
+  "tuition_out_of_state": "18048",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

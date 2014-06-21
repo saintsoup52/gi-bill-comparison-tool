@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21201",
-  "ope": "00210200"
+  "ope": "00210200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7646",
+  "tuition_out_of_state": "17914",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.ubalt.edu/campus-life/veterans/"
 }

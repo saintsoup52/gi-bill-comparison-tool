@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "70118",
-  "ope": "00201600"
+  "ope": "00201600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "35182",
+  "tuition_out_of_state": "35182",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/LoynoSVO"
 }

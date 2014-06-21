@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "39762",
-  "ope": "00242300"
+  "ope": "00242300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6264",
+  "tuition_out_of_state": "15828",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.veterans.msstate.edu/mission/"
 }

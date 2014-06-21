@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "35487",
-  "ope": "00105100"
+  "ope": "00105100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9200",
+  "tuition_out_of_state": "22950",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/UACVA"
 }

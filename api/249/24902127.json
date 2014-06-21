@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "68137",
-  "ope": "00750100"
+  "ope": "00750100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "12262",
+  "tuition_out_of_state": "12262",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

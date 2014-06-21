@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "30043",
-  "ope": "02288400"
+  "ope": "02288400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2434",
+  "tuition_out_of_state": "4354",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

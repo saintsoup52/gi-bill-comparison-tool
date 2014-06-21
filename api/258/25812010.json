@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "34668",
-  "ope": "04176900"
+  "ope": "04176900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "11540",
+  "tuition_out_of_state": "11540",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

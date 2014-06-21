@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "02886",
-  "ope": "00340800"
+  "ope": "00340800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3950",
+  "tuition_out_of_state": "10582",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.ccri.edu/veterans"
 }

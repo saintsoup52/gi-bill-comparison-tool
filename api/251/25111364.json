@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "96814",
-  "ope": "04182200"
+  "ope": "04182200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "13089",
+  "tuition_out_of_state": "13089",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

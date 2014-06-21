@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "98122",
-  "ope": "00378700"
+  "ope": "00378700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "3893",
+  "tuition_out_of_state": "9083",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.sites.google.com/site/svasccc/"
 }

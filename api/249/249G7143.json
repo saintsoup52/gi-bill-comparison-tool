@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "79925",
-  "ope": "02572000"
+  "ope": "02572000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "18050",
+  "tuition_out_of_state": "18050",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

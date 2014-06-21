@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "54311",
-  "ope": "00389900"
+  "ope": "00389900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7648",
+  "tuition_out_of_state": "15221",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.uwgb.edu/veterans/"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "98801",
-  "ope": "00380100"
+  "ope": "00380100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "3718",
+  "tuition_out_of_state": "4112",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

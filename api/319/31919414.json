@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "46219",
-  "ope": "03456700"
+  "ope": "03456700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "12350",
+  "tuition_out_of_state": "12350",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

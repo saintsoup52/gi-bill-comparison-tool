@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "21012",
-  "ope": "00205800"
+  "ope": "00205800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6809",
+  "tuition_out_of_state": "11129",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.aacc.edu/military/"
 }

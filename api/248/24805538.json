@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "15222",
-  "ope": "00747000"
+  "ope": "00747000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "18764",
+  "tuition_out_of_state": "18764",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/aipodsva"
 }

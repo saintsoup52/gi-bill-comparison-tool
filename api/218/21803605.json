@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "94102",
-  "ope": "02179943"
+  "ope": "02179943",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "18948",
+  "tuition_out_of_state": "18948",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

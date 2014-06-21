@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "62305",
-  "ope": "02069300"
+  "ope": "02069300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "11965",
+  "tuition_out_of_state": "11965",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

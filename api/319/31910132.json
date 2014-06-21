@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10962",
-  "ope": "00271300"
+  "ope": "00271300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "23970",
+  "tuition_out_of_state": "23970",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

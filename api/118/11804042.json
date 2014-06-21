@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "37614",
-  "ope": "00348700"
+  "ope": "00348700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6715",
+  "tuition_out_of_state": "21355",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/#!/pages/Student-Veterans-of-America-at-ETSU/301908706487211"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "08205",
-  "ope": "00934500"
+  "ope": "00934500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "12322",
+  "tuition_out_of_state": "18715",
+  "student_veteran": true,
+  "student_veteran_link": "http://intraweb.stockton.edu/eyos/page.cfm?siteID=174&pageID=6"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "11735",
-  "ope": "00285800"
+  "ope": "00285800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6793",
+  "tuition_out_of_state": "16043",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/#!/FarmingdaleVeteransClub"
 }

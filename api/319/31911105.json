@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "95053",
-  "ope": "00132600"
+  "ope": "00132600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "40572",
+  "tuition_out_of_state": "40572",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

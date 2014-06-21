@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "52242",
-  "ope": "00189200"
+  "ope": "00189200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8057",
+  "tuition_out_of_state": "26279",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.uiva.org"
 }

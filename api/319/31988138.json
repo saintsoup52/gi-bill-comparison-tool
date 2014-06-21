@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19144",
-  "ope": "00335400"
+  "ope": "00335400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "32064",
+  "tuition_out_of_state": "32064",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/212831732256487/"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "39503",
-  "ope": "03525300"
+  "ope": "03525300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "16148",
+  "tuition_out_of_state": "16148",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

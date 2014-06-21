@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "78503",
-  "ope": null
+  "ope": null,
+  "correspondence": null,
+  "flight": null,
+  "calendar": null,
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": null,
+  "student_veteran_link": null
 }

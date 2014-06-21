@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "14109",
-  "ope": "00278800"
+  "ope": "00278800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "27230",
+  "tuition_out_of_state": "27230",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/NiagaraUniversityStudentVeteransOrganization?ref=ts"
 }

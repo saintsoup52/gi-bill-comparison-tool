@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "22203",
-  "ope": "00450702"
+  "ope": "00450702",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "14688",
+  "tuition_out_of_state": "14688",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

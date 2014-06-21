@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "45680",
-  "ope": "03475400"
+  "ope": "03475400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7700",
+  "tuition_out_of_state": "7700",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

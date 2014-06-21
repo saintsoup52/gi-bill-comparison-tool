@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "89135",
-  "ope": "32098898"
+  "ope": "32098898",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "11320",
+  "tuition_out_of_state": "11320",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

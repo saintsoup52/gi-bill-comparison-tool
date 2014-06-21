@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "75052",
-  "ope": "00793804"
+  "ope": "00793804",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": true,
+  "student_veteran_link": "http://svatexaschapter.com"
 }

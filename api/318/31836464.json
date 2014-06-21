@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "96813",
-  "ope": "02605507"
+  "ope": "02605507",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "16140",
+  "tuition_out_of_state": "16140",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

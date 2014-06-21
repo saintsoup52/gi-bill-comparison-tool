@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "15108",
-  "ope": "00335900"
+  "ope": "00335900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "24064",
+  "tuition_out_of_state": "24064",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.rmu.edu/MilitaryVeterans"
 }

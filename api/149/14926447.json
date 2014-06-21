@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "99224",
-  "ope": "00954400"
+  "ope": "00954400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "3467",
+  "tuition_out_of_state": "8657",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

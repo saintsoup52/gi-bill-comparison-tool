@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60187",
-  "ope": "00178100"
+  "ope": "00178100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "30120",
+  "tuition_out_of_state": "30120",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

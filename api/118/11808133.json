@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "27858",
-  "ope": "00292300"
+  "ope": "00292300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5869",
+  "tuition_out_of_state": "19683",
+  "student_veteran": true,
+  "student_veteran_link": "https://orgsync.com/63735/chapter"
 }

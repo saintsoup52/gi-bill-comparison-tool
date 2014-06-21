@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "79409",
-  "ope": "00364400"
+  "ope": "00364400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7517",
+  "tuition_out_of_state": "15941",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

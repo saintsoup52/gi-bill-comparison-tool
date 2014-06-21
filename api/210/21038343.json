@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "78727",
-  "ope": "00405720"
+  "ope": "00405720",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "12459",
+  "tuition_out_of_state": "12459",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "49401",
-  "ope": "00226800"
+  "ope": "00226800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "10078",
+  "tuition_out_of_state": "14568",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/groups/141742383088"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "37403",
-  "ope": "00352900"
+  "ope": "00352900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7212",
+  "tuition_out_of_state": "21558",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.utcsvo.org"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "48109",
-  "ope": "00232500"
+  "ope": "00232500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "12994",
+  "tuition_out_of_state": "39122",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/SVAUM"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "43537",
-  "ope": "02337700"
+  "ope": "02337700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "15588",
+  "tuition_out_of_state": "15588",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

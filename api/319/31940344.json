@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "84790",
-  "ope": "00367400"
+  "ope": "00367400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "15957",
+  "tuition_out_of_state": "15957",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

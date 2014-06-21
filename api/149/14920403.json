@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "85225",
-  "ope": "03072200"
+  "ope": "03072200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1854",
+  "tuition_out_of_state": "7638",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/CGCC-Student-Veterans-Organization/277975655645737"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "91754",
-  "ope": "02226000"
+  "ope": "02226000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1220",
+  "tuition_out_of_state": "6160",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/Veterans-of-East-Los-Angeles-CollegeVELAC/237522879625704"
 }

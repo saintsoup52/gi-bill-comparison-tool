@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "87117",
-  "ope": "00170700"
+  "ope": "00170700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "25770",
+  "tuition_out_of_state": "25770",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/LewisUniversityStudentVeteransOfAmerica"
 }

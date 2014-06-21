@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "43210",
-  "ope": "00309000"
+  "ope": "00309000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "10037",
+  "tuition_out_of_state": "25445",
+  "student_veteran": true,
+  "student_veteran_link": "http://vets4vets.org.ohio-state.edu"
 }

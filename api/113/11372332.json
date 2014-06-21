@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "11024",
-  "ope": "00289200"
+  "ope": "00289200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "0",
+  "tuition_out_of_state": "0",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

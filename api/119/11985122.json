@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "48202",
-  "ope": "00232900"
+  "ope": "00232900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "10190",
+  "tuition_out_of_state": "21735",
+  "student_veteran": true,
+  "student_veteran_link": "http://wsusvo.org"
 }

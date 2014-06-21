@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "85021",
-  "ope": "03210308"
+  "ope": "03210308",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "15873",
+  "tuition_out_of_state": "15873",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

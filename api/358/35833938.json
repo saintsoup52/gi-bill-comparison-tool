@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19530",
-  "ope": "00332200"
+  "ope": "00332200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8596",
+  "tuition_out_of_state": "18422",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/MilitaryclubKU"
 }

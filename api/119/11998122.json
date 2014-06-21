@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "48197",
-  "ope": "00225900"
+  "ope": "00225900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9026",
+  "tuition_out_of_state": "24008",
+  "student_veteran": true,
+  "student_veteran_link": "https://emu.collegiatelink.net/organization/student-veterans-of-america-at-emu"
 }

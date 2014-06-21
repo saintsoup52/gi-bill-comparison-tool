@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "40536",
-  "ope": "00198900"
+  "ope": "00198900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9676",
+  "tuition_out_of_state": "19864",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.wix.com/lukeagoodwin/uksva#!home/mainPage"
 }

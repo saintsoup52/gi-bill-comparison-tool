@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "01003",
-  "ope": "00222100"
+  "ope": "00222100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "13415",
+  "tuition_out_of_state": "26830",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.umassvets.org"
 }

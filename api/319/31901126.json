@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "59718",
-  "ope": "04140300"
+  "ope": "04140300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6690",
+  "tuition_out_of_state": "6690",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

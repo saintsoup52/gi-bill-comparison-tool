@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "70381",
-  "ope": "00548843"
+  "ope": "00548843",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1901",
+  "tuition_out_of_state": "3600",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

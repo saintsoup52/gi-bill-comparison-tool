@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "20001",
-  "ope": "00144500"
+  "ope": "00144500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "42870",
+  "tuition_out_of_state": "42870",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.georgetown.edu/student-veteran-groups.html"
 }

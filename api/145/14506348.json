@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "26101",
-  "ope": "00382800"
+  "ope": "00382800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2496",
+  "tuition_out_of_state": "8856",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.wvup.edu/current-students/veterans/veterans-corp/"
 }

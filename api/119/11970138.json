@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "15132",
-  "ope": "00332910"
+  "ope": "00332910",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "13356",
+  "tuition_out_of_state": "19912",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "97005",
-  "ope": "02239203"
+  "ope": "02239203",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "11374",
+  "tuition_out_of_state": "11374",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

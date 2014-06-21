@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "55402",
-  "ope": "03267300"
+  "ope": "03267300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "11952",
+  "tuition_out_of_state": "11952",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

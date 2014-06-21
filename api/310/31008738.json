@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19607",
-  "ope": "00323300"
+  "ope": "00323300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "27950",
+  "tuition_out_of_state": "27950",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/Alvernia-University-Veterans-Club/117127365157709"
 }

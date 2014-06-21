@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "83402",
-  "ope": "30120300"
+  "ope": "30120300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "16795",
+  "tuition_out_of_state": "16795",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

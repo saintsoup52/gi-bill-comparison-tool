@@ -17,5 +17,12 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "76107",
-  "ope": "00976800"
+  "ope": "00976800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/146153752213371/"
 }

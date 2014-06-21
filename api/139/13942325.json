@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "64468",
-  "ope": "00249600"
+  "ope": "00249600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "6175",
+  "tuition_out_of_state": "11062",
+  "student_veteran": true,
+  "student_veteran_link": "https://twitter.com/NW_StudentVets"
 }

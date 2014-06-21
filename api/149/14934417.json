@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "42303",
-  "ope": "03034500"
+  "ope": "03034500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3360",
+  "tuition_out_of_state": "11760",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

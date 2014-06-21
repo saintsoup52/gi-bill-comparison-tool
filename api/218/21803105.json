@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90010",
-  "ope": "03072700"
+  "ope": "03072700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "14921",
+  "tuition_out_of_state": "14921",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

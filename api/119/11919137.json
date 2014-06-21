@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "97207",
-  "ope": "00321600"
+  "ope": "00321600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "7653",
+  "tuition_out_of_state": "22863",
+  "student_veteran": true,
+  "student_veteran_link": "https://orgsync.com/13114/chapter"
 }

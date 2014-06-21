@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "10007",
-  "ope": "02163400"
+  "ope": "02163400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "12900",
+  "tuition_out_of_state": "12900",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

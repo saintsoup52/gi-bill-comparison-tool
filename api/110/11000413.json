@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "61790",
-  "ope": "00169200"
+  "ope": "00169200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "12726",
+  "tuition_out_of_state": "20016",
+  "student_veteran": true,
+  "student_veteran_link": "http://illinoisstate.collegiatelink.net/organization/VeteransatIllinoisState"
 }

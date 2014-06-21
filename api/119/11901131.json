@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "88062",
-  "ope": "00266400"
+  "ope": "00266400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "4314",
+  "tuition_out_of_state": "12514",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

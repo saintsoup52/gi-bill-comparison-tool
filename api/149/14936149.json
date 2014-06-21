@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "54936",
-  "ope": "00925600"
+  "ope": "00925600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3854",
+  "tuition_out_of_state": "5607",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.morainepark.edu/veterans"
 }

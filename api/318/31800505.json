@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92110",
-  "ope": "01039500"
+  "ope": "01039500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "39970",
+  "tuition_out_of_state": "39970",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.usdvets.org"
 }

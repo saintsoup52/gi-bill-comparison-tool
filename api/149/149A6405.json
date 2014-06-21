@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "95776",
-  "ope": "04143800"
+  "ope": "04143800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1144",
+  "tuition_out_of_state": "6184",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

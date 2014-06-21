@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "67456",
-  "ope": "00190400"
+  "ope": "00190400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "22624",
+  "tuition_out_of_state": "22624",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "84107",
-  "ope": "03339400"
+  "ope": "03339400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "6070",
+  "tuition_out_of_state": "6070",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "87110",
-  "ope": "02491501"
+  "ope": "02491501",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "27125",
+  "tuition_out_of_state": "27125",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

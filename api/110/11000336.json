@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "74464",
-  "ope": "00316100"
+  "ope": "00316100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "4857",
+  "tuition_out_of_state": "11607",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/NSUVETSS"
 }

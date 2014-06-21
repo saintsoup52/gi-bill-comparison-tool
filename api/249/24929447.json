@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "98121",
-  "ope": "02291300"
+  "ope": "02291300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "17760",
+  "tuition_out_of_state": "17760",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

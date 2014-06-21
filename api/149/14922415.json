@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "52722",
-  "ope": "00407500"
+  "ope": "00407500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3936",
+  "tuition_out_of_state": "5760",
+  "student_veteran": true,
+  "student_veteran_link": "http://eicc.edu/future-students/veterans-and-military/index.aspx"
 }

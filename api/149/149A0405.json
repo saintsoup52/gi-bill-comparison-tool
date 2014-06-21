@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "92692",
-  "ope": "00891800"
+  "ope": "00891800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "762",
+  "tuition_out_of_state": "4694",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/groups/152378814785860/"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "65401",
-  "ope": "00252100"
+  "ope": "00252100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "23070",
+  "tuition_out_of_state": "23070",
+  "student_veteran": true,
+  "student_veteran_link": "https://involved.webster.edu/organization/SVO"
 }

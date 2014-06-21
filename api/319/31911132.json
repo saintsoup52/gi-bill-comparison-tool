@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "12211",
-  "ope": "00281600"
+  "ope": "00281600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "30200",
+  "tuition_out_of_state": "30200",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

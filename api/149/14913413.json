@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "60634",
-  "ope": "00165500"
+  "ope": "00165500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5961",
+  "tuition_out_of_state": "7498",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.ccc.edu/colleges/wright/departments/Pages/Veterans-and-Service-Members-Association-.aspx"
 }

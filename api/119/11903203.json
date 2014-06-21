@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "85724",
-  "ope": "00108300"
+  "ope": "00108300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "10035",
+  "tuition_out_of_state": "26231",
+  "student_veteran": true,
+  "student_veteran_link": "http://vets.arizona.edu/"
 }

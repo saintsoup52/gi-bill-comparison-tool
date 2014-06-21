@@ -17,5 +17,12 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "46517",
-  "ope": "00182300"
+  "ope": "00182300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": null,
+  "student_veteran_link": null
 }

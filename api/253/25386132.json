@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "10019",
-  "ope": "00270900"
+  "ope": "00270900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "27520",
+  "tuition_out_of_state": "27520",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

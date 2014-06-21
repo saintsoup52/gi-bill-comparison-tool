@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "18510",
-  "ope": "00338400"
+  "ope": "00338400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "37456",
+  "tuition_out_of_state": "37456",
+  "student_veteran": true,
+  "student_veteran_link": "https://matrix.scranton.edu/academics/cgce/AcademicServices/VeteransClub.shtml"
 }

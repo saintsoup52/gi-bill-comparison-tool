@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "37206",
-  "ope": "00793803"
+  "ope": "00793803",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

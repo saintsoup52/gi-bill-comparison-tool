@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "98133",
-  "ope": "00379100"
+  "ope": "00379100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "3947",
+  "tuition_out_of_state": "6595",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/VETS-Club-Shoreline-Community-College/151175766862?ref=stream"
 }

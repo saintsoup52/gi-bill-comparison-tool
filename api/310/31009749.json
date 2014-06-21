@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "53711",
-  "ope": "00384800"
+  "ope": "00384800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "23740",
+  "tuition_out_of_state": "23740",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/ECStudentVeterans"
 }

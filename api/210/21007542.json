@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "37214",
-  "ope": "42098867"
+  "ope": "42098867",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "10240",
+  "tuition_out_of_state": "10240",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

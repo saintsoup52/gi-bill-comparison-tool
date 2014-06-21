@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "50614",
-  "ope": "00189000"
+  "ope": "00189000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7635",
+  "tuition_out_of_state": "16721",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.uni.edu/military/"
 }

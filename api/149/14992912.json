@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "83687",
-  "ope": "04211810"
+  "ope": "04211810",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "4264",
+  "tuition_out_of_state": "7200",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

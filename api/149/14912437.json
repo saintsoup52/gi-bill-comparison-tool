@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "97914",
-  "ope": "00322100"
+  "ope": "00322100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "4680",
+  "tuition_out_of_state": "5130",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

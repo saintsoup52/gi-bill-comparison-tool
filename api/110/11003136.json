@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "73505",
-  "ope": "00315000"
+  "ope": "00315000",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "4770",
+  "tuition_out_of_state": "11745",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/#!/groups/462296023786138/"
 }

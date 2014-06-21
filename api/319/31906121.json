@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "02115",
-  "ope": "00219900"
+  "ope": "00219900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "40086",
+  "tuition_out_of_state": "40086",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/nustudentvets"
 }

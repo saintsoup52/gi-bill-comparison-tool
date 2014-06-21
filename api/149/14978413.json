@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "61761",
-  "ope": "03083800"
+  "ope": "03083800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7890",
+  "tuition_out_of_state": "11700",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.heartland.edu/"
 }

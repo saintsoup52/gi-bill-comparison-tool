@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "06854",
-  "ope": "00139900"
+  "ope": "00139900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3598",
+  "tuition_out_of_state": "10754",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/home.php?clk_loc=5"
 }

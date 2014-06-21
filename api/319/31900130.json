@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "08648",
-  "ope": "00262800"
+  "ope": "00262800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "33420",
+  "tuition_out_of_state": "33420",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/RUVeterans"
 }

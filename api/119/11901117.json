@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "40292",
-  "ope": "00199900"
+  "ope": "00199900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9662",
+  "tuition_out_of_state": "23146",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.uoflsva.org"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "36117",
-  "ope": "02503400"
+  "ope": "02503400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6800",
+  "tuition_out_of_state": "6800",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

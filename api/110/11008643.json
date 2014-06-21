@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "78539",
-  "ope": "00359900"
+  "ope": "00359900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5165",
+  "tuition_out_of_state": "13589",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.svautpa.com"
 }

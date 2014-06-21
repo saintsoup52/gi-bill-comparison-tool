@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32506",
-  "ope": "00104700"
+  "ope": "00104700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6844",
+  "tuition_out_of_state": "12820",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.troy.edu"
 }

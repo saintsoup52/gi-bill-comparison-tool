@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "29577",
-  "ope": null
+  "ope": null,
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "2600",
+  "tuition_out_of_state": "2600",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

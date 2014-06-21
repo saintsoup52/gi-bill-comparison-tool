@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "98036",
-  "ope": "01072723"
+  "ope": "01072723",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "15915",
+  "tuition_out_of_state": "15915",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

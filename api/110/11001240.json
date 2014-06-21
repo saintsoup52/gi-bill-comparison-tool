@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "29409",
-  "ope": "00342300"
+  "ope": "00342300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "10523",
+  "tuition_out_of_state": "28776",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/The-Citadel-Veterans-Association/452020771533860"
 }

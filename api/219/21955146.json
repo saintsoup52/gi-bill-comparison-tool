@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "23060",
-  "ope": "01303910"
+  "ope": "01303910",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "16360",
+  "tuition_out_of_state": "16360",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "92123",
-  "ope": "04134700"
+  "ope": "04134700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "6714",
+  "tuition_out_of_state": "6714",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "70043",
-  "ope": "02166100"
+  "ope": "02166100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "2875",
+  "tuition_out_of_state": "5946",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

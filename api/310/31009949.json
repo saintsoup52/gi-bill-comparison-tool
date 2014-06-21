@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "54935",
-  "ope": "00386100"
+  "ope": "00386100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "23440",
+  "tuition_out_of_state": "23440",
+  "student_veteran": true,
+  "student_veteran_link": "https://my.marianuniversity.edu/campuslife/mrp/default.aspx"
 }

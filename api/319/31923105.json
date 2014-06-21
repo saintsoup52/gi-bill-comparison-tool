@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92831",
-  "ope": "00125200"
+  "ope": "00125200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "25264",
+  "tuition_out_of_state": "25264",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

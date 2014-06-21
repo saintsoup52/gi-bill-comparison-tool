@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19013",
-  "ope": "00331300"
+  "ope": "00331300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "36382",
+  "tuition_out_of_state": "36382",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

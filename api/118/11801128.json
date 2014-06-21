@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "89154",
-  "ope": "00256900"
+  "ope": "00256900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6705",
+  "tuition_out_of_state": "20615",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/unlv.svo"
 }

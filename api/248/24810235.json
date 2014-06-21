@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "43231",
-  "ope": "02116014"
+  "ope": "02116014",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "15787",
+  "tuition_out_of_state": "15787",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

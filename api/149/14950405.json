@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "90630",
-  "ope": "00119300"
+  "ope": "00119300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1136",
+  "tuition_out_of_state": "5984",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.cypresscollege.edu/admissions/admissionsAndRecords/veteransAffairs.aspx"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "78249",
-  "ope": "01011500"
+  "ope": "01011500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "7389",
+  "tuition_out_of_state": "15813",
+  "student_veteran": true,
+  "student_veteran_link": "http://alamovets.org"
 }

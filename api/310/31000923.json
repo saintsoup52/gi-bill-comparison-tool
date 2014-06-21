@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "56082",
-  "ope": "00235300"
+  "ope": "00235300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "37660",
+  "tuition_out_of_state": "37660",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/gacstudentvets"
 }

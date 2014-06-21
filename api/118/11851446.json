@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "22215",
-  "ope": "00224300"
+  "ope": "00224300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "10950",
+  "tuition_out_of_state": "23670",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/StudentVeteransOfAmericaCMU"
 }

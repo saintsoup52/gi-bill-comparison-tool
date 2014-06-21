@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "06032",
-  "ope": "01287700"
+  "ope": "01287700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "15754",
+  "tuition_out_of_state": "15754",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

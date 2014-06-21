@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "76039",
-  "ope": "03092600"
+  "ope": "03092600",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8410",
+  "tuition_out_of_state": "8410",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "48377",
-  "ope": "01303914"
+  "ope": "01303914",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "16360",
+  "tuition_out_of_state": "16360",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

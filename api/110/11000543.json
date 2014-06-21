@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "76909",
-  "ope": "00354100"
+  "ope": "00354100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "6327",
+  "tuition_out_of_state": "14751",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/215848451811121/"
 }

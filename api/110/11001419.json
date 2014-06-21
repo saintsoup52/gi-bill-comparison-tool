@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "04102",
-  "ope": "00205300"
+  "ope": "00205300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "10594",
+  "tuition_out_of_state": "27454",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/UMaine-Veterans-Association/215571395194197"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "53913",
-  "ope": "00389700"
+  "ope": "00389700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5157",
+  "tuition_out_of_state": "12141",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

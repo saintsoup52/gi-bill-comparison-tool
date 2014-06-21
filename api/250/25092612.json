@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "83704",
-  "ope": "04176700"
+  "ope": "04176700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": null,
+  "student_veteran_link": null
 }

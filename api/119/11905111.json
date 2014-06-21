@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "30118",
-  "ope": "00160100"
+  "ope": "00160100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5740",
+  "tuition_out_of_state": "15561",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.facebook.com/SVAUWG"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "21801",
-  "ope": "00209100"
+  "ope": "00209100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "7700",
+  "tuition_out_of_state": "16046",
+  "student_veteran": true,
+  "student_veteran_link": "http://groupspaces.com/StudentMilitaryVeteransAssocia/"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 4,
   "salary": null,
   "zip": "13148",
-  "ope": "01227700"
+  "ope": "01227700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/pages/NYCC-Student-Veterans/295990800547281"
 }

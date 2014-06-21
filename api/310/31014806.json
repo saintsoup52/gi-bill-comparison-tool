@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "80236",
-  "ope": "03289300"
+  "ope": "03289300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5166",
+  "tuition_out_of_state": "5166",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

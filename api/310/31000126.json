@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "59802",
-  "ope": "00379900"
+  "ope": "00379900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "24900",
+  "tuition_out_of_state": "24900",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

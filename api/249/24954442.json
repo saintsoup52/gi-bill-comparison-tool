@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "38501",
-  "ope": "02326300"
+  "ope": "02326300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "14490",
+  "tuition_out_of_state": "14490",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "03867",
-  "ope": "03101300"
+  "ope": "03101300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "7065",
+  "tuition_out_of_state": "7305",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

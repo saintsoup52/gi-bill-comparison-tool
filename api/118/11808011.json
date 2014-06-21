@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "31698",
-  "ope": "00159900"
+  "ope": "00159900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "5792",
+  "tuition_out_of_state": "15613",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/VSUSVA"
 }

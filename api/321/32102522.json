@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "48202",
-  "ope": "00232300"
+  "ope": "00232300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "34530",
+  "tuition_out_of_state": "34530",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.udmercy.edu/registrar/veterans/index.htm"
 }

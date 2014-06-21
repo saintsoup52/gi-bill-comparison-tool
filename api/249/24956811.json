@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "30907",
-  "ope": "02614200"
+  "ope": "02614200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "10125",
+  "tuition_out_of_state": "10125",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

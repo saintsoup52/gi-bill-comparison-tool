@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "85634",
-  "ope": "03784400"
+  "ope": "03784400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1354",
+  "tuition_out_of_state": "3706",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

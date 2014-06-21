@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "28314",
-  "ope": "04173700"
+  "ope": "04173700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3445",
+  "tuition_out_of_state": "3445",
+  "student_veteran": true,
+  "student_veteran_link": "http://gcd.edu/, https://www.facebook.com/VeteranstudentsforChrist?skip_nax_wizard=true"
 }

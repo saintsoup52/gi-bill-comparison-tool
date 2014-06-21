@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "90630",
-  "ope": "04127900"
+  "ope": "04127900",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "6120",
+  "tuition_out_of_state": "6120",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/groups/TUISVA/"
 }

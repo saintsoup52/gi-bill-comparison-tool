@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "70360",
-  "ope": "03294301"
+  "ope": "03294301",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "15445",
+  "tuition_out_of_state": "15445",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

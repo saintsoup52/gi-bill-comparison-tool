@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "77204",
-  "ope": "00365200"
+  "ope": "00365200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8094",
+  "tuition_out_of_state": "16518",
+  "student_veteran": true,
+  "student_veteran_link": "https://uh.collegiatelink.net/organization/veteranscollegiatesociety"
 }

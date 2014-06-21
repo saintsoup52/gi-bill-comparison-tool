@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "32803",
-  "ope": "03115500"
+  "ope": "03115500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "10780",
+  "tuition_out_of_state": "10780",
+  "student_veteran": true,
+  "student_veteran_link": "http://svaadu.weebly.com/"
 }

@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "60637",
-  "ope": "00177400"
+  "ope": "00177400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "45609",
+  "tuition_out_of_state": "45609",
+  "student_veteran": true,
+  "student_veteran_link": "http://harrisschool.uchicago.edu/applied-experience/student-organizations/isavi"
 }

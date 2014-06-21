@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "65689",
-  "ope": "00246100"
+  "ope": "00246100",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "22075",
+  "tuition_out_of_state": "22075",
+  "student_veteran": true,
+  "student_veteran_link": "https://www.facebook.com/drurysvo"
 }

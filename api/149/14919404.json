@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "72118",
-  "ope": "02075300"
+  "ope": "02075300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "3183",
+  "tuition_out_of_state": "4923",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

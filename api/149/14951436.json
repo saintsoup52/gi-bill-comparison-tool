@@ -17,5 +17,12 @@
   "indicator_group": 2,
   "salary": null,
   "zip": "73460",
-  "ope": "00315800"
+  "ope": "00315800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "4036",
+  "tuition_out_of_state": "8820",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.mscok.edu/index.php?option=com_content&view=article&id=505%3Astudentveteransassoc&catid=3"
 }

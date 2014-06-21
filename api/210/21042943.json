@@ -17,5 +17,12 @@
   "indicator_group": null,
   "salary": null,
   "zip": "75247",
-  "ope": "03698300"
+  "ope": "03698300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": "24675",
+  "tuition_out_of_state": "24675",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

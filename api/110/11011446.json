@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "22060",
-  "ope": "00175856"
+  "ope": "00175856",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "11528",
+  "tuition_out_of_state": "23781",
+  "student_veteran": true,
+  "student_veteran_link": "http://veterans.siu.edu/"
 }

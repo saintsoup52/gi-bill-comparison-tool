@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "48083",
-  "ope": "00761700"
+  "ope": "00761700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "11043",
+  "tuition_out_of_state": "11043",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

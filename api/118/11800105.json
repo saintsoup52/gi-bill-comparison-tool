@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "92697",
-  "ope": "00131400"
+  "ope": "00131400",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "13122",
+  "tuition_out_of_state": "36000",
+  "student_veteran": true,
+  "student_veteran_link": "http://veteransassociationatuci.org"
 }

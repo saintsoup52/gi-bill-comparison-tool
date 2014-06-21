@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "64105",
-  "ope": "00249800"
+  "ope": "00249800",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9788",
+  "tuition_out_of_state": "9788",
+  "student_veteran": true,
+  "student_veteran_link": "http://military.park.edu/psva.pdf"
 }

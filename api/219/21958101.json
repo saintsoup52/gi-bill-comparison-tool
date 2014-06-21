@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "36117",
-  "ope": "03010616"
+  "ope": "03010616",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "12483",
+  "tuition_out_of_state": "12483",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }

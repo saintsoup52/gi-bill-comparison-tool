@@ -17,5 +17,12 @@
   "indicator_group": 5,
   "salary": null,
   "zip": "52205",
-  "ope": "03720300"
+  "ope": "03720300",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "nontraditional",
+  "tuition_in_state": null,
+  "tuition_out_of_state": null,
+  "student_veteran": null,
+  "student_veteran_link": null
 }

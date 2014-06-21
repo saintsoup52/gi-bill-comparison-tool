@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "96819",
-  "ope": "02159701"
+  "ope": "02159701",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "8280",
+  "tuition_out_of_state": "8280",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

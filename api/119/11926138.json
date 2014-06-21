@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "19610",
-  "ope": "00332906"
+  "ope": "00332906",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "13900",
+  "tuition_out_of_state": "20794",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.bk.psu.edu/Admissions/FinancialAid/vetsfa.htm/"
 }

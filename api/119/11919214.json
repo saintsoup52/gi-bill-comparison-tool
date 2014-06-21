@@ -17,5 +17,12 @@
   "indicator_group": 1,
   "salary": null,
   "zip": "47150",
-  "ope": "00182500"
+  "ope": "00182500",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "9900",
+  "tuition_out_of_state": "28702",
+  "student_veteran": true,
+  "student_veteran_link": "https://sites.google.com/site/purdueveterans/"
 }

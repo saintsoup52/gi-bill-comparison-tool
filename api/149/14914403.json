@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "86025",
-  "ope": "01186200"
+  "ope": "01186200",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "semesters",
+  "tuition_in_state": "1558",
+  "tuition_out_of_state": "7090",
+  "student_veteran": null,
+  "student_veteran_link": null
 }

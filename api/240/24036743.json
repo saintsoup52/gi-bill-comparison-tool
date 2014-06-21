@@ -17,5 +17,12 @@
   "indicator_group": 3,
   "salary": null,
   "zip": "79925",
-  "ope": "04131700"
+  "ope": "04131700",
+  "correspondence": null,
+  "flight": null,
+  "calendar": "quarters",
+  "tuition_in_state": "13000",
+  "tuition_out_of_state": "13000",
+  "student_veteran": true,
+  "student_veteran_link": "http://www.studentveterans.org "
 }
