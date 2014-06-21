@@ -833,6 +833,13 @@ var GIBComparisonTool = function () {
       } else {
         $('#sva-chapter-field').hide();
       }
+
+      if (institution.vetsuccess) {
+        $('#sva-chapter').html('<a href="'+ institution.student_veteran_link +'" target="_blank">Link &raquo;</a>');
+        $('#sva-chapter-field').show();
+      } else {
+        $('#sva-chapter-field').hide();
+      }
       
       console.log("====== " + institution.institution + " ======");
       console.log("=== Institution ===");
