@@ -24,5 +24,8 @@
   "tuition_in_state": "13122",
   "tuition_out_of_state": "25512",
   "student_veteran": true,
-  "student_veteran_link": "https://www.facebook.com/UICSVA"
+  "student_veteran_link": "https://www.facebook.com/UICSVA",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

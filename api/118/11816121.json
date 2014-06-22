@@ -24,5 +24,8 @@
   "tuition_in_state": "13415",
   "tuition_out_of_state": "26830",
   "student_veteran": true,
-  "student_veteran_link": "http://www.umassvets.org"
+  "student_veteran_link": "http://www.umassvets.org",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

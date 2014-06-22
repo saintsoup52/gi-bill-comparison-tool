@@ -24,5 +24,8 @@
   "tuition_in_state": "8472",
   "tuition_out_of_state": "21000",
   "student_veteran": true,
-  "student_veteran_link": "http://www.wku.edu/sva"
+  "student_veteran_link": "http://www.wku.edu/sva",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

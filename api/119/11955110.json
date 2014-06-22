@@ -24,5 +24,8 @@
   "tuition_in_state": "6247",
   "tuition_out_of_state": "22345",
   "student_veteran": true,
-  "student_veteran_link": "http://www.facebook.com/UCFSVA"
+  "student_veteran_link": "http://www.facebook.com/UCFSVA",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

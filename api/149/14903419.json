@@ -24,5 +24,8 @@
   "tuition_in_state": "3470",
   "tuition_out_of_state": "6050",
   "student_veteran": true,
-  "student_veteran_link": "https://www.facebook.com/SMCCVCO"
+  "student_veteran_link": "https://www.facebook.com/SMCCVCO",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

@@ -24,5 +24,8 @@
   "tuition_in_state": "18885",
   "tuition_out_of_state": "18885",
   "student_veteran": true,
-  "student_veteran_link": "http://www.facebook.com/ASUDowntownVeterans"
+  "student_veteran_link": "http://www.facebook.com/ASUDowntownVeterans",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

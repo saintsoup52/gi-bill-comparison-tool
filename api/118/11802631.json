@@ -24,5 +24,8 @@
   "tuition_in_state": "6513",
   "tuition_out_of_state": "19068",
   "student_veteran": true,
-  "student_veteran_link": "http://web.nmsu.edu/~sva"
+  "student_veteran_link": "http://web.nmsu.edu/~sva",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

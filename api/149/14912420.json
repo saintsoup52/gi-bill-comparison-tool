@@ -24,5 +24,8 @@
   "tuition_in_state": "5668",
   "tuition_out_of_state": "7321",
   "student_veteran": true,
-  "student_veteran_link": "http://www.csmd.edu/pub/moroney/veteransclub/"
+  "student_veteran_link": "http://www.csmd.edu/pub/moroney/veteransclub/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

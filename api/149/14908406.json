@@ -24,5 +24,8 @@
   "tuition_in_state": "3036",
   "tuition_out_of_state": "10704",
   "student_veteran": true,
-  "student_veteran_link": "http://www.aims.edu/student/studentlife/clubs/Aims-Community-College-Veterans-Club.php"
+  "student_veteran_link": "http://www.aims.edu/student/studentlife/clubs/Aims-Community-College-Veterans-Club.php",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

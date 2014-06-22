@@ -24,5 +24,8 @@
   "tuition_in_state": "3936",
   "tuition_out_of_state": "5760",
   "student_veteran": true,
-  "student_veteran_link": "http://eicc.edu/future-students/veterans-and-military/index.aspx"
+  "student_veteran_link": "http://eicc.edu/future-students/veterans-and-military/index.aspx",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

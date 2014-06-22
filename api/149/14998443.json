@@ -24,5 +24,8 @@
   "tuition_in_state": "1994",
   "tuition_out_of_state": "4512",
   "student_veteran": true,
-  "student_veteran_link": "http://www.studentveterans.org "
+  "student_veteran_link": "http://www.studentveterans.org ",
+  "vetsuccess_name": "Douglas Smith",
+  "vetsuccess_email": "Douglas.Smith1@va.gov",
+  "gijobs": null
 }

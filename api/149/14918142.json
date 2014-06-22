@@ -24,5 +24,8 @@
   "tuition_in_state": "3508",
   "tuition_out_of_state": "13636",
   "student_veteran": true,
-  "student_veteran_link": "http://www.facebook.com/jsccsva"
+  "student_veteran_link": "http://www.facebook.com/jsccsva",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

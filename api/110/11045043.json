@@ -24,5 +24,8 @@
   "tuition_in_state": "8506",
   "tuition_out_of_state": "25035",
   "student_veteran": true,
-  "student_veteran_link": "http://tamuveterans.tamu.edu/"
+  "student_veteran_link": "http://tamuveterans.tamu.edu/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

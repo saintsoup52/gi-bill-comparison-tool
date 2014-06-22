@@ -24,5 +24,8 @@
   "tuition_in_state": "8107",
   "tuition_out_of_state": "8107",
   "student_veteran": true,
-  "student_veteran_link": "https://bemidjistate.collegiatelink.net/organization/veterans-club"
+  "student_veteran_link": "https://bemidjistate.collegiatelink.net/organization/veterans-club",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

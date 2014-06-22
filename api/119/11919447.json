@@ -24,5 +24,8 @@
   "tuition_in_state": "3893",
   "tuition_out_of_state": "9083",
   "student_veteran": true,
-  "student_veteran_link": "https://www.sites.google.com/site/svasccc/"
+  "student_veteran_link": "https://www.sites.google.com/site/svasccc/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

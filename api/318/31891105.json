@@ -24,5 +24,8 @@
   "tuition_in_state": "38320",
   "tuition_out_of_state": "38320",
   "student_veteran": true,
-  "student_veteran_link": "http://blogs.mcgeorge.edu/mls/"
+  "student_veteran_link": "http://blogs.mcgeorge.edu/mls/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

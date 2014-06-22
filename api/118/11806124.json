@@ -24,5 +24,8 @@
   "tuition_in_state": "6282",
   "tuition_out_of_state": "16266",
   "student_veteran": true,
-  "student_veteran_link": "http://www.olemiss.edu/depts/veterans/omsva.html"
+  "student_veteran_link": "http://www.olemiss.edu/depts/veterans/omsva.html",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

@@ -24,5 +24,8 @@
   "tuition_in_state": "5022",
   "tuition_out_of_state": "13446",
   "student_veteran": true,
-  "student_veteran_link": "http://www.uhd.edu/veterans/"
+  "student_veteran_link": "http://www.uhd.edu/veterans/",
+  "vetsuccess_name": "Ralph Harrison",
+  "vetsuccess_email": "Ralph.Harrison@va.gov",
+  "gijobs": null
 }

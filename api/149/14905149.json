@@ -24,5 +24,8 @@
   "tuition_in_state": "3852",
   "tuition_out_of_state": "5606",
   "student_veteran": true,
-  "student_veteran_link": "https://www.facebook.com/NTCVetsClub"
+  "student_veteran_link": "https://www.facebook.com/NTCVetsClub",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

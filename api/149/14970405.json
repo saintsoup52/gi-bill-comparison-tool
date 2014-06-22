@@ -24,5 +24,8 @@
   "tuition_in_state": "1387",
   "tuition_out_of_state": "6897",
   "student_veteran": true,
-  "student_veteran_link": "http://www.svogrossmont.org"
+  "student_veteran_link": "http://www.svogrossmont.org",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

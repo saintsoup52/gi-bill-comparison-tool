@@ -24,5 +24,8 @@
   "tuition_in_state": "2490",
   "tuition_out_of_state": "3960",
   "student_veteran": true,
-  "student_veteran_link": "http://www.facebook.com/rlcbluestar"
+  "student_veteran_link": "http://www.facebook.com/rlcbluestar",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

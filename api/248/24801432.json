@@ -24,5 +24,8 @@
   "tuition_in_state": "14124",
   "tuition_out_of_state": "14124",
   "student_veteran": true,
-  "student_veteran_link": "http://libi.edu"
+  "student_veteran_link": "http://libi.edu",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

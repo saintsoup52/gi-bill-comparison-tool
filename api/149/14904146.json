@@ -24,5 +24,8 @@
   "tuition_in_state": "4404",
   "tuition_out_of_state": "10167",
   "student_veteran": true,
-  "student_veteran_link": "http://community.brcc.edu/vso/"
+  "student_veteran_link": "http://community.brcc.edu/vso/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

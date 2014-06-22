@@ -24,5 +24,8 @@
   "tuition_in_state": "7871",
   "tuition_out_of_state": "8543",
   "student_veteran": true,
-  "student_veteran_link": "http://www.jjc.edu/student-life/clubs-orgs/veterans-alliance/Pages/default.aspx"
+  "student_veteran_link": "http://www.jjc.edu/student-life/clubs-orgs/veterans-alliance/Pages/default.aspx",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

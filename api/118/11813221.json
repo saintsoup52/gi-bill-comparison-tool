@@ -24,5 +24,8 @@
   "tuition_in_state": "8297",
   "tuition_out_of_state": "14377",
   "student_veteran": true,
-  "student_veteran_link": "https://www.facebook.com/wsuveteransassociation"
+  "student_veteran_link": "https://www.facebook.com/wsuveteransassociation",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

@@ -24,5 +24,8 @@
   "tuition_in_state": "9790",
   "tuition_out_of_state": "33128",
   "student_veteran": true,
-  "student_veteran_link": "http://www.texasvets.org"
+  "student_veteran_link": "http://www.texasvets.org",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

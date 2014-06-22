@@ -24,5 +24,8 @@
   "tuition_in_state": "8570",
   "tuition_out_of_state": "19573",
   "student_veteran": true,
-  "student_veteran_link": "https://www.facebook.com/email/unreachable/#!/SCSUVeterans"
+  "student_veteran_link": "https://www.facebook.com/email/unreachable/#!/SCSUVeterans",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

@@ -24,5 +24,8 @@
   "tuition_in_state": "5200",
   "tuition_out_of_state": "15773",
   "student_veteran": true,
-  "student_veteran_link": "http://www.nccu.edu/veteransaffairs/index.cfm"
+  "student_veteran_link": "http://www.nccu.edu/veteransaffairs/index.cfm",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

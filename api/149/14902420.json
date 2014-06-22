@@ -24,5 +24,8 @@
   "tuition_in_state": "6809",
   "tuition_out_of_state": "11129",
   "student_veteran": true,
-  "student_veteran_link": "http://www.aacc.edu/military/"
+  "student_veteran_link": "http://www.aacc.edu/military/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

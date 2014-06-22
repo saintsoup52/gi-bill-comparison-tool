@@ -24,5 +24,8 @@
   "tuition_in_state": "12960",
   "tuition_out_of_state": "35838",
   "student_veteran": true,
-  "student_veteran_link": "http://www.facebook.com/groups/ucrstudentvets"
+  "student_veteran_link": "http://www.facebook.com/groups/ucrstudentvets",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

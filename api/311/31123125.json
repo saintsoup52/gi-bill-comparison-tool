@@ -24,5 +24,8 @@
   "tuition_in_state": "23070",
   "tuition_out_of_state": "23070",
   "student_veteran": true,
-  "student_veteran_link": "https://involved.webster.edu/organization/SVO"
+  "student_veteran_link": "https://involved.webster.edu/organization/SVO",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

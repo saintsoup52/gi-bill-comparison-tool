@@ -24,5 +24,8 @@
   "tuition_in_state": "3950",
   "tuition_out_of_state": "10582",
   "student_veteran": true,
-  "student_veteran_link": "http://www.ccri.edu/veterans"
+  "student_veteran_link": "http://www.ccri.edu/veterans",
+  "vetsuccess_name": "Micaela Black",
+  "vetsuccess_email": "Micaela.Black@va.gov",
+  "gijobs": null
 }

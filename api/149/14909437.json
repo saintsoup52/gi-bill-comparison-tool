@@ -24,5 +24,8 @@
   "tuition_in_state": "3908",
   "tuition_out_of_state": "10883",
   "student_veteran": true,
-  "student_veteran_link": "http://www.clackamas.edu/Veterans/"
+  "student_veteran_link": "http://www.clackamas.edu/Veterans/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

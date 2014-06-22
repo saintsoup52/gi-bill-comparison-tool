@@ -24,5 +24,8 @@
   "tuition_in_state": "47246",
   "tuition_out_of_state": "47246",
   "student_veteran": true,
-  "student_veteran_link": "http://milvets.columbia.edu"
+  "student_veteran_link": "http://milvets.columbia.edu",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

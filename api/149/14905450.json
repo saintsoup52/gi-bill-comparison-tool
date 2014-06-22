@@ -24,5 +24,8 @@
   "tuition_in_state": "2536",
   "tuition_out_of_state": "6136",
   "student_veteran": true,
-  "student_veteran_link": "https://orgsync.com/57700/chapter"
+  "student_veteran_link": "https://orgsync.com/57700/chapter",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

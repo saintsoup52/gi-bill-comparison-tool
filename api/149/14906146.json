@@ -24,5 +24,8 @@
   "tuition_in_state": "3885",
   "tuition_out_of_state": "9648",
   "student_veteran": true,
-  "student_veteran_link": "http://www.cvcc.vccs.edu/Student%20Services/Veterans/SVO.aspx"
+  "student_veteran_link": "http://www.cvcc.vccs.edu/Student%20Services/Veterans/SVO.aspx",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

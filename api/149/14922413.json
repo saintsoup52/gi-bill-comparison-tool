@@ -24,5 +24,8 @@
   "tuition_in_state": "10336",
   "tuition_out_of_state": "12576",
   "student_veteran": true,
-  "student_veteran_link": "http://www.cod.edu/admissions/veterans"
+  "student_veteran_link": "http://www.cod.edu/admissions/veterans",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

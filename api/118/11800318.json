@@ -24,5 +24,8 @@
   "tuition_in_state": "4618",
   "tuition_out_of_state": "9400",
   "student_veteran": true,
-  "student_veteran_link": "http://www.facebook.com/SVLSU"
+  "student_veteran_link": "http://www.facebook.com/SVLSU",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

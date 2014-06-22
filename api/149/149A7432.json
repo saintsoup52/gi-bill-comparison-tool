@@ -24,5 +24,8 @@
   "tuition_in_state": "4240",
   "tuition_out_of_state": "6580",
   "student_veteran": true,
-  "student_veteran_link": "http://www.qcc.cuny.edu/veterans/sva.html"
+  "student_veteran_link": "http://www.qcc.cuny.edu/veterans/sva.html",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

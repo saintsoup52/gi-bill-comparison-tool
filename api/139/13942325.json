@@ -24,5 +24,8 @@
   "tuition_in_state": "6175",
   "tuition_out_of_state": "11062",
   "student_veteran": true,
-  "student_veteran_link": "https://twitter.com/NW_StudentVets"
+  "student_veteran_link": "https://twitter.com/NW_StudentVets",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

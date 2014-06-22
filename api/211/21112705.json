@@ -24,5 +24,8 @@
   "tuition_in_state": "18948",
   "tuition_out_of_state": "18948",
   "student_veteran": true,
-  "student_veteran_link": "http://www.facebook.com/ArtInstituteVeteransAssociation"
+  "student_veteran_link": "http://www.facebook.com/ArtInstituteVeteransAssociation",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

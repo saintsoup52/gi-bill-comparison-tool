@@ -24,5 +24,8 @@
   "tuition_in_state": "9724",
   "tuition_out_of_state": "22977",
   "student_veteran": true,
-  "student_veteran_link": "http://www.ASUTempeVets.com"
+  "student_veteran_link": "http://www.ASUTempeVets.com",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

@@ -24,5 +24,8 @@
   "tuition_in_state": "10035",
   "tuition_out_of_state": "26231",
   "student_veteran": true,
-  "student_veteran_link": "http://vets.arizona.edu/"
+  "student_veteran_link": "http://vets.arizona.edu/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

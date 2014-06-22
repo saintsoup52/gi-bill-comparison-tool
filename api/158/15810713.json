@@ -24,5 +24,8 @@
   "tuition_in_state": "5961",
   "tuition_out_of_state": "7498",
   "student_veteran": true,
-  "student_veteran_link": "http://www.ccc.edu/colleges/wright/departments/Pages/Veterans-and-Service-Members-Association-.aspx"
+  "student_veteran_link": "http://www.ccc.edu/colleges/wright/departments/Pages/Veterans-and-Service-Members-Association-.aspx",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

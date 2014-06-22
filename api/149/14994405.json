@@ -24,5 +24,8 @@
   "tuition_in_state": "1104",
   "tuition_out_of_state": "7200",
   "student_veteran": true,
-  "student_veteran_link": "http://www.studentveterans.org "
+  "student_veteran_link": "http://www.studentveterans.org ",
+  "vetsuccess_name": "Ryan Feil",
+  "vetsuccess_email": "Ryan.Feil2@va.gov",
+  "gijobs": null
 }

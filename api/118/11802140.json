@@ -24,5 +24,8 @@
   "tuition_in_state": "12674",
   "tuition_out_of_state": "29600",
   "student_veteran": true,
-  "student_veteran_link": "http://www.clemson.edu/administration/student-affairs/dean/veterans/"
+  "student_veteran_link": "http://www.clemson.edu/administration/student-affairs/dean/veterans/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

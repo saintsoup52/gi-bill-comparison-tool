@@ -24,5 +24,8 @@
   "tuition_in_state": "23440",
   "tuition_out_of_state": "23440",
   "student_veteran": true,
-  "student_veteran_link": "https://my.marianuniversity.edu/campuslife/mrp/default.aspx"
+  "student_veteran_link": "https://my.marianuniversity.edu/campuslife/mrp/default.aspx",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

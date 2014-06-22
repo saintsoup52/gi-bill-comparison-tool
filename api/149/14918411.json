@@ -24,5 +24,8 @@
   "tuition_in_state": "3073",
   "tuition_out_of_state": "9207",
   "student_veteran": true,
-  "student_veteran_link": "http://vsg.gordonstate.edu/"
+  "student_veteran_link": "http://vsg.gordonstate.edu/",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

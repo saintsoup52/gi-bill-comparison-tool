@@ -24,5 +24,8 @@
   "tuition_in_state": "7732",
   "tuition_out_of_state": "16858",
   "student_veteran": true,
-  "student_veteran_link": "http://www.sdi.txstate.edu/vats"
+  "student_veteran_link": "http://www.sdi.txstate.edu/vats",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

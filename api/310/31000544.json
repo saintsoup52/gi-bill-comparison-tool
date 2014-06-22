@@ -24,5 +24,8 @@
   "tuition_in_state": "28210",
   "tuition_out_of_state": "28210",
   "student_veteran": true,
-  "student_veteran_link": "http://www.westminstercollege.edu"
+  "student_veteran_link": "http://www.westminstercollege.edu",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

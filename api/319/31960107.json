@@ -24,5 +24,8 @@
   "tuition_in_state": "28358",
   "tuition_out_of_state": "28358",
   "student_veteran": true,
-  "student_veteran_link": "https://www.facebook.com/AlbertusVeterans"
+  "student_veteran_link": "https://www.facebook.com/AlbertusVeterans",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }

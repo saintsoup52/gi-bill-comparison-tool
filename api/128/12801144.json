@@ -24,5 +24,8 @@
   "tuition_in_state": "7139",
   "tuition_out_of_state": "22642",
   "student_veteran": true,
-  "student_veteran_link": "http://veteranscenter.utah.edu/get-involved.php"
+  "student_veteran_link": "http://veteranscenter.utah.edu/get-involved.php",
+  "vetsuccess_name": null,
+  "vetsuccess_email": null,
+  "gijobs": null
 }
