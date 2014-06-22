@@ -279,6 +279,11 @@ Use with for example: <div class="icon explore"></div>
   display: none;
 }
 
+.comparison .form-group-label {
+  float: right;
+  padding-right: 320px;
+}
+
 /* Tables */
 
 .comparison table {

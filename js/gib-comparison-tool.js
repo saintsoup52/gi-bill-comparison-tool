@@ -221,6 +221,30 @@ var GIBComparisonTool = function () {
   
   
   /*
+   * Determine the type of institution for search
+   */
+  var getInstitutionTypeForSearch = function (institution) {
+    if (institution.value[1] == "0") {
+      return "ojt";
+    } else if (institution.country != "USA") {
+      return "foreign";
+    } else {
+      switch (institution.value[0]) {
+        case '1':
+          return "public";
+          break;
+        case '2':
+          return "profit";
+          break;
+        case '3':
+          return "private";
+          break;
+      }
+    }
+  };
+  
+  
+  /*
    * Calculate the tier
    */
   var getTier = function () {
@@ -874,18 +898,40 @@ var GIBComparisonTool = function () {
     // Load institution data
     $.getJSON("api/institutions.json", function (data) {
       
+      var label = "";
       for (var i = 0; i < data.length; i++) {
+        
         if (data[i][4] == "USA") {
-          institutions.push({ value: data[i][0], label: data[i][1] + ' (' + data[i][2] + ', ' + data[i][3] + ')'});
+          label = data[i][1] + ' (' + data[i][2] + ', ' + data[i][3] + ')';
         } else {
-          institutions.push({ value: data[i][0], label: data[i][1] + ' (' + data[i][2] + ', ' + data[i][4] + ')'});
+          label = data[i][1] + ' (' + data[i][2] + ', ' + data[i][4] + ')';
         }
+        
+        institutions.push({ value: data[i][0],
+                            label: label,
+                            city:  data[i][2],
+                            state: data[i][3],
+                            country: data[i][4] });
       }
       
       $('#institution-search').autocomplete({
         minLength: 3,
         source: function (request, response) {
-          var results = $.ui.autocomplete.filter(institutions, request.term);
+          var results = [],
+              country = $('#filter-country').val(),
+              state = $('#filter-state').val(),
+              institution_type = $('#filter-institution-type').val();
+          
+          // Do filtering stuff
+          for (var i = 0; i < institutions.length; i++) {
+            if ((country == "USA" && institutions[i].country == "USA" || country == "INT" && institutions[i].country != "USA" || country == "") &&
+                (state == institutions[i].state || state == "") &&
+                (institution_type == getInstitutionTypeForSearch(institutions[i]) || institution_type == "")) {
+              results.push(institutions[i]);
+            }
+          }
+          
+          results = $.ui.autocomplete.filter(results, request.term);
           response(results.slice(0, 200));
         },
         select: function (event, ui) {
