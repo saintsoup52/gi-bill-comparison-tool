@@ -13,7 +13,7 @@ layout: va
 
 <div class="timeline">
   <hr>
-  
+
   <div class="box">
     <span>EXPLORE<br>YOUR CAREER</span>
     <a href="http://www.benefits.va.gov/gibill/careerscope.asp" target="_blank">
@@ -23,7 +23,7 @@ layout: va
       <span>CareerScope</span>
     </a>
   </div>
-  
+
   <div class="box">
     <span>COMPARE<br>SCHOOLS</span>
     <a href="http://department-of-veterans-affairs.github.io/gi-bill-comparison-tool/">
@@ -33,7 +33,7 @@ layout: va
       <span>GI Bill<br>Comparison Tool</span>
     </a>
   </div>
-  
+
   <div class="box">
     <span>CHOOSE<br>A SCHOOL</span>
     <a href="http://www.benefits.va.gov/gibill/choosing_a_school.asp" target="_blank">
@@ -43,7 +43,7 @@ layout: va
       <span>Decision Guide</span>
     </a>
   </div>
-  
+
   <div class="box">
     <span>APPLY FOR<br>GI BILL</span>
     <a href="https://www.ebenefits.va.gov/ebenefits-portal/ebenefits.portal;EBEN_JSESSIONID=YktHTpRhj1JZ22lTpSNhBgTTXsyrQMvrtRyYMhHKp1PQjDylLzsp!-2006711552!-88833136?_nfpb=true&_nfxr=false&_pageLabel=Vonapp" target="_blank">
@@ -53,7 +53,7 @@ layout: va
       <span>VONAPP</span>
     </a>
   </div>
-  
+
   <div class="box">
     <span>SUCCEED<br>IN SCHOOL</span>
     <a href="http://www.benefits.va.gov/vocrehab/edu_voc_counseling.asp" target="_blank">
@@ -75,18 +75,20 @@ layout: va
   </div>
 </div>
 
-<div class="heading solid orange"><h3>GI Bill<sup>&reg;</sup> Comparison Tool Beta</h3></div>
-
-<div class="left-sidebar">
-  <h2>Calculate your benefits and research approved programs.</h2>
+<div class="main heading">
+  <h3><abbr>GI</abbr> Bill<sup>&reg;</sup> Comparison Tool <span>Beta</span></h3>
+  <p class="intro">Calculate your benefits and research approved programs.</p>
 </div>
+
+
+
 
 <!-- Accessibility documentation for filling out form -->
 <div class="hidden">
   <p>Answer just a few questions about yourself and the school/employer you are considering and you’ll receive an estimate of your GI Bill benefits and some information about the facility’s value and affordability. The only required field for the comparison tool to work is the school/employer name. For more information about how the tool works, visit <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp" target="_blank">this link</a>. For more information about accessibility features visit <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accessibility" target="_blank">this link.</a></p>
 </div>
 
-<div class="right-content">
+<div class="main-content">
 
   <!-- ================================================== -->
   <!--                 Eligibility Section                -->
@@ -97,7 +99,7 @@ layout: va
   <!-- Cumulative Post 9-11 Active Duty Service -->
   <div class="form-group">
     <label for="cumulative-service">Cumulative Post 9-11 Active Duty Service:</label>
-    
+
     <select id="cumulative-service" name="Cumulative Post 9-11 Active Duty Service" alt="Select amount of cumulative Post 9-11 Active Duty Service">
       <option value="1.0">36+ months: 100% (includes BASIC)</option>
       <option value="0.9">30 months: 90% (includes BASIC)</option>
@@ -110,14 +112,14 @@ layout: va
       <option value="1.0">GYSGT Fry Scholarship: 100%</option>
       <option value="service discharge">Service-Connected Discharge: 100%</option>
     </select>
-    
+
     <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#cumulativeservice" target="_blank"><img class="info" src="img/info.jpg" alt="Click here for more information about cumulative service." title="Click here for more information about cumulative service."></a>
   </div>
 
   <!-- Military Status -->
   <div class="form-group">
     <label for="military-status">Military Status:</label>
-    
+
     <select id="military-status" name="Military Status" alt="Select military status">
       <option value="veteran">Veteran</option>
       <option value="active duty">Active Duty</option>
@@ -125,19 +127,19 @@ layout: va
       <option value="spouse">Spouse</option>
       <option value="child">Child</option>
     </select>
-    
+
     <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#militarystatus" target="_blank"><img class="info" src="img/info.jpg" alt="Click here for more information." title="Click here for more information."></a>
   </div>
 
   <!-- Spouse on Active Duty -->
   <div id="spouse-active-duty-form" class="form-group">
     <span class="question">Is your husband or wife on active duty?</span>
-      
-    <label class="radio" for="spouse-active-duty-yes">Yes</label>
-    <input id="spouse-active-duty-yes" name="Spouse Active Duty" type="radio" value="yes">
-    
-    <label class="radio" for="spouse-active-duty-no">No</label>
-    <input id="spouse-active-duty-no" name="Spouse Active Duty" type="radio" value="no" checked>
+
+    <label class="inline" for="spouse-active-duty-yes">Yes</label>
+    <input id="spouse-active-duty-yes" class="inline" name="Spouse Active Duty" type="radio" value="yes">
+
+    <label class="inline" for="spouse-active-duty-no">No</label>
+    <input id="spouse-active-duty-no" class="inline" name="Spouse Active Duty" type="radio" value="no" checked>
   </div>
 
   <div class="clear"></div>
@@ -145,15 +147,15 @@ layout: va
   <!-- ================================================== -->
   <!--       School / Employer Information Section        -->
   <!-- ================================================== -->
-  
+
   <div class="heading solid navy"><h3>School / Employer Information</h3></div>
-  
+
   <div class="form-group-label">
-    <p>Filter results by:</p><br>
+    <p>Filter results by:</p>
   </div>
-  
+
   <div class="clear"></div>
-  
+
   <div class="form-group">
     <label for="filter-country">Country:</label>
     <select id="filter-country" name="" alt="">
@@ -162,9 +164,9 @@ layout: va
       <option value="INT">International</option>
     </select>
   </div>
-  
+
   <div class="clear"></div>
-  
+
   <div class="form-group">
     <label for="filter-state">State:</label>
     <select id="filter-state" name="" alt="">
@@ -222,7 +224,7 @@ layout: va
       <option value="WY">Wyoming</option>
     </select>
   </div>
-    
+
   <div class="form-group">
     <label for="filter-institution-type">Institution Type:</label>
     <select id="filter-institution-type" name="" alt="">
@@ -234,7 +236,7 @@ layout: va
       <option value="foreign">Foreign</option>
     </select>
   </div>
-  
+
   <div class="form-group">
     <div class="ui-widget">
       <label class="institution-search-label" for="institution-search">Enter a school or employer name to search:</label>
@@ -244,12 +246,13 @@ layout: va
 
   <div id="online-classes" class="form-group">
     <span class="question">Taking all online classes?</span>
-    
-    <label class="radio" for="online-yes">Yes</label>
-    <input id="online-yes" name="Online Courses" type="radio" value="yes">
-    
-    <label class="radio" for="online-no">No</label>
-    <input id="online-no" name="Online Courses" type="radio" value="no" checked>
+
+    <input id="online-yes" class="inline" name="Online Courses" type="radio" value="yes">
+    <label class="inline" for="online-yes">Yes</label>
+
+    <input id="online-no" class="inline" name="Online Courses" type="radio" value="no" checked>
+    <label class="inline" for="online-no">No</label>
+
   </div>
 
   <div class="clear"></div>
@@ -259,9 +262,9 @@ layout: va
   <!-- ================================================== -->
 
   <div id="benefit-estimator">
-    
+
     <div class="heading solid navy table"><h3>Benefit Estimator</h3></div>
-    
+
     <table class="dark-background inactive">
       <tbody>
         <tr><td colspan="2"></td></tr>
@@ -292,7 +295,7 @@ layout: va
         <tr><td colspan="2"></td></tr>
       </tbody>
     </table>
-    
+
   </div>
 
   <!-- ================================================== -->
@@ -300,9 +303,9 @@ layout: va
   <!-- ================================================== -->
 
   <div id="veteran-indicators">
-    
+
     <div class="heading solid navy table"><h3>Veteran Indicators<span class="source"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#sourcedata" target="_blank" alt="Click here for more information." title="Click here for more information.">Source</a></span></h3></div>
-    
+
     <table class="dark-background">
       <tbody>
         <tr><td colspan="2"></td></tr>
@@ -341,14 +344,14 @@ layout: va
   <!-- ================================================== -->
 
   <div id="school-indicators">
-    
+
     <div class="heading solid navy table"><h3>School Indicators, Non-Veteran Specific<span class="source"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#sourcedata" target="_blank" alt="Click here for more information." title="Click here for more information.">Source</a></span></h3></div>
-    
+
     <table>
       <tbody>
         <tr>
           <td>
-          
+
             <div class="box">
               <div class="description">
                 <h2>Graduation Rates<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#gradrate" target="_blank"><img class="info" src="img/info.jpg" alt="Click here for more information about graduation rates." title="Click here for more information about graduation rates."></a></h2>
@@ -378,16 +381,16 @@ layout: va
                 <div id="median-borrowing-chart"></div>
               </div>
             </div>
-            
+
             <div class="box">
               <div id="navigator-link"></div>
             </div>
-            
+
           </td>
         </tr>
       </tbody>
     </table>
-    
+
   </div>
 
   <!-- ================================================== -->

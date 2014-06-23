@@ -21,6 +21,11 @@ sup {
 
 /* Comparison Tool base styles */
 
+.comparison .main-form {
+  margin: 0 auto;
+  width: 80%;
+}
+
 .comparison a {
   text-decoration: none;
   color: #0B6CB2;
@@ -157,12 +162,36 @@ Use with for example: <div class="icon explore"></div>
 
 /* Main Content */
 
+.comparison .main.heading {
+  color: #444;
+  padding: .5em .75em;
+  background: #eee;
+  margin-bottom: 1em;
+  font-weight: normal;
+}
+
+.comparison .main.heading p {
+  color: #444;
+}
+
+.comparison .main.heading h3 {
+  color: #CF4019;
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.main.heading h3 span {
+  font-size: .75em;
+  display: inline-block;
+  vertical-align: top;
+  color: #888;
+  font-weight: normal;
+}
+
 .comparison .heading {
-  margin: 35px 0 25px 0;
+  margin: 1.5em 0 .2em 0;
   padding: 0;
   font-size: 16px;
-  border-bottom: 2px solid #003F72;
-  border-radius: 5px;
 }
 
 .comparison .heading h3 {
@@ -187,7 +216,6 @@ Use with for example: <div class="icon explore"></div>
 .comparison .heading.solid.navy {
   background: #003F72;
   margin-top: 10px;
-  font-style: italic;
 }
 
 .comparison .heading.solid.navy a {
@@ -209,10 +237,13 @@ Use with for example: <div class="icon explore"></div>
 
 .comparison .heading span.source {
   float: right;
+  font-size: .8em;
+  font-weight: normal;
+  color: #fff;
+  color: rgba(255,255,255,.75);
 }
 
 .comparison .left-sidebar {
-  font-style: italic;
   width: 150px;
   float: left;
   text-align: right;
@@ -230,21 +261,24 @@ Use with for example: <div class="icon explore"></div>
 /* Forms */
 
 .comparison .form-group {
-  margin-right: 15px;
-  margin-bottom: 15px;
-  float: right;
+  padding: 1em 0 1.25em 0;
 }
 
 .comparison .form-group label,
 .comparison .form-group span.question {
   margin-right: 10px;
-  float: left;
-  font-size: 16px;
   color: #444;
+  font-size: 1.35em;
+  padding: 0 0 .35em 0;
+  display: block;
+}
+
+.comparison .form-group label.inline {
+  display: inline;
 }
 
 .comparison .form-group input {
-  font-size: 16px;
+  font-size: 1.1em;
 }
 
 .comparison .form-group input[type="text"] {
@@ -252,8 +286,7 @@ Use with for example: <div class="icon explore"></div>
 }
 
 .comparison .form-group input[type="radio"] {
-  margin-right: 10px;
-  float: left;
+  display: inline-block;
   color: #444;
 }
 
@@ -272,7 +305,9 @@ Use with for example: <div class="icon explore"></div>
 }
 
 .comparison .form-group #institution-search {
-  width: 600px;
+  width: 80%;
+  font-size: 1.2em;
+  padding: .75em;
 }
 
 .comparison .form-group .institution-search-label {
@@ -280,8 +315,7 @@ Use with for example: <div class="icon explore"></div>
 }
 
 .comparison .form-group-label {
-  float: right;
-  padding-right: 320px;
+  display: block;
 }
 
 /* Tables */
@@ -306,7 +340,7 @@ Use with for example: <div class="icon explore"></div>
   padding: 5px 25px;
   width: 50%;
   text-transform: none;
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: #fff;
   background: none;
 }
@@ -318,6 +352,11 @@ Use with for example: <div class="icon explore"></div>
 .comparison table td {
   padding: 5px 25px;
   color: #fff;
+}
+
+abbr {
+  text-decoration: none;
+  border-bottom: none;
 }
 
 /* Benefit Estimator */
@@ -346,7 +385,6 @@ Use with for example: <div class="icon explore"></div>
 }
 .comparison #benefit-estimator td#type {
   padding-left: 100px;
-  font-style: italic;
 }
 
 .comparison #benefit-estimator table.inactive {
