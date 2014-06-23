@@ -75,6 +75,8 @@ layout: va
   </div>
 </div>
 
+<div class="tool">
+
 <div class="main heading">
   <h3><abbr>GI</abbr> Bill<sup>&reg;</sup> Comparison Tool <span>Beta</span></h3>
   <p class="intro">Calculate your benefits and research approved programs.</p>
@@ -94,7 +96,7 @@ layout: va
   <!--                 Eligibility Section                -->
   <!-- ================================================== -->
 
-  <div class="heading solid navy"><h3>Eligibility</h3></div>
+  <div class="heading"><h3>1. Eligibility</h3></div>
 
   <!-- Cumulative Post 9-11 Active Duty Service -->
   <div class="form-group">
@@ -148,7 +150,9 @@ layout: va
   <!--       School / Employer Information Section        -->
   <!-- ================================================== -->
 
-  <div class="heading solid navy"><h3>School / Employer Information</h3></div>
+  <hr />
+
+  <div class="heading"><h3>2. School / Employer Information</h3></div>
 
   <div class="form-group-label">
     <p>Filter results by:</p>
@@ -237,31 +241,37 @@ layout: va
     </select>
   </div>
 
+<div id="online-classes" class="form-group">
+  <span class="question">Taking all online classes?</span>
+
+  <input id="online-yes" class="inline" name="Online Courses" type="radio" value="yes">
+  <label class="inline" for="online-yes">Yes</label>
+
+  <input id="online-no" class="inline" name="Online Courses" type="radio" value="no" checked>
+  <label class="inline" for="online-no">No</label>
+
+</div>
+
+<div class="clear"></div>
+
+
   <div class="form-group">
     <div class="ui-widget">
-      <label class="institution-search-label" for="institution-search">Enter a school or employer name to search:</label>
-      <input id="institution-search" placeholder="Search for a School or Employer" title="Enter school/employer name"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#schoolname" target="_blank"><img class="info" src="img/info.jpg" alt="Click here for more information about selecting a school/employer." title="Click here for more information about selecting a school/employer"></a>
+      <label class="" for="institution-search">Enter a school or employer name to search:</label>
+      <input id="institution-search" placeholder="Enter a school or employer name" title="Enter school/employer name"><a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#schoolname" target="_blank"><img class="info" src="img/info.jpg" alt="Click here for more information about selecting a school/employer." title="Click here for more information about selecting a school/employer"></a>
     </div>
   </div>
 
-  <div id="online-classes" class="form-group">
-    <span class="question">Taking all online classes?</span>
 
-    <input id="online-yes" class="inline" name="Online Courses" type="radio" value="yes">
-    <label class="inline" for="online-yes">Yes</label>
-
-    <input id="online-no" class="inline" name="Online Courses" type="radio" value="no" checked>
-    <label class="inline" for="online-no">No</label>
-
-  </div>
-
-  <div class="clear"></div>
 
   <!-- ================================================== -->
   <!--                  Benefit Estimator                 -->
   <!-- ================================================== -->
 
   <div id="benefit-estimator">
+
+
+
 
     <div class="heading solid navy table"><h3>Benefit Estimator</h3></div>
 
@@ -402,5 +412,7 @@ layout: va
     <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#feedback" target="_blank">Feedback</a>
     <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accessibility" target="_blank">Accessibility</a>
   </div>
+
+</div>
 
 </div>

@@ -51,6 +51,11 @@ sup {
   font-size: 22px;
 }
 
+.intro p {
+  color: #555;
+  color: rgba(0,0,0,.75);
+}
+
 .comparison p {
   padding: 0;
   font-size: 16px;
@@ -162,11 +167,25 @@ Use with for example: <div class="icon explore"></div>
 
 /* Main Content */
 
+.comparison .tool {
+  -webkit-box-shadow: 0 0 4px rgba(0,0,0,.1);
+  background: rgba(0,0,0,.04);
+  padding: .15em 1em 1em 1em;
+  margin: 2em auto;
+  border-top: 5px solid #CF4019;
+}
+
+.comparison hr {
+  border-bottom: 2px solid #fff;
+  height: 3px;
+  background: #fff;
+}
+
 .comparison .main.heading {
   color: #444;
-  padding: .5em .75em;
-  background: #eee;
+  padding: .5em 0;
   margin-bottom: 1em;
+  border-
   font-weight: normal;
 }
 
@@ -177,11 +196,13 @@ Use with for example: <div class="icon explore"></div>
 .comparison .main.heading h3 {
   color: #CF4019;
   font-weight: bold;
-  font-size: 1.8em;
+  font-size: 2em;
+  margin: 0;
+  padding: 0 0 .25em 0;
 }
 
-.main.heading h3 span {
-  font-size: .75em;
+.comparison .main.heading h3 span {
+  font-size: .5em;
   display: inline-block;
   vertical-align: top;
   color: #888;
@@ -189,13 +210,14 @@ Use with for example: <div class="icon explore"></div>
 }
 
 .comparison .heading {
-  margin: 1.5em 0 .2em 0;
+  margin: .5em 0 .2em 0;
   padding: 0;
   font-size: 16px;
 }
 
 .comparison .heading h3 {
   margin: 0;
+  font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -294,7 +316,7 @@ Use with for example: <div class="icon explore"></div>
   position: relative;
   top: -4px;
   width: 275px;
-  font-size: 16px;
+  font-size: 1.3em;
   color: #444;
 }
 
@@ -305,7 +327,7 @@ Use with for example: <div class="icon explore"></div>
 }
 
 .comparison .form-group #institution-search {
-  width: 80%;
+  width: 85%;
   font-size: 1.2em;
   padding: .75em;
 }
