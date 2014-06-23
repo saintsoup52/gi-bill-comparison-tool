@@ -1,0 +1,119 @@
+<script src="js/federated-analytics.js"></script>
+<script src="js/jquery-ui-1.10.3.custom.min.js"></script>
+<script src="js/raphael-min.js"></script>
+<script src="js/gib-comparison-tool.js"></script>
+
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4455909-1']);
+  _gaq.push(['_trackPageview']);
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-46533988-2']);
+  _gaq.push(['_trackPageview']);
+
+</script>
+
+<script>
+  // Use JavaScript to set hover states
+  // instead of CSS for 508 reasons.
+  
+  $('#icon-explore').hover(
+    function () {
+      $('#icon-explore').attr('src', 'img/explore-hover.png');
+    },
+    function () {
+      $('#icon-explore').attr('src', 'img/explore-normal.png');
+    }
+  );
+  
+  // '#icon-compare' is permanently set to hover state here, no JS needed
+  
+  $('#icon-choose').hover(
+    function () {
+      $('#icon-choose').attr('src', 'img/choose-hover.png');
+    },
+    function () {
+      $('#icon-choose').attr('src', 'img/choose-normal.png');
+    }
+  );
+  
+  $('#icon-apply').hover(
+    function () {
+      $('#icon-apply').attr('src', 'img/apply-hover.png');
+    },
+    function () {
+      $('#icon-apply').attr('src', 'img/apply-normal.png');
+    }
+  );
+  
+  $('#icon-succeed').hover(
+    function () {
+      $('#icon-succeed').attr('src', 'img/succeed-hover.png');
+    },
+    function () {
+      $('#icon-succeed').attr('src', 'img/succeed-normal.png');
+    }
+  );
+  
+  $('#icon-employ').hover(
+    function () {
+      $('#icon-employ').attr('src', 'img/employ-hover.png');
+    },
+    function () {
+      $('#icon-employ').attr('src', 'img/employ-normal.png');
+    }
+  );
+</script>
+
+
+<script>
+  $('#nav-blog .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-blog');
+  });
+  
+  $('#nav-media-center .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-media-center');
+  });
+  
+  $('#nav-issues .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-issues');
+  });
+  
+  $('#nav-the-admin .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-the-admin');
+  });
+  
+  $('#nav-the-wh .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-the-wh');
+  });
+  
+  $('#nav-the-gov .topnav-dd-outer a').focus(function () {
+    selectNavItem('nav-the-gov');
+  });
+  
+  $('#topnav').hover(function () {
+    unselectNav();
+  });
+  
+  $(document).keyup(function(e) {
+    if (e.keyCode == 27) {
+      unselectNav();
+    }
+  });
+  
+  $('.topnav-dd-outer a').blur(function () {
+    unselectNav();
+  });
+  
+  function selectNavItem (id) {
+    $('#'+ id +' .topnav-dd-outer').css('left', 'auto');
+    $('li#'+ id +' a.first-level').addClass('nav-hover');
+  }
+  
+  function unselectNav () {
+    $('.topnav-dd-outer').css('left', '');
+    $('li a.first-level').removeClass('nav-hover');
+  }
+  
+</script>

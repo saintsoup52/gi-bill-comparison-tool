@@ -249,7 +249,7 @@ li#nav-the-gov a.first-level {width: 130px;}
 
 li#nav-home:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll 0px -34px transparent;}
 
-li#nav-blog:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll 0px -34px transparent;}
+li#nav-blog:hover a.first-level, .nav-hover {background: url("../images/homesprite.png") no-repeat scroll 0px -34px transparent;}
 
 li#nav-media-center:hover a.first-level {background: url("../images/homesprite.png") no-repeat scroll -65px -34px transparent;}
 
@@ -409,11 +409,17 @@ div.topnav-dd-inner {
     text-decoration: none;
 }
 
-:focus {
-    -moz-outline-style: none;
-}
 .current {
     background-color: #e5f5fc;
+}
+
+a:focus {
+    -moz-outline-style: none;
+    outline: 1px dashed #90F;
+}
+
+input:focus {
+    outline: 1px dashed #90F;
 }
 
 /* End Breadcrumbs */
@@ -783,7 +789,7 @@ background: -ms-linear-gradient(top,  #daf0f7 0%,#afdeed 100%); /* IE10+ */
 
 background: linear-gradient(top,  #daf0f7 0%,#afdeed 100%); /* W3C */
 
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#daf0f7', endColorstr='#afdeed',GradientType=0 ); /* IE6-8 */
+/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#daf0f7', endColorstr='#afdeed',GradientType=0 );*/ /* IE6-8 */
 
 }
 

@@ -1,57 +1,517 @@
+/*
+Main header text and background colors:
+  navy => #003F72
+  orange => #C30
+*/
 
-.comparison {}
+/* Overriding template base styles */
+
+h1, h2, h3 {
+  color: #003F72;
+}
+
+sup {
+  vertical-align: super;
+  font-size: 60%;
+}
+
+#tier4innerContent img {
+  padding: 0;
+}
+
+/* Comparison Tool base styles */
+
+.comparison .main-form {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.comparison a {
+  text-decoration: none;
+  color: #0B6CB2;
+}
+
+.comparison a:hover {
+  text-decoration: underline;
+  color: #990000;
+}
+
+.comparison .page-title {
+  font-size: 28px;
+  color: #C30;
+}
 
 .comparison h1 {
-  font-size: 25px;
   margin-bottom: 1em;
+  font-size: 25px;
+}
+
+.comparison h2 {
+  padding: 0;
+  font-size: 22px;
+}
+
+.intro p {
+  color: #555;
+  color: rgba(0,0,0,.75);
 }
 
 .comparison p {
-  color: #444;
-  font-size: 14px;
-}
-
-.comparison .heading {
-  margin: 1.5em 0;
-  padding: 5px;
-  font-size: 15px;
-  background: #0082c1;
-  color: #fff;
-}
-
-.comparison input[type="text"] {
-  font-size: 15px;
-}
-
-.comparison input[type="radio"] {}
-
-.comparison label.radio {
+  padding: 0;
   font-size: 16px;
-  margin-left: .5em;
-  margin-right: 1.5em;
   color: #444;
 }
 
-.comparison table {
-  font-size: 16px;
-}
-
-.comparison p.large {
-  font-size: 16px;
+.comparison img.info {
+  margin-left: 10px;
 }
 
 .comparison span.space {
   padding-right: 1em;
 }
 
-.comparison svg {
-  margin-bottom: 30px;
+.comparison .clear {
+  clear: both;
 }
 
+/* Make content hidden: webaim.org/techniques/css/invisiblecontent */
+.comparison .hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
 
+/* Timeline */
 
+.comparison .timeline {
+  width: 920px;
+  text-align: center;
+}
 
+.comparison .timeline hr {
+  position: relative;
+  top: 60px;
+  height: 10px;
+  background: #e6e6e6;
+}
 
+.comparison .timeline .box {
+  position: relative;
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: top;
+  width: 125px;
+}
 
+.comparison .timeline .box:last-child {
+  margin-right: 0;
+}
 
+.comparison .timeline .box span {
+  font-size: 12px;
+}
 
+.comparison .timeline .box a {
+  display: block;
+}
+
+.comparison .timeline .icon {
+  margin: 10px auto;
+}
+
+/*
+
+This isn't recommended by 508. Use proper <img> instead.
+Commenting out for now to keep around.
+
+Use with for example: <div class="icon explore"></div>
+
+.comparison .timeline .icon {
+  margin: 10px auto;
+  width: 36px;
+  height: 36px;
+}
+
+.comparison .timeline .icon:hover {
+  background-position: 36px 0;
+}
+
+.comparison .timeline .icon.explore {
+  background-image: url('../img/explore.png');
+}
+
+.comparison .timeline .icon.compare {
+  background-image: url('../img/compare.png');
+  background-position: 36px 0;
+}
+
+.comparison .timeline .icon.choose {
+  background-image: url('../img/choose.png');
+}
+
+.comparison .timeline .icon.apply {
+  background-image: url('../img/apply.png');
+}
+
+.comparison .timeline .icon.succeed {
+  background-image: url('../img/succeed.png');
+}
+
+.comparison .timeline .icon.employ {
+  background-image: url('../img/employ.png');
+}
+*/
+
+/* Main Content */
+
+.comparison .tool {
+  -webkit-box-shadow: 0 0 4px rgba(0,0,0,.1);
+  background: rgba(0,0,0,.04);
+  padding: .15em 1em 1em 1em;
+  margin: 2em auto;
+  border-top: 5px solid #CF4019;
+}
+
+.comparison hr {
+  border-bottom: 2px solid #fff;
+  height: 3px;
+  background: #fff;
+}
+
+.comparison .main.heading {
+  color: #444;
+  padding: .5em 0;
+  margin-bottom: 1em;
+  border-
+  font-weight: normal;
+}
+
+.comparison .main.heading p {
+  color: #444;
+}
+
+.comparison .main.heading h3 {
+  color: #CF4019;
+  font-weight: bold;
+  font-size: 2em;
+  margin: 0;
+  padding: 0 0 .25em 0;
+}
+
+.comparison .main.heading h3 span {
+  font-size: .5em;
+  display: inline-block;
+  vertical-align: top;
+  color: #888;
+  font-weight: normal;
+}
+
+.comparison .heading {
+  margin: .5em 0 .2em 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+.comparison .heading h3 {
+  margin: 0;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.comparison .heading.solid {
+  padding: 0 10px;
+  border: none;
+}
+
+.comparison .heading.solid h3 {
+  padding: 0;
+  color: #fff;
+}
+
+.comparison .heading.solid.orange {
+  background: #C30;
+}
+
+.comparison .heading.solid.navy {
+  background: #003F72;
+  margin-top: 10px;
+}
+
+.comparison .heading.solid.navy a {
+  text-decoration: underline;
+  color: #fff;
+}
+
+.comparison .heading.solid.navy a:focus {
+  outline: 1px dashed #fff;
+}
+
+.comparison .heading.solid.navy.table {
+  background: #003F72;
+  margin-top: 10px;
+  margin-bottom: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.comparison .heading span.source {
+  float: right;
+  font-size: .8em;
+  font-weight: normal;
+  color: #fff;
+  color: rgba(255,255,255,.75);
+}
+
+.comparison .left-sidebar {
+  width: 150px;
+  float: left;
+  text-align: right;
+  position: absolute;
+}
+
+.comparison .left-sidebar h2 {
+  margin: 0;
+}
+
+.comparison .right-content {
+  margin-left: 175px;
+}
+
+/* Forms */
+
+.comparison .form-group {
+  padding: 1em 0 1.25em 0;
+}
+
+.comparison .form-group label,
+.comparison .form-group span.question {
+  margin-right: 10px;
+  color: #444;
+  font-size: 1.35em;
+  padding: 0 0 .35em 0;
+  display: block;
+}
+
+.comparison .form-group label.inline {
+  display: inline;
+}
+
+.comparison .form-group input {
+  font-size: 1.1em;
+}
+
+.comparison .form-group input[type="text"] {
+  color: #444;
+}
+
+.comparison .form-group input[type="radio"] {
+  display: inline-block;
+  color: #444;
+}
+
+.comparison .form-group select {
+  position: relative;
+  top: -4px;
+  width: 275px;
+  font-size: 1.3em;
+  color: #444;
+}
+
+.comparison .form-group button {
+  margin-right: 5px;
+  padding: 2px 10px;
+  font-size: 16px;
+}
+
+.comparison .form-group #institution-search {
+  width: 85%;
+  font-size: 1.2em;
+  padding: .75em;
+}
+
+.comparison .form-group .institution-search-label {
+  display: none;
+}
+
+.comparison .form-group-label {
+  display: block;
+}
+
+/* Tables */
+
+.comparison table {
+  width: 100%;
+  font-size: 18px;
+  background: #003F72;
+}
+
+.comparison table.dark-background a {
+  text-decoration: underline;
+  color: #fff;
+}
+
+.comparison table.dark-background a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+.comparison table th {
+  padding: 5px 25px;
+  width: 50%;
+  text-transform: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  background: none;
+}
+
+.comparison table th.normal {
+  font-weight: normal;
+}
+
+.comparison table td {
+  padding: 5px 25px;
+  color: #fff;
+}
+
+abbr {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+/* Benefit Estimator */
+
+.comparison #benefit-estimator {}
+
+.comparison #benefit-estimator a:focus {
+  outline: 1px dashed #fff;
+}
+
+.comparison #benefit-estimator table {
+  background: #249120 url('../img/dollar_sign.png') 3.5% 50% no-repeat;
+}
+
+.comparison #benefit-estimator table th {
+  padding-left: 100px;
+}
+
+.comparison #benefit-estimator td#institution {
+  padding-left: 100px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.comparison #benefit-estimator td#location {
+  padding-left: 100px;
+}
+.comparison #benefit-estimator td#type {
+  padding-left: 100px;
+}
+
+.comparison #benefit-estimator table.inactive {
+  background: #808080 url('../img/dollar_sign.png') 3.5% 50% no-repeat;
+}
+.comparison #benefit-estimator table.inactive td#institution,
+.comparison #benefit-estimator table.inactive td#location,
+.comparison #benefit-estimator table.inactive td#type {
+  display: none;
+}
+
+.comparison #benefit-estimator #voc-rehab {
+  font-style: normal;
+}
+
+/* Veteran Indicators */
+
+.comparison #veteran-indicators {}
+
+.comparison #veteran-indicators a:focus {
+  outline: 1px dashed #fff;
+}
+
+.comparison #veteran-indicators table {
+  background: #43798D url('../img/medal.jpg') 90% 50% no-repeat;
+}
+
+.comparison #veteran-indicators table th {
+  padding-left: 100px;
+}
+
+.comparison #veteran-indicators img.yellow-ribbon {
+  width: 20px;
+  height: 20px;
+}
+
+/* School Indicators */
+
+.comparison #school-indicators {
+  margin: 20px 0;
+}
+
+.comparison #school-indicators table {
+  background: none;
+  border: 2px solid #003F72;
+}
+.comparison #school-indicators table thead {
+  background: #003F72;
+}
+
+.comparison #school-indicators table td {
+  padding: 0;
+}
+
+.comparison #school-indicators .box {
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.comparison #school-indicators .box > div {
+  display: inline-block;
+  vertical-align: middle;
+  width: 325px;
+}
+
+.comparison #school-indicators .box .description {
+  text-align: left;
+}
+
+/* About this School */
+
+.comparison .about-this-tool {
+  font-size: 16px;
+  text-align: center;
+}
+
+.comparison .about-this-tool a {
+  margin-right: 50px;
+}
+
+.comparison .about-this-tool a:last-child {
+  margin-right: 0;
+}
+
+/* School/employer search (jQuery UI) */
+
+.ui-autocomplete {
+  overflow-x: hidden;
+  overflow-y: auto;
+  max-height: 200px;
+  background: #fff;
+  border: 2px solid #003F72;
+}
+
+.ui-autocomplete .ui-menu .ui-menu-item {
+  font-size: 14px;
+}
+
+.ui-menu-item a:hover {
+  color: inherit;
+}
+
+.ui-menu .ui-menu-item a.ui-state-focus,
+.ui-menu .ui-menu-item a.ui-state-active {
+  margin: 0;
+  background: #003F72;
+  color: #fff;
+}
